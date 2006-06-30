@@ -1,25 +1,25 @@
 {
   "law_id": "2127209",
-  "mst": "2200000116601",
+  "mst": "2200000116603",
   "law_name": "(폐지)대구교통공사  전기설비안전관리규정",
   "law_abbr": "",
   "law_type": "공단규정",
   "doc_target": "public",
   "doc_kind": "공공기관",
   "adm_uid": "public:2127209",
-  "promulgation_no": "188",
-  "promulgation_date": "20050509",
-  "enforcement_date": "20050509",
-  "revision_date": "20050509",
+  "promulgation_no": "254",
+  "promulgation_date": "20060630",
+  "enforcement_date": "20060630",
+  "revision_date": "20060630",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "대구교통공사",
     "담당자명": "이재섭",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "(폐지)대구교통공사  전기설비안전관리규정",
-    "발령일자": "20050509",
+    "발령일자": "20060630",
     "행정규칙종류": "공단규정",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,13 +27,13 @@
     "전화번호": "0536402727",
     "제개정구분명": "일부개정",
     "소관부처코드": "B554805",
-    "생성일자": "20230526",
+    "생성일자": "20240117",
     "행정규칙ID": "2127209",
     "담당부서기관코드": "",
-    "발령번호": "188",
-    "행정규칙일련번호": "2200000116601"
+    "발령번호": "254",
+    "행정규칙일련번호": "2200000116603"
   },
-  "amendment_text": "",
+  "amendment_text": "-",
   "revision_reason": "-",
   "body": {
     "format": "articles",
@@ -101,7 +101,28 @@
         "chapter_path": "제2장  안전관리 업무의 운용관리 체제",
         "content": "제6조(전기안전관리담당자의 배치)①전기안전관리담당자는 공급계약 수용장소별로 해당 현업기관에 둔다.②전기안전관리담당자를 지도할 수 있도록 「전기사업법시행규칙」에 의한 자격을 갖춘자, 자격증 소지자 중 상위직급에 있는 자를 사업소에 둘 수 있다. <개정 '05. 5. 9>③전기안전관리담당자의 현업 분소 배치 및 이동은 사업소장이 한다.④전기안전관리담당자로 배치된 자는 사업소장의 전기안전관리 업무에 관한 지휘감독을 받는다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제2항",
+            "link_text": "「전기사업법시행규칙」",
+            "line_text": "",
+            "target_law_name": "전기사업법시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2127209",
+            "target_url": "https://www.law.go.kr/법령/전기사업법시행규칙",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(폐지)대구교통공사전기설비안전관리규정#JO0006",
+            "reference_id": "law:전기사업법시행규칙#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "전기사업법/시행규칙/전기사업법시행규칙.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:(폐지)대구교통공사전기설비안전관리규정#JO0006"
       },
@@ -112,7 +133,28 @@
         "chapter_path": "제2장  안전관리 업무의 운용관리 체제",
         "content": "제7조(전기안전관리담당자의 임명)  ①전기안전관리담당자는 「전기사업법」 및 「동법 시행규칙」에 의한 자격을 갖춘자 중 책임자급의 직위에 있는 자를 우선 임명한다. <개정 '05. 5. 9>②각 현업기관에 배치할 전기안전관리담당자는 사장이 임명한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제1항",
+            "link_text": "동법 시행규칙",
+            "line_text": "",
+            "target_law_name": "전기사업법 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2127209",
+            "target_url": "https://www.law.go.kr/법령/전기사업법 시행규칙",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(폐지)대구교통공사전기설비안전관리규정#JO0007",
+            "reference_id": "law:전기사업법시행규칙#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "전기사업법/시행규칙/전기사업법 시행규칙.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:(폐지)대구교통공사전기설비안전관리규정#JO0007"
       },
@@ -145,7 +187,28 @@
         "chapter_path": "제2장  안전관리 업무의 운용관리 체제",
         "content": "제10조(전기안전관리담당자의 부재시 직무대행)  ①전기안전관리담당자가 유고시 또는 부득이한 사유로 인하여 부재시에 그 업무를 대행하는 자는 「전기사업법시행규칙」에 의한 자격을 갖춘 자 중에서 그 직무를 대행하게 할 수 있다. <개정 '05. 5. 9>②전기안전관리담당자의 직무를 대행하는 자는 그 직무를 성실히 수행하여야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제1항",
+            "link_text": "「전기사업법시행규칙」",
+            "line_text": "",
+            "target_law_name": "전기사업법시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2127209",
+            "target_url": "https://www.law.go.kr/법령/전기사업법시행규칙",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(폐지)대구교통공사전기설비안전관리규정#JO0010",
+            "reference_id": "law:전기사업법시행규칙#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "전기사업법/시행규칙/전기사업법시행규칙.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:(폐지)대구교통공사전기설비안전관리규정#JO0010"
       },
@@ -288,28 +351,53 @@
       "promulgation_date": "19960610",
       "promulgation_no": "00022",
       "content": "부칙 <제22호,1996.6.10>이 규정은 1996년 6월 10일부터 시행한다.",
-      "provision_id": "SchlPubRul:(폐지)대구교통공사전기설비안전관리규정#ADDENDUM"
+      "provision_id": "SchlPubRul:(폐지)대구교통공사전기설비안전관리규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000116603",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20060630"
     },
     {
       "promulgation_date": "20050509",
       "promulgation_no": "00188",
       "content": "부칙 <제188호,2005.5.9>이 규정은 2005년 5월 9일부터 시행한다.",
-      "provision_id": "SchlPubRul:(폐지)대구교통공사전기설비안전관리규정#ADDENDUM"
+      "provision_id": "SchlPubRul:(폐지)대구교통공사전기설비안전관리규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000116603",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20060630"
+    },
+    {
+      "promulgation_date": "20060630",
+      "promulgation_no": "00254",
+      "content": "부칙 <제254호,2006.6.30>이 규정은 2006년 6월 30일부터 폐지한다.",
+      "provision_id": "SchlPubRul:(폐지)대구교통공사전기설비안전관리규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000116603",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20060630"
     }
   ],
   "appendices": [],
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 3,
+    "by_category": {
+      "법령": 3
+    },
+    "by_relation_type": {
+      "citation": 3
+    },
     "articles_total": 22,
-    "articles_with_relations": 0,
+    "articles_with_relations": 3,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 2,
+    "addenda_count": 3,
     "appendices_count": 0,
     "attachments_count": 0
   },
@@ -320,5 +408,8 @@
   "addendum_provision_id": "SchlPubRul:(폐지)대구교통공사전기설비안전관리규정#ADDENDUM",
   "amendment_provision_id": "SchlPubRul:(폐지)대구교통공사전기설비안전관리규정#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "(폐지)대구교통공사  전기설비안전관리규정/(폐지)대구교통공사  전기설비안전관리규정.json"
 }
