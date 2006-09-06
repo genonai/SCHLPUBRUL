@@ -1,16 +1,16 @@
 {
   "law_id": "2126933",
-  "mst": "2200000114007",
+  "mst": "2200000114009",
   "law_name": "대구교통공사  회계규정",
   "law_abbr": "",
   "law_type": "공단규정",
   "doc_target": "public",
   "doc_kind": "공공기관",
   "adm_uid": "public:2126933",
-  "promulgation_no": "235",
-  "promulgation_date": "20060608",
-  "enforcement_date": "20060608",
-  "revision_date": "20060608",
+  "promulgation_no": "257",
+  "promulgation_date": "20060906",
+  "enforcement_date": "20060906",
+  "revision_date": "20060906",
   "revision_type": "일부개정",
   "is_current": false,
   "basic_info": {
@@ -19,7 +19,7 @@
     "담당자명": "이재섭",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "대구교통공사  회계규정",
-    "발령일자": "20060608",
+    "발령일자": "20060906",
     "행정규칙종류": "공단규정",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -30,14 +30,14 @@
     "생성일자": "20230525",
     "행정규칙ID": "2126933",
     "담당부서기관코드": "",
-    "발령번호": "235",
-    "행정규칙일련번호": "2200000114007"
+    "발령번호": "257",
+    "행정규칙일련번호": "2200000114009"
   },
   "amendment_text": "",
   "revision_reason": "-",
   "body": {
     "format": "articles",
-    "article_count": 60,
+    "article_count": 61,
     "articles": [
       {
         "article_no": "제1조",
@@ -491,11 +491,22 @@
         "provision_id": "SchlPubRul:대구교통공사회계규정#JO0041"
       },
       {
+        "article_no": "제41조의2",
+        "article_title": "예산의 목적외 사용금지와 예산이체",
+        "chapter": "제1절  예   산",
+        "chapter_path": "제3장  예산 및 결산 > 제1절  예   산",
+        "content": "제41조의2(예산의 목적외 사용금지와 예산이체)  ①사장은 예산에 정한 목적외에 경비를 사용하거나 예산이 정한 각 관·항 사이에 상호 이용할 수 없다. 다만, 예산집행 상의 필요에 의하여 미리 이사회의 의결을 얻은 때에는 이용할 수 있다.②사장은 직제규정의 제정·개정 또는 폐지로 인하여 그 직무와 권한에 변동이 있을 때에는 예산을 상호 이체할 수 있다.[본조신설 ’06. 9. 6]",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "SchlPubRul:대구교통공사회계규정#JO0041_02"
+      },
+      {
         "article_no": "제42조",
         "article_title": "예산의 전용",
         "chapter": "제1절  예   산",
         "chapter_path": "제3장  예산 및 결산 > 제1절  예   산",
-        "content": "제42조(예산의 전용)사장은 예산집행상 불가피하다고 인정하는 경우에는 추정손익계산서의 각 세항 및 목간 금액을 전용할 수 있다. 다만, 예산총칙으로 특별히 정한 비목은 이사회의 의결이 없이는 전용할 수 없다. <개정 ’99. 11. 3>",
+        "content": "제42조(예산의 전용)사장은 예산집행상 불가피하다고 인정하는 경우에는 예산의 각 세항 및 목간 금액을 전용할 수 있다. 다만, 예산총칙으로 특별히 정한 비목은 이사회의 의결이 없이는 전용할 수 없다. <개정 ’99. 11. 3, ’06. 9. 6>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -731,6 +742,12 @@
       "promulgation_no": "00235",
       "content": "부칙 <제235호,2006.6.8>이 규정은 2006년  6월  9일부터 시행한다.",
       "provision_id": "SchlPubRul:대구교통공사회계규정#ADDENDUM"
+    },
+    {
+      "promulgation_date": "20060906",
+      "promulgation_no": "00257",
+      "content": "부칙 <제257호,2006.9.6>이 규정은 2006년  9월  6일부터 시행한다.",
+      "provision_id": "SchlPubRul:대구교통공사회계규정#ADDENDUM"
     }
   ],
   "appendices": [],
@@ -740,12 +757,12 @@
     "relations_total": 0,
     "by_category": {},
     "by_relation_type": {},
-    "articles_total": 60,
+    "articles_total": 61,
     "articles_with_relations": 0,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 5,
+    "addenda_count": 6,
     "appendices_count": 0,
     "attachments_count": 0
   },
