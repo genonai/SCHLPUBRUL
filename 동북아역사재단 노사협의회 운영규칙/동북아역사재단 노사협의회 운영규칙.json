@@ -222,7 +222,28 @@
         "chapter_path": "제4장 협의회의 임무",
         "content": "제17조(협의사항) ① 협의회는 다음 각 호의 사항을 협의함을 원칙으로 한다.1. 재단 업무성과 향상과 그에 따른 성과배분2. 근로자의 채용, 배치 및 교육훈련3. 노동쟁의의 예방4. 근로자의 고충처리5. 안전, 보건 기타 업무환경 개선과 근로자의 건강증진6. 인사, 노무관리의 제도 개선7. 재단 운영상의 사정으로 인한 인력의 배치전환, 재훈련, 해고 등 고용조건의 일반원칙8. 임금의 지불방법, 체계, 구조 등의 제도개선9. 근로자의 복지증진10. 기타 노사협조에 관한사항② 협의회는 제1항 각호의 사항에 대하여 제13조의 규정에 따라 의결할 수 있다.③ 협의회는 협의회에 부의된 안건 중 계속 보완 발전시킬 필요성이 있거나 전문적인 기술을 요하는 특정사항에 대하여는 협의회 결정으로 전문가에게 위탁할 수 있으며 이 경우 필요한 경비는 재단에서 부담해야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제17조",
+            "source_clause": "제17조제2항",
+            "link_text": "제13조",
+            "line_text": "",
+            "target_law_name": "동북아역사재단 노사협의회 운영규칙",
+            "target_article_no": "제13조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2133249",
+            "target_url": "https://www.law.go.kr/학칙공단/동북아역사재단 노사협의회 운영규칙/제13조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:동북아역사재단노사협의회운영규칙#JO0017",
+            "reference_id": "SchlPubRul:동북아역사재단노사협의회운영규칙#JO0013",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "동북아역사재단 노사협의회 운영규칙/동북아역사재단 노사협의회 운영규칙.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:동북아역사재단노사협의회운영규칙#JO0017"
       },
@@ -277,7 +298,28 @@
         "chapter_path": "제4장 협의회의 임무",
         "content": "제22조(임의중재기구 활용) ① 협의회는 다음 각 호의 1에 해당하는 경우에는 근로자위원 및 사용자위원의 합의에 의하여 협의회에 중재기구를 두어 해결하거나 노동위원회의 중재를 받을 수 있다.1. 제18조에 규정된 사항에 관하여 협의회가 의결하지 못한 경우2. 협의회에서 의결된 사항의 해석 또는 이행방법 등에 관하여 의견의 불일치가 있는 경우② 제1항의 규정에 의한 중재결정이 있는 때에는 협의회의 의결을 거친 것으로 보며 근로자와 사용자는 이에 따라야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제22조",
+            "source_clause": "제22조제1항",
+            "link_text": "제18조",
+            "line_text": "",
+            "target_law_name": "동북아역사재단 노사협의회 운영규칙",
+            "target_article_no": "제18조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2133249",
+            "target_url": "https://www.law.go.kr/학칙공단/동북아역사재단 노사협의회 운영규칙/제18조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:동북아역사재단노사협의회운영규칙#JO0022",
+            "reference_id": "SchlPubRul:동북아역사재단노사협의회운영규칙#JO0018",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "동북아역사재단 노사협의회 운영규칙/동북아역사재단 노사협의회 운영규칙.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:동북아역사재단노사협의회운영규칙#JO0022"
       },
@@ -421,11 +463,15 @@
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 2,
+    "by_category": {
+      "학칙공단": 2
+    },
+    "by_relation_type": {
+      "internal_ref": 2
+    },
     "articles_total": 32,
-    "articles_with_relations": 0,
+    "articles_with_relations": 2,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
