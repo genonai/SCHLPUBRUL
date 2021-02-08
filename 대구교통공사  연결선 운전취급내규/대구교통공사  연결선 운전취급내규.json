@@ -1,39 +1,39 @@
 {
   "law_id": "2127011",
-  "mst": "2200000115241",
+  "mst": "2200000115243",
   "law_name": "대구교통공사  연결선 운전취급내규",
   "law_abbr": "",
   "law_type": "공단규정",
   "doc_target": "public",
   "doc_kind": "공공기관",
   "adm_uid": "public:2127011",
-  "promulgation_no": "465",
-  "promulgation_date": "20160211",
-  "enforcement_date": "20160211",
-  "revision_date": "20160211",
+  "promulgation_no": "619",
+  "promulgation_date": "20210208",
+  "enforcement_date": "20210208",
+  "revision_date": "20210208",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "대구교통공사",
-    "담당자명": "이재섭",
+    "담당자명": "최은희",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "대구교통공사  연결선 운전취급내규",
-    "발령일자": "20160211",
+    "발령일자": "20210208",
     "행정규칙종류": "공단규정",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
     "소관부처명": "대구교통공사",
-    "전화번호": "0536402727",
+    "전화번호": "0536400893",
     "제개정구분명": "일부개정",
     "소관부처코드": "B554805",
-    "생성일자": "20230525",
+    "생성일자": "20240117",
     "행정규칙ID": "2127011",
     "담당부서기관코드": "",
-    "발령번호": "465",
-    "행정규칙일련번호": "2200000115241"
+    "발령번호": "619",
+    "행정규칙일련번호": "2200000115243"
   },
-  "amendment_text": "",
+  "amendment_text": "-",
   "revision_reason": "-",
   "body": {
     "format": "articles",
@@ -132,9 +132,35 @@
         "article_title": "기관사 또는 철도장비운전자의 조치<개정 ’16. 2. 11>",
         "chapter": "",
         "chapter_path": "",
-        "content": "제9조(기관사 또는 철도장비운전자의 조치<개정 ’16. 2. 11>)  ①연결선을 운전하는 기관사 또는 철도장비운전자는 출발역에 일단 정차 후 운전관제로부터 운전취급 방법 등에 관한 사항을 확인하고 운전관제의 지시에 따라 역을 출발하여야 한다. <개정 ’09. 6. 25,  ’16. 2. 11>②연결선으로 진·출입할 때에는 진로개통표시기 진행신호 및 관련진로를 확인하여야 한다.③운전보안장치 고장 등으로 수신호에 의할 경우에는 진로개통표시기 외방에 일단 정차하여 진행수신호 및 관련 진로를 확인하고 진·출입하여야 한다.④연결선을 운전하는 기관사 또는 철도장비운전자의 운전취급방법은 별표의 절차에 의하여야 한다.",
+        "content": "제9조(기관사 또는 철도장비운전자의 조치<개정 ’16. 2. 11>)  ①연결선을 운전하는 기관사 또는 철도장비운전자는 출발역에 일단 정차 후 운전관제로부터 운전취급 방법 등에 관한 사항을 확인하고 운전관제의 지시에 따라 역을 출발하여야 한다. <개정 ’09. 6. 25,  ’16. 2. 11>②연결선으로 진·출입할 때에는 진로개통표시기 진행신호 및 관련진로를 확인하여야 한다.③운전보안장치 고장 등으로 수신호에 의할 경우에는 진로개통표시기 바깥쪽에 일단 정차하여 진행수신호 및 관련 진로를 확인하고 진·출입하여야 한다. <개정 ’21. 2. 8>④연결선을 운전하는 기관사 또는 철도장비운전자의 운전취급방법은 별표1의 절차에 의하여야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제9조",
+            "source_clause": "제9조제4항",
+            "link_text": "별표1",
+            "line_text": "",
+            "target_law_name": "대구교통공사 연결선 운전취급내규",
+            "target_article_no": "별표1",
+            "target_article_title": "기관사 또는 운전원 운전취급절차",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2127011",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000115243&bylNo=0001&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:대구교통공사연결선운전취급내규#JO0009",
+            "target_unit": "BYL0001",
+            "reference_id": "SchlPubRul:대구교통공사연결선운전취급내규#BYL0001",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "대구교통공사 연결선 운전취급내규/대구교통공사 연결선 운전취급내규.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:대구교통공사연결선운전취급내규#JO0009"
       },
@@ -178,34 +204,90 @@
       "promulgation_date": "20050627",
       "promulgation_no": "00181",
       "content": "부칙 <제181호,2005.6.27>이 내규는 2호선 영업시운전 개시일부터 시행한다.",
-      "provision_id": "SchlPubRul:대구교통공사연결선운전취급내규#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사연결선운전취급내규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000115243",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20210208"
     },
     {
       "promulgation_date": "20140919",
       "promulgation_no": "00410",
       "content": "부칙 <제410호,2014.9.19>이 내규는 2014년 9월 19일부터 시행한다.",
-      "provision_id": "SchlPubRul:대구교통공사연결선운전취급내규#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사연결선운전취급내규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000115243",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20210208"
     },
     {
       "promulgation_date": "20160211",
       "promulgation_no": "00465",
       "content": "부칙 <제465호,2016.2.11>이 내규는 2016년 2월 11일부터 시행한다.",
-      "provision_id": "SchlPubRul:대구교통공사연결선운전취급내규#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사연결선운전취급내규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000115243",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20210208"
+    },
+    {
+      "promulgation_date": "20210208",
+      "promulgation_no": "00619",
+      "content": "부칙 <제619호,2021.2.8>이 내규는 2021년 2월 8일부터 시행한다.",
+      "provision_id": "SchlPubRul:대구교통공사연결선운전취급내규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000115243",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20210208"
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "기관사 또는 운전원 운전취급절차",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000115243&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=137047745",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=137047745",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:대구교통공사연결선운전취급내규#BYL0001",
+      "filename": "별표1_기관사 또는 운전원 운전취급절차.hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표1_기관사 또는 운전원 운전취급절차.hwp",
+      "file_store_url": ""
+    }
+  ],
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 1,
+    "by_category": {
+      "학칙공단": 1
+    },
+    "by_relation_type": {
+      "appendix_ref": 1
+    },
     "articles_total": 12,
-    "articles_with_relations": 0,
+    "articles_with_relations": 1,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 3,
+    "addenda_count": 4,
     "appendices_count": 1,
     "attachments_count": 0
   },
@@ -216,5 +298,8 @@
   "addendum_provision_id": "SchlPubRul:대구교통공사연결선운전취급내규#ADDENDUM",
   "amendment_provision_id": "SchlPubRul:대구교통공사연결선운전취급내규#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "대구교통공사  연결선 운전취급내규/대구교통공사  연결선 운전취급내규.json"
 }
