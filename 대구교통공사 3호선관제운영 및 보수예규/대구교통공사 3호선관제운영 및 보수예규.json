@@ -1,16 +1,16 @@
 {
   "law_id": "2126997",
-  "mst": "2200000115595",
+  "mst": "2200000115597",
   "law_name": "대구교통공사 3호선관제운영 및 보수예규",
   "law_abbr": "",
   "law_type": "공단규정",
   "doc_target": "public",
   "doc_kind": "공공기관",
   "adm_uid": "public:2126997",
-  "promulgation_no": "59",
-  "promulgation_date": "20200121",
-  "enforcement_date": "20200121",
-  "revision_date": "20200121",
+  "promulgation_no": "68",
+  "promulgation_date": "20210728",
+  "enforcement_date": "20210728",
+  "revision_date": "20210728",
   "revision_type": "일부개정",
   "is_current": false,
   "basic_info": {
@@ -19,7 +19,7 @@
     "담당자명": "이재섭",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "대구교통공사 3호선관제운영 및 보수예규",
-    "발령일자": "20200121",
+    "발령일자": "20210728",
     "행정규칙종류": "공단규정",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,13 +27,13 @@
     "전화번호": "0536402727",
     "제개정구분명": "일부개정",
     "소관부처코드": "B554805",
-    "생성일자": "20240111",
+    "생성일자": "20231114",
     "행정규칙ID": "2126997",
     "담당부서기관코드": "",
-    "발령번호": "59",
-    "행정규칙일련번호": "2200000115595"
+    "발령번호": "68",
+    "행정규칙일련번호": "2200000115597"
   },
-  "amendment_text": "",
+  "amendment_text": "-",
   "revision_reason": "-",
   "body": {
     "format": "articles",
@@ -88,7 +88,7 @@
         "article_title": "관제실의 설치",
         "chapter": "제2장  관제업무",
         "chapter_path": "제2장  관제업무",
-        "content": "제5조(관제실의 설치) 관제실은 칠곡차량기지내에 설치하고 자동운전 관제에 필요한 TTC설비, 차량원격제어설비 및 각종 장비를 구비하여야 한다.",
+        "content": "제5조(관제실의 설치) 관제실은 경전철차량기지내에 설치하고 자동운전 관제에 필요한 TTC설비, 차량원격제어설비 및 각종 장비를 구비하여야 한다.<개정 ’21. 7. 28>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -478,6 +478,12 @@
       "promulgation_no": "00059",
       "content": "부칙 <제59호,2020.1.21>①(시행일) 이 예규는 2020년 1월 21일부터 시행한다.②(경과조치) 이 예규 시행일 이전에 시행된 제35조, 제36조, 제37조는‘3호선 전력관제설비 유지보수’업무 이관에 따른 사항으로 2018년 12월 24일부터 시행된 것으로 본다.",
       "provision_id": "SchlPubRul:대구교통공사3호선관제운영및보수예규#ADDENDUM"
+    },
+    {
+      "promulgation_date": "20210728",
+      "promulgation_no": "00068",
+      "content": "부칙 <제68호,2021.7.28>이 예규는 2021년 7월 28일부터 시행한다.",
+      "provision_id": "SchlPubRul:대구교통공사3호선관제운영및보수예규#ADDENDUM"
     }
   ],
   "appendices": [],
@@ -492,7 +498,7 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 5,
+    "addenda_count": 6,
     "appendices_count": 6,
     "attachments_count": 0
   },
