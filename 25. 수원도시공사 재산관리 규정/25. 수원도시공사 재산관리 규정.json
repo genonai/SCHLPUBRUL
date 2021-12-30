@@ -430,33 +430,7 @@
         "chapter_path": "제3장  사용허가 또는 대부",
         "content": "제21조(임차재산) 임차재산이 있을 때에는 분임재산관리관과 취급자는 임차재산대장(별지 제3호서식)을 비치하여야 한다.",
         "enforcement_date": "",
-        "relations": [
-          {
-            "relation_type": "appendix_ref",
-            "delegation_type": null,
-            "target_category": "학칙공단",
-            "source_article_no": "제21조",
-            "source_clause": "제21조",
-            "link_text": "별지 제3호서식",
-            "line_text": "",
-            "target_law_name": "25. 수원도시공사 재산관리 규정",
-            "target_article_no": "별지3",
-            "target_article_title": "임대차재산대장",
-            "appendix_no": "3",
-            "appendix_branch": "",
-            "appendix_kind": "별지",
-            "appendix_found": true,
-            "target_mst": "",
-            "source_admrul_seq": "2107817",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=152582955",
-            "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:25.수원도시공사재산관리규정#JO0021",
-            "target_unit": "BJ0003",
-            "reference_id": "SchlPubRul:25.수원도시공사재산관리규정#BJ0003",
-            "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "25. 수원도시공사 재산관리 규정/25. 수원도시공사 재산관리 규정.json"
-          }
-        ],
+        "relations": [],
         "images": [],
         "provision_id": "SchlPubRul:25.수원도시공사재산관리규정#JO0021"
       },
@@ -478,46 +452,7 @@
         "chapter_path": "제3장  사용허가 또는 대부",
         "content": "제23조(지방재정법 등의 준용) 이 규정에서 정하지 아니한 사항은 「지방재정법」과 「수원시 공유재산관리 조례」 및 공사의 물품관리·회계규정을 준용한다.",
         "enforcement_date": "",
-        "relations": [
-          {
-            "relation_type": "citation",
-            "delegation_type": null,
-            "target_category": "법령",
-            "source_article_no": "제23조",
-            "source_clause": "제23조",
-            "link_text": "「지방재정법」",
-            "line_text": "",
-            "target_law_name": "지방재정법",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "",
-            "source_admrul_seq": "2107817",
-            "target_url": "https://www.law.go.kr/법령/지방재정법",
-            "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:25.수원도시공사재산관리규정#JO0023",
-            "reference_id": "law:지방재정법#DOC",
-            "target_repo": "LAW",
-            "target_git_path_guess": "지방재정법/법률/지방재정법.json"
-          },
-          {
-            "relation_type": "citation",
-            "delegation_type": null,
-            "target_category": "자치법규",
-            "source_article_no": "제23조",
-            "source_clause": "제23조",
-            "link_text": "「수원시 공유재산관리 조례」",
-            "line_text": "",
-            "target_law_name": "수원시 공유재산관리 조례",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "",
-            "source_admrul_seq": "2107817",
-            "target_url": "https://www.law.go.kr/자치법규/수원시 공유재산관리 조례",
-            "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:25.수원도시공사재산관리규정#JO0023",
-            "reference_id": "ordin:수원시공유재산관리조례#DOC"
-          }
-        ],
+        "relations": [],
         "images": [],
         "provision_id": "SchlPubRul:25.수원도시공사재산관리규정#JO0023"
       }
@@ -877,19 +812,19 @@
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 10,
+    "relations_total": 7,
     "by_category": {
-      "법령": 2,
-      "자치법규": 2,
-      "학칙공단": 6
+      "법령": 1,
+      "자치법규": 1,
+      "학칙공단": 5
     },
     "by_relation_type": {
-      "citation": 4,
-      "appendix_ref": 5,
+      "citation": 2,
+      "appendix_ref": 4,
       "internal_ref": 1
     },
     "articles_total": 23,
-    "articles_with_relations": 8,
+    "articles_with_relations": 6,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
