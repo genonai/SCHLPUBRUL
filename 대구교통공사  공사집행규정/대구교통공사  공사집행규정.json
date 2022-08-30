@@ -617,7 +617,48 @@
         "chapter_path": "제4장 검사 및 정산",
         "content": "제22조(대가의 지급신청) ①계약자는 공사의 대가를 신청하기 위하여 기성부분 또는 전부에 대하여 검사를 받고자 할 때에는 기성부분검사원 또는 준공검사원을 감독자를 경유하여 사장에게 제출한다.②공사의 하자담보책임기간이 만료하여, 하자보수보증금을 청구하고자 할 때에도 또한 같다.③제2항에 의한 하자담보책임기간, 하자보수보증금, 하자검사는「지방자치단체를 당사자로 하는 계약에 관한 법률」 및 「동법 시행령」, 「동법 시행규칙」에 의한다. <개정 '14. 11. 14>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제22조",
+            "source_clause": "제22조제3항",
+            "link_text": "동법 시행령",
+            "line_text": "",
+            "target_law_name": "지방자치단체를 당사자로 하는 계약에 관한 법률 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2127079",
+            "target_url": "https://www.law.go.kr/법령/지방자치단체를 당사자로 하는 계약에 관한 법률 시행령",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:대구교통공사공사집행규정#JO0022",
+            "reference_id": "law:지방자치단체를당사자로하는계약에관한법률시행령#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "지방자치단체를 당사자로 하는 계약에 관한 법률/시행령/지방자치단체를 당사자로 하는 계약에 관한 법률 시행령.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제22조",
+            "source_clause": "제22조제3항",
+            "link_text": "동법 시행규칙",
+            "line_text": "",
+            "target_law_name": "지방자치단체를 당사자로 하는 계약에 관한 법률 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2127079",
+            "target_url": "https://www.law.go.kr/법령/지방자치단체를 당사자로 하는 계약에 관한 법률 시행규칙",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:대구교통공사공사집행규정#JO0022",
+            "reference_id": "law:지방자치단체를당사자로하는계약에관한법률시행규칙#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "지방자치단체를 당사자로 하는 계약에 관한 법률/시행규칙/지방자치단체를 당사자로 하는 계약에 관한 법률 시행규칙.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:대구교통공사공사집행규정#JO0022"
       },
@@ -838,16 +879,16 @@
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 16,
+    "relations_total": 18,
     "by_category": {
-      "법령": 13,
+      "법령": 15,
       "행정규칙": 3
     },
     "by_relation_type": {
-      "citation": 16
+      "citation": 18
     },
     "articles_total": 34,
-    "articles_with_relations": 9,
+    "articles_with_relations": 10,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
