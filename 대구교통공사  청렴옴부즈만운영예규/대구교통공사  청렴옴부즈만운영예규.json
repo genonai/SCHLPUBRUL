@@ -1,39 +1,39 @@
 {
   "law_id": "2126845",
-  "mst": "2200000113567",
+  "mst": "2200000113627",
   "law_name": "대구교통공사  청렴옴부즈만운영예규",
   "law_abbr": "",
   "law_type": "공단규정",
   "doc_target": "public",
   "doc_kind": "공공기관",
   "adm_uid": "public:2126845",
-  "promulgation_no": "27",
-  "promulgation_date": "20140228",
-  "enforcement_date": "20140228",
-  "revision_date": "20140228",
-  "revision_type": "일부개정",
-  "is_current": false,
+  "promulgation_no": "38",
+  "promulgation_date": "20220830",
+  "enforcement_date": "20220830",
+  "revision_date": "20220830",
+  "revision_type": "타법개정",
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "대구교통공사",
-    "담당자명": "이재섭",
+    "담당자명": "최은희",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "대구교통공사  청렴옴부즈만운영예규",
-    "발령일자": "20140228",
+    "발령일자": "20220830",
     "행정규칙종류": "공단규정",
-    "제개정구분코드": "200403",
+    "제개정구분코드": "200409",
     "조문형식여부": "Y",
     "소관부처명": "대구교통공사",
-    "전화번호": "0536402727",
-    "제개정구분명": "일부개정",
+    "전화번호": "0536400893",
+    "제개정구분명": "타법개정",
     "소관부처코드": "B554805",
-    "생성일자": "20230524",
+    "생성일자": "20240117",
     "행정규칙ID": "2126845",
     "담당부서기관코드": "",
-    "발령번호": "27",
-    "행정규칙일련번호": "2200000113567"
+    "발령번호": "38",
+    "행정규칙일련번호": "2200000113627"
   },
-  "amendment_text": "",
+  "amendment_text": "-",
   "revision_reason": "-",
   "body": {
     "format": "articles",
@@ -57,7 +57,33 @@
         "chapter_path": "",
         "content": "제2조(구성)  ① 청렴옴부즈만은 총 3인 이내로 구성한다.② 대구광역시에 2년 이상 거주 및 주민등록이 되어 있고 다음 각 호의 어느 하나에 해당하는 사람 중에서 사장이 위촉한다.1. 국가, 지자체에서 5급 이상 또는 공기업에서 2급 이상 재직한 사람으로서 청렴성이 높은 자2. 변호사, 공인회계사, 기술사 자격이 있는 자로서 3년 이상 경력자3. 건설공사 관련분야 또는 회계학, 법학, 행정학 관련 분야의 조교수 이상으로 3년 이상 경력자4. 기타 사회적 신망 및 청렴성이 높은 자사장이 청렴옴부즈만을 위촉할 때에는 별지 제1호 서식에 의한 위촉장을 수여한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제2항",
+            "link_text": "별지 제1호 서식",
+            "line_text": "",
+            "target_law_name": "대구교통공사 청렴옴부즈만운영예규",
+            "target_article_no": "별지1",
+            "target_article_title": "별지 제1호 서식 위촉장",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2126845",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=137041087",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:대구교통공사청렴옴부즈만운영예규#JO0002",
+            "target_unit": "BJ0001",
+            "reference_id": "SchlPubRul:대구교통공사청렴옴부즈만운영예규#BJ0001",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "대구교통공사 청렴옴부즈만운영예규/대구교통공사 청렴옴부즈만운영예규.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:대구교통공사청렴옴부즈만운영예규#JO0002"
       },
@@ -101,7 +127,33 @@
         "chapter_path": "",
         "content": "제6조(감사청구권)  ① 청렴옴부즈만은 다음 각 호의 어느 하나에 해당하는 경우 감사를 청구할 수 있다.1. 감사를 통해 공공의 이익을 확보할 수 있을 경우2. 공사 임직원의 조직적인 부정 또는 비위 행위로 별도의 감사 시행이 필요한 경우② 제1항의 규정에 의거, 감사를 청구할 때에는 별지 제2호 서식에 의한 감사 청구 요청서를 제출한다.③ 청렴옴부즈만의 감사 청구 요청이 있을 경우, 감사부서의 장은 감사수행의 타당성 및 적정성 등을 검토하고, 14일 이내 감사 시행 여부를 청렴옴부즈만에게 통보한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제2항",
+            "link_text": "별지 제2호 서식",
+            "line_text": "",
+            "target_law_name": "대구교통공사 청렴옴부즈만운영예규",
+            "target_article_no": "별지2",
+            "target_article_title": "별지 제2호 서식 감사청구 요청서",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2126845",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=137041091",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:대구교통공사청렴옴부즈만운영예규#JO0006",
+            "target_unit": "BJ0002",
+            "reference_id": "SchlPubRul:대구교통공사청렴옴부즈만운영예규#BJ0002",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "대구교통공사 청렴옴부즈만운영예규/대구교통공사 청렴옴부즈만운영예규.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:대구교통공사청렴옴부즈만운영예규#JO0006"
       },
@@ -112,7 +164,33 @@
         "chapter_path": "",
         "content": "제7조(공표요청권) ① 청렴옴부즈만은 다음 각 호의 어느 하나에 해당하는 경우 감사사항에 대해 공표를 요청할 수 있다.1. 감사사항 공표를 통해 공공의 이익을 확보할 수 있을 경우2. 타 공공기관으로의 감사사항 전파를 통해 공공분야 청렴도 향상에 도움이 될 수 있다고 판단되는 경우3. 공사 임직원의 조직적인 부정 또는 비위 행위② 제1항의 규정에 의거, 감사사항 공표를 요청할 때에는 별지 제2호 서식에 의한 감사공표 요청서를 제출한다.감사사항에 대한 공표 요청이 있을 경우, 감사부서의 장은 공표의 적정성 및 그에 따른 영향 등을 검토하고, 14일 이내 공표 여부를 청렴옴부즈만에게 통보한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제2항",
+            "link_text": "별지 제2호 서식",
+            "line_text": "",
+            "target_law_name": "대구교통공사 청렴옴부즈만운영예규",
+            "target_article_no": "별지2",
+            "target_article_title": "별지 제2호 서식 감사청구 요청서",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2126845",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=137041091",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:대구교통공사청렴옴부즈만운영예규#JO0007",
+            "target_unit": "BJ0002",
+            "reference_id": "SchlPubRul:대구교통공사청렴옴부즈만운영예규#BJ0002",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "대구교통공사 청렴옴부즈만운영예규/대구교통공사 청렴옴부즈만운영예규.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:대구교통공사청렴옴부즈만운영예규#JO0007"
       },
@@ -123,7 +201,33 @@
         "chapter_path": "",
         "content": "제8조(품위·비밀유지 의무) ① 청렴옴부즈만은 감사 직무를 수행할 때에는 품위를 유지하여야 한다.② 청렴옴부즈만은 직무수행 중에 알게 된 비밀을 누설하여서는 아니 되며, 최초 위촉 시 별지 제3호 서식의 서약서를 작성하여 사장에게 제출하여야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제2항",
+            "link_text": "별지 제3호 서식",
+            "line_text": "",
+            "target_law_name": "대구교통공사 청렴옴부즈만운영예규",
+            "target_article_no": "별지3",
+            "target_article_title": "별지 제3호 서식 서약서",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2126845",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=137041095",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:대구교통공사청렴옴부즈만운영예규#JO0008",
+            "target_unit": "BJ0003",
+            "reference_id": "SchlPubRul:대구교통공사청렴옴부즈만운영예규#BJ0003",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "대구교통공사 청렴옴부즈만운영예규/대구교통공사 청렴옴부즈만운영예규.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:대구교통공사청렴옴부즈만운영예규#JO0008"
       },
@@ -156,28 +260,129 @@
       "promulgation_date": "20121031",
       "promulgation_no": "00020",
       "content": "부칙 <제20호,2012.10.31>이 예규는 2012년 10월 31일부터 시행한다.",
-      "provision_id": "SchlPubRul:대구교통공사청렴옴부즈만운영예규#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사청렴옴부즈만운영예규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000113627",
+      "source_version_uid": "",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20220830"
     },
     {
       "promulgation_date": "20140228",
       "promulgation_no": "00027",
       "content": "부칙 <제27호,2014.2.28>이 예규는 2014년 2월 28일부터 시행한다.",
-      "provision_id": "SchlPubRul:대구교통공사청렴옴부즈만운영예규#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사청렴옴부즈만운영예규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000113627",
+      "source_version_uid": "",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20220830"
+    },
+    {
+      "promulgation_date": "20220830",
+      "promulgation_no": "00038",
+      "content": "부칙 <제38호,2022.8.30>(정관)제1조(시행일) 이 정관은  2022년 9월 1일부터 시행한다.제2조 <생략>제3조(다른 사규의 개정) ①이 정관 시행일 현재 공사의 모든 사규에서 사용하고 있는 사명 “대구도시철도공사”를 “대구교통공사”로 한다.",
+      "provision_id": "SchlPubRul:대구교통공사청렴옴부즈만운영예규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000113627",
+      "source_version_uid": "",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20220830"
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "별지 제1호 서식 위촉장",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=137041087",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=137041087",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:대구교통공사청렴옴부즈만운영예규#BJ0001",
+      "filename": "별지1_별지 제1호 서식 위촉장.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지1_별지 제1호 서식 위촉장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "별지 제2호 서식 감사청구 요청서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=137041091",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=137041091",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:대구교통공사청렴옴부즈만운영예규#BJ0002",
+      "filename": "별지2_별지 제2호 서식 감사청구 요청서.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지2_별지 제2호 서식 감사청구 요청서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "별지 제3호 서식 서약서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=137041095",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=137041095",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:대구교통공사청렴옴부즈만운영예규#BJ0003",
+      "filename": "별지3_별지 제3호 서식 서약서.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지3_별지 제3호 서식 서약서.hwp",
+      "file_store_url": ""
+    }
+  ],
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 4,
+    "by_category": {
+      "학칙공단": 4
+    },
+    "by_relation_type": {
+      "appendix_ref": 4
+    },
     "articles_total": 10,
-    "articles_with_relations": 0,
+    "articles_with_relations": 4,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 2,
+    "addenda_count": 3,
     "appendices_count": 3,
     "attachments_count": 0
   },
@@ -188,5 +393,8 @@
   "addendum_provision_id": "SchlPubRul:대구교통공사청렴옴부즈만운영예규#ADDENDUM",
   "amendment_provision_id": "SchlPubRul:대구교통공사청렴옴부즈만운영예규#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "대구교통공사  청렴옴부즈만운영예규/대구교통공사  청렴옴부즈만운영예규.json"
 }
