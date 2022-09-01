@@ -1,37 +1,37 @@
 {
   "law_id": "2126683",
-  "mst": "2200000112739",
+  "mst": "2200000137033",
   "law_name": "대구교통공사 경영평가 및 심사분석 내규",
   "law_abbr": "",
   "law_type": "공단규정",
   "doc_target": "public",
   "doc_kind": "공공기관",
   "adm_uid": "public:2126683",
-  "promulgation_no": "639",
-  "promulgation_date": "20211125",
-  "enforcement_date": "20211125",
-  "revision_date": "20211125",
-  "revision_type": "일부개정",
-  "is_current": false,
+  "promulgation_no": "38",
+  "promulgation_date": "20220830",
+  "enforcement_date": "20220901",
+  "revision_date": "20220830",
+  "revision_type": "타법개정",
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "대구교통공사",
-    "담당자명": "이재섭",
+    "담당자명": "최은희",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "대구교통공사 경영평가 및 심사분석 내규",
-    "발령일자": "20211125",
+    "발령일자": "20220830",
     "행정규칙종류": "공단규정",
-    "제개정구분코드": "200403",
+    "제개정구분코드": "200409",
     "조문형식여부": "Y",
     "소관부처명": "대구교통공사",
-    "전화번호": "0536402727",
-    "제개정구분명": "일부개정",
+    "전화번호": "0536400893",
+    "제개정구분명": "타법개정",
     "소관부처코드": "B554805",
-    "생성일자": "20230515",
+    "생성일자": "20241127",
     "행정규칙ID": "2126683",
     "담당부서기관코드": "",
-    "발령번호": "639",
-    "행정규칙일련번호": "2200000112739"
+    "발령번호": "38",
+    "행정규칙일련번호": "2200000137033"
   },
   "amendment_text": "-",
   "revision_reason": "-",
@@ -44,7 +44,7 @@
         "article_title": "목적",
         "chapter": "제1장  총   칙",
         "chapter_path": "제1장  총   칙",
-        "content": "제1조(목적)  이 내규는 대구도시철도공사(이하 “공사”라 한다)의 경영실적에 대한 경영평가와 심사분석의 시행절차와 방법 등을 규정함으로써 경영목적을 효율적으로 달성하는데 기여함을 목적으로 한다. <개정 ‘08. 9. 25>",
+        "content": "제1조(목적)  이 내규는 대구교통공사(이하 “공사”라 한다)의 경영실적에 대한 경영평가와 심사분석의 시행절차와 방법 등을 규정함으로써 경영목적을 효율적으로 달성하는데 기여함을 목적으로 한다. <개정 ‘08. 9. 25, ’22. 8. 30>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -222,7 +222,28 @@
         "chapter_path": "제3장  심사분석",
         "content": "제16조(주관 및 집행)  ①심사분석의 주관부서 및 집행부서는 제5조의 규정을 준용한다.②주관부서의 장은 심사분석의 원활한 수행을 위하여 심사분석업무를 총괄하고, 종합심사분석 실시 및 부서별 심사분석을 통제한다.③집행부서의 장은 부서별 심사분석을 담당하고, 심사분석결과에 따른 개선사항과 시정요구사항을 조치한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제16조",
+            "source_clause": "제16조제1항",
+            "link_text": "제5조",
+            "line_text": "",
+            "target_law_name": "대구교통공사 경영평가 및 심사분석 내규",
+            "target_article_no": "제5조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2126683",
+            "target_url": "https://www.law.go.kr/학칙공단/대구교통공사 경영평가 및 심사분석 내규/제5조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:대구교통공사경영평가및심사분석내규#JO0016",
+            "reference_id": "SchlPubRul:대구교통공사경영평가및심사분석내규#JO0005",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "대구교통공사 경영평가 및 심사분석 내규/대구교통공사 경영평가 및 심사분석 내규.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:대구교통공사경영평가및심사분석내규#JO0016"
       },
@@ -255,7 +276,28 @@
         "chapter_path": "제3장  심사분석",
         "content": "제19조(종합심사분석)  ①종합심사분석은 반기별로 실시함을 원칙으로 하며, 하반기에는 연간 심사분석을 실시한다. 다만, 주요사업에 대해서는 분기별로 중간분석을 실시할 수 있다. <개정 ’17. 10. 31>②주관부서의 장은 제18조의 규정에 의하여 각 집행부서의 장이 제출한 심사분석 결과에 의거 종합보고서를 작성하여야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제19조",
+            "source_clause": "제19조제2항",
+            "link_text": "제18조",
+            "line_text": "",
+            "target_law_name": "대구교통공사 경영평가 및 심사분석 내규",
+            "target_article_no": "제18조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2126683",
+            "target_url": "https://www.law.go.kr/학칙공단/대구교통공사 경영평가 및 심사분석 내규/제18조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:대구교통공사경영평가및심사분석내규#JO0019",
+            "reference_id": "SchlPubRul:대구교통공사경영평가및심사분석내규#JO0018",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "대구교통공사 경영평가 및 심사분석 내규/대구교통공사 경영평가 및 심사분석 내규.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:대구교통공사경영평가및심사분석내규#JO0019"
       },
@@ -321,41 +363,76 @@
       "promulgation_date": "20000519",
       "promulgation_no": "00064",
       "content": "부칙 <제64호,2000.5.19>①(시행일)  이 내규는 2000년 5월 19일부터 시행한다.②(경과조치)  이 내규 시행이전에 실시한 심사평가는 이 내규에 의하여 시행된 것으로 본다.③(폐지내규)  이 내규의 시행과 동시에 대구광역시지하철공사심사평가내규(1996. 11. 23 내규 제34호)를 폐지한다.",
-      "provision_id": "SchlPubRul:대구교통공사경영평가및심사분석내규#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사경영평가및심사분석내규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000137033",
+      "source_version_uid": "",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20220901"
     },
     {
       "promulgation_date": "20080925",
       "promulgation_no": "00065",
       "content": "부칙 <제65호,2008.9.25><정관 제20호, ’08. 9. 25>①(시행일) 이 정관은 2008년 10월 1일부터 시행한다.②(포괄승계 사항의 경과조치) 이 정관 제정 당시에 지하철 운영에 관하여 공사에 포괄승계된 사항은 이 정관 시행에 의하여 도시철도 운영에 관하여 공사에 포괄승계된 것으로 본다.③(다른 사규의 개정) 이 정관 시행일 현재 공사의 모든 사규에서 사용하고 있는 사명 “대구광역시지하철공사”를 각각 “대구도시철도공사”로 하고, 용어 “지하철”을 각각 “도시철도”로 하며, 명칭 “행정자치부장관”을 각각 “행정안전부장관”으로 한다.",
-      "provision_id": "SchlPubRul:대구교통공사경영평가및심사분석내규#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사경영평가및심사분석내규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000137033",
+      "source_version_uid": "",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20220901"
     },
     {
       "promulgation_date": "20171031",
       "promulgation_no": "00527",
       "content": "부칙 <제527호,2017.10.31>이 내규는 2017년 11월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:대구교통공사경영평가및심사분석내규#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사경영평가및심사분석내규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000137033",
+      "source_version_uid": "",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20220901"
     },
     {
       "promulgation_date": "20211125",
       "promulgation_no": "00639",
       "content": "부칙 <제639호,2021.11.25>이 내규는 2021년 11월 25일부터 시행한다.",
-      "provision_id": "SchlPubRul:대구교통공사경영평가및심사분석내규#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사경영평가및심사분석내규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000137033",
+      "source_version_uid": "",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20220901"
+    },
+    {
+      "promulgation_date": "20220830",
+      "promulgation_no": "00038",
+      "content": "부칙 <제38호,2022.8.30>(정관)제1조(시행일) 이 정관은  2022년 9월 1일부터 시행한다.제2조 <생략>제3조(다른 사규의 개정) ①이 정관 시행일 현재 공사의 모든 사규에서 사용하고 있는 사명 “대구도시철도공사”를 “대구교통공사”로 한다.② <생략>",
+      "provision_id": "SchlPubRul:대구교통공사경영평가및심사분석내규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000137033",
+      "source_version_uid": "",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20220901"
     }
   ],
   "appendices": [],
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 2,
+    "by_category": {
+      "학칙공단": 2
+    },
+    "by_relation_type": {
+      "internal_ref": 2
+    },
     "articles_total": 25,
-    "articles_with_relations": 0,
+    "articles_with_relations": 2,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 4,
-    "appendices_count": 10,
+    "addenda_count": 5,
+    "appendices_count": 0,
     "attachments_count": 0
   },
   "source": {
@@ -365,5 +442,8 @@
   "addendum_provision_id": "SchlPubRul:대구교통공사경영평가및심사분석내규#ADDENDUM",
   "amendment_provision_id": "SchlPubRul:대구교통공사경영평가및심사분석내규#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "대구교통공사 경영평가 및 심사분석 내규/대구교통공사 경영평가 및 심사분석 내규.json"
 }
