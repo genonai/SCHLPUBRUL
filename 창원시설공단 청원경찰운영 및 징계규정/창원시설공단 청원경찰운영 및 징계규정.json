@@ -876,7 +876,33 @@
         "chapter_path": "제6장 징 계",
         "content": "제28조 (징계 양정 및 경감 기준) 청경의 징계 양정 기준은 별표 3와 같다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제28조",
+            "source_clause": "제28조",
+            "link_text": "별표 3",
+            "line_text": "",
+            "target_law_name": "창원시설공단 청원경찰운영 및 징계규정",
+            "target_article_no": "별표3",
+            "target_article_title": "청원경찰 징계 양정 기준",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2121535",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000108291&bylNo=0003&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:창원시설공단청원경찰운영및징계규정#JO0028",
+            "target_unit": "BYL0003",
+            "reference_id": "SchlPubRul:창원시설공단청원경찰운영및징계규정#BYL0003",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "창원시설공단 청원경찰운영 및 징계규정/창원시설공단 청원경찰운영 및 징계규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:창원시설공단청원경찰운영및징계규정#JO0028"
       }
@@ -1170,18 +1196,18 @@
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 26,
+    "relations_total": 27,
     "by_category": {
       "법령": 13,
-      "학칙공단": 13
+      "학칙공단": 14
     },
     "by_relation_type": {
       "citation": 13,
       "internal_ref": 12,
-      "appendix_ref": 1
+      "appendix_ref": 2
     },
     "articles_total": 28,
-    "articles_with_relations": 8,
+    "articles_with_relations": 9,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
