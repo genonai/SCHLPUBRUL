@@ -1,6 +1,6 @@
 {
   "law_id": "2114829",
-  "mst": "2200000090823",
+  "mst": "2200000138707",
   "law_name": "(한국고용노동교육원) 비상근무 규칙",
   "law_abbr": "",
   "law_type": "공단규정",
@@ -8,30 +8,30 @@
   "doc_kind": "공단정관",
   "adm_uid": "pi:2114829",
   "promulgation_no": "9999",
-  "promulgation_date": "20201204",
-  "enforcement_date": "20201204",
-  "revision_date": "20201204",
-  "revision_type": "제정",
-  "is_current": false,
+  "promulgation_date": "20221230",
+  "enforcement_date": "20221230",
+  "revision_date": "20221230",
+  "revision_type": "일부개정",
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
-    "담당부서기관명": "한국고용노동교육원 기획조정팀",
-    "담당자명": "이용연",
+    "현행여부": "Y",
+    "담당부서기관명": "한국고용노동교육원",
+    "담당자명": "",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "(한국고용노동교육원) 비상근무 규칙",
-    "발령일자": "20201204",
+    "발령일자": "20221230",
     "행정규칙종류": "공단규정",
-    "제개정구분코드": "200401",
+    "제개정구분코드": "200403",
     "조문형식여부": "Y",
     "소관부처명": "한국고용노동교육원",
     "전화번호": "031-760-7723",
-    "제개정구분명": "제정",
+    "제개정구분명": "일부개정",
     "소관부처코드": "B554364",
-    "생성일자": "20250107",
+    "생성일자": "20260309",
     "행정규칙ID": "2114829",
-    "담당부서기관코드": "",
+    "담당부서기관코드": "B554364",
     "발령번호": "9999",
-    "행정규칙일련번호": "2200000090823"
+    "행정규칙일련번호": "2200000138707"
   },
   "amendment_text": "",
   "revision_reason": "",
@@ -88,9 +88,35 @@
         "article_title": "비상근무 발령 및 해제",
         "chapter": "",
         "chapter_path": "",
-        "content": "제5조(비상근무 발령 및 해제) ① 원장은 고용노동부장관으로부터 비상근무 발령서가 도달되면 신속히 별지 제3호서식에 따라 직원에게 비상근무 발령을 통보하여야 하며, 그 통보를 받은 직원은 비상근무에 임하여야 한다. 해제의 경우에도 또한 같다.② 원장은 필요하다고 인정할 때에는 교육원 자체적으로 소속직원에 대하여 비상근무를 발령할 수 있다.",
+        "content": "제5조(비상근무 발령 및 해제) ① 원장은 고용노동부장관으로부터 비상근무 발령서가 도달되면 신속히 별지 제1호서식에 따라 직원에게 비상근무 발령을 통보하여야 하며, 그 통보를 받은 직원은 비상근무에 임하여야 한다. 해제의 경우에도 또한 같다.② 원장은 필요하다고 인정할 때에는 교육원 자체적으로 소속직원에 대하여 비상근무를 발령할 수 있다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제1항",
+            "link_text": "별지 제1호서식",
+            "line_text": "",
+            "target_law_name": "(한국고용노동교육원) 비상근무 규칙",
+            "target_article_no": "별지1",
+            "target_article_title": "비상근무발령시",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2114829",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162195557",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(한국고용노동교육원)비상근무규칙#JO0005",
+            "target_unit": "BJ0001",
+            "reference_id": "SchlPubRul:(한국고용노동교육원)비상근무규칙#BJ0001",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(한국고용노동교육원) 비상근무 규칙/(한국고용노동교육원) 비상근무 규칙.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:(한국고용노동교육원)비상근무규칙#JO0005"
       },
@@ -110,9 +136,35 @@
         "article_title": "비상소집",
         "chapter": "",
         "chapter_path": "",
-        "content": "제7조(비상소집) ① 통상근무시간이 아닌 때에 비상근무가 발령된 경우에는 비상근무 업무 담당자는 지체 없이 담당 부서장에게 보고하고 해당 직원들이 비상소집 되도록 연락하여야 한다.② 비상근무 업무담당 부서장은 별지 제4호서식에 의거 비상소집 결과를 원장에게 보고하여야 한다.",
+        "content": "제7조(비상소집) ① 통상근무시간이 아닌 때에 비상근무가 발령된 경우에는 비상근무 업무 담당자는 지체 없이 담당 부서장에게 보고하고 해당 직원들이 비상소집 되도록 연락하여야 한다.② 비상근무 업무담당 부서장은 별지 제2호 서식에 의거 비상소집 결과를 원장에게 보고하여야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제2항",
+            "link_text": "별지 제2호 서식",
+            "line_text": "",
+            "target_law_name": "(한국고용노동교육원) 비상근무 규칙",
+            "target_article_no": "별지2",
+            "target_article_title": "비상소집결과보고서",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2114829",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162195561",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(한국고용노동교육원)비상근무규칙#JO0007",
+            "target_unit": "BJ0002",
+            "reference_id": "SchlPubRul:(한국고용노동교육원)비상근무규칙#BJ0002",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(한국고용노동교육원) 비상근무 규칙/(한국고용노동교육원) 비상근무 규칙.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:(한국고용노동교육원)비상근무규칙#JO0007"
       },
@@ -134,22 +186,93 @@
       "promulgation_date": "20201204",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2020.12.04.>제1조(시행일) 이 규칙은 원장 결재일부터 시행한다.",
-      "provision_id": "SchlPubRul:(한국고용노동교육원)비상근무규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:(한국고용노동교육원)비상근무규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000138707",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20221230"
+    },
+    {
+      "promulgation_date": "20221230",
+      "promulgation_no": "9999",
+      "content": "부칙 <제9999호, 2022.12.30.>제1조(시행일) 이 규칙은 2022. 12. 30.부터 시행한다.",
+      "provision_id": "SchlPubRul:(한국고용노동교육원)비상근무규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000138707",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20221230"
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "비상근무발령시",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162195557",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162195557",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:(한국고용노동교육원)비상근무규칙#BJ0001",
+      "filename": "별지1_비상근무발령시.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지1_비상근무발령시.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "비상소집결과보고서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162195561",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162195561",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:(한국고용노동교육원)비상근무규칙#BJ0002",
+      "filename": "별지2_비상소집결과보고서.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지2_비상소집결과보고서.hwp",
+      "file_store_url": ""
+    }
+  ],
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 2,
+    "by_category": {
+      "학칙공단": 2
+    },
+    "by_relation_type": {
+      "appendix_ref": 2
+    },
     "articles_total": 8,
-    "articles_with_relations": 0,
+    "articles_with_relations": 2,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 1,
+    "addenda_count": 2,
     "appendices_count": 2,
     "attachments_count": 0
   },
@@ -160,5 +283,8 @@
   "addendum_provision_id": "SchlPubRul:(한국고용노동교육원)비상근무규칙#ADDENDUM",
   "amendment_provision_id": "SchlPubRul:(한국고용노동교육원)비상근무규칙#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "(한국고용노동교육원) 비상근무 규칙/(한국고용노동교육원) 비상근무 규칙.json"
 }
