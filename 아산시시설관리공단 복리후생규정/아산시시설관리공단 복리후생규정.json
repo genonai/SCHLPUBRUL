@@ -1,25 +1,25 @@
 {
   "law_id": "2140751",
-  "mst": "2200000155037",
+  "mst": "2200000155003",
   "law_name": "아산시시설관리공단 복리후생규정",
   "law_abbr": "",
   "law_type": "공단규정",
   "doc_target": "public",
   "doc_kind": "공공기관",
   "adm_uid": "public:2140751",
-  "promulgation_no": "209",
-  "promulgation_date": "20220325",
-  "enforcement_date": "20220325",
-  "revision_date": "20220325",
+  "promulgation_no": "244",
+  "promulgation_date": "20230125",
+  "enforcement_date": "20230125",
+  "revision_date": "20230125",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "아산시시설관리공단",
     "담당자명": "김연주",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "아산시시설관리공단 복리후생규정",
-    "발령일자": "20220325",
+    "발령일자": "20230125",
     "행정규칙종류": "공단규정",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -30,8 +30,8 @@
     "생성일자": "20260610",
     "행정규칙ID": "2140751",
     "담당부서기관코드": "",
-    "발령번호": "209",
-    "행정규칙일련번호": "2200000155037"
+    "발령번호": "244",
+    "행정규칙일련번호": "2200000155003"
   },
   "amendment_text": "",
   "revision_reason": "",
@@ -121,9 +121,55 @@
         "article_title": "후생비 지급",
         "chapter": "제3장 후생",
         "chapter_path": "제3장 후생",
-        "content": "제8조(후생비 지급) ① 임직원의 복리후생을 위하여 예산 범위 안에서 다음 각 호의 후생비를 지급할 수 있다.1. 직책급 업무수행경비 <신설 2017.11.10.>2. 급식보조비 <개정 2017.11.10.>3. 직급보조비 <개정 2017.11.10.>4. 효도휴가비 <신설 2017.11.10.>② 복리후생비의 지급기준은 별표 1과 같으며, 그 지급일은 매월 보수지급일로 한다.<개정 2021.10.27., 2022.3.25.>③ 징계 등에 의한 신분 변동 시 복리후생비의 지급은 공단 보수규정 제20조 및 연봉제 규정 제11조를 준용한다. <개정 2017.11.10.>",
+        "content": "제8조(후생비 지급) ① 임직원의 복리후생을 위하여 예산 범위 안에서 다음 각 호의 후생비를 지급할 수 있다.1. 직책급 업무수행경비 <신설 2017.11.10.>2. 급식보조비 <개정 2017.11.10.>3. 직급보조비 <개정 2017.11.10.>4. 효도휴가비 <신설 2017.11.10.>② 복리후생비의 지급기준은 별표 1과 같으며, 그 지급일은 매월 보수지급일로 한다.<개정 2021.10.27., 2022.3.25., 2023.1.25.>③ 징계 등에 의한 신분 변동 시 복리후생비의 지급은 공단 보수규정 제20조 및 연봉제 규정 제11조를 준용한다. <개정 2017.11.10.>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제2항",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "아산시시설관리공단 복리후생규정",
+            "target_article_no": "별표1",
+            "target_article_title": "[별표] 복리후생규정 9차개정(2023.1.25.)",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2140751",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000155003&bylNo=0001&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:아산시시설관리공단복리후생규정#JO0008",
+            "target_unit": "BYL0001",
+            "reference_id": "SchlPubRul:아산시시설관리공단복리후생규정#BYL0001",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "아산시시설관리공단 복리후생규정/아산시시설관리공단 복리후생규정.json"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제3항",
+            "link_text": "제11조",
+            "line_text": "",
+            "target_law_name": "아산시시설관리공단 복리후생규정",
+            "target_article_no": "제11조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2140751",
+            "target_url": "https://www.law.go.kr/학칙공단/아산시시설관리공단 복리후생규정/제11조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:아산시시설관리공단복리후생규정#JO0008",
+            "reference_id": "SchlPubRul:아산시시설관리공단복리후생규정#JO0011",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "아산시시설관리공단 복리후생규정/아산시시설관리공단 복리후생규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:아산시시설관리공단복리후생규정#JO0008"
       },
@@ -167,7 +213,48 @@
         "chapter_path": "제5장 재해보상",
         "content": "제12조(재해보상) ① 임직원의 재해보상에 관하여는 「근로기준법」을 준용한다.② 공단은 임직원의 업무상 재해를 보상하기 위하여 산업재해보상보험에 가입하여 「산업재해보상보험법」이 정하는 바에 따라 근로복지공단에서 지급하는 보험급여로 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제12조",
+            "source_clause": "제12조제1항",
+            "link_text": "「근로기준법」",
+            "line_text": "",
+            "target_law_name": "근로기준법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2140751",
+            "target_url": "https://www.law.go.kr/법령/근로기준법",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:아산시시설관리공단복리후생규정#JO0012",
+            "reference_id": "law:근로기준법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제12조",
+            "source_clause": "제12조제2항",
+            "link_text": "「산업재해보상보험법」",
+            "line_text": "",
+            "target_law_name": "산업재해보상보험법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2140751",
+            "target_url": "https://www.law.go.kr/법령/산업재해보상보험법",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:아산시시설관리공단복리후생규정#JO0012",
+            "reference_id": "law:산업재해보상보험법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "산업재해보상보험법/법률/산업재해보상보험법.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:아산시시설관리공단복리후생규정#JO0012"
       },
@@ -211,70 +298,159 @@
       "promulgation_date": "20141023",
       "promulgation_no": "00005",
       "content": "부칙 <제5호,2014.10.23>제1조 (시행일) 이 규정은 공단 설립 일부터 시행한다.제2조(경과조치) 이 규정 시행 전에 이미 시행한 사항은 이 규정에  의하여 시행된 것으로 본다.",
-      "provision_id": "SchlPubRul:아산시시설관리공단복리후생규정#ADDENDUM"
+      "provision_id": "SchlPubRul:아산시시설관리공단복리후생규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000155003",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20230125"
     },
     {
       "promulgation_date": "20170317",
       "promulgation_no": "00073",
       "content": "부칙 <제73호,2017.3.17>제1조 (시행일) 이 규정은 공포한 날부터 시행한다.",
-      "provision_id": "SchlPubRul:아산시시설관리공단복리후생규정#ADDENDUM"
+      "provision_id": "SchlPubRul:아산시시설관리공단복리후생규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000155003",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20230125"
     },
     {
       "promulgation_date": "20171110",
       "promulgation_no": "00087",
       "content": "부칙 <제87호,2017.11.10>제1조 (시행일) 이 규정은 공포한 날부터 시행한다.",
-      "provision_id": "SchlPubRul:아산시시설관리공단복리후생규정#ADDENDUM"
+      "provision_id": "SchlPubRul:아산시시설관리공단복리후생규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000155003",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20230125"
     },
     {
       "promulgation_date": "20181201",
       "promulgation_no": "00113",
       "content": "부칙 <제113호,2018.12.1>제1조 (시행일) 이 규정은 공포한 날부터 시행한다.",
-      "provision_id": "SchlPubRul:아산시시설관리공단복리후생규정#ADDENDUM"
+      "provision_id": "SchlPubRul:아산시시설관리공단복리후생규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000155003",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20230125"
     },
     {
       "promulgation_date": "20191231",
       "promulgation_no": "00132",
       "content": "부칙 <제132호,2019.12.31>제1조 (시행일) 이 규정은 2020년 1월 1일부터 시행하되, 2019년 10월 1일부터 적용한다.",
-      "provision_id": "SchlPubRul:아산시시설관리공단복리후생규정#ADDENDUM"
+      "provision_id": "SchlPubRul:아산시시설관리공단복리후생규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000155003",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20230125"
     },
     {
       "promulgation_date": "20201221",
       "promulgation_no": "00148",
       "content": "부칙 <제148호,2020.12.21>제1조 (시행일) 이 규정은 2021년 1월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:아산시시설관리공단복리후생규정#ADDENDUM"
+      "provision_id": "SchlPubRul:아산시시설관리공단복리후생규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000155003",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20230125"
     },
     {
       "promulgation_date": "20210322",
       "promulgation_no": "00154",
       "content": "부칙 <제154호,2021.3.22>제1조 (시행일) 이 규정은 2021년 4월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:아산시시설관리공단복리후생규정#ADDENDUM"
+      "provision_id": "SchlPubRul:아산시시설관리공단복리후생규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000155003",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20230125"
     },
     {
       "promulgation_date": "20211027",
       "promulgation_no": "00184",
       "content": "부칙 <제184호,2021.10.27>제1조 (시행일) 이 규정은 2021년 11월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:아산시시설관리공단복리후생규정#ADDENDUM"
+      "provision_id": "SchlPubRul:아산시시설관리공단복리후생규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000155003",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20230125"
     },
     {
       "promulgation_date": "20220325",
       "promulgation_no": "00209",
       "content": "부칙 <제209호,2022.3.25>제1조 (시행일) 이 규정은 공포한 날부터 시행한다. 다만, 제8조(후생비 지급)의 별표 1의 직급보조비 인상분은 2022년 1월 보수지급일부터 소급 적용하여 지급한다.",
-      "provision_id": "SchlPubRul:아산시시설관리공단복리후생규정#ADDENDUM"
+      "provision_id": "SchlPubRul:아산시시설관리공단복리후생규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000155003",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20230125"
+    },
+    {
+      "promulgation_date": "20230125",
+      "promulgation_no": "00244",
+      "content": "부칙 <제244호,2023.1.25>제1조 (시행일) 이 규정은 공포한 날부터 시행한다.제2조(일반적 적용례) 이 규정은 2023년 1월 1일부터 지급하는 수당부터 적용한다.",
+      "provision_id": "SchlPubRul:아산시시설관리공단복리후생규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000155003",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20230125"
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "[별표] 복리후생규정 9차개정(2023.1.25.)",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000155003&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164864373",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164864373",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:아산시시설관리공단복리후생규정#BYL0001",
+      "filename": "별표1_[별표] 복리후생규정 9차개정(2023.1.25.).hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표1_[별표] 복리후생규정 9차개정(2023.1.25.).hwp",
+      "file_store_url": ""
+    }
+  ],
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 4,
+    "by_category": {
+      "학칙공단": 2,
+      "법령": 2
+    },
+    "by_relation_type": {
+      "appendix_ref": 1,
+      "internal_ref": 1,
+      "citation": 2
+    },
     "articles_total": 15,
-    "articles_with_relations": 0,
+    "articles_with_relations": 2,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 9,
+    "addenda_count": 10,
     "appendices_count": 1,
     "attachments_count": 0
   },
@@ -285,5 +461,8 @@
   "addendum_provision_id": "SchlPubRul:아산시시설관리공단복리후생규정#ADDENDUM",
   "amendment_provision_id": "SchlPubRul:아산시시설관리공단복리후생규정#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "아산시시설관리공단 복리후생규정/아산시시설관리공단 복리후생규정.json"
 }
