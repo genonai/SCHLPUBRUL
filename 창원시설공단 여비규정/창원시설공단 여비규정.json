@@ -1,6 +1,6 @@
 {
   "law_id": "2121509",
-  "mst": "2200000100333",
+  "mst": "2200000112649",
   "law_name": "창원시설공단 여비규정",
   "law_abbr": "",
   "law_type": "공단규정",
@@ -8,33 +8,33 @@
   "doc_kind": "공공기관",
   "adm_uid": "public:2121509",
   "promulgation_no": "18",
-  "promulgation_date": "20000101",
-  "enforcement_date": "20000101",
-  "revision_date": "20000101",
-  "revision_type": "제정",
-  "is_current": false,
+  "promulgation_date": "20230324",
+  "enforcement_date": "20230324",
+  "revision_date": "20230324",
+  "revision_type": "일부개정",
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "창원시설공단",
     "담당자명": "기획예산팀",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "창원시설공단 여비규정",
-    "발령일자": "20000101",
+    "발령일자": "20230324",
     "행정규칙종류": "공단규정",
-    "제개정구분코드": "200401",
+    "제개정구분코드": "200403",
     "조문형식여부": "Y",
     "소관부처명": "창원시설공단",
     "전화번호": "055-712-0042",
-    "제개정구분명": "제정",
+    "제개정구분명": "일부개정",
     "소관부처코드": "B553892",
-    "생성일자": "20230324",
+    "생성일자": "20230325",
     "행정규칙ID": "2121509",
     "담당부서기관코드": "B553892",
     "발령번호": "18",
-    "행정규칙일련번호": "2200000100333"
+    "행정규칙일련번호": "2200000112649"
   },
-  "amendment_text": "",
-  "revision_reason": "",
+  "amendment_text": "가. 국내 여비 지급기준 재정비  (안제9조, [별표1] )\n\n구 분\n현 행\n?\n개 정\n1호(임원)\n일비(1일당)\n20,000원\n25,000원\n2호\n(일반직이하)\n일비(1일당)\n20,000원\n25,000원\n숙박지(1야당)\n특별시 70,000원\n광역시 60,000원\n그밖의 지역 50,000원\n특별시 100,000원\n광역시 80,000원\n그밖의 지역 70,000원\n식비(1일당)\n20,000원\n25,000원",
+  "revision_reason": "가. 2023년 공무원 여비규정 개정(2023.3.2.)에 따라 국내여비 지급 기준을 재정비하기 위함.",
   "body": {
     "format": "articles",
     "article_count": 13,
@@ -112,7 +112,28 @@
         "chapter_path": "",
         "content": "제7조 (출장지의 구분)   ① 출장지는 관내 출장지와 관외 출장지로 구분한다.② 관내 출장의 경우에는 제8조의 규정에 불구하고 공무원여비규정을 준용한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제2항",
+            "link_text": "제8조",
+            "line_text": "",
+            "target_law_name": "창원시설공단 여비규정",
+            "target_article_no": "제8조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2121509",
+            "target_url": "https://www.law.go.kr/학칙공단/창원시설공단 여비규정/제8조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:창원시설공단여비규정#JO0007",
+            "reference_id": "SchlPubRul:창원시설공단여비규정#JO0008",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "창원시설공단 여비규정/창원시설공단 여비규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:창원시설공단여비규정#JO0007"
       },
@@ -123,7 +144,48 @@
         "chapter_path": "",
         "content": "제8조 (여비의 정액)   ① (여비 결제 및 정산) ① 국내 출장자 및 국외 출장자가 여비 중 숙박비와 교통비를 결제할 때에는 법인카드 또는「여신전문금융업법」제2조 제3호에 따른 신용카드를 사용하여야 한다. 다만, 출장지에서 법인카드 또는 신용카드를 사용할 수 없는 경우 등 특별한 사유가 있는 경우에는 그러하지 아니한다.<개정 2007. 04. 13, 2008. 4. 10, 2014. 12. 23, 2020. 12. 21>② 교통비 중 항공운임은 이사장의 승인을 얻은후 법인카드로 결제하거나 항공사 또는 발권대행사 등 항공권 발매자에게 직접 지급한다.<개정 2020. 12. 21>③ 국내 출장자는 여행을 마친 날의 다음날부터 기산하여 7일 이내에, 국외 출장자는 14일 이내에 숙박비와 교통비의 세부 사용내역을 확인할 수 있는 증거서류를 갖추어 정산을 하여야 한다.<개정 2020. 12. 21>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제1항",
+            "link_text": "「여신전문금융업법」",
+            "line_text": "",
+            "target_law_name": "여신전문금융업법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2121509",
+            "target_url": "https://www.law.go.kr/법령/여신전문금융업법",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:창원시설공단여비규정#JO0008",
+            "reference_id": "law:여신전문금융업법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "여신전문금융업법/법률/여신전문금융업법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제1항",
+            "link_text": "제2조",
+            "line_text": "",
+            "target_law_name": "여신전문금융업법",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2121509",
+            "target_url": "https://www.law.go.kr/법령/여신전문금융업법/제2조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:창원시설공단여비규정#JO0008",
+            "reference_id": "law:여신전문금융업법#JO0002",
+            "target_repo": "LAW",
+            "target_git_path_guess": "여신전문금융업법/법률/여신전문금융업법.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:창원시설공단여비규정#JO0008"
       },
@@ -134,7 +196,33 @@
         "chapter_path": "",
         "content": "제9조 (여비의 지급)   ① 국내 여행자의 여비는 별표 1의 여비지급 기준표에 의하여 지급하되, 공무의 형편이나 그 밖의 부득이한 사유로 숙박비의 상한액 및 지급받은 식비(국내 여행의 경우 식비는 제외한다)를 초과하여 여비를 지출하였을 때에는 국내 여행의 경우에는 숙박비 상한액의 10분의 3을, 국외 여행의 경우에는 숙박비 및 식비의 2분의 1을 넘지 아니하는 범위에서 여비를 추가로 지급할 수 있다.<개정 2007. 04. 13, 2008. 4. 10, 2016. 3. 29, 2020. 3. 26, 2020. 12. 21>② 일비는 여행일수에 따라 지급하되, 공단차량을 이용하는 경우에는 일비는 2분의 1을 지급한다.<신설 2020. 3. 26><개정 2020. 12. 21>③ 식비는 여행일수에 따라 지급한다. 다만, 수로여행과 항공여행에는 따로 식비가 필요한 경우에만 식비를 지급한다.<개정 2014. 12. 23, 2020. 3. 26, 2020. 12. 21>④ 숙박료는 숙박 일수에 따라 이를 지급한다. 다만, 수로여행과 항공여행에는 숙박비를 지급하지 아니하되, 천재지변이나 그 밖의 부득이한 사유로 육지에서 숙박할 필요가 있는 경우에는 숙박비를 지급한다.<개정 2020. 3. 26, 2020. 12. 21>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제9조",
+            "source_clause": "제9조제1항",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "창원시설공단 여비규정",
+            "target_article_no": "별표1",
+            "target_article_title": "국내여비기준표",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2121509",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000112649&bylNo=0001&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:창원시설공단여비규정#JO0009",
+            "target_unit": "BYL0001",
+            "reference_id": "SchlPubRul:창원시설공단여비규정#BYL0001",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "창원시설공단 여비규정/창원시설공단 여비규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:창원시설공단여비규정#JO0009"
       },
@@ -178,7 +266,33 @@
         "chapter_path": "",
         "content": "제13조 (국외여비) 국외 여행시의 여비는 국가공무원 국외 여비규정을 준용하되 지급기준은 별표 2와 같다.<개정 2016. 3. 29>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제13조",
+            "source_clause": "제13조",
+            "link_text": "별표 2",
+            "line_text": "",
+            "target_law_name": "창원시설공단 여비규정",
+            "target_article_no": "별표2",
+            "target_article_title": "국외여행기준표",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2121509",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000112649&bylNo=0002&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:창원시설공단여비규정#JO0013",
+            "target_unit": "BYL0002",
+            "reference_id": "SchlPubRul:창원시설공단여비규정#BYL0002",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "창원시설공단 여비규정/창원시설공단 여비규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:창원시설공단여비규정#JO0013"
       }
@@ -189,76 +303,195 @@
       "promulgation_date": "20000101",
       "promulgation_no": "00018",
       "content": "부칙 <제18호,2000.1.1>이 규정은 공단설립일 부터 시행한다.",
-      "provision_id": "SchlPubRul:창원시설공단여비규정#ADDENDUM"
+      "provision_id": "SchlPubRul:창원시설공단여비규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000112649",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20230324"
     },
     {
       "promulgation_date": "20011231",
       "promulgation_no": "00052",
       "content": "부칙 <제52호,2001.12.31>이 규정은 승인일로부터 시행한다.",
-      "provision_id": "SchlPubRul:창원시설공단여비규정#ADDENDUM"
+      "provision_id": "SchlPubRul:창원시설공단여비규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000112649",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20230324"
     },
     {
       "promulgation_date": "20070413",
       "promulgation_no": "00164",
       "content": "부칙 <제164호,2007.4.13>이 규정은 승인일로부터 시행한다.",
-      "provision_id": "SchlPubRul:창원시설공단여비규정#ADDENDUM"
+      "provision_id": "SchlPubRul:창원시설공단여비규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000112649",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20230324"
     },
     {
       "promulgation_date": "20080410",
       "promulgation_no": "00181",
       "content": "부칙 <제181호,2008.4.10>이 규정은 승인일로부터 시행한다.",
-      "provision_id": "SchlPubRul:창원시설공단여비규정#ADDENDUM"
+      "provision_id": "SchlPubRul:창원시설공단여비규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000112649",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20230324"
     },
     {
       "promulgation_date": "20110121",
       "promulgation_no": "00300",
       "content": "부칙 <제300호,2011.1.21>이 규정은 승인일로부터 시행한다.",
-      "provision_id": "SchlPubRul:창원시설공단여비규정#ADDENDUM"
+      "provision_id": "SchlPubRul:창원시설공단여비규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000112649",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20230324"
     },
     {
       "promulgation_date": "20141223",
       "promulgation_no": "00407",
       "content": "부칙 <제407호,2014.12.23>이 규정은 승인일로부터 시행한다.",
-      "provision_id": "SchlPubRul:창원시설공단여비규정#ADDENDUM"
+      "provision_id": "SchlPubRul:창원시설공단여비규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000112649",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20230324"
     },
     {
       "promulgation_date": "20160329",
       "promulgation_no": "00438",
       "content": "부칙 <제438호,2016.3.29>이 규정은 승인일로부터 시행한다.",
-      "provision_id": "SchlPubRul:창원시설공단여비규정#ADDENDUM"
+      "provision_id": "SchlPubRul:창원시설공단여비규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000112649",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20230324"
     },
     {
       "promulgation_date": "20180104",
       "promulgation_no": "00511",
       "content": "부칙 <제511호,2018.1.4>이 규정은 승인일로부터 시행한다.",
-      "provision_id": "SchlPubRul:창원시설공단여비규정#ADDENDUM"
+      "provision_id": "SchlPubRul:창원시설공단여비규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000112649",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20230324"
     },
     {
       "promulgation_date": "20200326",
       "promulgation_no": "00606",
       "content": "부칙 <제606호,2020.3.26>이 규정은 승인일로부터 시행한다.",
-      "provision_id": "SchlPubRul:창원시설공단여비규정#ADDENDUM"
+      "provision_id": "SchlPubRul:창원시설공단여비규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000112649",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20230324"
     },
     {
       "promulgation_date": "20201221",
       "promulgation_no": "00632",
       "content": "부칙 <제632호,2020.12.21>이 규정은 승인일로부터 시행한다.",
-      "provision_id": "SchlPubRul:창원시설공단여비규정#ADDENDUM"
+      "provision_id": "SchlPubRul:창원시설공단여비규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000112649",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20230324"
+    },
+    {
+      "promulgation_date": "20230324",
+      "promulgation_no": "00710",
+      "content": "부칙 <제710호,2023.3.24>이 규정은 승인일로부터 시행한다.",
+      "provision_id": "SchlPubRul:창원시설공단여비규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000112649",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20230324"
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "국내여비기준표",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000112649&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126580239",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126580239",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:창원시설공단여비규정#BYL0001",
+      "filename": "별표1_국내여비기준표.hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표1_국내여비기준표.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "국외여행기준표",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000112649&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126580243",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=126580243",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:창원시설공단여비규정#BYL0002",
+      "filename": "별표2_국외여행기준표.hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표2_국외여행기준표.hwp",
+      "file_store_url": ""
+    }
+  ],
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 5,
+    "by_category": {
+      "학칙공단": 3,
+      "법령": 2
+    },
+    "by_relation_type": {
+      "internal_ref": 1,
+      "citation": 2,
+      "appendix_ref": 2
+    },
     "articles_total": 13,
-    "articles_with_relations": 0,
+    "articles_with_relations": 4,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 10,
+    "addenda_count": 11,
     "appendices_count": 2,
     "attachments_count": 0
   },
@@ -269,5 +502,8 @@
   "addendum_provision_id": "SchlPubRul:창원시설공단여비규정#ADDENDUM",
   "amendment_provision_id": "SchlPubRul:창원시설공단여비규정#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "창원시설공단 여비규정/창원시설공단 여비규정.json"
 }
