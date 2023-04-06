@@ -1,39 +1,39 @@
 {
   "law_id": "2126817",
-  "mst": "2200000113469",
-  "law_name": "대구교통공사  연구규정",
+  "mst": "2200000113409",
+  "law_name": "대구교통공사 연구규정",
   "law_abbr": "",
   "law_type": "공단규정",
   "doc_target": "public",
   "doc_kind": "공공기관",
   "adm_uid": "public:2126817",
-  "promulgation_no": "38",
-  "promulgation_date": "20220830",
-  "enforcement_date": "20220830",
-  "revision_date": "20220830",
-  "revision_type": "타법개정",
-  "is_current": false,
+  "promulgation_no": "721",
+  "promulgation_date": "20230406",
+  "enforcement_date": "20230406",
+  "revision_date": "20230406",
+  "revision_type": "일부개정",
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "대구교통공사",
     "담당자명": "이재섭",
     "행정규칙종류코드": "B0029",
-    "행정규칙명": "대구교통공사  연구규정",
-    "발령일자": "20220830",
+    "행정규칙명": "대구교통공사 연구규정",
+    "발령일자": "20230406",
     "행정규칙종류": "공단규정",
-    "제개정구분코드": "200409",
+    "제개정구분코드": "200403",
     "조문형식여부": "Y",
     "소관부처명": "대구교통공사",
     "전화번호": "0536402727",
-    "제개정구분명": "타법개정",
+    "제개정구분명": "일부개정",
     "소관부처코드": "B554805",
     "생성일자": "20240117",
     "행정규칙ID": "2126817",
     "담당부서기관코드": "",
-    "발령번호": "38",
-    "행정규칙일련번호": "2200000113469"
+    "발령번호": "721",
+    "행정규칙일련번호": "2200000113409"
   },
-  "amendment_text": "",
+  "amendment_text": "-",
   "revision_reason": "-",
   "body": {
     "format": "articles",
@@ -79,7 +79,28 @@
         "chapter_path": "제1장  총    칙",
         "content": "제4조(연구의 구분)  공사에서 수행하는 연구는 다음 각호와 같이 구분한다.1. 자체연구 : 공사에서 직접 수행하며, 필요시 사내외 전문가를 활용하거나 일부 위탁하여 수행하는 연구2.공동연구: 공사가 국내외 연구기관·교육기관 또는 산업체 및 전문가 등과 기술·자금·인력 등을 공동으로 투자하여 수행하는 연구3. 위탁연구 : 공사가 연구과제를 전문기관에 위탁하여 수행하는 연구4. 수탁연구 : 공사가 외부로부터 수탁을 받아 수행하는 연구5.협동연구:공사가「협동연구개발촉진법」에서 정하는 국내외 연구기관·산업체·교육기관 등과 하나의 연구과제에 소요되는 인력·시설·장비·자금 등을 분담하여 수행하는 공동연구",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "「협동연구개발촉진법」",
+            "line_text": "",
+            "target_law_name": "협동연구개발촉진법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2126817",
+            "target_url": "https://www.law.go.kr/법령/협동연구개발촉진법",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:대구교통공사연구규정#JO0004",
+            "reference_id": "law:협동연구개발촉진법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "협동연구개발촉진법/법률/협동연구개발촉진법.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:대구교통공사연구규정#JO0004"
       },
@@ -110,9 +131,30 @@
         "article_title": "연구과제의 선정",
         "chapter": "제2장  연구과제의 선정 및 수행",
         "chapter_path": "제2장  연구과제의 선정 및 수행",
-        "content": "제7조(연구과제의 선정)  ①전담부서의 장은 제5조의 규정에 의하여 제안된 연구과제를 위원회에 상정하여야 한다.②경영진 등의 특별지시사항이나 시급한 현안 연구대상인 경우에는 선정절차를 생략하고 연구를 수행할 수 있다.③경영개선 효과가 큰 과제인 경우 전문기관과 협력하여 공동 발굴·선정하여 수행할 수 있다.",
+        "content": "제7조(연구과제의 선정)  ①전담부서의 장은 제5조의 규정에 의하여 제안된 연구과제를 위원회에 상정하여야 한다.②경영진 등의 특별 지시사항이나 시급한 현안 연구대상인 경우에는 선정절차를 생략하고 연구를 수행할 수 있다.③경영개선 효과가 큰 과제인 경우 전문기관과 협력하여 공동 발굴·선정하여 수행할 수 있다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제1항",
+            "link_text": "제5조",
+            "line_text": "",
+            "target_law_name": "대구교통공사 연구규정",
+            "target_article_no": "제5조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2126817",
+            "target_url": "https://www.law.go.kr/학칙공단/대구교통공사 연구규정/제5조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:대구교통공사연구규정#JO0007",
+            "reference_id": "SchlPubRul:대구교통공사연구규정#JO0005",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "대구교통공사 연구규정/대구교통공사 연구규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:대구교통공사연구규정#JO0007"
       },
@@ -123,7 +165,28 @@
         "chapter_path": "제2장  연구과제의 선정 및 수행",
         "content": "제8조(연구수행) ①제7조의 규정에 의하여 선정된 연구과제는 전담부서 또는 관련부서에서 수행한다. 다만, 과제가 공동 및 위탁연구과제로 결정된 경우에는 전문기관을 선정하여 수행하게 할 수 있다.② 국가연구개발사업 과제의 참여 및 수행에 관하여 필요한 사항은 별도로 정한다.<신설 ‘11. 12. 14>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제1항",
+            "link_text": "제7조",
+            "line_text": "",
+            "target_law_name": "대구교통공사 연구규정",
+            "target_article_no": "제7조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2126817",
+            "target_url": "https://www.law.go.kr/학칙공단/대구교통공사 연구규정/제7조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:대구교통공사연구규정#JO0008",
+            "reference_id": "SchlPubRul:대구교통공사연구규정#JO0007",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "대구교통공사 연구규정/대구교통공사 연구규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:대구교통공사연구규정#JO0008"
       },
@@ -156,7 +219,28 @@
         "chapter_path": "제3장  연구성과의 평가 및 활용",
         "content": "제11조(연구성과의 활용)  ①전담부서의 장은 제10조의 규정에 의거 위원회의 심의를 거쳐 선정된 과제에 대하여는 즉시 활용부서의 장에게 통보하여야 한다.②활용부서의 장은 여건상 연구성과를 시행할 수 없는 부득이한 사유가 있을 때에는 지체 없이 그 사유를 전담부서를 경유하여 사장에게 보고하고, 그 결과를 전담부서의 장에게 통보하여야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제1항",
+            "link_text": "제10조",
+            "line_text": "",
+            "target_law_name": "대구교통공사 연구규정",
+            "target_article_no": "제10조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2126817",
+            "target_url": "https://www.law.go.kr/학칙공단/대구교통공사 연구규정/제10조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:대구교통공사연구규정#JO0011",
+            "reference_id": "SchlPubRul:대구교통공사연구규정#JO0010",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "대구교통공사 연구규정/대구교통공사 연구규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:대구교통공사연구규정#JO0011"
       },
@@ -264,7 +348,7 @@
         "article_title": "측정기 교정",
         "chapter": "제5장  연구업무 지원 및 기타",
         "chapter_path": "제5장  연구업무 지원 및 기타",
-        "content": "제21조(측정기 교정) 교정대상 측정기, 목록 등 관리책임자는 보유부서장이며, 교정부서(전략사업처)에서 수립한 연간교정계획에 의하여 시행한다.[본조신설 ’17. 5. 19] [종전 제21조는 제22조로 이동 <’17. 5. 19>]",
+        "content": "제21조(측정기 교정) 교정대상 측정기, 목록 등 관리책임자는 보유부서장이며, 전담부서에서 수립한 연간교정계획에 의하여 시행한다.[본조신설 ’17. 5. 19] [종전 제21조는 제22조로 이동 <’17. 5. 19>] <개정 ‘23. 4. 6>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -298,62 +382,112 @@
     {
       "promulgation_date": "20091223",
       "promulgation_no": "00334",
-      "content": "부칙 <제334호,2009.12.23>①(시행일) 이 규정은 2009년 12월 23일부터 시행한다.②(경과조치) 이 규정 시행일 이전에 시행된 사항은 이 규정에 의하여 시행된 것으로 본다.",
-      "provision_id": "SchlPubRul:대구교통공사연구규정#ADDENDUM"
+      "content": "부칙 <제334호,2009.12.23>제1조(시행일) 이 규정은 2009년 12월 23일부터 시행한다.제2조(경과조치) 이 규정 시행일 이전에 시행된 사항은 이 규정에 의하여 시행된 것으로 본다.",
+      "provision_id": "SchlPubRul:대구교통공사연구규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000113409",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20230406"
     },
     {
       "promulgation_date": "20111214",
       "promulgation_no": "00374",
       "content": "부칙 <제374호,2011.12.14>이 규정은 2011년 12월 14일부터 시행한다.",
-      "provision_id": "SchlPubRul:대구교통공사연구규정#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사연구규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000113409",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20230406"
     },
     {
       "promulgation_date": "20140214",
       "promulgation_no": "00426",
       "content": "부칙 <제426호,2014.2.14>이 규정은 2014년 2월 14일부터 시행한다.",
-      "provision_id": "SchlPubRul:대구교통공사연구규정#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사연구규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000113409",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20230406"
     },
     {
       "promulgation_date": "20170519",
       "promulgation_no": "00543",
       "content": "부칙 <제543호,2017.5.19>이 규정은 2017년 5월 19일부터 시행한다.",
-      "provision_id": "SchlPubRul:대구교통공사연구규정#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사연구규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000113409",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20230406"
     },
     {
       "promulgation_date": "20180705",
       "promulgation_no": "00573",
       "content": "부칙 <제573호,2018.7.5>이 규정은 2018년 7월 5일부터 시행한다.",
-      "provision_id": "SchlPubRul:대구교통공사연구규정#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사연구규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000113409",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20230406"
     },
     {
       "promulgation_date": "20220830",
       "promulgation_no": "00038",
       "content": "부칙 <제38호,2022.8.30>(정관)제1조(시행일) 이 정관은  2022년 9월 1일부터 시행한다.제2조 <생략>제3조(다른 사규의 개정) ①이 정관 시행일 현재 공사의 모든 사규에서 사용하고 있는 사명 “대구도시철도공사”를 “대구교통공사”로 한다.② <생략>",
-      "provision_id": "SchlPubRul:대구교통공사연구규정#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사연구규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000113409",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20230406"
+    },
+    {
+      "promulgation_date": "20230406",
+      "promulgation_no": "00721",
+      "content": "부칙 <제721호,2023.4.6>이 규정은 2023년 4월 6일부터 시행한다.",
+      "provision_id": "SchlPubRul:대구교통공사연구규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000113409",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20230406"
     }
   ],
   "appendices": [],
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 4,
+    "by_category": {
+      "법령": 1,
+      "학칙공단": 3
+    },
+    "by_relation_type": {
+      "citation": 1,
+      "internal_ref": 3
+    },
     "articles_total": 23,
-    "articles_with_relations": 0,
+    "articles_with_relations": 4,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 6,
+    "addenda_count": 7,
     "appendices_count": 0,
     "attachments_count": 0
   },
   "source": {
-    "source_url": "https://www.law.go.kr/학칙공단/대구교통공사  연구규정"
+    "source_url": "https://www.law.go.kr/학칙공단/대구교통공사 연구규정"
   },
   "provision_id": "SchlPubRul:대구교통공사연구규정#DOC",
   "addendum_provision_id": "SchlPubRul:대구교통공사연구규정#ADDENDUM",
   "amendment_provision_id": "SchlPubRul:대구교통공사연구규정#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "대구교통공사 연구규정/대구교통공사 연구규정.json"
 }
