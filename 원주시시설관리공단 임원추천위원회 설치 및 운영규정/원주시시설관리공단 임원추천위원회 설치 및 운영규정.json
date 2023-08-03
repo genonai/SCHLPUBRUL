@@ -673,7 +673,48 @@
         "chapter_path": "",
         "content": "제21조(회의록의 공개) 추천위원회는 회의의 심의·의결 내용 등이 기록된 회의록을 작성·보존하고 이를 공개하여야 한다. 다만, 「공공기관의 정보공개에 관한 법률」 제9조제1항 각 호의 어느 하나에 해당하는 경우에는 공개하지 아니할 수 있다. <개정 2023. 8. 3.>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제21조",
+            "source_clause": "제21조",
+            "link_text": "「공공기관의 정보공개에 관한 법률」",
+            "line_text": "",
+            "target_law_name": "공공기관의 정보공개에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2123239",
+            "target_url": "https://www.law.go.kr/법령/공공기관의 정보공개에 관한 법률",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:원주시시설관리공단임원추천위원회설치및운영규정#JO0021",
+            "reference_id": "law:공공기관의정보공개에관한법률#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제21조",
+            "source_clause": "제21조",
+            "link_text": "제9조제1항",
+            "line_text": "",
+            "target_law_name": "공공기관의 정보공개에 관한 법률",
+            "target_article_no": "제9조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2123239",
+            "target_url": "https://www.law.go.kr/법령/공공기관의 정보공개에 관한 법률/제9조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:원주시시설관리공단임원추천위원회설치및운영규정#JO0021",
+            "reference_id": "law:공공기관의정보공개에관한법률#JO0009",
+            "target_repo": "LAW",
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:원주시시설관리공단임원추천위원회설치및운영규정#JO0021"
       },
@@ -1052,18 +1093,18 @@
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 18,
+    "relations_total": 20,
     "by_category": {
-      "법령": 5,
+      "법령": 7,
       "자치법규": 2,
       "학칙공단": 11
     },
     "by_relation_type": {
-      "citation": 9,
+      "citation": 11,
       "appendix_ref": 9
     },
     "articles_total": 24,
-    "articles_with_relations": 6,
+    "articles_with_relations": 7,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
