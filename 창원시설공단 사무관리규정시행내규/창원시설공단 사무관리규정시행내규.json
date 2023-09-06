@@ -1,6 +1,6 @@
 {
   "law_id": "2121461",
-  "mst": "2200000100265",
+  "mst": "2200000120375",
   "law_name": "창원시설공단 사무관리규정시행내규",
   "law_abbr": "",
   "law_type": "공단규정",
@@ -8,10 +8,10 @@
   "doc_kind": "공공기관",
   "adm_uid": "public:2121461",
   "promulgation_no": "8",
-  "promulgation_date": "20000101",
-  "enforcement_date": "20000101",
-  "revision_date": "20000101",
-  "revision_type": "제정",
+  "promulgation_date": "20230906",
+  "enforcement_date": "20230906",
+  "revision_date": "20230906",
+  "revision_type": "일부개정",
   "is_current": false,
   "basic_info": {
     "현행여부": "N",
@@ -19,22 +19,22 @@
     "담당자명": "기획예산팀",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "창원시설공단 사무관리규정시행내규",
-    "발령일자": "20000101",
+    "발령일자": "20230906",
     "행정규칙종류": "공단규정",
-    "제개정구분코드": "200401",
+    "제개정구분코드": "200403",
     "조문형식여부": "Y",
     "소관부처명": "창원시설공단",
     "전화번호": "055-712-0042",
-    "제개정구분명": "제정",
+    "제개정구분명": "일부개정",
     "소관부처코드": "B553892",
-    "생성일자": "20230909",
+    "생성일자": "20260105",
     "행정규칙ID": "2121461",
     "담당부서기관코드": "B553892",
     "발령번호": "8",
-    "행정규칙일련번호": "2200000100265"
+    "행정규칙일련번호": "2200000120375"
   },
-  "amendment_text": "",
-  "revision_reason": "",
+  "amendment_text": "가. 진해청소년야영장 부서기호 생성 (안제9조 별표14)\n- 부서명 및 수신처 번호 진해청소년야영장 신설\n\n나. 신규수탁시설 문서 분류기준 생성  (안제9조 별표15)\n- 대분류 및 기본분류표 내 진해청소년야영장 추가",
+  "revision_reason": "가. 진해청소년야영장 신규수탁 및 직제 신설에 따라 부서기호 등을 정비하여 시설운영에 만전을 기하기 위함",
   "body": {
     "format": "articles",
     "article_count": 62,
@@ -873,6 +873,12 @@
       "promulgation_no": "00310",
       "content": "부칙 <제310호,2022.1.27>이 내규는 확정일로부터 시행한다.",
       "provision_id": "SchlPubRul:창원시설공단사무관리규정시행내규#ADDENDUM"
+    },
+    {
+      "promulgation_date": "20230906",
+      "promulgation_no": "00336",
+      "content": "부칙 <제336호,2023.9.6>이 내규는 확정일로부터 시행한다.",
+      "provision_id": "SchlPubRul:창원시설공단사무관리규정시행내규#ADDENDUM"
     }
   ],
   "appendices": [],
@@ -887,7 +893,7 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 25,
+    "addenda_count": 26,
     "appendices_count": 44,
     "attachments_count": 0
   },
