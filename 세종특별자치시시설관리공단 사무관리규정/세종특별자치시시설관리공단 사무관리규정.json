@@ -1,40 +1,40 @@
 {
   "law_id": "2129747",
-  "mst": "2200000122845",
+  "mst": "2200000124131",
   "law_name": "세종특별자치시시설관리공단 사무관리규정",
   "law_abbr": "",
   "law_type": "공단규정",
   "doc_target": "public",
   "doc_kind": "공공기관",
   "adm_uid": "public:2129747",
-  "promulgation_no": "17",
-  "promulgation_date": "20161017",
-  "enforcement_date": "20161017",
-  "revision_date": "20161017",
-  "revision_type": "제정",
-  "is_current": false,
+  "promulgation_no": "136",
+  "promulgation_date": "20231212",
+  "enforcement_date": "20240101",
+  "revision_date": "20231212",
+  "revision_type": "일부개정",
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "세종특별자치시시설관리공단",
     "담당자명": "이환의",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "세종특별자치시시설관리공단 사무관리규정",
-    "발령일자": "20161017",
+    "발령일자": "20231212",
     "행정규칙종류": "공단규정",
-    "제개정구분코드": "200401",
+    "제개정구분코드": "200403",
     "조문형식여부": "Y",
     "소관부처명": "세종특별자치시시설관리공단",
     "전화번호": "044-850-1176",
-    "제개정구분명": "제정",
+    "제개정구분명": "일부개정",
     "소관부처코드": "B553695",
-    "생성일자": "20240103",
+    "생성일자": "20240105",
     "행정규칙ID": "2129747",
     "담당부서기관코드": "",
-    "발령번호": "17",
-    "행정규칙일련번호": "2200000122845"
+    "발령번호": "136",
+    "행정규칙일련번호": "2200000124131"
   },
-  "amendment_text": "",
-  "revision_reason": "□제정목적\n- 사무처리의 능률화·표준화를 기하기 위하여 사무관리에 필요한 사항을 규정",
+  "amendment_text": "세종특별자치시시설관리공단 사무관리규정을 다음과 같이 개정한다.",
+  "revision_reason": "□개정목적\n- 공단 직제개편(기구 신설 및 재편 등, ’24.1.1.자) 관련 정관 및 직제규정 개정에 따른 연동규정 등 관계규정 정비",
   "body": {
     "format": "articles",
     "article_count": 77,
@@ -101,7 +101,33 @@
         "chapter_path": "제1장 총 칙",
         "content": "제6조(사무의 인계·인수) ① 공단직원이 인사발령 또는 사무분장조정 등의 사유로 사무를 인계·인수하는 때에는 담당사무에 관한 진행상황·관계문서·자료 기타 업무와 관련되는 사항을 구체적인 문서로 작성하여 인계·인수하여야 한다.② 사무를 인계·인수하는 사람은 사무인계·인수서(별지 제1호 서식)를 2부 작성하도록 하며, 공단 총괄부서와 처리부서에서 각각 보관한다.③ 후임자가 정하여지지 아니한 경우이거나 기타 특별한 사유로 후임자에게 사무를 인계할 수 없는 경우에는 그 직무를 대리하는 자에게 인계하여야 하고, 그 직무대리자는 후임자가 사무를 인수할 수 있게 된 때에 즉시 이를 인계하여야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제2항",
+            "link_text": "별지 제1호 서식",
+            "line_text": "",
+            "target_law_name": "세종특별자치시시설관리공단 사무관리규정",
+            "target_article_no": "별지1",
+            "target_article_title": "사무인계,인수서",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2129747",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522067",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:세종특별자치시시설관리공단사무관리규정#JO0006",
+            "target_unit": "BJ0001",
+            "reference_id": "SchlPubRul:세종특별자치시시설관리공단사무관리규정#BJ0001",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "세종특별자치시시설관리공단 사무관리규정/세종특별자치시시설관리공단 사무관리규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:세종특별자치시시설관리공단사무관리규정#JO0006"
       },
@@ -123,7 +149,58 @@
         "chapter_path": "제2장 문서관리 > 제1절 일반사항",
         "content": "제8조(문서작성의 원칙) 문서는 다음 각 호의 구분에 의하여 작성한다.1. 규정문서는 조문형식에 의하여 작성하고, 누년 일련번호를 사용한다.2. 지시문서는 다음 구분에 의하여 작성한다.가. 지시이사장이 직권 또는 소속 임·직원의 문의에 의하여 소속직원에게 개별적·구체적으로 발하는 명령으로서 시행문형식(별지 제2호 서식)에 의하여 작성하고, 연도표시 일련번호를 사용한다.나. 일일명령당직·출장·시간외근무·휴가 등 일일업무에 관한 명령으로서 시행문형식 또는 회보형식 등에 의하여 작성하고, 연도표시 일련번호를 사용한다.3. 공고문서는 다음 구분에 의하여 작성한다.가. 고시규정이 정하는 바에 따라 일정한 사항을 일반에게 알리기 위한 문서로서 연도표시 일련번호를 사용한다.나. 공고일정한 사항을 일반에게 알리는 문서로서 연도표시 일련번호를 사용한다.4. 비치문서는 비치대장·비치카드 등 일정한 사항을 기록하여 내부에 비치하면서 업무에 활용하는 문서를 말한다.5. 민원문서 및 일반문서는 시행문형식 등에 의하여 작성한다. 다만, 회보 및 보고서는 다음 구분에 의하여 작성한다.가. 회보공단 이사장이 소속직원에게 업무연락·통보 등 일정한 사항을 알리기 위한 경우에 사용하는 문서로서 연도표시 일련번호를 사용한다.나. 보고서특정한 사안에 대한 현황 또는 연구·검토결과 등을 보고하거나 건의하는 때에 사용하는 문서로서 특별한 사유가 있는 경우를 제외하고는 기안문형식(별지 제2호 서식)에 의하여 작성한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "별지 제2호 서식",
+            "line_text": "",
+            "target_law_name": "세종특별자치시시설관리공단 사무관리규정",
+            "target_article_no": "별지2",
+            "target_article_title": "지시문서(시행문형식)",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2129747",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522071",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:세종특별자치시시설관리공단사무관리규정#JO0008",
+            "target_unit": "BJ0002",
+            "reference_id": "SchlPubRul:세종특별자치시시설관리공단사무관리규정#BJ0002",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "세종특별자치시시설관리공단 사무관리규정/세종특별자치시시설관리공단 사무관리규정.json"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "별지 제2호 서식",
+            "line_text": "",
+            "target_law_name": "세종특별자치시시설관리공단 사무관리규정",
+            "target_article_no": "별지2",
+            "target_article_title": "지시문서(시행문형식)",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2129747",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522071",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:세종특별자치시시설관리공단사무관리규정#JO0008",
+            "target_unit": "BJ0002",
+            "reference_id": "SchlPubRul:세종특별자치시시설관리공단사무관리규정#BJ0002",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "세종특별자치시시설관리공단 사무관리규정/세종특별자치시시설관리공단 사무관리규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:세종특별자치시시설관리공단사무관리규정#JO0008"
       },
@@ -189,7 +266,33 @@
         "chapter_path": "제2장 문서관리 > 제2절 문서의 작성",
         "content": "제14조(문서의 간인) ① 다음 각 호에 해당하는 문서가 두장 이상 계속되는 경우에는 “별표 1”의 간인용 결재인으로 기안문에 간인하여야 하며, 간인문서를 시행할 때에는 직인관리자가 그 시행문에 직인으로 간인하여야 한다. 다만, 경미한 사항일 때에는 그러하지 아니한다.1. 전후관계를 명백히 할 필요가 있는 문서2. 사실 또는 법률관계 증명에 관계되는 문서 등② 전자문서의 간인은 면 표시 등의 방법으로 할 수 있다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제1항",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "세종특별자치시시설관리공단 사무관리규정",
+            "target_article_no": "별표1",
+            "target_article_title": "간인용 결재인(제14조관련)",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2129747",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000124131&bylNo=0001&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:세종특별자치시시설관리공단사무관리규정#JO0014",
+            "target_unit": "BYL0001",
+            "reference_id": "SchlPubRul:세종특별자치시시설관리공단사무관리규정#BYL0001",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "세종특별자치시시설관리공단 사무관리규정/세종특별자치시시설관리공단 사무관리규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:세종특별자치시시설관리공단사무관리규정#JO0014"
       },
@@ -242,7 +345,7 @@
         "article_title": "문서의 구성",
         "chapter": "제3절 문서의 구성",
         "chapter_path": "제2장 문서관리 > 제3절 문서의 구성",
-        "content": "제19조(문서의 구성) ① 기안문 및 시행문은 다음과 같이 두문·본문·결문으로 구성한다. 다만 전자문서인 경우에는 두문·본문·결문 및 붙임으로 구성하거나 표제부와 본문부로 구성할 수 있으며 표제부와 본문부로 구성하는 경우에는 두문, 본문의 제목 및 결문으로, 본문부는 제목·내용 및 붙임으로 구성한다.1. 두문은 기관명 및 수신자로 하며 부서기호 및 수신처기호는 “별표3”에 의한다.2. 본문은 제목·내용 및 붙임으로 한다. 다만 전자문서인 경우에는 제목 및 내용으로 할 수 있다.3. 결문은 발신명의, 기안자·검토자 결재권자의 직위 또는 직급 및 서명(전자문자서명, 전자이미지서명을 포함 한다. 이하 같다), 생산등록번호와 시행일자, 접수등록번호와 접수일자, 발신기관의 우편번호·주소·홈페이지 주소·전화번호·모사전송번호·개인의 전자우편주소 및 공개구분으로 한다.② 제1항제3호의 규정에 의한 생산등록번호 및 접수등록번호는 각 부서별로 하며, 두문의 수신자 란에는 수신자명 또는 수신자 기호를 쓰고 이어서 괄호 안에는 업무를 처리할 보조기관 또는 보좌기관의 직위를 쓴다.③ 수신자가 많아 본문의 내용을 기재할 란이 줄어들어 본문의 내용을 첫 장에서 기술하기 곤란한 경우에는 두문의 수신자란에 “수신처 참조”라고 쓰고 결문의 발신명의 밑의 왼쪽 기본선에 맞추어 수신자을 설치하여 수신자명 또는 수신자 기호를 표시한다.④ 제2항 규정에 의한 수신자의 기호는 이사장이 정한다.⑤ 문서의 본문 중 제목은 문서의 내용을 쉽게 알 수 있도록 간명하게 표시하여야 하며, 내용은 그 문서로서 표현하고자 하는 뜻을 쉬운 말로 간략하게 작성하여야 한다.",
+        "content": "제19조(문서의 구성) ① 기안문 및 시행문은 다음과 같이 두문·본문·결문으로 구성한다. 다만 전자문서인 경우에는 두문·본문·결문 및 붙임으로 구성하거나 표제부와 본문부로 구성할 수 있으며 표제부와 본문부로 구성하는 경우에는 두문, 본문의 제목 및 결문으로, 본문부는 제목·내용 및 붙임으로 구성한다.1. 두문은 기관명 및 수신자로 한다. <개정 2023. 12. 12.>2. 본문은 제목·내용 및 붙임으로 한다. 다만 전자문서인 경우에는 제목 및 내용으로 할 수 있다.3. 결문은 발신명의, 기안자·검토자 결재권자의 직위 또는 직급 및 서명(전자문자서명, 전자이미지서명을 포함 한다. 이하 같다), 생산등록번호와 시행일자, 접수등록번호와 접수일자, 발신기관의 우편번호·주소·홈페이지 주소·전화번호·모사전송번호·개인의 전자우편주소 및 공개구분으로 한다.② 제1항제3호의 규정에 의한 생산등록번호 및 접수등록번호는 각 부서별로 하며, 두문의 수신자 란에는 수신자명 또는 수신자 기호를 쓰고 이어서 괄호 안에는 업무를 처리할 보조기관 또는 보좌기관의 직위를 쓴다.③ 수신자가 많아 본문의 내용을 기재할 란이 줄어들어 본문의 내용을 첫 장에서 기술하기 곤란한 경우에는 두문의 수신자란에 “수신처 참조”라고 쓰고 결문의 발신명의 밑의 왼쪽 기본선에 맞추어 수신자을 설치하여 수신자명 또는 수신자 기호를 표시한다.④ 제2항 규정에 의한 수신자의 기호는 이사장이 정한다.⑤ 문서의 본문 중 제목은 문서의 내용을 쉽게 알 수 있도록 간명하게 표시하여야 하며, 내용은 그 문서로서 표현하고자 하는 뜻을 쉬운 말로 간략하게 작성하여야 한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -341,7 +444,7 @@
         "article_title": "기안자 등의 표시",
         "chapter": "제4절 기안 및 결재",
         "chapter_path": "제2장 문서관리 > 제4절 기안 및 결재",
-        "content": "제28조(기안자 등의 표시) ① 기안문의 기안자란에 서명(전자이미지서명 또는 전자서명을 포함한다)하며, 검토 또는 협조한 자는 해당란에 직위 또는 직급을 쓰고 서명하되, 다른 의견을 표시하는 때에는 기안문의 해당 서명란에 “의견 첨부”라고 쓰고 의견을 표시한 곳에 서명하여야 한다.② 기안문의 결재란에 발의자는 ★표시를, 보고자는 ?표시를 해당직위 또는 직급의 앞 또는 위에 한다. 다만, 전자문서의 결재 등 결재권자에게 직접 보고하지 아니하는 경우에는 표시를 생략한다.",
+        "content": "제28조(기안자 등의 표시) ① 기안문의 기안자란에 서명(전자이미지서명 또는 전자서명을 포함한다)하며, 검토 또는 협조한 자는 해당란에 직위 또는 직급을 쓰고 서명하되, 다른 의견을 표시하는 때에는 기안문의 해당 서명란에 “의견 첨부”라고 쓰고 의견을 표시한 곳에 서명하여야 한다.② 기안문의 결재란에 발의자는 ★표시를, 보고자는 ⊙표시를 해당직위 또는 직급의 앞 또는 위에 한다. 다만, 전자문서의 결재 등 결재권자에게 직접 보고하지 아니하는 경우에는 표시를 생략한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -893,22 +996,868 @@
       "promulgation_date": "20161017",
       "promulgation_no": "00017",
       "content": "부  칙<제17호, 2016.10.17>제1조(시행일) 이 규정은 발령한 날부터 시행한다.제2조(경과조치) 이 규정 시행 전에 이미 시행한 사항은 이 규정에 의하여 시행된 것으로 본다.",
-      "provision_id": "SchlPubRul:세종특별자치시시설관리공단사무관리규정#ADDENDUM"
+      "provision_id": "SchlPubRul:세종특별자치시시설관리공단사무관리규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000124131",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20240101"
+    },
+    {
+      "promulgation_date": "20231212",
+      "promulgation_no": "00136",
+      "content": "부 칙 <규정 제136호, 2023.12.12.>제1조(시행일) 이 규정은 2024년 1월 1일부터 시행한다.",
+      "provision_id": "SchlPubRul:세종특별자치시시설관리공단사무관리규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000124131",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20240101"
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "간인용 결재인(제14조관련)",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000124131&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522013",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522013",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:세종특별자치시시설관리공단사무관리규정#BYL0001",
+      "filename": "별표1_간인용 결재인(제14조관련).hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표1_간인용 결재인(제14조관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "지급표시인(제17조제2항관련)",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000124131&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522017",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522017",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:세종특별자치시시설관리공단사무관리규정#BYL0002",
+      "filename": "별표2_지급표시인(제17조제2항관련).hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표2_지급표시인(제17조제2항관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별표",
+      "title": "삭제",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000124131&bylNo=0003&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522021",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522021",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:세종특별자치시시설관리공단사무관리규정#BYL0003",
+      "filename": "별표3_삭제.hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표3_삭제.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별표",
+      "title": "간이결재인(제26조관련)",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000124131&bylNo=0004&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522025",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522025",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:세종특별자치시시설관리공단사무관리규정#BYL0004",
+      "filename": "별표4_간이결재인(제26조관련).hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표4_간이결재인(제26조관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0005",
+      "branch": "00",
+      "kind": "별표",
+      "title": "전결 또는 대결 등의 표시(제31조관련)",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000124131&bylNo=0005&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522029",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522029",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:세종특별자치시시설관리공단사무관리규정#BYL0005",
+      "filename": "별표5_전결 또는 대결 등의 표시(제31조관련).hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표5_전결 또는 대결 등의 표시(제31조관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0006",
+      "branch": "00",
+      "kind": "별표",
+      "title": "직인생략의 표시(제33조제2항관련)",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000124131&bylNo=0006&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522033",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522033",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:세종특별자치시시설관리공단사무관리규정#BYL0006",
+      "filename": "별표6_직인생략의 표시(제33조제2항관련).hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표6_직인생략의 표시(제33조제2항관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0007",
+      "branch": "00",
+      "kind": "별표",
+      "title": "문서등록의 표시(제35조제3항관련)",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000124131&bylNo=0007&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522037",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522037",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:세종특별자치시시설관리공단사무관리규정#BYL0007",
+      "filename": "별표7_문서등록의 표시(제35조제3항관련).hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표7_문서등록의 표시(제35조제3항관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0008",
+      "branch": "00",
+      "kind": "별표",
+      "title": "문서처리인(제36조제2항관련)",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000124131&bylNo=0008&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522041",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522041",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:세종특별자치시시설관리공단사무관리규정#BYL0008",
+      "filename": "별표8_문서처리인(제36조제2항관련).hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표8_문서처리인(제36조제2항관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0009",
+      "branch": "00",
+      "kind": "별표",
+      "title": "문서심사인(제40조제1항관련)",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000124131&bylNo=0009&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522045",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522045",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:세종특별자치시시설관리공단사무관리규정#BYL0009",
+      "filename": "별표9_문서심사인(제40조제1항관련).hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표9_문서심사인(제40조제1항관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0010",
+      "branch": "00",
+      "kind": "별표",
+      "title": "기록물의 보존기간별 책정기준(제42조제1항관련)",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000124131&bylNo=0010&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522049",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522049",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:세종특별자치시시설관리공단사무관리규정#BYL0010",
+      "filename": "별표10_기록물의 보존기간별 책정기준(제42조제1항관련).hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표10_기록물의 보존기간별 책정기준(제42조제1항관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0011",
+      "branch": "00",
+      "kind": "별표",
+      "title": "폐기인(제62조제2항관련)",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000124131&bylNo=0011&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522059",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522059",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:세종특별자치시시설관리공단사무관리규정#BYL0011",
+      "filename": "별표11_폐기인(제62조제2항관련).hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표11_폐기인(제62조제2항관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0012",
+      "branch": "00",
+      "kind": "별표",
+      "title": "특수규격문서의 표시",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000124131&bylNo=0012&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522063",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522063",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:세종특별자치시시설관리공단사무관리규정#BYL0012",
+      "filename": "별표12_특수규격문서의 표시.hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표12_특수규격문서의 표시.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "사무인계,인수서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522067",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522067",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:세종특별자치시시설관리공단사무관리규정#BJ0001",
+      "filename": "별지1_사무인계,인수서.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지1_사무인계,인수서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "지시문서(시행문형식)",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522071",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522071",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:세종특별자치시시설관리공단사무관리규정#BJ0002",
+      "filename": "별지2_지시문서(시행문형식).hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지2_지시문서(시행문형식).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "내부결재문서(기안문형식)",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522077",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522077",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:세종특별자치시시설관리공단사무관리규정#BJ0003",
+      "filename": "별지3_내부결재문서(기안문형식).hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지3_내부결재문서(기안문형식).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별지",
+      "title": "모사전송 송,수신대장",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522081",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522081",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:세종특별자치시시설관리공단사무관리규정#BJ0004",
+      "filename": "별지4_모사전송 송,수신대장.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지4_모사전송 송,수신대장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0005",
+      "branch": "00",
+      "kind": "별지",
+      "title": "인편에 의한 문서발송 대장",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522085",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522085",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:세종특별자치시시설관리공단사무관리규정#BJ0005",
+      "filename": "별지5_인편에 의한 문서발송 대장.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지5_인편에 의한 문서발송 대장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0006",
+      "branch": "00",
+      "kind": "별지",
+      "title": "문서등록대장",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522089",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522089",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:세종특별자치시시설관리공단사무관리규정#BJ0006",
+      "filename": "별지6_문서등록대장.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지6_문서등록대장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0007",
+      "branch": "00",
+      "kind": "별지",
+      "title": "문서배부대장",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522093",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522093",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:세종특별자치시시설관리공단사무관리규정#BJ0007",
+      "filename": "별지7_문서배부대장.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지7_문서배부대장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0008",
+      "branch": "00",
+      "kind": "별지",
+      "title": "문서접수대장",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522097",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522097",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:세종특별자치시시설관리공단사무관리규정#BJ0008",
+      "filename": "별지8_문서접수대장.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지8_문서접수대장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0009",
+      "branch": "00",
+      "kind": "별지",
+      "title": "공문서 영수증",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522101",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522101",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:세종특별자치시시설관리공단사무관리규정#BJ0009",
+      "filename": "별지9_공문서 영수증.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지9_공문서 영수증.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0010",
+      "branch": "00",
+      "kind": "별지",
+      "title": "전언통신문",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522105",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522105",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:세종특별자치시시설관리공단사무관리규정#BJ0010",
+      "filename": "별지10_전언통신문.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지10_전언통신문.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0011",
+      "branch": "00",
+      "kind": "별지",
+      "title": "문서반송서식",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522109",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522109",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:세종특별자치시시설관리공단사무관리규정#BJ0011",
+      "filename": "별지11_문서반송서식.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지11_문서반송서식.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0012",
+      "branch": "00",
+      "kind": "별지",
+      "title": "조견표",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522113",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522113",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:세종특별자치시시설관리공단사무관리규정#BJ0012",
+      "filename": "별지12_조견표.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지12_조견표.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0013",
+      "branch": "00",
+      "kind": "별지",
+      "title": "문서색인목록",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522117",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522117",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:세종특별자치시시설관리공단사무관리규정#BJ0013",
+      "filename": "별지13_문서색인목록.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지13_문서색인목록.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0014",
+      "branch": "00",
+      "kind": "별지",
+      "title": "보관,보존문서철 색인표",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522121",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522121",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:세종특별자치시시설관리공단사무관리규정#BJ0014",
+      "filename": "별지14_보관,보존문서철 색인표.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지14_보관,보존문서철 색인표.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0015",
+      "branch": "00",
+      "kind": "별지",
+      "title": "보존문서 인계,이관서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522125",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522125",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:세종특별자치시시설관리공단사무관리규정#BJ0015",
+      "filename": "별지15_보존문서 인계,이관서.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지15_보존문서 인계,이관서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0016",
+      "branch": "00",
+      "kind": "별지",
+      "title": "문서보관철 기재요인",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522129",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522129",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:세종특별자치시시설관리공단사무관리규정#BJ0016",
+      "filename": "별지16_문서보관철 기재요인.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지16_문서보관철 기재요인.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0017",
+      "branch": "00",
+      "kind": "별지",
+      "title": "보존문서 기록대장",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522133",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522133",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:세종특별자치시시설관리공단사무관리규정#BJ0017",
+      "filename": "별지17_보존문서 기록대장.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지17_보존문서 기록대장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0018",
+      "branch": "00",
+      "kind": "별지",
+      "title": "보존문서 대출기록대장",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522137",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522137",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:세종특별자치시시설관리공단사무관리규정#BJ0018",
+      "filename": "별지18_보존문서 대출기록대장.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지18_보존문서 대출기록대장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0019",
+      "branch": "00",
+      "kind": "별지",
+      "title": "서식승인신청서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522141",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522141",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:세종특별자치시시설관리공단사무관리규정#BJ0019",
+      "filename": "별지19_서식승인신청서.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지19_서식승인신청서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0020",
+      "branch": "00",
+      "kind": "별지",
+      "title": "기록보고서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522145",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522145",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:세종특별자치시시설관리공단사무관리규정#BJ0020",
+      "filename": "별지20_기록보고서.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지20_기록보고서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0021",
+      "branch": "00",
+      "kind": "별지",
+      "title": "회보",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522149",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136522149",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:세종특별자치시시설관리공단사무관리규정#BJ0021",
+      "filename": "별지21_회보.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지21_회보.hwp",
+      "file_store_url": ""
+    }
+  ],
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 4,
+    "by_category": {
+      "학칙공단": 4
+    },
+    "by_relation_type": {
+      "appendix_ref": 4
+    },
     "articles_total": 77,
-    "articles_with_relations": 0,
+    "articles_with_relations": 3,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 1,
+    "addenda_count": 2,
     "appendices_count": 33,
     "attachments_count": 0
   },
@@ -919,5 +1868,8 @@
   "addendum_provision_id": "SchlPubRul:세종특별자치시시설관리공단사무관리규정#ADDENDUM",
   "amendment_provision_id": "SchlPubRul:세종특별자치시시설관리공단사무관리규정#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "세종특별자치시시설관리공단 사무관리규정/세종특별자치시시설관리공단 사무관리규정.json"
 }
