@@ -1,40 +1,40 @@
 {
   "law_id": "2123579",
-  "mst": "2200000105221",
+  "mst": "2200000125907",
   "law_name": "경북대학교 학력증명서 발급 규정",
   "law_abbr": "",
   "law_type": "학교규정",
   "doc_target": "school",
   "doc_kind": "학칙",
   "adm_uid": "school:2123579",
-  "promulgation_no": "2437",
-  "promulgation_date": "20210423",
-  "enforcement_date": "20210423",
-  "revision_date": "20210423",
-  "revision_type": "타법개정",
-  "is_current": false,
+  "promulgation_no": "2658",
+  "promulgation_date": "20240226",
+  "enforcement_date": "20240226",
+  "revision_date": "20240226",
+  "revision_type": "일부개정",
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "경북대학교",
     "담당자명": "김수만",
     "행정규칙종류코드": "B0026",
     "행정규칙명": "경북대학교 학력증명서 발급 규정",
-    "발령일자": "20210423",
+    "발령일자": "20240226",
     "행정규칙종류": "학교규정",
-    "제개정구분코드": "200409",
+    "제개정구분코드": "200403",
     "조문형식여부": "Y",
     "소관부처명": "경북대학교",
     "전화번호": "053-950-2564",
-    "제개정구분명": "타법개정",
+    "제개정구분명": "일부개정",
     "소관부처코드": "7000126",
     "생성일자": "20240229",
     "행정규칙ID": "2123579",
     "담당부서기관코드": "7000126",
-    "발령번호": "2437",
-    "행정규칙일련번호": "2200000105221"
+    "발령번호": "2658",
+    "행정규칙일련번호": "2200000125907"
   },
   "amendment_text": "",
-  "revision_reason": "(개정사유)\n가. 조직개편(2021. 1. 1. 시행)에 따른 일괄개정",
+  "revision_reason": "(개정사유)\n? 휴학 중인 자를 대상으로 발급하는 증명서에 대하여 정확한 용어 사용",
   "body": {
     "format": "articles",
     "article_count": 10,
@@ -55,7 +55,7 @@
         "article_title": "증명서의 종류",
         "chapter": "",
         "chapter_path": "",
-        "content": "제2조(증명서의 종류) 증명서는 졸업, 졸업예정, 수료, 수료예정, 재적(在籍), 제적(除籍), 재학, 성적, 학위증명서 및 각종 인증프로그램 이수증명서로 구분하여 국문 또는 외국문으로 발급한다. <개정 2015. 2. 27.>",
+        "content": "제2조(증명서의 종류) 증명서는 졸업, 졸업예정, 수료, 수료예정, 휴학, 제적, 재학, 성적, 학위증명서 및 각종 인증프로그램 이수증명서로 구분하여 국문 또는 외국문으로 발급한다. <개정 2015. 2. 27., 2024. 2. 26.>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -153,13 +153,44 @@
   },
   "addenda": [
     {
-      "promulgation_date": "20210423",
-      "promulgation_no": "02437",
-      "content": "부칙 <제2437호,2021.4.23>이 규정은 공포한 날부터 시행한다.",
-      "provision_id": "SchlPubRul:경북대학교학력증명서발급규정#ADDENDUM"
+      "promulgation_date": "20240105",
+      "promulgation_no": "02658",
+      "content": "부칙 <제2658호,2024.1.5>이 규정은 공포한 날부터 시행한다.",
+      "provision_id": "SchlPubRul:경북대학교학력증명서발급규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000125907",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20240226"
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "별지",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=138378397",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=138378397",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:경북대학교학력증명서발급규정#BJ0001",
+      "filename": "별지1_별지.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지1_별지.hwp",
+      "file_store_url": ""
+    }
+  ],
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
@@ -182,5 +213,8 @@
   "addendum_provision_id": "SchlPubRul:경북대학교학력증명서발급규정#ADDENDUM",
   "amendment_provision_id": "SchlPubRul:경북대학교학력증명서발급규정#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "경북대학교 학력증명서 발급 규정/경북대학교 학력증명서 발급 규정.json"
 }
