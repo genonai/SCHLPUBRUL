@@ -1,40 +1,40 @@
 {
   "law_id": "2123329",
-  "mst": "2200000123359",
+  "mst": "2200000131001",
   "law_name": "원주시시설관리공단 피복지급내규",
   "law_abbr": "",
   "law_type": "공단규정",
   "doc_target": "public",
   "doc_kind": "공공기관",
   "adm_uid": "public:2123329",
-  "promulgation_no": "34",
-  "promulgation_date": "20231222",
-  "enforcement_date": "20231222",
-  "revision_date": "20231222",
-  "revision_type": "일부개정",
-  "is_current": false,
+  "promulgation_no": "40",
+  "promulgation_date": "20240701",
+  "enforcement_date": "20240701",
+  "revision_date": "20240701",
+  "revision_type": "타법개정",
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
-    "담당부서기관명": "경영지원부",
-    "담당자명": "이대",
+    "현행여부": "Y",
+    "담당부서기관명": "원주시시설관리공단",
+    "담당자명": "원주시시설관리공단",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "원주시시설관리공단 피복지급내규",
-    "발령일자": "20231222",
+    "발령일자": "20240701",
     "행정규칙종류": "공단규정",
-    "제개정구분코드": "200403",
+    "제개정구분코드": "200409",
     "조문형식여부": "Y",
     "소관부처명": "원주시시설관리공단",
-    "전화번호": "033-749-1722",
-    "제개정구분명": "일부개정",
+    "전화번호": "033-749-1700",
+    "제개정구분명": "타법개정",
     "소관부처코드": "B554297",
-    "생성일자": "20240701",
+    "생성일자": "20250811",
     "행정규칙ID": "2123329",
-    "담당부서기관코드": "",
-    "발령번호": "34",
-    "행정규칙일련번호": "2200000123359"
+    "담당부서기관코드": "B554297",
+    "발령번호": "40",
+    "행정규칙일련번호": "2200000131001"
   },
-  "amendment_text": "원주시시설관리공단 피복지급내규 일부를 다음과 같이 개정한다.\n별표 1을 별지와 같이 한다.\n</img>",
-  "revision_reason": "각 부서의 의견을 반영하여 근무자의 피복 지급 기준을 실정에 맞게 조정하고 통일감 부여 및 공단의 대내외 긍정적 이미지를 제고하고자 함.",
+  "amendment_text": "⊙내규 제40호(2024.7.1.)\n직제규정 시행내규 일부개정내규\n[본문 생략]\n부칙\n제1조(시행일) 이 내규는 그 시행을 알린 날부터 시행한다.\n제2조 생략\n제3조(다른 내규의 개정) ①부터 ②까지 생략\n③ 원주시시설관리공단 피복지급내규 중 일부를 다음과 같이 개정한다.\n별표1서식 중 “안전관리부”를 “전략기획부”로 하고, “사무직”을 “행정직”으로 한다.\n④부터 ⑥까지 생략\n제4조 생략",
+  "revision_reason": "",
   "body": {
     "format": "articles",
     "article_count": 9,
@@ -68,7 +68,33 @@
         "chapter_path": "",
         "content": "제3조(지급기준) 피복은 예산의 범위에서 별표 1에 따라 구입한 후 현물로 지급함을 원칙으로 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "원주시시설관리공단 피복지급내규",
+            "target_article_no": "별표1",
+            "target_article_title": "지급대상 및 수량 등",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2123329",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000131001&bylNo=0001&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:원주시시설관리공단피복지급내규#JO0003",
+            "target_unit": "BYL0001",
+            "reference_id": "SchlPubRul:원주시시설관리공단피복지급내규#BYL0001",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "원주시시설관리공단 피복지급내규/원주시시설관리공단 피복지급내규.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:원주시시설관리공단피복지급내규#JO0003"
       },
@@ -79,7 +105,33 @@
         "chapter_path": "",
         "content": "제4조(지급관리) ① 피복의 지급관리책임자는 해당 부서장으로 한다.② 공용으로 사용할 수 있는 피복은 필요한 곳에 비치하여 이를 공용으로 사용하도록 할 수 있다.③ 해당 부서장은 별지 제1호서식에 따른 피복지급대장을 비치하고 이를 기록 및 관리하여야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제3항",
+            "link_text": "별지 제1호서식",
+            "line_text": "",
+            "target_law_name": "원주시시설관리공단 피복지급내규",
+            "target_article_no": "별지1",
+            "target_article_title": "피복지급대장",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2123329",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=155436825",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:원주시시설관리공단피복지급내규#JO0004",
+            "target_unit": "BJ0001",
+            "reference_id": "SchlPubRul:원주시시설관리공단피복지급내규#BJ0001",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "원주시시설관리공단 피복지급내규/원주시시설관리공단 피복지급내규.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:원주시시설관리공단피복지급내규#JO0004"
       },
@@ -145,34 +197,115 @@
       "promulgation_date": "20210126",
       "promulgation_no": "00009",
       "content": "부칙 <내규 제9호, 2021.1.26.>제1조(시행일) 이 내규는 이사장의 결재를 받은 날부터 시행한다.제2조(경과조치) 이 내규 시행 전에 이미 시행한 사항은 이 내규에 따라 시행된 것으로 본다.",
-      "provision_id": "SchlPubRul:원주시시설관리공단피복지급내규#ADDENDUM"
+      "provision_id": "SchlPubRul:원주시시설관리공단피복지급내규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000131001",
+      "source_version_uid": "",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20240701"
     },
     {
       "promulgation_date": "20230417",
       "promulgation_no": "00024",
       "content": "부칙 <내규 제24호, 2023.4.17.>이 내규는 그 시행을 알린 날부터 시행한다.",
-      "provision_id": "SchlPubRul:원주시시설관리공단피복지급내규#ADDENDUM"
+      "provision_id": "SchlPubRul:원주시시설관리공단피복지급내규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000131001",
+      "source_version_uid": "",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20240701"
     },
     {
       "promulgation_date": "20231222",
       "promulgation_no": "00034",
       "content": "부칙 <내규 제34호, 2023.12.22.>이 내규는 그 시행을 알린 날부터 시행한다.",
-      "provision_id": "SchlPubRul:원주시시설관리공단피복지급내규#ADDENDUM"
+      "provision_id": "SchlPubRul:원주시시설관리공단피복지급내규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000131001",
+      "source_version_uid": "",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20240701"
+    },
+    {
+      "promulgation_date": "20240701",
+      "promulgation_no": "00040",
+      "content": "부칙 <내규 제40호,2024.7.1>(원주시시설관리공단 직제규정 시행내규)제1조(시행일) 이 내규는 그 시행을 알린 날부터 시행한다.제2조 생략제3조(다른 내규의 개정) ①부터 ②까지 생략③ 원주시시설관리공단 피복지급내규 중 일부를 다음과 같이 개정한다.별표1서식 중 “안전관리부”를 “전략기획부”로 하고, “사무직”을 “행정직”으로 한다.④부터 ⑥까지 생략제4조 생략",
+      "provision_id": "SchlPubRul:원주시시설관리공단피복지급내규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000131001",
+      "source_version_uid": "",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20240701"
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "지급대상 및 수량 등",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000131001&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=155436821",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=155436821",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:원주시시설관리공단피복지급내규#BYL0001",
+      "filename": "별표1_지급대상 및 수량 등.hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표1_지급대상 및 수량 등.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "피복지급대장",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=155436825",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=155436825",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:원주시시설관리공단피복지급내규#BJ0001",
+      "filename": "별지1_피복지급대장.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지1_피복지급대장.hwp",
+      "file_store_url": ""
+    }
+  ],
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 2,
+    "by_category": {
+      "학칙공단": 2
+    },
+    "by_relation_type": {
+      "appendix_ref": 2
+    },
     "articles_total": 9,
-    "articles_with_relations": 0,
+    "articles_with_relations": 2,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 3,
+    "addenda_count": 4,
     "appendices_count": 2,
     "attachments_count": 0
   },
@@ -183,5 +316,8 @@
   "addendum_provision_id": "SchlPubRul:원주시시설관리공단피복지급내규#ADDENDUM",
   "amendment_provision_id": "SchlPubRul:원주시시설관리공단피복지급내규#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "원주시시설관리공단 피복지급내규/원주시시설관리공단 피복지급내규.json"
 }
