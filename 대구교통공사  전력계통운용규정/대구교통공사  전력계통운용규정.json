@@ -1,40 +1,40 @@
 {
   "law_id": "2127105",
-  "mst": "2200000124795",
+  "mst": "2200000132937",
   "law_name": "대구교통공사  전력계통운용규정",
   "law_abbr": "",
   "law_type": "공단규정",
   "doc_target": "public",
   "doc_kind": "공공기관",
   "adm_uid": "public:2127105",
-  "promulgation_no": "739",
-  "promulgation_date": "20231207",
-  "enforcement_date": "20231207",
-  "revision_date": "20231207",
-  "revision_type": "타법개정",
-  "is_current": false,
+  "promulgation_no": "753",
+  "promulgation_date": "20240809",
+  "enforcement_date": "20240809",
+  "revision_date": "20240809",
+  "revision_type": "일부개정",
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "대구교통공사",
     "담당자명": "최은희",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "대구교통공사  전력계통운용규정",
-    "발령일자": "20231207",
+    "발령일자": "20240809",
     "행정규칙종류": "공단규정",
-    "제개정구분코드": "200409",
+    "제개정구분코드": "200403",
     "조문형식여부": "Y",
     "소관부처명": "대구교통공사",
     "전화번호": "0536400893",
-    "제개정구분명": "타법개정",
+    "제개정구분명": "일부개정",
     "소관부처코드": "B554805",
-    "생성일자": "20240809",
+    "생성일자": "20241217",
     "행정규칙ID": "2127105",
     "담당부서기관코드": "",
-    "발령번호": "739",
-    "행정규칙일련번호": "2200000124795"
+    "발령번호": "753",
+    "행정규칙일련번호": "2200000132937"
   },
-  "amendment_text": "",
-  "revision_reason": "-",
+  "amendment_text": "대구교통공사 전력계통운용규정을 다음과 같이 시행한다.\n대구교통공사  사장  김  기  혁\n2024년  8월   9일\n대구교통공사 내규 제753호(개정)\n전력계통운용규정 일부개정규정(안)\n대구교통공사 전력계통운용규정 일부를 다음과 같이 개정한다.\n제28조 중 제2항과 제3항을 각각 다음과 같이 한다.\n② 전력관제는 급전용 직류고속도 차단기가 차단되었을 때에는 다음 각 호에    의거 조치를 하여야 한다.\n1. 해당구간 차단기를 투입한다.\n2. 제1호의 경우 또 다시 차단되었을 때에는 해당구간 전동차의 판타그       라프를 하강 하도록 요청하고, 확인한 후 재투입한다.\n3. 제2호의 경우 또 다시 차단되었을 때에는 담당업무 소속장에게 점검\n을 지시하고 운전(운영)관제에 정전구간을 통보한다.\n③ 직류접지계전기 등에 의해 여러 변전소의 고속도차단기가 차단되었을 때\n에는 고장구간을 확인한 후 순차적으로 급전함을 원칙으로 한다.\n부     칙\n이 규정은 2024년  8월  9일부터 시행한다.",
+  "revision_reason": "◇ 전력계통운용규정 개정이유 ◇\n? “제28조 고속도 차단기 차단시 조치”관련\n· 단락사고시 부하분리(판타그라프 하강) 명시\n: (기존) 지락사고 시 → (변경) 지락·단락사고 시\n· 지락 및 단락사고 시 조치사항 일원화\n· 여러 변전소 동시 차단시 ?순차적으로 급전」 사규 명시\n◇ 주 요 골 자 ◇\n? 제28조(고속도 차단기 차단시 조치)\n· 제①항과 제④항은 현행과 같음\n· 제②항“제1항의 경우 또다시 차단될 때에는 ~~”과            제③항“고속도차단기가 접지에 의해 차단되었을 때는 ~~”       항목을 삭제하고 제②항 문구를 신설하여“판타그래프          하강”명시와 지락 및 단락사고 시 조치사항을 일원화함.\n· 제③항은“고속도차단기가 직류접지계전기 등에 의해 여러       변전소가 차단되었을 때에는 고장구간을 확인한 후 순차적       으로 급전함을 원칙으로 한다.”문구 신설",
   "body": {
     "format": "articles",
     "article_count": 42,
@@ -66,7 +66,7 @@
         "article_title": "용어의 정의",
         "chapter": "제1장  총    칙",
         "chapter_path": "제1장  총    칙",
-        "content": "제3조(용어의 정의)  이 규정에 사용하는 용어의 정의는 다음 각호와 같다.1. <삭제 ‘15. 4. 23>2. <삭제 ‘15. 4. 23>3. <삭제 ‘15. 4. 23>4. <삭제 ‘15. 4. 23>5. <삭제 ‘15. 4. 23>6. <삭제 ‘15. 4. 23>1. “자동운전모드”라 함은 전력계통에 대한 감시 제어 프로그램에 의해서 자동으로 제어되는 방식을 말한다.  <신설 '00. 4. 3><개정 ’15. 4. 23>2. “수동운전모드”라 함은 전력계통에 대한 감시 제어를 관제 또는 현장에서 직접 취급하는 방식을 말한다. <신설 '00. 4. 3> <개정 ’09. 6. 25><개정 ’15. 4. 23>3. 위호 이외에 이 규정에서 사용되는 용어는 「전기설비설치규정」제3조에서 정한 것을따른다.<신설 '15. 4. 23>",
+        "content": "제3조(용어의 정의)  이 규정에 사용하는 용어의 정의는 다음 각호와 같다.1. “자동운전모드”라 함은 전력계통에 대한 감시 제어 프로그램에 의해서 자동으로 제어되는 방식을 말한다.  <신설 '00. 4. 3><개정 ’15. 4. 23>2. “수동운전모드”라 함은 전력계통에 대한 감시 제어를 관제 또는 현장에서 직접 취급하는 방식을 말한다. <신설 '00. 4. 3> <개정 ’09. 6. 25, ’15. 4. 23>3. 위 호 이외에 이 규정에서 사용되는 용어는 「전기설비설치규정」제3조에서 정한 것을 따른다. <신설 '15. 4. 23>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -90,7 +90,33 @@
         "chapter_path": "제2장  급전계통의 제어",
         "content": "제5조(지시와 연락의 전달계통)  급전계통의 제어업무에 필요한 지시·보고·연락의 전달경로는 “별표 1”과 같다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "대구교통공사 전력계통운용규정",
+            "target_article_no": "별표1",
+            "target_article_title": "지시보고 및 연락의 전달계통",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2127105",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000132937&bylNo=0001&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:대구교통공사전력계통운용규정#JO0005",
+            "target_unit": "BYL0001",
+            "reference_id": "SchlPubRul:대구교통공사전력계통운용규정#BYL0001",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "대구교통공사 전력계통운용규정/대구교통공사 전력계통운용규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:대구교통공사전력계통운용규정#JO0005"
       },
@@ -101,7 +127,33 @@
         "chapter_path": "제2장  급전계통의 제어",
         "content": "제6조(사용용어)  관제업무를 신속·정확하게 수행하기 위하여 사용하는 용어는 “별표 2”와 같다. <개정 ’09. 6. 25>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "별표 2",
+            "line_text": "",
+            "target_law_name": "대구교통공사 전력계통운용규정",
+            "target_article_no": "별표2",
+            "target_article_title": "관제업무 사용 용어표",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2127105",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000132937&bylNo=0002&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:대구교통공사전력계통운용규정#JO0006",
+            "target_unit": "BYL0002",
+            "reference_id": "SchlPubRul:대구교통공사전력계통운용규정#BYL0002",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "대구교통공사 전력계통운용규정/대구교통공사 전력계통운용규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:대구교통공사전력계통운용규정#JO0006"
       },
@@ -112,7 +164,33 @@
         "chapter_path": "제2장  급전계통의 제어",
         "content": "제7조(기기의 호칭)  급·배전설비의 기기 및 기타 설비의 호칭은 “별표 3”과 같다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "별표 3",
+            "line_text": "",
+            "target_law_name": "대구교통공사 전력계통운용규정",
+            "target_article_no": "별표3",
+            "target_article_title": "기기호칭표(1, 2호선)",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2127105",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000132937&bylNo=0003&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:대구교통공사전력계통운용규정#JO0007",
+            "target_unit": "BYL0003",
+            "reference_id": "SchlPubRul:대구교통공사전력계통운용규정#BYL0003",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "대구교통공사 전력계통운용규정/대구교통공사 전력계통운용규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:대구교통공사전력계통운용규정#JO0007"
       },
@@ -145,7 +223,28 @@
         "chapter_path": "제2장  급전계통의 제어",
         "content": "제10조(연장급전)  전력관제는 변전소의 정전작업을 위하여 연장급전을 실시할 수 있으며 열차운행에 지장이 예상될 때에는 제16조에 준하여 처리할 수 있다. <개정 ’09. 6. 25>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제10조",
+            "source_clause": "제10조",
+            "link_text": "제16조",
+            "line_text": "",
+            "target_law_name": "대구교통공사 전력계통운용규정",
+            "target_article_no": "제16조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2127105",
+            "target_url": "https://www.law.go.kr/학칙공단/대구교통공사 전력계통운용규정/제16조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:대구교통공사전력계통운용규정#JO0010",
+            "reference_id": "SchlPubRul:대구교통공사전력계통운용규정#JO0016",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "대구교통공사 전력계통운용규정/대구교통공사 전력계통운용규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:대구교통공사전력계통운용규정#JO0010"
       },
@@ -222,7 +321,28 @@
         "chapter_path": "제3장  단전작업의 통제",
         "content": "제17조(긴급 단전작업)  소속장은 계속 급전으로 인해 관련 시설물의 피해가 확대될 우려가 있거나 전력계통 운용에 막대한 지장을 초래할 우려가 있다고 판단될 경우에는 제16조의 규정에 관계없이 전력관제의 승인으로 긴급 단전작업을 시행할 수 있으며 작업완료 후에는 지체없이 전력관제 및 관계 부서장에게 보고하여야 한다. <개정 ’09. 6. 25, ‘15. 4. 23>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제17조",
+            "source_clause": "제17조",
+            "link_text": "제16조",
+            "line_text": "",
+            "target_law_name": "대구교통공사 전력계통운용규정",
+            "target_article_no": "제16조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2127105",
+            "target_url": "https://www.law.go.kr/학칙공단/대구교통공사 전력계통운용규정/제16조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:대구교통공사전력계통운용규정#JO0017",
+            "reference_id": "SchlPubRul:대구교통공사전력계통운용규정#JO0016",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "대구교통공사 전력계통운용규정/대구교통공사 전력계통운용규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:대구교통공사전력계통운용규정#JO0017"
       },
@@ -341,7 +461,7 @@
         "article_title": "고속도 차단기 차단시 조치",
         "chapter": "제3절  전차선로",
         "chapter_path": "제4장  사고처리 > 제3절  전차선로",
-        "content": "제28조(고속도 차단기 차단시 조치) 전력관제는 급전용 직류고속도 차단기가 차단되었을 때에는 다음 각 항에 의거 조치를 하여야 한다. <개정 ’09. 6. 25> ① 자동운전모드에서는 자동재폐로 기능에 의하고, 수동운전모드 일 때는 즉시 1회 재투입을 실시한다.② 제1항의 경우 또다시 차단될 때에는 인접변전소에서 연장급전 하고 또다시 차단될 경우에는 운전관제와 담당업무 소속장 및 운전관제(3호선 운영관제 포함, 이하 같다)에 통보한다. <개정 ’09. 6. 25, ‘15. 4. 23>③ 고속도 차단기가 접지에 의해 차단되었을 때는 다음 각호에 의거 조치한다.1. 인접 변전소에서 연장급전한다.2. 2개 이상 변전소 차단기가 접지에 의해 차단되었을 때는 쇄정장치 리셋 후 재급전한다.3. 제1호 및 제2호의 경우 또다시 차단되었을 때는 판타그라프를 하강하도록 운전관제에 요청하고 고장구간을 분리 후 재급전하고,  담당업무 소속장에게 점검 지시 및 운전관제에 정전구간을 통보한다.<개정 ’09. 6. 25, ‘15. 4. 23>④ 기지구내에서 본선과 기지간 상시 진·출입선용 고속도 차단기가 차단되었을 때는 1회 재투입하고 다시 차단될 때는 관련 사업소장으로부터 안전여부 확인 후 급전하여야 한다. 단, 기타 선로용 고속도 차단기가 차단되었을 때는 현장 확인 후 급전한다.  [전문개정 ‘09. 3. 31]",
+        "content": "제28조(고속도 차단기 차단시 조치) 전력관제는 급전용 직류고속도 차단기가 차단되었을 때에는 다음 각 항에 의거 조치를 하여야 한다. <개정 ’09. 6. 25> ① 자동운전모드에서는 자동재폐로 기능에 의하고, 수동운전모드 일 때는 즉시 1회 재투입을 실시한다.② 전력관제는 급전용 직류고속도 차단기가 차단되었을 때에는 다음 각 호에 의거 조치를 하여야 한다. <개정 ’09. 6. 25, ‘15. 4. 23, ’24. 8. 9>1. 해당구간 차단기를 투입한다. <신설 '24. 8. 9>2. 제1호의 경우 또 다시 차단되었을 때에는 해당구간 전동차의 판타그라프를 하강 하도록 요청하고, 확인한 후 재투입한다. <신설 '24. 8. 9>3. 제2호의 경우 또 다시 차단되었을 때에는 담당업무 소속장에게 점검을 지시하고 운전(운영)관제에 정전구간을 통보한다. <신설 '24. 8. 9>③ 직류접지계전기 등에 의해 여러 변전소의 고속도차단기가 차단되었을 때에는 고장구간을 확인한 후 순차적으로 급전함을 원칙으로 한다. <개정 ’24. 8. 9>1. <삭제 ‘24. 8. 9>2. <삭제 ‘24. 8. 9>3. <삭제 ‘24. 8. 9>④ 기지구내에서 본선과 기지간 상시 진·출입선용 고속도 차단기가 차단되었을 때는 1회 재투입하고 다시 차단될 때는 관련 사업소장으로부터 안전여부 확인 후 급전하여야 한다. 단, 기타 선로용 고속도 차단기가 차단되었을 때는 현장 확인 후 급전한다.  [전문개정 ‘09. 3. 31]",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -508,82 +628,254 @@
       "promulgation_date": "19960610",
       "promulgation_no": "00024",
       "content": "부칙 <제24호,1996.6.10>제1조(시행일)  이 규정은 1996년 6월 10일부터 시행한다.제2조(경과조치)  이 규정의 시행일 이전에 시행된 대구지하철공사 전력계통운용에 의한 사항은 이 규정에 의하여 시행된 것으로 본다.",
-      "provision_id": "SchlPubRul:대구교통공사전력계통운용규정#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사전력계통운용규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000132937",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20240809"
     },
     {
       "promulgation_date": "20000403",
       "promulgation_no": "00100",
       "content": "부칙 <제100호,2000.4.3>이 규정은 2000년 4월 3일부터 시행한다.",
-      "provision_id": "SchlPubRul:대구교통공사전력계통운용규정#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사전력계통운용규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000132937",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20240809"
     },
     {
       "promulgation_date": "20050509",
       "promulgation_no": "00187",
       "content": "부칙 <제187호,2005.5.9>이 규정은 2005년 5월 9일부터 시행한다.",
-      "provision_id": "SchlPubRul:대구교통공사전력계통운용규정#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사전력계통운용규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000132937",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20240809"
     },
     {
       "promulgation_date": "20060608",
       "promulgation_no": "00245",
       "content": "부칙 <제245호,2006.6.8>이 규정은 2006년 6월 9일부터 시행한다.",
-      "provision_id": "SchlPubRul:대구교통공사전력계통운용규정#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사전력계통운용규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000132937",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20240809"
     },
     {
       "promulgation_date": "20080925",
       "promulgation_no": "00246",
       "content": "부칙 <제246호,2008.9.25><정관 제20호, ’08. 9. 25>①(시행일) 이 정관은 2008년 10월 1일부터 시행한다.②(포괄승계 사항의 경과조치) 이 정관 제정 당시에 지하철 운영에 관하여 공사에 포괄승계된 사항은 이 정관 시행에 의하여 도시철도 운영에 관하여 공사에 포괄승계된 것으로 본다.③(다른 사규의 개정) 이 정관 시행일 현재 공사의 모든 사규에서 사용하고 있는 사명 “대구광역시지하철공사”를 각각 “대구도시철도공사”로 하고, 용어 “지하철”을 각각 “도시철도”로 하며, 명칭 “행정자치부장관”을 각각 “행정안전부장관”으로 한다.",
-      "provision_id": "SchlPubRul:대구교통공사전력계통운용규정#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사전력계통운용규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000132937",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20240809"
     },
     {
       "promulgation_date": "20090331",
       "promulgation_no": "00299",
       "content": "부칙 <제299호,2009.3.31>이 규정은 2009년 3월 31일부터 시행한다.",
-      "provision_id": "SchlPubRul:대구교통공사전력계통운용규정#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사전력계통운용규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000132937",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20240809"
     },
     {
       "promulgation_date": "20141124",
       "promulgation_no": "00457",
       "content": "부칙 <제457호,2014.11.24>이 규정은 2014년 11월 24일부터 시행한다.",
-      "provision_id": "SchlPubRul:대구교통공사전력계통운용규정#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사전력계통운용규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000132937",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20240809"
     },
     {
       "promulgation_date": "20150423",
       "promulgation_no": "00479",
       "content": "부칙 <제479호,2015.4.23>이 규정은 2015년 4월 23일부터 시행한다.",
-      "provision_id": "SchlPubRul:대구교통공사전력계통운용규정#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사전력계통운용규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000132937",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20240809"
     },
     {
       "promulgation_date": "20190725",
       "promulgation_no": "00612",
       "content": "부칙 <제612호,2019.7.25>이 규정은 2019년  7월  25일부터 시행하되, 2018년 12월 24일부터 적용한다.",
-      "provision_id": "SchlPubRul:대구교통공사전력계통운용규정#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사전력계통운용규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000132937",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20240809"
     },
     {
       "promulgation_date": "20220830",
       "promulgation_no": "00038",
       "content": "부칙 <제38호,2022.8.30>(정관)제1조(시행일) 이 정관은  2022년 9월 1일부터 시행한다.제2조 <생략>제3조(다른 사규의 개정) ①이 정관 시행일 현재 공사의 모든 사규에서 사용하고 있는 사명 “대구도시철도공사”를 “대구교통공사”로 한다.② <생략>",
-      "provision_id": "SchlPubRul:대구교통공사전력계통운용규정#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사전력계통운용규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000132937",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20240809"
     },
     {
       "promulgation_date": "20231207",
       "promulgation_no": "00739",
       "content": "부칙 <제739호,2023.12.7>(직제규정)제1조(시행일) 이 규정은 2023년 12월 7일부터 시행한다. 다만, 직제의 전환시기는 개정 규정에 의한 최초 인사발령 시행일로 한다.제2조(기구 등에 관한 경과조치) 이 규정 시행일 현재 다른 규정에서 인용하고 있는 기구명칭, 직위 등이 이 규정에 의한 기구명칭, 직위 등과 다른 경우에는 이 규정 중 해당 기구명칭, 직위 등으로 변경된 것으로 본다.",
-      "provision_id": "SchlPubRul:대구교통공사전력계통운용규정#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사전력계통운용규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000132937",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20240809"
+    },
+    {
+      "promulgation_date": "20240809",
+      "promulgation_no": "00753",
+      "content": "부칙 <제753호,2024.8.9>이 규정은 2024년 8월 9일부터 시행한다.",
+      "provision_id": "SchlPubRul:대구교통공사전력계통운용규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000132937",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20240809"
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "지시보고 및 연락의 전달계통",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000132937&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=146327195",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=146327195",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:대구교통공사전력계통운용규정#BYL0001",
+      "filename": "별표1_지시보고 및 연락의 전달계통.hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표1_지시보고 및 연락의 전달계통.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "관제업무 사용 용어표",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000132937&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=146327199",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=146327199",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:대구교통공사전력계통운용규정#BYL0002",
+      "filename": "별표2_관제업무 사용 용어표.hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표2_관제업무 사용 용어표.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별표",
+      "title": "기기호칭표(1, 2호선)",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000132937&bylNo=0003&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=146327203",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=146327203",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:대구교통공사전력계통운용규정#BYL0003",
+      "filename": "별표3_기기호칭표(1, 2호선).hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표3_기기호칭표(1, 2호선).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별표",
+      "title": "기기용어2",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000132937&bylNo=0004&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=146327207",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=146327207",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:대구교통공사전력계통운용규정#BYL0004",
+      "filename": "별표4_기기용어2.hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표4_기기용어2.hwp",
+      "file_store_url": ""
+    }
+  ],
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 5,
+    "by_category": {
+      "학칙공단": 5
+    },
+    "by_relation_type": {
+      "appendix_ref": 3,
+      "internal_ref": 2
+    },
     "articles_total": 42,
-    "articles_with_relations": 0,
+    "articles_with_relations": 5,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 11,
+    "addenda_count": 12,
     "appendices_count": 4,
     "attachments_count": 0
   },
@@ -594,5 +886,8 @@
   "addendum_provision_id": "SchlPubRul:대구교통공사전력계통운용규정#ADDENDUM",
   "amendment_provision_id": "SchlPubRul:대구교통공사전력계통운용규정#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "대구교통공사  전력계통운용규정/대구교통공사  전력계통운용규정.json"
 }
