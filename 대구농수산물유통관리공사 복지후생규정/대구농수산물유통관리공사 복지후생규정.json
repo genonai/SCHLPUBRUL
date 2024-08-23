@@ -1,37 +1,37 @@
 {
   "law_id": "2135865",
-  "mst": "2200000135023",
+  "mst": "2200000135025",
   "law_name": "대구농수산물유통관리공사 복지후생규정",
   "law_abbr": "",
   "law_type": "공단규정",
   "doc_target": "public",
   "doc_kind": "공공기관",
   "adm_uid": "public:2135865",
-  "promulgation_no": "11",
-  "promulgation_date": "20231228",
-  "enforcement_date": "20240101",
-  "revision_date": "20231228",
-  "revision_type": "제정",
-  "is_current": false,
+  "promulgation_no": "28",
+  "promulgation_date": "20240823",
+  "enforcement_date": "20240823",
+  "revision_date": "20240823",
+  "revision_type": "일부개정",
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "대구농수산물유통관리공사",
     "담당자명": "강인정",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "대구농수산물유통관리공사 복지후생규정",
-    "발령일자": "20231228",
+    "발령일자": "20240823",
     "행정규칙종류": "공단규정",
-    "제개정구분코드": "200401",
+    "제개정구분코드": "200403",
     "조문형식여부": "Y",
     "소관부처명": "대구농수산물유통관리공사",
     "전화번호": "053-260-1039",
-    "제개정구분명": "제정",
+    "제개정구분명": "일부개정",
     "소관부처코드": "B555113",
     "생성일자": "20250908",
     "행정규칙ID": "2135865",
     "담당부서기관코드": "",
-    "발령번호": "11",
-    "행정규칙일련번호": "2200000135023"
+    "발령번호": "28",
+    "행정규칙일련번호": "2200000135025"
   },
   "amendment_text": "",
   "revision_reason": "",
@@ -123,7 +123,28 @@
         "chapter_path": "제3장 체육진흥",
         "content": "제8조(체육활동 지원) ① 직장체육 진흥 및 직원의 건전한 신체와 정신배양을 위하여 필요한 때에는 체육시설을 설치 또는 임차하여 운영할 수 있다.② 제7조의 규정에 의한 운동부 및 취미활동부 육성을 위해 필요한 때에는 장소, 시설 및 차량운행 등의 편의를 제공할 수 있으며 예산의 범위 안에서 소요되는 경비를 지원할 수 있다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제2항",
+            "link_text": "제7조",
+            "line_text": "",
+            "target_law_name": "대구농수산물유통관리공사 복지후생규정",
+            "target_article_no": "제7조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2135865",
+            "target_url": "https://www.law.go.kr/학칙공단/대구농수산물유통관리공사 복지후생규정/제7조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:대구농수산물유통관리공사복지후생규정#JO0008",
+            "reference_id": "SchlPubRul:대구농수산물유통관리공사복지후생규정#JO0007",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "대구농수산물유통관리공사 복지후생규정/대구농수산물유통관리공사 복지후생규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:대구농수산물유통관리공사복지후생규정#JO0008"
       },
@@ -134,7 +155,28 @@
         "chapter_path": "제4장 후생",
         "content": "제9조(복지시설 운영) 직원의 복리증진을 위하여 필요하다고 인정하는 때에는 「새마을금고법」에 의하여 직장새마을금고와 구내휴게소, 구내식당, 구내이발소, 휴양소, 기타 후생시설을 설치·운영할 수 있다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제9조",
+            "source_clause": "제9조",
+            "link_text": "「새마을금고법」",
+            "line_text": "",
+            "target_law_name": "새마을금고법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2135865",
+            "target_url": "https://www.law.go.kr/법령/새마을금고법",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:대구농수산물유통관리공사복지후생규정#JO0009",
+            "reference_id": "law:새마을금고법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "새마을금고법/법률/새마을금고법.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:대구농수산물유통관리공사복지후생규정#JO0009"
       },
@@ -143,7 +185,7 @@
         "article_title": "복지후생비",
         "chapter": "제4장 후생",
         "chapter_path": "제4장 후생",
-        "content": "제10조(복지후생비) 직원의 복지후생을 위하여 예산의 범위 안에서 다음 각 호의 복지후생비를 지급할 수 있다.1. 급식보조비2. 직급보조비3. 직책수행비",
+        "content": "제10조(복지후생비) 직원의 복지후생을 위하여 예산의 범위 안에서 다음 각 호의 복지후생비를 지급할 수 있다.1. 급식보조비2. 직급보조비3. 직책수행비4. 특정업무경비 <신설 2024. 8. 23.>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -154,9 +196,30 @@
         "article_title": "복지후생비 지급기준",
         "chapter": "제4장 후생",
         "chapter_path": "제4장 후생",
-        "content": "제11조(복지후생비 지급기준) 제10조의 복지후생비는 다음 각 호의 기준에 의거하여 지급한다.1. 급식보조비 : 급식보조비는 직원에 대하여 매월 보수일에 130,000원을 지급한다. 단, 휴직, 정직, 직위해제, 결근자는 출근일수에 대하여 일할 계산한다.2. 직급보조비 : 직급보조비의 지급기준은 사장이 별도로 정한다.가. 직급보조비는 매월 초 5일 이내에 지급한다.나. 직급보조비는 발령일로부터 일할 계산한다.3. 직책수행비 : 직책수행비의 지급기준은 사장이 별도로 정한다.",
+        "content": "제11조(복지후생비 지급기준) 제10조의 복지후생비는 다음 각 호의 기준에 의거하여 지급한다.1. 급식보조비 : 급식보조비는 직원에 대하여 매월 보수일에 130,000원을 지급한다. 단, 휴직, 정직, 직위해제, 결근자는 출근일수에 대하여 일할 계산한다.2. 직급보조비 : 직급보조비의 지급기준은 사장이 별도로 정한다.가. 직급보조비는 매월 초 5일 이내에 지급한다.나. 직급보조비는 발령일로부터 일할 계산한다.3. 직책수행비 : 직책수행비의 지급기준은 사장이 별도로 정한다.4.. 특정업무경비: 특정업무경비는 아래 업무수행자에 한하여 지급하되, 구체적인 대상은 사장이 별도로 정한다. <신설 2024. 8. 23.>가. 예산·결산·계약·감사·노사·보상업무·안전보건업무·경영평가실무 담당직원(팀장 이하)에 한하여 지급한다.나. 특정업무경비는 매월 보수일에 80,000원을 지급한다.다. 특정업무경비는 발령일로부터 일할 계산한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제11조",
+            "source_clause": "제11조",
+            "link_text": "제10조",
+            "line_text": "",
+            "target_law_name": "대구농수산물유통관리공사 복지후생규정",
+            "target_article_no": "제10조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2135865",
+            "target_url": "https://www.law.go.kr/학칙공단/대구농수산물유통관리공사 복지후생규정/제10조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:대구농수산물유통관리공사복지후생규정#JO0011",
+            "reference_id": "SchlPubRul:대구농수산물유통관리공사복지후생규정#JO0010",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "대구농수산물유통관리공사 복지후생규정/대구농수산물유통관리공사 복지후생규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:대구농수산물유통관리공사복지후생규정#JO0011"
       },
@@ -200,7 +263,28 @@
         "chapter_path": "제4장 후생",
         "content": "제15조(사내 근로복지기금) 공사는 직원의 복리증진을 위하여 「사내근로복지기금법」 에 의한 사내근로복지기금을 설치·운영할 수 있다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제15조",
+            "source_clause": "제15조",
+            "link_text": "「사내근로복지기금법」",
+            "line_text": "",
+            "target_law_name": "사내근로복지기금법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2135865",
+            "target_url": "https://www.law.go.kr/법령/사내근로복지기금법",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:대구농수산물유통관리공사복지후생규정#JO0015",
+            "reference_id": "law:사내근로복지기금법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "사내근로복지기금법/법률/사내근로복지기금법.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:대구농수산물유통관리공사복지후생규정#JO0015"
       },
@@ -244,7 +328,33 @@
         "chapter_path": "제4장 후생",
         "content": "제19조(재해부조) ① 수재, 화재, 기타 재해로 인하여 주택이 소실 또는 파괴된 경우에는 별표1에 정하는 바에 따라 재해부조를 할 수 있다.② 직원이 재해부조금을 받고자 할 때에는 거주지 관할 읍·면·동장이 발행하는 재해증명 또는 재해사실을 입증할 수 있는 증빙서류를 제출하여야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제19조",
+            "source_clause": "제19조제1항",
+            "link_text": "별표1",
+            "line_text": "",
+            "target_law_name": "대구농수산물유통관리공사 복지후생규정",
+            "target_article_no": "별표1",
+            "target_article_title": "재해부조금 지급표(제19조 관련)",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2135865",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000135025&bylNo=0001&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:대구농수산물유통관리공사복지후생규정#JO0019",
+            "target_unit": "BYL0001",
+            "reference_id": "SchlPubRul:대구농수산물유통관리공사복지후생규정#BYL0001",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "대구농수산물유통관리공사 복지후생규정/대구농수산물유통관리공사 복지후생규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:대구농수산물유통관리공사복지후생규정#JO0019"
       },
@@ -255,7 +365,28 @@
         "chapter_path": "제5장 보칙",
         "content": "제20조(지급의 제한) ① 이 규정에 의한 복지후생은 예산의 범위 안에서 실시한다.② 공무원 신분으로 공사에 파견되어 근무하는 자의 복지후생은 공무원과 중복되지 않는 범위 내에서 사장이 결정·시행한다.③ 직원이 정직 또는 강등의 징계처분을 받아 근무하지 못하는 기간 동안에는 제9조의 규정에 의한 휴양소 이용을 제한한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제20조",
+            "source_clause": "제20조제3항",
+            "link_text": "제9조",
+            "line_text": "",
+            "target_law_name": "대구농수산물유통관리공사 복지후생규정",
+            "target_article_no": "제9조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2135865",
+            "target_url": "https://www.law.go.kr/학칙공단/대구농수산물유통관리공사 복지후생규정/제9조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:대구농수산물유통관리공사복지후생규정#JO0020",
+            "reference_id": "SchlPubRul:대구농수산물유통관리공사복지후생규정#JO0009",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "대구농수산물유통관리공사 복지후생규정/대구농수산물유통관리공사 복지후생규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:대구농수산물유통관리공사복지후생규정#JO0020"
       }
@@ -265,23 +396,72 @@
     {
       "promulgation_date": "20231228",
       "promulgation_no": "00011",
-      "content": "부칙 <규정 제11호,2023.12.28> ①(시행일) 이 규정은 2024년 1월 1일부터 시행한다.②(경과조치) 이 규정 시행 전의 후생비 지급 및 직원복지에 관한 사항은 이 규정에 의하여 실시된 것으로 본다.",
-      "provision_id": "SchlPubRul:대구농수산물유통관리공사복지후생규정#ADDENDUM"
+      "content": "부칙 <규정 제11호,2023.12.28>① (시행일) 이 규정은 2024년 1월 1일부터 시행한다.② (경과조치) 이 규정 시행 전의 후생비 지급 및 직원복지에 관한 사항은 이 규정에 의하여 실시된 것으로 본다.",
+      "provision_id": "SchlPubRul:대구농수산물유통관리공사복지후생규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000135025",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20240823"
+    },
+    {
+      "promulgation_date": "20240823",
+      "promulgation_no": "00028",
+      "content": "부칙 <규정 제28호,2024.8.23>제1조(시행일) 이 규정은 공포한 날부터 시행한다.제2조(경과조치) 이 규정 시행일 이전에 시행된 사항은 이 규정에 의하여 처리된 것으로 본다.",
+      "provision_id": "SchlPubRul:대구농수산물유통관리공사복지후생규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000135025",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20240823"
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "재해부조금 지급표(제19조 관련)",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000135025&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144250487",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=144250487",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:대구농수산물유통관리공사복지후생규정#BYL0001",
+      "filename": "별표1_재해부조금 지급표(제19조 관련).hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표1_재해부조금 지급표(제19조 관련).hwp",
+      "file_store_url": ""
+    }
+  ],
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 6,
+    "by_category": {
+      "학칙공단": 4,
+      "법령": 2
+    },
+    "by_relation_type": {
+      "internal_ref": 3,
+      "citation": 2,
+      "appendix_ref": 1
+    },
     "articles_total": 20,
-    "articles_with_relations": 0,
+    "articles_with_relations": 6,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 1,
+    "addenda_count": 2,
     "appendices_count": 1,
     "attachments_count": 0
   },
@@ -292,5 +472,8 @@
   "addendum_provision_id": "SchlPubRul:대구농수산물유통관리공사복지후생규정#ADDENDUM",
   "amendment_provision_id": "SchlPubRul:대구농수산물유통관리공사복지후생규정#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "대구농수산물유통관리공사 복지후생규정/대구농수산물유통관리공사 복지후생규정.json"
 }
