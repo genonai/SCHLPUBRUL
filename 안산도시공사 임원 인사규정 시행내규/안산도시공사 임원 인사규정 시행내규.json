@@ -605,7 +605,33 @@
         "chapter_path": "",
         "content": "제23조(직책급업무추진비) 규정 제44조제1항에 따른 직책급업무추진비 지급기준은 별표 [별표 6]과 같다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제23조",
+            "source_clause": "제23조",
+            "link_text": "별표 6",
+            "line_text": "",
+            "target_law_name": "안산도시공사 임원 인사규정 시행내규",
+            "target_article_no": "별표6",
+            "target_article_title": "직책급업무추진비 지급기준",
+            "appendix_no": "6",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2135957",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000135283&bylNo=0006&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:안산도시공사임원인사규정시행내규#JO0023",
+            "target_unit": "BYL0006",
+            "reference_id": "SchlPubRul:안산도시공사임원인사규정시행내규#BYL0006",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "안산도시공사 임원 인사규정 시행내규/안산도시공사 임원 인사규정 시행내규.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:안산도시공사임원인사규정시행내규#JO0023"
       }
@@ -854,16 +880,16 @@
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 14,
+    "relations_total": 15,
     "by_category": {
-      "학칙공단": 14
+      "학칙공단": 15
     },
     "by_relation_type": {
       "internal_ref": 6,
-      "appendix_ref": 8
+      "appendix_ref": 9
     },
     "articles_total": 22,
-    "articles_with_relations": 8,
+    "articles_with_relations": 9,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
