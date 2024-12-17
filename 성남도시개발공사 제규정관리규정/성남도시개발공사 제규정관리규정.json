@@ -1,25 +1,25 @@
 {
   "law_id": "2132035",
-  "mst": "2200000128803",
+  "mst": "2200000137645",
   "law_name": "성남도시개발공사 제규정관리규정",
   "law_abbr": "",
   "law_type": "공단규정",
   "doc_target": "public",
   "doc_kind": "공공기관",
   "adm_uid": "public:2132035",
-  "promulgation_no": "규정 229",
-  "promulgation_date": "20191120",
-  "enforcement_date": "20191120",
-  "revision_date": "20191120",
+  "promulgation_no": "규정 345",
+  "promulgation_date": "20241217",
+  "enforcement_date": "20241217",
+  "revision_date": "20241217",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "성남도시개발공사(인사법무실)",
     "담당자명": "하동석",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "성남도시개발공사 제규정관리규정",
-    "발령일자": "20191120",
+    "발령일자": "20241217",
     "행정규칙종류": "공단규정",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -30,14 +30,14 @@
     "생성일자": "20250102",
     "행정규칙ID": "2132035",
     "담당부서기관코드": "",
-    "발령번호": "규정 229",
-    "행정규칙일련번호": "2200000128803"
+    "발령번호": "규정 345",
+    "행정규칙일련번호": "2200000137645"
   },
   "amendment_text": "",
-  "revision_reason": "○ 행정절차의 간소화 및 불합리한 규정내용 개선",
+  "revision_reason": "1. 개정이유\n○ 전자 규정집 정비 완료에 따른 종이규정집 운용 필요성 소멸\n- 공사의 규정은 국가법령정보센터, 공사 홈페이지 <사규> 게시판, 지방공공기관통합공시 홈페이지에 공개되어 있어 필요시 온라인 환경에서도 손쉽게 열람할 수 있으므로 종이 규정집은 사실상 사용하지 않고 있음.\n- 매해 종이 규정집 추록물 편집, 발간에 소요되는 예산 및 행정력 절감\n- 온라인상 공개된 사규의 관리와 관련한 조항 신설\n2. 주요골자\n○ 종이 규정집 관련 조항 삭제\n- 제15조(규정집 발간 등), 제16조(규정집 관리 등) 삭제\n○ 규정의 전자적 공개 관련 조항 신설\n- 제17조(규정의 공개) 신설\n? 규정의 공개\n? 규정의 비공개 사유\n? 실효성 있는 현행 규정의 유지관리",
   "body": {
     "format": "articles",
-    "article_count": 16,
+    "article_count": 17,
     "articles": [
       {
         "article_no": "제1조",
@@ -112,7 +112,33 @@
         "chapter_path": "제2장  제정 및 개폐",
         "content": "제7조(입안) ① 규정안의 입안은 당해 안건의 소관 부서에서 함을 원칙으로 한다. 다만, 소관 부서가 명확하지 아니하거나 2개 이상 부서의 공통소관사항인 경우에는 주관 부서에서 입안할 부서를 지정하거나 각 부서의 협조를 받아 직접 입안할 수 있다.② 제1항의 규정에 의하여 입안시에는 별표의 작성요령에 따라 “별지 제1호 서식“에 의하여 작성하여야 한다. 다만, 일부개정의 경우에는 신·구조문 대비표의 작성만으로 이에 갈음할 수 있다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제2항",
+            "link_text": "별지 제1호 서식",
+            "line_text": "",
+            "target_law_name": "성남도시개발공사 제규정관리규정",
+            "target_article_no": "별지1",
+            "target_article_title": "규정안 작성서식",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2132035",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147897027",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:성남도시개발공사제규정관리규정#JO0007",
+            "target_unit": "BJ0001",
+            "reference_id": "SchlPubRul:성남도시개발공사제규정관리규정#BJ0001",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "성남도시개발공사 제규정관리규정/성남도시개발공사 제규정관리규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:성남도시개발공사제규정관리규정#JO0007"
       },
@@ -145,7 +171,33 @@
         "chapter_path": "제2장  제정 및 개폐",
         "content": "제10조(절차) ① 규정의 제정 및 개폐절차는 다음 각 호와 같다.1. 규정은 이사회에서 의결하고 시장의 승인을 얻어 제정, 개폐한다.2. 세칙은 사장의 결재를 얻어 제정, 개폐한다.② 주관 부서는 제1항의 규정에 따라 제정, 개폐된 규정을 “별지 제2호 서식”의 규정대장에 등록하고 시행하여야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제2항",
+            "link_text": "별지 제2호 서식",
+            "line_text": "",
+            "target_law_name": "성남도시개발공사 제규정관리규정",
+            "target_article_no": "별지2",
+            "target_article_title": "규정대장",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2132035",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147897031",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:성남도시개발공사제규정관리규정#JO0010",
+            "target_unit": "BJ0002",
+            "reference_id": "SchlPubRul:성남도시개발공사제규정관리규정#BJ0002",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "성남도시개발공사 제규정관리규정/성남도시개발공사 제규정관리규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:성남도시개발공사제규정관리규정#JO0010"
       },
@@ -167,7 +219,33 @@
         "chapter_path": "제2장  제정 및 개폐",
         "content": "제12조(시행) ① 제정 또는 개폐된 규정은 사장의 명의로 공포 시행한다.② 시행하는 규정 및 세칙은 각각 일련번호를 쓰며 “별지 제3호 서식”의 규정 시행대장에 의거 관리하여야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제12조",
+            "source_clause": "제12조제2항",
+            "link_text": "별지 제3호 서식",
+            "line_text": "",
+            "target_law_name": "성남도시개발공사 제규정관리규정",
+            "target_article_no": "별지3",
+            "target_article_title": "규정시행대장",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2132035",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147897035",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:성남도시개발공사제규정관리규정#JO0012",
+            "target_unit": "BJ0003",
+            "reference_id": "SchlPubRul:성남도시개발공사제규정관리규정#BJ0003",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "성남도시개발공사 제규정관리규정/성남도시개발공사 제규정관리규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:성남도시개발공사제규정관리규정#JO0012"
       },
@@ -198,7 +276,7 @@
         "article_title": "규정집 발간 등",
         "chapter": "제3장   관    리",
         "chapter_path": "제3장   관    리",
-        "content": "제15조(규정집 발간 등) ① 주관 부서는 제4조의 규정에 의하여 분류된 체계에 따라 편철된 규정집을 발간하여 각 부서에 이를 배부하여야 하며, 년 2회 이상 변경된 규정에 대한 추록 발행 등 규정집을 정비하여야 한다.② 규정집은 부서 단위 당 1부씩 배부하는 것을 원칙으로 한다.",
+        "content": "제15조(규정집 발간 등) <삭제 2024. 12. 17.>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -209,11 +287,43 @@
         "article_title": "규정집 관리 등",
         "chapter": "제3장   관    리",
         "chapter_path": "제3장   관    리",
-        "content": "제16조(규정집 관리 등) ① 각 부서에 배부된 규정집에 대한 가제, 정정 등 관리에 철저를 기하여야 한다.② 규정집은 사외에 대여할 수 없다. 다만, 주관 부서장의 승인을 얻는 경우에는 그러하지 아니한다.",
+        "content": "제16조(규정집 관리 등)  <삭제 2024. 12. 17.>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
         "provision_id": "SchlPubRul:성남도시개발공사제규정관리규정#JO0016"
+      },
+      {
+        "article_no": "제17조",
+        "article_title": "규정의 공개",
+        "chapter": "제3장   관    리",
+        "chapter_path": "제3장   관    리",
+        "content": "제17조(규정의 공개) ① 주관부서는 규정을 공사 홈페이지에 전자적 형태로 공개하여야 한다.② 제1항에도 불구하고 다음 각 호의 어느 하나에 해당하는 규정은 공개하지 않을 수 있다.1. 공개될 경우 공사의 정당한 이익을 현저히 해할 우려가 있다고 인정되는 경우2. 공개될 경우 공사 업무 수행에 현저한 지장을 초래할 우려가 있다고 인정되는 경우3. 공개될 경우 공사의 보안상 비밀이 누설될 우려가 있다고 인정되는 경우③ 제정 및 개폐된 규정이 제12조에 따라 공포 시행된 경우에는 지체 없이 반영하여 실효성 있는 현행 규정의 공개를 유지하여야 한다. <신설 2024. 12. 17.>",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제17조",
+            "source_clause": "제17조제3항",
+            "link_text": "제12조",
+            "line_text": "",
+            "target_law_name": "성남도시개발공사 제규정관리규정",
+            "target_article_no": "제12조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2132035",
+            "target_url": "https://www.law.go.kr/학칙공단/성남도시개발공사 제규정관리규정/제12조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:성남도시개발공사제규정관리규정#JO0017",
+            "reference_id": "SchlPubRul:성남도시개발공사제규정관리규정#JO0012",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "성남도시개발공사 제규정관리규정/성남도시개발공사 제규정관리규정.json"
+          }
+        ],
+        "images": [],
+        "provision_id": "SchlPubRul:성남도시개발공사제규정관리규정#JO0017"
       }
     ]
   },
@@ -222,28 +332,155 @@
       "promulgation_date": "20131031",
       "promulgation_no": "00013",
       "content": "부칙 <규정 제13호,2013.10.31>제1조(시행일) 이 규정은 발령일부터 시행한다.제2조(제규정 관리업무의 대한 경과조치) 이 규정의 발령일 이전에 시행된 제규정 관리 관련 업무는 이규정에 의거 시행된 것으로 본다.",
-      "provision_id": "SchlPubRul:성남도시개발공사제규정관리규정#ADDENDUM"
+      "provision_id": "SchlPubRul:성남도시개발공사제규정관리규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000137645",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20241217"
     },
     {
       "promulgation_date": "20191120",
       "promulgation_no": "00229",
       "content": "부칙 <규정 제229호,2019.11.20>제1조(시행일) 이 규정은 발령한 날부터 시행한다.",
-      "provision_id": "SchlPubRul:성남도시개발공사제규정관리규정#ADDENDUM"
+      "provision_id": "SchlPubRul:성남도시개발공사제규정관리규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000137645",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20241217"
+    },
+    {
+      "promulgation_date": "20241217",
+      "promulgation_no": "00345",
+      "content": "부칙 <규정 제345호,2024.12.17>제1조(시행일) 이 규정은 발령한 날부터 시행한다.",
+      "provision_id": "SchlPubRul:성남도시개발공사제규정관리규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000137645",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20241217"
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "규정안 작성요령",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000137645&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147897005",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147897005",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:성남도시개발공사제규정관리규정#BYL0001",
+      "filename": "별표1_규정안 작성요령.hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표1_규정안 작성요령.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "규정안 작성서식",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147897027",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147897027",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:성남도시개발공사제규정관리규정#BJ0001",
+      "filename": "별지1_규정안 작성서식.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지1_규정안 작성서식.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "규정대장",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147897031",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147897031",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:성남도시개발공사제규정관리규정#BJ0002",
+      "filename": "별지2_규정대장.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지2_규정대장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "규정시행대장",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147897035",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147897035",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:성남도시개발공사제규정관리규정#BJ0003",
+      "filename": "별지3_규정시행대장.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지3_규정시행대장.hwp",
+      "file_store_url": ""
+    }
+  ],
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
-    "articles_total": 16,
-    "articles_with_relations": 0,
+    "relations_total": 4,
+    "by_category": {
+      "학칙공단": 4
+    },
+    "by_relation_type": {
+      "appendix_ref": 3,
+      "internal_ref": 1
+    },
+    "articles_total": 17,
+    "articles_with_relations": 4,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 2,
+    "addenda_count": 3,
     "appendices_count": 4,
     "attachments_count": 0
   },
@@ -254,5 +491,8 @@
   "addendum_provision_id": "SchlPubRul:성남도시개발공사제규정관리규정#ADDENDUM",
   "amendment_provision_id": "SchlPubRul:성남도시개발공사제규정관리규정#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "성남도시개발공사 제규정관리규정/성남도시개발공사 제규정관리규정.json"
 }
