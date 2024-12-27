@@ -1,40 +1,40 @@
 {
   "law_id": "2127175",
-  "mst": "2200000124833",
+  "mst": "2200000138003",
   "law_name": "대구교통공사  정보통신설비보수규정",
   "law_abbr": "",
   "law_type": "공단규정",
   "doc_target": "public",
   "doc_kind": "공공기관",
   "adm_uid": "public:2127175",
-  "promulgation_no": "739",
-  "promulgation_date": "20231207",
-  "enforcement_date": "20231207",
-  "revision_date": "20231207",
-  "revision_type": "타법개정",
-  "is_current": false,
+  "promulgation_no": "770",
+  "promulgation_date": "20241227",
+  "enforcement_date": "20241227",
+  "revision_date": "20241227",
+  "revision_type": "일부개정",
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "대구교통공사",
     "담당자명": "최은희",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "대구교통공사  정보통신설비보수규정",
-    "발령일자": "20231207",
+    "발령일자": "20241227",
     "행정규칙종류": "공단규정",
-    "제개정구분코드": "200409",
+    "제개정구분코드": "200403",
     "조문형식여부": "Y",
     "소관부처명": "대구교통공사",
     "전화번호": "0536400893",
-    "제개정구분명": "타법개정",
+    "제개정구분명": "일부개정",
     "소관부처코드": "B554805",
     "생성일자": "20241230",
     "행정규칙ID": "2127175",
     "담당부서기관코드": "",
-    "발령번호": "739",
-    "행정규칙일련번호": "2200000124833"
+    "발령번호": "770",
+    "행정규칙일련번호": "2200000138003"
   },
   "amendment_text": "",
-  "revision_reason": "-",
+  "revision_reason": "◇ 정보통신설비보수규정 개정이유 ◇\n? 1호선 열차무선설비 개량(VHF -> LTE-R) 및 TRS설비 사용\n중단에 따른 개정\n◇ 주 요 골 자 ◇\n? 별표1-설비별 점검 주기표(1·2호선)\n- 열차무선설비(LTE-R)설비 점검 항목 신설\n- TRS설비 점검 항목 삭제",
   "body": {
     "format": "articles",
     "article_count": 37,
@@ -101,7 +101,28 @@
         "chapter_path": "제2장  설비의 점검 및 보수 > 제1절  설비의 점검",
         "content": "제6조(점검의 생략)  제5조에 의한 임시검사를 시행한 경우 설비의 정기점검을 생략할 수 있으며, 정기점검의 점검기간은 임시검사를 필한 날부터 기산한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "제5조",
+            "line_text": "",
+            "target_law_name": "대구교통공사 정보통신설비보수규정",
+            "target_article_no": "제5조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2127175",
+            "target_url": "https://www.law.go.kr/학칙공단/대구교통공사 정보통신설비보수규정/제5조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:대구교통공사정보통신설비보수규정#JO0006",
+            "reference_id": "SchlPubRul:대구교통공사정보통신설비보수규정#JO0005",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "대구교통공사 정보통신설비보수규정/대구교통공사 정보통신설비보수규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:대구교통공사정보통신설비보수규정#JO0006"
       },
@@ -112,7 +133,58 @@
         "chapter_path": "제2장  설비의 점검 및 보수 > 제1절  설비의 점검",
         "content": "제7조(점검의 방법)  ①정기점검 및 임시검사를 시행하는 방법은 다음 각호에 의한다.1. 정기점검 및 사후관리를 할 수 있는 설비는 1·2호선은 별표1, 3호선은 별표2에 의한다. <개정 ‘07. 12. 27, ’15. 4. 23>2.정기점검의 경우 필요에 따라 시스템을 전반적으로 동시에 실시할 수 있다.3. 소속장은 필요한 경우에 점검의 실시시기를 조정할 수 있으며, 점검내용을 추가 지정하여 시행할 수 있다. <개정 ‘15. 4. 23>4. 임시검사를 시행할 경우에는 정기점검에 준하여 실시한다.②제1항제1호 및 제4호에 의한 설비의 종류 및 임시검사 사항은 내규로 정한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제1항",
+            "link_text": "별표1",
+            "line_text": "",
+            "target_law_name": "대구교통공사 정보통신설비보수규정",
+            "target_article_no": "별표1",
+            "target_article_title": "설비별 점검 주기표(1,2호선)",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2127175",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000138003&bylNo=0001&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:대구교통공사정보통신설비보수규정#JO0007",
+            "target_unit": "BYL0001",
+            "reference_id": "SchlPubRul:대구교통공사정보통신설비보수규정#BYL0001",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "대구교통공사 정보통신설비보수규정/대구교통공사 정보통신설비보수규정.json"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제1항",
+            "link_text": "별표2",
+            "line_text": "",
+            "target_law_name": "대구교통공사 정보통신설비보수규정",
+            "target_article_no": "별표2",
+            "target_article_title": "설비별 점검 주기표(3호선)",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2127175",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000138003&bylNo=0002&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:대구교통공사정보통신설비보수규정#JO0007",
+            "target_unit": "BYL0002",
+            "reference_id": "SchlPubRul:대구교통공사정보통신설비보수규정#BYL0002",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "대구교통공사 정보통신설비보수규정/대구교통공사 정보통신설비보수규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:대구교통공사정보통신설비보수규정#JO0007"
       },
@@ -134,7 +206,48 @@
         "chapter_path": "제2장  설비의 점검 및 보수 > 제1절  설비의 점검",
         "content": "제9조(점검결과의 관리)  제5조 및 제7조 규정에 의하여 시행한 점검결과는 기록 유지하여야 한다.<개정 ’05. 5. 9>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제9조",
+            "source_clause": "제9조",
+            "link_text": "제5조 및 제7조",
+            "line_text": "",
+            "target_law_name": "대구교통공사 정보통신설비보수규정",
+            "target_article_no": "제5조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2127175",
+            "target_url": "https://www.law.go.kr/학칙공단/대구교통공사 정보통신설비보수규정/제5조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:대구교통공사정보통신설비보수규정#JO0009",
+            "reference_id": "SchlPubRul:대구교통공사정보통신설비보수규정#JO0005",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "대구교통공사 정보통신설비보수규정/대구교통공사 정보통신설비보수규정.json"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제9조",
+            "source_clause": "제9조",
+            "link_text": "제5조 및 제7조",
+            "line_text": "",
+            "target_law_name": "대구교통공사 정보통신설비보수규정",
+            "target_article_no": "제7조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2127175",
+            "target_url": "https://www.law.go.kr/학칙공단/대구교통공사 정보통신설비보수규정/제7조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:대구교통공사정보통신설비보수규정#JO0009",
+            "reference_id": "SchlPubRul:대구교통공사정보통신설비보수규정#JO0007",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "대구교통공사 정보통신설비보수규정/대구교통공사 정보통신설비보수규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:대구교통공사정보통신설비보수규정#JO0009"
       },
@@ -244,7 +357,28 @@
         "chapter_path": "제3장  사고복구 및 보고",
         "content": "제19조(사고의 복구작업)  ①분소장 및 3호선 통신업무 담당부장(이하 “복구책임자”라 한다)은 사고의 복구에 있어서 사고의 상황, 단계별 복구작업 및 조치사항 등의 내용을 소속장에게 보고하여야 한다. <개정 ‘15. 4. 23>②보고에 필요한 사항은 제20조제2항에 의한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제19조",
+            "source_clause": "제19조제2항",
+            "link_text": "제20조제2항",
+            "line_text": "",
+            "target_law_name": "대구교통공사 정보통신설비보수규정",
+            "target_article_no": "제20조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2127175",
+            "target_url": "https://www.law.go.kr/학칙공단/대구교통공사 정보통신설비보수규정/제20조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:대구교통공사정보통신설비보수규정#JO0019",
+            "reference_id": "SchlPubRul:대구교통공사정보통신설비보수규정#JO0020",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "대구교통공사 정보통신설비보수규정/대구교통공사 정보통신설비보수규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:대구교통공사정보통신설비보수규정#JO0019"
       },
@@ -453,118 +587,270 @@
       "promulgation_date": "19960610",
       "promulgation_no": "00031",
       "content": "부칙 <제31호,1996.6.10>이 규정은 1996년  6월  10일부터 시행한다.",
-      "provision_id": "SchlPubRul:대구교통공사정보통신설비보수규정#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사정보통신설비보수규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000138003",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20241227"
     },
     {
       "promulgation_date": "20000413",
       "promulgation_no": "00105",
       "content": "부칙 <제105호,2000.4.13>이 규정은 2000년  9월  1일부터 시행한다.",
-      "provision_id": "SchlPubRul:대구교통공사정보통신설비보수규정#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사정보통신설비보수규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000138003",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20241227"
     },
     {
       "promulgation_date": "20050509",
       "promulgation_no": "00192",
       "content": "부칙 <제192호,2005.5.9>이 규정은 2005년  5월  9일부터 시행한다.",
-      "provision_id": "SchlPubRul:대구교통공사정보통신설비보수규정#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사정보통신설비보수규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000138003",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20241227"
     },
     {
       "promulgation_date": "20060608",
       "promulgation_no": "00253",
       "content": "부칙 <제253호,2006.6.8>이 규정은 2006년  6월  9일부터 시행한다.",
-      "provision_id": "SchlPubRul:대구교통공사정보통신설비보수규정#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사정보통신설비보수규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000138003",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20241227"
     },
     {
       "promulgation_date": "20071227",
       "promulgation_no": "00278",
       "content": "부칙 <제278호,2007.12.27>이 규정은 2008년  1월  1일부터 시행한다.",
-      "provision_id": "SchlPubRul:대구교통공사정보통신설비보수규정#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사정보통신설비보수규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000138003",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20241227"
     },
     {
       "promulgation_date": "20080925",
       "promulgation_no": "00279",
       "content": "부칙 <제279호,2008.9.25><정관 제20호, ’08. 9. 25>①(시행일) 이 정관은 2008년 10월 1일부터 시행한다.②(포괄승계 사항의 경과조치) 이 정관 제정 당시에 지하철 운영에 관하여 공사에 포괄승계된 사항은 이 정관 시행에 의하여 도시철도 운영에 관하여 공사에 포괄승계된 것으로 본다.③(다른 사규의 개정) 이 정관 시행일 현재 공사의 모든 사규에서 사용하고 있는 사명 “대구광역시지하철공사”를 각각 “대구도시철도공사”로 하고, 용어 “지하철”을 각각 “도시철도”로 하며, 명칭 “행정자치부장관”을 각각 “행정안전부장관”으로 한다.",
-      "provision_id": "SchlPubRul:대구교통공사정보통신설비보수규정#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사정보통신설비보수규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000138003",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20241227"
     },
     {
       "promulgation_date": "20091223",
       "promulgation_no": "00336",
       "content": "부칙 <제336호,2009.12.23>이 규정은 2010년  1월  1일부터 시행한다.",
-      "provision_id": "SchlPubRul:대구교통공사정보통신설비보수규정#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사정보통신설비보수규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000138003",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20241227"
     },
     {
       "promulgation_date": "20120710",
       "promulgation_no": "00386",
       "content": "부칙 <제386호,2012.7.10>①(시행일) 이 규정은 2012년 7월 10일부터 시행한다.②(경과조치) 이 규정 시행일 이전에 시행된 사항에 대하여는 이 규정에 의하여 시행된 것으로 본다.",
-      "provision_id": "SchlPubRul:대구교통공사정보통신설비보수규정#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사정보통신설비보수규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000138003",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20241227"
     },
     {
       "promulgation_date": "20121226",
       "promulgation_no": "00400",
       "content": "부칙 <제400호,2012.12.26>이 규정은 2013년  1월  1일부터 시행한다.",
-      "provision_id": "SchlPubRul:대구교통공사정보통신설비보수규정#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사정보통신설비보수규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000138003",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20241227"
     },
     {
       "promulgation_date": "20150423",
       "promulgation_no": "00485",
       "content": "부칙 <제485호,2015.4.23>이 규정은 2015년  4월  23일부터 시행한다.",
-      "provision_id": "SchlPubRul:대구교통공사정보통신설비보수규정#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사정보통신설비보수규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000138003",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20241227"
     },
     {
       "promulgation_date": "20160323",
       "promulgation_no": "00518",
       "content": "부칙 <제518호,2016.3.23>이 규정은 2016년  4월  1일부터 시행한다.",
-      "provision_id": "SchlPubRul:대구교통공사정보통신설비보수규정#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사정보통신설비보수규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000138003",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20241227"
     },
     {
       "promulgation_date": "20161125",
       "promulgation_no": "00530",
       "content": "부칙 <제530호,2016.11.25>이 규정은 2016년  11월  25일부터 시행한다.",
-      "provision_id": "SchlPubRul:대구교통공사정보통신설비보수규정#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사정보통신설비보수규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000138003",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20241227"
     },
     {
       "promulgation_date": "20191212",
       "promulgation_no": "00630",
       "content": "부칙 <제630호,2019.12.12>이 규정은 2019년  12월  12일부터 시행한다.",
-      "provision_id": "SchlPubRul:대구교통공사정보통신설비보수규정#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사정보통신설비보수규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000138003",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20241227"
     },
     {
       "promulgation_date": "20200709",
       "promulgation_no": "00649",
       "content": "부칙 <제649호,2020.7.9>이 규정은 2020년  7월  9일부터 시행한다.",
-      "provision_id": "SchlPubRul:대구교통공사정보통신설비보수규정#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사정보통신설비보수규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000138003",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20241227"
     },
     {
       "promulgation_date": "20210526",
       "promulgation_no": "00671",
       "content": "부칙 <제671호,2021.5.26>이 규정은 2021년  5월  26일부터 시행한다.",
-      "provision_id": "SchlPubRul:대구교통공사정보통신설비보수규정#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사정보통신설비보수규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000138003",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20241227"
     },
     {
       "promulgation_date": "20220830",
       "promulgation_no": "00038",
       "content": "부칙 <제38호,2022.8.30>(정관)제1조(시행일) 이 정관은  2022년 9월 1일부터 시행한다.제2조 <생략>제3조(다른 사규의 개정) ①이 정관 시행일 현재 공사의 모든 사규에서 사용하고 있는 사명 “대구도시철도공사”를 “대구교통공사”로 한다.② <생략>",
-      "provision_id": "SchlPubRul:대구교통공사정보통신설비보수규정#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사정보통신설비보수규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000138003",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20241227"
     },
     {
       "promulgation_date": "20231207",
       "promulgation_no": "00739",
       "content": "부칙 <제739호,2023.12.7>(직제규정)제1조(시행일) 이 규정은 2023년 12월 7일부터 시행한다. 다만, 직제의 전환시기는 개정 규정에 의한 최초 인사발령 시행일로 한다.제2조(기구 등에 관한 경과조치) 이 규정 시행일 현재 다른 규정에서 인용하고 있는 기구명칭, 직위 등이 이 규정에 의한 기구명칭, 직위 등과 다른 경우에는 이 규정 중 해당 기구명칭, 직위 등으로 변경된 것으로 본다.",
-      "provision_id": "SchlPubRul:대구교통공사정보통신설비보수규정#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사정보통신설비보수규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000138003",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20241227"
+    },
+    {
+      "promulgation_date": "20241227",
+      "promulgation_no": "00770",
+      "content": "부칙 <제770호,2024.12.27>이 규정은 2024년 12월 27일부터 시행한다.",
+      "provision_id": "SchlPubRul:대구교통공사정보통신설비보수규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000138003",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20241227"
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "설비별 점검 주기표(1,2호선)",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000138003&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147475471",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147475471",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:대구교통공사정보통신설비보수규정#BYL0001",
+      "filename": "별표1_설비별 점검 주기표(1,2호선).hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표1_설비별 점검 주기표(1,2호선).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "설비별 점검 주기표(3호선)",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000138003&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147475477",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147475477",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:대구교통공사정보통신설비보수규정#BYL0002",
+      "filename": "별표2_설비별 점검 주기표(3호선).hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표2_설비별 점검 주기표(3호선).hwp",
+      "file_store_url": ""
+    }
+  ],
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 6,
+    "by_category": {
+      "학칙공단": 6
+    },
+    "by_relation_type": {
+      "internal_ref": 4,
+      "appendix_ref": 2
+    },
     "articles_total": 37,
-    "articles_with_relations": 0,
+    "articles_with_relations": 4,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 17,
+    "addenda_count": 18,
     "appendices_count": 2,
     "attachments_count": 0
   },
@@ -575,5 +861,8 @@
   "addendum_provision_id": "SchlPubRul:대구교통공사정보통신설비보수규정#ADDENDUM",
   "amendment_provision_id": "SchlPubRul:대구교통공사정보통신설비보수규정#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "대구교통공사  정보통신설비보수규정/대구교통공사  정보통신설비보수규정.json"
 }
