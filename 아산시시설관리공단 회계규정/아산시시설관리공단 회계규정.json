@@ -1,25 +1,25 @@
 {
   "law_id": "2141375",
-  "mst": "2200000157383",
+  "mst": "2200000157357",
   "law_name": "아산시시설관리공단 회계규정",
   "law_abbr": "",
   "law_type": "공단규정",
   "doc_target": "public",
   "doc_kind": "공공기관",
   "adm_uid": "public:2141375",
-  "promulgation_no": "268",
-  "promulgation_date": "20240315",
-  "enforcement_date": "20240315",
-  "revision_date": "20240315",
+  "promulgation_no": "292",
+  "promulgation_date": "20241230",
+  "enforcement_date": "20250101",
+  "revision_date": "20241230",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "아산시시설관리공단",
     "담당자명": "김연주",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "아산시시설관리공단 회계규정",
-    "발령일자": "20240315",
+    "발령일자": "20241230",
     "행정규칙종류": "공단규정",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -30,8 +30,8 @@
     "생성일자": "20260630",
     "행정규칙ID": "2141375",
     "담당부서기관코드": "",
-    "발령번호": "268",
-    "행정규칙일련번호": "2200000157383"
+    "발령번호": "292",
+    "행정규칙일련번호": "2200000157357"
   },
   "amendment_text": "",
   "revision_reason": "",
@@ -46,7 +46,46 @@
         "chapter_path": "제1장  총칙",
         "content": "제1조(목적) 이 규정은 「지방공기업법」 및 「아산시 시설관리공단 설립 및 운영에 관한 조례」에 따라 아산시시설관리공단의 재무 및 회계의 운영에 관하여 필요한 사항을 규정함을 목적으로 한다.<개정 2022.9.21.>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「지방공기업법」",
+            "line_text": "",
+            "target_law_name": "지방공기업법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2141375",
+            "target_url": "https://www.law.go.kr/법령/지방공기업법",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:아산시시설관리공단회계규정#JO0001",
+            "reference_id": "law:지방공기업법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "자치법규",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「아산시 시설관리공단 설립 및 운영에 관한 조례」",
+            "line_text": "",
+            "target_law_name": "아산시 시설관리공단 설립 및 운영에 관한 조례",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2141375",
+            "target_url": "https://www.law.go.kr/자치법규/아산시 시설관리공단 설립 및 운영에 관한 조례",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:아산시시설관리공단회계규정#JO0001",
+            "reference_id": "ordin:아산시시설관리공단설립및운영에관한조례#DOC"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:아산시시설관리공단회계규정#JO0001"
       },
@@ -99,7 +138,7 @@
         "article_title": "회계 관계 임직원의 관직지정",
         "chapter": "제1장  총칙",
         "chapter_path": "제1장  총칙",
-        "content": "제6조(회계 관계 임직원의 관직지정)  ① 제5조의 규정에 따라 회계에 관한 독립의 업무를 담당하기 위하여 다음 각 호의 관직을 지정한다.1. 재무관ㆍ징수관: 상임이사 <개정 2022.9.21.>2. 분임재무관: 회계팀장, 세외수입 지출업무 소관부서장(세외수입에 한함) <개정 2022.9.21.>3. 분임징수관: 회계팀장, 세외수입 징수업무소관부서장(세외수입에 한함) <개정 2022.9.21.>4. 수입금출납원: 회계팀의 수입관리 업무담당, 각 팀의 수입관리 업무담당5. 채권관리관: 회계팀장 <개정 2021.9.13., 2022.9.21.>6. 부채관리관: 회계팀장 <개정 2021.9.13., 2022.9.21.>7. 지출원: 각 팀의 팀장 또는 6급이상 직원<개정 2022.9.21., 2023.9.20.>8. 세입ㆍ세출외 현금출납원: 회계팀의 재무?지출업무담당<개정 2022.9.21.>9. 일상경비출납원: 각 팀의 재무 업무 담당 <개정 2022.9.21.>② 제1항의 규정 이외의 회계관직은 필요에 따라 이사장이 지정할 수 있다.",
+        "content": "제6조(회계 관계 임직원의 관직지정)  ① 제5조의 규정에 따라 회계에 관한 독립의 업무를 담당하기 위하여 다음 각 호의 관직을 지정한다.1. 재무관ㆍ징수관: 상임이사 <개정 2022.9.21.>2. 분임재무관: 경영지원부장, 각 팀 일상경비 취급 팀장(일상경비에 한함) <개정 2022.9.21., 2024.12.30.>3. 분임징수관: 경영지원부장, 각 팀 일상경비 취급 팀장(일상경비에 한함), 세외수입 징수업무 부장(세외수입에 한함) <개정 2022.9.21., 2024.12.30.>4. 수입금출납원: 회계팀의 수입관리 업무담당, 각 팀의 수입관리 업무담당5. 채권관리관: 회계팀장 <개정2021.9.13., 2022.9.21.>6. 부채관리관: 회계팀장 <개정2021.9.13., 2022.9.21.>7. 지출원: 회계팀장<개정2022.9.21., 2023.9.20.,2024.12.30.>8. 세입ㆍ세출외 현금출납원: 회계팀의 재무?지출업무담당<개정 2022.9.21.>9. 일상경비출납원: 각 팀장의 차하위 직급 또는 팀장이 지정하는 자 <개정 2022.9.21.,2024.12.30.>② 제1항의 규정 이외의 회계관직은 필요에 따라 이사장이 지정할 수 있다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -156,7 +195,28 @@
         "chapter_path": "제1장  총칙",
         "content": "제11조(회계관계 직원의 책임) ① 회계관계 직원은 법령 및 조례 기타 관계규정이 정하는 바에 따라 성실하게 그 직무에 따른 회계처리를 하여야 한다.② 회계관계 직원의 책임에 관하여는 「회계관계 직원 등의 책임에 관한 법률」이 정하는 바에 따른다.<개정 2022.9.21.>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제2항",
+            "link_text": "「회계관계 직원 등의 책임에 관한 법률」",
+            "line_text": "",
+            "target_law_name": "회계관계 직원 등의 책임에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2141375",
+            "target_url": "https://www.law.go.kr/법령/회계관계 직원 등의 책임에 관한 법률",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:아산시시설관리공단회계규정#JO0011",
+            "reference_id": "law:회계관계직원등의책임에관한법률#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "회계관계 직원 등의 책임에 관한 법률/법률/회계관계 직원 등의 책임에 관한 법률.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:아산시시설관리공단회계규정#JO0011"
       },
@@ -671,9 +731,30 @@
         "article_title": "유휴자금의 운용",
         "chapter": "제1절 통칙",
         "chapter_path": "제3장 금전회계 > 제1절 통칙",
-        "content": "제58조(유휴자금의 운용) 이사장은 유휴자금을 활용하기 위하여 지정금융기관에 가장 이율이 높은 예금으로 예입하여야 한다.",
+        "content": "제58조(유휴자금의 운용) ① 이사장은 유휴자금을 활용하기 위하여 지정금융기관에 가장 이율이 높은 예금으로 예입하되, 안전성과 유동성을 고려하여 다른 금융기관에 예입할 수 있다. <신설 2024.12.30.>② 제1항의 금융기관은「은행법」에 따른 금융기관으로 신용평가사를 통해 AAA등급 이상의 신용등급을 평가받은 금융기관을 말한다. <신설 2024.12.30.>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제58조",
+            "source_clause": "제58조제2항",
+            "link_text": "「은행법」",
+            "line_text": "",
+            "target_law_name": "은행법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2141375",
+            "target_url": "https://www.law.go.kr/법령/은행법",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:아산시시설관리공단회계규정#JO0058",
+            "reference_id": "law:은행법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "은행법/법률/은행법.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:아산시시설관리공단회계규정#JO0058"
       },
@@ -924,7 +1005,7 @@
         "article_title": "일상경비의 교부",
         "chapter": "제3절 지출",
         "chapter_path": "제3장 금전회계 > 제3절 지출",
-        "content": "제81조(일상경비의 교부) ① 업무의 성질상 현금으로 지급하지 아니하면 업무수행에 지장을 초래할 우려가 있는 경우에 한하여 일상경비를 지급할 수 있다.② 일상경비를 교부한 때에는 일상경비정리부에 교부 및 정산상황을 정리하여야 한다.③ 일상경비출납원은 교부금에 대하여 특별히 정한 경우를 제외하고는 지출원 업무에 준하여 처리하여야 한다.④ 일상경비출납원은 다음달 10일까지 교부금 정산보고서를 관계 증빙서와 함께 지출원에게 제출하여야 한다. 다만, 회계연도말에는 전액 정산하여야 한다.<개정 2022.9.21.>",
+        "content": "제81조(일상경비의 교부) ① 업무의 성질상 현금으로 지급하지 아니하면 업무수행에 지장을 초래할 우려가 있는 경우에 한하여 일상경비를 지급할 수 있다.② 일상경비출납원은 예산의 범위 내에서 일상경비를 교부 받아 집행하고자 할 때에는 지출원에게 일상경비교부요구서(별지 제44호서식)를 제출하여야 한다. <개정  2024.12.30.>③ 지출원은 제1항의 규정에 의하여 일상경비 교부요구를 받았을 때에는 자금을 교부하고 일상경비 출납원에게 일상경비교부통지서(별지 제45호서식)를 통지하거나 전자적 처리로 갈음 할 수 있다. <개정2024.12.30.>④ 지출원이 일상경비를 교부하였을 때에는 일상경비정리부(별지 제46호서식)에 교부 및 정산내역을 정리하여야 한다. 다만, 정보처리장치를 활용하여 대체할 수 있다.<개정 2022.9.21., 2024.12.30.>⑤ 일상경비출납원은 일상경비 월별 정산보고서(별지 제47호서식) 를 작성하여 익월 5일까지 지출원에게 통보하여야 하며, 당해 회계연도 중에 사업이 종료된 것은 즉시 정산반환하여야 한다.<신설 2024.12.30.>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -935,9 +1016,30 @@
         "article_title": "일상경비의 범위",
         "chapter": "제3절 지출",
         "chapter_path": "제3장 금전회계 > 제3절 지출",
-        "content": "제82조(일상경비의 범위) ① 일상경비의 교부범위는 다음과 같다.1. 각 팀내 일상적인 제세공과금, 직원출장여비 및 관서운영비 등 일상경비2. 각 팀내 급량비, 접대비, 기타잡비 등 법인카드 사용대상 집행액3. 각 팀에서 시행하는 1건당 추정가격 200만원이하의 공사, 용역, 물품제조 및 구매에 소요되는 경비4. 다수인에게 소액을 집행하는 경비5. 일시사역 일용잡부 인부임6. 연간 단가계약에 의한 불변 지급액7. 기타 기준을 정하여 이사장의 승인을 받은 경비② 기타 정하지 않은 사항에 대하여는 「지방공기업법 시행령」을 준용한다. <개정 2019.12.31.>",
+        "content": "제82조(일상경비의 범위) ① 일상경비의 교부범위는 다음과 같다.1. 각 팀내 일상적인 제세공과금, 직원출장여비 및 관서운영비 등 일상경비2. 각 팀내 급식비, 업무추진비, 기타잡비 등 법인카드 사용대상 집행액 <개정 2024.12.30.>3. 각 팀에서 시행하는 1건당 추정가격 200만원이하의 공사, 용역, 물품제조 및 구매에 소요되는 경비4. 다수인에게 소액을 집행하는 경비5. 일시사역 일용직 인부임, 사회복무요원보수 <개정 2024.12.30.>6. 연간계약에 의한 불변 지급액 <개정 2024.12.30.>7. 기타 기준을 정하여 이사장의 승인을 받은 경비② 기타 정하지 않은 사항에 대하여는 「지방공기업법 시행령」을 준용한다. <개정 2019.12.31.>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제82조",
+            "source_clause": "제82조제2항",
+            "link_text": "「지방공기업법 시행령」",
+            "line_text": "",
+            "target_law_name": "지방공기업법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2141375",
+            "target_url": "https://www.law.go.kr/법령/지방공기업법 시행령",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:아산시시설관리공단회계규정#JO0082",
+            "reference_id": "law:지방공기업법시행령#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "지방공기업법/시행령/지방공기업법 시행령.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:아산시시설관리공단회계규정#JO0082"
       },
@@ -1201,7 +1303,48 @@
         "chapter_path": "제3장 금전회계 > 제6절 지정금융기관",
         "content": "제106조(설치계약의 방법) 이사장은 「지방공기업법시행령」 제26조의 규정에 따라 지정금융기관 설치계약을 하고자 할 경우에는 시장의 승인을 얻어 다음 각 호의 방법으로 계약을 하여야 한다.<개정 2022.9.21.>1. 출납취급 금융기관: 이사장과 당해 금융기관이 계약서를 작성한다. <개정 2022.9.21.>2. 수납취급 금융기관: 출납취급 금융기관과 당해 금융기관이 2차계약서를 작성한다.<개정 2022.9.21.>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제106조",
+            "source_clause": "제106조",
+            "link_text": "「지방공기업법시행령」",
+            "line_text": "",
+            "target_law_name": "지방공기업법시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2141375",
+            "target_url": "https://www.law.go.kr/법령/지방공기업법시행령",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:아산시시설관리공단회계규정#JO0106",
+            "reference_id": "law:지방공기업법시행령#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "지방공기업법/시행령/지방공기업법시행령.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제106조",
+            "source_clause": "제106조",
+            "link_text": "제26조",
+            "line_text": "",
+            "target_law_name": "지방공기업법시행령",
+            "target_article_no": "제26조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2141375",
+            "target_url": "https://www.law.go.kr/법령/지방공기업법시행령/제26조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:아산시시설관리공단회계규정#JO0106",
+            "reference_id": "law:지방공기업법시행령#JO0026",
+            "target_repo": "LAW",
+            "target_git_path_guess": "지방공기업법/시행령/지방공기업법시행령.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:아산시시설관리공단회계규정#JO0106"
       },
@@ -1377,7 +1520,48 @@
         "chapter_path": "제4장 자산회계 > 제1절 통칙",
         "content": "제122조(자산의 재평가) ① 자산의 재평가는 「자산재평가법」 및 「감정평가에 관한 법률」, 「지방공기업 시행규칙」이 정하는 바에 따른다. <개정 2022.9.21.>② 제1항의 규정에 따른 자산재평가를 실시하고자 하는 경우에는 이사회의 승인을 얻어야 한다.<개정 2022.9.21.>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제122조",
+            "source_clause": "제122조제1항",
+            "link_text": "「자산재평가법」",
+            "line_text": "",
+            "target_law_name": "자산재평가법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2141375",
+            "target_url": "https://www.law.go.kr/법령/자산재평가법",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:아산시시설관리공단회계규정#JO0122",
+            "reference_id": "law:자산재평가법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "자산재평가법/법률/자산재평가법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제122조",
+            "source_clause": "제122조제1항",
+            "link_text": "「감정평가에 관한 법률」",
+            "line_text": "",
+            "target_law_name": "감정평가에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2141375",
+            "target_url": "https://www.law.go.kr/법령/감정평가에 관한 법률",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:아산시시설관리공단회계규정#JO0122",
+            "reference_id": "law:감정평가에관한법률#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "감정평가에 관한 법률/법률/감정평가에 관한 법률.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:아산시시설관리공단회계규정#JO0122"
       },
@@ -1663,7 +1847,28 @@
         "chapter_path": "제4장 자산회계 > 제3절 비유동자산 <개정 2016.6.27.>",
         "content": "제148조(자산의 재평가) ① 비유동자산의 재평가는 「자산재평가법」, 「감정평가에 대한 법률 및 기타 관계법률」이 정하는 바에 따른다.<개정 2022.9.21.>② 자산의 재평가를 실시하고자 하는 경우에는 시장에게 자산 재평가 계획서를 제출하여야 한다.<개정 2016.6.27.>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제148조",
+            "source_clause": "제148조제1항",
+            "link_text": "「자산재평가법」",
+            "line_text": "",
+            "target_law_name": "자산재평가법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2141375",
+            "target_url": "https://www.law.go.kr/법령/자산재평가법",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:아산시시설관리공단회계규정#JO0148",
+            "reference_id": "law:자산재평가법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "자산재평가법/법률/자산재평가법.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:아산시시설관리공단회계규정#JO0148"
       },
@@ -2774,82 +2979,179 @@
       "promulgation_date": "20141112",
       "promulgation_no": "00013",
       "content": "부칙 <제13호,2014.11.12>제1조(시행일) 이 규정은 공단 설립일부터 시행한다.",
-      "provision_id": "SchlPubRul:아산시시설관리공단회계규정#ADDENDUM"
+      "provision_id": "SchlPubRul:아산시시설관리공단회계규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000157357",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250101"
     },
     {
       "promulgation_date": "20150106",
       "promulgation_no": "00023",
       "content": "부칙 <제23호,2015.1.6>제1조(시행일) 이 규정은 공포한 날부터 시행한다.",
-      "provision_id": "SchlPubRul:아산시시설관리공단회계규정#ADDENDUM"
+      "provision_id": "SchlPubRul:아산시시설관리공단회계규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000157357",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250101"
     },
     {
       "promulgation_date": "20160627",
       "promulgation_no": "00048",
       "content": "부칙 <제48호,2016.6.27>제1조(시행일) 이 규정은 공포한 날부터 시행한다.",
-      "provision_id": "SchlPubRul:아산시시설관리공단회계규정#ADDENDUM"
+      "provision_id": "SchlPubRul:아산시시설관리공단회계규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000157357",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250101"
     },
     {
       "promulgation_date": "20190708",
       "promulgation_no": "00124",
       "content": "부칙 <제124호,2019.7.8>제1조(시행일) 이 규정은 공포한 날부터 시행한다.",
-      "provision_id": "SchlPubRul:아산시시설관리공단회계규정#ADDENDUM"
+      "provision_id": "SchlPubRul:아산시시설관리공단회계규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000157357",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250101"
     },
     {
       "promulgation_date": "20191231",
       "promulgation_no": "00134",
       "content": "부칙 <제134호,2019.12.31>제1조(시행일) 이 규정은 공포한 날부터 시행한다.",
-      "provision_id": "SchlPubRul:아산시시설관리공단회계규정#ADDENDUM"
+      "provision_id": "SchlPubRul:아산시시설관리공단회계규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000157357",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250101"
     },
     {
       "promulgation_date": "20210913",
       "promulgation_no": "00163",
       "content": "부칙 <제163호,2021.9.13>제1조(시행일) 이 규정은 공포한 날부터 시행한다.",
-      "provision_id": "SchlPubRul:아산시시설관리공단회계규정#ADDENDUM"
+      "provision_id": "SchlPubRul:아산시시설관리공단회계규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000157357",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250101"
     },
     {
       "promulgation_date": "20211027",
       "promulgation_no": "00187",
       "content": "부칙 <제187호,2021.10.27>제1조(시행일) 이 규정은 공포한 날부터 시행한다.",
-      "provision_id": "SchlPubRul:아산시시설관리공단회계규정#ADDENDUM"
+      "provision_id": "SchlPubRul:아산시시설관리공단회계규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000157357",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250101"
     },
     {
       "promulgation_date": "20220921",
       "promulgation_no": "00219",
       "content": "부칙 <제219호,2022.9.21>제1조(시행일) 이 규정은 공포한 날부터 시행한다.",
-      "provision_id": "SchlPubRul:아산시시설관리공단회계규정#ADDENDUM"
+      "provision_id": "SchlPubRul:아산시시설관리공단회계규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000157357",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250101"
     },
     {
       "promulgation_date": "20221116",
       "promulgation_no": "00235",
       "content": "부칙 <제235호,2022.11.16>제1조(시행일) 이 규정은 공포한 날부터 시행한다.",
-      "provision_id": "SchlPubRul:아산시시설관리공단회계규정#ADDENDUM"
+      "provision_id": "SchlPubRul:아산시시설관리공단회계규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000157357",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250101"
     },
     {
       "promulgation_date": "20230920",
       "promulgation_no": "00261",
       "content": "부칙 <제261호,2023.9.20>제1조(시행일) 이 규정은 공포한 날부터 시행한다.",
-      "provision_id": "SchlPubRul:아산시시설관리공단회계규정#ADDENDUM"
+      "provision_id": "SchlPubRul:아산시시설관리공단회계규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000157357",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250101"
     },
     {
       "promulgation_date": "20240315",
       "promulgation_no": "00268",
       "content": "부칙 <제268호,2024.3.15>제1조(시행일) 이 규정은 공포한 날부터 시행한다.",
-      "provision_id": "SchlPubRul:아산시시설관리공단회계규정#ADDENDUM"
+      "provision_id": "SchlPubRul:아산시시설관리공단회계규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000157357",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250101"
+    },
+    {
+      "promulgation_date": "20241230",
+      "promulgation_no": "00292",
+      "content": "부칙 <제292호,2024.12.30>제1조(시행일) 이 규정은 2025년 1월 1일부터 시행한다.",
+      "provision_id": "SchlPubRul:아산시시설관리공단회계규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000157357",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250101"
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "[별지1-47]회계규정 11차 개정(2024.12.30.)",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166423995",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166423995",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:아산시시설관리공단회계규정#BJ0001",
+      "filename": "별지1_[별지1-47]회계규정 11차 개정(2024.12.30.).hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지1_[별지1-47]회계규정 11차 개정(2024.12.30.).hwp",
+      "file_store_url": ""
+    }
+  ],
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 10,
+    "by_category": {
+      "법령": 9,
+      "자치법규": 1
+    },
+    "by_relation_type": {
+      "citation": 10
+    },
     "articles_total": 248,
-    "articles_with_relations": 0,
+    "articles_with_relations": 7,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 11,
+    "addenda_count": 12,
     "appendices_count": 1,
     "attachments_count": 0
   },
@@ -2860,5 +3162,8 @@
   "addendum_provision_id": "SchlPubRul:아산시시설관리공단회계규정#ADDENDUM",
   "amendment_provision_id": "SchlPubRul:아산시시설관리공단회계규정#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "아산시시설관리공단 회계규정/아산시시설관리공단 회계규정.json"
 }
