@@ -1,25 +1,25 @@
 {
   "law_id": "2126777",
-  "mst": "2200000127607",
+  "mst": "2200000138791",
   "law_name": "(국립공원공단) 재정보증규칙",
   "law_abbr": "",
   "law_type": "공단규정",
   "doc_target": "pi",
   "doc_kind": "공단정관",
   "adm_uid": "pi:2126777",
-  "promulgation_no": "612",
-  "promulgation_date": "20240416",
-  "enforcement_date": "20240416",
-  "revision_date": "20240416",
+  "promulgation_no": "625",
+  "promulgation_date": "20241230",
+  "enforcement_date": "20250101",
+  "revision_date": "20241230",
   "revision_type": "타법개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "국립공원공단",
     "담당자명": "박상미",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "(국립공원공단) 재정보증규칙",
-    "발령일자": "20240416",
+    "발령일자": "20241230",
     "행정규칙종류": "공단규정",
     "제개정구분코드": "200409",
     "조문형식여부": "Y",
@@ -27,11 +27,11 @@
     "전화번호": "033-769-9683",
     "제개정구분명": "타법개정",
     "소관부처코드": "B553991",
-    "생성일자": "20250109",
+    "생성일자": "20260624",
     "행정규칙ID": "2126777",
     "담당부서기관코드": "",
-    "발령번호": "612",
-    "행정규칙일련번호": "2200000127607"
+    "발령번호": "625",
+    "행정규칙일련번호": "2200000138791"
   },
   "amendment_text": "",
   "revision_reason": "",
@@ -90,7 +90,33 @@
         "chapter_path": "",
         "content": "제5조(보증보험증권의 확인 및 보관) 이사장은 회계관계직원에 대한 재정보증으로 보험회사와 보증보험계약을 체결한 때에는 보험증서에 기재된 피보험인ㆍ피보증인ㆍ보험금액ㆍ보험료ㆍ보험기간 기타 필요한 사항을 확인하여 재정보증보험관리기록부(별지 제1호서식)에 등재한 후 보관하여야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "별지 제1호서식",
+            "line_text": "",
+            "target_law_name": "(국립공원공단) 재정보증규칙",
+            "target_article_no": "별지1",
+            "target_article_title": "재정보증보험증권관리기록부(제5조 관련)",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2126777",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158996059",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(국립공원공단)재정보증규칙#JO0005",
+            "target_unit": "BJ0001",
+            "reference_id": "SchlPubRul:(국립공원공단)재정보증규칙#BJ0001",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(국립공원공단) 재정보증규칙/(국립공원공단) 재정보증규칙.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:(국립공원공단)재정보증규칙#JO0005"
       },
@@ -123,58 +149,159 @@
       "promulgation_date": "19870804",
       "promulgation_no": "1",
       "content": "부칙 <제1호, 1987.08.04.>제1조(시행일) 이 규칙은 1987. 8. 4.부터 시행한다.제2조(경과조치) 이 규칙 제3조 제1항에 의한 최초의 재정보증은 이 규칙 시행일로부터 30일 이내에 설정한다.",
-      "provision_id": "SchlPubRul:(국립공원공단)재정보증규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:(국립공원공단)재정보증규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000138791",
+      "source_version_uid": "",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20250101"
     },
     {
       "promulgation_date": "20010504",
       "promulgation_no": "179",
       "content": "부칙 <제179호, 2001.05.04.>제1조(시행일) 이 규칙은 2001. 5. 4.부터 시행한다.",
-      "provision_id": "SchlPubRul:(국립공원공단)재정보증규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:(국립공원공단)재정보증규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000138791",
+      "source_version_uid": "",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20250101"
     },
     {
       "promulgation_date": "20110630",
       "promulgation_no": "321",
       "content": "부칙 <제321호, 2011.06.30.>이 규칙은 2011. 7. 8.부터 시행한다.",
-      "provision_id": "SchlPubRul:(국립공원공단)재정보증규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:(국립공원공단)재정보증규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000138791",
+      "source_version_uid": "",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20250101"
     },
     {
       "promulgation_date": "20140811",
       "promulgation_no": "384",
       "content": "부칙 <제384호, 2014.08.11.>이 규칙은 2014. 8. 11.부터 시행한다.",
-      "provision_id": "SchlPubRul:(국립공원공단)재정보증규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:(국립공원공단)재정보증규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000138791",
+      "source_version_uid": "",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20250101"
     },
     {
       "promulgation_date": "20181122",
       "promulgation_no": "463",
       "content": "부칙 <제463호, 2018.11.22.>이 규칙은 2018년 11월 22일부터 시행한다.",
-      "provision_id": "SchlPubRul:(국립공원공단)재정보증규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:(국립공원공단)재정보증규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000138791",
+      "source_version_uid": "",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20250101"
     },
     {
       "promulgation_date": "20210129",
       "promulgation_no": "529",
       "content": "부칙 <제529호, 2021.01.29.>이 규칙은 2021년 1월 29일부터 시행한다.",
-      "provision_id": "SchlPubRul:(국립공원공단)재정보증규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:(국립공원공단)재정보증규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000138791",
+      "source_version_uid": "",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20250101"
     },
     {
       "promulgation_date": "20240416",
       "promulgation_no": "612",
       "content": "부칙 <제612호, 2024.04.16.> (물품관리규칙)제1조(시행일) 이 규칙은 2024. 4. 16.부터 시행한다.제2조(다른 규정의 개정) ①ㆍ② <생략>③ 「재정보증규칙」 별표의 회계관계직원 중 회계직명 물품에 관한 사항을 다음 표와 같이 한다.[그림]┌──┬───────┬───────┬───────────────────┬────────┐│물품│총괄물품관리자│행정처장      │행정처장                              │※물품관리규칙  ││    │              │              │                                      │제6조 제2항     ││    ├───────┼───────┼───────────────────┼────────┤│    │물품관리자    │총무회계부장  │지역본부장, 사무소장, 연구원장,       │〃.             ││    │              │              │보전원장, 탐방원장, 교육원장, 사무국장│                ││    ├───────┼───────┼───────────────────┼────────┤│    │물품출납담당  │총무회계부    │경영지원부장, 행정과장,               │〃              ││    │              │용도담당      │연구ㆍ보전기획부장,                   │                ││    │              │              │운영관리부장ㆍ과장, 운영협력부장      │                ││    ├───────┼───────┼───────────────────┼────────┤│    │물품운용담당  │각 처 주무부장│각 과ㆍ부?센터장, 분소장             │〃              │└──┴───────┴───────┴───────────────────┴────────┘",
-      "provision_id": "SchlPubRul:(국립공원공단)재정보증규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:(국립공원공단)재정보증규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000138791",
+      "source_version_uid": "",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20250101"
+    },
+    {
+      "promulgation_date": "20241230",
+      "promulgation_no": "625",
+      "content": "부칙 <제625호, 2024.12.30.> (위임전결규칙)제1조(시행일) 이 규칙은 2025년 1월 1일부터 시행한다.제2조(위임전결에 따른 소관 규정에 관한 경과조치) 생략제3조(다른 규정의 개정) ① ~ ⑧ 생략⑨ 「재정보증규칙」 일부를 다음과 같이 개정한다.별표의 회계관계직원을 다음과 같이 한다.[그림]┏━━━━━━━━━━┯━━━━━━━━┯━━━━━━━━━━━━━━━━━━━┯━━━━━━┓┃회계직명            │본사            │지역본부·사무소·연구원              │비고        ┃┃                    │                │·보전원·탐방원·교육원·사무국      │            ┃┣━━━━━━━━━━┿━━━━━━━━┿━━━━━━━━━━━━━━━━━━━┿━━━━━━┫┃회계 책임자         │행정처장        │행정처장                              │            ┃┠──┬───────┼────────┼───────────────────┼──────┨┃수입│징수담당      │각 처ㆍ실장     │지역본부장, 사무소장, 연구원장,       │            ┃┃    │              │                │보전원장, 탐방원장, 교육원장, 사무국장│            ┃┃    ├───────┼────────┼───────────────────┼──────┨┃    │수납담당      │회계팀장        │경영지원부장, 행정과장,               │            ┃┃    │              │                │연구ㆍ보전기획부장,                   │            ┃┃    │              │                │운영관리부장ㆍ과장, 운영협력부장      │            ┃┠──┼───────┼────────┼───────────────────┼──────┨┃지출│지출원인      │행정처장        │지역본부장, 사무소장, 연구원장,       │            ┃┃원인│행위담당      │                │보전원장, 탐방원장, 교육원장, 사무국장│            ┃┃행위├───────┼────────┼───────────────────┼──────┨┃    │분임지출원인  │각 처ㆍ실장     │-                                     │            ┃┃    │행위담당      │                │                                      │            ┃┠──┴───────┼────────┼───────────────────┼──────┨┃공사 및 용역계약담당│행정처장        │지역본부장, 사무소장, 연구원장,       │            ┃┃                    │                │보전원장, 탐방원장, 교육원장, 사무국장│            ┃┠──┬───────┼────────┼───────────────────┼──────┨┃지출│지출담당      │회계팀장        │경영지원부장, 행정과장,               │            ┃┃담당│              │                │연구ㆍ보전기획부장,                   │            ┃┃    │              │                │운영관리부장ㆍ과장, 운영협력부장      │            ┃┃    ├───────┼────────┼───────────────────┼──────┨┃    │분임          │각 부장(담당관) │각 과ㆍ부?센터장, 분소장             │            ┃┃    │지출담당      │                │                                      │            ┃┠──┴───────┼────────┼───────────────────┼──────┨┃일상경비취급담당    │필요 시 지정    │필요 시 지정                          │            ┃┠──────────┼────────┼───────────────────┼──────┨┃유가증권 관리담당   │회계팀장        │경영지원부장, 행정과장,               │            ┃┃                    │                │연구ㆍ보전기획부장,                   │            ┃┃                    │                │운영관리부장ㆍ과장, 운영협력부장      │            ┃┠──┬───────┼────────┼───────────────────┼──────┨┃재산│관리담당      │행정처장        │행정처장                              │※          ┃┃    │              │                │                                      │재산관리규칙┃┃    │              │                │                                      │ 제4조제2항 ┃┃    ├───────┼────────┼───────────────────┼──────┨┃    │분임재산      │총무부장        │지역본부장, 사무소장, 연구원장,       │〃          ┃┃    │관리담당      │                │보전원장, 탐방원장, 교육원장, 사무국장│            ┃┠──┼───────┼────────┼───────────────────┼──────┨┃물품│총괄물품관리자│행정처장        │행정처장                              │※          ┃┃    │              │                │                                      │물품관리규칙┃┃    │              │                │                                      │ 제6조제2항 ┃┃    ├───────┼────────┼───────────────────┼──────┨┃    │물품          │총무부장        │지역본부장, 사무소장, 연구원장,       │〃          ┃┃    │관리자        │                │보전원장, 탐방원장, 교육원장, 사무국장│            ┃┃    ├───────┼────────┼───────────────────┼──────┨┃    │물품출납담당  │총무부 용도담당 │경영지원부장, 행정과장,               │〃          ┃┃    │              │                │연구ㆍ보전기획부장,                   │            ┃┃    │              │                │운영관리부장ㆍ과장, 운영협력부장      │            ┃┃    ├───────┼────────┼───────────────────┼──────┨┃    │물품운용담당  │각 처 주무부장  │각 과ㆍ부?센터장, 분소장             │〃          ┃┠──┴───────┼────────┼───────────────────┼──────┨┃채권 관리담당       │각 처 주무부장  │각 과ㆍ부?센터장, 분소장             │            ┃┗━━━━━━━━━━┷━━━━━━━━┷━━━━━━━━━━━━━━━━━━━┷━━━━━━┛",
+      "provision_id": "SchlPubRul:(국립공원공단)재정보증규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000138791",
+      "source_version_uid": "",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20250101"
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "별표",
+      "title": "회계관계직원(제2조제1항 관련)",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158996055",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158996055",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:(국립공원공단)재정보증규칙#BYL0000",
+      "filename": "별표0_회계관계직원(제2조제1항 관련).hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표0_회계관계직원(제2조제1항 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "재정보증보험증권관리기록부(제5조 관련)",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158996059",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158996059",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:(국립공원공단)재정보증규칙#BJ0001",
+      "filename": "별지1_재정보증보험증권관리기록부(제5조 관련).hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지1_재정보증보험증권관리기록부(제5조 관련).hwp",
+      "file_store_url": ""
+    }
+  ],
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 1,
+    "by_category": {
+      "학칙공단": 1
+    },
+    "by_relation_type": {
+      "appendix_ref": 1
+    },
     "articles_total": 7,
-    "articles_with_relations": 0,
+    "articles_with_relations": 1,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 7,
+    "addenda_count": 8,
     "appendices_count": 2,
     "attachments_count": 0
   },
@@ -185,5 +312,8 @@
   "addendum_provision_id": "SchlPubRul:(국립공원공단)재정보증규칙#ADDENDUM",
   "amendment_provision_id": "SchlPubRul:(국립공원공단)재정보증규칙#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "(국립공원공단) 재정보증규칙/(국립공원공단) 재정보증규칙.json"
 }
