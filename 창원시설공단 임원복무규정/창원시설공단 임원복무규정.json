@@ -1,40 +1,40 @@
 {
   "law_id": "2121527",
-  "mst": "2200000100351",
+  "mst": "2200000139141",
   "law_name": "창원시설공단 임원복무규정",
   "law_abbr": "",
   "law_type": "공단규정",
   "doc_target": "public",
   "doc_kind": "공공기관",
   "adm_uid": "public:2121527",
-  "promulgation_no": "20",
-  "promulgation_date": "20000101",
-  "enforcement_date": "20000101",
-  "revision_date": "20000101",
-  "revision_type": "제정",
-  "is_current": false,
+  "promulgation_no": "765",
+  "promulgation_date": "20250121",
+  "enforcement_date": "20250121",
+  "revision_date": "20250121",
+  "revision_type": "일부개정",
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "창원시설공단",
-    "담당자명": "기획예산팀",
+    "담당자명": "디지털기획팀",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "창원시설공단 임원복무규정",
-    "발령일자": "20000101",
+    "발령일자": "20250121",
     "행정규칙종류": "공단규정",
-    "제개정구분코드": "200401",
+    "제개정구분코드": "200403",
     "조문형식여부": "Y",
     "소관부처명": "창원시설공단",
     "전화번호": "055-712-0042",
-    "제개정구분명": "제정",
+    "제개정구분명": "일부개정",
     "소관부처코드": "B553892",
-    "생성일자": "20250123",
+    "생성일자": "20250124",
     "행정규칙ID": "2121527",
     "담당부서기관코드": "B553892",
-    "발령번호": "20",
-    "행정규칙일련번호": "2200000100351"
+    "발령번호": "765",
+    "행정규칙일련번호": "2200000139141"
   },
-  "amendment_text": "",
-  "revision_reason": "",
+  "amendment_text": "? 임원의 휴가일수 개선: 기존13 ~ 15일 → 개선11 ~ 21일 (안제15조)\n? 기본일수(11일)에 재직기간, 유사경력* 매 2년마다 1일 가산하되, 휴가일수는 최대 21일 초과 금지(초과 사용 시 무급)\n*유사경력: 보수규정 [별표 4] 경력환산표 적용\n? 연도 중 임명 시, 휴가일수에서 당해 연도 임기만큼 월할 계산",
+  "revision_reason": "? 행정안전부 「지방공기업 인사조직 운영기준」 개정(2024. 12. 30.)으로 임원 휴가일수 산정기준이 개선됨에 따라, 임원의 충분한 휴식권 보장을 위해 유사경력을 휴가일수 산정에 반영하고자 함.",
   "body": {
     "format": "articles",
     "article_count": 25,
@@ -79,7 +79,48 @@
         "chapter_path": "제2장 복 무",
         "content": "제4조 (임원의 성과관리) <신설 2011. 5. 2>   ① 임원의 임면은 정관 제8조에 의하며, 임원 임명시 정관 제10조 임원의 직위별 직무를 고려하여 경영목표, 책임과 권한 등이 명시된 경영성과 계약을 체결한다.② 임원의 성과관리는 지방공기업법\n제58조의2(시장과의 경영성과계약) 및\n제78조(경영평가 및 지도)에 의한다.③ 경영성과계약 체결 시 비리 및 도덕적 해이로 인하여 사회적 물의를 일으키는 등 청렴의무를 위반 시 제재사항 등을 명시하여야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제1항",
+            "link_text": "제8조",
+            "line_text": "",
+            "target_law_name": "창원시설공단 임원복무규정",
+            "target_article_no": "제8조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2121527",
+            "target_url": "https://www.law.go.kr/학칙공단/창원시설공단 임원복무규정/제8조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:창원시설공단임원복무규정#JO0004",
+            "reference_id": "SchlPubRul:창원시설공단임원복무규정#JO0008",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "창원시설공단 임원복무규정/창원시설공단 임원복무규정.json"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제1항",
+            "link_text": "제10조",
+            "line_text": "",
+            "target_law_name": "창원시설공단 임원복무규정",
+            "target_article_no": "제10조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2121527",
+            "target_url": "https://www.law.go.kr/학칙공단/창원시설공단 임원복무규정/제10조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:창원시설공단임원복무규정#JO0004",
+            "reference_id": "SchlPubRul:창원시설공단임원복무규정#JO0010",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "창원시설공단 임원복무규정/창원시설공단 임원복무규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:창원시설공단임원복무규정#JO0004"
       },
@@ -198,9 +239,35 @@
         "article_title": "근무시간등",
         "chapter": "제2장 복 무",
         "chapter_path": "제2장 복 무",
-        "content": "제15조 (근무시간등) <개정 2011. 5. 2>   ① 임원의 근무시간, 출장 및 특별휴가는 취업규정을 준용한다. <개정 2001. 10. 12>② 임원의 정기휴가는 연간 13~15일[1년 미만 13일, 1년 이상~2년 미만 14일, 2년 이상(연임 포함) 15일]로 하고, 이를 초과 사용할 경우에는 무급 휴가로 한다.<개정 2009. 9. 15, 2016. 11. 17>③ 휴가 기간은 정규 근무 시간으로 인정하되, 휴가 미실시를 사유로 휴가 수당을 지급하지 아니한다.<개정 2020. 3. 26>",
+        "content": "제15조 (근무시간등) <개정 2011. 5. 2>   ① 임원의 근무시간, 출장 및 특별휴가는 취업규정을 준용한다. <개정 2001. 10. 12>② 임원의 정기휴가는 연간 최소 11일을 부여하고, 재직기간 및 보수규정“별표 4” 경력환산표 기준에 해당하는 경력에 따라 휴가일수를 추가로 가산(매 2년에 대하여 1일 가산)할 수 있으며, 최대 휴가 일수는 21일을 초과할 수 없다. 이를 초과 사용할 경우에는 무급 휴가로 한다. <개정 2009. 9. 15, 2016. 11. 17, 2025. 1. 21.>③ 휴가 기간은 정규 근무 시간으로 인정하되, 휴가 미실시를 사유로 휴가 수당을 지급하지 아니한다.<개정 2020. 3. 26>④ 연도 중 임명된 경우 기본 휴가일수에서 당해연도 임기만큼 월할 계산한다. <신설 2025. 1. 21>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제2항",
+            "link_text": "별표 4",
+            "line_text": "",
+            "target_law_name": "창원시설공단 임원복무규정",
+            "target_article_no": "별표4",
+            "target_article_title": "",
+            "appendix_no": "4",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": false,
+            "target_mst": "",
+            "source_admrul_seq": "2121527",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000139141&bylNo=&bylBrNo=",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:창원시설공단임원복무규정#JO0015",
+            "target_unit": "BYL0004",
+            "reference_id": "SchlPubRul:창원시설공단임원복무규정#BYL0004",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "창원시설공단 임원복무규정/창원시설공단 임원복무규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:창원시설공단임원복무규정#JO0015"
       },
@@ -233,7 +300,28 @@
         "chapter_path": "제3장 상 벌",
         "content": "제18조 (문책) <개정 2011. 5. 2> ① 이사장은 임원이 법령·조례 및 정관이나 규정을 위반한 때에는 문책하여야 한다.<개정 2020. 3. 26>1. <삭제 2020. 3. 26>2. <삭제 2020. 3. 26>② 이사장은 비위와 관련하여 조사 또는 수사 중인 임원(특히, 내부감사 부서 및 외부감사 기관에서 중징계(당연퇴직, 파면 또는 해임) 처분요구하거나 징계위원회 등에 중징계 의결 요구 중인 자)에 대해서는 의원면직을 제한하여야 한다.<신설 2011. 5. 2, 개정 2013. 7. 18, 2020. 3. 26>③ 임원의 문책에 관하여는 「공무원 비위사건 처리 규정」을 준용한다.<개정 2020. 3. 26, 2021. 6. 3>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "행정규칙",
+            "source_article_no": "제18조",
+            "source_clause": "제18조제3항",
+            "link_text": "「공무원 비위사건 처리 규정」",
+            "line_text": "",
+            "target_law_name": "공무원 비위사건 처리 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2121527",
+            "target_url": "https://www.law.go.kr/행정규칙/공무원 비위사건 처리 규정",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:창원시설공단임원복무규정#JO0018",
+            "reference_id": "admrul:공무원비위사건처리규정#DOC",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "공무원 비위사건 처리 규정/공무원 비위사건 처리 규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:창원시설공단임원복무규정#JO0018"
       },
@@ -321,94 +409,203 @@
       "promulgation_date": "20000101",
       "promulgation_no": "00020",
       "content": "부칙 <제20호,2000.1.1>이 규정은 공단설립일 부터 시행한다.",
-      "provision_id": "SchlPubRul:창원시설공단임원복무규정#ADDENDUM"
+      "provision_id": "SchlPubRul:창원시설공단임원복무규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000139141",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250121"
     },
     {
       "promulgation_date": "20010515",
       "promulgation_no": "00057",
       "content": "부칙 <제57호,2001.5.15>이 규정은 승인일로부터 시행한다.",
-      "provision_id": "SchlPubRul:창원시설공단임원복무규정#ADDENDUM"
+      "provision_id": "SchlPubRul:창원시설공단임원복무규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000139141",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250121"
     },
     {
       "promulgation_date": "20011012",
       "promulgation_no": "00046",
       "content": "부칙 <제46호,2001.10.12>이 규정은 승인일로부터 시행한다.",
-      "provision_id": "SchlPubRul:창원시설공단임원복무규정#ADDENDUM"
+      "provision_id": "SchlPubRul:창원시설공단임원복무규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000139141",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250121"
     },
     {
       "promulgation_date": "20090915",
       "promulgation_no": "00251",
       "content": "부칙 <제251호,2009.9.15>이 규정은 승인일로부터 시행한다.",
-      "provision_id": "SchlPubRul:창원시설공단임원복무규정#ADDENDUM"
+      "provision_id": "SchlPubRul:창원시설공단임원복무규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000139141",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250121"
     },
     {
       "promulgation_date": "20110502",
       "promulgation_no": "00312",
       "content": "부칙 <제312호,2011.5.2>이 규정은 승인일로부터 시행한다.",
-      "provision_id": "SchlPubRul:창원시설공단임원복무규정#ADDENDUM"
+      "provision_id": "SchlPubRul:창원시설공단임원복무규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000139141",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250121"
     },
     {
       "promulgation_date": "20130718",
       "promulgation_no": "00369",
       "content": "부칙 <제369호,2013.7.18>이 규정은 승인일로부터 시행한다.",
-      "provision_id": "SchlPubRul:창원시설공단임원복무규정#ADDENDUM"
+      "provision_id": "SchlPubRul:창원시설공단임원복무규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000139141",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250121"
     },
     {
       "promulgation_date": "20140122",
       "promulgation_no": "00385",
       "content": "부칙 <제385호,2014.1.22>이 규정은 승인일로부터 시행한다.",
-      "provision_id": "SchlPubRul:창원시설공단임원복무규정#ADDENDUM"
+      "provision_id": "SchlPubRul:창원시설공단임원복무규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000139141",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250121"
     },
     {
       "promulgation_date": "20161117",
       "promulgation_no": "00455",
       "content": "부칙 <제455호,2016.11.17>이 규정은 승인일로부터 시행한다.",
-      "provision_id": "SchlPubRul:창원시설공단임원복무규정#ADDENDUM"
+      "provision_id": "SchlPubRul:창원시설공단임원복무규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000139141",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250121"
     },
     {
       "promulgation_date": "20180104",
       "promulgation_no": "00512",
       "content": "부칙 <제512호,2018.1.4>이 규정은 승인일로부터 시행한다.",
-      "provision_id": "SchlPubRul:창원시설공단임원복무규정#ADDENDUM"
+      "provision_id": "SchlPubRul:창원시설공단임원복무규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000139141",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250121"
     },
     {
       "promulgation_date": "20180228",
       "promulgation_no": "00528",
       "content": "부칙 <제528호,2018.2.28>이 규정은 승인일로부터 시행한다.",
-      "provision_id": "SchlPubRul:창원시설공단임원복무규정#ADDENDUM"
+      "provision_id": "SchlPubRul:창원시설공단임원복무규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000139141",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250121"
     },
     {
       "promulgation_date": "20181224",
       "promulgation_no": "00557",
       "content": "부칙 <제557호,2018.12.24>이 규정은 승인일로부터 시행한다.",
-      "provision_id": "SchlPubRul:창원시설공단임원복무규정#ADDENDUM"
+      "provision_id": "SchlPubRul:창원시설공단임원복무규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000139141",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250121"
     },
     {
       "promulgation_date": "20200326",
       "promulgation_no": "00608",
       "content": "부칙 <제608호,2020.3.26>이 규정은 승인일로부터 시행한다.",
-      "provision_id": "SchlPubRul:창원시설공단임원복무규정#ADDENDUM"
+      "provision_id": "SchlPubRul:창원시설공단임원복무규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000139141",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250121"
     },
     {
       "promulgation_date": "20210603",
       "promulgation_no": "00645",
       "content": "부칙 <제645호,2021.6.3>이 규정은 승인일로부터 시행한다.",
-      "provision_id": "SchlPubRul:창원시설공단임원복무규정#ADDENDUM"
+      "provision_id": "SchlPubRul:창원시설공단임원복무규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000139141",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250121"
+    },
+    {
+      "promulgation_date": "20250121",
+      "promulgation_no": "00765",
+      "content": "부칙 <제765호,2025.1.21>이 규정은 승인일로부터 시행한다.",
+      "provision_id": "SchlPubRul:창원시설공단임원복무규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000139141",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250121"
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "임원문책양정기준",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000139141&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148730051",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148730051",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:창원시설공단임원복무규정#BYL0001",
+      "filename": "별표1_임원문책양정기준.hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표1_임원문책양정기준.hwp",
+      "file_store_url": ""
+    }
+  ],
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 4,
+    "by_category": {
+      "학칙공단": 3,
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "internal_ref": 2,
+      "appendix_ref": 1,
+      "citation": 1
+    },
     "articles_total": 25,
-    "articles_with_relations": 0,
+    "articles_with_relations": 3,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 13,
+    "addenda_count": 14,
     "appendices_count": 1,
     "attachments_count": 0
   },
@@ -419,5 +616,8 @@
   "addendum_provision_id": "SchlPubRul:창원시설공단임원복무규정#ADDENDUM",
   "amendment_provision_id": "SchlPubRul:창원시설공단임원복무규정#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "창원시설공단 임원복무규정/창원시설공단 임원복무규정.json"
 }
