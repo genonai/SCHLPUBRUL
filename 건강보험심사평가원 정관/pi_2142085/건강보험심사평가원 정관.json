@@ -1,12 +1,12 @@
 {
-  "law_id": "2115223",
-  "mst": "2200000139301",
+  "law_id": "2142085",
+  "mst": "2200000161351",
   "law_name": "건강보험심사평가원 정관",
   "law_abbr": "",
   "law_type": "공단규정",
   "doc_target": "pi",
   "doc_kind": "공단정관",
-  "adm_uid": "pi:2115223",
+  "adm_uid": "pi:2142085",
   "promulgation_no": "9999",
   "promulgation_date": "20250124",
   "enforcement_date": "20250124",
@@ -27,11 +27,11 @@
     "전화번호": "033-739-2366",
     "제개정구분명": "일부개정",
     "소관부처코드": "B551182",
-    "생성일자": "20260729",
-    "행정규칙ID": "2115223",
-    "담당부서기관코드": "",
+    "생성일자": "20261102",
+    "행정규칙ID": "2142085",
+    "담당부서기관코드": "B551182",
     "발령번호": "9999",
-    "행정규칙일련번호": "2200000139301"
+    "행정규칙일련번호": "2200000161351"
   },
   "amendment_text": "",
   "revision_reason": "",
@@ -59,15 +59,13 @@
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/법령/국민건강보험법",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0001",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0001",
             "reference_id": "law:국민건강보험법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json",
-            "target_git_path": "국민건강보험법/법률/국민건강보험법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json"
           },
           {
             "relation_type": "citation",
@@ -81,19 +79,17 @@
             "target_article_no": "제63조",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/법령/국민건강보험법/제63조",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0001",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0001",
             "reference_id": "law:국민건강보험법#JO0063",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json",
-            "target_git_path": "국민건강보험법/법률/국민건강보험법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json"
           }
         ],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0001"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0001"
       },
       {
         "article_no": "제2조",
@@ -104,7 +100,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0002"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0002"
       },
       {
         "article_no": "제3조",
@@ -115,25 +111,25 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0003"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0003"
       },
       {
         "article_no": "제4조",
         "article_title": "정관의 변경",
         "chapter": "제1장 총칙",
         "chapter_path": "제1장 총칙",
-        "content": "제4조(정관의 변경) 심사평가원은 「정관」 을 변경하고자 하는 때에는 이사회의 의결을 거쳐 보건복지부장관의 인가를 받아야 한다.",
+        "content": "제4조(정관의 변경) 심사평가원은 「정관」을 변경하고자 하는 때에는 이사회의 의결을 거쳐 보건복지부장관의 인가를 받아야 한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0004"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0004"
       },
       {
         "article_no": "제5조",
         "article_title": "규정의 제정ㆍ개정 및 폐지",
         "chapter": "제1장 총칙",
         "chapter_path": "제1장 총칙",
-        "content": "제5조(규정의 제정ㆍ개정 및 폐지) ① 심사평가원은 「국민건강보험법」 및 관련 법령과 이 「정관」 에서 정하지 아니한 사항으로서 심사평가원의 운영 및 업무수행에 필요한 주요사항은 이사회의 심의ㆍ의결을 거쳐 정한다. <개정 2013. 9. 12., 2023. 8. 11.>② 제1항에 따라 직제ㆍ인사ㆍ보수 및 회계규정을 제정하거나 개정 또는 폐지하고자 하는 때에는 보건복지부장관의 승인을 얻어야 한다.③ 제1항에 따라 제정된 규정에서 위임받은 사항과 제규정의 시행을 위하여 필요한 사항은 건강보험심사평가원장(이하 \"원장\"이라 한다)이 정한다. 다만, 심사평가원의 운영에 관하여 중요하다고 인정되는 사항을 정하는 경우에는 이사회의 심의ㆍ의결을 거쳐야 한다.",
+        "content": "제5조(규정의 제정ㆍ개정 및 폐지) ① 심사평가원은 「국민건강보험법」및 관련 법령과 이 「정관」에서 정하지 아니한 사항으로서 심사평가원의 운영 및 업무수행에 필요한 주요사항은 이사회의 심의ㆍ의결을 거쳐 정한다. <개정 2013. 9. 12., 2023. 8. 11.>② 제1항에 따라 직제ㆍ인사ㆍ보수 및 회계규정을 제정하거나 개정 또는 폐지하고자 하는 때에는 보건복지부장관의 승인을 얻어야 한다.③ 제1항에 따라 제정된 규정에서 위임받은 사항과 제규정의 시행을 위하여 필요한 사항은 건강보험심사평가원장(이하 \"원장\"이라 한다)이 정한다. 다만, 심사평가원의 운영에 관하여 중요하다고 인정되는 사항을 정하는 경우에는 이사회의 심의ㆍ의결을 거쳐야 한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -148,19 +144,17 @@
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/법령/국민건강보험법",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0005",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0005",
             "reference_id": "law:국민건강보험법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json",
-            "target_git_path": "국민건강보험법/법률/국민건강보험법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json"
           }
         ],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0005"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0005"
       },
       {
         "article_no": "제6조",
@@ -182,15 +176,13 @@
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/법령/국민건강보험법",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0006",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0006",
             "reference_id": "law:국민건강보험법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json",
-            "target_git_path": "국민건강보험법/법률/국민건강보험법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json"
           },
           {
             "relation_type": "citation",
@@ -204,15 +196,13 @@
             "target_article_no": "제68조",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/법령/국민건강보험법/제68조",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0006",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0006",
             "reference_id": "law:국민건강보험법#JO0068",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json",
-            "target_git_path": "국민건강보험법/법률/국민건강보험법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json"
           },
           {
             "relation_type": "citation",
@@ -226,15 +216,13 @@
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/법령/국민건강보험법",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0006",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0006",
             "reference_id": "law:국민건강보험법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json",
-            "target_git_path": "국민건강보험법/법률/국민건강보험법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json"
           },
           {
             "relation_type": "citation",
@@ -248,15 +236,13 @@
             "target_article_no": "제39조",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/법령/국민건강보험법/제39조",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0006",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0006",
             "reference_id": "law:국민건강보험법#JO0039",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json",
-            "target_git_path": "국민건강보험법/법률/국민건강보험법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json"
           },
           {
             "relation_type": "citation",
@@ -270,15 +256,13 @@
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/법령/신문 등의 진흥에 관한 법률",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0006",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0006",
             "reference_id": "law:신문등의진흥에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "신문 등의 진흥에 관한 법률/법률/신문 등의 진흥에 관한 법률.json",
-            "target_git_path": "신문 등의 진흥에 관한 법률/법률/신문 등의 진흥에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "신문 등의 진흥에 관한 법률/법률/신문 등의 진흥에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -292,19 +276,17 @@
             "target_article_no": "제9조",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/법령/신문 등의 진흥에 관한 법률/제9조",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0006",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0006",
             "reference_id": "law:신문등의진흥에관한법률#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "신문 등의 진흥에 관한 법률/법률/신문 등의 진흥에 관한 법률.json",
-            "target_git_path": "신문 등의 진흥에 관한 법률/법률/신문 등의 진흥에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "신문 등의 진흥에 관한 법률/법률/신문 등의 진흥에 관한 법률.json"
           }
         ],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0006"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0006"
       },
       {
         "article_no": "제7조",
@@ -326,17 +308,13 @@
             "target_article_no": "제8조",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/학칙공단/건강보험심사평가원 정관/제8조",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0007",
-            "reference_id": "SchlPubRul:건강보험심사평가원정관#JO0008",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0007",
+            "reference_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "건강보험심사평가원 정관/건강보험심사평가원 정관.json",
-            "target_git_path": "건강보험심사평가원 정관/건강보험심사평가원 정관.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "건강보험심사평가원 정관/건강보험심사평가원 정관.json"
           },
           {
             "relation_type": "citation",
@@ -350,15 +328,13 @@
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/법령/공공기관의 운영에 관한 법률",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0007",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0007",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -372,19 +348,17 @@
             "target_article_no": "제8조",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/법령/공공기관의 운영에 관한 법률/제8조",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0007",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0007",
             "reference_id": "law:공공기관의운영에관한법률#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
           }
         ],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0007"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0007"
       },
       {
         "article_no": "제8조",
@@ -406,28 +380,24 @@
             "target_article_no": "제10조",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/학칙공단/건강보험심사평가원 정관/제10조",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0008",
-            "reference_id": "SchlPubRul:건강보험심사평가원정관#JO0010",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0008",
+            "reference_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "건강보험심사평가원 정관/건강보험심사평가원 정관.json",
-            "target_git_path": "건강보험심사평가원 정관/건강보험심사평가원 정관.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "건강보험심사평가원 정관/건강보험심사평가원 정관.json"
           }
         ],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0008"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0008"
       },
       {
         "article_no": "제9조",
         "article_title": "임원의 임기",
         "chapter": "제2장 임원 및 직원",
         "chapter_path": "제2장 임원 및 직원",
-        "content": "제9조(임원의 임기) ① 임원의 임기는 다음 각 호와 같다.1. 원장: 3년2. 이사(당연직이사 제외) 및 감사: 2년3. 당연직이사: 해당 직위의 재임기간② 임원은 1년 단위로 연임될 수 있다. 이 경우 임원의 임면권자는 다음 각 호의 구분에 따른 사항을 고려하여 연임 여부를 결정한다. <개정 2023. 8. 11.>1. 원장: 「공공기관의 운영에 관한 법률」 제48조에 따른 경영실적 평가 결과2. 상임이사: 제10조제5항에 따른 성과계약 이행실적 평가 및 그 밖의 직무수행실적3. 비상임이사(당연직이사 제외) 및 감사: 「공공기관의 운영에 관한 법률」 제36조에 따른 직무수행실적 평가 결과 및 그 밖의 직무수행실적③ 제2항에 따라 상임임원이 연임되는 경우에는 임원추천위원회 또는 상임이사추천위원회의 추천을 거치지 아니한다. <개정 2019. 2. 27.>④ 제2항에 따라 원장이 연임되는 경우에는 제10조제3항에 따라 계약을 다시 체결하여야 한다. 이 경우 제10조제2항에 따른 임원추천위원회의 협의를 거치지 아니한다.⑤ 임기가 만료된 임원은 후임자가 임명될 때까지 직무를 수행한다.",
+        "content": "제9조(임원의 임기) ① 임원의 임기는 다음 각 호와 같다.1. 원장: 3년2. 이사(당연직이사 제외) 및 감사: 2년3. 당연직이사: 해당 직위의 재임기간② 임원은 1년 단위로 연임될 수 있다. 이 경우 임원의 임면권자는 다음 각 호의 구분에 따른 사항을 고려하여 연임 여부를 결정한다. <개정 2023. 8. 11.>1. 원장:「공공기관의 운영에 관한 법률」제48조에 따른 경영실적 평가 결과2. 상임이사: 제10조제5항에 따른 성과계약 이행실적 평가 및 그 밖의 직무수행실적3. 비상임이사(당연직이사 제외) 및 감사: 「공공기관의 운영에 관한 법률」제36조에 따른 직무수행실적 평가 결과 및 그 밖의 직무수행실적③ 제2항에 따라 상임임원이 연임되는 경우에는 임원추천위원회 또는 상임이사추천위원회의 추천을 거치지 아니한다. <개정 2019. 2. 27.>④ 제2항에 따라 원장이 연임되는 경우에는 제10조제3항에 따라 계약을 다시 체결하여야 한다. 이 경우 제10조제2항에 따른 임원추천위원회의 협의를 거치지 아니한다.⑤ 임기가 만료된 임원은 후임자가 임명될 때까지 직무를 수행한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -442,15 +412,13 @@
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/법령/공공기관의 운영에 관한 법률",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0009",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0009",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -464,15 +432,13 @@
             "target_article_no": "제48조",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/법령/공공기관의 운영에 관한 법률/제48조",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0009",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0009",
             "reference_id": "law:공공기관의운영에관한법률#JO0048",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -486,17 +452,13 @@
             "target_article_no": "제10조",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/학칙공단/건강보험심사평가원 정관/제10조",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0009",
-            "reference_id": "SchlPubRul:건강보험심사평가원정관#JO0010",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0009",
+            "reference_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "건강보험심사평가원 정관/건강보험심사평가원 정관.json",
-            "target_git_path": "건강보험심사평가원 정관/건강보험심사평가원 정관.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "건강보험심사평가원 정관/건강보험심사평가원 정관.json"
           },
           {
             "relation_type": "citation",
@@ -510,15 +472,13 @@
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/법령/공공기관의 운영에 관한 법률",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0009",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0009",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -532,15 +492,13 @@
             "target_article_no": "제36조",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/법령/공공기관의 운영에 관한 법률/제36조",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0009",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0009",
             "reference_id": "law:공공기관의운영에관한법률#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -554,17 +512,13 @@
             "target_article_no": "제10조",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/학칙공단/건강보험심사평가원 정관/제10조",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0009",
-            "reference_id": "SchlPubRul:건강보험심사평가원정관#JO0010",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0009",
+            "reference_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "건강보험심사평가원 정관/건강보험심사평가원 정관.json",
-            "target_git_path": "건강보험심사평가원 정관/건강보험심사평가원 정관.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "건강보험심사평가원 정관/건강보험심사평가원 정관.json"
           },
           {
             "relation_type": "internal_ref",
@@ -578,21 +532,17 @@
             "target_article_no": "제10조",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/학칙공단/건강보험심사평가원 정관/제10조",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0009",
-            "reference_id": "SchlPubRul:건강보험심사평가원정관#JO0010",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0009",
+            "reference_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "건강보험심사평가원 정관/건강보험심사평가원 정관.json",
-            "target_git_path": "건강보험심사평가원 정관/건강보험심사평가원 정관.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "건강보험심사평가원 정관/건강보험심사평가원 정관.json"
           }
         ],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0009"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0009"
       },
       {
         "article_no": "제10조",
@@ -614,28 +564,24 @@
             "target_article_no": "제7조",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/학칙공단/건강보험심사평가원 정관/제7조",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0010",
-            "reference_id": "SchlPubRul:건강보험심사평가원정관#JO0007",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0010",
+            "reference_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "건강보험심사평가원 정관/건강보험심사평가원 정관.json",
-            "target_git_path": "건강보험심사평가원 정관/건강보험심사평가원 정관.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "건강보험심사평가원 정관/건강보험심사평가원 정관.json"
           }
         ],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0010"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0010"
       },
       {
         "article_no": "제11조",
         "article_title": "임원의 직무",
         "chapter": "제2장 임원 및 직원",
         "chapter_path": "제2장 임원 및 직원",
-        "content": "제11조(임원의 직무) ① 원장은 심사평가원을 대표하며 그 업무를 총괄한다.② 상임이사는 원장의 명을 받아 「직제규정」 에서 정한 업무를 집행한다.③ 이사는 이사회에 출석하여 심사평가원의 중요사항을 심의ㆍ의결한다.④ 감사는 심사평가원의 회계와 업무집행 및 재산상황을 감사하며, 이사회에 출석하여 발언할 수 있다.⑤ 원장이 부득이한 사유로 직무를 수행할 수 없는 때에는 「직제규정」 제3조제2항에서 정한 상임이사의 순서로 그 직무를 대행한다. 다만, 직무를 대행할 상임이사가 부득이한 사유로 직무를 수행할 수 없는 때에는 다음 순위의 상임이사가 그 직무를 대행하고, 상임이사 전원이 부득이한 사유로 직무를 수행할 수 없는 때에는 보건복지부장관이 지명하는 비상임이사가 그 직무를 대행한다.",
+        "content": "제11조(임원의 직무) ① 원장은 심사평가원을 대표하며 그 업무를 총괄한다.② 상임이사는 원장의 명을 받아 「직제규정」에서 정한 업무를 집행한다.③ 이사는 이사회에 출석하여 심사평가원의 중요사항을 심의ㆍ의결한다.④ 감사는 심사평가원의 회계와 업무집행 및 재산상황을 감사하며, 이사회에 출석하여 발언할 수 있다.⑤ 원장이 부득이한 사유로 직무를 수행할 수 없는 때에는 「직제규정」제3조제2항에서 정한 상임이사의 순서로 그 직무를 대행한다. 다만, 직무를 대행할 상임이사가 부득이한 사유로 직무를 수행할 수 없는 때에는 다음 순위의 상임이사가 그 직무를 대행하고, 상임이사 전원이 부득이한 사유로 직무를 수행할 수 없는 때에는 보건복지부장관이 지명하는 비상임이사가 그 직무를 대행한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -650,55 +596,13 @@
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/학칙공단/직제규정",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0011",
-            "reference_id": "SchlPubRul:직제규정:public_2128257#DOC",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0011",
+            "reference_id": "SchlPubRul:직제규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "직제규정/직제규정.json",
-            "target_candidates": 5,
-            "target_git_path": "직제규정/public_2128257/직제규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관",
-            "target_candidate_paths": [
-              {
-                "git_path": "직제규정/public_2127825/직제규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:직제규정:public_2127825#DOC",
-                "is_current": true,
-                "enforcement_date": "20260818"
-              },
-              {
-                "git_path": "직제규정/public_2128001/직제규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:직제규정:public_2128001#DOC",
-                "is_current": true,
-                "enforcement_date": "20230310"
-              },
-              {
-                "git_path": "직제규정/public_2128257/직제규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:직제규정:public_2128257#DOC",
-                "is_current": true,
-                "enforcement_date": "20261008"
-              },
-              {
-                "git_path": "직제규정/public_2141139/직제규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:직제규정:public_2141139#DOC",
-                "is_current": true,
-                "enforcement_date": "20260921"
-              },
-              {
-                "git_path": "직제규정/public_2141381/직제규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:직제규정:public_2141381#DOC",
-                "is_current": true,
-                "enforcement_date": "20260128"
-              }
-            ]
+            "target_git_path_guess": "직제규정/직제규정.json"
           },
           {
             "relation_type": "citation",
@@ -712,55 +616,13 @@
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/학칙공단/직제규정",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0011",
-            "reference_id": "SchlPubRul:직제규정:public_2128257#DOC",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0011",
+            "reference_id": "SchlPubRul:직제규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "직제규정/직제규정.json",
-            "target_candidates": 5,
-            "target_git_path": "직제규정/public_2128257/직제규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관",
-            "target_candidate_paths": [
-              {
-                "git_path": "직제규정/public_2127825/직제규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:직제규정:public_2127825#DOC",
-                "is_current": true,
-                "enforcement_date": "20260818"
-              },
-              {
-                "git_path": "직제규정/public_2128001/직제규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:직제규정:public_2128001#DOC",
-                "is_current": true,
-                "enforcement_date": "20230310"
-              },
-              {
-                "git_path": "직제규정/public_2128257/직제규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:직제규정:public_2128257#DOC",
-                "is_current": true,
-                "enforcement_date": "20261008"
-              },
-              {
-                "git_path": "직제규정/public_2141139/직제규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:직제규정:public_2141139#DOC",
-                "is_current": true,
-                "enforcement_date": "20260921"
-              },
-              {
-                "git_path": "직제규정/public_2141381/직제규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:직제규정:public_2141381#DOC",
-                "is_current": true,
-                "enforcement_date": "20260128"
-              }
-            ]
+            "target_git_path_guess": "직제규정/직제규정.json"
           },
           {
             "relation_type": "citation",
@@ -774,59 +636,17 @@
             "target_article_no": "제3조",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/학칙공단/직제규정/제3조",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0011",
-            "reference_id": "SchlPubRul:직제규정:public_2128257#JO0003",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0011",
+            "reference_id": "SchlPubRul:직제규정#JO0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "직제규정/직제규정.json",
-            "target_candidates": 5,
-            "target_git_path": "직제규정/public_2128257/직제규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관",
-            "target_candidate_paths": [
-              {
-                "git_path": "직제규정/public_2127825/직제규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:직제규정:public_2127825#JO0003",
-                "is_current": true,
-                "enforcement_date": "20260818"
-              },
-              {
-                "git_path": "직제규정/public_2128001/직제규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:직제규정:public_2128001#JO0003",
-                "is_current": true,
-                "enforcement_date": "20230310"
-              },
-              {
-                "git_path": "직제규정/public_2128257/직제규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:직제규정:public_2128257#JO0003",
-                "is_current": true,
-                "enforcement_date": "20261008"
-              },
-              {
-                "git_path": "직제규정/public_2141139/직제규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:직제규정:public_2141139#JO0003",
-                "is_current": true,
-                "enforcement_date": "20260921"
-              },
-              {
-                "git_path": "직제규정/public_2141381/직제규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:직제규정:public_2141381#JO0003",
-                "is_current": true,
-                "enforcement_date": "20260128"
-              }
-            ]
+            "target_git_path_guess": "직제규정/직제규정.json"
           }
         ],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0011"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0011"
       },
       {
         "article_no": "제12조",
@@ -837,14 +657,14 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0012"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0012"
       },
       {
         "article_no": "제13조",
         "article_title": "임원의 결격사유",
         "chapter": "제2장 임원 및 직원",
         "chapter_path": "제2장 임원 및 직원",
-        "content": "제13조(임원의 결격사유) 다음 각 호의 어느 하나에 해당하는 사람은 심사평가원의 임원이 될 수 없다. <개정 2023. 8. 11.>1. 대한민국 국민이 아닌 사람2. 「국가공무원법」 제33조 각 호의 어느 하나에 해당하는 사람3. 「공공기관의 운영에 관한 법률」 제34조제1항제2호에 해당하는 사람4. 「부패방지 및 국민권익위원회의 설치와 운영에 관한 법률」 제82조에 따른 취업제한 사유에 해당하는 사람",
+        "content": "제13조(임원의 결격사유) 다음 각 호의 어느 하나에 해당하는 사람은 심사평가원의 임원이 될 수 없다. <개정 2023. 8. 11.>1. 대한민국 국민이 아닌 사람2. 「국가공무원법」 제33조 각 호의 어느 하나에 해당하는 사람3. 「공공기관의 운영에 관한 법률」제34조제1항제2호에 해당하는 사람4. 「부패방지 및 국민권익위원회의 설치와 운영에 관한 법률」 제82조에 따른 취업제한 사유에 해당하는 사람",
         "enforcement_date": "",
         "relations": [
           {
@@ -859,15 +679,13 @@
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/법령/국가공무원법",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0013",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0013",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -881,15 +699,13 @@
             "target_article_no": "제33조",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/법령/국가공무원법/제33조",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0013",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0013",
             "reference_id": "law:국가공무원법#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -903,15 +719,13 @@
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/법령/공공기관의 운영에 관한 법률",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0013",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0013",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -925,15 +739,13 @@
             "target_article_no": "제34조",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/법령/공공기관의 운영에 관한 법률/제34조",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0013",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0013",
             "reference_id": "law:공공기관의운영에관한법률#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -947,15 +759,13 @@
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/법령/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0013",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0013",
             "reference_id": "law:부패방지및국민권익위원회의설치와운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
-            "target_git_path": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -969,19 +779,17 @@
             "target_article_no": "제82조",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/법령/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/제82조",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0013",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0013",
             "reference_id": "law:부패방지및국민권익위원회의설치와운영에관한법률#JO0082",
             "target_repo": "LAW",
-            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
-            "target_git_path": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json"
           }
         ],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0013"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0013"
       },
       {
         "article_no": "제14조",
@@ -1003,17 +811,13 @@
             "target_article_no": "제13조",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/학칙공단/건강보험심사평가원 정관/제13조",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0014",
-            "reference_id": "SchlPubRul:건강보험심사평가원정관#JO0013",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0014",
+            "reference_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "건강보험심사평가원 정관/건강보험심사평가원 정관.json",
-            "target_git_path": "건강보험심사평가원 정관/건강보험심사평가원 정관.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "건강보험심사평가원 정관/건강보험심사평가원 정관.json"
           },
           {
             "relation_type": "citation",
@@ -1027,15 +831,13 @@
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/법령/공공기관의 운영에 관한 법률",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0014",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0014",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -1049,15 +851,13 @@
             "target_article_no": "제22조",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/법령/공공기관의 운영에 관한 법률/제22조",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0014",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0014",
             "reference_id": "law:공공기관의운영에관한법률#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -1071,15 +871,13 @@
             "target_article_no": "제31조",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/법령/공공기관의 운영에 관한 법률/제31조",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0014",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0014",
             "reference_id": "law:공공기관의운영에관한법률#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -1093,15 +891,13 @@
             "target_article_no": "제35조",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/법령/공공기관의 운영에 관한 법률/제35조",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0014",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0014",
             "reference_id": "law:공공기관의운영에관한법률#JO0035",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -1115,15 +911,13 @@
             "target_article_no": "제36조",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/법령/공공기관의 운영에 관한 법률/제36조",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0014",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0014",
             "reference_id": "law:공공기관의운영에관한법률#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -1137,15 +931,13 @@
             "target_article_no": "제48조",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/법령/공공기관의 운영에 관한 법률/제48조",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0014",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0014",
             "reference_id": "law:공공기관의운영에관한법률#JO0048",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -1159,19 +951,17 @@
             "target_article_no": "제52조의3",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/법령/공공기관의 운영에 관한 법률/제52조의3",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0014",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0014",
             "reference_id": "law:공공기관의운영에관한법률#JO0052_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
           }
         ],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0014"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0014"
       },
       {
         "article_no": "제14조의2",
@@ -1182,7 +972,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0014_02"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0014_02"
       },
       {
         "article_no": "제15조",
@@ -1204,15 +994,13 @@
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/법령/국가공무원 복무규정",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0015",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0015",
             "reference_id": "law:국가공무원복무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
-            "target_git_path": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json"
           },
           {
             "relation_type": "citation",
@@ -1226,26 +1014,24 @@
             "target_article_no": "제25조",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/법령/국가공무원 복무규정/제25조",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0015",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0015",
             "reference_id": "law:국가공무원복무규정#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
-            "target_git_path": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json"
           }
         ],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0015"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0015"
       },
       {
         "article_no": "제16조",
         "article_title": "공무원의 의제",
         "chapter": "제2장 임원 및 직원",
         "chapter_path": "제2장 임원 및 직원",
-        "content": "제16조(공무원의 의제) 임원 및 직원은 「형법」 제129조부터 제132조까지의 적용에 있어서는 이를 공무원으로 본다.",
+        "content": "제16조(공무원의 의제) 임원 및 직원은 「형법」제129조부터 제132조까지의 적용에 있어서는 이를 공무원으로 본다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -1260,15 +1046,13 @@
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/법령/형법",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0016",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0016",
             "reference_id": "law:형법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -1282,15 +1066,13 @@
             "target_article_no": "제129조",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/법령/형법/제129조",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0016",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0016",
             "reference_id": "law:형법#JO0129",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -1304,15 +1086,13 @@
             "target_article_no": "제130조",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/법령/형법/제130조",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0016",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0016",
             "reference_id": "law:형법#JO0130",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -1326,15 +1106,13 @@
             "target_article_no": "제131조",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/법령/형법/제131조",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0016",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0016",
             "reference_id": "law:형법#JO0131",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -1348,26 +1126,24 @@
             "target_article_no": "제132조",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/법령/형법/제132조",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0016",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0016",
             "reference_id": "law:형법#JO0132",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           }
         ],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0016"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0016"
       },
       {
         "article_no": "제17조",
         "article_title": "직원의 임면",
         "chapter": "제2장 임원 및 직원",
         "chapter_path": "제2장 임원 및 직원",
-        "content": "제17조(직원의 임면) 원장은 「인사규정」 이 정하는 바에 따라 직원을 임면한다.",
+        "content": "제17조(직원의 임면) 원장은 「인사규정」이 정하는 바에 따라 직원을 임면한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -1382,52 +1158,17 @@
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/학칙공단/인사규정",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0017",
-            "reference_id": "SchlPubRul:인사규정:public_2130247#DOC",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0017",
+            "reference_id": "SchlPubRul:인사규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json",
-            "target_candidates": 4,
-            "target_git_path": "인사규정/public_2130247/인사규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관",
-            "target_candidate_paths": [
-              {
-                "git_path": "인사규정/public_2127985/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2127985#DOC",
-                "is_current": true,
-                "enforcement_date": "20230310"
-              },
-              {
-                "git_path": "인사규정/public_2128323/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2128323#DOC",
-                "is_current": true,
-                "enforcement_date": "20250109"
-              },
-              {
-                "git_path": "인사규정/public_2130247/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2130247#DOC",
-                "is_current": true,
-                "enforcement_date": "20260818"
-              },
-              {
-                "git_path": "인사규정/public_2141221/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2141221#DOC",
-                "is_current": true,
-                "enforcement_date": "20260805"
-              }
-            ]
+            "target_git_path_guess": "인사규정/인사규정.json"
           }
         ],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0017"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0017"
       },
       {
         "article_no": "제18조",
@@ -1449,52 +1190,17 @@
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/학칙공단/인사규정",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0018",
-            "reference_id": "SchlPubRul:인사규정:public_2130247#DOC",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0018",
+            "reference_id": "SchlPubRul:인사규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json",
-            "target_candidates": 4,
-            "target_git_path": "인사규정/public_2130247/인사규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관",
-            "target_candidate_paths": [
-              {
-                "git_path": "인사규정/public_2127985/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2127985#DOC",
-                "is_current": true,
-                "enforcement_date": "20230310"
-              },
-              {
-                "git_path": "인사규정/public_2128323/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2128323#DOC",
-                "is_current": true,
-                "enforcement_date": "20250109"
-              },
-              {
-                "git_path": "인사규정/public_2130247/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2130247#DOC",
-                "is_current": true,
-                "enforcement_date": "20260818"
-              },
-              {
-                "git_path": "인사규정/public_2141221/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2141221#DOC",
-                "is_current": true,
-                "enforcement_date": "20260805"
-              }
-            ]
+            "target_git_path_guess": "인사규정/인사규정.json"
           }
         ],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0018"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0018"
       },
       {
         "article_no": "제19조",
@@ -1505,7 +1211,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0019"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0019"
       },
       {
         "article_no": "제20조",
@@ -1516,14 +1222,14 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0020"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0020"
       },
       {
         "article_no": "제21조",
         "article_title": "임직원의 복무",
         "chapter": "제2장 임원 및 직원",
         "chapter_path": "제2장 임원 및 직원",
-        "content": "제21조(임직원의 복무) 임직원의 복무에 관한 사항은 「인사규정」 으로 정한다.",
+        "content": "제21조(임직원의 복무) 임직원의 복무에 관한 사항은 「인사규정」으로 정한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -1538,59 +1244,24 @@
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/학칙공단/인사규정",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0021",
-            "reference_id": "SchlPubRul:인사규정:public_2130247#DOC",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0021",
+            "reference_id": "SchlPubRul:인사규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json",
-            "target_candidates": 4,
-            "target_git_path": "인사규정/public_2130247/인사규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관",
-            "target_candidate_paths": [
-              {
-                "git_path": "인사규정/public_2127985/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2127985#DOC",
-                "is_current": true,
-                "enforcement_date": "20230310"
-              },
-              {
-                "git_path": "인사규정/public_2128323/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2128323#DOC",
-                "is_current": true,
-                "enforcement_date": "20250109"
-              },
-              {
-                "git_path": "인사규정/public_2130247/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2130247#DOC",
-                "is_current": true,
-                "enforcement_date": "20260818"
-              },
-              {
-                "git_path": "인사규정/public_2141221/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2141221#DOC",
-                "is_current": true,
-                "enforcement_date": "20260805"
-              }
-            ]
+            "target_git_path_guess": "인사규정/인사규정.json"
           }
         ],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0021"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0021"
       },
       {
         "article_no": "제22조",
         "article_title": "임직원의 보수",
         "chapter": "제2장 임원 및 직원",
         "chapter_path": "제2장 임원 및 직원",
-        "content": "제22조(임직원의 보수) ① 임직원은 「보수규정」 이 정하는 보수와 기타 업무수행에 따른 실제 비용을 받는다.② 비상임임원에 대하여는 보수를 지급하지 아니한다. 다만, 직무수행에 따른 실제 비용을 「보수규정」 이 정하는 바에 따라 지급한다.",
+        "content": "제22조(임직원의 보수) ① 임직원은 「보수규정」이 정하는 보수와 기타 업무수행에 따른 실제 비용을 받는다.② 비상임임원에 대하여는 보수를 지급하지 아니한다. 다만, 직무수행에 따른 실제 비용을 「보수규정」이 정하는 바에 따라 지급한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -1605,41 +1276,13 @@
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/학칙공단/보수규정",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0022",
-            "reference_id": "SchlPubRul:보수규정:public_2141161#DOC",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0022",
+            "reference_id": "SchlPubRul:보수규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "보수규정/보수규정.json",
-            "target_candidates": 3,
-            "target_git_path": "보수규정/public_2141161/보수규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관",
-            "target_candidate_paths": [
-              {
-                "git_path": "보수규정/public_2127935/보수규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:보수규정:public_2127935#DOC",
-                "is_current": true,
-                "enforcement_date": "20230310"
-              },
-              {
-                "git_path": "보수규정/public_2128339/보수규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:보수규정:public_2128339#DOC",
-                "is_current": true,
-                "enforcement_date": "20260101"
-              },
-              {
-                "git_path": "보수규정/public_2141161/보수규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:보수규정:public_2141161#DOC",
-                "is_current": true,
-                "enforcement_date": "20261027"
-              }
-            ]
+            "target_git_path_guess": "보수규정/보수규정.json"
           },
           {
             "relation_type": "citation",
@@ -1653,45 +1296,17 @@
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/학칙공단/보수규정",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0022",
-            "reference_id": "SchlPubRul:보수규정:public_2141161#DOC",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0022",
+            "reference_id": "SchlPubRul:보수규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "보수규정/보수규정.json",
-            "target_candidates": 3,
-            "target_git_path": "보수규정/public_2141161/보수규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관",
-            "target_candidate_paths": [
-              {
-                "git_path": "보수규정/public_2127935/보수규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:보수규정:public_2127935#DOC",
-                "is_current": true,
-                "enforcement_date": "20230310"
-              },
-              {
-                "git_path": "보수규정/public_2128339/보수규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:보수규정:public_2128339#DOC",
-                "is_current": true,
-                "enforcement_date": "20260101"
-              },
-              {
-                "git_path": "보수규정/public_2141161/보수규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:보수규정:public_2141161#DOC",
-                "is_current": true,
-                "enforcement_date": "20261027"
-              }
-            ]
+            "target_git_path_guess": "보수규정/보수규정.json"
           }
         ],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0022"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0022"
       },
       {
         "article_no": "제23조",
@@ -1702,14 +1317,14 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0023"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0023"
       },
       {
         "article_no": "제24조",
         "article_title": "조직",
         "chapter": "제2장 임원 및 직원",
         "chapter_path": "제2장 임원 및 직원",
-        "content": "제24조(조직) 심사평가원의 조직ㆍ업무분장 및 정원에 관하여는 「직제규정」 이 정하는 바에 따른다.",
+        "content": "제24조(조직) 심사평가원의 조직ㆍ업무분장 및 정원에 관하여는 「직제규정」이 정하는 바에 따른다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -1724,59 +1339,17 @@
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/학칙공단/직제규정",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0024",
-            "reference_id": "SchlPubRul:직제규정:public_2128257#DOC",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0024",
+            "reference_id": "SchlPubRul:직제규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "직제규정/직제규정.json",
-            "target_candidates": 5,
-            "target_git_path": "직제규정/public_2128257/직제규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관",
-            "target_candidate_paths": [
-              {
-                "git_path": "직제규정/public_2127825/직제규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:직제규정:public_2127825#DOC",
-                "is_current": true,
-                "enforcement_date": "20260818"
-              },
-              {
-                "git_path": "직제규정/public_2128001/직제규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:직제규정:public_2128001#DOC",
-                "is_current": true,
-                "enforcement_date": "20230310"
-              },
-              {
-                "git_path": "직제규정/public_2128257/직제규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:직제규정:public_2128257#DOC",
-                "is_current": true,
-                "enforcement_date": "20261008"
-              },
-              {
-                "git_path": "직제규정/public_2141139/직제규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:직제규정:public_2141139#DOC",
-                "is_current": true,
-                "enforcement_date": "20260921"
-              },
-              {
-                "git_path": "직제규정/public_2141381/직제규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:직제규정:public_2141381#DOC",
-                "is_current": true,
-                "enforcement_date": "20260128"
-              }
-            ]
+            "target_git_path_guess": "직제규정/직제규정.json"
           }
         ],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0024"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0024"
       },
       {
         "article_no": "제25조",
@@ -1787,14 +1360,14 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0025"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0025"
       },
       {
         "article_no": "제26조",
         "article_title": "이사회의 기능",
         "chapter": "제3장 이사회",
         "chapter_path": "제3장 이사회",
-        "content": "제26조(이사회의 기능) ① 이사회는 다음 각 호의 사항을 심의ㆍ의결한다. <개정 2013. 9. 12., 2015. 7. 22.>1. 경영목표의 수립 및 변경에 관한 사항2. 예산 및 운영계획 수립 및 변경에 관한 사항3. 예비비의 사용에 관한 사항4. 결산(이익잉여금의 처분을 포함한다)에 관한 사항5. 중요자산의 지정에 관한 사항6. 제49조제2항 각 호의 자산의 취득과 처분에 관한 사항7. 자금의 차입 및 사채의 발행과 그 상환 계획에 관한 사항8. 정관의 변경에 관한 사항9. 직제ㆍ인사ㆍ보수ㆍ회계 등 업무에 관한 주요규정의 제정ㆍ개정 및 폐지에 관한 사항10. 임원추천위원회의 위원 정수ㆍ선임 등에 관한 사항11. 원장 후보자와의 계약안에 관한 사항12. 수탁계약의 체결에 관한 사항13. 원장이 필요하다고 인정하여 이사회의 심의ㆍ의결을 요청하는 사항14. 제30조제1항에 따른 원장의 해임 건의 요청에 관한 사항15. 그 밖의 이사회가 필요하다고 인정하는 사항② 원장은 다음 각 호의 사항을 이사회에 보고하여야 한다. <개정 2023. 8. 11.>1. 「국정감사 및 조사에 관한 법률」 제2조에 따른 국정감사, 「공공기관의 운영에 관한 법률」 제43조제1항에 따라 실시된 회계감사와 같은 법 제52조에 따라 감사원이 실시한 감사에서 지적된 사항과 그에 대한 조치계획 및 실적2. 단체협약 결과와 그에 따른 예산소요 추계3. 그 밖에 이사회가 원장에게 보고하도록 요구하는 사항",
+        "content": "제26조(이사회의 기능) ① 이사회는 다음 각 호의 사항을 심의ㆍ의결한다. <개정 2013. 9. 12., 2015. 7. 22.>1. 경영목표의 수립 및 변경에 관한 사항2. 예산 및 운영계획 수립 및 변경에 관한 사항3. 예비비의 사용에 관한 사항4. 결산(이익잉여금의 처분을 포함한다)에 관한 사항5. 중요자산의 지정에 관한 사항6. 제49조제2항 각 호의 자산의 취득과 처분에 관한 사항7. 자금의 차입 및 사채의 발행과 그 상환 계획에 관한 사항8. 정관의 변경에 관한 사항9. 직제ㆍ인사ㆍ보수ㆍ회계 등 업무에 관한 주요규정의 제정ㆍ개정 및 폐지에 관한 사항10. 임원추천위원회의 위원 정수ㆍ선임 등에 관한 사항11. 원장 후보자와의 계약안에 관한 사항12. 수탁계약의 체결에 관한 사항13. 원장이 필요하다고 인정하여 이사회의 심의ㆍ의결을 요청하는 사항14. 제30조제1항에 따른 원장의 해임 건의 요청에 관한 사항15. 그 밖의 이사회가 필요하다고 인정하는 사항② 원장은 다음 각 호의 사항을 이사회에 보고하여야 한다. <개정 2023. 8. 11.>1. 「국정감사 및 조사에 관한 법률」제2조에 따른 국정감사, 「공공기관의 운영에 관한 법률」 제43조제1항에 따라 실시된 회계감사와 같은 법 제52조에 따라 감사원이 실시한 감사에서 지적된 사항과 그에 대한 조치계획 및 실적2. 단체협약 결과와 그에 따른 예산소요 추계3. 그 밖에 이사회가 원장에게 보고하도록 요구하는 사항",
         "enforcement_date": "",
         "relations": [
           {
@@ -1809,17 +1382,13 @@
             "target_article_no": "제49조",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/학칙공단/건강보험심사평가원 정관/제49조",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0026",
-            "reference_id": "SchlPubRul:건강보험심사평가원정관#JO0049",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0026",
+            "reference_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0049",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "건강보험심사평가원 정관/건강보험심사평가원 정관.json",
-            "target_git_path": "건강보험심사평가원 정관/건강보험심사평가원 정관.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "건강보험심사평가원 정관/건강보험심사평가원 정관.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1833,17 +1402,13 @@
             "target_article_no": "제30조",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/학칙공단/건강보험심사평가원 정관/제30조",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0026",
-            "reference_id": "SchlPubRul:건강보험심사평가원정관#JO0030",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0026",
+            "reference_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0030",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "건강보험심사평가원 정관/건강보험심사평가원 정관.json",
-            "target_git_path": "건강보험심사평가원 정관/건강보험심사평가원 정관.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "건강보험심사평가원 정관/건강보험심사평가원 정관.json"
           },
           {
             "relation_type": "citation",
@@ -1857,15 +1422,13 @@
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/법령/국정감사 및 조사에 관한 법률",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0026",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0026",
             "reference_id": "law:국정감사및조사에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국정감사 및 조사에 관한 법률/법률/국정감사 및 조사에 관한 법률.json",
-            "target_git_path": "국정감사 및 조사에 관한 법률/법률/국정감사 및 조사에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국정감사 및 조사에 관한 법률/법률/국정감사 및 조사에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -1879,15 +1442,13 @@
             "target_article_no": "제2조",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/법령/국정감사 및 조사에 관한 법률/제2조",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0026",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0026",
             "reference_id": "law:국정감사및조사에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "국정감사 및 조사에 관한 법률/법률/국정감사 및 조사에 관한 법률.json",
-            "target_git_path": "국정감사 및 조사에 관한 법률/법률/국정감사 및 조사에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국정감사 및 조사에 관한 법률/법률/국정감사 및 조사에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -1901,15 +1462,13 @@
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/법령/공공기관의 운영에 관한 법률",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0026",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0026",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -1923,15 +1482,13 @@
             "target_article_no": "제43조",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/법령/공공기관의 운영에 관한 법률/제43조",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0026",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0026",
             "reference_id": "law:공공기관의운영에관한법률#JO0043",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -1945,15 +1502,13 @@
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/법령/공공기관의 운영에 관한 법률",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0026",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0026",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -1967,19 +1522,17 @@
             "target_article_no": "제52조",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/법령/공공기관의 운영에 관한 법률/제52조",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0026",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0026",
             "reference_id": "law:공공기관의운영에관한법률#JO0052",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
           }
         ],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0026"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0026"
       },
       {
         "article_no": "제27조",
@@ -1990,7 +1543,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0027"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0027"
       },
       {
         "article_no": "제28조",
@@ -2001,7 +1554,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0028"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0028"
       },
       {
         "article_no": "제29조",
@@ -2012,18 +1565,18 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0029"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0029"
       },
       {
         "article_no": "제30조",
         "article_title": "해임 요청 등",
         "chapter": "제3장 이사회",
         "chapter_path": "제3장 이사회",
-        "content": "제30조(해임 요청 등) ① 이사회는 원장이 법령이나 「정관」 을 위반하는 행위를 하거나 그 직무를 게을리 하는 등 원장으로서 직무수행에 현저한 지장이 있다고 판단되는 경우 이사회의 의결을 거쳐 보건복지부장관에게 해임을 건의하도록 요청할 수 있다.② 비상임이사는 필요하다고 인정하는 경우에는 비상임이사 2명 이상이 연서(連署)하여 감사에게 심사평가원의 운영과 관련한 특정사안에 대한 감사를 요청할 수 있고, 감사는 특별한 사정이 없는 한 이에 응하여야 한다. 다만, 감사를 실시하기 어려운 특별한 사정이 있을 경우에는 그 사유를 해당 비상임이사에게 소명하고 그 사실을 이사회에 보고하여야 한다.③ 비상임이사는 원장에 대하여 업무수행에 필요한 자료를 요구할 수 있고, 원장은 특별한 사유가 없는 한 이에 응하여야 한다. 다만, 자료를 제공하기 어려운 특별한 사정이 있을 경우에는 그 사유를 해당 비상임이사에게 소명하고 그 사실을 이사회에 보고하여야 한다.",
+        "content": "제30조(해임 요청 등) ① 이사회는 원장이 법령이나 「정관」을 위반하는 행위를 하거나 그 직무를 게을리 하는 등 원장으로서 직무수행에 현저한 지장이 있다고 판단되는 경우 이사회의 의결을 거쳐 보건복지부장관에게 해임을 건의하도록 요청할 수 있다.② 비상임이사는 필요하다고 인정하는 경우에는 비상임이사 2명 이상이 연서(連署)하여 감사에게 심사평가원의 운영과 관련한 특정사안에 대한 감사를 요청할 수 있고, 감사는 특별한 사정이 없는 한 이에 응하여야 한다. 다만, 감사를 실시하기 어려운 특별한 사정이 있을 경우에는 그 사유를 해당 비상임이사에게 소명하고 그 사실을 이사회에 보고하여야 한다.③ 비상임이사는 원장에 대하여 업무수행에 필요한 자료를 요구할 수 있고, 원장은 특별한 사유가 없는 한 이에 응하여야 한다. 다만, 자료를 제공하기 어려운 특별한 사정이 있을 경우에는 그 사유를 해당 비상임이사에게 소명하고 그 사실을 이사회에 보고하여야 한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0030"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0030"
       },
       {
         "article_no": "제31조",
@@ -2034,7 +1587,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0031"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0031"
       },
       {
         "article_no": "제32조",
@@ -2045,7 +1598,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0032"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0032"
       },
       {
         "article_no": "제33조",
@@ -2056,7 +1609,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0033"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0033"
       },
       {
         "article_no": "제34조",
@@ -2067,7 +1620,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0034"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0034"
       },
       {
         "article_no": "제35조",
@@ -2089,19 +1642,17 @@
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/법령/국민건강보험법",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0035",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0035",
             "reference_id": "law:국민건강보험법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json",
-            "target_git_path": "국민건강보험법/법률/국민건강보험법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json"
           }
         ],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0035"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0035"
       },
       {
         "article_no": "제35조의2",
@@ -2112,7 +1663,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0035_02"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0035_02"
       },
       {
         "article_no": "제35조의3",
@@ -2134,21 +1685,17 @@
             "target_article_no": "제35조",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/학칙공단/건강보험심사평가원 정관/제35조",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0035_03",
-            "reference_id": "SchlPubRul:건강보험심사평가원정관#JO0035",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0035_03",
+            "reference_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0035",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "건강보험심사평가원 정관/건강보험심사평가원 정관.json",
-            "target_git_path": "건강보험심사평가원 정관/건강보험심사평가원 정관.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "건강보험심사평가원 정관/건강보험심사평가원 정관.json"
           }
         ],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0035_03"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0035_03"
       },
       {
         "article_no": "제36조",
@@ -2170,21 +1717,17 @@
             "target_article_no": "제10조",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/학칙공단/건강보험심사평가원 정관/제10조",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0036",
-            "reference_id": "SchlPubRul:건강보험심사평가원정관#JO0010",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0036",
+            "reference_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "건강보험심사평가원 정관/건강보험심사평가원 정관.json",
-            "target_git_path": "건강보험심사평가원 정관/건강보험심사평가원 정관.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "건강보험심사평가원 정관/건강보험심사평가원 정관.json"
           }
         ],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0036"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0036"
       },
       {
         "article_no": "제37조",
@@ -2195,7 +1738,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0037"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0037"
       },
       {
         "article_no": "제38조",
@@ -2217,21 +1760,17 @@
             "target_article_no": "제35조",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/학칙공단/건강보험심사평가원 정관/제35조",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0038",
-            "reference_id": "SchlPubRul:건강보험심사평가원정관#JO0035",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0038",
+            "reference_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0035",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "건강보험심사평가원 정관/건강보험심사평가원 정관.json",
-            "target_git_path": "건강보험심사평가원 정관/건강보험심사평가원 정관.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "건강보험심사평가원 정관/건강보험심사평가원 정관.json"
           }
         ],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0038"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0038"
       },
       {
         "article_no": "제39조",
@@ -2242,14 +1781,14 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0039"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0039"
       },
       {
         "article_no": "제40조",
         "article_title": "구성",
         "chapter": "제5장 진료심사평가위원회",
         "chapter_path": "제5장 진료심사평가위원회",
-        "content": "제40조(구성) ① 심사위원회는 위원장을 포함한 90명 이내의 상근심사위원과 1,000명 이내의 비상근심사위원으로 구성한다. <개정 2016. 3. 2.>② 심사위원회의 효율적 운영을 위하여 본원에는 중앙심사위원회와 의료평가위원회를 두고, 각 본부에는 지역심사평가위원회를 둔다. <개정 2015. 4. 1., 2023. 10. 23.>③ 중앙심사위원회 및 지역심사평가위원회에는 「의료법」 에 따른 진료과목별, 전문진료분야별 및 「약사법」 에 따른 약학 분야별 분과위원회를 두며, 필요한 경우 2개 이상의 진료과목을 합하여 하나의 분과위원회로 할 수 있다.④ 의료평가위원회에는 질환별ㆍ평가항목별 분과위원회를 둘 수 있다. <개정 2015. 4. 1.>⑤ 심사위원회에 두는 각 위원회의 심의사항 및 의견의 조정 등을 위하여 본원에는 중앙심사조정위원회와 의료평가조정위원회를 두고, 본부에는 지역심사평가조정위원회를 둔다. <개정 2015. 4. 1., 2023. 10. 23.>",
+        "content": "제40조(구성) ① 심사위원회는 위원장을 포함한 90명 이내의 상근심사위원과 1,000명 이내의 비상근심사위원으로 구성한다. <개정 2016. 3. 2.>② 심사위원회의 효율적 운영을 위하여 본원에는 중앙심사위원회와 의료평가위원회를 두고, 각 본부에는 지역심사평가위원회를 둔다. <개정 2015. 4. 1., 2023. 10. 23.>③ 중앙심사위원회 및 지역심사평가위원회에는 「의료법」에 따른 진료과목별, 전문진료분야별 및 「약사법」에 따른 약학 분야별 분과위원회를 두며, 필요한 경우 2개 이상의 진료과목을 합하여 하나의 분과위원회로 할 수 있다.④ 의료평가위원회에는 질환별ㆍ평가항목별 분과위원회를 둘 수 있다. <개정 2015. 4. 1.>⑤ 심사위원회에 두는 각 위원회의 심의사항 및 의견의 조정 등을 위하여 본원에는 중앙심사조정위원회와 의료평가조정위원회를 두고, 본부에는 지역심사평가조정위원회를 둔다. <개정 2015. 4. 1., 2023. 10. 23.>",
         "enforcement_date": "",
         "relations": [
           {
@@ -2264,15 +1803,13 @@
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/법령/의료법",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0040",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0040",
             "reference_id": "law:의료법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "의료법/법률/의료법.json",
-            "target_git_path": "의료법/법률/의료법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "의료법/법률/의료법.json"
           },
           {
             "relation_type": "citation",
@@ -2286,26 +1823,24 @@
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/법령/약사법",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0040",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0040",
             "reference_id": "law:약사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "약사법/법률/약사법.json",
-            "target_git_path": "약사법/법률/약사법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "약사법/법률/약사법.json"
           }
         ],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0040"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0040"
       },
       {
         "article_no": "제40조의2",
         "article_title": "진료심사평가위원회 위원의 겸직",
         "chapter": "제5장 진료심사평가위원회",
         "chapter_path": "제5장 진료심사평가위원회",
-        "content": "제40조의2(진료심사평가위원회 위원의 겸직) 원장은 「국민건강보험법 시행령」 제29조의2에 따라 심사위원회의 위원을 겸하고자 하는 대학의 교수ㆍ부교수 및 조교수를 심사위원회의 위원으로 임명할 수 있으며, 이 경우 필요한 수당 등을 심사평가원의 관련규정에서 정하는 바에 따라 지급할 수 있다.[본조신설 2023. 12. 13.]",
+        "content": "제40조의2(진료심사평가위원회 위원의 겸직) 원장은「국민건강보험법 시행령」제29조의2에 따라 심사위원회의 위원을 겸하고자 하는 대학의 교수ㆍ부교수 및 조교수를 심사위원회의 위원으로 임명할 수 있으며, 이 경우 필요한 수당 등을 심사평가원의 관련규정에서 정하는 바에 따라 지급할 수 있다.[본조신설 2023. 12. 13.]",
         "enforcement_date": "",
         "relations": [
           {
@@ -2320,15 +1855,13 @@
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/법령/국민건강보험법 시행령",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0040_02",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0040_02",
             "reference_id": "law:국민건강보험법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강보험법/시행령/국민건강보험법 시행령.json",
-            "target_git_path": "국민건강보험법/시행령/국민건강보험법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국민건강보험법/시행령/국민건강보험법 시행령.json"
           },
           {
             "relation_type": "citation",
@@ -2342,19 +1875,17 @@
             "target_article_no": "제29조의2",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/법령/국민건강보험법 시행령/제29조의2",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0040_02",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0040_02",
             "reference_id": "law:국민건강보험법시행령#JO0029_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강보험법/시행령/국민건강보험법 시행령.json",
-            "target_git_path": "국민건강보험법/시행령/국민건강보험법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국민건강보험법/시행령/국민건강보험법 시행령.json"
           }
         ],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0040_02"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0040_02"
       },
       {
         "article_no": "제41조",
@@ -2376,21 +1907,17 @@
             "target_article_no": "제40조",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/학칙공단/건강보험심사평가원 정관/제40조",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0041",
-            "reference_id": "SchlPubRul:건강보험심사평가원정관#JO0040",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0041",
+            "reference_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0040",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "건강보험심사평가원 정관/건강보험심사평가원 정관.json",
-            "target_git_path": "건강보험심사평가원 정관/건강보험심사평가원 정관.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "건강보험심사평가원 정관/건강보험심사평가원 정관.json"
           }
         ],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0041"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0041"
       },
       {
         "article_no": "제41조의2",
@@ -2412,17 +1939,13 @@
             "target_article_no": "제40조",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/학칙공단/건강보험심사평가원 정관/제40조",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0041_02",
-            "reference_id": "SchlPubRul:건강보험심사평가원정관#JO0040",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0041_02",
+            "reference_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0040",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "건강보험심사평가원 정관/건강보험심사평가원 정관.json",
-            "target_git_path": "건강보험심사평가원 정관/건강보험심사평가원 정관.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "건강보험심사평가원 정관/건강보험심사평가원 정관.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2436,32 +1959,28 @@
             "target_article_no": "제40조",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/학칙공단/건강보험심사평가원 정관/제40조",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0041_02",
-            "reference_id": "SchlPubRul:건강보험심사평가원정관#JO0040",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0041_02",
+            "reference_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0040",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "건강보험심사평가원 정관/건강보험심사평가원 정관.json",
-            "target_git_path": "건강보험심사평가원 정관/건강보험심사평가원 정관.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "건강보험심사평가원 정관/건강보험심사평가원 정관.json"
           }
         ],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0041_02"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0041_02"
       },
       {
         "article_no": "제42조",
         "article_title": "운영규정",
         "chapter": "제5장 진료심사평가위원회",
         "chapter_path": "제5장 진료심사평가위원회",
-        "content": "제42조(운영규정) 심사위원회의 구성ㆍ운영 및 심사위원의 임명 등에 관하여 법령과 이 「정관」 에서 규정하지 아니한 사항은 원장이 따로 정한다.",
+        "content": "제42조(운영규정) 심사위원회의 구성ㆍ운영 및 심사위원의 임명 등에 관하여 법령과 이 「정관」에서 규정하지 아니한 사항은 원장이 따로 정한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0042"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0042"
       },
       {
         "article_no": "제43조",
@@ -2483,15 +2002,13 @@
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/법령/국민건강보험법",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0043",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0043",
             "reference_id": "law:국민건강보험법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json",
-            "target_git_path": "국민건강보험법/법률/국민건강보험법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json"
           },
           {
             "relation_type": "citation",
@@ -2505,19 +2022,17 @@
             "target_article_no": "제87조",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/법령/국민건강보험법/제87조",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0043",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0043",
             "reference_id": "law:국민건강보험법#JO0087",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json",
-            "target_git_path": "국민건강보험법/법률/국민건강보험법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json"
           }
         ],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0043"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0043"
       },
       {
         "article_no": "제44조",
@@ -2528,7 +2043,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0044"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0044"
       },
       {
         "article_no": "제45조",
@@ -2550,15 +2065,13 @@
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/법령/국민건강보험 요양급여의 기준에 관한 규칙",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0045",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0045",
             "reference_id": "law:국민건강보험요양급여의기준에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강보험 요양급여의 기준에 관한 규칙/법률/국민건강보험 요양급여의 기준에 관한 규칙.json",
-            "target_git_path": "국민건강보험 요양급여의 기준에 관한 규칙/법률/국민건강보험 요양급여의 기준에 관한 규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국민건강보험 요양급여의 기준에 관한 규칙/법률/국민건강보험 요양급여의 기준에 관한 규칙.json"
           },
           {
             "relation_type": "citation",
@@ -2572,19 +2085,17 @@
             "target_article_no": "제5조의2",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/법령/국민건강보험 요양급여의 기준에 관한 규칙/제5조의2",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0045",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0045",
             "reference_id": "law:국민건강보험요양급여의기준에관한규칙#JO0005_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강보험 요양급여의 기준에 관한 규칙/법률/국민건강보험 요양급여의 기준에 관한 규칙.json",
-            "target_git_path": "국민건강보험 요양급여의 기준에 관한 규칙/법률/국민건강보험 요양급여의 기준에 관한 규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국민건강보험 요양급여의 기준에 관한 규칙/법률/국민건강보험 요양급여의 기준에 관한 규칙.json"
           }
         ],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0045"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0045"
       },
       {
         "article_no": "제46조",
@@ -2595,7 +2106,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0046"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0046"
       },
       {
         "article_no": "제47조",
@@ -2606,29 +2117,29 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0047"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0047"
       },
       {
         "article_no": "제48조",
         "article_title": "운영규정",
         "chapter": "제7장 중증질환심의위원회",
         "chapter_path": "제7장 중증질환심의위원회",
-        "content": "제48조(운영규정) 심의위원회의 구성ㆍ운영 등에 관하여 법령과 이 「정관」 에서 규정하지 아니한 사항은 원장이 따로 정한다.",
+        "content": "제48조(운영규정) 심의위원회의 구성ㆍ운영 등에 관하여 법령과 이 「정관」에서 규정하지 아니한 사항은 원장이 따로 정한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0048"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0048"
       },
       {
         "article_no": "제49조",
         "article_title": "자산의 구분과 처분제한",
         "chapter": "제8장 자산 및 회계",
         "chapter_path": "제8장 자산 및 회계",
-        "content": "제49조(자산의 구분과 처분제한) ① 심사평가원의 자산은 「회계규정」 이 정하는 바에 따라 구분한다.② 심사평가원의 자산 중 다음 각 호의 자산을 매매ㆍ양도 또는 교환하거나 이를 담보로 제공하고자 하는 때에는 이사회의 의결을 거쳐 보건복지부장관의 승인을 얻어야 한다.1. 토지 및 건축물2. 기타 이사회가 지정하는 중요자산",
+        "content": "제49조(자산의 구분과 처분제한) ① 심사평가원의 자산은 「회계규정」이 정하는 바에 따라 구분한다.② 심사평가원의 자산 중 다음 각 호의 자산을 매매ㆍ양도 또는 교환하거나 이를 담보로 제공하고자 하는 때에는 이사회의 의결을 거쳐 보건복지부장관의 승인을 얻어야 한다.1. 토지 및 건축물2. 기타 이사회가 지정하는 중요자산",
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0049"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0049"
       },
       {
         "article_no": "제50조",
@@ -2639,7 +2150,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0050"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0050"
       },
       {
         "article_no": "제51조",
@@ -2650,7 +2161,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0051"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0051"
       },
       {
         "article_no": "제52조",
@@ -2661,7 +2172,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0052"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0052"
       },
       {
         "article_no": "제53조",
@@ -2683,17 +2194,13 @@
             "target_article_no": "제36조",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/학칙공단/건강보험심사평가원 정관/제36조",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0053",
-            "reference_id": "SchlPubRul:건강보험심사평가원정관#JO0036",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0053",
+            "reference_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0036",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "건강보험심사평가원 정관/건강보험심사평가원 정관.json",
-            "target_git_path": "건강보험심사평가원 정관/건강보험심사평가원 정관.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "건강보험심사평가원 정관/건강보험심사평가원 정관.json"
           },
           {
             "relation_type": "citation",
@@ -2707,15 +2214,13 @@
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/법령/공공기관의 운영에 관한 법률",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0053",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0053",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -2729,19 +2234,17 @@
             "target_article_no": "제50조",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/법령/공공기관의 운영에 관한 법률/제50조",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0053",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0053",
             "reference_id": "law:공공기관의운영에관한법률#JO0050",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
           }
         ],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0053"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0053"
       },
       {
         "article_no": "제54조",
@@ -2763,17 +2266,13 @@
             "target_article_no": "제53조",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/학칙공단/건강보험심사평가원 정관/제53조",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0054",
-            "reference_id": "SchlPubRul:건강보험심사평가원정관#JO0053",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0054",
+            "reference_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0053",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "건강보험심사평가원 정관/건강보험심사평가원 정관.json",
-            "target_git_path": "건강보험심사평가원 정관/건강보험심사평가원 정관.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "건강보험심사평가원 정관/건강보험심사평가원 정관.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2787,21 +2286,17 @@
             "target_article_no": "제53조",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/학칙공단/건강보험심사평가원 정관/제53조",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0054",
-            "reference_id": "SchlPubRul:건강보험심사평가원정관#JO0053",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0054",
+            "reference_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0053",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "건강보험심사평가원 정관/건강보험심사평가원 정관.json",
-            "target_git_path": "건강보험심사평가원 정관/건강보험심사평가원 정관.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "건강보험심사평가원 정관/건강보험심사평가원 정관.json"
           }
         ],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0054"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0054"
       },
       {
         "article_no": "제55조",
@@ -2812,7 +2307,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0055"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0055"
       },
       {
         "article_no": "제56조",
@@ -2823,7 +2318,7 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0056"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0056"
       },
       {
         "article_no": "제57조",
@@ -2834,14 +2329,14 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0057"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0057"
       },
       {
         "article_no": "제58조",
         "article_title": "결산",
         "chapter": "제8장 자산 및 회계",
         "chapter_path": "제8장 자산 및 회계",
-        "content": "제58조(결산) ① 원장은 회계연도가 종료된 때에는 지체 없이 그 회계연도의 결산서를 작성하고, 「감사원규칙」 이 정하는 바에 따라 공인회계사나 「공인회계사법」 제23조에 따라 설립된 회계법인(이하 \"회계법인\"이라 한다)을 선정하여 회계감사를 받아야 한다.② 원장은 매 회계연도 종료 후 다음 연도 2월 말일까지 제1항에 따른 결산서에 다음 각 호의 서류를 첨부하여 이사회 의결을 거쳐 보건복지부장관에게 제출하고, 3월 말일까지 그 승인을 받아 결산을 확정하여야 한다.1. 재무제표(공인회계사나 회계법인의 감사의견서를 포함한다)와 그 부속서류2. 그 밖에 결산의 내용을 명확하게 하기 위하여 필요한 서류",
+        "content": "제58조(결산) ① 원장은 회계연도가 종료된 때에는 지체 없이 그 회계연도의 결산서를 작성하고, 「감사원규칙」이 정하는 바에 따라 공인회계사나 「공인회계사법」 제23조에 따라 설립된 회계법인(이하 \"회계법인\"이라 한다)을 선정하여 회계감사를 받아야 한다.② 원장은 매 회계연도 종료 후 다음 연도 2월 말일까지 제1항에 따른 결산서에 다음 각 호의 서류를 첨부하여 이사회 의결을 거쳐 보건복지부장관에게 제출하고, 3월 말일까지 그 승인을 받아 결산을 확정하여야 한다.1. 재무제표(공인회계사나 회계법인의 감사의견서를 포함한다)와 그 부속서류2. 그 밖에 결산의 내용을 명확하게 하기 위하여 필요한 서류",
         "enforcement_date": "",
         "relations": [
           {
@@ -2856,15 +2351,13 @@
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/법령/공인회계사법",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0058",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0058",
             "reference_id": "law:공인회계사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공인회계사법/법률/공인회계사법.json",
-            "target_git_path": "공인회계사법/법률/공인회계사법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공인회계사법/법률/공인회계사법.json"
           },
           {
             "relation_type": "citation",
@@ -2878,19 +2371,17 @@
             "target_article_no": "제23조",
             "target_article_title": "",
             "target_mst": "",
-            "source_admrul_seq": "2115223",
+            "source_admrul_seq": "2142085",
             "target_url": "https://www.law.go.kr/법령/공인회계사법/제23조",
             "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:건강보험심사평가원정관#JO0058",
+            "source_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0058",
             "reference_id": "law:공인회계사법#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "공인회계사법/법률/공인회계사법.json",
-            "target_git_path": "공인회계사법/법률/공인회계사법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공인회계사법/법률/공인회계사법.json"
           }
         ],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0058"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0058"
       },
       {
         "article_no": "제59조",
@@ -2901,18 +2392,18 @@
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0059"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0059"
       },
       {
         "article_no": "제60조",
         "article_title": "서류의 비치",
         "chapter": "제9장 보칙",
         "chapter_path": "제9장 보칙",
-        "content": "제60조(서류의 비치) ① 심사평가원은 「정관」 ㆍ재산목록 및 이사회의 회의록 등을 본원에 비치한다.② 관계인이 제1항에 따른 서류의 열람을 요구하는 때에는 정당한 사유 없이 이를 거부할 수 없다.",
+        "content": "제60조(서류의 비치) ① 심사평가원은 「정관」ㆍ재산목록 및 이사회의 회의록 등을 본원에 비치한다.② 관계인이 제1항에 따른 서류의 열람을 요구하는 때에는 정당한 사유 없이 이를 거부할 수 없다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "SchlPubRul:건강보험심사평가원정관#JO0060"
+        "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0060"
       }
     ]
   },
@@ -2921,9 +2412,9 @@
       "promulgation_date": "20110901",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2011.09.01.>이 정관은 2011년 9월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:건강보험심사평가원정관#ADDENDUM",
+      "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000139301",
+      "source_mst": "2200000161351",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20250124"
@@ -2932,9 +2423,9 @@
       "promulgation_date": "20121108",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2012.11.08.>이 정관은 2012년 11월 15일부터 시행한다.",
-      "provision_id": "SchlPubRul:건강보험심사평가원정관#ADDENDUM",
+      "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000139301",
+      "source_mst": "2200000161351",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20250124"
@@ -2943,9 +2434,9 @@
       "promulgation_date": "20130912",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2013.09.12.>이 정관은 2013년 9월 12일부터 시행한다.",
-      "provision_id": "SchlPubRul:건강보험심사평가원정관#ADDENDUM",
+      "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000139301",
+      "source_mst": "2200000161351",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20250124"
@@ -2954,9 +2445,9 @@
       "promulgation_date": "20150401",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2015.04.01.>이 정관은 2015년 4월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:건강보험심사평가원정관#ADDENDUM",
+      "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000139301",
+      "source_mst": "2200000161351",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20250124"
@@ -2964,10 +2455,10 @@
     {
       "promulgation_date": "20150722",
       "promulgation_no": "9999",
-      "content": "부칙 <제9999호, 2015.07.22.>이 정관은 2015년 7월 1일부터 시행한다. 다만, 제3조의 개정규정은 강원혁신도시이전일로부터 시행한다.",
-      "provision_id": "SchlPubRul:건강보험심사평가원정관#ADDENDUM",
+      "content": "부칙 <제9999호, 2015.07.22.>이 정관은 2015년 7월 1일부터 시행한다. 다만, 제3조의 개정규정은 강원혁신도시 이전일로부터 시행한다.",
+      "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000139301",
+      "source_mst": "2200000161351",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20250124"
@@ -2976,9 +2467,9 @@
       "promulgation_date": "20151229",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2015.12.29.>이 정관은 2015년 12월 29일부터 시행한다.",
-      "provision_id": "SchlPubRul:건강보험심사평가원정관#ADDENDUM",
+      "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000139301",
+      "source_mst": "2200000161351",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20250124"
@@ -2987,9 +2478,9 @@
       "promulgation_date": "20160302",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2016.03.02.>이 정관은 2016년 2월 3일부터 시행한다.",
-      "provision_id": "SchlPubRul:건강보험심사평가원정관#ADDENDUM",
+      "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000139301",
+      "source_mst": "2200000161351",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20250124"
@@ -2998,9 +2489,9 @@
       "promulgation_date": "20160727",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2016.07.27.>이 정관은 2016년 7월 27일부터 시행한다. 다만, 제37조의 개정규정은 2017년 1월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:건강보험심사평가원정관#ADDENDUM",
+      "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000139301",
+      "source_mst": "2200000161351",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20250124"
@@ -3009,9 +2500,9 @@
       "promulgation_date": "20190227",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2019.02.27.>이 정관은 2019년 2월 27일부터 시행한다.",
-      "provision_id": "SchlPubRul:건강보험심사평가원정관#ADDENDUM",
+      "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000139301",
+      "source_mst": "2200000161351",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20250124"
@@ -3020,9 +2511,9 @@
       "promulgation_date": "20230811",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2023.08.11.>제1조(시행일) 이 정관은 보건복지부장관의 인가를 받은 날부터 시행한다.제2조(적용례) 제3조의 개정규정은 2023년 6월 11일부터 적용한다.",
-      "provision_id": "SchlPubRul:건강보험심사평가원정관#ADDENDUM",
+      "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000139301",
+      "source_mst": "2200000161351",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20250124"
@@ -3031,9 +2522,9 @@
       "promulgation_date": "20231023",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2023.10.23.>이 정관은 2023년 10월 23일부터 시행한다. 다만, 제3조, 제23조제1항, 제37조, 제40조제2항 및 제5항의 개정규정 중 \"지원\" 및 \"지원장\" 명칭 변경 부분은 2024년 1월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:건강보험심사평가원정관#ADDENDUM",
+      "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000139301",
+      "source_mst": "2200000161351",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20250124"
@@ -3042,9 +2533,9 @@
       "promulgation_date": "20231213",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2023.12.13.>제1조(시행일) 이 정관은 2023년 12월 13일부터 시행한다.제2조(적용례) 제40조의2의 신설 규정은 2023년 11월 20일부터 적용한다.",
-      "provision_id": "SchlPubRul:건강보험심사평가원정관#ADDENDUM",
+      "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000139301",
+      "source_mst": "2200000161351",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20250124"
@@ -3053,9 +2544,9 @@
       "promulgation_date": "20250124",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2025.01.24.>이 정관은 2025년 1월 24일부터 시행한다.",
-      "provision_id": "SchlPubRul:건강보험심사평가원정관#ADDENDUM",
+      "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000139301",
+      "source_mst": "2200000161351",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20250124"
@@ -3071,17 +2562,17 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167544067",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171091015",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167544067",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171091015",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
-      "provision_id": "SchlPubRul:건강보험심사평가원정관#BYL0000",
+      "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#BYL0000",
       "filename": "별표0_원장 권한의 위임 대상(제37조 관련).hwp",
       "file_dir": "별표",
       "local_path": "별표/별표0_원장 권한의 위임 대상(제37조 관련).hwp",
@@ -3112,14 +2603,12 @@
   "source": {
     "source_url": "https://www.law.go.kr/학칙공단/건강보험심사평가원 정관"
   },
-  "provision_id": "SchlPubRul:건강보험심사평가원정관#DOC",
-  "addendum_provision_id": "SchlPubRul:건강보험심사평가원정관#ADDENDUM",
-  "amendment_provision_id": "SchlPubRul:건강보험심사평가원정관#AMENDMENT",
+  "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#DOC",
+  "addendum_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#ADDENDUM",
+  "amendment_provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#AMENDMENT",
   "is_future": false,
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "건강보험심사평가원 정관/건강보험심사평가원 정관.json",
-  "repealed": true,
-  "repealed_at": "20261101"
+  "git_path": "건강보험심사평가원 정관/pi_2142085/건강보험심사평가원 정관.json"
 }
