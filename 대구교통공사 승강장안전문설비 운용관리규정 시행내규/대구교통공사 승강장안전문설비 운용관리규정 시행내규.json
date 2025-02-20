@@ -1,25 +1,25 @@
 {
   "law_id": "2127205",
-  "mst": "2200000128031",
+  "mst": "2200000140317",
   "law_name": "대구교통공사 승강장안전문설비 운용관리규정 시행내규",
   "law_abbr": "",
   "law_type": "공단규정",
   "doc_target": "public",
   "doc_kind": "공공기관",
   "adm_uid": "public:2127205",
-  "promulgation_no": "692",
-  "promulgation_date": "20240429",
-  "enforcement_date": "20240429",
-  "revision_date": "20240429",
+  "promulgation_no": "711",
+  "promulgation_date": "20250220",
+  "enforcement_date": "20250220",
+  "revision_date": "20250220",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "대구교통공사",
-    "담당자명": "정희룡",
+    "담당자명": "민혜빈",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "대구교통공사 승강장안전문설비 운용관리규정 시행내규",
-    "발령일자": "20240429",
+    "발령일자": "20250220",
     "행정규칙종류": "공단규정",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,14 +27,14 @@
     "전화번호": "0536400897",
     "제개정구분명": "일부개정",
     "소관부처코드": "B554805",
-    "생성일자": "20250305",
+    "생성일자": "20250330",
     "행정규칙ID": "2127205",
-    "담당부서기관코드": "B554805",
-    "발령번호": "692",
-    "행정규칙일련번호": "2200000128031"
+    "담당부서기관코드": "",
+    "발령번호": "711",
+    "행정규칙일련번호": "2200000140317"
   },
-  "amendment_text": "대구교통공사 승강장안전문설비운용관리규정 시행내규를 다음과 같이 시행한다.\n대구교통공사 사장    김  기  혁\n2024년  4월  29일\n대구교통공사 내규 제692호(개정)\n승강장안전문설비운용관리규정\n시행내규 일부개정내규(안)\n대구교통공사 승강장안전문설비운용관리규정 시행내규 일부를 다음과 같이 개정한다.\n별표1 중 1,2호선 도어류의 선로출입문란을 다음과 같이 변경한다.\n점검항목\n점 검 주 기\n비고\n주간\n월간\n분기\n반기\n연간\n개·폐 기능, 센서기능,\n퇴실버튼 동작상태\n○\n인터폰 통화상태\n○\n부      칙\n이 내규는 2024년 4월 29일부터 시행한다.",
-  "revision_reason": "◇ 승강장안전문설비운용관리규정 시행내규 개정이유 ◇\n? 승강장안전문 선로출입문 점검주기 변경\n- 선로출입문 주간점검 시 열차운행 및 열차풍과 같은 안전에 위협되는 선로측 점검이 포함되어 있어 안전확보를 위해  월간점검으로 변경하고 열차운행 종료 후 점검하기 위함\n◇ 주 요 골 자 ◇\n? 별표1 점검기준표(1,2호선)\n- 선로출입문 점검주기 변경 : 주간 → 월간\n※ (주간)열차운행 시 점검 → (월간)열차운행 종료 후 점검",
+  "amendment_text": "대구교통공사 승강장안전문설비운용관리규정 시행내규를 다음과 같이 시행한다.\n대구교통공사 사장    김  기  혁\n2025년  2월  20일\n대구교통공사 내규 제711호(개정)\n승강장안전문설비운용관리규정\n시행내규 일부개정내규\n대구교통공사 승강장안전문설비운용관리규정 시행내규 일부를 다음과 같이 개정한다.\n별표1의 승강장안전문설비 중 원격조작반을 다음과 같이 한다.\n설 비 별\n점   검    항   목\n검 사 주 기\n비고\n7일\n분기\n연간\n승강장\n안전문\n설비\n원격\n조작반\n수신기 동작상태 및 저장기록(종합제어반 포함) 점검\n○\n송수신기 주파수 설정 상태 및 송신기 배터리 점검\n○\n\n부      칙\n이 내규는 2025년 2월 20일부터 시행한다.",
+  "revision_reason": "◇ 승강장안전문설비운용관리규정 시행내규 개정이유 ◇\n? 승강장안전문 원격조작반 점검항목 추가\n- 3호선 승강장안전문 원격조작반 설치로 인한 점검기준표 점검항목 추가\n◇ 주 요 골 자 ◇\n(3호선)\n? 설비추가 : 승강장안전문 설비 - 원격조작반\n? 점검항목 추가\n- 수신기 동작상태 및 저장기록(종합제어반 포함) 점검\n: 분기점검\n- 송수신기 주파수 설정 상태 및 송신기 배터리 점검\n: 연간점검",
   "body": {
     "format": "articles",
     "article_count": 16,
@@ -68,7 +68,53 @@
         "chapter_path": "제2장  점검 및 정비",
         "content": "제3조(점검 기준) ①규정 제13조에 의해 승강장안전문설비의 운용·관리를 위하여 점검을 시행한다. 이 경우 점검주기표(별표1)에 따른다.②제1항의 점검 주기는 다음 각호와 같다.1. 1·2호선은 주간, 월간, 분기, 반기, 연간 <개정 ’17. 9. 1>2. 3호선은 일상(7일), 분기, 연간",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제1항",
+            "link_text": "제13조",
+            "line_text": "",
+            "target_law_name": "대구교통공사 승강장안전문설비 운용관리규정 시행내규",
+            "target_article_no": "제13조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2127205",
+            "target_url": "https://www.law.go.kr/학칙공단/대구교통공사 승강장안전문설비 운용관리규정 시행내규/제13조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:대구교통공사승강장안전문설비운용관리규정시행내규#JO0003",
+            "reference_id": "SchlPubRul:대구교통공사승강장안전문설비운용관리규정시행내규#JO0013",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "대구교통공사 승강장안전문설비 운용관리규정 시행내규/대구교통공사 승강장안전문설비 운용관리규정 시행내규.json"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제1항",
+            "link_text": "별표1",
+            "line_text": "",
+            "target_law_name": "대구교통공사 승강장안전문설비 운용관리규정 시행내규",
+            "target_article_no": "별표1",
+            "target_article_title": "점검기준표",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2127205",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000140317&bylNo=0001&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:대구교통공사승강장안전문설비운용관리규정시행내규#JO0003",
+            "target_unit": "BYL0001",
+            "reference_id": "SchlPubRul:대구교통공사승강장안전문설비운용관리규정시행내규#BYL0001",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "대구교통공사 승강장안전문설비 운용관리규정 시행내규/대구교통공사 승강장안전문설비 운용관리규정 시행내규.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:대구교통공사승강장안전문설비운용관리규정시행내규#JO0003"
       },
@@ -90,7 +136,28 @@
         "chapter_path": "제2장  점검 및 정비",
         "content": "제5조(점검결과의 기록 및 유지) ①규정 제13조에 의한 점검을 하였을 때에는 각각 점검결과를 기록하여야 한다.②1·2호선은 신호전자사업소장, 3호선은 경전철기술사업소장(이하 “소장”이라 한다)은 승강장안전문설비 점검결과 고장 발생의 우려가 있는 장치는 예방보수 조치하여야 한다.③승강장안전문설비 보수자, 관제설비 유지보수 담당자는 업무수행 중 처리한 주요 사항을 드림스(DRIMS)의 업무일지에 기록 유지(입력)하여야 하며 업무에 혼란이 발생되지 않도록 근무 교대 시 다음 각 호의 사항을 인수인계하여야 한다.1. 계통 운영 상태2. 설비 상태3. 장애 발생 및 처리상태.4. 관련분야의 작업사항 및 작업 예정사항5. 관련 분야와의 협의 사항6. 그 밖의 필요한 사항 등[제목개정 ’18. 9. 12]",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제1항",
+            "link_text": "제13조",
+            "line_text": "",
+            "target_law_name": "대구교통공사 승강장안전문설비 운용관리규정 시행내규",
+            "target_article_no": "제13조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2127205",
+            "target_url": "https://www.law.go.kr/학칙공단/대구교통공사 승강장안전문설비 운용관리규정 시행내규/제13조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:대구교통공사승강장안전문설비운용관리규정시행내규#JO0005",
+            "reference_id": "SchlPubRul:대구교통공사승강장안전문설비운용관리규정시행내규#JO0013",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "대구교통공사 승강장안전문설비 운용관리규정 시행내규/대구교통공사 승강장안전문설비 운용관리규정 시행내규.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:대구교통공사승강장안전문설비운용관리규정시행내규#JO0005"
       },
@@ -123,7 +190,33 @@
         "chapter_path": "제2장  점검 및 정비",
         "content": "제8조(보수작업 안전수칙) ①상례보수는 열차 운행에 지장이 없는 범위 내에서 점검자가 발견 즉시 처리함을 원칙으로 한다.②열차 운행에 지장을 주거나, 지장을 줄 우려가 있을 때에는 관련부서에 통보 후 응급조치를 하여야 한다.③보수작업 시 지켜야 할 승강장안전문설비 안전수칙은 별표 2와 같다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제3항",
+            "link_text": "별표 2",
+            "line_text": "",
+            "target_law_name": "대구교통공사 승강장안전문설비 운용관리규정 시행내규",
+            "target_article_no": "별표2",
+            "target_article_title": "승강장안전문설비 안전수칙",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2127205",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000140317&bylNo=0002&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:대구교통공사승강장안전문설비운용관리규정시행내규#JO0008",
+            "target_unit": "BYL0002",
+            "reference_id": "SchlPubRul:대구교통공사승강장안전문설비운용관리규정시행내규#BYL0002",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "대구교통공사 승강장안전문설비 운용관리규정 시행내규/대구교통공사 승강장안전문설비 운용관리규정 시행내규.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:대구교통공사승강장안전문설비운용관리규정시행내규#JO0008"
       },
@@ -167,7 +260,28 @@
         "chapter_path": "제2장  점검 및 정비",
         "content": "제12조(하자관리) ①소장은 공사 「회계규정」제2조에 근거하여 「지방자치단체를 당사자로 하는 계약에 관한 법률」에 따라 설비의 하자사항을 관리한다. <개정 ’17. 9. 1>②삭제 <’17. 9. 1>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제12조",
+            "source_clause": "제12조제1항",
+            "link_text": "「지방자치단체를 당사자로 하는 계약에 관한 법률」",
+            "line_text": "",
+            "target_law_name": "지방자치단체를 당사자로 하는 계약에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2127205",
+            "target_url": "https://www.law.go.kr/법령/지방자치단체를 당사자로 하는 계약에 관한 법률",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:대구교통공사승강장안전문설비운용관리규정시행내규#JO0012",
+            "reference_id": "law:지방자치단체를당사자로하는계약에관한법률#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "지방자치단체를 당사자로 하는 계약에 관한 법률/법률/지방자치단체를 당사자로 하는 계약에 관한 법률.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:대구교통공사승강장안전문설비운용관리규정시행내규#JO0012"
       },
@@ -189,7 +303,28 @@
         "chapter_path": "제2장  점검 및 정비",
         "content": "제14조(비상복구자재) 소장은 비상복구자재의 보유기준을 수립·운용하고 항상 양호한 상태로 유지하며, 필요시 수량과 비치장소를 조정하여 배치할 수 있다.[본조신설 ’17. 9. 1][종전 제14조를 제15조로 이동 ’17. 9. 1]",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제14조",
+            "source_clause": "제14조",
+            "link_text": "제15조",
+            "line_text": "",
+            "target_law_name": "대구교통공사 승강장안전문설비 운용관리규정 시행내규",
+            "target_article_no": "제15조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2127205",
+            "target_url": "https://www.law.go.kr/학칙공단/대구교통공사 승강장안전문설비 운용관리규정 시행내규/제15조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:대구교통공사승강장안전문설비운용관리규정시행내규#JO0014",
+            "reference_id": "SchlPubRul:대구교통공사승강장안전문설비운용관리규정시행내규#JO0015",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "대구교통공사 승강장안전문설비 운용관리규정 시행내규/대구교통공사 승강장안전문설비 운용관리규정 시행내규.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:대구교통공사승강장안전문설비운용관리규정시행내규#JO0014"
       },
@@ -200,7 +335,28 @@
         "chapter_path": "제2장  점검 및 정비",
         "content": "제15조(고장·장애 기록의 작성 및 유지) ①정비기록은 고장종별·부품사용 현황파악·장비별 이력내역 정리 및 기능보완 등의 자료로 활용할 수 있도록 드림스(DRIMS)의 시설물 관리에 기록·유지하여야 한다. <개정 ’18. 9. 12>②각종 장비의 수리 완료 후 정비기록을 유지하여 필요시 부품 수급 등의 기초자료로 활용할 수 있도록 하여야 한다.[종전 제15조를 제16조로 이동 ’17. 9. 1][제목개정 ’18. 9. 12]",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제2항",
+            "link_text": "제16조",
+            "line_text": "",
+            "target_law_name": "대구교통공사 승강장안전문설비 운용관리규정 시행내규",
+            "target_article_no": "제16조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2127205",
+            "target_url": "https://www.law.go.kr/학칙공단/대구교통공사 승강장안전문설비 운용관리규정 시행내규/제16조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:대구교통공사승강장안전문설비운용관리규정시행내규#JO0015",
+            "reference_id": "SchlPubRul:대구교통공사승강장안전문설비운용관리규정시행내규#JO0016",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "대구교통공사 승강장안전문설비 운용관리규정 시행내규/대구교통공사 승강장안전문설비 운용관리규정 시행내규.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:대구교통공사승강장안전문설비운용관리규정시행내규#JO0015"
       },
@@ -222,70 +378,184 @@
       "promulgation_date": "20161226",
       "promulgation_no": "00499",
       "content": "부칙 <제499호,2016.12.26>이 내규는 2016년   12월    26일부터 시행한다.",
-      "provision_id": "SchlPubRul:대구교통공사승강장안전문설비운용관리규정시행내규#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사승강장안전문설비운용관리규정시행내규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000140317",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250220"
     },
     {
       "promulgation_date": "20170901",
       "promulgation_no": "00524",
       "content": "부칙 <제524호,2017.9.1>이 내규는 2017년   9월    1일부터 시행한다.",
-      "provision_id": "SchlPubRul:대구교통공사승강장안전문설비운용관리규정시행내규#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사승강장안전문설비운용관리규정시행내규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000140317",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250220"
     },
     {
       "promulgation_date": "20180912",
       "promulgation_no": "00547",
       "content": "부칙 <제547호,2018.9.12>이 내규는 2018년 9월 12일부터 시행한다.",
-      "provision_id": "SchlPubRul:대구교통공사승강장안전문설비운용관리규정시행내규#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사승강장안전문설비운용관리규정시행내규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000140317",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250220"
     },
     {
       "promulgation_date": "20210526",
       "promulgation_no": "00626",
       "content": "부칙 <제626호,2021.5.26>이 내규는 2021년 5월 26일부터 시행한다.",
-      "provision_id": "SchlPubRul:대구교통공사승강장안전문설비운용관리규정시행내규#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사승강장안전문설비운용관리규정시행내규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000140317",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250220"
     },
     {
       "promulgation_date": "20211208",
       "promulgation_no": "00641",
       "content": "부칙 <제641호,2021.12.8>이 내규는 2021년 12월 8일부터 시행한다.",
-      "provision_id": "SchlPubRul:대구교통공사승강장안전문설비운용관리규정시행내규#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사승강장안전문설비운용관리규정시행내규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000140317",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250220"
     },
     {
       "promulgation_date": "20220830",
       "promulgation_no": "00038",
       "content": "부칙 <제38호,2022.8.30>(정관)제1조(시행일) 이 정관은  2022년 9월 1일부터 시행한다.제2조 <생략>제3조(다른 사규의 개정) ①이 정관 시행일 현재 공사의 모든 사규에서 사용하고 있는 사명 “대구도시철도공사”를 “대구교통공사”로 한다.② <생략>",
-      "provision_id": "SchlPubRul:대구교통공사승강장안전문설비운용관리규정시행내규#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사승강장안전문설비운용관리규정시행내규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000140317",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250220"
     },
     {
       "promulgation_date": "20230626",
       "promulgation_no": "00672",
       "content": "부칙 <제672호,2023.6.26>이 내규는 2023년 6월 26일부터 시행한다.",
-      "provision_id": "SchlPubRul:대구교통공사승강장안전문설비운용관리규정시행내규#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사승강장안전문설비운용관리규정시행내규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000140317",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250220"
     },
     {
       "promulgation_date": "20231207",
       "promulgation_no": "00739",
       "content": "부칙 <제739호,2023.12.7>(직제규정)제1조(시행일) 이 규정은 2023년 12월 7일부터 시행한다. 다만, 직제의 전환시기는 개정 규정에 의한 최초 인사발령 시행일로 한다.제2조(기구 등에 관한 경과조치) 이 규정 시행일 현재 다른 규정에서 인용하고 있는 기구명칭, 직위 등이 이 규정에 의한 기구명칭, 직위 등과 다른 경우에는 이 규정 중 해당 기구명칭, 직위 등으로 변경된 것으로 본다.",
-      "provision_id": "SchlPubRul:대구교통공사승강장안전문설비운용관리규정시행내규#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사승강장안전문설비운용관리규정시행내규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000140317",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250220"
     },
     {
       "promulgation_date": "20240429",
       "promulgation_no": "00692",
       "content": "부칙 <제692호,2024.4.29>이 내규는 2024년 4월 29일부터 시행한다.",
-      "provision_id": "SchlPubRul:대구교통공사승강장안전문설비운용관리규정시행내규#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사승강장안전문설비운용관리규정시행내규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000140317",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250220"
+    },
+    {
+      "promulgation_date": "20250220",
+      "promulgation_no": "00711",
+      "content": "부칙 <제711호,2025.2.20>이 내규는 2025년 2월 20일부터 시행한다.",
+      "provision_id": "SchlPubRul:대구교통공사승강장안전문설비운용관리규정시행내규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000140317",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250220"
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "점검기준표",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000140317&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150527467",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150527467",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:대구교통공사승강장안전문설비운용관리규정시행내규#BYL0001",
+      "filename": "별표1_점검기준표.hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표1_점검기준표.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "승강장안전문설비 안전수칙",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000140317&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150527477",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150527477",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:대구교통공사승강장안전문설비운용관리규정시행내규#BYL0002",
+      "filename": "별표2_승강장안전문설비 안전수칙.hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표2_승강장안전문설비 안전수칙.hwp",
+      "file_store_url": ""
+    }
+  ],
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 7,
+    "by_category": {
+      "학칙공단": 6,
+      "법령": 1
+    },
+    "by_relation_type": {
+      "internal_ref": 4,
+      "appendix_ref": 2,
+      "citation": 1
+    },
     "articles_total": 16,
-    "articles_with_relations": 0,
+    "articles_with_relations": 6,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 9,
+    "addenda_count": 10,
     "appendices_count": 2,
     "attachments_count": 0
   },
@@ -296,5 +566,8 @@
   "addendum_provision_id": "SchlPubRul:대구교통공사승강장안전문설비운용관리규정시행내규#ADDENDUM",
   "amendment_provision_id": "SchlPubRul:대구교통공사승강장안전문설비운용관리규정시행내규#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "대구교통공사 승강장안전문설비 운용관리규정 시행내규/대구교통공사 승강장안전문설비 운용관리규정 시행내규.json"
 }
