@@ -9,7 +9,7 @@
   "adm_uid": "public:2141275",
   "promulgation_no": "358",
   "promulgation_date": "20250228",
-  "enforcement_date": "20250228",
+  "enforcement_date": "20250304",
   "revision_date": "20250228",
   "revision_type": "일부개정",
   "is_current": true,
@@ -27,14 +27,14 @@
     "전화번호": "031-8086-7316",
     "제개정구분명": "일부개정",
     "소관부처코드": "B552752",
-    "생성일자": "20260824",
+    "생성일자": "20260909",
     "행정규칙ID": "2141275",
     "담당부서기관코드": "B552752",
     "발령번호": "358",
     "행정규칙일련번호": "2200000156443"
   },
-  "amendment_text": "",
-  "revision_reason": "",
+  "amendment_text": "「적극행정 면책제도 및 경고 등 처분에 관한 운영내규」 일부를 다음과 같이 개정한다.\n제7조(적극행정 면책심의회 구성)를 다음과 같이 한다.\n제7조(적극행정 면책심의회 구성) ① 사장은 임ㆍ직원의 적극행정 면책신청에 대한 심사를 위하여 적극행정 면책심의회(이하 “심의회”라 한다)를 둔다.\n② 심의회는 위원장을 포함하여 7명 이내의 위원으로 구성하되, 경영사업본부장을 위원장으로 하고, 당연위원은 개발사업본부장 및 각 실ㆍ처장으로 한다.\n심의회의 사무를 처리하기 위하여 간사 1명을 두되, 간사는 감사부서의 팀장으로 한다.",
+  "revision_reason": "공사 경영혁신방안('25.1.24., 경영혁신단) 후속조치로 추진하는 조직개편에 관한 사항 반영을 위하여 소관 규정을 일부 개정하고자 함",
   "body": {
     "format": "articles",
     "article_count": 15,
@@ -76,9 +76,7 @@
             "source_provision_id": "SchlPubRul:적극행정면책제도및경고등처분에관한운영내규#JO0002",
             "reference_id": "law:공공감사에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json",
-            "target_git_path": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -98,9 +96,7 @@
             "source_provision_id": "SchlPubRul:적극행정면책제도및경고등처분에관한운영내규#JO0002",
             "reference_id": "law:공공감사에관한법률#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json",
-            "target_git_path": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -118,14 +114,9 @@
             "target_url": "https://www.law.go.kr/학칙공단/감사규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:적극행정면책제도및경고등처분에관한운영내규#JO0002",
-            "reference_id": "SchlPubRul:감사규정:public_2129617#DOC",
+            "reference_id": "SchlPubRul:감사규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "감사규정/감사규정.json",
-            "target_candidates": 4,
-            "target_git_path": "감사규정/public_2129617/감사규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "감사규정/감사규정.json"
           },
           {
             "relation_type": "citation",
@@ -143,14 +134,9 @@
             "target_url": "https://www.law.go.kr/학칙공단/감사규정/제15조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:적극행정면책제도및경고등처분에관한운영내규#JO0002",
-            "reference_id": "SchlPubRul:감사규정:public_2129617#JO0015",
+            "reference_id": "SchlPubRul:감사규정#JO0015",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "감사규정/감사규정.json",
-            "target_candidates": 4,
-            "target_git_path": "감사규정/public_2129617/감사규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "감사규정/감사규정.json"
           },
           {
             "relation_type": "citation",
@@ -168,14 +154,9 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:적극행정면책제도및경고등처분에관한운영내규#JO0002",
-            "reference_id": "SchlPubRul:인사규정:public_2130247#DOC",
+            "reference_id": "SchlPubRul:인사규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json",
-            "target_candidates": 4,
-            "target_git_path": "인사규정/public_2130247/인사규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "인사규정/인사규정.json"
           }
         ],
         "images": [],
@@ -218,9 +199,7 @@
             "source_provision_id": "SchlPubRul:적극행정면책제도및경고등처분에관한운영내규#JO0004",
             "reference_id": "law:공공감사에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json",
-            "target_git_path": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -238,14 +217,9 @@
             "target_url": "https://www.law.go.kr/학칙공단/감사규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:적극행정면책제도및경고등처분에관한운영내규#JO0004",
-            "reference_id": "SchlPubRul:감사규정:public_2129617#DOC",
+            "reference_id": "SchlPubRul:감사규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "감사규정/감사규정.json",
-            "target_candidates": 4,
-            "target_git_path": "감사규정/public_2129617/감사규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "감사규정/감사규정.json"
           }
         ],
         "images": [],
@@ -288,11 +262,7 @@
             "source_provision_id": "SchlPubRul:적극행정면책제도및경고등처분에관한운영내규#JO0006",
             "reference_id": "SchlPubRul:적극행정면책제도및경고등처분에관한운영내규#JO0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "적극행정 면책제도 및 경고 등 처분에 관한 운영내규/적극행정 면책제도 및 경고 등 처분에 관한 운영내규.json",
-            "target_git_path": "적극행정 면책제도 및 경고 등 처분에 관한 운영내규/적극행정 면책제도 및 경고 등 처분에 관한 운영내규.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "적극행정 면책제도 및 경고 등 처분에 관한 운영내규/적극행정 면책제도 및 경고 등 처분에 관한 운영내규.json"
           },
           {
             "relation_type": "citation",
@@ -310,14 +280,9 @@
             "target_url": "https://www.law.go.kr/학칙공단/감사규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:적극행정면책제도및경고등처분에관한운영내규#JO0006",
-            "reference_id": "SchlPubRul:감사규정:public_2129617#DOC",
+            "reference_id": "SchlPubRul:감사규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "감사규정/감사규정.json",
-            "target_candidates": 4,
-            "target_git_path": "감사규정/public_2129617/감사규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "감사규정/감사규정.json"
           }
         ],
         "images": [],
@@ -359,18 +324,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2141275",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168483549",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169145815",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:적극행정면책제도및경고등처분에관한운영내규#JO0008",
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:적극행정면책제도및경고등처분에관한운영내규#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "적극행정 면책제도 및 경고 등 처분에 관한 운영내규/적극행정 면책제도 및 경고 등 처분에 관한 운영내규.json",
-            "target_git_path": "적극행정 면책제도 및 경고 등 처분에 관한 운영내규/적극행정 면책제도 및 경고 등 처분에 관한 운영내규.json",
-            "target_git_file_path": "적극행정 면책제도 및 경고 등 처분에 관한 운영내규/별지/별지4_면책심사결과.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "적극행정 면책제도 및 경고 등 처분에 관한 운영내규/적극행정 면책제도 및 경고 등 처분에 관한 운영내규.json"
           }
         ],
         "images": [],
@@ -401,18 +361,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2141275",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168483531",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169145797",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:적극행정면책제도및경고등처분에관한운영내규#JO0009",
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:적극행정면책제도및경고등처분에관한운영내규#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "적극행정 면책제도 및 경고 등 처분에 관한 운영내규/적극행정 면책제도 및 경고 등 처분에 관한 운영내규.json",
-            "target_git_path": "적극행정 면책제도 및 경고 등 처분에 관한 운영내규/적극행정 면책제도 및 경고 등 처분에 관한 운영내규.json",
-            "target_git_file_path": "적극행정 면책제도 및 경고 등 처분에 관한 운영내규/별지/별지1_면책심사 신청 안내.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "적극행정 면책제도 및 경고 등 처분에 관한 운영내규/적극행정 면책제도 및 경고 등 처분에 관한 운영내규.json"
           }
         ],
         "images": [],
@@ -443,18 +398,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2141275",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168483537",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169145803",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:적극행정면책제도및경고등처분에관한운영내규#JO0010",
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:적극행정면책제도및경고등처분에관한운영내규#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "적극행정 면책제도 및 경고 등 처분에 관한 운영내규/적극행정 면책제도 및 경고 등 처분에 관한 운영내규.json",
-            "target_git_path": "적극행정 면책제도 및 경고 등 처분에 관한 운영내규/적극행정 면책제도 및 경고 등 처분에 관한 운영내규.json",
-            "target_git_file_path": "적극행정 면책제도 및 경고 등 처분에 관한 운영내규/별지/별지2_적극행정면책 신청서.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "적극행정 면책제도 및 경고 등 처분에 관한 운영내규/적극행정 면책제도 및 경고 등 처분에 관한 운영내규.json"
           }
         ],
         "images": [],
@@ -485,18 +435,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2141275",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168483543",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169145809",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:적극행정면책제도및경고등처분에관한운영내규#JO0011",
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:적극행정면책제도및경고등처분에관한운영내규#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "적극행정 면책제도 및 경고 등 처분에 관한 운영내규/적극행정 면책제도 및 경고 등 처분에 관한 운영내규.json",
-            "target_git_path": "적극행정 면책제도 및 경고 등 처분에 관한 운영내규/적극행정 면책제도 및 경고 등 처분에 관한 운영내규.json",
-            "target_git_file_path": "적극행정 면책제도 및 경고 등 처분에 관한 운영내규/별지/별지3_면책심사조서.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "적극행정 면책제도 및 경고 등 처분에 관한 운영내규/적극행정 면책제도 및 경고 등 처분에 관한 운영내규.json"
           }
         ],
         "images": [],
@@ -528,9 +473,7 @@
             "source_provision_id": "SchlPubRul:적극행정면책제도및경고등처분에관한운영내규#JO0012",
             "reference_id": "law:공공감사에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json",
-            "target_git_path": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -548,14 +491,9 @@
             "target_url": "https://www.law.go.kr/학칙공단/감사규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:적극행정면책제도및경고등처분에관한운영내규#JO0012",
-            "reference_id": "SchlPubRul:감사규정:public_2129617#DOC",
+            "reference_id": "SchlPubRul:감사규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "감사규정/감사규정.json",
-            "target_candidates": 4,
-            "target_git_path": "감사규정/public_2129617/감사규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "감사규정/감사규정.json"
           },
           {
             "relation_type": "citation",
@@ -573,14 +511,9 @@
             "target_url": "https://www.law.go.kr/학칙공단/감사규정 시행내규",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:적극행정면책제도및경고등처분에관한운영내규#JO0012",
-            "reference_id": "SchlPubRul:감사규정시행내규:public_2129631#DOC",
+            "reference_id": "SchlPubRul:감사규정시행내규#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "감사규정 시행내규/감사규정 시행내규.json",
-            "target_candidates": 3,
-            "target_git_path": "감사규정시행내규/public_2129631/감사규정시행내규.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "감사규정 시행내규/감사규정 시행내규.json"
           }
         ],
         "images": [],
@@ -622,18 +555,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2141275",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168483555",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169145821",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:적극행정면책제도및경고등처분에관한운영내규#JO0014",
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:적극행정면책제도및경고등처분에관한운영내규#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "적극행정 면책제도 및 경고 등 처분에 관한 운영내규/적극행정 면책제도 및 경고 등 처분에 관한 운영내규.json",
-            "target_git_path": "적극행정 면책제도 및 경고 등 처분에 관한 운영내규/적극행정 면책제도 및 경고 등 처분에 관한 운영내규.json",
-            "target_git_file_path": "적극행정 면책제도 및 경고 등 처분에 관한 운영내규/별지/별지5_경고(주의,훈계)장.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "적극행정 면책제도 및 경고 등 처분에 관한 운영내규/적극행정 면책제도 및 경고 등 처분에 관한 운영내규.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -652,18 +580,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2141275",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168483561",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169145827",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:적극행정면책제도및경고등처분에관한운영내규#JO0014",
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:적극행정면책제도및경고등처분에관한운영내규#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "적극행정 면책제도 및 경고 등 처분에 관한 운영내규/적극행정 면책제도 및 경고 등 처분에 관한 운영내규.json",
-            "target_git_path": "적극행정 면책제도 및 경고 등 처분에 관한 운영내규/적극행정 면책제도 및 경고 등 처분에 관한 운영내규.json",
-            "target_git_file_path": "적극행정 면책제도 및 경고 등 처분에 관한 운영내규/별지/별지6_경고 등 처분 대장.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "적극행정 면책제도 및 경고 등 처분에 관한 운영내규/적극행정 면책제도 및 경고 등 처분에 관한 운영내규.json"
           }
         ],
         "images": [],
@@ -692,7 +615,7 @@
       "source_mst": "2200000156443",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250228"
+      "version_enforcement_date": "20250304"
     },
     {
       "promulgation_date": "20190104",
@@ -703,7 +626,7 @@
       "source_mst": "2200000156443",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250228"
+      "version_enforcement_date": "20250304"
     },
     {
       "promulgation_date": "20190715",
@@ -714,7 +637,7 @@
       "source_mst": "2200000156443",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250228"
+      "version_enforcement_date": "20250304"
     },
     {
       "promulgation_date": "20200515",
@@ -725,7 +648,7 @@
       "source_mst": "2200000156443",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250228"
+      "version_enforcement_date": "20250304"
     },
     {
       "promulgation_date": "20210802",
@@ -736,7 +659,7 @@
       "source_mst": "2200000156443",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250228"
+      "version_enforcement_date": "20250304"
     },
     {
       "promulgation_date": "20221114",
@@ -747,7 +670,7 @@
       "source_mst": "2200000156443",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250228"
+      "version_enforcement_date": "20250304"
     },
     {
       "promulgation_date": "20230208",
@@ -758,7 +681,7 @@
       "source_mst": "2200000156443",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250228"
+      "version_enforcement_date": "20250304"
     },
     {
       "promulgation_date": "20240905",
@@ -769,7 +692,7 @@
       "source_mst": "2200000156443",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250228"
+      "version_enforcement_date": "20250304"
     },
     {
       "promulgation_date": "20250228",
@@ -780,7 +703,7 @@
       "source_mst": "2200000156443",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250228"
+      "version_enforcement_date": "20250304"
     }
   ],
   "appendices": [
@@ -793,11 +716,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168483531",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169145797",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168483531",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169145797",
           "name": "",
           "file_store_url": ""
         }
@@ -818,11 +741,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168483537",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169145803",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168483537",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169145803",
           "name": "",
           "file_store_url": ""
         }
@@ -843,11 +766,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168483543",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169145809",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168483543",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169145809",
           "name": "",
           "file_store_url": ""
         }
@@ -868,11 +791,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168483549",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169145815",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168483549",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169145815",
           "name": "",
           "file_store_url": ""
         }
@@ -893,11 +816,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168483555",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169145821",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168483555",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169145821",
           "name": "",
           "file_store_url": ""
         }
@@ -918,11 +841,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168483561",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169145827",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168483561",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169145827",
           "name": "",
           "file_store_url": ""
         }
