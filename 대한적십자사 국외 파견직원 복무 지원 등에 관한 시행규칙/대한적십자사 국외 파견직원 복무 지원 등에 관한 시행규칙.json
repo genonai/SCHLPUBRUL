@@ -1,6 +1,6 @@
 {
   "law_id": "2137349",
-  "mst": "2200000139757",
+  "mst": "2200000146781",
   "law_name": "대한적십자사 국외 파견직원 복무 지원 등에 관한 시행규칙",
   "law_abbr": "",
   "law_type": "공단규정",
@@ -8,18 +8,18 @@
   "doc_kind": "공단정관",
   "adm_uid": "pi:2137349",
   "promulgation_no": "9999",
-  "promulgation_date": "20250101",
-  "enforcement_date": "20250101",
-  "revision_date": "20250101",
+  "promulgation_date": "20250401",
+  "enforcement_date": "20250401",
+  "revision_date": "20250401",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "대한적십자사",
     "담당자명": "김승기",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "대한적십자사 국외 파견직원 복무 지원 등에 관한 시행규칙",
-    "발령일자": "20250101",
+    "발령일자": "20250401",
     "행정규칙종류": "공단규정",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,11 +27,11 @@
     "전화번호": "033-811-0321",
     "제개정구분명": "일부개정",
     "소관부처코드": "B460004",
-    "생성일자": "20250725",
+    "생성일자": "20260723",
     "행정규칙ID": "2137349",
-    "담당부서기관코드": "B460004",
+    "담당부서기관코드": "",
     "발령번호": "9999",
-    "행정규칙일련번호": "2200000139757"
+    "행정규칙일련번호": "2200000146781"
   },
   "amendment_text": "",
   "revision_reason": "",
@@ -88,7 +88,7 @@
         "article_title": "선발요건",
         "chapter": "제2장 파견 및 복무",
         "chapter_path": "제2장 파견 및 복무",
-        "content": "제5조(선발요건) 파견직원은 다음 각 호의 요건을 갖춘 자로 한다.1. 직무수행 능력과 외국어 구사능력이 우수한 자2. 직원 근속년수 3년 이상 자 <개정 2006. 9. 1.>3. 국외 근무에 결격사유가 없는 자 <개정 2025. 1. 1.>",
+        "content": "제5조(선발요건) 파견직원은 다음 각 호의 요건을 갖춘 자로 한다.1. 직무수행 능력과 외국어 구사능력이 우수한 자2. 직원 근속연수 3년 이상 자 <개정 2006. 9. 1., 2025. 4. 1.>3. 국외 근무에 결격사유가 없는 자 <개정 2025. 1. 1.>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -101,7 +101,28 @@
         "chapter_path": "제2장 파견 및 복무",
         "content": "제6조(선발) ① 회장은 각 기관장 또는 본사 부서장의 추천을 받아 제5조의 선발요건에 적합한 자를 선발하며, 국제기구로 파견하는 직원의 경우에는 본사 인사위원회의 심의를 거쳐 최종 파견자를 결정한다. 다만, 최종 선발권이 현지기관에 있는 경우에는 본사 인사위원회에서 파견직원을 추천하고 현지기관에서 최종 선발토록 한다. <개정 2011. 5. 1., 2017. 6. 3.>② 사무총장은 사업계획 및 예산에 반영된 국외 파견직원 선발 계획의 경우 파견 예정일 최소 3개월 전에 사전 공고하여, 적정한 능력을 갖춘 직원들이 응모할 수 있도록 하여야 한다. 단, 긴급구호 또는 재건복구 등 시일이 급박한 상황에 파견할 경우에는 공고기간을 조정할 수 있다. <신설 2025. 1. 1.>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제1항",
+            "link_text": "제5조",
+            "line_text": "",
+            "target_law_name": "대한적십자사 국외 파견직원 복무 지원 등에 관한 시행규칙",
+            "target_article_no": "제5조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2137349",
+            "target_url": "https://www.law.go.kr/학칙공단/대한적십자사 국외 파견직원 복무 지원 등에 관한 시행규칙/제5조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:대한적십자사국외파견직원복무지원등에관한시행규칙#JO0006",
+            "reference_id": "SchlPubRul:대한적십자사국외파견직원복무지원등에관한시행규칙#JO0005",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "대한적십자사 국외 파견직원 복무 지원 등에 관한 시행규칙/대한적십자사 국외 파견직원 복무 지원 등에 관한 시행규칙.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:대한적십자사국외파견직원복무지원등에관한시행규칙#JO0006"
       },
@@ -165,7 +186,7 @@
         "article_title": "보수, 여비, 체재비, 거주비 지원",
         "chapter": "제3장 보수 및 재정지원",
         "chapter_path": "제3장 보수 및 재정지원",
-        "content": "제12조(보수, 여비, 체재비, 거주비 지원) ① 파견직원의 보수, 여비 등은 「직원 보수 운영규정」 과 「여비 운영규정」 에서 정한 바에 따라 지급한다. 다만, 현지기관으로부터 해당 금액 일부를 지급 받는 경우에는 그 액을 공제하고 지급하되, 체재지원비는 다음 각 호에서  정한 바에 따라 지급한다. <개정 2003. 1. 1., 2007. 4. 1., 2025. 1. 1.>1. 체재지원비는 여비운영규정 별표 제4호에서 정한 일비의 2/3에 해당하는 금액에 체재일수를 곱한 금액(이하 \"지원기준액\"이라 한다)을 최초 파견일을 기준으로 매월 지급한다. 다만, 여비운영규정 별표 제4호 비고란 \"국가별 및 도시별 등급구분\"에서 ‘다’등급 (1)지역 아시아주ㆍ오세아니아주 및 ‘라’등급 지역은 지원기준액에서 1/10을 감한 액을 지급한다. <개정 2024. 1. 1.>2. 사무총장은 체재지역의 근무여건 및 환율변동으로 인해 제1호에서 정한 바대로 지급하기 곤란한 경우에는 지급범위와 시기를 조정하여 지급할 수 있다. <개정 2017. 6. 3., 2025. 1. 1.>3. 파견직원의 거주비를 부담해야 하는 경우는 현지기관이 정한 직원주택임대료 지급 범위를 고려하여 예산범위 내에서 사무총장이 조정하여 지급할 수 있다. <신설 2007. 4. 1., 2011. 5. 1., 2017. 6. 3., 2025. 1. 1.>4. 현지기관에 파견근무하는 직원 이외에 긴급재난 등으로 파견 또는 출장하는 직원에 대한 체재지원비는 해당지역에 대한 국제적십자사연맹 또는 국제적십자위원회의 파견자 지원기준 범위 내에서 회장이 조정하여 지급할 수 있다. <신설 2011. 5. 1., 2017. 6. 3.>",
+        "content": "제12조(보수, 여비, 체재비, 거주비 지원) ① 파견직원의 보수, 여비 등은 「직원 보수 운영규정」 과 「여비 운영규정」 에서 정한 바에 따라 지급한다. 다만, 현지기관으로부터 해당 금액 일부를 지급 받는 경우에는 그 액을 공제하고 지급하되, 체재지원비는 다음 각 호에서 정한 바에 따라 지급한다. <개정 2003. 1. 1., 2007. 4. 1., 2025. 1. 1.>1. 체재지원비는 「여비 운영규정」 별표 제4호에서 정한 일비의 2/3에 해당하는 금액에 체재일수를 곱한 금액(이하 \"지원기준액\"이라 한다)을 최초 파견일을 기준으로 매월 지급한다. 다만, 「여비 운영규정」 별표 제4호 비고란 \"국가별 및 도시별 등급구분\"에서 ‘다’등급 (1)지역 아시아주ㆍ오세아니아주 및 ‘라’등급 지역은 지원기준액에서 1/10을 감한 액을 지급한다. <개정 2024. 1. 1., 2025. 4. 1.>2. 사무총장은 체재지역의 근무여건 및 환율변동으로 인해 제1호에서 정한 바대로 지급하기 곤란한 경우에는 지급범위와 시기를 조정하여 지급할 수 있다. <개정 2017. 6. 3., 2025. 1. 1.>3. 파견직원의 거주비를 부담해야 하는 경우는 현지기관이 정한 직원주택임대료 지급 범위를 고려하여 예산범위 내에서 사무총장이 조정하여 지급할 수 있다. <신설 2007. 4. 1., 2011. 5. 1., 2017. 6. 3., 2025. 1. 1.>4. 현지기관에 파견근무하는 직원 이외에 긴급재난 등으로 파견 또는 출장하는 직원에 대한 체재지원비는 해당지역에 대한 국제적십자사연맹 또는 국제적십자위원회의 파견자 지원기준 범위 내에서 회장이 조정하여 지급할 수 있다. <신설 2011. 5. 1., 2017. 6. 3.>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -222,7 +243,28 @@
         "chapter_path": "제4장 보험가입",
         "content": "제17조(보험가입의 대상) 보험가입 대상은 다음 각 호에서 정한 바와 같다.1. 3개월 이상 파견직원 및 제7조 각 호에서 정한 동반가족2. 3개월 미만 출장직원",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제17조",
+            "source_clause": "제17조",
+            "link_text": "제7조",
+            "line_text": "",
+            "target_law_name": "대한적십자사 국외 파견직원 복무 지원 등에 관한 시행규칙",
+            "target_article_no": "제7조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2137349",
+            "target_url": "https://www.law.go.kr/학칙공단/대한적십자사 국외 파견직원 복무 지원 등에 관한 시행규칙/제7조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:대한적십자사국외파견직원복무지원등에관한시행규칙#JO0017",
+            "reference_id": "SchlPubRul:대한적십자사국외파견직원복무지원등에관한시행규칙#JO0007",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "대한적십자사 국외 파견직원 복무 지원 등에 관한 시행규칙/대한적십자사 국외 파견직원 복무 지원 등에 관한 시행규칙.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:대한적십자사국외파견직원복무지원등에관한시행규칙#JO0017"
       },
@@ -233,7 +275,28 @@
         "chapter_path": "제4장 보험가입",
         "content": "제18조(보험가입의 범위) ① 파견직원 및 동반가족과 출장직원은 신변안전 및 건강보호를 위하여 국외여행 도중 발생할 수 있는 각종 질병감염에 대비한 의료보험과 예기치 못한 불의의 사고에 대비한 위험보험에 가입하여야 한다. <개정 2025. 1. 1.>② 파견 및 출장지가 무력충돌지역이나 특별재해지역 또는 오지일 경우에는 제19조에서 정한 보험가입 종목과는 별도로 생명의 위협, 상해, 질병감염에 대비한 의료보험과 예기치 못한 불의의 사고에 대비한 위험보험에 가입하여야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제18조",
+            "source_clause": "제18조제2항",
+            "link_text": "제19조",
+            "line_text": "",
+            "target_law_name": "대한적십자사 국외 파견직원 복무 지원 등에 관한 시행규칙",
+            "target_article_no": "제19조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2137349",
+            "target_url": "https://www.law.go.kr/학칙공단/대한적십자사 국외 파견직원 복무 지원 등에 관한 시행규칙/제19조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:대한적십자사국외파견직원복무지원등에관한시행규칙#JO0018",
+            "reference_id": "SchlPubRul:대한적십자사국외파견직원복무지원등에관한시행규칙#JO0019",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "대한적십자사 국외 파견직원 복무 지원 등에 관한 시행규칙/대한적십자사 국외 파견직원 복무 지원 등에 관한 시행규칙.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:대한적십자사국외파견직원복무지원등에관한시행규칙#JO0018"
       },
@@ -255,7 +318,48 @@
         "chapter_path": "제4장 보험가입",
         "content": "제20조(보험사의 지정 및 가입한도액) 보험사의 지정과 가입한도액은 제18조 및 제19조에서 정한 보장종목을 포함하는 범위내에서 사에서 정한 기준으로 하되, 본인이 희망하는 특정보험사가 있을 경우 그 의사에 따라 가입할 수 있다. 단, 사에서 정한 보장종목외에 별도로 추가할 경우에는 본인의 부담으로 하여야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제20조",
+            "source_clause": "제20조",
+            "link_text": "제18조 및 제19조",
+            "line_text": "",
+            "target_law_name": "대한적십자사 국외 파견직원 복무 지원 등에 관한 시행규칙",
+            "target_article_no": "제18조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2137349",
+            "target_url": "https://www.law.go.kr/학칙공단/대한적십자사 국외 파견직원 복무 지원 등에 관한 시행규칙/제18조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:대한적십자사국외파견직원복무지원등에관한시행규칙#JO0020",
+            "reference_id": "SchlPubRul:대한적십자사국외파견직원복무지원등에관한시행규칙#JO0018",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "대한적십자사 국외 파견직원 복무 지원 등에 관한 시행규칙/대한적십자사 국외 파견직원 복무 지원 등에 관한 시행규칙.json"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제20조",
+            "source_clause": "제20조",
+            "link_text": "제18조 및 제19조",
+            "line_text": "",
+            "target_law_name": "대한적십자사 국외 파견직원 복무 지원 등에 관한 시행규칙",
+            "target_article_no": "제19조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2137349",
+            "target_url": "https://www.law.go.kr/학칙공단/대한적십자사 국외 파견직원 복무 지원 등에 관한 시행규칙/제19조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:대한적십자사국외파견직원복무지원등에관한시행규칙#JO0020",
+            "reference_id": "SchlPubRul:대한적십자사국외파견직원복무지원등에관한시행규칙#JO0019",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "대한적십자사 국외 파견직원 복무 지원 등에 관한 시행규칙/대한적십자사 국외 파견직원 복무 지원 등에 관한 시행규칙.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:대한적십자사국외파견직원복무지원등에관한시행규칙#JO0020"
       },
@@ -297,7 +401,7 @@
         "article_title": "보고",
         "chapter": "제5장 지휘감독 및 보고",
         "chapter_path": "제5장 지휘감독 및 보고",
-        "content": "제24조(보고) ① 파견 또는 출장직원은 현지근무와 관련하여 중요한 변화가 있을 때나  서면 또는 구두로 지체없이 그 사실을 사무총장에게 보고하여야 한다. <개정 2011. 5. 1., 2017. 6. 3., 2025. 1. 1.>② 파견된 직원은 본사에서 각종 정책 및 통계 등에 대한 자료나 기타 업무 협조를 요구할 경우 특별한 사정이 없는 한 이를 따라야 한다. <신설 2025. 1. 1.>③ 파견된 직원은 주간 및 월간 근무보고서를 본사 기획예산팀과 소관 부서에 서면으로 제출하여야 하며, 파견근무를 끝내고 귀국한 때에는 1개월 이내에 「국외파견근무결과보고서」 를 사무총장에게 서면으로 제출하여야 한다. <신설 2025. 1. 1.>",
+        "content": "제24조(보고) ① 파견 또는 출장직원은 현지근무와 관련하여 중요한 변화가 있을 때나 서면 또는 구두로 지체없이 그 사실을 사무총장에게 보고하여야 한다. <개정 2011. 5. 1., 2017. 6. 3., 2025. 1. 1.>② 파견된 직원은 본사에서 각종 정책 및 통계 등에 대한 자료나 기타 업무 협조를 요구할 경우 특별한 사정이 없는 한 이를 따라야 한다. <신설 2025. 1. 1.>③ 파견된 직원은 주간 및 월간 근무보고서를 본사 기획예산팀과 소관 부서에 서면으로 제출하여야 하며, 파견근무를 끝내고 귀국한 때에는 1개월 이내에 「국외파견근무결과보고서」 를 사무총장에게 서면으로 제출하여야 한다. <신설 2025. 1. 1.>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -310,88 +414,214 @@
       "promulgation_date": "20010101",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2001.01.01.>제1조(시행일) 이 시행규칙은 2001년 1월 1일부터 시행한다.제2조(지침의 적용) 이 시행규칙 제20조에서 정한 보험사의 지정 및 가입한도액에 관한 세부기준은 \"해외장기파견 및 단기출장직원의 보험가입 기준\"(한적기 2000-816호, 2000. 5. 29일자 시행)을 적용한다.제3조(통합규정) 이 시행규칙의 시행으로 \"해외장기파견 및 단기출장 직원의 보험가입 지침\"(한적기2000-799호, 2000. 5. 22일자 시행)에서 정한 사항은 본 규칙으로 통합하여 시행한다.",
-      "provision_id": "SchlPubRul:대한적십자사국외파견직원복무지원등에관한시행규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:대한적십자사국외파견직원복무지원등에관한시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000146781",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250401"
     },
     {
       "promulgation_date": "20020605",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2002.06.05.>이 시행규칙은 2002년 6월 5일부터 시행한다.",
-      "provision_id": "SchlPubRul:대한적십자사국외파견직원복무지원등에관한시행규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:대한적십자사국외파견직원복무지원등에관한시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000146781",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250401"
     },
     {
       "promulgation_date": "20030101",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2003.01.01.>이 시행규칙은 2003년 1월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:대한적십자사국외파견직원복무지원등에관한시행규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:대한적십자사국외파견직원복무지원등에관한시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000146781",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250401"
     },
     {
       "promulgation_date": "20060901",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2006.09.01.>이 시행규칙은 2006년 9월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:대한적십자사국외파견직원복무지원등에관한시행규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:대한적십자사국외파견직원복무지원등에관한시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000146781",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250401"
     },
     {
       "promulgation_date": "20070401",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2007.04.01.>이 시행규칙은 2007년 4월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:대한적십자사국외파견직원복무지원등에관한시행규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:대한적십자사국외파견직원복무지원등에관한시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000146781",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250401"
     },
     {
       "promulgation_date": "20110501",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2011.05.01.>이 시행규칙은 2011년 5월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:대한적십자사국외파견직원복무지원등에관한시행규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:대한적십자사국외파견직원복무지원등에관한시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000146781",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250401"
     },
     {
       "promulgation_date": "20150101",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2015.01.01.>이 시행규칙은 2015년 1월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:대한적십자사국외파견직원복무지원등에관한시행규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:대한적십자사국외파견직원복무지원등에관한시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000146781",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250401"
     },
     {
       "promulgation_date": "20170603",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2017.06.03.>이 시행규칙은 2017년 6월 3일부터 시행한다.",
-      "provision_id": "SchlPubRul:대한적십자사국외파견직원복무지원등에관한시행규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:대한적십자사국외파견직원복무지원등에관한시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000146781",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250401"
     },
     {
       "promulgation_date": "20180701",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2018.07.01.>이 시행규칙은 2018년 7월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:대한적십자사국외파견직원복무지원등에관한시행규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:대한적십자사국외파견직원복무지원등에관한시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000146781",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250401"
     },
     {
       "promulgation_date": "20190801",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2019.08.01.>이 시행규칙은 2019년 8월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:대한적십자사국외파견직원복무지원등에관한시행규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:대한적십자사국외파견직원복무지원등에관한시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000146781",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250401"
     },
     {
       "promulgation_date": "20240101",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2024.01.01.>이 시행규칙은 2024년 1월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:대한적십자사국외파견직원복무지원등에관한시행규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:대한적십자사국외파견직원복무지원등에관한시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000146781",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250401"
     },
     {
       "promulgation_date": "20250101",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2025.01.01.>이 시행규칙은 2025년 1월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:대한적십자사국외파견직원복무지원등에관한시행규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:대한적십자사국외파견직원복무지원등에관한시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000146781",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250401"
+    },
+    {
+      "promulgation_date": "20250401",
+      "promulgation_no": "9999",
+      "content": "부칙 <제9999호, 2025.04.01.>이 시행규칙은 2025년 4월 1일부터 시행한다.",
+      "provision_id": "SchlPubRul:대한적십자사국외파견직원복무지원등에관한시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000146781",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250401"
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "삭제 <2018. 7. 1.>",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167404585",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167404585",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:대한적십자사국외파견직원복무지원등에관한시행규칙#BJ0001",
+      "filename": "별지1_삭제 _2018. 7. 1._.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지1_삭제 _2018. 7. 1._.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "삭제 <2018. 7. 1.>",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167404589",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167404589",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:대한적십자사국외파견직원복무지원등에관한시행규칙#BJ0002",
+      "filename": "별지2_삭제 _2018. 7. 1._.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지2_삭제 _2018. 7. 1._.hwp",
+      "file_store_url": ""
+    }
+  ],
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 5,
+    "by_category": {
+      "학칙공단": 5
+    },
+    "by_relation_type": {
+      "internal_ref": 5
+    },
     "articles_total": 24,
-    "articles_with_relations": 0,
+    "articles_with_relations": 4,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 12,
+    "addenda_count": 13,
     "appendices_count": 2,
     "attachments_count": 0
   },
@@ -402,5 +632,8 @@
   "addendum_provision_id": "SchlPubRul:대한적십자사국외파견직원복무지원등에관한시행규칙#ADDENDUM",
   "amendment_provision_id": "SchlPubRul:대한적십자사국외파견직원복무지원등에관한시행규칙#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "대한적십자사 국외 파견직원 복무 지원 등에 관한 시행규칙/대한적십자사 국외 파견직원 복무 지원 등에 관한 시행규칙.json"
 }
