@@ -1,6 +1,6 @@
 {
   "law_id": "2137341",
-  "mst": "2200000139749",
+  "mst": "2200000146779",
   "law_name": "대한적십자사 사고 보상 위자료 지급 시행규칙",
   "law_abbr": "",
   "law_type": "공단규정",
@@ -8,18 +8,18 @@
   "doc_kind": "공단정관",
   "adm_uid": "pi:2137341",
   "promulgation_no": "9999",
-  "promulgation_date": "20250101",
-  "enforcement_date": "20250101",
-  "revision_date": "20250101",
+  "promulgation_date": "20250401",
+  "enforcement_date": "20250401",
+  "revision_date": "20250401",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "대한적십자사",
     "담당자명": "김승기",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "대한적십자사 사고 보상 위자료 지급 시행규칙",
-    "발령일자": "20250101",
+    "발령일자": "20250401",
     "행정규칙종류": "공단규정",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,11 +27,11 @@
     "전화번호": "033-811-0321",
     "제개정구분명": "일부개정",
     "소관부처코드": "B460004",
-    "생성일자": "20250725",
+    "생성일자": "20260722",
     "행정규칙ID": "2137341",
-    "담당부서기관코드": "B460004",
+    "담당부서기관코드": "",
     "발령번호": "9999",
-    "행정규칙일련번호": "2200000139749"
+    "행정규칙일련번호": "2200000146779"
   },
   "amendment_text": "",
   "revision_reason": "",
@@ -77,9 +77,50 @@
         "article_title": "보상위자료 산정",
         "chapter": "",
         "chapter_path": "",
-        "content": "제4조(보상위자료 산정) ① 보상위자료는 사고를 당한 피해자의 피해정도, 사고발생 원인과 사고 당시의 정황 등을 고려하고 「국가배상법 시행령」 제2조제1항의 규정에 의한 신체장해의 등급과 노동력상실률 등을 감안하여 보상심의위원회에서 정한다.② 보상심의위원회의 심의에 따라 보상위자료 이외에 진료비 및 장제비를 별도로 지급할 수 있다. <개정 2013. 7. 10.>",
+        "content": "제4조(보상위자료 산정) ① 보상위자료는 사고를 당한 피해자의 피해정도, 사고발생 원인과 사고 당시의 정황 등을 고려하고 「국가배상법 시행령」 제2조제1항의 규정에 의한 신체장해의 등급과 노동력상실률 등을 감안하여 보상심의위원회에서 정한다. <개정 2025. 4. 1.>② 보상심의위원회의 심의에 따라 보상위자료 이외에 진료비 및 장제비를 별도로 지급할 수 있다. <개정 2013. 7. 10.>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제1항",
+            "link_text": "「국가배상법 시행령」",
+            "line_text": "",
+            "target_law_name": "국가배상법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2137341",
+            "target_url": "https://www.law.go.kr/법령/국가배상법 시행령",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:대한적십자사사고보상위자료지급시행규칙#JO0004",
+            "reference_id": "law:국가배상법시행령#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "국가배상법/시행령/국가배상법 시행령.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제1항",
+            "link_text": "제2조제1항",
+            "line_text": "",
+            "target_law_name": "국가배상법 시행령",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2137341",
+            "target_url": "https://www.law.go.kr/법령/국가배상법 시행령/제2조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:대한적십자사사고보상위자료지급시행규칙#JO0004",
+            "reference_id": "law:국가배상법시행령#JO0002",
+            "target_repo": "LAW",
+            "target_git_path_guess": "국가배상법/시행령/국가배상법 시행령.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:대한적십자사사고보상위자료지급시행규칙#JO0004"
       },
@@ -110,7 +151,7 @@
         "article_title": "보상심의위원회의 구성",
         "chapter": "",
         "chapter_path": "",
-        "content": "제7조(보상심의위원회의 구성) ① 적십자활동에 참가하여 부상 또는 사망하는 등 피해자에 대한 위로와 보상에 관한 사항을 심의하기 위하여 대한적십자사 각 기관에 사고보상심의위원회(이하 \"위원회\"라 한다)를 둔다. <개정 2013. 7. 10.>② 위원회의 위원장은 기관장(본사는 사무총장)이 되며 위원은 소속 간부직원 또는 사고내용과 보상에 관하여 전문지식과 경험이 풍부한 자 중에서 당해 기관장(본사는 사무총장) 이 임명 또는 위촉하는 자로 한다. <개정 2013. 7. 10.>③ 제2항의 규정에 의하여 임명 또는 위촉하는 위원의 수가 5명 이상 9명 이내로 하며 그 임기는 2년으로 한다. <개정 2013. 7. 10.>",
+        "content": "제7조(보상심의위원회의 구성) ① 적십자활동에 참가하여 부상 또는 사망하는 등 피해자에 대한 위로와 보상에 관한 사항을 심의하기 위하여 대한적십자사 각 기관에 사고보상심의위원회(이하 \"위원회\"라 한다)를 둔다. <개정 2013. 7. 10.>② 위원회의 위원장은 기관장(본사는 사무총장)이 되며 위원은 소속 간부직원 또는 사고내용과 보상에 관하여 전문지식과 경험이 풍부한 자 중에서 해당 기관장(본사는 사무총장) 이 임명 또는 위촉하는 자로 한다. <개정 2013. 7. 10., 2025. 4. 1.>③ 제2항의 규정에 의하여 임명 또는 위촉하는 위원의 수가 5명 이상 9명 이내로 하며 그 임기는 2년으로 한다. <개정 2013. 7. 10.>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -167,7 +208,28 @@
         "chapter_path": "",
         "content": "제12조(보상위자료 보전처리) 이 규칙 제11조제1항의 규정에 따른 보상위자료 지급과 관련하여 해당기관의 보유자금이 부족한 경우에는 기관 간 자금차입 등 본사의 승인을 받아 별도의 자금에서 일시 충당하여 처리하고 익년도 예산에 반영하여 이를 보전하여야 한다. <개정 2013. 7. 10.>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제12조",
+            "source_clause": "제12조",
+            "link_text": "제11조제1항",
+            "line_text": "",
+            "target_law_name": "대한적십자사 사고 보상 위자료 지급 시행규칙",
+            "target_article_no": "제11조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2137341",
+            "target_url": "https://www.law.go.kr/학칙공단/대한적십자사 사고 보상 위자료 지급 시행규칙/제11조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:대한적십자사사고보상위자료지급시행규칙#JO0012",
+            "reference_id": "SchlPubRul:대한적십자사사고보상위자료지급시행규칙#JO0011",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "대한적십자사 사고 보상 위자료 지급 시행규칙/대한적십자사 사고 보상 위자료 지급 시행규칙.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:대한적십자사사고보상위자료지급시행규칙#JO0012"
       },
@@ -189,64 +251,121 @@
       "promulgation_date": "19930210",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 1993.02.10.>이 운영규칙은 1993년 2월 10일부터 시행한다.",
-      "provision_id": "SchlPubRul:대한적십자사사고보상위자료지급시행규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:대한적십자사사고보상위자료지급시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000146779",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250401"
     },
     {
       "promulgation_date": "19940422",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 1994.04.22.>이 시행규칙은 1994년 4월 22일부터 시행한다.",
-      "provision_id": "SchlPubRul:대한적십자사사고보상위자료지급시행규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:대한적십자사사고보상위자료지급시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000146779",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250401"
     },
     {
       "promulgation_date": "20030101",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2003.01.01.>이 시행규칙은 2003년 1월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:대한적십자사사고보상위자료지급시행규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:대한적십자사사고보상위자료지급시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000146779",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250401"
     },
     {
       "promulgation_date": "20050401",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2005.04.01.>이 시행규칙은 2005년 4월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:대한적십자사사고보상위자료지급시행규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:대한적십자사사고보상위자료지급시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000146779",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250401"
     },
     {
       "promulgation_date": "20080701",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2008.07.01.>이 시행규칙은 2008년 7월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:대한적십자사사고보상위자료지급시행규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:대한적십자사사고보상위자료지급시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000146779",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250401"
     },
     {
       "promulgation_date": "20100901",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2010.09.01.>이 시행규칙은 2010년 9월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:대한적십자사사고보상위자료지급시행규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:대한적십자사사고보상위자료지급시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000146779",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250401"
     },
     {
       "promulgation_date": "20130710",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2013.07.10.>이 시행규칙은 2013년 7월 10일부터 시행한다.",
-      "provision_id": "SchlPubRul:대한적십자사사고보상위자료지급시행규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:대한적십자사사고보상위자료지급시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000146779",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250401"
     },
     {
       "promulgation_date": "20250101",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2025.01.01.>이 시행규칙은 2025년 1월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:대한적십자사사고보상위자료지급시행규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:대한적십자사사고보상위자료지급시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000146779",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250401"
+    },
+    {
+      "promulgation_date": "20250401",
+      "promulgation_no": "9999",
+      "content": "부칙 <제9999호, 2025.04.01.>이 시행규칙은 2025년 4월 1일부터 시행한다.",
+      "provision_id": "SchlPubRul:대한적십자사사고보상위자료지급시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000146779",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250401"
     }
   ],
   "appendices": [],
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 3,
+    "by_category": {
+      "법령": 2,
+      "학칙공단": 1
+    },
+    "by_relation_type": {
+      "citation": 2,
+      "internal_ref": 1
+    },
     "articles_total": 13,
-    "articles_with_relations": 0,
+    "articles_with_relations": 2,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 8,
+    "addenda_count": 9,
     "appendices_count": 0,
     "attachments_count": 0
   },
@@ -257,5 +376,8 @@
   "addendum_provision_id": "SchlPubRul:대한적십자사사고보상위자료지급시행규칙#ADDENDUM",
   "amendment_provision_id": "SchlPubRul:대한적십자사사고보상위자료지급시행규칙#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "대한적십자사 사고 보상 위자료 지급 시행규칙/대한적십자사 사고 보상 위자료 지급 시행규칙.json"
 }
