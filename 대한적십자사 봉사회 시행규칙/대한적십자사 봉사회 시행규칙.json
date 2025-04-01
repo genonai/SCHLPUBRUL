@@ -1,6 +1,6 @@
 {
   "law_id": "2137235",
-  "mst": "2200000139683",
+  "mst": "2200000146683",
   "law_name": "대한적십자사 봉사회 시행규칙",
   "law_abbr": "",
   "law_type": "공단규정",
@@ -8,18 +8,18 @@
   "doc_kind": "공단정관",
   "adm_uid": "pi:2137235",
   "promulgation_no": "9999",
-  "promulgation_date": "20250101",
-  "enforcement_date": "20250101",
-  "revision_date": "20250101",
+  "promulgation_date": "20250401",
+  "enforcement_date": "20250401",
+  "revision_date": "20250401",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "대한적십자사",
     "담당자명": "김승기",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "대한적십자사 봉사회 시행규칙",
-    "발령일자": "20250101",
+    "발령일자": "20250401",
     "행정규칙종류": "공단규정",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,11 +27,11 @@
     "전화번호": "033-811-0321",
     "제개정구분명": "일부개정",
     "소관부처코드": "B460004",
-    "생성일자": "20250724",
+    "생성일자": "20260722",
     "행정규칙ID": "2137235",
-    "담당부서기관코드": "B460004",
+    "담당부서기관코드": "",
     "발령번호": "9999",
-    "행정규칙일련번호": "2200000139683"
+    "행정규칙일련번호": "2200000146683"
   },
   "amendment_text": "",
   "revision_reason": "",
@@ -77,7 +77,7 @@
         "article_title": "용어의 정의",
         "chapter": "제1장 총칙",
         "chapter_path": "제1장 총칙",
-        "content": "제4조(용어의 정의) 이 시행규칙에 사용하는 용어의 정의는 다음과 같다.1. \"적십자봉사원\"이라 함은 성별, 국적, 종교 또는 정치적 신념과 봉사조직 참여여하를 불문하고 직접 또는 간접으로 적십자사의 인도주의 사업에 자진하여 참여하는 자를 말한다. <개정 2011. 5. 1., 2018. 4. 1.>2. \"봉사회원\"이라 함은 적십자봉사원으로서 지역, 직장, 친분, 취미 등 관계에 따라 단위봉사회에 참여하고자 소정의 절차를 거쳐 등록된 자를 말한다.3. \"전문봉사회원\"이라 함은 의료, 보건, 혈액, 안전, 상담, 외국어, 예체능, 아마무선 등의 특정 전문분야의 지식, 기술, 기능을 보유한 적십자 봉사원으로서 관련되는 조직에 참여하고자 소정의 절차를 거쳐 등록 된자를 말한다. <개정 1993. 1. 1., 2001. 1. 1.>",
+        "content": "제4조(용어의 정의) 이 시행규칙에 사용하는 용어의 정의는 다음과 같다.1. \"적십자봉사원\"이란 성별, 국적, 종교 또는 정치적 신념과 봉사조직 참여여하를 불문하고 직접 또는 간접으로 적십자사의 인도주의 사업에 자진하여 참여하는 자를 말한다. <개정 2011. 5. 1., 2018. 4. 1., 2025. 4. 1.>2. \"봉사회원\"이란 적십자봉사원으로서 지역, 직장, 친분, 취미 등 관계에 따라 단위봉사회에 참여하고자 소정의 절차를 거쳐 등록된 자를 말한다. <개정 2025. 4. 1.>3. \"전문봉사회원\"이란 의료, 보건, 혈액, 안전, 상담, 외국어, 예체능, 아마무선 등의 특정 전문분야의 지식, 기술, 기능을 보유한 적십자 봉사원으로서 관련되는 조직에 참여하고자 소정의 절차를 거쳐 등록 된자를 말한다. <개정 1993. 1. 1., 2001. 1. 1., 2025. 4. 1.>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -101,7 +101,33 @@
         "chapter_path": "제2장 봉사원",
         "content": "제6조(표창) ① 봉사원으로서 봉사활동 또는 봉사회조직 발전에 현저한 공적이 있는 자에 대하여는 포상 또는 표창할 수 있다. 다만, 포상은 적십자사 운영규정에 정한 바에 의한다. <개정 1995. 4. 1.>② 대한적십자사 회장은 적십자봉사원으로서 10년 이상 5,000시간 이상 봉사한 회원 중 지사회장이 추천한 유공회원을 전국봉사원대회 및 지사봉사원대회에서 표창하며, 수상자에게는 별표 제1호의 적십자봉사원대장을 수여할 수 있다. <신설 1995. 4. 1., 2009. 1. 1., 2017. 6. 3.>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제2항",
+            "link_text": "별표 제1호",
+            "line_text": "",
+            "target_law_name": "대한적십자사 봉사회 시행규칙",
+            "target_article_no": "별표1",
+            "target_article_title": "적십자봉사원대장",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2137235",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000146683&bylNo=0001&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#JO0006",
+            "target_unit": "BYL0001",
+            "reference_id": "SchlPubRul:대한적십자사봉사회시행규칙#BYL0001",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "대한적십자사 봉사회 시행규칙/대한적십자사 봉사회 시행규칙.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#JO0006"
       },
@@ -123,7 +149,58 @@
         "chapter_path": "제3장 봉사 조직 > 제1절 회원",
         "content": "제8조(회원자격) ① 적십자봉사회원(이하 ‘회원’이라 한다)은 봉사원으로서 관할 지사에 소정의 등록절차를 마치고 다음의 봉사원 서약을 함으로써 자격을 가진다. <개정 2011. 5. 1.>1. 나는 적십자 인도주의 정신을 구현하기 위하여 성실한 마음으로 봉사하겠습니다. <개정 2001. 1. 1.>2. 나는 어려운 이웃과 더불어 밝은 사회를 이룩하는데 이바지 하겠습니다. <개정 2001. 1. 1.>3. 나는 언제나 적십자의 명예와 전통을 빛내도록 힘쓰겠습니다.② 소정의 등록절차를 마친 봉사원에게는 별지 제1호서식에 의한 회원증을 발급할 수 있다. <신설 1993. 7. 1.>③ 회원증을 발급할 경우 별지 제2호서식에 의한 회원대장에 등재하여야 한다. <신설 1993. 7. 1.>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제2항",
+            "link_text": "별지 제1호서식",
+            "line_text": "",
+            "target_law_name": "대한적십자사 봉사회 시행규칙",
+            "target_article_no": "별지1",
+            "target_article_title": "회   원   증",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2137235",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167380717",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#JO0008",
+            "target_unit": "BJ0001",
+            "reference_id": "SchlPubRul:대한적십자사봉사회시행규칙#BJ0001",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "대한적십자사 봉사회 시행규칙/대한적십자사 봉사회 시행규칙.json"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제3항",
+            "link_text": "별지 제2호서식",
+            "line_text": "",
+            "target_law_name": "대한적십자사 봉사회 시행규칙",
+            "target_article_no": "별지2",
+            "target_article_title": "회   원   대   장",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2137235",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167380721",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#JO0008",
+            "target_unit": "BJ0002",
+            "reference_id": "SchlPubRul:대한적십자사봉사회시행규칙#BJ0002",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "대한적십자사 봉사회 시행규칙/대한적십자사 봉사회 시행규칙.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#JO0008"
       },
@@ -132,7 +209,7 @@
         "article_title": "회원의 종류",
         "chapter": "제1절 회원",
         "chapter_path": "제3장 봉사 조직 > 제1절 회원",
-        "content": "제9조(회원의 종류) ① 회원은 정회원과 명예회원으로 구분하며, 다음에 의한다.② 정회원은 소정의 등록절차를 마친 봉사원 <개정 2011. 5. 1.>③ 명예회원은 봉사회의 운영과 지역사회 복지증진에 현저히 공적이 있다고 인정되는 인사[전문개정 93. 1. 1.]",
+        "content": "제9조(회원의 종류) ① 회원은 정회원과 명예회원으로 구분하며, 다음에 의한다.② 정회원은 소정의 등록절차를 마친 봉사원 <개정 2011. 5. 1.>③ 명예회원은 봉사회의 운영과 지역사회 복지증진에 현저히 공적이 있다고 인정되는 인사[전문개정 1993. 1. 1.]",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -165,9 +242,35 @@
         "article_title": "회원 교육과정",
         "chapter": "제1절 회원",
         "chapter_path": "제3장 봉사 조직 > 제1절 회원",
-        "content": "제12조(회원 교육과정) ① 회원은 적십자사가 정하는 소정의 교육과정을 이수하여야 한다.② 소정의 교육과정을 이수한 봉사원에게는 별지 제3호서식에 의한 수료증을 발급할 수 있다. <신설 1993. 7. 1.>",
+        "content": "제12조(회원 교육과정) ① 회원은 적십자사가 정하는 소정의 교육과정을 이수하여야 한다.② 소정의 교육과정을 이수한 봉사원에게는 별지 제3호 서식에 의한 수료증을 발급할 수 있다. <신설 1993. 7. 1.>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제12조",
+            "source_clause": "제12조제2항",
+            "link_text": "별지 제3호 서식",
+            "line_text": "",
+            "target_law_name": "대한적십자사 봉사회 시행규칙",
+            "target_article_no": "별지3",
+            "target_article_title": "과 정 별 수 료 증",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2137235",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167380725",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#JO0012",
+            "target_unit": "BJ0003",
+            "reference_id": "SchlPubRul:대한적십자사봉사회시행규칙#BJ0003",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "대한적십자사 봉사회 시행규칙/대한적십자사 봉사회 시행규칙.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#JO0012"
       },
@@ -253,9 +356,35 @@
         "article_title": "임원의 선출",
         "chapter": "제3절 임원",
         "chapter_path": "제3장 봉사 조직 > 제3절 임원",
-        "content": "제19조(임원의 선출) ① 각급 조직의 회장 및 부회장은 총회에서 선출하며 총무는 회장이 지명하고 총회에 보고한다.② 전국협의회 회장은 봉사회원이나 덕망 있는 외부 인사를 총회에서 선출할 수 있다. <개정 2009. 1. 1., 2015. 7. 1.>③ 시ㆍ도협의회 회장은 시ㆍ군ㆍ구협의회 임원을 역임한 경력이 있는 자 또는 관할 지사회장이 추천한 자 중에서 선출할 수 있으며, 시ㆍ군ㆍ구협의회 회장은 단위봉사회 임원을 역임한 자 중에서 선출한다. <개정 1993. 1. 1., 2001. 4. 10., 2018. 4. 1., 2025. 1. 1.>④전국협의회 임원은 대한적십자사 회장, 시ㆍ도 및 시ㆍ군ㆍ구협의회와 단위봉사회 임원은 선출 후 지사회장의 인준을 받아야 한다. <개정 1993. 1. 1., 2015. 7. 1., 2017. 6. 3., 2018. 4. 1., 2025. 1. 1.>⑤ 각급 협의회 및 봉사회에서 선출된 임원은 인준 후 필요한 경우 별지 제4호 내지 제4-3호서식에 의한 선임증을 발급할 수 있다. <신설 1993. 7. 1.>⑥ 현직 국회의원, 지방자치단체의 장 또는 지방자치단체의 의원은 각급 협의회 및 봉사회 임원이 될 수 없다. <신설 2015. 4. 1.>",
+        "content": "제19조(임원의 선출) ① 각급 조직의 회장 및 부회장은 총회에서 선출하며 총무는 회장이 지명하고 총회에 보고한다.② 전국협의회 회장은 봉사회원이나 덕망 있는 외부 인사를 총회에서 선출할 수 있다. <개정 2009. 1. 1., 2015. 7. 1.>③ 시ㆍ도협의회 회장은 시ㆍ군ㆍ구협의회 임원을 역임한 경력이 있는 자 또는 관할 지사회장이 추천한 자 중에서 선출할 수 있으며, 시ㆍ군ㆍ구협의회 회장은 단위봉사회 임원을 역임한 자 중에서 선출한다. <개정 1993. 1. 1., 2001. 4. 10., 2018. 4. 1., 2025. 1. 1.>④전국협의회 임원은 대한적십자사 회장, 시ㆍ도 및 시ㆍ군ㆍ구협의회와 단위봉사회 임원은 선출 후 지사회장의 인준을 받아야 한다. <개정 1993. 1. 1., 2015. 7. 1., 2017. 6. 3., 2018. 4. 1., 2025. 1. 1.>⑤각급 협의회 및 봉사회에서 선출된 임원은 인준 후 필요한 경우 별지 제4호 내지 제4-3호 서식에 의한 선임증을 발급할 수 있다. <신설 1993. 7. 1.>⑥ 현직 국회의원, 지방자치단체의 장 또는 지방자치단체의 의원은 각급 협의회 및 봉사회 임원이 될 수 없다. <신설 2015. 4. 1.>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제19조",
+            "source_clause": "제19조제5항",
+            "link_text": "별지 제4호",
+            "line_text": "",
+            "target_law_name": "대한적십자사 봉사회 시행규칙",
+            "target_article_no": "별지4",
+            "target_article_title": "전국협의회 임원 선임증",
+            "appendix_no": "4",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2137235",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167380729",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#JO0019",
+            "target_unit": "BJ0004",
+            "reference_id": "SchlPubRul:대한적십자사봉사회시행규칙#BJ0004",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "대한적십자사 봉사회 시행규칙/대한적십자사 봉사회 시행규칙.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#JO0019"
       },
@@ -464,160 +593,471 @@
       "promulgation_date": "19741101",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 1974.11.01.>이 운영규칙은 1974년 11월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000146683",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250401"
     },
     {
       "promulgation_date": "19840313",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 1984.03.13.>이 운영규칙은 1984년 3월 13일부터 시행한다.",
-      "provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000146683",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250401"
     },
     {
       "promulgation_date": "19850401",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 1985.04.01.>이 운영규칙은 1985년 4월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000146683",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250401"
     },
     {
       "promulgation_date": "19910101",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 1991.01.01.>① (시행일) 이 운영규칙은 1991년 1월 1일부터 시행한다.② (경과규정) 이 운영규칙 시행 당시 이미 조직되어 있는 봉사회는 이 운영규칙에 의하여 조직된 것으로 본다.",
-      "provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000146683",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250401"
     },
     {
       "promulgation_date": "19930101",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 1993.01.01.>이 운영규칙은 1993년 1월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000146683",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250401"
     },
     {
       "promulgation_date": "19930701",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 1993.07.01.>이 운영규칙은 1993년 7월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000146683",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250401"
     },
     {
       "promulgation_date": "19940422",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 1994.04.22.>이 시행규칙은 1994년 4월 22일부터 시행한다.",
-      "provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000146683",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250401"
     },
     {
       "promulgation_date": "19950401",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 1995.04.01.>이 시행규칙은 1995년 4월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000146683",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250401"
     },
     {
       "promulgation_date": "20010101",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2001.01.01.>이 시행규칙은 2001년 1월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000146683",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250401"
     },
     {
       "promulgation_date": "20010410",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2001.04.10.>이 시행규칙은 2001년 4월 10일부터 시행한다.",
-      "provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000146683",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250401"
     },
     {
       "promulgation_date": "20020501",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2002.05.01.>이 시행규칙은 2002년 5월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000146683",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250401"
     },
     {
       "promulgation_date": "20030215",
       "promulgation_no": "99999",
       "content": "부칙 <제99999호, 2003.02.15.>이 시행규칙은 2003년 2월 15일부터 시행한다.",
-      "provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000146683",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250401"
     },
     {
       "promulgation_date": "20070401",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2007.04.01.>이 시행규칙은 2007년 4월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000146683",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250401"
     },
     {
       "promulgation_date": "20090101",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2009.01.01.>이 시행규칙은 2009년 1월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000146683",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250401"
     },
     {
       "promulgation_date": "20090401",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2009.04.01.>이 시행규칙은 2009년 4월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000146683",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250401"
     },
     {
       "promulgation_date": "20110501",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2011.05.01.>이 시행규칙은 2011년 5월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000146683",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250401"
     },
     {
       "promulgation_date": "20150101",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2015.01.01.>이 시행규칙은 2015년 1월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000146683",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250401"
     },
     {
       "promulgation_date": "20150401",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2015.04.01.>이 시행규칙은 2015년 4월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000146683",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250401"
     },
     {
       "promulgation_date": "20150701",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2015.07.01.>이 시행규칙은 2015년 7월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000146683",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250401"
     },
     {
       "promulgation_date": "20170401",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2017.04.01.>이 시행규칙은 2017년 4월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000146683",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250401"
     },
     {
       "promulgation_date": "20170603",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2017.06.03.>이 시행규칙은 2017년 6월 3일부터 시행한다.",
-      "provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000146683",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250401"
     },
     {
       "promulgation_date": "20180401",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2018.04.01.>이 시행규칙은 2018년 4월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000146683",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250401"
     },
     {
       "promulgation_date": "20190101",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2019.01.01.>이 시행규칙은 2019년 1월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000146683",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250401"
     },
     {
       "promulgation_date": "20250101",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2025.01.01.>이 시행규칙은 2025년 1월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000146683",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250401"
+    },
+    {
+      "promulgation_date": "20250401",
+      "promulgation_no": "9999",
+      "content": "부칙 <제9999호, 2025.04.01.>이 시행규칙은 2025년 4월 1일부터 시행한다.",
+      "provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000146683",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250401"
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "적십자봉사원대장",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000146683&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167380713",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167380713",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#BYL0001",
+      "filename": "별표1_적십자봉사원대장.hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표1_적십자봉사원대장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "회   원   증",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167380717",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167380717",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#BJ0001",
+      "filename": "별지1_회 원 증.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지1_회 원 증.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "회   원   대   장",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167380721",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167380721",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#BJ0002",
+      "filename": "별지2_회 원 대 장.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지2_회 원 대 장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "과 정 별 수 료 증",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167380725",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167380725",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#BJ0003",
+      "filename": "별지3_과 정 별 수 료 증.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지3_과 정 별 수 료 증.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별지",
+      "title": "전국협의회 임원 선임증",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167380729",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167380729",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#BJ0004",
+      "filename": "별지4_전국협의회 임원 선임증.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지4_전국협의회 임원 선임증.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "02",
+      "kind": "별지",
+      "title": "시도협의회 및 시군구협의회 임원 선임증",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167380733",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167380733",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#BJ0004_02",
+      "filename": "별지4의2_시도협의회 및 시군구협의회 임원 선임증.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지4의2_시도협의회 및 시군구협의회 임원 선임증.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "03",
+      "kind": "별지",
+      "title": "단위봉사회 임원 선임증",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167380737",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167380737",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#BJ0004_03",
+      "filename": "별지4의3_단위봉사회 임원 선임증.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지4의3_단위봉사회 임원 선임증.hwp",
+      "file_store_url": ""
+    }
+  ],
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 5,
+    "by_category": {
+      "학칙공단": 5
+    },
+    "by_relation_type": {
+      "appendix_ref": 5
+    },
     "articles_total": 38,
-    "articles_with_relations": 0,
+    "articles_with_relations": 4,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 24,
+    "addenda_count": 25,
     "appendices_count": 7,
     "attachments_count": 0
   },
@@ -628,5 +1068,8 @@
   "addendum_provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#ADDENDUM",
   "amendment_provision_id": "SchlPubRul:대한적십자사봉사회시행규칙#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "대한적십자사 봉사회 시행규칙/대한적십자사 봉사회 시행규칙.json"
 }
