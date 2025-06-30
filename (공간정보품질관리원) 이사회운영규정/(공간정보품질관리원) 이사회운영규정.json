@@ -1,6 +1,6 @@
 {
   "law_id": "2117147",
-  "mst": "2200000127209",
+  "mst": "2200000150271",
   "law_name": "(공간정보품질관리원) 이사회운영규정",
   "law_abbr": "",
   "law_type": "공단규정",
@@ -8,18 +8,18 @@
   "doc_kind": "공단정관",
   "adm_uid": "pi:2117147",
   "promulgation_no": "9999",
-  "promulgation_date": "20230728",
-  "enforcement_date": "20230728",
-  "revision_date": "20230728",
+  "promulgation_date": "20250630",
+  "enforcement_date": "20250630",
+  "revision_date": "20250630",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
-    "담당부서기관명": "공간정보품질관리원 기획전략본부",
+    "현행여부": "Y",
+    "담당부서기관명": "공간정보품질관리원",
     "담당자명": "최영은",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "(공간정보품질관리원) 이사회운영규정",
-    "발령일자": "20230728",
+    "발령일자": "20250630",
     "행정규칙종류": "공단규정",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,11 +27,11 @@
     "전화번호": "02-6418-9152",
     "제개정구분명": "일부개정",
     "소관부처코드": "B554453",
-    "생성일자": "20251125",
+    "생성일자": "20260615",
     "행정규칙ID": "2117147",
-    "담당부서기관코드": "",
+    "담당부서기관코드": "B554453",
     "발령번호": "9999",
-    "행정규칙일련번호": "2200000127209"
+    "행정규칙일련번호": "2200000150271"
   },
   "amendment_text": "",
   "revision_reason": "",
@@ -112,7 +112,33 @@
         "chapter_path": "",
         "content": "제7조(소집 절차) 원장은 정관 제23조에 따라 이사회를 소집하고자 할 때에는 [별지 제1호서식]에 따라 이사 및 감사에게 이를 통지하여야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "별지 제1호서식",
+            "line_text": "",
+            "target_law_name": "(공간정보품질관리원) 이사회운영규정",
+            "target_article_no": "별지1",
+            "target_article_title": "이사회 소집 통지서",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2117147",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158543409",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(공간정보품질관리원)이사회운영규정#JO0007",
+            "target_unit": "BJ0001",
+            "reference_id": "SchlPubRul:(공간정보품질관리원)이사회운영규정#BJ0001",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(공간정보품질관리원) 이사회운영규정/(공간정보품질관리원) 이사회운영규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:(공간정보품질관리원)이사회운영규정#JO0007"
       },
@@ -123,7 +149,33 @@
         "chapter_path": "",
         "content": "제8조(안건 작성) 이사회에 부의할 안건은 업무소관 부서의 장이 [별지 제2호서식]에 따라 작성하여 회의개최 10일전까지 간사에게 제출하여야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "별지 제2호서식",
+            "line_text": "",
+            "target_law_name": "(공간정보품질관리원) 이사회운영규정",
+            "target_article_no": "별지2",
+            "target_article_title": "안건",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2117147",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158543413",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(공간정보품질관리원)이사회운영규정#JO0008",
+            "target_unit": "BJ0002",
+            "reference_id": "SchlPubRul:(공간정보품질관리원)이사회운영규정#BJ0002",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(공간정보품질관리원) 이사회운영규정/(공간정보품질관리원) 이사회운영규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:(공간정보품질관리원)이사회운영규정#JO0008"
       },
@@ -145,7 +197,33 @@
         "chapter_path": "",
         "content": "제10조(서면결의) 정관 제28조에 따라 서면결의를 하고자 할 경우에는 [별지 제3호서식] 에 따라 이사 및 감사에게 이를 통지하여야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제10조",
+            "source_clause": "제10조",
+            "link_text": "별지 제3호서식",
+            "line_text": "",
+            "target_law_name": "(공간정보품질관리원) 이사회운영규정",
+            "target_article_no": "별지3",
+            "target_article_title": "서면이사회통지서",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2117147",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158543417",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(공간정보품질관리원)이사회운영규정#JO0010",
+            "target_unit": "BJ0003",
+            "reference_id": "SchlPubRul:(공간정보품질관리원)이사회운영규정#BJ0003",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(공간정보품질관리원) 이사회운영규정/(공간정보품질관리원) 이사회운영규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:(공간정보품질관리원)이사회운영규정#JO0010"
       },
@@ -156,7 +234,33 @@
         "chapter_path": "",
         "content": "제11조(회의록 작성 등) ① 정관 제27조에 따른 이사회의 회의록은 [별지 제4호서식] 에 따라 간사가 이를 작성한다.② 이사회에 부의된 안건, 회의록 및 그 밖에 관련서류는 영구보존하여야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제1항",
+            "link_text": "별지 제4호서식",
+            "line_text": "",
+            "target_law_name": "(공간정보품질관리원) 이사회운영규정",
+            "target_article_no": "별지4",
+            "target_article_title": "(정기, 임시) 이사회 회의록",
+            "appendix_no": "4",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2117147",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158543423",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(공간정보품질관리원)이사회운영규정#JO0011",
+            "target_unit": "BJ0004",
+            "reference_id": "SchlPubRul:(공간정보품질관리원)이사회운영규정#BJ0004",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(공간정보품질관리원) 이사회운영규정/(공간정보품질관리원) 이사회운영규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:(공간정보품질관리원)이사회운영규정#JO0011"
       },
@@ -165,7 +269,7 @@
         "article_title": "근로자 이사회 참관",
         "chapter": "",
         "chapter_path": "",
-        "content": "제12조(근로자 이사회 참관) ① 이사회는 3년 이상 재직한 근로자 중 1인을 이사회에 참관하게 할 수 있다.② 제1항에 따라 근로자 참관인은 의장의 동의를 얻어 발언할 수 있으나, 안건의 심의ㆍ의결에 참여할 수 없다.③ 근로자 참관인은 비상임 이사에 준하는 비밀유지의 의무를 가진다. [본조신설 2023. 7. 28.][종전 제12조는 제13조로 이동 <2023. 7. 28.>]",
+        "content": "제12조(근로자 이사회 참관) ① 이사회는 3년 이상 재직한 근로자 중 1인을 이사회에 참관하게 할 수 있다.② 제1항에 따라 근로자 참관인은 의장의 동의를 얻어 발언할 수 있으나, 안건의 심의ㆍ의결에 참여할 수 없다.③ 근로자 참관인은 비상임 이사에 준하는 비밀유지의 의무를 가진다.[본조신설 2023. 7. 28.][종전 제12조는 제13조로 이동 <2023. 7. 28.>]",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -189,28 +293,154 @@
       "promulgation_date": "20200429",
       "promulgation_no": "00001",
       "content": "부칙 <제1호,2020.4.29>① (시행일) 이 규정은 국토지리정보원장의 승인된 날로부터 시행한다.",
-      "provision_id": "SchlPubRul:(공간정보품질관리원)이사회운영규정#ADDENDUM"
+      "provision_id": "SchlPubRul:(공간정보품질관리원)이사회운영규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000150271",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250630"
     },
     {
       "promulgation_date": "20230728",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2023.07.28.>제1조(시행일) 이 규정은 국토지리정보원장이 승인한 날로부터 시행한다.(2023. 7. 28.)",
-      "provision_id": "SchlPubRul:(공간정보품질관리원)이사회운영규정#ADDENDUM"
+      "provision_id": "SchlPubRul:(공간정보품질관리원)이사회운영규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000150271",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250630"
+    },
+    {
+      "promulgation_date": "20250630",
+      "promulgation_no": "9999",
+      "content": "부칙 <제9999호, 2025.06.30.>제1조(시행일) 이 규정은 2025년 6월 30일부터 시행한다.",
+      "provision_id": "SchlPubRul:(공간정보품질관리원)이사회운영규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000150271",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250630"
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "이사회 소집 통지서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158543409",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158543409",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:(공간정보품질관리원)이사회운영규정#BJ0001",
+      "filename": "별지1_이사회 소집 통지서.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지1_이사회 소집 통지서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "안건",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158543413",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158543413",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:(공간정보품질관리원)이사회운영규정#BJ0002",
+      "filename": "별지2_안건.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지2_안건.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "서면이사회통지서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158543417",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158543417",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:(공간정보품질관리원)이사회운영규정#BJ0003",
+      "filename": "별지3_서면이사회통지서.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지3_서면이사회통지서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별지",
+      "title": "(정기, 임시) 이사회 회의록",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158543423",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158543423",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:(공간정보품질관리원)이사회운영규정#BJ0004",
+      "filename": "별지4_(정기, 임시) 이사회 회의록.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지4_(정기, 임시) 이사회 회의록.hwp",
+      "file_store_url": ""
+    }
+  ],
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 4,
+    "by_category": {
+      "학칙공단": 4
+    },
+    "by_relation_type": {
+      "appendix_ref": 4
+    },
     "articles_total": 13,
-    "articles_with_relations": 0,
+    "articles_with_relations": 4,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 2,
+    "addenda_count": 3,
     "appendices_count": 4,
     "attachments_count": 0
   },
@@ -221,5 +451,8 @@
   "addendum_provision_id": "SchlPubRul:(공간정보품질관리원)이사회운영규정#ADDENDUM",
   "amendment_provision_id": "SchlPubRul:(공간정보품질관리원)이사회운영규정#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "(공간정보품질관리원) 이사회운영규정/(공간정보품질관리원) 이사회운영규정.json"
 }
