@@ -1,6 +1,6 @@
 {
   "law_id": "2134659",
-  "mst": "2200000141095",
+  "mst": "2200000149125",
   "law_name": "(한국연구재단) 정보공개운영규칙",
   "law_abbr": "",
   "law_type": "공단규정",
@@ -8,18 +8,18 @@
   "doc_kind": "공단정관",
   "adm_uid": "pi:2134659",
   "promulgation_no": "9999",
-  "promulgation_date": "20241122",
-  "enforcement_date": "20241122",
-  "revision_date": "20241122",
+  "promulgation_date": "20250709",
+  "enforcement_date": "20250709",
+  "revision_date": "20250709",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "한국연구재단",
     "담당자명": "",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "(한국연구재단) 정보공개운영규칙",
-    "발령일자": "20241122",
+    "발령일자": "20250709",
     "행정규칙종류": "공단규정",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,11 +27,11 @@
     "전화번호": "042-869-6517",
     "제개정구분명": "일부개정",
     "소관부처코드": "B552540",
-    "생성일자": "20251024",
+    "생성일자": "20260422",
     "행정규칙ID": "2134659",
     "담당부서기관코드": "B552540",
     "발령번호": "9999",
-    "행정규칙일련번호": "2200000141095"
+    "행정규칙일련번호": "2200000149125"
   },
   "amendment_text": "",
   "revision_reason": "",
@@ -44,9 +44,50 @@
         "article_title": "목적",
         "chapter": "제1장 총칙",
         "chapter_path": "제1장 총칙",
-        "content": "제1조(목적) 이 규칙은 「공공기관의 정보공개에 관한 법률」 (이하 \"법\"이라 한다), 같은 법 시행령(이하 \"영\"이라 한다) 및 동법 시행령(이하 \"영\"이라 한다)에 따라 기관이 보유ㆍ관리하고 있는 정보에 대한 국민의 청구 및 공공기관의 공개 의무에 관하여 필요한 사항을 정함으로써 국민의 알권리를 보장하고 기관의 투명성을 확보함을 목적으로 한다. <개정 2021. 08. 12.>",
+        "content": "제1조(목적) 이 규칙은 「공공기관의 정보공개에 관한 법률」 (이하 \"법\"이라 한다), 같은 법 시행령(이하 \"영\"이라 한다) 및 동법 시행령에 따라 기관이 보유ㆍ관리하고 있는 정보에 대한 국민의 청구 및 공공기관의 공개 의무에 관하여 필요한 사항을 정함으로써 국민의 알권리를 보장하고 기관의 투명성을 확보함을 목적으로 한다. <개정 2021. 08. 12.>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "같은 법 시행령",
+            "line_text": "",
+            "target_law_name": "공공기관의 정보공개에 관한 법률 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2134659",
+            "target_url": "https://www.law.go.kr/법령/공공기관의 정보공개에 관한 법률 시행령",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(한국연구재단)정보공개운영규칙#JO0001",
+            "reference_id": "law:공공기관의정보공개에관한법률시행령#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "동법 시행령",
+            "line_text": "",
+            "target_law_name": "공공기관의 정보공개에 관한 법률 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2134659",
+            "target_url": "https://www.law.go.kr/법령/공공기관의 정보공개에 관한 법률 시행령",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(한국연구재단)정보공개운영규칙#JO0001",
+            "reference_id": "law:공공기관의정보공개에관한법률시행령#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:(한국연구재단)정보공개운영규칙#JO0001"
       },
@@ -66,7 +107,7 @@
         "article_title": "정보공개 주관부서, 처리부서",
         "chapter": "제1장 총칙",
         "chapter_path": "제1장 총칙",
-        "content": "제3조(정보공개 주관부서, 처리부서) ① 이사장은 정보공개청구의 효율적 관리를 위하여 재단 하부조직설치 및 사무분장규칙에 따라 운영지원팀을 정보공개 주관부서로 지정한다. <개정 2010. 08. 19., 2014. 12. 31., 2021. 08. 12.>② 정보공개 주관부서는 해당 정보를 생산ㆍ보유ㆍ관리하고 있거나 유사한 업무를 담당하는 부서를 정보공개 처리부서로 지정한다.",
+        "content": "제3조(정보공개 주관부서, 처리부서) ① 이사장은 정보공개청구의 효율적 관리를 위하여 재단 하부조직설치 및 사무분장규칙에 따라 구매자산팀을 정보공개 주관부서로 지정한다. <개정 2010. 08. 19., 2014. 12. 31., 2021. 08. 12., 2025. 07. 09.>② 정보공개 주관부서는 해당 정보를 생산ㆍ보유ㆍ관리하고 있거나 유사한 업무를 담당하는 부서를 정보공개 처리부서로 지정한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -101,7 +142,48 @@
         "chapter_path": "제2장 행정정보의 공표 등",
         "content": "제6조(비공개 대상정보의 기준) ① 정보공개 처리부서장은 법 제9조제1항 각 호에 따라 비공개 대상정보의 세부기준을 정하고 정보공개업무를 집행하여야 한다. <개정 2016. 10. 23.>② 재단에서 운영하는 비공개 세부기준은 [별표]를 따른다. <신설 2016. 10. 23.>③ 재단은 비공개 대상정보의 세부기준을 수립하고, 이를 정보통신망 등을 통해 공개하여야 한다. <신설 2021. 08. 12.>④ 재단은 관련 법에 따라 비공개 세부기준의 현행성을 정기적으로 점검하여야 한다. <신설 2021. 08. 12.>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제1항",
+            "link_text": "법",
+            "line_text": "",
+            "target_law_name": "공공기관의 정보공개에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2134659",
+            "target_url": "https://www.law.go.kr/법령/공공기관의 정보공개에 관한 법률",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(한국연구재단)정보공개운영규칙#JO0006",
+            "reference_id": "law:공공기관의정보공개에관한법률#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제1항",
+            "link_text": "제9조제1항",
+            "line_text": "",
+            "target_law_name": "공공기관의 정보공개에 관한 법률",
+            "target_article_no": "제9조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2134659",
+            "target_url": "https://www.law.go.kr/법령/공공기관의 정보공개에 관한 법률/제9조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(한국연구재단)정보공개운영규칙#JO0006",
+            "reference_id": "law:공공기관의정보공개에관한법률#JO0009",
+            "target_repo": "LAW",
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:(한국연구재단)정보공개운영규칙#JO0006"
       },
@@ -154,7 +236,7 @@
         "article_title": "위원의 제척ㆍ기피ㆍ회피",
         "chapter": "제3장 정보공개심의회",
         "chapter_path": "제3장 정보공개심의회",
-        "content": "제10조의2(위원의 제척ㆍ기피ㆍ회피) ① 심의회 위원이 다음 각 호의 어느 하나에 해당할 경우 심의에서 제척(除斥)한다.1. 위원 또는 위원의 배우자나 배우자였던 사람이 해당 심의사항의 당사자이거나 그 심의사항의 당사자와 공동권리자 또는 공동의무자인 경우2. 위원이 해당 심의사항의 당사자와 친족이거나 친족이었던 경우3. 위원이 해당 심의사항에 대하여 증언, 진술, 자문, 연구, 용역 또는 감정을 한 경우4. 위원이나 위원이 속한 법인ㆍ단체 등이 해당 심의사항의 당사자의 대리인이거나 대리인이었던 경우② 심의사항의 당사자가 특정 위원에게 공정한 심의를 기대하기 어려울 경우 심의회에 기피(忌避) 신청을 할 수 있다. 기피 신청이 접수되면 심의회는 의결로 기피 여부를 결정하여야 하며, 이때 기피 신청의 대상인 위원은 그 의결에 참여할 수 없다.③ 위원은 제1항 각 호에 따른 제척 사유에 해당하는 경우에는 심의회에 그 사실을 알리고 스스로 해당 안건의 심의에서 회피(回避)하여야 한다.④ 위원이 제1항 각 호의 어느 하나에 해당함에도 불구하고 회피신청을 하지 아니하여 심의의 공정성을 해친 경우 이사장은 해당 위원을 해촉하거나 해임할 수 있다.⑤ 심의사항의 당사자가 법인ㆍ단체인 경우 위원과 당사자의 관계에 따른 제척ㆍ기피ㆍ회피 대상은 해당 법인ㆍ단체에 소속된 임직원으로 한다.[본조신설 2021. 08. 12.]",
+        "content": "제10조의2(위원의 제척ㆍ기피ㆍ회피) ① 심의회 위원이 다음 각 호의 어느 하나에 해당할 경우 심의에서 제척(除斥)한다.1. 위원 또는 위원의 배우자나 배우자였던 사람이 해당 심의사항의 당사자이거나 그 심의사항의 당사자와 공동권리자 또는 공동의무자인 경우2. 위원이 해당 심의사항의 당사자와 친족이거나 친족이었던 경우3. 위원이 해당 심의사항에 대하여 증언, 진술, 자문, 연구, 용역 또는 감정을 한 경우4. 위원이나 위원이 속한 법인ㆍ단체 등이 해당 심의사항의 당사자의 대리인이거나 대리인이었던 경우② 심의사항의 당사자가 특정 위원에게 공정한 심의를 기대하기 어려울 경우 심의회에 기피(忌避) 신청을 할 수 있다. 기피 신청이 접수되면 심의회는 의결로 기피 여부를 결정하여야 하며, 이때 기피 신청의 대상인 위원은 그 의결에 참여할 수 없다.③ 위원은 제1항 각 호에 따른 제척 사유에 해당하는 경우에는 심의회에 그 사실을 알리고 스스로 해당 안건의 심의에서 회피(回避)하여야 한다.④ 위원이 제1항 각 호의 어느 하나에 해당함에도 불구하고 회피신청을 하지 아니하여 심의의 공정성을 해친 경우 이사장은 해당 위원을 해촉하거나 해임할 수 있다.⑤심의사항의 당사자가 법인ㆍ단체인 경우 위원과 당사자의 관계에 따른 제척ㆍ기피ㆍ회피 대상은 해당 법인ㆍ단체에 소속된 임직원으로 한다.[본조신설 2021. 08. 12.]",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -200,7 +282,48 @@
         "chapter_path": "제4장 정보공개 결정 및 방법",
         "content": "제14조(제3자의 의견청취) ① 법 제11조제3항에 따른 제3자의 의견청취는 서면에 따른다. 다만, 정보공개 처리부서장이 필요하다고 인정한 때와 제3자가 원할 때는 구술로 할 수 있다. <개정 2015. 11. 17.>② 제1항 단서 규정에 따라 구술로 의견을 청취한 담당 직원은 구술내용을 기록하고 본인의 확인을 받아야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제1항",
+            "link_text": "법",
+            "line_text": "",
+            "target_law_name": "공공기관의 정보공개에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2134659",
+            "target_url": "https://www.law.go.kr/법령/공공기관의 정보공개에 관한 법률",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(한국연구재단)정보공개운영규칙#JO0014",
+            "reference_id": "law:공공기관의정보공개에관한법률#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제1항",
+            "link_text": "제11조제3항",
+            "line_text": "",
+            "target_law_name": "공공기관의 정보공개에 관한 법률",
+            "target_article_no": "제11조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2134659",
+            "target_url": "https://www.law.go.kr/법령/공공기관의 정보공개에 관한 법률/제11조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(한국연구재단)정보공개운영규칙#JO0014",
+            "reference_id": "law:공공기관의정보공개에관한법률#JO0011",
+            "target_repo": "LAW",
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:(한국연구재단)정보공개운영규칙#JO0014"
       },
@@ -244,7 +367,28 @@
         "chapter_path": "제5장 보칙",
         "content": "제18조(징계) 다음 각 호의 어느 하나에 해당하는 사람은 재단 징계규정 제8조에 따라 징계할 수 있다. <신설 2013. 12. 31., 2015. 11. 17., 2016. 10. 23.>1. 의도적으로 거짓 정보를 청구인에게 제공한 사람2. 명확한 사유 없이 제공해야 할 정보를 숨긴 사람3. 정보공개 청구인이 불복할 경우, 그 절차에 따른 의무를 이행하지 않은 사람",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제18조",
+            "source_clause": "제18조",
+            "link_text": "제8조",
+            "line_text": "",
+            "target_law_name": "(한국연구재단) 정보공개운영규칙",
+            "target_article_no": "제8조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2134659",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국연구재단) 정보공개운영규칙/제8조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(한국연구재단)정보공개운영규칙#JO0018",
+            "reference_id": "SchlPubRul:(한국연구재단)정보공개운영규칙#JO0008",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(한국연구재단) 정보공개운영규칙/(한국연구재단) 정보공개운영규칙.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:(한국연구재단)정보공개운영규칙#JO0018"
       }
@@ -255,76 +399,169 @@
       "promulgation_date": "20090913",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2009.09.13.>① (시행일) 이 규칙은 이사장이 승인한 날부터 시행한다.② (경과조치) 이 규칙의 시행일 이전에 시행된 사항은 이 규칙에 따라 시행된 것으로 본다.",
-      "provision_id": "SchlPubRul:(한국연구재단)정보공개운영규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:(한국연구재단)정보공개운영규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000149125",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250709"
     },
     {
       "promulgation_date": "20091215",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2009.12.15.>① (시행일) 이 규칙은 이사장이 승인한 날부터 시행한다.② (경과조치) 이 규칙의 시행일 이전에 시행된 사항은 이 규칙에 따라 시행된 것으로 본다.",
-      "provision_id": "SchlPubRul:(한국연구재단)정보공개운영규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:(한국연구재단)정보공개운영규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000149125",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250709"
     },
     {
       "promulgation_date": "20100819",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2010.08.19.>이 규칙은 2010년 9월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:(한국연구재단)정보공개운영규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:(한국연구재단)정보공개운영규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000149125",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250709"
     },
     {
       "promulgation_date": "20131231",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2013.12.31.>① (시행일) 이 규칙은 이사장이 승인한 날부터 시행한다.② (경과조치) 이 규칙의 시행일 이전에 시행된 사항은 이 규칙에 따라 시행된 것으로 본다.",
-      "provision_id": "SchlPubRul:(한국연구재단)정보공개운영규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:(한국연구재단)정보공개운영규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000149125",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250709"
     },
     {
       "promulgation_date": "20141231",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2014.12.31.>이 규칙은 2015년 1월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:(한국연구재단)정보공개운영규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:(한국연구재단)정보공개운영규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000149125",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250709"
     },
     {
       "promulgation_date": "20151117",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2015.11.17.>이 규칙은 이사장이 승인한 날부터 시행한다.",
-      "provision_id": "SchlPubRul:(한국연구재단)정보공개운영규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:(한국연구재단)정보공개운영규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000149125",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250709"
     },
     {
       "promulgation_date": "20161023",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2016.10.23.>이 규칙은 이사장이 승인한 날부터 시행한다.",
-      "provision_id": "SchlPubRul:(한국연구재단)정보공개운영규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:(한국연구재단)정보공개운영규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000149125",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250709"
     },
     {
       "promulgation_date": "20181127",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2018.11.27.>이 규칙은 2018년 12월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:(한국연구재단)정보공개운영규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:(한국연구재단)정보공개운영규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000149125",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250709"
     },
     {
       "promulgation_date": "20210812",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2021.08.12.>이 규칙은 이사장이 승인한 날부터 시행한다.",
-      "provision_id": "SchlPubRul:(한국연구재단)정보공개운영규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:(한국연구재단)정보공개운영규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000149125",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250709"
     },
     {
       "promulgation_date": "20241122",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2024.11.22.>이 규칙은 이사장이 승인한 날부터 시행한다.",
-      "provision_id": "SchlPubRul:(한국연구재단)정보공개운영규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:(한국연구재단)정보공개운영규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000149125",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250709"
+    },
+    {
+      "promulgation_date": "20250709",
+      "promulgation_no": "9999",
+      "content": "부칙 <제9999호, 2025.07.09.>이 규칙은 이사장이 승인한 날부터 시행한다.",
+      "provision_id": "SchlPubRul:(한국연구재단)정보공개운영규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000149125",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250709"
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "별표",
+      "title": "재단 비공개 세부기준",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163665735",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163665735",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:(한국연구재단)정보공개운영규칙#BYL0000",
+      "filename": "별표0_재단 비공개 세부기준.hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표0_재단 비공개 세부기준.hwp",
+      "file_store_url": ""
+    }
+  ],
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 7,
+    "by_category": {
+      "법령": 6,
+      "학칙공단": 1
+    },
+    "by_relation_type": {
+      "citation": 6,
+      "internal_ref": 1
+    },
     "articles_total": 19,
-    "articles_with_relations": 0,
+    "articles_with_relations": 4,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 10,
+    "addenda_count": 11,
     "appendices_count": 1,
     "attachments_count": 0
   },
@@ -335,5 +572,8 @@
   "addendum_provision_id": "SchlPubRul:(한국연구재단)정보공개운영규칙#ADDENDUM",
   "amendment_provision_id": "SchlPubRul:(한국연구재단)정보공개운영규칙#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "(한국연구재단) 정보공개운영규칙/(한국연구재단) 정보공개운영규칙.json"
 }
