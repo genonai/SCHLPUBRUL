@@ -1,25 +1,25 @@
 {
   "law_id": "2125073",
-  "mst": "2200000132715",
+  "mst": "2200000156835",
   "law_name": "경북대학교 학력증명서 발급 지침",
   "law_abbr": "",
   "law_type": "학교지침",
   "doc_target": "school",
   "doc_kind": "학칙",
   "adm_uid": "school:2125073",
-  "promulgation_no": "1008",
-  "promulgation_date": "20240614",
-  "enforcement_date": "20240614",
-  "revision_date": "20240614",
+  "promulgation_no": "1083",
+  "promulgation_date": "20250711",
+  "enforcement_date": "20250711",
+  "revision_date": "20250711",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
     "현행여부": "Y",
     "담당부서기관명": "경북대학교",
-    "담당자명": "박민성",
+    "담당자명": "오지훈",
     "행정규칙종류코드": "B0028",
     "행정규칙명": "경북대학교 학력증명서 발급 지침",
-    "발령일자": "20240614",
+    "발령일자": "20250711",
     "행정규칙종류": "학교지침",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,14 +27,14 @@
     "전화번호": "053-950-2565",
     "제개정구분명": "일부개정",
     "소관부처코드": "7000126",
-    "생성일자": "20240807",
+    "생성일자": "20261023",
     "행정규칙ID": "2125073",
     "담당부서기관코드": "7000126",
-    "발령번호": "1008",
-    "행정규칙일련번호": "2200000132715"
+    "발령번호": "1083",
+    "행정규칙일련번호": "2200000156835"
   },
-  "amendment_text": "경북대학교 학력증명서 발급 지침을 다음과 같이 일부개정함\n(주요내용)\n가. 휴학 중인 자를 대상으로 발급하는 휴학증명서 변경 및 추가 (안 제2조, 제5조의2, 제14조)\n나. 학력증명서 발급의 명의 관련 중복내용 삭제 및 정비 (안 제3조)\n다. 학사학위취득 유예생의 증명서 발급 추가 (안 제5조)\n라. 재적증명 내용 및 한자 삭제 (안 제7조)\n마. 각종 증명서 현행화 : 용어 변경(재적 → 휴학), 다전공(연계, 융합, 부) 표기 등\n\n[그림]\n구분\n증명서 종류\n반영 내용\n국문\n재학증명서(대학)<별지 1호 서식>\n학적사항(유예) 추가\n휴학증명서(대학)<별지 5호 서식>\n용어 변경(재적 → 휴학)\n휴학증명서(대학원)<별지 5-1호 서식>\n대학원 수료예정증명서<별지 8-1호 서식>\n융합전공 추가\n대학원 수료증명서<별지 9-1호 서식>\n졸업예정증명서(대학)<별지 10호 서식>\n융합전공, 부전공 추가\n졸업예정증명서(대학원)<별지 11호 서식>\n융합전공 추가\n졸업증명서(대학)<별지 12호 서식>\n연계전공, 융합전공, 학위 추가\n졸업증명서(대학원)<별지 13호 서식>\n융합전공, 학위 추가\n학위증명서<별지 28호 서식>\n연계전공, 융합전공 추가\n영문\n대학(원) 영문 재학증명서<별지 18호 서식>\n- 증명서명 정비\n- 용어 변경(재적 → 휴학)\n- 전공, 다전공 추가\n- 학위과정, 학과명 등 중복된 영문 변경(위의 사실을 증명합니다. - This is to certify that the above-mentioned is true and correct.)\n대학(원) 영문 휴학증명서<별지 21호 서식>\n대학(원) 영문 제적증명서<별지 22호 서식>\n대학원 영문 수료예정증명서<별지 23호 서식>\n대학원 영문 수료증명서<별지 24호 서식>\n대학(원) 영문 졸업예정증명서<별지 25호 서식>\n대학(원) 영문 졸업증명서<별지 26호 서식>\n대학 영문 성적증명서<별지 19호 서식>\n용어 정비 및 위치 변경\n대학원 영문 성적증명서<별지 19호 서식>\n",
-  "revision_reason": "(개정사유)\n- 휴학 중인 자를 대상으로 발급하는 증명서에 대하여 명확한 용어 사용\n- 각종 증명서에 표기되는 내용(융합전공, 연계전공, 영문 등)의 현행화",
+  "amendment_text": "경북대학교 학력증명서 발급 지침을 다음과 같이 일부개정함\n(주요내용)\n○ 휴학증명서 내 재적학년 추가\n- 제5조의 2(휴학증명) 및 별지 5호 서식",
+  "revision_reason": "(개정사유)\n○ 국가기술자격 시험 응시를 위해 제출하는 증명서(재학 또는 휴학) 상에 학년 명시가 요구되어 휴학증명서 내 재적학년 추가 표기",
   "body": {
     "format": "articles",
     "article_count": 16,
@@ -66,7 +66,7 @@
         "article_title": "학력증명서 발급의 명의",
         "chapter": "",
         "chapter_path": "",
-        "content": "제3조(학력증명서 발급의 명의) ① 학력증명서는 총장 명의로 발급한다. <개정 2024. 6. 14.>② 대학 및 대학원(전문·특수대학원 포함) 재적생의 학력증명서는 소속 대학(원)장 명의로 발급할 수 있다. 다만, 복수전공이수자의 복수전공 학과(부)에 국한된 성적증명서, 졸업예정증명서는 복수전공대학장 명의로 발급할 수 있다. <개정 2024. 6. 14.>③ <삭제 2024. 6. 14.>",
+        "content": "제3조(학력증명서 발급의 명의) ① 학력증명서는 총장 명의로 발급한다. <개정 2024. 6. 14.>② 대학 및 대학원(전문ㆍ특수대학원 포함) 재적생의 학력증명서는 소속 대학(원)장 명의로 발급할 수 있다. 다만, 복수전공이수자의 복수전공 학과(부)에 국한된 성적증명서, 졸업예정증명서는 복수전공대학장 명의로 발급할 수 있다. <개정 2024. 6. 14.>③ <삭제 2024. 6. 14.>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -99,7 +99,7 @@
         "article_title": "휴학증명",
         "chapter": "",
         "chapter_path": "",
-        "content": "제5조의2(휴학증명) ① 휴학 중인 자를 대상으로 한다.② 휴학자의 휴학증명은 휴학기간을 명기한다.[본조신설 2024. 6. 14.]",
+        "content": "제5조의2(휴학증명) ① 휴학 중인 자를 대상으로 한다.② 휴학자의 휴학증명은 휴학기간 및 재적학년을 명기한다. <개정 2025. 7. 11.>[본조신설 2024. 6. 14.]",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -187,7 +187,7 @@
         "article_title": "건축학교육인증프로그램 이수증명서",
         "chapter": "",
         "chapter_path": "",
-        "content": "제13조(건축학교육인증프로그램 이수증명서) 본교 건축·토목공학부 건축학전공 및 건축학부 건축학전공에서 건축학교육인증프로그램을 이수한 자를 대상으로 한다.\n제13조의 2(공동학위과정 이수증명서) 「경북대학교와 국내·외 대학간 공동학위 및 복수학위과정 운영에 관한 규정」에 따라 공동학위과정을 이수한 자를 대상으로 한다.[본조신설 2021. 2. 10.]",
+        "content": "제13조(건축학교육인증프로그램 이수증명서) 본교 건축ㆍ토목공학부 건축학전공 및 건축학부 건축학전공에서 건축학교육인증프로그램을 이수한 자를 대상으로 한다.\n제13조의 2(공동학위과정 이수증명서) 「경북대학교와 국내ㆍ외 대학간 공동학위 및 복수학위과정 운영에 관한 규정」에 따라 공동학위과정을 이수한 자를 대상으로 한다.[본조신설 2021. 2. 10.]",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -221,13 +221,13 @@
     {
       "promulgation_date": "20240614",
       "promulgation_no": "01008",
-      "content": "부칙 <제1008호,2024.6.14>이 예규는 공포한 날부터 시행한다.",
+      "content": "부칙 <제199호>이 원칙은 1997학년도부터 시행한다.부칙 <제421호>이 예규는 공포한 날부터 시행한다.부칙 <제556호>이 예규는 공포한 날부터 시행한다.부칙 <제727호, 2019. 4. 1>이 예규는 공포한 날부터 시행한다.부칙 <제818호, 2021. 2. 10>이 예규는 공포한 날부터 시행한다.부칙 <제928호, 2022. 10. 7>이 예규는 공포한 날부터 시행한다.부칙 <제987호, 2024. 1. 29>이 예규는 공포한 날부터 시행한다.부칙 <제1008호, 2024. 6. 14>이 예규는 공포한 날부터 시행한다.부칙 <제1083호, 2025. 7. 11>",
       "provision_id": "SchlPubRul:경북대학교학력증명서발급지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000132715",
+      "source_mst": "2200000156835",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20240614"
+      "version_enforcement_date": "20250711"
     }
   ],
   "appendices": [
@@ -240,11 +240,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=143384243",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852177",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=143384243",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852177",
           "name": "",
           "file_store_url": ""
         }
@@ -254,6 +254,856 @@
       "filename": "별지1_별지.hwp",
       "file_dir": "별지",
       "local_path": "별지/별지1_별지.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "별지",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852183",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852183",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:경북대학교학력증명서발급지침#BJ0002",
+      "filename": "별지2_별지.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지2_별지.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "별지",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852189",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852189",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:경북대학교학력증명서발급지침#BJ0003",
+      "filename": "별지3_별지.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지3_별지.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별지",
+      "title": "별지",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852195",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852195",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:경북대학교학력증명서발급지침#BJ0004",
+      "filename": "별지4_별지.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지4_별지.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0005",
+      "branch": "00",
+      "kind": "별지",
+      "title": "별지",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852201",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852201",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:경북대학교학력증명서발급지침#BJ0005",
+      "filename": "별지5_별지.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지5_별지.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0005",
+      "branch": "01",
+      "kind": "별지",
+      "title": "별지",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852209",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852209",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:경북대학교학력증명서발급지침#BJ0005_01",
+      "filename": "별지5의1_별지.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지5의1_별지.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0006",
+      "branch": "00",
+      "kind": "별지",
+      "title": "별지",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852217",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852217",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:경북대학교학력증명서발급지침#BJ0006",
+      "filename": "별지6_별지.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지6_별지.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0007",
+      "branch": "00",
+      "kind": "별지",
+      "title": "별지",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852223",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852223",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:경북대학교학력증명서발급지침#BJ0007",
+      "filename": "별지7_별지.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지7_별지.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0008",
+      "branch": "00",
+      "kind": "별지",
+      "title": "별지",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852229",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852229",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:경북대학교학력증명서발급지침#BJ0008",
+      "filename": "별지8_별지.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지8_별지.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0008",
+      "branch": "01",
+      "kind": "별지",
+      "title": "별지",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852235",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852235",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:경북대학교학력증명서발급지침#BJ0008_01",
+      "filename": "별지8의1_별지.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지8의1_별지.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0009",
+      "branch": "00",
+      "kind": "별지",
+      "title": "별지",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852243",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852243",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:경북대학교학력증명서발급지침#BJ0009",
+      "filename": "별지9_별지.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지9_별지.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0009",
+      "branch": "01",
+      "kind": "별지",
+      "title": "별지",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852249",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852249",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:경북대학교학력증명서발급지침#BJ0009_01",
+      "filename": "별지9의1_별지.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지9의1_별지.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0010",
+      "branch": "00",
+      "kind": "별지",
+      "title": "별지",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852257",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852257",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:경북대학교학력증명서발급지침#BJ0010",
+      "filename": "별지10_별지.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지10_별지.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0011",
+      "branch": "00",
+      "kind": "별지",
+      "title": "별지",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852265",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852265",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:경북대학교학력증명서발급지침#BJ0011",
+      "filename": "별지11_별지.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지11_별지.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0012",
+      "branch": "00",
+      "kind": "별지",
+      "title": "별지",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852271",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852271",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:경북대학교학력증명서발급지침#BJ0012",
+      "filename": "별지12_별지.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지12_별지.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0013",
+      "branch": "00",
+      "kind": "별지",
+      "title": "별지",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852279",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852279",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:경북대학교학력증명서발급지침#BJ0013",
+      "filename": "별지13_별지.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지13_별지.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0014",
+      "branch": "00",
+      "kind": "별지",
+      "title": "별지",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852287",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852287",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:경북대학교학력증명서발급지침#BJ0014",
+      "filename": "별지14_별지.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지14_별지.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0015",
+      "branch": "00",
+      "kind": "별지",
+      "title": "별지",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852293",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852293",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:경북대학교학력증명서발급지침#BJ0015",
+      "filename": "별지15_별지.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지15_별지.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0016",
+      "branch": "00",
+      "kind": "별지",
+      "title": "별지",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852299",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852299",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:경북대학교학력증명서발급지침#BJ0016",
+      "filename": "별지16_별지.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지16_별지.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0017",
+      "branch": "00",
+      "kind": "별지",
+      "title": "별지",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852305",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852305",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:경북대학교학력증명서발급지침#BJ0017",
+      "filename": "별지17_별지.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지17_별지.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0018",
+      "branch": "00",
+      "kind": "별지",
+      "title": "별지",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852311",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852311",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:경북대학교학력증명서발급지침#BJ0018",
+      "filename": "별지18_별지.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지18_별지.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0019",
+      "branch": "00",
+      "kind": "별지",
+      "title": "별지",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852317",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852317",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:경북대학교학력증명서발급지침#BJ0019",
+      "filename": "별지19_별지.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지19_별지.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0020",
+      "branch": "00",
+      "kind": "별지",
+      "title": "별지",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852321",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852321",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:경북대학교학력증명서발급지침#BJ0020",
+      "filename": "별지20_별지.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지20_별지.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0021",
+      "branch": "00",
+      "kind": "별지",
+      "title": "별지",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852325",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852325",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:경북대학교학력증명서발급지침#BJ0021",
+      "filename": "별지21_별지.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지21_별지.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0022",
+      "branch": "00",
+      "kind": "별지",
+      "title": "별지",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852331",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852331",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:경북대학교학력증명서발급지침#BJ0022",
+      "filename": "별지22_별지.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지22_별지.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0023",
+      "branch": "00",
+      "kind": "별지",
+      "title": "별지",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852337",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852337",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:경북대학교학력증명서발급지침#BJ0023",
+      "filename": "별지23_별지.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지23_별지.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0024",
+      "branch": "00",
+      "kind": "별지",
+      "title": "별지",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852345",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852345",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:경북대학교학력증명서발급지침#BJ0024",
+      "filename": "별지24_별지.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지24_별지.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0025",
+      "branch": "00",
+      "kind": "별지",
+      "title": "별지",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852353",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852353",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:경북대학교학력증명서발급지침#BJ0025",
+      "filename": "별지25_별지.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지25_별지.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0026",
+      "branch": "00",
+      "kind": "별지",
+      "title": "별지",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852359",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852359",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:경북대학교학력증명서발급지침#BJ0026",
+      "filename": "별지26_별지.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지26_별지.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0027",
+      "branch": "00",
+      "kind": "별지",
+      "title": "별지",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852367",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852367",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:경북대학교학력증명서발급지침#BJ0027",
+      "filename": "별지27_별지.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지27_별지.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0028",
+      "branch": "00",
+      "kind": "별지",
+      "title": "별지",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852373",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852373",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:경북대학교학력증명서발급지침#BJ0028",
+      "filename": "별지28_별지.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지28_별지.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0029",
+      "branch": "00",
+      "kind": "별지",
+      "title": "별지",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852377",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852377",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:경북대학교학력증명서발급지침#BJ0029",
+      "filename": "별지29_별지.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지29_별지.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0029",
+      "branch": "01",
+      "kind": "별지",
+      "title": "별지",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852381",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852381",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:경북대학교학력증명서발급지침#BJ0029_01",
+      "filename": "별지29의1_별지.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지29의1_별지.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0030",
+      "branch": "00",
+      "kind": "별지",
+      "title": "별지",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852385",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852385",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:경북대학교학력증명서발급지침#BJ0030",
+      "filename": "별지30_별지.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지30_별지.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0030",
+      "branch": "01",
+      "kind": "별지",
+      "title": "별지",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852389",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170852389",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:경북대학교학력증명서발급지침#BJ0030_01",
+      "filename": "별지30의1_별지.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지30의1_별지.hwp",
       "file_store_url": ""
     }
   ],
@@ -269,7 +1119,7 @@
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
     "addenda_count": 1,
-    "appendices_count": 1,
+    "appendices_count": 35,
     "attachments_count": 0
   },
   "source": {
