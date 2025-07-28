@@ -1,6 +1,6 @@
 {
   "law_id": "2122837",
-  "mst": "2200000140925",
+  "mst": "2200000147925",
   "law_name": "부산도시공사 임원복무규정",
   "law_abbr": "",
   "law_type": "공단규정",
@@ -8,18 +8,18 @@
   "doc_kind": "공공기관",
   "adm_uid": "public:2122837",
   "promulgation_no": "9999",
-  "promulgation_date": "20250312",
-  "enforcement_date": "20250312",
-  "revision_date": "20250312",
+  "promulgation_date": "20250728",
+  "enforcement_date": "20250728",
+  "revision_date": "20250728",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "부산도시공사",
     "담당자명": "문혜수",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "부산도시공사 임원복무규정",
-    "발령일자": "20250312",
+    "발령일자": "20250728",
     "행정규칙종류": "공단규정",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -31,7 +31,7 @@
     "행정규칙ID": "2122837",
     "담당부서기관코드": "B551922",
     "발령번호": "9999",
-    "행정규칙일련번호": "2200000140925"
+    "행정규칙일련번호": "2200000147925"
   },
   "amendment_text": "",
   "revision_reason": "",
@@ -200,7 +200,53 @@
         "chapter_path": "제2장 복무",
         "content": "제13조의2 (휴가)  ① 임원에 대하여는 최소 11일을 부여하고 재직기간 및 유사경력에 따라 휴가일수를 추가로 가산(매 2년에 대하여 1일 가산)할 수 있으며, 임원의 최대 휴가일수는 21일을 초과할 수 없다. 이를 초과사용 시에는 무급으로 한다. 유사경력 획정에 관한 사항은 보수규정 제15조 [별표4]에 따른다. 단, 휴가 미사용에 따른 휴가수당은 지급하지 아니한다. <개정 2025. 3.12.>② 임원의 특별유급휴가는 취업규정에 따라 부여한다.③ 제1항의 휴가는 근로시간 단축등 변동사항 발생시는 정부정책 및 지침에 따라 변경 적용한다.[본조신설 2005.12.01]",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제13조의2",
+            "source_clause": "제13조의2제1항",
+            "link_text": "제15조",
+            "line_text": "",
+            "target_law_name": "부산도시공사 임원복무규정",
+            "target_article_no": "제15조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2122837",
+            "target_url": "https://www.law.go.kr/학칙공단/부산도시공사 임원복무규정/제15조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:부산도시공사임원복무규정#JO0013_02",
+            "reference_id": "SchlPubRul:부산도시공사임원복무규정#JO0015",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "부산도시공사 임원복무규정/부산도시공사 임원복무규정.json"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제13조의2",
+            "source_clause": "제13조의2제1항",
+            "link_text": "별표4",
+            "line_text": "",
+            "target_law_name": "부산도시공사 임원복무규정",
+            "target_article_no": "별표4",
+            "target_article_title": "",
+            "appendix_no": "4",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": false,
+            "target_mst": "",
+            "source_admrul_seq": "2122837",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000147925&bylNo=&bylBrNo=",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:부산도시공사임원복무규정#JO0013_02",
+            "target_unit": "BYL0004",
+            "reference_id": "SchlPubRul:부산도시공사임원복무규정#BYL0004",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "부산도시공사 임원복무규정/부산도시공사 임원복무규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:부산도시공사임원복무규정#JO0013_02"
       },
@@ -253,9 +299,30 @@
         "article_title": "의원면직",
         "chapter": "제3장 문책",
         "chapter_path": "제3장 문책",
-        "content": "제16조의2 (의원면직)  ①임원이 임기 중 개인적 사유로 사직코자 하는 경우에는 부득이한 경우를 제외하고는 사직 희망일로부터 2개월 이전에 사직원을 제출하여 임용권자의 승인을 받아야 한다. <개정 2023.12.26.>②임용권자는 제1항에 따라 의원면직을 신청한 임원이 다음 각호의 어느하나에 해당하는 때에는 의원면직을 허용하여서는 아니된다. 이 경우 제2호 내지 제4호에 해당하는 때에는 당해 임원이 「임원복무규정 제15조 별표」의 규정에서 정한 중징계에 해당한다고 판단되는 경우에 한한다.1. 내부 감사부서 또는 외부 감사기관에서 당연퇴직, 파면 또는 해임 처분요구하거나 이사회에 중징계의결 요구 중인 때 <개정 2023. 4. 5.>2. 비위와 관련하여 형사사건으로 기소 중인 때3. 감사원·검찰·경찰 그 밖의 수사기관에서 비위와 관련하여 조사 또는 수사 중인 때4. 각급 행정기관의 감사부서 등에서 비위와 관련하여 내사 중인 때<신설 2011.03.31>",
+        "content": "제16조의2 (의원면직)  ①임원이 임기 중 퇴직을 희망하는 경우에는 부득이한 경우를 제외하고는 사직 희망일로부터 2개월 이전에 사직원을 제출하여야 하고 제15조에 따른 징계사유가 있는지 및 제2항 각 호의 어느하나에 해당하는지 여부를 감사원과 검찰·경찰 등 조사 및 수사기관의 장에게 확인하여야 한다. <개정 2023.12.26., 2025. 7.28.>②제1항에 따른 확인 결과 퇴직을 희망하는 임원이 파면, 해임, 강등 또는 정직에 해당하는 징계사유가 있거나 다음 각 호의 어느 하나에 해당하는 경우에는  임용권자는 지체 없이 징계의결 등을 요구하여야 하고, 퇴직을 허용하여서는 아니된다. 이 경우 제2호 내지 제4호에 해당하는 때에는 당해 임원이 「임원복무규정 제15조 별표」의 규정에서 정한 중징계에 해당한다고 판단되는 경우에 한한다. <개정 2025. 7.28.>1. 내부 감사부서 또는 외부 감사기관에서 당연퇴직, 파면 또는 해임 처분요구하거나 이사회에 중징계의결 요구 중인 때 <개정 2023. 4. 5.>2. 비위와 관련하여 형사사건으로 기소 중인 때3. 감사원·검찰·경찰 그 밖의 수사기관에서 비위와 관련하여 조사 또는 수사 중인 때4. 각급 행정기관의 감사부서 등에서 비위와 관련하여 내사 중인 때<신설 2011.03.31>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제16조의2",
+            "source_clause": "제16조의2제1항",
+            "link_text": "제15조",
+            "line_text": "",
+            "target_law_name": "부산도시공사 임원복무규정",
+            "target_article_no": "제15조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2122837",
+            "target_url": "https://www.law.go.kr/학칙공단/부산도시공사 임원복무규정/제15조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:부산도시공사임원복무규정#JO0016_02",
+            "reference_id": "SchlPubRul:부산도시공사임원복무규정#JO0015",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "부산도시공사 임원복무규정/부산도시공사 임원복무규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:부산도시공사임원복무규정#JO0016_02"
       },
@@ -296,21 +363,57 @@
   },
   "addenda": [
     {
-      "promulgation_date": "20250312",
-      "promulgation_no": "00719",
-      "content": "부칙 <규정 제719호, 2025.3.12>이 규정은 2025년 1월 1일부터 소급 적용한다.",
-      "provision_id": "SchlPubRul:부산도시공사임원복무규정#ADDENDUM"
+      "promulgation_date": "20250728",
+      "promulgation_no": "00737",
+      "content": "부칙 <규정 제737호, 2025.7.28>이 규정은 공포한 날부터 시행한다.",
+      "provision_id": "SchlPubRul:부산도시공사임원복무규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000147925",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250728"
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "<개정 2019.11. 8>",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000147925&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=155882757",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=155882757",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:부산도시공사임원복무규정#BYL0001",
+      "filename": "별표1__개정 2019.11. 8_.hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표1__개정 2019.11. 8_.hwp",
+      "file_store_url": ""
+    }
+  ],
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 3,
+    "by_category": {
+      "학칙공단": 3
+    },
+    "by_relation_type": {
+      "internal_ref": 2,
+      "appendix_ref": 1
+    },
     "articles_total": 23,
-    "articles_with_relations": 0,
+    "articles_with_relations": 2,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
@@ -325,5 +428,8 @@
   "addendum_provision_id": "SchlPubRul:부산도시공사임원복무규정#ADDENDUM",
   "amendment_provision_id": "SchlPubRul:부산도시공사임원복무규정#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "부산도시공사 임원복무규정/부산도시공사 임원복무규정.json"
 }
