@@ -1,6 +1,6 @@
 {
   "law_id": "2114769",
-  "mst": "2200000138717",
+  "mst": "2200000153497",
   "law_name": "(한국고용노동교육원) 이사회 운영규정",
   "law_abbr": "",
   "law_type": "공단규정",
@@ -8,18 +8,18 @@
   "doc_kind": "공단정관",
   "adm_uid": "pi:2114769",
   "promulgation_no": "9999",
-  "promulgation_date": "20211224",
-  "enforcement_date": "20211224",
-  "revision_date": "20211224",
+  "promulgation_date": "20250731",
+  "enforcement_date": "20250731",
+  "revision_date": "20250731",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "한국고용노동교육원",
     "담당자명": "",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "(한국고용노동교육원) 이사회 운영규정",
-    "발령일자": "20211224",
+    "발령일자": "20250731",
     "행정규칙종류": "공단규정",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -31,7 +31,7 @@
     "행정규칙ID": "2114769",
     "담당부서기관코드": "B554364",
     "발령번호": "9999",
-    "행정규칙일련번호": "2200000138717"
+    "행정규칙일련번호": "2200000153497"
   },
   "amendment_text": "",
   "revision_reason": "",
@@ -79,7 +79,33 @@
         "chapter_path": "",
         "content": "제4조(의안작성) 주관부서의 장은 부의할 안건(별지 제1호서식)을 의결안건과 보고안건으로 구분하여 작성하고, 의안의 접수순위 또는 그 중요도에 따라 각 의안에 부의번호를 부여한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "별지 제1호서식",
+            "line_text": "",
+            "target_law_name": "(한국고용노동교육원) 이사회 운영규정",
+            "target_article_no": "별지1",
+            "target_article_title": "부의안건",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2114769",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162242603",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(한국고용노동교육원)이사회운영규정#JO0004",
+            "target_unit": "BJ0001",
+            "reference_id": "SchlPubRul:(한국고용노동교육원)이사회운영규정#BJ0001",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(한국고용노동교육원) 이사회 운영규정/(한국고용노동교육원) 이사회 운영규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:(한국고용노동교육원)이사회운영규정#JO0004"
       },
@@ -99,9 +125,60 @@
         "article_title": "이사회의 회의 운영",
         "chapter": "",
         "chapter_path": "",
-        "content": "제6조(이사회의 회의 운영) ① 이사회 회의는 이사회의 구성원이 출석하는 대면회의(영상회의를 포함한다)를 원칙으로 한다. 다만, 의결사항 중 경미하거나 긴급한 사항에 대하여는 별지 제3호서식에 의해 서면으로 의결할 수 있다.② 서면에 의한 이사회 회의는 불가피한 경우에 한하여 최소한도로 운영되어야 하며, 이 경우 원장은 서면에 의한 이사회를 개최하게 된 사유를 이사 및 감사에게 알려야 한다.③ 이사회를 소집하고자 할 때에는 별지 제2호서식에 따라 회의의 목적과 주요내용을 포함한 회의 개최계획을 이사 및 감사에게 통지하여야 한다. 다만, 긴급을 요하거나 부득이한 사유가 있을 경우 그러지 아니할 수 있다.",
+        "content": "제6조(이사회의 회의 운영) ① 이사회 회의는 이사회의 구성원이 출석하는 대면회의(영상회의, 대면회의 및 영상회의를 병행하여 실시하는 회의를 포함한다)를 원칙으로 한다. 다만, 의결사항 중 경미하거나 긴급한 사항에 대하여는 별지 제3호서식에 의해 서면으로 의결할 수 있다. <개정 2025. 7. 31.>② 서면에 의한 이사회 회의는 불가피한 경우에 한하여 최소한도로 운영되어야 하며, 이 경우 원장은 서면에 의한 이사회를 개최하게 된 사유를 이사 및 감사에게 알려야 한다.③ 이사회를 소집하고자 할 때에는 별지 제2호서식에 따라 회의의 목적과 주요내용을 포함한 회의 개최계획을 이사 및 감사에게 통지하여야 한다. 다만, 긴급을 요하거나 부득이한 사유가 있을 경우 그러지 아니할 수 있다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제1항",
+            "link_text": "별지 제3호서식",
+            "line_text": "",
+            "target_law_name": "(한국고용노동교육원) 이사회 운영규정",
+            "target_article_no": "별지3",
+            "target_article_title": "이사회서면의결서",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2114769",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162242617",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(한국고용노동교육원)이사회운영규정#JO0006",
+            "target_unit": "BJ0003",
+            "reference_id": "SchlPubRul:(한국고용노동교육원)이사회운영규정#BJ0003",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(한국고용노동교육원) 이사회 운영규정/(한국고용노동교육원) 이사회 운영규정.json"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제3항",
+            "link_text": "별지 제2호서식",
+            "line_text": "",
+            "target_law_name": "(한국고용노동교육원) 이사회 운영규정",
+            "target_article_no": "별지2",
+            "target_article_title": "이사회 소집(개최) 통보",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2114769",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162242609",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(한국고용노동교육원)이사회운영규정#JO0006",
+            "target_unit": "BJ0002",
+            "reference_id": "SchlPubRul:(한국고용노동교육원)이사회운영규정#BJ0002",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(한국고용노동교육원) 이사회 운영규정/(한국고용노동교육원) 이사회 운영규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:(한국고용노동교육원)이사회운영규정#JO0006"
       },
@@ -123,7 +200,33 @@
         "chapter_path": "",
         "content": "제7조(권한 위임) 비상임이사가 「정관」 제29조 제3항에 따라 대리인에게 의결권을 위임하고자 할 경우에는 위임장(별지 제4호서식)을 원장에게 제출하여야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "별지 제4호서식",
+            "line_text": "",
+            "target_law_name": "(한국고용노동교육원) 이사회 운영규정",
+            "target_article_no": "별지4",
+            "target_article_title": "위임장",
+            "appendix_no": "4",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2114769",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162242621",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(한국고용노동교육원)이사회운영규정#JO0007",
+            "target_unit": "BJ0004",
+            "reference_id": "SchlPubRul:(한국고용노동교육원)이사회운영규정#BJ0004",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(한국고용노동교육원) 이사회 운영규정/(한국고용노동교육원) 이사회 운영규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:(한국고용노동교육원)이사회운영규정#JO0007"
       },
@@ -156,7 +259,33 @@
         "chapter_path": "",
         "content": "제10조(회의록 작성) ① 간사는 이사회 회의의 개최일시, 장소, 참석자 명단, 회의에서의 참석자 발언내용, 회의결과 등을 기록한 회의록(별지 제5호서식)을 작성하여야 한다.② 서면의결의 경우에는 이사회 서면의결서로 회의록을 갈음한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제1항",
+            "link_text": "별지 제5호서식",
+            "line_text": "",
+            "target_law_name": "(한국고용노동교육원) 이사회 운영규정",
+            "target_article_no": "별지5",
+            "target_article_title": "이사회 회의록",
+            "appendix_no": "5",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2114769",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162242625",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(한국고용노동교육원)이사회운영규정#JO0010",
+            "target_unit": "BJ0005",
+            "reference_id": "SchlPubRul:(한국고용노동교육원)이사회운영규정#BJ0005",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(한국고용노동교육원) 이사회 운영규정/(한국고용노동교육원) 이사회 운영규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:(한국고용노동교육원)이사회운영규정#JO0010"
       },
@@ -176,9 +305,30 @@
         "article_title": "회의록 공시",
         "chapter": "",
         "chapter_path": "",
-        "content": "제12조(회의록 공시) 회의록은 경영상 비밀 등 특별한 사항을 제외하고는 「공공기관의 운영에 관한 법률」 에 따라 기획재정부 공공기관 경영정보 공개시스템(알리오)에 공시하여야 한다.",
+        "content": "제12조(회의록 공시) 회의록은 경영상 비밀 등 특별한 사항을 제외하고는 「공공기관의 운영에 관한 법률」에 따라 기획재정부 공공기관 경영정보 공개시스템(알리오)에 공시하여야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제12조",
+            "source_clause": "제12조",
+            "link_text": "「공공기관의 운영에 관한 법률」",
+            "line_text": "",
+            "target_law_name": "공공기관의 운영에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2114769",
+            "target_url": "https://www.law.go.kr/법령/공공기관의 운영에 관한 법률",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(한국고용노동교육원)이사회운영규정#JO0012",
+            "reference_id": "law:공공기관의운영에관한법률#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:(한국고용노동교육원)이사회운영규정#JO0012"
       },
@@ -255,28 +405,206 @@
       "promulgation_date": "20201105",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2020.11.05.>제1조(시행일) 이 규정은 원장 결재일부터 시행한다.",
-      "provision_id": "SchlPubRul:(한국고용노동교육원)이사회운영규정#ADDENDUM"
+      "provision_id": "SchlPubRul:(한국고용노동교육원)이사회운영규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000153497",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250731"
     },
     {
       "promulgation_date": "20211224",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2021.12.24.>제1조(시행일) 이 규정은 2021. 12. 24.부터 시행한다.",
-      "provision_id": "SchlPubRul:(한국고용노동교육원)이사회운영규정#ADDENDUM"
+      "provision_id": "SchlPubRul:(한국고용노동교육원)이사회운영규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000153497",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250731"
+    },
+    {
+      "promulgation_date": "20250731",
+      "promulgation_no": "9999",
+      "content": "부칙 <제9999호, 2025.07.31.>제1조(시행일) 이 규정은 2025.  7.  31.부터 시행한다.",
+      "provision_id": "SchlPubRul:(한국고용노동교육원)이사회운영규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000153497",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250731"
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "부의안건",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162242603",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162242603",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:(한국고용노동교육원)이사회운영규정#BJ0001",
+      "filename": "별지1_부의안건.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지1_부의안건.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "이사회 소집(개최) 통보",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162242609",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162242609",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:(한국고용노동교육원)이사회운영규정#BJ0002",
+      "filename": "별지2_이사회 소집(개최) 통보.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지2_이사회 소집(개최) 통보.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "01",
+      "kind": "별지",
+      "title": "이사회 서면개최 통보",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162242613",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162242613",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:(한국고용노동교육원)이사회운영규정#BJ0002_01",
+      "filename": "별지2의1_이사회 서면개최 통보.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지2의1_이사회 서면개최 통보.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "이사회서면의결서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162242617",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162242617",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:(한국고용노동교육원)이사회운영규정#BJ0003",
+      "filename": "별지3_이사회서면의결서.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지3_이사회서면의결서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별지",
+      "title": "위임장",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162242621",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162242621",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:(한국고용노동교육원)이사회운영규정#BJ0004",
+      "filename": "별지4_위임장.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지4_위임장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0005",
+      "branch": "00",
+      "kind": "별지",
+      "title": "이사회 회의록",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162242625",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162242625",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:(한국고용노동교육원)이사회운영규정#BJ0005",
+      "filename": "별지5_이사회 회의록.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지5_이사회 회의록.hwp",
+      "file_store_url": ""
+    }
+  ],
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 6,
+    "by_category": {
+      "학칙공단": 5,
+      "법령": 1
+    },
+    "by_relation_type": {
+      "appendix_ref": 5,
+      "citation": 1
+    },
     "articles_total": 19,
-    "articles_with_relations": 0,
+    "articles_with_relations": 5,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 2,
+    "addenda_count": 3,
     "appendices_count": 6,
     "attachments_count": 0
   },
@@ -287,5 +615,8 @@
   "addendum_provision_id": "SchlPubRul:(한국고용노동교육원)이사회운영규정#ADDENDUM",
   "amendment_provision_id": "SchlPubRul:(한국고용노동교육원)이사회운영규정#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "(한국고용노동교육원) 이사회 운영규정/(한국고용노동교육원) 이사회 운영규정.json"
 }
