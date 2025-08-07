@@ -851,58 +851,7 @@
         "chapter_path": "제3장  차량의 운행관리",
         "content": "제22조(지도·점검 등) ① 차량총괄관리부서는 연 1회 이상 단위사업부서의 차량 관리·운영 전반에 대한 지도·점검을 실시할 수 있다.② 제1항의 규정에 의한 지도·점검사항은 다음 각 호와 같다.1. 차량정수의 관리 및 운영사항2. 차량의 정비관리에 관한 사항3. 기타 차량의 적정한 관리·운영에 관하여 필요한 사항③ 단위 사업부서는 별지 제9호 서식의 차량점검표에 따라 분기별 1회 이상 점검하고 이를 기록하여야 한다. 또한이상 유무에 따라 적절한 조치를 취하고 정비사항을 별지 제7호에 기록한다. <신설 2024.02.28.>",
         "enforcement_date": "",
-        "relations": [
-          {
-            "relation_type": "appendix_ref",
-            "delegation_type": null,
-            "target_category": "학칙공단",
-            "source_article_no": "제22조",
-            "source_clause": "제22조제3항",
-            "link_text": "별지 제9호 서식",
-            "line_text": "",
-            "target_law_name": "시흥도시공사 차량관리내규",
-            "target_article_no": "별지9",
-            "target_article_title": "차량 점검표",
-            "appendix_no": "9",
-            "appendix_branch": "",
-            "appendix_kind": "별지",
-            "appendix_found": true,
-            "target_mst": "",
-            "source_admrul_seq": "2126077",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163725743",
-            "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:시흥도시공사차량관리내규#JO0022",
-            "target_unit": "BJ0009",
-            "reference_id": "SchlPubRul:시흥도시공사차량관리내규#BJ0009",
-            "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 차량관리내규/시흥도시공사 차량관리내규.json"
-          },
-          {
-            "relation_type": "appendix_ref",
-            "delegation_type": null,
-            "target_category": "학칙공단",
-            "source_article_no": "제22조",
-            "source_clause": "제22조제3항",
-            "link_text": "별지 제7호",
-            "line_text": "",
-            "target_law_name": "시흥도시공사 차량관리내규",
-            "target_article_no": "별지7",
-            "target_article_title": "업무용차량정비대장",
-            "appendix_no": "7",
-            "appendix_branch": "",
-            "appendix_kind": "별지",
-            "appendix_found": true,
-            "target_mst": "",
-            "source_admrul_seq": "2126077",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163725733",
-            "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:시흥도시공사차량관리내규#JO0022",
-            "target_unit": "BJ0007",
-            "reference_id": "SchlPubRul:시흥도시공사차량관리내규#BJ0007",
-            "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 차량관리내규/시흥도시공사 차량관리내규.json"
-          }
-        ],
+        "relations": [],
         "images": [],
         "provision_id": "SchlPubRul:시흥도시공사차량관리내규#JO0022"
       },
@@ -1034,28 +983,7 @@
         "chapter_path": "제6장  차량관제시스템 운영",
         "content": "제34조(관리감독) ① 차량관제시스템의 총괄 감독 및 관리는 차량총괄관리부서로 한다.② 차량총괄관리부서에서는 위치정보의 보호 및 이용 등에 관한 법률 제16조 및 동법 시행령 제20조에 근거한 위치정보의 유출, 변조, 훼손 등을 방지하기 위하여 접근권한자를 지정하는 등 관리적 조치를 하여야 한다. <개정 2025.08.07.>",
         "enforcement_date": "",
-        "relations": [
-          {
-            "relation_type": "internal_ref",
-            "delegation_type": null,
-            "target_category": "학칙공단",
-            "source_article_no": "제34조",
-            "source_clause": "제34조제2항",
-            "link_text": "제16조",
-            "line_text": "",
-            "target_law_name": "시흥도시공사 차량관리내규",
-            "target_article_no": "제16조",
-            "target_article_title": "",
-            "target_mst": "",
-            "source_admrul_seq": "2126077",
-            "target_url": "https://www.law.go.kr/학칙공단/시흥도시공사 차량관리내규/제16조",
-            "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:시흥도시공사차량관리내규#JO0034",
-            "reference_id": "SchlPubRul:시흥도시공사차량관리내규#JO0016",
-            "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 차량관리내규/시흥도시공사 차량관리내규.json"
-          }
-        ],
+        "relations": [],
         "images": [],
         "provision_id": "SchlPubRul:시흥도시공사차량관리내규#JO0034"
       }
@@ -1398,18 +1326,17 @@
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 27,
+    "relations_total": 24,
     "by_category": {
       "법령": 7,
-      "학칙공단": 20
+      "학칙공단": 17
     },
     "by_relation_type": {
       "citation": 7,
-      "appendix_ref": 19,
-      "internal_ref": 1
+      "appendix_ref": 17
     },
     "articles_total": 34,
-    "articles_with_relations": 11,
+    "articles_with_relations": 9,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
