@@ -1,6 +1,6 @@
 {
   "law_id": "2138879",
-  "mst": "2200000145405",
+  "mst": "2200000147635",
   "law_name": "[의정부도시공사] 직제규정",
   "law_abbr": "",
   "law_type": "공단규정",
@@ -8,18 +8,18 @@
   "doc_kind": "공공기관",
   "adm_uid": "public:2138879",
   "promulgation_no": "규정제45",
-  "promulgation_date": "20250429",
-  "enforcement_date": "20250429",
-  "revision_date": "20250429",
+  "promulgation_date": "20250819",
+  "enforcement_date": "20250819",
+  "revision_date": "20250819",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "경영기획처",
     "담당자명": "조수민",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "[의정부도시공사] 직제규정",
-    "발령일자": "20250429",
+    "발령일자": "20250819",
     "행정규칙종류": "공단규정",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,11 +27,11 @@
     "전화번호": "031-828-6833",
     "제개정구분명": "일부개정",
     "소관부처코드": "B551301",
-    "생성일자": "20250819",
+    "생성일자": "20250820",
     "행정규칙ID": "2138879",
     "담당부서기관코드": "",
     "발령번호": "규정제45",
-    "행정규칙일련번호": "2200000145405"
+    "행정규칙일련번호": "2200000147635"
   },
   "amendment_text": "",
   "revision_reason": "",
@@ -167,7 +167,33 @@
         "chapter_path": "제3장  조직",
         "content": "제12조(기구) ① 공사에는 경영사업본부, 도시교통본부를 두며 그 기구는 “별표 1”과 같다. <개정 2025. 4. 29.>② 사장 직속으로 안전감사실, 상권진흥센터를 둔다. <개정 2025. 4. 29.>③ 경영사업본부에는 경영기획처, 환경관리처, 공공체육처, 생활체육처를 둔다. <개정 2025. 4. 29.>④ 도시교통본부에는 도시개발처, 교통사업처를 둔다. <개정 2025. 4. 29.>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제12조",
+            "source_clause": "제12조제1항",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "[의정부도시공사] 직제규정",
+            "target_article_no": "별표1",
+            "target_article_title": "",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": false,
+            "target_mst": "",
+            "source_admrul_seq": "2138879",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000147635&bylNo=&bylBrNo=",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:[의정부도시공사]직제규정#JO0012",
+            "target_unit": "BYL0001",
+            "reference_id": "SchlPubRul:[의정부도시공사]직제규정#BYL0001",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "[의정부도시공사] 직제규정/[의정부도시공사] 직제규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:[의정부도시공사]직제규정#JO0012"
       },
@@ -189,7 +215,33 @@
         "chapter_path": "제3장  조직",
         "content": "제14조(정원) ① 공사의 정원은 “별표 2”와 같다.② 임금피크제와 관련하여 신규 채용 규모만큼의 별도 정원으로 반영하며, 별도직군 또는 초임직급을 대상으로 한다.③ 임금피크제 대상자는 정원으로 관리한다. 단 임금피크제 대상자 중 별도직군 전환 인력은 임금피크제 적용 전 직급에서 제외(정원외 인력)하고, 그 외 인력은 종전 직급에 포함한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제1항",
+            "link_text": "별표 2",
+            "line_text": "",
+            "target_law_name": "[의정부도시공사] 직제규정",
+            "target_article_no": "별표2",
+            "target_article_title": "",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": false,
+            "target_mst": "",
+            "source_admrul_seq": "2138879",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000147635&bylNo=&bylBrNo=",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:[의정부도시공사]직제규정#JO0014",
+            "target_unit": "BYL0002",
+            "reference_id": "SchlPubRul:[의정부도시공사]직제규정#BYL0002",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "[의정부도시공사] 직제규정/[의정부도시공사] 직제규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:[의정부도시공사]직제규정#JO0014"
       },
@@ -255,40 +307,101 @@
       "promulgation_date": "20240304",
       "promulgation_no": "00001",
       "content": "부칙 <규정 제1호,2024.3.4>제1조(시행일) 이 규정은 공사설립일부터 시행한다.제2조(경과조치) 이 규정 시행 전에 이미 시행된 사항은 이 규정에 의하여 시행된 것으로 본다.",
-      "provision_id": "SchlPubRul:[의정부도시공사]직제규정#ADDENDUM"
+      "provision_id": "SchlPubRul:[의정부도시공사]직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000147635",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250819"
     },
     {
       "promulgation_date": "20240415",
       "promulgation_no": "00023",
       "content": "부칙 <규정 제23호,2024.4.15>이 규정은 공포한 날부터 시행한다.",
-      "provision_id": "SchlPubRul:[의정부도시공사]직제규정#ADDENDUM"
+      "provision_id": "SchlPubRul:[의정부도시공사]직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000147635",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250819"
     },
     {
       "promulgation_date": "20240820",
       "promulgation_no": "00031",
       "content": "부칙 <규정 제31호,2024.8.20>이 규정은 공포한 날부터 시행한다.",
-      "provision_id": "SchlPubRul:[의정부도시공사]직제규정#ADDENDUM"
+      "provision_id": "SchlPubRul:[의정부도시공사]직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000147635",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250819"
     },
     {
       "promulgation_date": "20250429",
       "promulgation_no": "00045",
       "content": "부칙 <규정제45호,2025.4.29>제1조(시행일) 이 규정은 2025년 5월 1일부터 시행한다.제2조(경과조치) 이 규정 시행 당시 종전의 규정에 따라 이미 시행된 사항은 이 규정에 의하여 시행된 것으로 본다.",
-      "provision_id": "SchlPubRul:[의정부도시공사]직제규정#ADDENDUM"
+      "provision_id": "SchlPubRul:[의정부도시공사]직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000147635",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250819"
+    },
+    {
+      "promulgation_date": "20250819",
+      "promulgation_no": "00054",
+      "content": "부칙 <제54호,2025.8.19>이 규정은 공포한 날부터 시행한다.",
+      "provision_id": "SchlPubRul:[의정부도시공사]직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000147635",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250819"
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "별표",
+      "title": "별표",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=155600283",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=155600283",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:[의정부도시공사]직제규정#BYL0000",
+      "filename": "별표0_별표.hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표0_별표.hwp",
+      "file_store_url": ""
+    }
+  ],
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 2,
+    "by_category": {
+      "학칙공단": 2
+    },
+    "by_relation_type": {
+      "appendix_ref": 2
+    },
     "articles_total": 19,
-    "articles_with_relations": 0,
+    "articles_with_relations": 2,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 4,
+    "addenda_count": 5,
     "appendices_count": 1,
     "attachments_count": 0
   },
@@ -299,5 +412,8 @@
   "addendum_provision_id": "SchlPubRul:[의정부도시공사]직제규정#ADDENDUM",
   "amendment_provision_id": "SchlPubRul:[의정부도시공사]직제규정#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "[의정부도시공사] 직제규정/[의정부도시공사] 직제규정.json"
 }
