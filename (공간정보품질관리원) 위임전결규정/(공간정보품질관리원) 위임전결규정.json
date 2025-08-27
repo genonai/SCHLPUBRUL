@@ -1,6 +1,6 @@
 {
   "law_id": "2113893",
-  "mst": "2200000128281",
+  "mst": "2200000150269",
   "law_name": "(공간정보품질관리원) 위임전결규정",
   "law_abbr": "",
   "law_type": "공단규정",
@@ -8,18 +8,18 @@
   "doc_kind": "공단정관",
   "adm_uid": "pi:2113893",
   "promulgation_no": "9999",
-  "promulgation_date": "20240502",
-  "enforcement_date": "20240502",
-  "revision_date": "20240502",
+  "promulgation_date": "20250827",
+  "enforcement_date": "20250827",
+  "revision_date": "20250827",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
-    "담당부서기관명": "공간정보품질관리원 경영전략실",
+    "현행여부": "Y",
+    "담당부서기관명": "공간정보품질관리원",
     "담당자명": "최영은",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "(공간정보품질관리원) 위임전결규정",
-    "발령일자": "20240502",
+    "발령일자": "20250827",
     "행정규칙종류": "공단규정",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,11 +27,11 @@
     "전화번호": "02-6418-9152",
     "제개정구분명": "일부개정",
     "소관부처코드": "B554453",
-    "생성일자": "20251125",
+    "생성일자": "20260612",
     "행정규칙ID": "2113893",
-    "담당부서기관코드": "",
+    "담당부서기관코드": "B554453",
     "발령번호": "9999",
-    "행정규칙일련번호": "2200000128281"
+    "행정규칙일련번호": "2200000150269"
   },
   "amendment_text": "",
   "revision_reason": "",
@@ -112,22 +112,74 @@
       "promulgation_date": "20200429",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2020.04.29.>제1조(시행일) 이 규정은 국토지리정보원장의 승인된 날로부터 시행한다. (2020. 4. 29.)",
-      "provision_id": "SchlPubRul:(공간정보품질관리원)위임전결규정#ADDENDUM"
+      "provision_id": "SchlPubRul:(공간정보품질관리원)위임전결규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000150269",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250827"
     },
     {
       "promulgation_date": "20220412",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2022.04.12.>제1조(시행일) 이 규정은 국토지리정보원장이 승인한 날부터 시행한다. (2022. 4. 12.)",
-      "provision_id": "SchlPubRul:(공간정보품질관리원)위임전결규정#ADDENDUM"
+      "provision_id": "SchlPubRul:(공간정보품질관리원)위임전결규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000150269",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250827"
     },
     {
       "promulgation_date": "20240502",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2024.05.02.>제1조(시행일) 이 규정은 국토지리정보원장의 승인된 날부터 시행한다.",
-      "provision_id": "SchlPubRul:(공간정보품질관리원)위임전결규정#ADDENDUM"
+      "provision_id": "SchlPubRul:(공간정보품질관리원)위임전결규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000150269",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250827"
+    },
+    {
+      "promulgation_date": "20250827",
+      "promulgation_no": "9999",
+      "content": "부칙 <제9999호, 2025.08.27.>제1조(시행일) 이 규정은 직제규정 일부 개정(안)을 국토지리정보원장이 승인한 날부터 시행한다.",
+      "provision_id": "SchlPubRul:(공간정보품질관리원)위임전결규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000150269",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20250827"
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "별표",
+      "title": "위임전결기준표",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158543233",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158543233",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:(공간정보품질관리원)위임전결규정#BYL0000",
+      "filename": "별표0_위임전결기준표.hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표0_위임전결기준표.hwp",
+      "file_store_url": ""
+    }
+  ],
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
@@ -139,7 +191,7 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 3,
+    "addenda_count": 4,
     "appendices_count": 1,
     "attachments_count": 0
   },
@@ -150,5 +202,8 @@
   "addendum_provision_id": "SchlPubRul:(공간정보품질관리원)위임전결규정#ADDENDUM",
   "amendment_provision_id": "SchlPubRul:(공간정보품질관리원)위임전결규정#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "(공간정보품질관리원) 위임전결규정/(공간정보품질관리원) 위임전결규정.json"
 }
