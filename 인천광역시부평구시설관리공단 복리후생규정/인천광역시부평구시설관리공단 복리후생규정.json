@@ -1,25 +1,25 @@
 {
   "law_id": "2133333",
-  "mst": "2200000137271",
+  "mst": "2200000149583",
   "law_name": "인천광역시부평구시설관리공단 복리후생규정",
   "law_abbr": "",
   "law_type": "공단규정",
   "doc_target": "public",
   "doc_kind": "공공기관",
   "adm_uid": "public:2133333",
-  "promulgation_no": "322",
-  "promulgation_date": "20241204",
-  "enforcement_date": "20241204",
-  "revision_date": "20241204",
+  "promulgation_no": "333",
+  "promulgation_date": "20251104",
+  "enforcement_date": "20251104",
+  "revision_date": "20251104",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "인천광역시부평구시설관리공단",
     "담당자명": "한성호",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "인천광역시부평구시설관리공단 복리후생규정",
-    "발령일자": "20241204",
+    "발령일자": "20251104",
     "행정규칙종류": "공단규정",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -30,11 +30,11 @@
     "생성일자": "20251105",
     "행정규칙ID": "2133333",
     "담당부서기관코드": "B551294",
-    "발령번호": "322",
-    "행정규칙일련번호": "2200000137271"
+    "발령번호": "333",
+    "행정규칙일련번호": "2200000149583"
   },
-  "amendment_text": "인천광역시부평구시설관리공단 규정 제322호\n인천광역시부평구시설관리공단 복리후생규정 일부개정규정\n인천광역시부평구시설관리공단 복리후생규정 일부를 다음과 같이 개정한다.\n별표 1 정액급식비 지급액란의 \"월 130,000원\"을 \"월 140,000원\"으로 한다.\n부칙\n제1조(시행일) 이 규정은 공포한 날부터 시행한다.\n제2조(수당지급에 관한 경과조치) 별표 1 개정규정에 의한 수당 지급은 2024년 1월 1일부터 적용한다.",
-  "revision_reason": "1. 개정이유\n○ 대표노동조합과 2024년 임금협약 체결(2024. 10. 25.) 사항을 반영하여 복리후생규정을 개정하고자 함\n2. 주요내용\n○ 정액급식비 지급액을 월 13만원에서 월 14만원으로 인상(안 별표 1)\n3. 참고사항\n○ 「2024년 임금협약서」",
+  "amendment_text": "인천광역시부평구시설관리공단 규정 제333호\n2025년 단체협약에 따른 보수관련 규정 일괄개정규정\n[복리후생규정]\n인천광역시부평구시설관리공단 복리후생규정 일부를 다음과 같이 개정한다.\n별표 1 중 정액급식비의 지급액란을 다음과 같이 한다.\n?「지방공무원 수당 등에 관한 규정」준용\n부  칙\n이 규정은 공포한 날부터 시행한다.",
+  "revision_reason": "1. 개정이유\n가. 「2025년 단체협약」체결에 따라 변경 사항을 규정에 반영하고자 함\n2. 주요내용\n가. 「2025년 단체협약」 체결에 따른 정액급식비 지급 기준을 「지방공무원 수당 등에 관한 규정」 준용으로 변경(별표1)\n3. 참고사항\n○ 「지방공무원 수당 등에 관한 규정」",
   "body": {
     "format": "articles",
     "article_count": 25,
@@ -57,7 +57,66 @@
         "chapter_path": "제1장 총칙",
         "content": "제2조(적용) ① 공단의 임·직원의 복리후생에 관하여는 「근로기준법」, 「인천광역시부평구 시설관리공단 설치 조례」, 「인천광역시부평구시설관리공단 정관」 및 다른 규정에서 따로 정한 것을 제외하고는 이 규정에 의한다.② 이 규정에서 “평균임금”이라 함은 이를 산정하여야 할 사유가 발생한날 이전 3개월간에 임·직원에게 지급된 보수의 총액을 그 기간의 총 일수로 제한 금액을 말한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제1항",
+            "link_text": "「근로기준법」",
+            "line_text": "",
+            "target_law_name": "근로기준법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2133333",
+            "target_url": "https://www.law.go.kr/법령/근로기준법",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:인천광역시부평구시설관리공단복리후생규정#JO0002",
+            "reference_id": "law:근로기준법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "자치법규",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제1항",
+            "link_text": "「인천광역시부평구 시설관리공단 설치 조례」",
+            "line_text": "",
+            "target_law_name": "인천광역시부평구 시설관리공단 설치 조례",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2133333",
+            "target_url": "https://www.law.go.kr/자치법규/인천광역시부평구 시설관리공단 설치 조례",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:인천광역시부평구시설관리공단복리후생규정#JO0002",
+            "reference_id": "ordin:인천광역시부평구시설관리공단설치조례#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제1항",
+            "link_text": "「인천광역시부평구시설관리공단 정관」",
+            "line_text": "",
+            "target_law_name": "인천광역시부평구시설관리공단 정관",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2133333",
+            "target_url": "https://www.law.go.kr/학칙공단/인천광역시부평구시설관리공단 정관",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:인천광역시부평구시설관리공단복리후생규정#JO0002",
+            "reference_id": "SchlPubRul:인천광역시부평구시설관리공단정관#DOC",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "인천광역시부평구시설관리공단 정관/인천광역시부평구시설관리공단 정관.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:인천광역시부평구시설관리공단복리후생규정#JO0002"
       },
@@ -112,7 +171,33 @@
         "chapter_path": "제3장 복리후생",
         "content": "제7조(복리후생비 지급) ① 임·직원의 복리후생증진을 위하여 예산의 범위안에서 다음 각 호의 복리후생비를 지급할 수 있다.1. 정액급식비 <개정 2023. 11. 1.>2. 직급보조비3. 직책수행비4. 명절휴가비5. 특정업무경비 <개정 2023. 8. 21.>6. 기타후생비② 제1항의 제1호 내지 제3호에 대하여는 지급일 현재 근무중인 자에 한하여 지급한다. 다만 신규채용자 및 신분변동자는 일할 계산 지급한다.③ 제1항제4호 명절휴가비는 매년 설날과 추석이 속하는 달에 각각 기본급의 60%씩 지급하며 다만, 중도퇴직자에게는 지급하지 아니한다.④ 복리후생비의 지급기준은 별표 1과 같다. 다만 휴직 및 정직 기간중에는 지급하지 아니한다.⑤ 삭제 <2023. 11. 1.>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제4항",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "인천광역시부평구시설관리공단 복리후생규정",
+            "target_article_no": "별표1",
+            "target_article_title": "복리후생비 지급 기준표",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2133333",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000149583&bylNo=0001&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:인천광역시부평구시설관리공단복리후생규정#JO0007",
+            "target_unit": "BYL0001",
+            "reference_id": "SchlPubRul:인천광역시부평구시설관리공단복리후생규정#BYL0001",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "인천광역시부평구시설관리공단 복리후생규정/인천광역시부평구시설관리공단 복리후생규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:인천광역시부평구시설관리공단복리후생규정#JO0007"
       },
@@ -132,7 +217,7 @@
         "article_title": "맞춤형복지제도",
         "chapter": "제3장 복리후생",
         "chapter_path": "제3장 복리후생",
-        "content": "제8조의2(맞춤형복지제도) 공단은 복지예산의 효율적 운영과 임직원의 능률향상을 위해 맞춤형복지제도를 시행할 수 있으며, 필요한 사항은 내규로 정한다. <개정 2018. 12. 24.> [본조신설 2015. 12. 22.]",
+        "content": "제8조의2(맞춤형복지제도) 공단은 복지예산의 효율적 운영과 임직원의 능률향상을 위해 맞춤형복지제도를 시행할 수 있으며, 필요한 사항은 내규로 정한다. <개정 2018. 12. 24.>[본조신설 2015. 12. 22.]",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -167,7 +252,28 @@
         "chapter_path": "제4장 재해보상",
         "content": "제11조(재해보상) ① 임·직원이 업무상 재해를 당하였을 때에는 「산업재해보상보험법」에 따라 이를 보상한다. <개정 2023. 8. 21.>② <삭제 2023. 8. 21.>③ 공단은 제1항의 규정에 의하여 보상하기 위하여 산업재해보상보험 및 기타보험에 가입하여 보험에 의한 보상을 한다. <개정 2000. 3. 7.>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제1항",
+            "link_text": "「산업재해보상보험법」",
+            "line_text": "",
+            "target_law_name": "산업재해보상보험법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2133333",
+            "target_url": "https://www.law.go.kr/법령/산업재해보상보험법",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:인천광역시부평구시설관리공단복리후생규정#JO0011",
+            "reference_id": "law:산업재해보상보험법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "산업재해보상보험법/법률/산업재해보상보험법.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:인천광역시부평구시설관리공단복리후생규정#JO0011"
       },
@@ -178,7 +284,28 @@
         "chapter_path": "제4장 재해보상",
         "content": "제12조(업무상재해인정) ① 업무상 재해 인정과 관련된 사항은 「산업재해보상보험법」을 따른다. <개정 2023. 8. 21.>② 삭제 <2023. 8. 21.>③ 삭제 <2023. 8. 21.>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제12조",
+            "source_clause": "제12조제1항",
+            "link_text": "「산업재해보상보험법」",
+            "line_text": "",
+            "target_law_name": "산업재해보상보험법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2133333",
+            "target_url": "https://www.law.go.kr/법령/산업재해보상보험법",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:인천광역시부평구시설관리공단복리후생규정#JO0012",
+            "reference_id": "law:산업재해보상보험법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "산업재해보상보험법/법률/산업재해보상보험법.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:인천광역시부평구시설관리공단복리후생규정#JO0012"
       },
@@ -189,7 +316,28 @@
         "chapter_path": "제4장 재해보상",
         "content": "제13조(요양보상) ① 임·직원이 업무상 부상 또는 질병으로 인하여 치료를 받거나 요양을 받을 때 에는 「산업재해보상보험법」에 따라 처리한다. <개정 2023. 8. 21.>② 삭제 <2023. 8. 21.>③ 삭제 <2023. 8. 21.>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제13조",
+            "source_clause": "제13조제1항",
+            "link_text": "「산업재해보상보험법」",
+            "line_text": "",
+            "target_law_name": "산업재해보상보험법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2133333",
+            "target_url": "https://www.law.go.kr/법령/산업재해보상보험법",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:인천광역시부평구시설관리공단복리후생규정#JO0013",
+            "reference_id": "law:산업재해보상보험법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "산업재해보상보험법/법률/산업재해보상보험법.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:인천광역시부평구시설관리공단복리후생규정#JO0013"
       },
@@ -200,7 +348,28 @@
         "chapter_path": "제4장 재해보상",
         "content": "제14조(장해보상) ① 임·직원이 업무상 부상 또는 질병으로 완치 후 신체에 장해가 있는 경우에는 「산업재해보상보험법」에 따라 처리한다. <개정 2023. 8. 21.>② 삭제 <2023. 8. 21.>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제1항",
+            "link_text": "「산업재해보상보험법」",
+            "line_text": "",
+            "target_law_name": "산업재해보상보험법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2133333",
+            "target_url": "https://www.law.go.kr/법령/산업재해보상보험법",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:인천광역시부평구시설관리공단복리후생규정#JO0014",
+            "reference_id": "law:산업재해보상보험법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "산업재해보상보험법/법률/산업재해보상보험법.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:인천광역시부평구시설관리공단복리후생규정#JO0014"
       },
@@ -211,7 +380,28 @@
         "chapter_path": "제4장 재해보상",
         "content": "제15조(유족보상) ① 임·직원이 업무상 사망한 경우 유족 보상과 관련된 사항은 「산업재해보상보험법」을 따른다. <개정 2023. 8. 21.>② 삭제 <2023. 8. 21.>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제1항",
+            "link_text": "「산업재해보상보험법」",
+            "line_text": "",
+            "target_law_name": "산업재해보상보험법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2133333",
+            "target_url": "https://www.law.go.kr/법령/산업재해보상보험법",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:인천광역시부평구시설관리공단복리후생규정#JO0015",
+            "reference_id": "law:산업재해보상보험법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "산업재해보상보험법/법률/산업재해보상보험법.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:인천광역시부평구시설관리공단복리후생규정#JO0015"
       },
@@ -255,7 +445,28 @@
         "chapter_path": "제4장 재해보상",
         "content": "제19조(준용) 임·직원의 재해보상에 관하여 필요한 사항은 이 규정에 정한 것을 제외하고는 「산업재해보상보험법」 및 관련 법령에 의한다. <개정 2023. 8. 21.>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제19조",
+            "source_clause": "제19조",
+            "link_text": "「산업재해보상보험법」",
+            "line_text": "",
+            "target_law_name": "산업재해보상보험법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2133333",
+            "target_url": "https://www.law.go.kr/법령/산업재해보상보험법",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:인천광역시부평구시설관리공단복리후생규정#JO0019",
+            "reference_id": "law:산업재해보상보험법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "산업재해보상보험법/법률/산업재해보상보험법.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:인천광역시부평구시설관리공단복리후생규정#JO0019"
       },
@@ -320,131 +531,345 @@
     {
       "promulgation_date": "19991229",
       "promulgation_no": "00012",
-      "content": "부칙 <제12호,1999.12.29> ① (시행일) 이 규정은 공단 설립일부터 시행한다.② (개인성과급 지급에 관한 특례) 제7조제3항의 규정에도 불구하고 이사장은 근무성적 평가가 극히 곤란하다고 판단될 시에는 소속 직원에 대한 개인성과급을 예산의 범위 내에서 별도의 방안으로 지급할 수 있다.",
-      "provision_id": "SchlPubRul:인천광역시부평구시설관리공단복리후생규정#ADDENDUM"
+      "content": "부칙 <제12호,1999.12.29>① (시행일) 이 규정은 공단 설립일부터 시행한다.② (개인성과급 지급에 관한 특례) 제7조제3항의 규정에도 불구하고 이사장은 근무성적 평가가 극히 곤란하다고 판단될 시에는 소속 직원에 대한 개인성과급을 예산의 범위 내에서 별도의 방안으로 지급할 수 있다.",
+      "provision_id": "SchlPubRul:인천광역시부평구시설관리공단복리후생규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000149583",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20251104"
     },
     {
       "promulgation_date": "20000307",
       "promulgation_no": "00021",
-      "content": "부칙 <제21호,2000.3.7> 이 규정은 이사회 의결일부터 시행하되, 제20조 제1항 및 제22조 제2항의 개정규정은 2000년 1월 1일부터 적용한다.",
-      "provision_id": "SchlPubRul:인천광역시부평구시설관리공단복리후생규정#ADDENDUM"
+      "content": "부칙 <제21호,2000.3.7>이 규정은 이사회 의결일부터 시행하되, 제20조 제1항 및 제22조 제2항의 개정규정은 2000년 1월 1일부터 적용한다.",
+      "provision_id": "SchlPubRul:인천광역시부평구시설관리공단복리후생규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000149583",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20251104"
     },
     {
       "promulgation_date": "20001211",
       "promulgation_no": "00028",
-      "content": "부칙 <제28호,2000.12.11> 이 규정은 2001년 1월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:인천광역시부평구시설관리공단복리후생규정#ADDENDUM"
+      "content": "부칙 <제28호,2000.12.11>이 규정은 2001년 1월 1일부터 시행한다.",
+      "provision_id": "SchlPubRul:인천광역시부평구시설관리공단복리후생규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000149583",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20251104"
     },
     {
       "promulgation_date": "20040806",
       "promulgation_no": "00053",
-      "content": "부칙 <제53호,2004.8.6> 이 규정은 승인일로부터 시행한다.",
-      "provision_id": "SchlPubRul:인천광역시부평구시설관리공단복리후생규정#ADDENDUM"
+      "content": "부칙 <제53호,2004.8.6>이 규정은 승인일로부터 시행한다.",
+      "provision_id": "SchlPubRul:인천광역시부평구시설관리공단복리후생규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000149583",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20251104"
     },
     {
       "promulgation_date": "20041125",
       "promulgation_no": "00055",
-      "content": "부칙 <제55호,2004.11.25> 이 규정은 승인일로부터 시행한다.",
-      "provision_id": "SchlPubRul:인천광역시부평구시설관리공단복리후생규정#ADDENDUM"
+      "content": "부칙 <제55호,2004.11.25>이 규정은 승인일로부터 시행한다.",
+      "provision_id": "SchlPubRul:인천광역시부평구시설관리공단복리후생규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000149583",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20251104"
     },
     {
       "promulgation_date": "20090320",
       "promulgation_no": "00094",
-      "content": "부칙 <제94호,2009.3.20> ① (시행일) 이 규정은 부평구청장의 승인일로부터 시행한다.",
-      "provision_id": "SchlPubRul:인천광역시부평구시설관리공단복리후생규정#ADDENDUM"
+      "content": "부칙 <제94호,2009.3.20>① (시행일) 이 규정은 부평구청장의 승인일로부터 시행한다.",
+      "provision_id": "SchlPubRul:인천광역시부평구시설관리공단복리후생규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000149583",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20251104"
     },
     {
       "promulgation_date": "20090414",
       "promulgation_no": "00101",
-      "content": "부칙 <제101호,2009.4.14> ① (시행일) 이 규정은 부평구청장의 승인일로부터 시행한다.",
-      "provision_id": "SchlPubRul:인천광역시부평구시설관리공단복리후생규정#ADDENDUM"
+      "content": "부칙 <제101호,2009.4.14>① (시행일) 이 규정은 부평구청장의 승인일로부터 시행한다.",
+      "provision_id": "SchlPubRul:인천광역시부평구시설관리공단복리후생규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000149583",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20251104"
     },
     {
       "promulgation_date": "20100319",
       "promulgation_no": "00115",
-      "content": "부칙 <제115호,2010.3.19> ① (시행일) 이 규정은 부평구청장의 승인일로부터 시행하되 이 규정에 의한 복리후생비 지급은 2010. 4. 1일부터 적용한다.",
-      "provision_id": "SchlPubRul:인천광역시부평구시설관리공단복리후생규정#ADDENDUM"
+      "content": "부칙 <제115호,2010.3.19>① (시행일) 이 규정은 부평구청장의 승인일로부터 시행하되 이 규정에 의한 복리후생비 지급은 2010. 4. 1일부터 적용한다.",
+      "provision_id": "SchlPubRul:인천광역시부평구시설관리공단복리후생규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000149583",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20251104"
     },
     {
       "promulgation_date": "20110721",
       "promulgation_no": "00128",
-      "content": "부칙 <제128호,2011.7.21> ① (시행일) 이 규정은 부평구청장의 승인일로부터 시행한다.",
-      "provision_id": "SchlPubRul:인천광역시부평구시설관리공단복리후생규정#ADDENDUM"
+      "content": "부칙 <제128호,2011.7.21>① (시행일) 이 규정은 부평구청장의 승인일로부터 시행한다.",
+      "provision_id": "SchlPubRul:인천광역시부평구시설관리공단복리후생규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000149583",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20251104"
     },
     {
       "promulgation_date": "20120409",
       "promulgation_no": "00149",
-      "content": "부칙 <제149호,2012.4.9> ① (시행일) 이 규정은 부평구청장의 승인일로부터 시행한다.",
-      "provision_id": "SchlPubRul:인천광역시부평구시설관리공단복리후생규정#ADDENDUM"
+      "content": "부칙 <제149호,2012.4.9>① (시행일) 이 규정은 부평구청장의 승인일로부터 시행한다.",
+      "provision_id": "SchlPubRul:인천광역시부평구시설관리공단복리후생규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000149583",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20251104"
     },
     {
       "promulgation_date": "20131227",
       "promulgation_no": "00180",
-      "content": "부칙 <제180호,2013.12.27> ① (시행일) 이 규정은 부평구청장이 승인한 날부터 시행한다.② (경과규정) 이 규정에 의한 복리후생비 지급은 2013. 1. 1부터 적용한다.",
-      "provision_id": "SchlPubRul:인천광역시부평구시설관리공단복리후생규정#ADDENDUM"
+      "content": "부칙 <제180호,2013.12.27>① (시행일) 이 규정은 부평구청장이 승인한 날부터 시행한다.② (경과규정) 이 규정에 의한 복리후생비 지급은 2013. 1. 1부터 적용한다.",
+      "provision_id": "SchlPubRul:인천광역시부평구시설관리공단복리후생규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000149583",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20251104"
     },
     {
       "promulgation_date": "20150311",
       "promulgation_no": "00204",
-      "content": "부칙 <제204호,2015.3.11> 제1조(시행일) 이 규정은 공포한 날부터 시행한다.",
-      "provision_id": "SchlPubRul:인천광역시부평구시설관리공단복리후생규정#ADDENDUM"
+      "content": "부칙 <제204호,2015.3.11>제1조(시행일) 이 규정은 공포한 날부터 시행한다.",
+      "provision_id": "SchlPubRul:인천광역시부평구시설관리공단복리후생규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000149583",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20251104"
     },
     {
       "promulgation_date": "20151222",
       "promulgation_no": "00214",
-      "content": "부칙 <제214호,2015.12.22> 제1조(시행일) 이 규정은 공포한 날부터 시행한다. 제2조(경과규정) 이 규정 시행 전에 실시한 선택적복지제도에 대하여는 제8조에 의해 시행한 것으로 한다.",
-      "provision_id": "SchlPubRul:인천광역시부평구시설관리공단복리후생규정#ADDENDUM"
+      "content": "부칙 <제214호,2015.12.22>제1조(시행일) 이 규정은 공포한 날부터 시행한다.제2조(경과규정) 이 규정 시행 전에 실시한 선택적복지제도에 대하여는 제8조에 의해 시행한 것으로 한다.",
+      "provision_id": "SchlPubRul:인천광역시부평구시설관리공단복리후생규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000149583",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20251104"
     },
     {
       "promulgation_date": "20181126",
       "promulgation_no": "00250",
-      "content": "부칙 <제250호,2018.11.26> 제1조(시행일) 이 규정은 공포한 날부터 시행한다. 제2조(경과규정) 이 규정에 의한 복리후생비 지급은 2018년 1월 1일부터 적용한다.",
-      "provision_id": "SchlPubRul:인천광역시부평구시설관리공단복리후생규정#ADDENDUM"
+      "content": "부칙 <제250호,2018.11.26>제1조(시행일) 이 규정은 공포한 날부터 시행한다.제2조(경과규정) 이 규정에 의한 복리후생비 지급은 2018년 1월 1일부터 적용한다.",
+      "provision_id": "SchlPubRul:인천광역시부평구시설관리공단복리후생규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000149583",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20251104"
     },
     {
       "promulgation_date": "20181224",
       "promulgation_no": "00253",
-      "content": "부칙 <제253호,2018.12.24> 이 규정은 공포한 날부터 시행한다.",
-      "provision_id": "SchlPubRul:인천광역시부평구시설관리공단복리후생규정#ADDENDUM"
+      "content": "부칙 <제253호,2018.12.24>이 규정은 공포한 날부터 시행한다.",
+      "provision_id": "SchlPubRul:인천광역시부평구시설관리공단복리후생규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000149583",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20251104"
     },
     {
       "promulgation_date": "20191201",
       "promulgation_no": "00266",
-      "content": "부칙 <제266호,2019.12.1> 제1조(시행일) 이 규정은 공포한 날부터 시행한다. 제2조(경과조치) 이 규정에 의한 보수지급은 2019년 1월 1일부터 적용한다.",
-      "provision_id": "SchlPubRul:인천광역시부평구시설관리공단복리후생규정#ADDENDUM"
+      "content": "부칙 <제266호,2019.12.1>제1조(시행일) 이 규정은 공포한 날부터 시행한다.제2조(경과조치) 이 규정에 의한 보수지급은 2019년 1월 1일부터 적용한다.",
+      "provision_id": "SchlPubRul:인천광역시부평구시설관리공단복리후생규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000149583",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20251104"
     },
     {
       "promulgation_date": "20230821",
       "promulgation_no": "00311",
-      "content": "부칙 <제311호,2023.8.21> 제1조(시행일) 이 규정은 공포한 날부터 시행한다. 제2조(경과조치) 부칙 제1조의 시행일에도 불구하고 제7조에 따른 복리후생비 지급은 2023. 1. 1.부터 적용한다.",
-      "provision_id": "SchlPubRul:인천광역시부평구시설관리공단복리후생규정#ADDENDUM"
+      "content": "부칙 <제311호,2023.8.21>제1조(시행일) 이 규정은 공포한 날부터 시행한다.제2조(경과조치) 부칙 제1조의 시행일에도 불구하고 제7조에 따른 복리후생비 지급은 2023. 1. 1.부터 적용한다.",
+      "provision_id": "SchlPubRul:인천광역시부평구시설관리공단복리후생규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000149583",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20251104"
     },
     {
       "promulgation_date": "20231101",
       "promulgation_no": "00314",
-      "content": "부칙 <제314호,2023.11.1> 제1조(시행일) 이 규정은 공포한 날부터 시행한다. 제2조(임원 정액급식비 신설에 따른 적용례) 제7조 및 별표1의 개정규정에 따른 임원 정액급식비는 공포한 날 이후 체결되는 연봉 계약부터 적용한다.",
-      "provision_id": "SchlPubRul:인천광역시부평구시설관리공단복리후생규정#ADDENDUM"
+      "content": "부칙 <제314호,2023.11.1>제1조(시행일) 이 규정은 공포한 날부터 시행한다.제2조(임원 정액급식비 신설에 따른 적용례) 제7조 및 별표1의 개정규정에 따른 임원 정액급식비는 공포한 날 이후 체결되는 연봉 계약부터 적용한다.",
+      "provision_id": "SchlPubRul:인천광역시부평구시설관리공단복리후생규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000149583",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20251104"
     },
     {
       "promulgation_date": "20241204",
       "promulgation_no": "00322",
-      "content": "부칙 <제322호,2024.12.4> 제1조 (시행일) 이 규정은 공포한 날부터 시행한다. 제2조 (수당지급에 관한 경과조치) 별표 1 개정규정에 의한 수당 지급은 2024년 1월 1일부터 적용한다.",
-      "provision_id": "SchlPubRul:인천광역시부평구시설관리공단복리후생규정#ADDENDUM"
+      "content": "부칙 <제322호,2024.12.4>제1조 (시행일) 이 규정은 공포한 날부터 시행한다.제2조 (수당지급에 관한 경과조치) 별표 1 개정규정에 의한 수당 지급은 2024년 1월 1일부터 적용한다.",
+      "provision_id": "SchlPubRul:인천광역시부평구시설관리공단복리후생규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000149583",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20251104"
+    },
+    {
+      "promulgation_date": "20251104",
+      "promulgation_no": "00333",
+      "content": "부칙 <제333호,2025.11.4>이 규정은 공포한 날부터 시행한다.",
+      "provision_id": "SchlPubRul:인천광역시부평구시설관리공단복리후생규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000149583",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20251104"
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "복리후생비 지급 기준표",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000149583&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157867567",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157867567",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:인천광역시부평구시설관리공단복리후생규정#BYL0001",
+      "filename": "별표1_복리후생비 지급 기준표.hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표1_복리후생비 지급 기준표.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "삭제 <2023. 11. 1.>",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000149583&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157867571",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157867571",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:인천광역시부평구시설관리공단복리후생규정#BYL0002",
+      "filename": "별표2_삭제 _2023. 11. 1._.hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표2_삭제 _2023. 11. 1._.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별표",
+      "title": "삭제 <2023. 11. 1.>",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000149583&bylNo=0003&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157867575",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157867575",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:인천광역시부평구시설관리공단복리후생규정#BYL0003",
+      "filename": "별표3_삭제 _2023. 11. 1._.hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표3_삭제 _2023. 11. 1._.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별표",
+      "title": "삭제 <2023. 11. 1.>",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000149583&bylNo=0004&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157867579",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157867579",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:인천광역시부평구시설관리공단복리후생규정#BYL0004",
+      "filename": "별표4_삭제 _2023. 11. 1._.hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표4_삭제 _2023. 11. 1._.hwp",
+      "file_store_url": ""
+    }
+  ],
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 10,
+    "by_category": {
+      "법령": 7,
+      "자치법규": 1,
+      "학칙공단": 2
+    },
+    "by_relation_type": {
+      "citation": 9,
+      "appendix_ref": 1
+    },
     "articles_total": 25,
-    "articles_with_relations": 0,
+    "articles_with_relations": 8,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 19,
+    "addenda_count": 20,
     "appendices_count": 4,
     "attachments_count": 0
   },
@@ -455,5 +880,8 @@
   "addendum_provision_id": "SchlPubRul:인천광역시부평구시설관리공단복리후생규정#ADDENDUM",
   "amendment_provision_id": "SchlPubRul:인천광역시부평구시설관리공단복리후생규정#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "인천광역시부평구시설관리공단 복리후생규정/인천광역시부평구시설관리공단 복리후생규정.json"
 }
