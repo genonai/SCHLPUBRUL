@@ -1,6 +1,6 @@
 {
   "law_id": "2114761",
-  "mst": "2200000146955",
+  "mst": "2200000153503",
   "law_name": "(한국고용노동교육원) 직제규정 시행규칙",
   "law_abbr": "",
   "law_type": "공단규정",
@@ -8,18 +8,18 @@
   "doc_kind": "공단정관",
   "adm_uid": "pi:2114761",
   "promulgation_no": "9999",
-  "promulgation_date": "20250513",
-  "enforcement_date": "20250513",
-  "revision_date": "20250513",
+  "promulgation_date": "20251224",
+  "enforcement_date": "20251224",
+  "revision_date": "20251224",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "한국고용노동교육원",
     "담당자명": "",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "(한국고용노동교육원) 직제규정 시행규칙",
-    "발령일자": "20250513",
+    "발령일자": "20251224",
     "행정규칙종류": "공단규정",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -31,7 +31,7 @@
     "행정규칙ID": "2114761",
     "담당부서기관코드": "B554364",
     "발령번호": "9999",
-    "행정규칙일련번호": "2200000146955"
+    "행정규칙일련번호": "2200000153503"
   },
   "amendment_text": "",
   "revision_reason": "",
@@ -44,7 +44,7 @@
         "article_title": "목적",
         "chapter": "",
         "chapter_path": "",
-        "content": "제1조(목적) 이 규칙은 직제규정(이하 \"규정\"이라 한다.)에서 위임된 사항과 이 시행에 관하여 필요한 세부사항을 규정함을 목적으로 한다.",
+        "content": "제1조(목적) 이 규칙은 직제규정(이하 \"규정\"이라 한다)에서 위임된 사항과 이 시행에 관하여 필요한 세부사항을 규정함을 목적으로 한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -66,9 +66,55 @@
         "article_title": "하부기구",
         "chapter": "",
         "chapter_path": "",
-        "content": "제3조(하부기구) 규정 제6조의 본부 및 팀단위 세부조직은 별표 1과 같다.",
+        "content": "제3조(하부기구) 규정 제6조의 본부 및 팀단위 세부조직은 별표1과 같다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제6조",
+            "line_text": "",
+            "target_law_name": "(한국고용노동교육원) 직제규정 시행규칙",
+            "target_article_no": "제6조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2114761",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국고용노동교육원) 직제규정 시행규칙/제6조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(한국고용노동교육원)직제규정시행규칙#JO0003",
+            "reference_id": "SchlPubRul:(한국고용노동교육원)직제규정시행규칙#JO0006",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(한국고용노동교육원) 직제규정 시행규칙/(한국고용노동교육원) 직제규정 시행규칙.json"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "별표1",
+            "line_text": "",
+            "target_law_name": "(한국고용노동교육원) 직제규정 시행규칙",
+            "target_article_no": "별표1",
+            "target_article_title": "기구표",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2114761",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000153503&bylNo=0001&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(한국고용노동교육원)직제규정시행규칙#JO0003",
+            "target_unit": "BYL0001",
+            "reference_id": "SchlPubRul:(한국고용노동교육원)직제규정시행규칙#BYL0001",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(한국고용노동교육원) 직제규정 시행규칙/(한국고용노동교육원) 직제규정 시행규칙.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:(한국고용노동교육원)직제규정시행규칙#JO0003"
       },
@@ -77,9 +123,35 @@
         "article_title": "정원",
         "chapter": "",
         "chapter_path": "",
-        "content": "제4조(정원) ① 규정 제8조에 의한 각 부서의 정원은 별표 2와 같다.② 제1항에 의한 부서별 정원은 업무환경 변화 등의 여건을 고려하여 조정ㆍ운영할 수 있다.",
+        "content": "제4조(정원) ① 규정 제8조에 의한 각 부서의 정원은 별표2와 같다.② 제1항에 의한 부서별 정원은 업무환경 변화 등의 여건을 고려하여 조정ㆍ운영할 수 있다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제1항",
+            "link_text": "별표2",
+            "line_text": "",
+            "target_law_name": "(한국고용노동교육원) 직제규정 시행규칙",
+            "target_article_no": "별표2",
+            "target_article_title": "부서별 정원",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2114761",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000153503&bylNo=0002&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(한국고용노동교육원)직제규정시행규칙#JO0004",
+            "target_unit": "BYL0002",
+            "reference_id": "SchlPubRul:(한국고용노동교육원)직제규정시행규칙#BYL0002",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(한국고용노동교육원) 직제규정 시행규칙/(한국고용노동교육원) 직제규정 시행규칙.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:(한국고용노동교육원)직제규정시행규칙#JO0004"
       },
@@ -88,9 +160,35 @@
         "article_title": "업무분장",
         "chapter": "",
         "chapter_path": "",
-        "content": "제5조(업무분장) ① 규정 제9조의 업무분장은 별표  3과 같다.② 업무분장에 대하여 소관이 불분명할 때에는 다음 각 호의 기준에 의하여 결정한다.1. 각 본부 내에 국한된 사항을 내용으로 하는 업무는 본부의 장이 소관을 정한다.2. 2개 이상의 각 본부 간에 관련되는 사항을 내용으로 하는 업무는 그 업무의 성질상 관련이 많은 부서에서 처리한다.3. 제2호의 규정에 의하여도 그 업무를 처리할 부서를 판단할 수 없을 때에는 기획지원본부장이 관련 부서장과 협의하여 소관을 지정한다.③ 팀 이하 직원에 대한 업무분장은 이 규칙이 정하는 바에 따라 당해 부서장이 업무량을 감안하여 조정한다.",
+        "content": "제5조(업무분장) ① 규정 제9조의 업무분장은 별표3과 같다.② 업무분장에 대하여 소관이 불분명할 때에는 다음 각 호의 기준에 의하여 결정한다.1. 각 본부 내에 국한된 사항을 내용으로 하는 업무는 본부의 장이 소관을 정한다.2. 2개 이상의 각 본부 간에 관련되는 사항을 내용으로 하는 업무는 그 업무의 성질상 관련이 많은 부서에서 처리한다.3. 제2호의 규정에 의하여도 그 업무를 처리할 부서를 판단할 수 없을 때에는 기획지원본부장이 관련 부서장과 협의하여 소관을 지정한다.③ 팀 이하 직원에 대한 업무분장은 이 규칙이 정하는 바에 따라 당해 부서장이 업무량을 감안하여 조정한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제1항",
+            "link_text": "별표3",
+            "line_text": "",
+            "target_law_name": "(한국고용노동교육원) 직제규정 시행규칙",
+            "target_article_no": "별표3",
+            "target_article_title": "부서별 업무분장",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2114761",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000153503&bylNo=0003&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(한국고용노동교육원)직제규정시행규칙#JO0005",
+            "target_unit": "BYL0003",
+            "reference_id": "SchlPubRul:(한국고용노동교육원)직제규정시행규칙#BYL0003",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(한국고용노동교육원) 직제규정 시행규칙/(한국고용노동교육원) 직제규정 시행규칙.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:(한국고용노동교육원)직제규정시행규칙#JO0005"
       },
@@ -123,76 +221,229 @@
       "promulgation_date": "20201125",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2020.11.25.>제1조(시행일) 이 규칙은 원장 결재일부터 시행한다.",
-      "provision_id": "SchlPubRul:(한국고용노동교육원)직제규정시행규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:(한국고용노동교육원)직제규정시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000153503",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20251224"
     },
     {
       "promulgation_date": "20201217",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2020.12.17.>제1조(시행일) 이 규칙은 2020. 12. 17. 부터 시행한다.",
-      "provision_id": "SchlPubRul:(한국고용노동교육원)직제규정시행규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:(한국고용노동교육원)직제규정시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000153503",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20251224"
     },
     {
       "promulgation_date": "20210913",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2021.09.13.>제1조(시행일) 이 규칙은 2021. 9. 13.부터 시행한다.",
-      "provision_id": "SchlPubRul:(한국고용노동교육원)직제규정시행규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:(한국고용노동교육원)직제규정시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000153503",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20251224"
     },
     {
       "promulgation_date": "20211018",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2021.10.18.>제1조(시행일) 이 규칙은 2021. 10. 18.부터 시행한다.",
-      "provision_id": "SchlPubRul:(한국고용노동교육원)직제규정시행규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:(한국고용노동교육원)직제규정시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000153503",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20251224"
     },
     {
       "promulgation_date": "20211104",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2021.11.04.>제1조(시행일) 이 규칙은 2021. 11. 4.부터 시행한다.",
-      "provision_id": "SchlPubRul:(한국고용노동교육원)직제규정시행규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:(한국고용노동교육원)직제규정시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000153503",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20251224"
     },
     {
       "promulgation_date": "20220101",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2022.01.01.>제1조(시행일) 이 규칙은 2022. 1. 1.부터 시행한다.",
-      "provision_id": "SchlPubRul:(한국고용노동교육원)직제규정시행규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:(한국고용노동교육원)직제규정시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000153503",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20251224"
     },
     {
       "promulgation_date": "20230228",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2023.02.28.>제1조(시행일) 이 규칙은 2023. 2. 28.부터 시행한다.",
-      "provision_id": "SchlPubRul:(한국고용노동교육원)직제규정시행규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:(한국고용노동교육원)직제규정시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000153503",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20251224"
     },
     {
       "promulgation_date": "20240104",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2024.01.04.>제1조(시행일) 이 규칙은 2024. 1. 4.부터 시행한다.",
-      "provision_id": "SchlPubRul:(한국고용노동교육원)직제규정시행규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:(한국고용노동교육원)직제규정시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000153503",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20251224"
     },
     {
       "promulgation_date": "20240618",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2024.06.18.>제1조(시행일) 이 규칙은 2024. 6. 18.부터 시행한다.",
-      "provision_id": "SchlPubRul:(한국고용노동교육원)직제규정시행규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:(한국고용노동교육원)직제규정시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000153503",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20251224"
     },
     {
       "promulgation_date": "20250513",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2025.05.13.>제1조(시행일) 이 규칙은 2025. 5. 13.부터 시행한다.",
-      "provision_id": "SchlPubRul:(한국고용노동교육원)직제규정시행규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:(한국고용노동교육원)직제규정시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000153503",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20251224"
+    },
+    {
+      "promulgation_date": "20250904",
+      "promulgation_no": "9999",
+      "content": "부칙 <제9999호, 2025.09.04.>제1조(시행일) 이 규칙은 2025. 9. 4.부터 시행한다.",
+      "provision_id": "SchlPubRul:(한국고용노동교육원)직제규정시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000153503",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20251224"
+    },
+    {
+      "promulgation_date": "20251224",
+      "promulgation_no": "9999",
+      "content": "부칙 <제9999호, 2025.12.24.>제1조(시행일) 이 규칙은 2025. 12. 24.부터 시행한다.",
+      "provision_id": "SchlPubRul:(한국고용노동교육원)직제규정시행규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000153503",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20251224"
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "기구표",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000153503&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162296305",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162296305",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:(한국고용노동교육원)직제규정시행규칙#BYL0001",
+      "filename": "별표1_기구표.hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표1_기구표.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "부서별 정원",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000153503&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162296309",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162296309",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:(한국고용노동교육원)직제규정시행규칙#BYL0002",
+      "filename": "별표2_부서별 정원.hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표2_부서별 정원.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별표",
+      "title": "부서별 업무분장",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000153503&bylNo=0003&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162296313",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162296313",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:(한국고용노동교육원)직제규정시행규칙#BYL0003",
+      "filename": "별표3_부서별 업무분장.hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표3_부서별 업무분장.hwp",
+      "file_store_url": ""
+    }
+  ],
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 4,
+    "by_category": {
+      "학칙공단": 4
+    },
+    "by_relation_type": {
+      "internal_ref": 1,
+      "appendix_ref": 3
+    },
     "articles_total": 7,
-    "articles_with_relations": 0,
+    "articles_with_relations": 3,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 10,
+    "addenda_count": 12,
     "appendices_count": 3,
     "attachments_count": 0
   },
@@ -203,5 +454,8 @@
   "addendum_provision_id": "SchlPubRul:(한국고용노동교육원)직제규정시행규칙#ADDENDUM",
   "amendment_provision_id": "SchlPubRul:(한국고용노동교육원)직제규정시행규칙#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "(한국고용노동교육원) 직제규정 시행규칙/(한국고용노동교육원) 직제규정 시행규칙.json"
 }
