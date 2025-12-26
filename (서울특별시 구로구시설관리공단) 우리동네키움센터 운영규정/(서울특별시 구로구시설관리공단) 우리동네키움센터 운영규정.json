@@ -1,40 +1,40 @@
 {
   "law_id": "2140353",
-  "mst": "2200000150935",
+  "mst": "2200000151157",
   "law_name": "(서울특별시 구로구시설관리공단) 우리동네키움센터 운영규정",
   "law_abbr": "",
   "law_type": "공단규정",
   "doc_target": "public",
   "doc_kind": "공공기관",
   "adm_uid": "public:2140353",
-  "promulgation_no": "428",
-  "promulgation_date": "20251023",
-  "enforcement_date": "20251023",
-  "revision_date": "20251023",
-  "revision_type": "제정",
-  "is_current": false,
+  "promulgation_no": "429",
+  "promulgation_date": "20251226",
+  "enforcement_date": "20251226",
+  "revision_date": "20251226",
+  "revision_type": "일부개정",
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "사회서비스사업팀",
     "담당자명": "사회서비스사업팀",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "(서울특별시 구로구시설관리공단) 우리동네키움센터 운영규정",
-    "발령일자": "20251023",
+    "발령일자": "20251226",
     "행정규칙종류": "공단규정",
-    "제개정구분코드": "200401",
+    "제개정구분코드": "200403",
     "조문형식여부": "Y",
     "소관부처명": "구로구시설관리공단",
-    "전화번호": "070-8826-8620",
-    "제개정구분명": "제정",
+    "전화번호": "070-8826-8622",
+    "제개정구분명": "일부개정",
     "소관부처코드": "B551445",
-    "생성일자": "20251226",
+    "생성일자": "20251227",
     "행정규칙ID": "2140353",
     "담당부서기관코드": "",
-    "발령번호": "428",
-    "행정규칙일련번호": "2200000150935"
+    "발령번호": "429",
+    "행정규칙일련번호": "2200000151157"
   },
-  "amendment_text": "-",
-  "revision_reason": "-",
+  "amendment_text": "",
+  "revision_reason": "가. 제23조(회계 및 재산과 물품관리) 단서조항 키움센터 예산 및 결산의 공단 이사회 보고 내용 신설\n나. 별지 제1호 서식중 표준근로 계약서 오탈자 개정",
   "body": {
     "format": "articles",
     "article_count": 24,
@@ -156,7 +156,48 @@
         "chapter_path": "제3장 조직 및 인사",
         "content": "제11조(결격사유) 다음 각 호의 어느 하나에 해당하는 자는 키움센터 종사자로 채용할 수 없다.1. 공단 인사규정 제11조 각 호에 정한 채용 결격사유에 해당하는 자2. 신체 또는 정신상의 장애로 직무를 감당할 수 없다고 인정되는 자3. 재직시 징계 또는 형사사건으로 면직된 자4. 부조리로 인하여 계약 해지된 자5. 「사회복지사업법」 및 「아동복지법」에 의거 결격사유 및 범죄가 있는 자6. 그 외 기타 법령에 의해 결격사유가 있는 자",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조",
+            "link_text": "「사회복지사업법」",
+            "line_text": "",
+            "target_law_name": "사회복지사업법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2140353",
+            "target_url": "https://www.law.go.kr/법령/사회복지사업법",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(서울특별시구로구시설관리공단)우리동네키움센터운영규정#JO0011",
+            "reference_id": "law:사회복지사업법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "사회복지사업법/법률/사회복지사업법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조",
+            "link_text": "「아동복지법」",
+            "line_text": "",
+            "target_law_name": "아동복지법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2140353",
+            "target_url": "https://www.law.go.kr/법령/아동복지법",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(서울특별시구로구시설관리공단)우리동네키움센터운영규정#JO0011",
+            "reference_id": "law:아동복지법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "아동복지법/법률/아동복지법.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:(서울특별시구로구시설관리공단)우리동네키움센터운영규정#JO0011"
       },
@@ -286,7 +327,7 @@
         "article_title": "회계 및 재산과 물품관리",
         "chapter": "제6장 회계 및 재산과 물품관리",
         "chapter_path": "제6장 회계 및 재산과 물품관리",
-        "content": "제23조(회계 및 재산과 물품관리) 키움센터의 회계 및 재산과 물품관리는 키움센터 관리운영 매뉴얼을 준용한다.",
+        "content": "제23조(회계 및 재산과 물품관리) 키움센터의 회계 및 재산과 물품관리는 키움센터 관리운영 매뉴얼을 준용한다. 다만, 키움센터의 예산 및 결산은 공단 이사회에 보고한다.<개정 2025.12.26.>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -310,18 +351,103 @@
       "promulgation_date": "20251023",
       "promulgation_no": "00001",
       "content": "부칙<제1호, 2025.10.23>①(시행일) 이 규정은 공고한 날부터 시행한다.②(경과조치) 이 규정 시행 이전에 공단과 근로계약을 맺은 키움센터 종사자에 대한 채용 및 관리는 본 규정에 의한 것으로 본다.",
-      "provision_id": "SchlPubRul:(서울특별시구로구시설관리공단)우리동네키움센터운영규정#ADDENDUM"
+      "provision_id": "SchlPubRul:(서울특별시구로구시설관리공단)우리동네키움센터운영규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000151157",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20251226"
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "직무명세 및 근로범위",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000151157&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159789891",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159789891",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:(서울특별시구로구시설관리공단)우리동네키움센터운영규정#BYL0001",
+      "filename": "별표1_직무명세 및 근로범위.hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표1_직무명세 및 근로범위.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "표준근로 계약서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159789895",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159789895",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:(서울특별시구로구시설관리공단)우리동네키움센터운영규정#BJ0001",
+      "filename": "별지1_표준근로 계약서.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지1_표준근로 계약서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "평가표",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159789901",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159789901",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:(서울특별시구로구시설관리공단)우리동네키움센터운영규정#BJ0002",
+      "filename": "별지2_평가표.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지2_평가표.hwp",
+      "file_store_url": ""
+    }
+  ],
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 2,
+    "by_category": {
+      "법령": 2
+    },
+    "by_relation_type": {
+      "citation": 2
+    },
     "articles_total": 24,
-    "articles_with_relations": 0,
+    "articles_with_relations": 1,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
@@ -336,5 +462,8 @@
   "addendum_provision_id": "SchlPubRul:(서울특별시구로구시설관리공단)우리동네키움센터운영규정#ADDENDUM",
   "amendment_provision_id": "SchlPubRul:(서울특별시구로구시설관리공단)우리동네키움센터운영규정#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "(서울특별시 구로구시설관리공단) 우리동네키움센터 운영규정/(서울특별시 구로구시설관리공단) 우리동네키움센터 운영규정.json"
 }
