@@ -1,6 +1,6 @@
 {
   "law_id": "2113641",
-  "mst": "2200000140655",
+  "mst": "2200000154747",
   "law_name": "(한국디자인진흥원) 공무직원 관리규칙",
   "law_abbr": "",
   "law_type": "공단규정",
@@ -8,18 +8,18 @@
   "doc_kind": "공단정관",
   "adm_uid": "pi:2113641",
   "promulgation_no": "9999",
-  "promulgation_date": "20241227",
-  "enforcement_date": "20241227",
-  "revision_date": "20241227",
+  "promulgation_date": "20251230",
+  "enforcement_date": "20251230",
+  "revision_date": "20251230",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "한국디자인진흥원",
     "담당자명": "",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "(한국디자인진흥원) 공무직원 관리규칙",
-    "발령일자": "20241227",
+    "발령일자": "20251230",
     "행정규칙종류": "공단규정",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -31,7 +31,7 @@
     "행정규칙ID": "2113641",
     "담당부서기관코드": "B551365",
     "발령번호": "9999",
-    "행정규칙일련번호": "2200000140655"
+    "행정규칙일련번호": "2200000154747"
   },
   "amendment_text": "",
   "revision_reason": "",
@@ -66,9 +66,50 @@
         "article_title": "정의",
         "chapter": "",
         "chapter_path": "",
-        "content": "제3조(정의) 이 규정에서 사용되는 용어의 뜻은 다음과 같다.<개정 2023. 02. 15.>1. \"공무직원\"이란 기간의 정함이 없는 근로계약을 체결한 미화직, 보안직, 안내직, 행정사무직, 시설감시직, 시설운영직, 시설관리직 직원으로서 진흥원에서 직접 고용한 자를 말한다.<개정 2023. 02. 15.>2. \"상시ㆍ지속적 업무\"란 연중 9개월 이상 계속되는 업무로서 향후 2년 이상 지속될 것으로 예상되는 업무를 말한다.3. \"승급\"이란 동일직무 내 특정 단계에서 일정 소요연수에 도달한 공무직원이 제16조에 따라 다음 단계로 이동하는 것을 말한다.<개정 2023. 02. 15.>4. \"승진\"이란 시설운영 직무 공무직원이 제16조에 따라 일정한 절차를 거쳐 시설관리 직무로 이동하는 것을 말한다.<개정 2023. 02. 15.>5. \"인사관리부서\"란 「직제규정」 제3조제1항에 따른 조직 중 인사 관리를 담당하는 부서를 말한다.<개정 2023. 02. 15.>[제목개정 2023. 02. 15.]",
+        "content": "제3조(정의) 이 규정에서 사용되는 용어의 뜻은 다음과 같다. <개정 2023. 02. 15.>1. \"공무직원\"이란 기간의 정함이 없는 근로계약을 체결한 미화직, 보안직, 안내직, 행정사무직, 시설감시직, 시설운영직, 시설관리직 직원으로서 진흥원에서 직접 고용한 자를 말한다. <개정 2023. 02. 15.>2. \"상시ㆍ지속적 업무\"란 연중 9개월 이상 계속되는 업무로서 향후 2년 이상 지속될 것으로 예상되는 업무를 말한다.3. \"승급\"이란 동일직무 내 특정 단계에서 일정 소요연수에 도달한 공무직원이 제16조에 따라 다음 단계로 이동하는 것을 말한다. <개정 2023. 02. 15.>4. \"승진\"이란 시설운영 직무 공무직원이 제16조에 따라 일정한 절차를 거쳐 시설관리 직무로 이동하는 것을 말한다. <개정 2023. 02. 15.>5. \"인사관리부서\"란 「직제규정」 제3조제1항에 따른 조직 중 인사 관리를 담당하는 부서를 말한다. <개정 2023. 02. 15.>[제목개정 2023. 02. 15.]",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제16조",
+            "line_text": "",
+            "target_law_name": "(한국디자인진흥원) 공무직원 관리규칙",
+            "target_article_no": "제16조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2113641",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국디자인진흥원) 공무직원 관리규칙/제16조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(한국디자인진흥원)공무직원관리규칙#JO0003",
+            "reference_id": "SchlPubRul:(한국디자인진흥원)공무직원관리규칙#JO0016",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(한국디자인진흥원) 공무직원 관리규칙/(한국디자인진흥원) 공무직원 관리규칙.json"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제16조",
+            "line_text": "",
+            "target_law_name": "(한국디자인진흥원) 공무직원 관리규칙",
+            "target_article_no": "제16조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2113641",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국디자인진흥원) 공무직원 관리규칙/제16조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(한국디자인진흥원)공무직원관리규칙#JO0003",
+            "reference_id": "SchlPubRul:(한국디자인진흥원)공무직원관리규칙#JO0016",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(한국디자인진흥원) 공무직원 관리규칙/(한국디자인진흥원) 공무직원 관리규칙.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:(한국디자인진흥원)공무직원관리규칙#JO0003"
       },
@@ -77,9 +118,35 @@
         "article_title": "공무직원의 구분",
         "chapter": "",
         "chapter_path": "",
-        "content": "제4조(공무직원의 구분) ① 공무직원의 구분은 [별표2]와 같다② 진흥원은 공무직원의 직무내용을 명확히 하여야 하며, 다른 직원의 업무와 혼재되지 않도록 하여야 한다.",
+        "content": "제4조(공무직원의 구분) ① 공무직원의 구분은 [별표 2]와 같다② 진흥원은 공무직원의 직무내용을 명확히 하여야 하며, 다른 직원의 업무와 혼재되지 않도록 하여야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제1항",
+            "link_text": "별표 2",
+            "line_text": "",
+            "target_law_name": "(한국디자인진흥원) 공무직원 관리규칙",
+            "target_article_no": "별표2",
+            "target_article_title": "공무직원의 구분 및 직급체계",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2113641",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000154747&bylNo=0002&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(한국디자인진흥원)공무직원관리규칙#JO0004",
+            "target_unit": "BYL0002",
+            "reference_id": "SchlPubRul:(한국디자인진흥원)공무직원관리규칙#BYL0002",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(한국디자인진흥원) 공무직원 관리규칙/(한국디자인진흥원) 공무직원 관리규칙.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:(한국디자인진흥원)공무직원관리규칙#JO0004"
       },
@@ -99,7 +166,7 @@
         "article_title": "공무직원의 전환",
         "chapter": "",
         "chapter_path": "",
-        "content": "제6조(공무직원의 전환) ① 진흥원은 근로자파견회사 소속의 파견근로자 및 전문용역업체 소속의 근로자를 전환평가 후 노사전문가협의체(전환심사위원회)의 심의ㆍ의결을 거쳐 공무직원으로 전환할 수 있다.<개정 2023. 02. 15.>② 제1항에 따른 공무직원 전환평가의 제반사항은 인사관리부서에서 관할한다.③  진흥원은 공무직원 정원 및 전환심사위원 평가 결과를 고려하여 노사전문가협의체(전환심사위원회)의 심의ㆍ의결을 거쳐 최종 전환대상자를 선정한다.④ 최종 전환대상자로 선정된 자는 근로계약을 체결하고 공무직원으로 전환된다.",
+        "content": "제6조(공무직원의 전환) ① 진흥원은 근로자파견회사 소속의 파견근로자 및 전문용역업체 소속의 근로자를 전환평가 후 노사전문가협의체(전환심사위원회)의 심의ㆍ의결을 거쳐 공무직원으로 전환할 수 있다. <개정 2023. 02. 15.>② 제1항에 따른 공무직원 전환평가의 제반사항은 인사관리부서에서 관할한다.③  진흥원은 공무직원 정원 및 전환심사위원 평가 결과를 고려하여 노사전문가협의체(전환심사위원회)의 심의ㆍ의결을 거쳐 최종 전환대상자를 선정한다.④ 최종 전환대상자로 선정된 자는 근로계약을 체결하고 공무직원으로 전환된다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -198,7 +265,7 @@
         "article_title": "전보",
         "chapter": "",
         "chapter_path": "",
-        "content": "제15조(전보) ① 진흥원은 업무상의 필요, 공무직원의 고충해소 및 업무능력 향상 등을 위하여 공무직원을 전보할 수 있다.② 업무역량이 우수한 공무직원은 일정한 심사를 거쳐 일반직 또는 기능직으로 전환할 수 있으며 필요한 세부사항은 원장이 따로 정한다.<개정 2023. 02. 15.>③ 경영상의 이유 등으로 직원의 직무가 없어지는 경우 진흥원은 업무에 지장을 초래하지 않는 범위 내에서 재배치ㆍ전보 등을 통하여 고용유지를 위한 노력을 하여야 한다.",
+        "content": "제15조(전보) ① 진흥원은 업무상의 필요, 공무직원의 고충해소 및 업무능력 향상 등을 위하여 공무직원을 전보할 수 있다.② 업무역량이 우수한 공무직원은 일정한 심사를 거쳐 일반직 또는 기능직으로 전환할 수 있으며 필요한 세부사항은 원장이 따로 정한다. <개정 2023. 02. 15.>③ 경영상의 이유 등으로 직원의 직무가 없어지는 경우 진흥원은 업무에 지장을 초래하지 않는 범위 내에서 재배치ㆍ전보 등을 통하여 고용유지를 위한 노력을 하여야 한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -209,9 +276,35 @@
         "article_title": "승급 및 승진",
         "chapter": "",
         "chapter_path": "",
-        "content": "제16조(승급 및 승진) ① 진흥원은 [별표3] 승급단계별 최소 근속연수를 충족한 공무직원을 대상으로 인사위원회를 통해 승급을 시행할 수 있다.<개정 2023. 02. 15.>② 진흥원은 시설운영직 공무직원 중 근속연수 3년 이상, 직무연관 산업기사 자격 보유, 법정선임‘정’경력 2년 이상의 조건을 모두 갖춘 공무직원을 근무 성적평정, 법정선임 경력, 직무연관 자격, 포상, 기타 능력을 실증하여 인사위원회를 통해 시설관리직으로 승진을 시행할 수 있다.<개정 2023. 02. 15.>③ 공무직원 승진의 절차, 승진자의 승급단계 등 필요한 세부사항은 원장이 따로 정한다.<개정 2023. 02. 15.>",
+        "content": "제16조(승급 및 승진) ① 진흥원은 [별표 3] 승급단계별 최소 근속연수를 충족한 공무직원을 대상으로 인사위원회를 통해 승급을 시행할 수 있다. <개정 2023. 02. 15.>② 진흥원은 시설운영직 공무직원 중 근속연수 3년 이상, 직무연관 산업기사 자격 보유, 법정선임‘정’경력 2년 이상의 조건을 모두 갖춘 공무직원을 근무 성적평정, 법정선임 경력, 직무연관 자격, 포상, 기타 능력을 실증하여 인사위원회를 통해 시설관리직으로 승진을 시행할 수 있다. <개정 2023. 02. 15.>③ 공무직원 승진의 절차, 승진자의 승급단계 등 필요한 세부사항은 원장이 따로 정한다. <개정 2023. 02. 15.>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제16조",
+            "source_clause": "제16조제1항",
+            "link_text": "별표 3",
+            "line_text": "",
+            "target_law_name": "(한국디자인진흥원) 공무직원 관리규칙",
+            "target_article_no": "별표3",
+            "target_article_title": "승급단계별 표준소요년수",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2113641",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000154747&bylNo=0003&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(한국디자인진흥원)공무직원관리규칙#JO0016",
+            "target_unit": "BYL0003",
+            "reference_id": "SchlPubRul:(한국디자인진흥원)공무직원관리규칙#BYL0003",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(한국디자인진흥원) 공무직원 관리규칙/(한국디자인진흥원) 공무직원 관리규칙.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:(한국디자인진흥원)공무직원관리규칙#JO0016"
       },
@@ -231,9 +324,35 @@
         "article_title": "급여 및 복리후생",
         "chapter": "",
         "chapter_path": "",
-        "content": "제18조(급여 및 복리후생) 공무직원의 급여는 [별표1] 공무직원 직무기본급표 따른다.<개정 2023. 02. 15.>",
+        "content": "제18조(급여 및 복리후생) 공무직원의 급여는 [별표 1] 공무직원 직무기본급표 따른다. <개정 2023. 02. 15.>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제18조",
+            "source_clause": "제18조",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "(한국디자인진흥원) 공무직원 관리규칙",
+            "target_article_no": "별표1",
+            "target_article_title": "공무직원 직무기본급표",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2113641",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000154747&bylNo=0001&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(한국디자인진흥원)공무직원관리규칙#JO0018",
+            "target_unit": "BYL0001",
+            "reference_id": "SchlPubRul:(한국디자인진흥원)공무직원관리규칙#BYL0001",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(한국디자인진흥원) 공무직원 관리규칙/(한국디자인진흥원) 공무직원 관리규칙.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:(한국디자인진흥원)공무직원관리규칙#JO0018"
       },
@@ -242,9 +361,35 @@
         "article_title": "수당",
         "chapter": "",
         "chapter_path": "",
-        "content": "제18조의2(수당) 공무직원의 수당은 [별표4] 공무직원 수당표에 따른다.[본조신설 2023.02.15]",
+        "content": "제18조의2(수당) 공무직원의 수당은 [별표 4] 공무직원 수당표에 따른다.[본조신설 2023. 02. 15.]",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제18조의2",
+            "source_clause": "제18조의2",
+            "link_text": "별표 4",
+            "line_text": "",
+            "target_law_name": "(한국디자인진흥원) 공무직원 관리규칙",
+            "target_article_no": "별표4",
+            "target_article_title": "공무직원 수당표",
+            "appendix_no": "4",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2113641",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000154747&bylNo=0004&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(한국디자인진흥원)공무직원관리규칙#JO0018_02",
+            "target_unit": "BYL0004",
+            "reference_id": "SchlPubRul:(한국디자인진흥원)공무직원관리규칙#BYL0004",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(한국디자인진흥원) 공무직원 관리규칙/(한국디자인진흥원) 공무직원 관리규칙.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:(한국디자인진흥원)공무직원관리규칙#JO0018_02"
       },
@@ -354,53 +499,200 @@
       "promulgation_date": "20191231",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2019.12.31.>제1조(시행일) 이 규정은 원장의 결재를 받은 날부터 시행한다.제2조(정규직 전환에 따른 임금수준의 경과규정) ① 이 규정 제18조의 기준에도 불구하고 공무직원 전환 이전의 임금수준이 [보수규정시행규칙] 직무등급 및 승급단계별 기준임금표 보다 높은 공무직원은 현재의 임금수준을 적용한다.② 제1항에 해당하는 공무직원의 경우에는 향후 임금인상에 차등을 두어 [보수규정시행규칙] 직무등급 및 승급단계별 기준임금표의 임금수준과 일치하도록 조정한다.제3조(정규직 전환에 따른 정년의 경과규정) 이 규정 제22조의 기준에도 불구하고 고령친화 직종인 미화, 경비 직종의 공무직원 전환 당시 연령을 기준으로 다음 각 호와 같이 정년을 유예한다.1. 65세 경과자: 기간제 촉탁직으로 3년 보장2. 64세: 정년 3년 유예3. 63세: 정년 2년 유예4. 62세: 정년 1년 유예5. 61세이하: 정년 65세 적용제4조(경과조치) 이 규정 시행일 이전에 채용된 공무직원에 관한 사항은 동 규정을 적용 받는 것으로 한다.제5조(관련 법령의 준용) 이 규정에 정함이 없는 사항에 대하여는 진흥원의 관련규정, 「근로기준법」, 「남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률」, 「산업안전보건법」, 기타 관련 법령 등에서 정하는 바를 준용한다.",
-      "provision_id": "SchlPubRul:(한국디자인진흥원)공무직원관리규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:(한국디자인진흥원)공무직원관리규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000154747",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20251230"
     },
     {
       "promulgation_date": "20211230",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2021.12.30.>제1조(시행일) 이 규정은 원장의 결재를 받은 날부터 시행한다.제2조(적용례) [별표1]의 직무등급 및 승급단계별 표준임금표는 2021년 1월 1일부터 적용한다.",
-      "provision_id": "SchlPubRul:(한국디자인진흥원)공무직원관리규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:(한국디자인진흥원)공무직원관리규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000154747",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20251230"
     },
     {
       "promulgation_date": "20221229",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2022.12.29.>제1조(시행일) 이 규정은 원장의 결재를 받은 날부터 시행한다.제2조(적용례) [별표1]의 직무등급 및 승급단계별 표준임금표는 2022년 1월 1일부터 적용한다.",
-      "provision_id": "SchlPubRul:(한국디자인진흥원)공무직원관리규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:(한국디자인진흥원)공무직원관리규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000154747",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20251230"
     },
     {
       "promulgation_date": "20230215",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2023.02.15.>제1조(시행일) 이 규정은 원장의 결재를 받은 날부터 시행한다.제2조(적용례) 제18조의2 및 [별표4]의 개정규정은 2023년 3월 1일부터 적용한다.",
-      "provision_id": "SchlPubRul:(한국디자인진흥원)공무직원관리규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:(한국디자인진흥원)공무직원관리규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000154747",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20251230"
     },
     {
       "promulgation_date": "20231228",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2023.12.28.>제1조(시행일) 이 규칙은 원장의 결재를 받은 날부터 시행한다.제2조(적용례) [별표1]의 개정규정은 2023년 1월 1일부터 적용한다.",
-      "provision_id": "SchlPubRul:(한국디자인진흥원)공무직원관리규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:(한국디자인진흥원)공무직원관리규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000154747",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20251230"
     },
     {
       "promulgation_date": "20241227",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2024.12.27.>제1조(시행일) 이 규칙은 원장의 결재를 받은 날부터 시행한다.제2조(적용례) [별표1]의 개정규정은 2024년 1월 1일부터 적용한다.",
-      "provision_id": "SchlPubRul:(한국디자인진흥원)공무직원관리규칙#ADDENDUM"
+      "provision_id": "SchlPubRul:(한국디자인진흥원)공무직원관리규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000154747",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20251230"
+    },
+    {
+      "promulgation_date": "20251230",
+      "promulgation_no": "9999",
+      "content": "부칙 <제9999호, 2025.12.30.>제1조(시행일) 이 규칙은 원장의 결재를 받은 날부터 시행한다.제2조(적용례) [별표 1]의 개정규정은 2025년 1월 1일부터 적용한다.",
+      "provision_id": "SchlPubRul:(한국디자인진흥원)공무직원관리규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000154747",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20251230"
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "공무직원 직무기본급표",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000154747&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163674847",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163674847",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:(한국디자인진흥원)공무직원관리규칙#BYL0001",
+      "filename": "별표1_공무직원 직무기본급표.hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표1_공무직원 직무기본급표.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "공무직원의 구분 및 직급체계",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000154747&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163674851",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163674851",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:(한국디자인진흥원)공무직원관리규칙#BYL0002",
+      "filename": "별표2_공무직원의 구분 및 직급체계.hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표2_공무직원의 구분 및 직급체계.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별표",
+      "title": "승급단계별 표준소요년수",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000154747&bylNo=0003&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163674855",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163674855",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:(한국디자인진흥원)공무직원관리규칙#BYL0003",
+      "filename": "별표3_승급단계별 표준소요년수.hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표3_승급단계별 표준소요년수.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별표",
+      "title": "공무직원 수당표",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000154747&bylNo=0004&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163675099",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163675099",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:(한국디자인진흥원)공무직원관리규칙#BYL0004",
+      "filename": "별표4_공무직원 수당표.hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표4_공무직원 수당표.hwp",
+      "file_store_url": ""
+    }
+  ],
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 6,
+    "by_category": {
+      "학칙공단": 6
+    },
+    "by_relation_type": {
+      "internal_ref": 2,
+      "appendix_ref": 4
+    },
     "articles_total": 28,
-    "articles_with_relations": 0,
+    "articles_with_relations": 5,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 6,
-    "appendices_count": 3,
+    "addenda_count": 7,
+    "appendices_count": 4,
     "attachments_count": 0
   },
   "source": {
@@ -410,5 +702,8 @@
   "addendum_provision_id": "SchlPubRul:(한국디자인진흥원)공무직원관리규칙#ADDENDUM",
   "amendment_provision_id": "SchlPubRul:(한국디자인진흥원)공무직원관리규칙#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "(한국디자인진흥원) 공무직원 관리규칙/(한국디자인진흥원) 공무직원 관리규칙.json"
 }
