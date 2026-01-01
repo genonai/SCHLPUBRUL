@@ -1,25 +1,25 @@
 {
   "law_id": "2125051",
-  "mst": "2200000146061",
+  "mst": "2200000151933",
   "law_name": "여수광양항만공사 직제규정",
   "law_abbr": "",
   "law_type": "공단규정",
   "doc_target": "pi",
   "doc_kind": "공단정관",
   "adm_uid": "pi:2125051",
-  "promulgation_no": "393",
-  "promulgation_date": "20241231",
-  "enforcement_date": "20241231",
-  "revision_date": "20241231",
+  "promulgation_no": "420",
+  "promulgation_date": "20251218",
+  "enforcement_date": "20260101",
+  "revision_date": "20251218",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "여수광양항만공사",
     "담당자명": "주성구",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "여수광양항만공사 직제규정",
-    "발령일자": "20241231",
+    "발령일자": "20251218",
     "행정규칙종류": "공단규정",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,11 +27,11 @@
     "전화번호": "061-797-4335",
     "제개정구분명": "일부개정",
     "소관부처코드": "B552782",
-    "생성일자": "20260116",
+    "생성일자": "20260714",
     "행정규칙ID": "2125051",
     "담당부서기관코드": "B552782",
-    "발령번호": "393",
-    "행정규칙일련번호": "2200000146061"
+    "발령번호": "420",
+    "행정규칙일련번호": "2200000151933"
   },
   "amendment_text": "",
   "revision_reason": "",
@@ -68,7 +68,48 @@
         "chapter_path": "제1장 총칙",
         "content": "제3조(직제의 개정) 공사의 직제를 변경하고자 하는 경우에는 「항만공사법」 제10조에 따라 항만위원회의 심의를 거쳐야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "「항만공사법」",
+            "line_text": "",
+            "target_law_name": "항만공사법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2125051",
+            "target_url": "https://www.law.go.kr/법령/항만공사법",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:여수광양항만공사직제규정#JO0003",
+            "reference_id": "law:항만공사법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "항만공사법/법률/항만공사법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제10조",
+            "line_text": "",
+            "target_law_name": "항만공사법",
+            "target_article_no": "제10조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2125051",
+            "target_url": "https://www.law.go.kr/법령/항만공사법/제10조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:여수광양항만공사직제규정#JO0003",
+            "reference_id": "law:항만공사법#JO0010",
+            "target_repo": "LAW",
+            "target_git_path_guess": "항만공사법/법률/항만공사법.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:여수광양항만공사직제규정#JO0003"
       },
@@ -101,7 +142,33 @@
         "chapter_path": "제2장 기구 및 정원",
         "content": "제6조(기구) 공사의 기구는 별표 1과 같으며, 하부 조직은 사장이 세칙으로 정한다. <개정 2014. 03. 26.>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "여수광양항만공사 직제규정",
+            "target_article_no": "별표1",
+            "target_article_title": "기구표 (제6조 관련)",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2125051",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000151933&bylNo=0001&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:여수광양항만공사직제규정#JO0006",
+            "target_unit": "BYL0001",
+            "reference_id": "SchlPubRul:여수광양항만공사직제규정#BYL0001",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "여수광양항만공사 직제규정/여수광양항만공사 직제규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:여수광양항만공사직제규정#JO0006"
       },
@@ -123,7 +190,78 @@
         "chapter_path": "제2장 기구 및 정원",
         "content": "제8조(정원) ① 공사의 정원은 별표 2와 같으며, 제6조에 따른 기구별 정원은 별표 2에 따른 총 정원의 범위 안에서 사장이 세칙으로 정한다.② 정부가 별도정원으로 인정하는 임금피크제 적용 직원에 대하여는 정원을 따로 운용할 수 있다.  <개정 2019. 07. 18.>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제1항",
+            "link_text": "별표 2",
+            "line_text": "",
+            "target_law_name": "여수광양항만공사 직제규정",
+            "target_article_no": "별표2",
+            "target_article_title": "정원표 (제8조제1항 관련)",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2125051",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000151933&bylNo=0002&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:여수광양항만공사직제규정#JO0008",
+            "target_unit": "BYL0002",
+            "reference_id": "SchlPubRul:여수광양항만공사직제규정#BYL0002",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "여수광양항만공사 직제규정/여수광양항만공사 직제규정.json"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제1항",
+            "link_text": "제6조",
+            "line_text": "",
+            "target_law_name": "여수광양항만공사 직제규정",
+            "target_article_no": "제6조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2125051",
+            "target_url": "https://www.law.go.kr/학칙공단/여수광양항만공사 직제규정/제6조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:여수광양항만공사직제규정#JO0008",
+            "reference_id": "SchlPubRul:여수광양항만공사직제규정#JO0006",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "여수광양항만공사 직제규정/여수광양항만공사 직제규정.json"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제1항",
+            "link_text": "별표 2",
+            "line_text": "",
+            "target_law_name": "여수광양항만공사 직제규정",
+            "target_article_no": "별표2",
+            "target_article_title": "정원표 (제8조제1항 관련)",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2125051",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000151933&bylNo=0002&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:여수광양항만공사직제규정#JO0008",
+            "target_unit": "BYL0002",
+            "reference_id": "SchlPubRul:여수광양항만공사직제규정#BYL0002",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "여수광양항만공사 직제규정/여수광양항만공사 직제규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:여수광양항만공사직제규정#JO0008"
       },
@@ -134,7 +272,93 @@
         "chapter_path": "제3장 보직관리",
         "content": "제9조(보직원칙) ① 제6조에 따른 기구의 직위는 본부장, 단장, 실장, 부장, 지사장으로 분류하며 그 보직기준은 사장이 세칙으로 정한다. 다만 원활한 업무수행을 위하여 부서 내 팀 운영이 필요한 경우 담당 부서장은 사장의 승인을 얻은 후 팀장을 둘 수 있다. <개정 2014. 03. 26., 2017. 06. 30., 2019. 03. 08., 2020. 09. 24.>② 사장은 \"별표 2\"에 따른 직급별 정원을 초과하여 임용할 수 없다. 다만, 임용하려는 해당 직급까지의 누적 정원 대비 누적 현원에 결원이 발생할 경우에는 그 결원의 범위 안에서 해당직급을 임용할 수 있다.③ 사장은 인력운용상 필요한 경우에는 일반직 및 실무직의 결원을 제5조 제5항에 따라 계약직으로 운용할 수 있다. <개정 2014. 03. 26.>④ 공사에 파견된 행정기관 및 관계기관ㆍ단체 등의 임ㆍ직원(이하 \"파견직원\"이라 한다)에 대하여는 원 소속기관에서의 직급ㆍ직렬 직무분야와 본인의 전공, 적성 등을 고려하여 그에 상응하는 공사의 직위를 부여할 수 있다.⑤ 제5조제5항에 따라 채용된 계약직원에 대하여는 채용조건에 상응하는 공사의 직위를 부여할 수 있다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제9조",
+            "source_clause": "제9조제1항",
+            "link_text": "제6조",
+            "line_text": "",
+            "target_law_name": "여수광양항만공사 직제규정",
+            "target_article_no": "제6조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2125051",
+            "target_url": "https://www.law.go.kr/학칙공단/여수광양항만공사 직제규정/제6조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:여수광양항만공사직제규정#JO0009",
+            "reference_id": "SchlPubRul:여수광양항만공사직제규정#JO0006",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "여수광양항만공사 직제규정/여수광양항만공사 직제규정.json"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제9조",
+            "source_clause": "제9조제2항",
+            "link_text": "별표 2",
+            "line_text": "",
+            "target_law_name": "여수광양항만공사 직제규정",
+            "target_article_no": "별표2",
+            "target_article_title": "정원표 (제8조제1항 관련)",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2125051",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000151933&bylNo=0002&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:여수광양항만공사직제규정#JO0009",
+            "target_unit": "BYL0002",
+            "reference_id": "SchlPubRul:여수광양항만공사직제규정#BYL0002",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "여수광양항만공사 직제규정/여수광양항만공사 직제규정.json"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제9조",
+            "source_clause": "제9조제3항",
+            "link_text": "제5조",
+            "line_text": "",
+            "target_law_name": "여수광양항만공사 직제규정",
+            "target_article_no": "제5조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2125051",
+            "target_url": "https://www.law.go.kr/학칙공단/여수광양항만공사 직제규정/제5조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:여수광양항만공사직제규정#JO0009",
+            "reference_id": "SchlPubRul:여수광양항만공사직제규정#JO0005",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "여수광양항만공사 직제규정/여수광양항만공사 직제규정.json"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제9조",
+            "source_clause": "제9조제5항",
+            "link_text": "제5조제5항",
+            "line_text": "",
+            "target_law_name": "여수광양항만공사 직제규정",
+            "target_article_no": "제5조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2125051",
+            "target_url": "https://www.law.go.kr/학칙공단/여수광양항만공사 직제규정/제5조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:여수광양항만공사직제규정#JO0009",
+            "reference_id": "SchlPubRul:여수광양항만공사직제규정#JO0005",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "여수광양항만공사 직제규정/여수광양항만공사 직제규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:여수광양항만공사직제규정#JO0009"
       },
@@ -156,7 +380,28 @@
         "chapter_path": "제3장 보직관리",
         "content": "제11조(직무대리) ① 제6조에 따른 각 부서의 장은 각급 직위의 직원이 결원, 출장, 교육 등 사고가 있을 때에는 직무상 공백을 없게 하고, 그 책임 한계를 명백히 하기 위하여 그 부서의 차 하위 직원 중 직제상의 순서에 따라 그 직무를 대리하게 한다. <개정 2014. 03. 26.>② 각 부서의 장은 대리하게 할 업무가 특수하거나 그 밖의 부득이한 사유로 인하여 제1항에 따른 대리가 부적당하다고 인정할 경우에는 사고자와 동일직급 또는 하위직급의 다른 직원 중에서 대리할 직원을 지정할 수 있다.③ 사장은 각 부서의 장의 직위에 결원이 있을 때에는 결원직위의 직무를 수행할 능력이 있는 직원으로 대리하게 할 수 있다. <개정 2014. 03. 26.>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제1항",
+            "link_text": "제6조",
+            "line_text": "",
+            "target_law_name": "여수광양항만공사 직제규정",
+            "target_article_no": "제6조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2125051",
+            "target_url": "https://www.law.go.kr/학칙공단/여수광양항만공사 직제규정/제6조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:여수광양항만공사직제규정#JO0011",
+            "reference_id": "SchlPubRul:여수광양항만공사직제규정#JO0006",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "여수광양항만공사 직제규정/여수광양항만공사 직제규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:여수광양항만공사직제규정#JO0011"
       },
@@ -222,166 +467,360 @@
       "promulgation_date": "20110819",
       "promulgation_no": "7",
       "content": "부칙 <제7호, 2011.08.19.>제1조(시행일) 이 규정은 2011년 8월 19일부터 시행한다.",
-      "provision_id": "SchlPubRul:여수광양항만공사직제규정#ADDENDUM"
+      "provision_id": "SchlPubRul:여수광양항만공사직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000151933",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260101"
     },
     {
       "promulgation_date": "20120910",
       "promulgation_no": "46",
       "content": "부칙 <제46호, 2012.09.10.>제1조(시행일) 이 규정은 2012년 9월 10일부터 시행한다.",
-      "provision_id": "SchlPubRul:여수광양항만공사직제규정#ADDENDUM"
+      "provision_id": "SchlPubRul:여수광양항만공사직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000151933",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260101"
     },
     {
       "promulgation_date": "20130124",
       "promulgation_no": "52",
       "content": "부칙 <제52호, 2013.01.24.>제1조(시행일) 이 규정은 2013년 1월 24일부터 시행한다.",
-      "provision_id": "SchlPubRul:여수광양항만공사직제규정#ADDENDUM"
+      "provision_id": "SchlPubRul:여수광양항만공사직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000151933",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260101"
     },
     {
       "promulgation_date": "20140326",
       "promulgation_no": "86",
       "content": "부칙 <제86호, 2014.03.26.>제1조(시행일) 이 규정은 2014년 4월 7일부터 시행한다.",
-      "provision_id": "SchlPubRul:여수광양항만공사직제규정#ADDENDUM"
+      "provision_id": "SchlPubRul:여수광양항만공사직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000151933",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260101"
     },
     {
       "promulgation_date": "20150120",
       "promulgation_no": "111",
       "content": "부칙 <제111호, 2015.01.20.>제1조(시행일) 이 규정은 2015년 1월 26일부터 시행한다.",
-      "provision_id": "SchlPubRul:여수광양항만공사직제규정#ADDENDUM"
+      "provision_id": "SchlPubRul:여수광양항만공사직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000151933",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260101"
     },
     {
       "promulgation_date": "20160428",
       "promulgation_no": "146",
       "content": "부칙 <제146호, 2016.04.28.>제1조(시행일) 이 규정은 2016년 4월 28일부터 시행한다.",
-      "provision_id": "SchlPubRul:여수광양항만공사직제규정#ADDENDUM"
+      "provision_id": "SchlPubRul:여수광양항만공사직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000151933",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260101"
     },
     {
       "promulgation_date": "20161220",
       "promulgation_no": "158",
       "content": "부칙 <제158호, 2016.12.20.>제1조(시행일) 이 규정은 2016년 12월 20일부터 시행한다.",
-      "provision_id": "SchlPubRul:여수광양항만공사직제규정#ADDENDUM"
+      "provision_id": "SchlPubRul:여수광양항만공사직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000151933",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260101"
     },
     {
       "promulgation_date": "20170630",
       "promulgation_no": "170",
       "content": "부칙 <제170호, 2017.06.30.>제1조(시행일) 이 규정은 2017년 07월 3일부터 시행한다.",
-      "provision_id": "SchlPubRul:여수광양항만공사직제규정#ADDENDUM"
+      "provision_id": "SchlPubRul:여수광양항만공사직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000151933",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260101"
     },
     {
       "promulgation_date": "20170926",
       "promulgation_no": "175",
       "content": "부칙 <제175호, 2017.09.26.>제1조(시행일) 이 규정은 2017년 09월 26일부터 시행한다.",
-      "provision_id": "SchlPubRul:여수광양항만공사직제규정#ADDENDUM"
+      "provision_id": "SchlPubRul:여수광양항만공사직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000151933",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260101"
     },
     {
       "promulgation_date": "20180109",
       "promulgation_no": "183",
       "content": "부칙 <제183호, 2018.01.09.>제1조(시행일) 이 규정은 2018년 02월 01일부터 시행한다.",
-      "provision_id": "SchlPubRul:여수광양항만공사직제규정#ADDENDUM"
+      "provision_id": "SchlPubRul:여수광양항만공사직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000151933",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260101"
     },
     {
       "promulgation_date": "20180713",
       "promulgation_no": "204",
       "content": "부칙 <제204호, 2018.07.13.>제1조(시행일) 이 규정은 2018년 07월 13일부터 시행한다.",
-      "provision_id": "SchlPubRul:여수광양항만공사직제규정#ADDENDUM"
+      "provision_id": "SchlPubRul:여수광양항만공사직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000151933",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260101"
     },
     {
       "promulgation_date": "20181122",
       "promulgation_no": "207",
       "content": "부칙 <제207호, 2018.11.22.>제1조(시행일) 이 규정은 2018년 11월 22일부터 시행한다.",
-      "provision_id": "SchlPubRul:여수광양항만공사직제규정#ADDENDUM"
+      "provision_id": "SchlPubRul:여수광양항만공사직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000151933",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260101"
     },
     {
       "promulgation_date": "20190308",
       "promulgation_no": "221",
       "content": "부칙 <제221호, 2019.03.08.>제1조(시행일) 이 규정은 2019년 04월 01일부터 시행한다.",
-      "provision_id": "SchlPubRul:여수광양항만공사직제규정#ADDENDUM"
+      "provision_id": "SchlPubRul:여수광양항만공사직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000151933",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260101"
     },
     {
       "promulgation_date": "20190425",
       "promulgation_no": "223",
       "content": "부칙 <제223호, 2019.04.25.>제1조(시행일) 이 규정은 2019년 04월 25일부터 시행한다.",
-      "provision_id": "SchlPubRul:여수광양항만공사직제규정#ADDENDUM"
+      "provision_id": "SchlPubRul:여수광양항만공사직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000151933",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260101"
     },
     {
       "promulgation_date": "20190718",
       "promulgation_no": "239",
       "content": "부칙 <제239호, 2019.07.18.>제1조(시행일) 이 규정은 2019년 07월 18일부터 시행한다.",
-      "provision_id": "SchlPubRul:여수광양항만공사직제규정#ADDENDUM"
+      "provision_id": "SchlPubRul:여수광양항만공사직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000151933",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260101"
     },
     {
       "promulgation_date": "20191219",
       "promulgation_no": "246",
       "content": "부칙 <제246호, 2019.12.19.>제1조(시행일) 이 규정은 2019년 12월 19일부터 시행한다.제2조(정원에 관한 적용례) 별표 2 정원에 관한 개정 규정은 2020년 1월 1일부터 적용한다.",
-      "provision_id": "SchlPubRul:여수광양항만공사직제규정#ADDENDUM"
+      "provision_id": "SchlPubRul:여수광양항만공사직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000151933",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260101"
     },
     {
       "promulgation_date": "20200521",
       "promulgation_no": "252",
       "content": "부칙 <제252호, 2020.05.21.>제1조(시행일) 이 규정은 2020년 05월 21일부터 시행한다.",
-      "provision_id": "SchlPubRul:여수광양항만공사직제규정#ADDENDUM"
+      "provision_id": "SchlPubRul:여수광양항만공사직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000151933",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260101"
     },
     {
       "promulgation_date": "20200924",
       "promulgation_no": "264",
       "content": "부칙 <제264호, 2020.09.24.>제1조(시행일) 이 규정은 2020년 10월 08일부터 시행한다.",
-      "provision_id": "SchlPubRul:여수광양항만공사직제규정#ADDENDUM"
+      "provision_id": "SchlPubRul:여수광양항만공사직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000151933",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260101"
     },
     {
       "promulgation_date": "20201217",
       "promulgation_no": "278",
       "content": "부칙 <제278호, 2020.12.17.>제1조(시행일) 이 규정은 2021년 01월 01일부터 시행한다.",
-      "provision_id": "SchlPubRul:여수광양항만공사직제규정#ADDENDUM"
+      "provision_id": "SchlPubRul:여수광양항만공사직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000151933",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260101"
     },
     {
       "promulgation_date": "20211223",
       "promulgation_no": "312",
       "content": "부칙 <제312호, 2021.12.23.>제1조(시행일) 이 규정은 2022년 01월 01일부터 시행한다.",
-      "provision_id": "SchlPubRul:여수광양항만공사직제규정#ADDENDUM"
+      "provision_id": "SchlPubRul:여수광양항만공사직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000151933",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260101"
     },
     {
       "promulgation_date": "20220317",
       "promulgation_no": "321",
       "content": "부칙 <제321호, 2022.03.17.>제1조(시행일) 이 규정은 2022년 04월 01일부터 시행한다.",
-      "provision_id": "SchlPubRul:여수광양항만공사직제규정#ADDENDUM"
+      "provision_id": "SchlPubRul:여수광양항만공사직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000151933",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260101"
     },
     {
       "promulgation_date": "20221215",
       "promulgation_no": "338",
       "content": "부칙 <제338호, 2022.12.15.>제1조(시행일) 이 규정은 2023년 01월 01일부터 시행한다.",
-      "provision_id": "SchlPubRul:여수광양항만공사직제규정#ADDENDUM"
+      "provision_id": "SchlPubRul:여수광양항만공사직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000151933",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260101"
     },
     {
       "promulgation_date": "20230511",
       "promulgation_no": "354",
       "content": "부칙 <제354호, 2023.05.11.>제1조(시행일) 이 규정은 2023년 05월 16일부터 시행한다.",
-      "provision_id": "SchlPubRul:여수광양항만공사직제규정#ADDENDUM"
+      "provision_id": "SchlPubRul:여수광양항만공사직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000151933",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260101"
     },
     {
       "promulgation_date": "20230629",
       "promulgation_no": "356",
       "content": "부칙 <제356호, 2023.06.29.>제1조(시행일) 이 규정은 2023년 07월 06일부터 시행한다.",
-      "provision_id": "SchlPubRul:여수광양항만공사직제규정#ADDENDUM"
+      "provision_id": "SchlPubRul:여수광양항만공사직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000151933",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260101"
     },
     {
       "promulgation_date": "20241231",
       "promulgation_no": "393",
       "content": "부칙 <제393호, 2024.12.31.>제1조(시행일) 이 규정은 2024년 12월 31일부터 시행한다.",
-      "provision_id": "SchlPubRul:여수광양항만공사직제규정#ADDENDUM"
+      "provision_id": "SchlPubRul:여수광양항만공사직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000151933",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260101"
+    },
+    {
+      "promulgation_date": "20251218",
+      "promulgation_no": "420",
+      "content": "부칙 <제420호, 2025.12.18.>제1조(시행일) 이 규정은 2026년 1월 1일부터 시행한다.",
+      "provision_id": "SchlPubRul:여수광양항만공사직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000151933",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260101"
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "기구표 (제6조 관련)",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000151933&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167010867",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167010867",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:여수광양항만공사직제규정#BYL0001",
+      "filename": "별표1_기구표 (제6조 관련).hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표1_기구표 (제6조 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "정원표 (제8조제1항 관련)",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000151933&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167010871",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167010871",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:여수광양항만공사직제규정#BYL0002",
+      "filename": "별표2_정원표 (제8조제1항 관련).hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표2_정원표 (제8조제1항 관련).hwp",
+      "file_store_url": ""
+    }
+  ],
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 11,
+    "by_category": {
+      "법령": 2,
+      "학칙공단": 9
+    },
+    "by_relation_type": {
+      "citation": 2,
+      "appendix_ref": 4,
+      "internal_ref": 5
+    },
     "articles_total": 16,
-    "articles_with_relations": 0,
+    "articles_with_relations": 5,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 25,
+    "addenda_count": 26,
     "appendices_count": 2,
     "attachments_count": 0
   },
@@ -392,5 +831,8 @@
   "addendum_provision_id": "SchlPubRul:여수광양항만공사직제규정#ADDENDUM",
   "amendment_provision_id": "SchlPubRul:여수광양항만공사직제규정#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "여수광양항만공사 직제규정/여수광양항만공사 직제규정.json"
 }
