@@ -1,6 +1,6 @@
 {
   "law_id": "2114495",
-  "mst": "2200000143387",
+  "mst": "2200000152627",
   "law_name": "(한식진흥원) 직제규정",
   "law_abbr": "",
   "law_type": "공단규정",
@@ -8,18 +8,18 @@
   "doc_kind": "공단정관",
   "adm_uid": "pi:2114495",
   "promulgation_no": "9999",
-  "promulgation_date": "20250227",
-  "enforcement_date": "20250301",
-  "revision_date": "20250227",
+  "promulgation_date": "20251229",
+  "enforcement_date": "20260101",
+  "revision_date": "20251229",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "한식진흥원",
     "담당자명": "김준아",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "(한식진흥원) 직제규정",
-    "발령일자": "20250227",
+    "발령일자": "20251229",
     "행정규칙종류": "공단규정",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,11 +27,11 @@
     "전화번호": "02-6300-2066",
     "제개정구분명": "일부개정",
     "소관부처코드": "B554405",
-    "생성일자": "20260209",
+    "생성일자": "20260804",
     "행정규칙ID": "2114495",
     "담당부서기관코드": "B554405",
     "발령번호": "9999",
-    "행정규칙일련번호": "2200000143387"
+    "행정규칙일련번호": "2200000152627"
   },
   "amendment_text": "",
   "revision_reason": "",
@@ -79,7 +79,33 @@
         "chapter_path": "제2장 기구 및 정원",
         "content": "제4조(기구표) 진흥원의 기구표는 별표 1과 같다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "(한식진흥원) 직제규정",
+            "target_article_no": "별표1",
+            "target_article_title": "기구표",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2114495",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000152627&bylNo=0001&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(한식진흥원)직제규정#JO0004",
+            "target_unit": "BYL0001",
+            "reference_id": "SchlPubRul:(한식진흥원)직제규정#BYL0001",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(한식진흥원) 직제규정/(한식진흥원) 직제규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:(한식진흥원)직제규정#JO0004"
       },
@@ -90,7 +116,58 @@
         "chapter_path": "제2장 기구 및 정원",
         "content": "제5조(정원) ① 진흥원 임직원의 정원은 별표 2와 같다.② 이사장은 별표 2의 정원의 범위 내에서 업무형편에 따라 부서별 정원을 조정, 운영할 수 있다.③ 이사장은 사무처리를 위하여 필요한 경우 정원 외의 계약직원, 촉탁직원 및 임시직원을 둘 수 있다.④ 임금피크제 시행에 따른 임금피크 대상자에 대해서는 별도 정원으로 운영할 수 있다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제1항",
+            "link_text": "별표 2",
+            "line_text": "",
+            "target_law_name": "(한식진흥원) 직제규정",
+            "target_article_no": "별표2",
+            "target_article_title": "직급별 정원표",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2114495",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000152627&bylNo=0002&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(한식진흥원)직제규정#JO0005",
+            "target_unit": "BYL0002",
+            "reference_id": "SchlPubRul:(한식진흥원)직제규정#BYL0002",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(한식진흥원) 직제규정/(한식진흥원) 직제규정.json"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제2항",
+            "link_text": "별표 2",
+            "line_text": "",
+            "target_law_name": "(한식진흥원) 직제규정",
+            "target_article_no": "별표2",
+            "target_article_title": "직급별 정원표",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2114495",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000152627&bylNo=0002&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(한식진흥원)직제규정#JO0005",
+            "target_unit": "BYL0002",
+            "reference_id": "SchlPubRul:(한식진흥원)직제규정#BYL0002",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(한식진흥원) 직제규정/(한식진흥원) 직제규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:(한식진흥원)직제규정#JO0005"
       },
@@ -123,7 +200,28 @@
         "chapter_path": "제2장 기구 및 정원",
         "content": "제8조(임시직 직원) 진흥원은 제5조에서 규정하는 정원외에 예산의 범위 안에서 임시적 업무수행에 필요한 직원을 둘 수 있다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "제5조",
+            "line_text": "",
+            "target_law_name": "(한식진흥원) 직제규정",
+            "target_article_no": "제5조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2114495",
+            "target_url": "https://www.law.go.kr/학칙공단/(한식진흥원) 직제규정/제5조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(한식진흥원)직제규정#JO0008",
+            "reference_id": "SchlPubRul:(한식진흥원)직제규정#JO0005",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(한식진흥원) 직제규정/(한식진흥원) 직제규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:(한식진흥원)직제규정#JO0008"
       },
@@ -143,7 +241,7 @@
         "article_title": "업무분장",
         "chapter": "제3장 업무분장",
         "chapter_path": "제3장 업무분장",
-        "content": "제10조(업무분장) ① 각 부서별 업무분장은 이사장이 별도로 정한다.② 각 조직단위는 업무분장에 관하여 상호 이견이 있을 경우 다음 각 호의 정하는 바에 의한다.1. 동일 직상급자의 소속하에 있는 경우에는 그 상급자의 결정에 의한다.2. 각각 직상급자를 달리하는 경우에는 그 직급 상급자간의 협의에 의한다.3. 제2호의 규정에 의해 합의가 되지 아니하는 경우에는 사무총장의 결정에 의한다.",
+        "content": "제10조(업무분장) ① 각 부서별 업무분장은 이사장이 별도로 정한다.② 각 조직단위는 업무분장에 관하여 상호 이견이 있을 경우 다음 각 호의 정하는 바에 의한다.1. 동일 직상급자의 소속하에 있는 경우에는 그 상급자의 결정에 의한다.2. 각각 직상급자를 달리하는 경우에는 그 직급 상급자간의 협의에 의한다.3. 제 2호의 규정에 의해 합의가 되지 아니하는 경우에는 사무총장의 결정에 의한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -154,9 +252,35 @@
         "article_title": "보직기준 등",
         "chapter": "제3장 업무분장",
         "chapter_path": "제3장 업무분장",
-        "content": "제11조(보직기준 등) 제7조에 따른 세부 보직기준은 별표 3과 같다.",
+        "content": "제11조(보직기준 등) 제 7조에 따른 세부 보직기준은 별표 3과 같다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제11조",
+            "source_clause": "제11조",
+            "link_text": "별표 3",
+            "line_text": "",
+            "target_law_name": "(한식진흥원) 직제규정",
+            "target_article_no": "별표3",
+            "target_article_title": "직원 직명표",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2114495",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000152627&bylNo=0003&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(한식진흥원)직제규정#JO0011",
+            "target_unit": "BYL0003",
+            "reference_id": "SchlPubRul:(한식진흥원)직제규정#BYL0003",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(한식진흥원) 직제규정/(한식진흥원) 직제규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:(한식진흥원)직제규정#JO0011"
       },
@@ -211,70 +335,207 @@
       "promulgation_date": "20201123",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2020.11.23.>제1조(시행일) 이 규정은 정관 제정(안)이 이사회 승인 후, 농림축산식품부장관의 허가를 받은 날로부터 시행한다.",
-      "provision_id": "SchlPubRul:(한식진흥원)직제규정#ADDENDUM"
+      "provision_id": "SchlPubRul:(한식진흥원)직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000152627",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260101"
     },
     {
       "promulgation_date": "20201228",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2020.12.28.>제1조(시행일) 이 규정은 2021년 1월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:(한식진흥원)직제규정#ADDENDUM"
+      "provision_id": "SchlPubRul:(한식진흥원)직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000152627",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260101"
     },
     {
       "promulgation_date": "20211228",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2021.12.28.>제1조(시행일) 이 규정은 2022년 1월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:(한식진흥원)직제규정#ADDENDUM"
+      "provision_id": "SchlPubRul:(한식진흥원)직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000152627",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260101"
     },
     {
       "promulgation_date": "20221228",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2022.12.28.>제1조(시행일) 이 규정은 2023년 1월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:(한식진흥원)직제규정#ADDENDUM"
+      "provision_id": "SchlPubRul:(한식진흥원)직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000152627",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260101"
     },
     {
       "promulgation_date": "20230127",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2023.01.27.>제1조(시행일) 이 규정은 2023년 2월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:(한식진흥원)직제규정#ADDENDUM"
+      "provision_id": "SchlPubRul:(한식진흥원)직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000152627",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260101"
     },
     {
       "promulgation_date": "20231227",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2023.12.27.>제1조(시행일) 이 규정은 2024년 1월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:(한식진흥원)직제규정#ADDENDUM"
+      "provision_id": "SchlPubRul:(한식진흥원)직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000152627",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260101"
     },
     {
       "promulgation_date": "20240126",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2024.01.26.>제1조(시행일) 이 규정은 2024년 1월 26일부터 시행한다.제2조(경과조치) 제1항에도 불구하고 2024년도 정기인사 시행일 전까지는 종전의 규정을 따른다.",
-      "provision_id": "SchlPubRul:(한식진흥원)직제규정#ADDENDUM"
+      "provision_id": "SchlPubRul:(한식진흥원)직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000152627",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260101"
     },
     {
       "promulgation_date": "20241230",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2024.12.30.>제1조(시행일) 이 규정은 2025년 1월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:(한식진흥원)직제규정#ADDENDUM"
+      "provision_id": "SchlPubRul:(한식진흥원)직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000152627",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260101"
     },
     {
       "promulgation_date": "20250227",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2025.02.27.>제1조(시행일) 이 규정은 2025년 3월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:(한식진흥원)직제규정#ADDENDUM"
+      "provision_id": "SchlPubRul:(한식진흥원)직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000152627",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260101"
+    },
+    {
+      "promulgation_date": "20251229",
+      "promulgation_no": "9999",
+      "content": "부칙 <제9999호, 2025.12.29.>제1조(시행일) 이 규정은 2026년 1월 1일부터 시행한다.",
+      "provision_id": "SchlPubRul:(한식진흥원)직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000152627",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260101"
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "기구표",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000152627&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167784141",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167784141",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:(한식진흥원)직제규정#BYL0001",
+      "filename": "별표1_기구표.hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표1_기구표.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "직급별 정원표",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000152627&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167784145",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167784145",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:(한식진흥원)직제규정#BYL0002",
+      "filename": "별표2_직급별 정원표.hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표2_직급별 정원표.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별표",
+      "title": "직원 직명표",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000152627&bylNo=0003&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167784149",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167784149",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:(한식진흥원)직제규정#BYL0003",
+      "filename": "별표3_직원 직명표.hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표3_직원 직명표.hwp",
+      "file_store_url": ""
+    }
+  ],
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 5,
+    "by_category": {
+      "학칙공단": 5
+    },
+    "by_relation_type": {
+      "appendix_ref": 4,
+      "internal_ref": 1
+    },
     "articles_total": 15,
-    "articles_with_relations": 0,
+    "articles_with_relations": 4,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 9,
+    "addenda_count": 10,
     "appendices_count": 3,
     "attachments_count": 0
   },
@@ -285,5 +546,8 @@
   "addendum_provision_id": "SchlPubRul:(한식진흥원)직제규정#ADDENDUM",
   "amendment_provision_id": "SchlPubRul:(한식진흥원)직제규정#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "(한식진흥원) 직제규정/(한식진흥원) 직제규정.json"
 }
