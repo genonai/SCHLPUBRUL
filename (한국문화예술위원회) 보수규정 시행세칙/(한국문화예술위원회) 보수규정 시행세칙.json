@@ -1,6 +1,6 @@
 {
   "law_id": "2136539",
-  "mst": "2200000146205",
+  "mst": "2200000152263",
   "law_name": "(한국문화예술위원회) 보수규정 시행세칙",
   "law_abbr": "",
   "law_type": "공단규정",
@@ -8,18 +8,18 @@
   "doc_kind": "공단정관",
   "adm_uid": "pi:2136539",
   "promulgation_no": "9999",
-  "promulgation_date": "20250708",
-  "enforcement_date": "20250708",
-  "revision_date": "20250708",
+  "promulgation_date": "20260123",
+  "enforcement_date": "20260123",
+  "revision_date": "20260123",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "한국문화예술위원회 기획조정팀",
     "담당자명": "김원",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "(한국문화예술위원회) 보수규정 시행세칙",
-    "발령일자": "20250708",
+    "발령일자": "20260123",
     "행정규칙종류": "공단규정",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,11 +27,11 @@
     "전화번호": "061-900-2127",
     "제개정구분명": "일부개정",
     "소관부처코드": "B551510",
-    "생성일자": "20260128",
+    "생성일자": "20260430",
     "행정규칙ID": "2136539",
     "담당부서기관코드": "",
     "발령번호": "9999",
-    "행정규칙일련번호": "2200000146205"
+    "행정규칙일련번호": "2200000152263"
   },
   "amendment_text": "",
   "revision_reason": "",
@@ -44,9 +44,30 @@
         "article_title": "목적",
         "chapter": "",
         "chapter_path": "",
-        "content": "제1조(목적) 본 세칙은 보수규정 제2조에서 정하는 연봉제의 합리적인 운영을 위한 세부기준을 정함을 목적으로 한다. <개정 2023. 3. 27.>",
+        "content": "제1조(목적)  본 세칙은 보수규정 제2조에서 정하는 연봉제의 합리적인 운영을 위한 세부기준을 정함을 목적으로 한다. <개정 2023. 3. 27.>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제2조",
+            "line_text": "",
+            "target_law_name": "(한국문화예술위원회) 보수규정 시행세칙",
+            "target_article_no": "제2조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2136539",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국문화예술위원회) 보수규정 시행세칙/제2조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(한국문화예술위원회)보수규정시행세칙#JO0001",
+            "reference_id": "SchlPubRul:(한국문화예술위원회)보수규정시행세칙#JO0002",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(한국문화예술위원회) 보수규정 시행세칙/(한국문화예술위원회) 보수규정 시행세칙.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:(한국문화예술위원회)보수규정시행세칙#JO0001"
       },
@@ -77,7 +98,7 @@
         "article_title": "연봉책정방법",
         "chapter": "",
         "chapter_path": "",
-        "content": "제4조(연봉책정방법) ① 해당연도의 연봉은 보수항목에 따라 정부임금인상률, 직전년도 평가결과 등에 따라 책정되며, 세부 결정방법은 위원장이 별도로 정한다. <신설 2012. 12. 31., 2023. 3. 27.>② 연도중반에 직전년도 평가결과 등 세부 결정방법이 최종확정 될 경우, 확정 시점을 기준으로 차이 금액은 소급 적용한다. <신설 2012. 12. 31., 2023. 3. 27.>",
+        "content": "제4조(연봉책정방법) ① 해당연도의 연봉은 보수항목에 따라 정부임금인상률, 직전년도 평가결과 등에 따라 책정되며, 세부 결정방법은 위원장이 별도로 정한다. <신설 2012. 12. 31., 2023. 3. 27.>②연도중반에 직전년도 평가결과 등 세부 결정방법이 최종확정 될 경우, 확정 시점을 기준으로 차이 금액은 소급 적용한다. <신설 2012. 12. 31., 2023. 3. 27.>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -110,7 +131,7 @@
         "article_title": "기본연봉 및 직무급",
         "chapter": "",
         "chapter_path": "",
-        "content": "제7조(기본연봉 및 직무급) ① \"기본연봉\"이라함은 직원의 기본적인 성격의 급여를 말하며 익년도 연봉조정의 기준 급여가 된다. <개정 2023. 3. 27.>② \"직무급\"이라함은 서식 6호와 서식 7호에 제시된 직무등급별 지급액을 의미한다. 서식 6호의 직무등급은 해당직무가 폐지되거나, 난이도의 조정이 필요할 때, 또는 신규직무가 발생하였을 경우 인사위원회를 통해 수시로 조정할 수 있다. 또한, 서식 7호의 직무등급별 직무급은 예산의 범위 내에서 조정이 가능하다. <개정 2012. 12. 31., 2023. 3. 27.>③ 기본연봉의 인상은 정부의 임금인상률을 기준으로 결정하며, 누적식으로 운영한다. <개정 2023. 3. 27.>④ 삭제 <2023. 3. 27. .>⑤ 인사관리규정 제25조에 따른 업무 파견 시 직무급은 해당 직원의 파견 직전 직무급을 적용하여 지급한다. 다만, 직무급의 최대 지급 한도는 서식 7호에 따른 부서급의 장에 대한 직무급 지급 금액으로 한다. <신설 2021. 11. 11.>",
+        "content": "제7조(기본연봉 및 직무급) ① \"기본연봉\"이라함은 직원의 기본적인 성격의 급여를 말하며 익년도 연봉조정의 기준 급여가 된다. <개정 2023. 3. 27.>② \"직무급\"이라함은 서식 6호와 서식 7호에 제시된 직무등급별 지급액을 의미한다. 서식 6호의 직무등급은 해당직무가 폐지되거나, 난이도의 조정이 필요할 때, 또는 신규직무가 발생하였을 경우 인사위원회를 통해 수시로 조정할 수 있다. 또한, 서식 7호의 직무등급별 직무급은 예산의 범위 내에서 조정이 가능하다. <개정 2012. 12. 31. , 2023. 3. 27.>③ 기본연봉의 인상은 정부의 임금인상률을 기준으로 결정하며, 누적식으로 운영한다. <개정 2023. 3. 27.>④ 삭제 <2023. 3. 27.>⑤ 인사관리규정 제25조에 따른 업무 파견 시 직무급은 해당 직원의 파견 직전 직무급을 적용하여 지급한다. 다만, 직무급의 최대 지급 한도는 서식 7호에 따른 부서급의 장에 대한 직무급 지급 금액으로 한다. <신설 2021. 11. 11.>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -143,7 +164,7 @@
         "article_title": "기타수당",
         "chapter": "",
         "chapter_path": "",
-        "content": "제10조(기타수당) ① \"기타수당\"이라 함은 초과근무수당과 연차보상수당의 법적수당과 가족수당의 급여성 복리후생비를 의미하며, 이는 보수규정에서 제시하는 기준에 따라 각 항복에 해당하는 금액을 지급한다. <개정 2012. 12. 31., 2021. 11. 26.>② 법정수당은 예산범위 내에서 지급한다. <신설 2023. 3. 27. .>",
+        "content": "제10조(기타수당) ① \"기타수당\"이라 함은 초과근무수당과 연차보상수당의 법적수당과 가족수당의 급여성 복리후생비를 의미하며, 이는 보수규정에서 제시하는 기준에 따라 각 항복에 해당하는 금액을 지급한다. <개정 2012. 12. 31. , 2021. 11. 26.>② 법정수당은 예산범위 내에서 지급한다. <신설 2023. 3. 27.>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -165,7 +186,7 @@
         "article_title": "연봉계약 미타결시 연봉지급",
         "chapter": "",
         "chapter_path": "",
-        "content": "제12조(연봉계약 미타결시 연봉지급) 삭제 <2023. 3. 27. .>",
+        "content": "제12조(연봉계약 미타결시 연봉지급) 삭제 <2023. 3. 27.>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -231,9 +252,30 @@
         "article_title": "연봉체계의 개선 등",
         "chapter": "",
         "chapter_path": "",
-        "content": "제18조(연봉체계의 개선 등) 본 지침에 따른 연봉체계에 대한 개선이나 기준 변경 등을 위한 사항은 인사관리규정 제6조에 따른 인사위원회의 심의를 통해 최종 결정한다. <개정 2012. 12. 31., 2015. 5. 29., 2023. 3. 27.>",
+        "content": "제18조(연봉체계의 개선 등) 본 지침에 따른 연봉체계에 대한 개선이나 기준 변경 등을 위한 사항은 인사관리규정 제6조에 따른 인사위원회의 심의를 통해 최종 결정한다. <개정 2012. 12. 31. , 2015. 5. 29. , 2023. 3. 27.>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제18조",
+            "source_clause": "제18조",
+            "link_text": "제6조",
+            "line_text": "",
+            "target_law_name": "(한국문화예술위원회) 보수규정 시행세칙",
+            "target_article_no": "제6조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2136539",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국문화예술위원회) 보수규정 시행세칙/제6조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(한국문화예술위원회)보수규정시행세칙#JO0018",
+            "reference_id": "SchlPubRul:(한국문화예술위원회)보수규정시행세칙#JO0006",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(한국문화예술위원회) 보수규정 시행세칙/(한국문화예술위원회) 보수규정 시행세칙.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:(한국문화예술위원회)보수규정시행세칙#JO0018"
       },
@@ -264,9 +306,35 @@
         "article_title": "연봉결정통보 및 연봉계약",
         "chapter": "",
         "chapter_path": "",
-        "content": "제21조(연봉결정통보 및 연봉계약) ① 신규입사자의 기본연봉은 보수규정 별표 제2호의「직급별 초임연봉」및 공정채용 운영지침 별조 제3호의「경력직 경력인정범위 및 연봉산정기준」에 의거, 인사위원회에서 최종 결정한다. <개정 2012. 12. 31., 2023. 3. 27.>② 입사시점에 본 지침에 따른 연봉 관련 사항을 포함한 최초 근로계약서를 작성하고, 이후 매년 연봉계약에 대한 사항은 본 지침에 따라 결정하며, 결정된 사항은 사내 인트라넷 등을 통해 통보하는 것으로 갈음할 수 있다. <개정 2023. 3. 27.>③ 삭제 <2023. 3. 27.>",
+        "content": "제21조(연봉결정통보 및 연봉계약) ① 신규입사자의 기본연봉은 보수규정 별표 제2호의「직급별 초임연봉」및 공정채용 운영지침 별조 제3호의「경력직 경력인정범위 및 연봉산정기준」에 의거, 인사위원회에서 최종 결정한다. <개정 2012. 12. 31. , 2023. 3. 27.>② 입사시점에 본 지침에 따른 연봉 관련 사항을 포함한 최초 근로계약서를 작성하고, 이후 매년 연봉계약에 대한 사항은 본 지침에 따라 결정하며, 결정된 사항은 사내 인트라넷 등을 통해 통보하는 것으로 갈음할 수 있다. <개정 2023. 3. 27.>③ 삭제 <2023. 3. 27.>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제21조",
+            "source_clause": "제21조제1항",
+            "link_text": "별표 제2호",
+            "line_text": "",
+            "target_law_name": "(한국문화예술위원회) 보수규정 시행세칙",
+            "target_article_no": "별표2",
+            "target_article_title": "삭제 <2023. 3. 27.>",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2136539",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000152263&bylNo=&bylBrNo=",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(한국문화예술위원회)보수규정시행세칙#JO0021",
+            "target_unit": "BJ0002",
+            "reference_id": "SchlPubRul:(한국문화예술위원회)보수규정시행세칙#BJ0002",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(한국문화예술위원회) 보수규정 시행세칙/(한국문화예술위원회) 보수규정 시행세칙.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:(한국문화예술위원회)보수규정시행세칙#JO0021"
       },
@@ -275,7 +343,7 @@
         "article_title": "연봉 이의절차",
         "chapter": "",
         "chapter_path": "",
-        "content": "제22조(연봉 이의절차) 삭제 <2023. 3. 27.>",
+        "content": "제22조(연봉 이의절차)  삭제 <2023. 3. 27.>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -299,148 +367,450 @@
       "promulgation_date": "20110103",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2011.01.03.>본 세칙은 2011년 1월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:(한국문화예술위원회)보수규정시행세칙#ADDENDUM"
+      "provision_id": "SchlPubRul:(한국문화예술위원회)보수규정시행세칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000152263",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260123"
     },
     {
       "promulgation_date": "20121231",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2012.12.31.>본 세칙은 2013년 1월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:(한국문화예술위원회)보수규정시행세칙#ADDENDUM"
+      "provision_id": "SchlPubRul:(한국문화예술위원회)보수규정시행세칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000152263",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260123"
     },
     {
       "promulgation_date": "20150529",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2015.05.29.>본 세칙은 2015년 5월 29일부터 시행한다.",
-      "provision_id": "SchlPubRul:(한국문화예술위원회)보수규정시행세칙#ADDENDUM"
+      "provision_id": "SchlPubRul:(한국문화예술위원회)보수규정시행세칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000152263",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260123"
     },
     {
       "promulgation_date": "20151224",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2015.12.24.>본 세칙은 2015년 12월 24일부터 시행한다.",
-      "provision_id": "SchlPubRul:(한국문화예술위원회)보수규정시행세칙#ADDENDUM"
+      "provision_id": "SchlPubRul:(한국문화예술위원회)보수규정시행세칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000152263",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260123"
     },
     {
       "promulgation_date": "20160118",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2016.01.18.>본 세칙은 2016년 1월 18일부터 시행한다.",
-      "provision_id": "SchlPubRul:(한국문화예술위원회)보수규정시행세칙#ADDENDUM"
+      "provision_id": "SchlPubRul:(한국문화예술위원회)보수규정시행세칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000152263",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260123"
     },
     {
       "promulgation_date": "20160211",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2016.02.11.>본 세칙은 2016년 2월 11일부터 시행한다.",
-      "provision_id": "SchlPubRul:(한국문화예술위원회)보수규정시행세칙#ADDENDUM"
+      "provision_id": "SchlPubRul:(한국문화예술위원회)보수규정시행세칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000152263",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260123"
     },
     {
       "promulgation_date": "20160603",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2016.06.03.>본 세칙 중 서식5호의 개정된 내용은 2017년 1월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:(한국문화예술위원회)보수규정시행세칙#ADDENDUM"
+      "provision_id": "SchlPubRul:(한국문화예술위원회)보수규정시행세칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000152263",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260123"
     },
     {
       "promulgation_date": "20160729",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2016.07.29.>본 세칙 중 서식5호의 개정된 내용(2016. 7. 29.)은 2017년 1월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:(한국문화예술위원회)보수규정시행세칙#ADDENDUM"
+      "provision_id": "SchlPubRul:(한국문화예술위원회)보수규정시행세칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000152263",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260123"
     },
     {
       "promulgation_date": "20170228",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2017.02.28.>본 세칙은 2017년 2월 28일부터 시행한다.",
-      "provision_id": "SchlPubRul:(한국문화예술위원회)보수규정시행세칙#ADDENDUM"
+      "provision_id": "SchlPubRul:(한국문화예술위원회)보수규정시행세칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000152263",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260123"
     },
     {
       "promulgation_date": "20180413",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2018.04.13.>본 세칙은 2018년 4월 13일부터 시행한다.",
-      "provision_id": "SchlPubRul:(한국문화예술위원회)보수규정시행세칙#ADDENDUM"
+      "provision_id": "SchlPubRul:(한국문화예술위원회)보수규정시행세칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000152263",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260123"
     },
     {
       "promulgation_date": "20200101",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2020.01.01.>본 세칙은 2020년 1월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:(한국문화예술위원회)보수규정시행세칙#ADDENDUM"
+      "provision_id": "SchlPubRul:(한국문화예술위원회)보수규정시행세칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000152263",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260123"
     },
     {
       "promulgation_date": "20200708",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2020.07.08.>본 세칙은 2020년 7월 8일부터 시행한다.",
-      "provision_id": "SchlPubRul:(한국문화예술위원회)보수규정시행세칙#ADDENDUM"
+      "provision_id": "SchlPubRul:(한국문화예술위원회)보수규정시행세칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000152263",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260123"
     },
     {
       "promulgation_date": "20210223",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2021.02.23.>본 세칙은 2021년 2월 23일부터 시행한다.",
-      "provision_id": "SchlPubRul:(한국문화예술위원회)보수규정시행세칙#ADDENDUM"
+      "provision_id": "SchlPubRul:(한국문화예술위원회)보수규정시행세칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000152263",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260123"
     },
     {
       "promulgation_date": "20211111",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2021.11.11.>본 세칙은 2021년 11월 11일부터 시행한다.",
-      "provision_id": "SchlPubRul:(한국문화예술위원회)보수규정시행세칙#ADDENDUM"
+      "provision_id": "SchlPubRul:(한국문화예술위원회)보수규정시행세칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000152263",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260123"
     },
     {
       "promulgation_date": "20211126",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2021.11.26.>본 세칙은 2021년 11월 26일부터 시행한다.",
-      "provision_id": "SchlPubRul:(한국문화예술위원회)보수규정시행세칙#ADDENDUM"
+      "provision_id": "SchlPubRul:(한국문화예술위원회)보수규정시행세칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000152263",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260123"
     },
     {
       "promulgation_date": "20220225",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2022.02.25.>본 세칙은 2022년 2월 25일부터 시행한다.",
-      "provision_id": "SchlPubRul:(한국문화예술위원회)보수규정시행세칙#ADDENDUM"
+      "provision_id": "SchlPubRul:(한국문화예술위원회)보수규정시행세칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000152263",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260123"
     },
     {
       "promulgation_date": "20220428",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2022.04.28.>본 세칙은 2022년 4월 28일부터 시행한다.",
-      "provision_id": "SchlPubRul:(한국문화예술위원회)보수규정시행세칙#ADDENDUM"
+      "provision_id": "SchlPubRul:(한국문화예술위원회)보수규정시행세칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000152263",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260123"
     },
     {
       "promulgation_date": "20230102",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2023.01.02.>본 세칙은 2023년 1월 2일부터 시행한다.",
-      "provision_id": "SchlPubRul:(한국문화예술위원회)보수규정시행세칙#ADDENDUM"
+      "provision_id": "SchlPubRul:(한국문화예술위원회)보수규정시행세칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000152263",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260123"
     },
     {
       "promulgation_date": "20230327",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2023.03.27.>본 세칙은 2023년 3월 27일부터 시행한다.",
-      "provision_id": "SchlPubRul:(한국문화예술위원회)보수규정시행세칙#ADDENDUM"
+      "provision_id": "SchlPubRul:(한국문화예술위원회)보수규정시행세칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000152263",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260123"
     },
     {
       "promulgation_date": "20240216",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2024.02.16.>본 세칙은 2024년 2월 16일부터 시행한다.",
-      "provision_id": "SchlPubRul:(한국문화예술위원회)보수규정시행세칙#ADDENDUM"
+      "provision_id": "SchlPubRul:(한국문화예술위원회)보수규정시행세칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000152263",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260123"
     },
     {
       "promulgation_date": "20250306",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2025.03.06.>본 세칙은 2025년 3월 6일부터 시행한다.",
-      "provision_id": "SchlPubRul:(한국문화예술위원회)보수규정시행세칙#ADDENDUM"
+      "provision_id": "SchlPubRul:(한국문화예술위원회)보수규정시행세칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000152263",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260123"
     },
     {
       "promulgation_date": "20250708",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2025.07.08.>본 세칙은 2025년 7월 8일부터 시행한다.",
-      "provision_id": "SchlPubRul:(한국문화예술위원회)보수규정시행세칙#ADDENDUM"
+      "provision_id": "SchlPubRul:(한국문화예술위원회)보수규정시행세칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000152263",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260123"
+    },
+    {
+      "promulgation_date": "20260123",
+      "promulgation_no": "9999",
+      "content": "부칙 <제9999호, 2026.01.23.>본 세칙은 2026년 1월 23일부터 시행한다.",
+      "provision_id": "SchlPubRul:(한국문화예술위원회)보수규정시행세칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000152263",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260123"
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "서식",
+      "title": "삭제 <2023. 3. 27.>",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161264817",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161264817",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:(한국문화예술위원회)보수규정시행세칙#FORM0001",
+      "filename": "서식1_삭제 _2023. 3. 27._.hwp",
+      "file_dir": "서식",
+      "local_path": "서식/서식1_삭제 _2023. 3. 27._.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "삭제 <2023. 3. 27.>",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161264821",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161264821",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:(한국문화예술위원회)보수규정시행세칙#BJ0002",
+      "filename": "별지2_삭제 _2023. 3. 27._.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지2_삭제 _2023. 3. 27._.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "삭제 <2023. 3. 27.>",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161264825",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161264825",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:(한국문화예술위원회)보수규정시행세칙#BJ0003",
+      "filename": "별지3_삭제 _2023. 3. 27._.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지3_삭제 _2023. 3. 27._.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별지",
+      "title": "삭제 <2023. 3. 27.>",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161264829",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161264829",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:(한국문화예술위원회)보수규정시행세칙#BJ0004",
+      "filename": "별지4_삭제 _2023. 3. 27._.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지4_삭제 _2023. 3. 27._.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0005",
+      "branch": "00",
+      "kind": "별지",
+      "title": "경영평가성과급 평가등급별 지급 기준",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161264833",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161264833",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:(한국문화예술위원회)보수규정시행세칙#BJ0005",
+      "filename": "별지5_경영평가성과급 평가등급별 지급 기준.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지5_경영평가성과급 평가등급별 지급 기준.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0006",
+      "branch": "00",
+      "kind": "별지",
+      "title": "직무급 운영방안",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161264837",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161264837",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:(한국문화예술위원회)보수규정시행세칙#BJ0006",
+      "filename": "별지6_직무급 운영방안.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지6_직무급 운영방안.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0007",
+      "branch": "00",
+      "kind": "별지",
+      "title": "직무급 지급 기준",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161264843",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161264843",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:(한국문화예술위원회)보수규정시행세칙#BJ0007",
+      "filename": "별지7_직무급 지급 기준.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지7_직무급 지급 기준.hwp",
+      "file_store_url": ""
+    }
+  ],
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 3,
+    "by_category": {
+      "학칙공단": 3
+    },
+    "by_relation_type": {
+      "internal_ref": 2,
+      "appendix_ref": 1
+    },
     "articles_total": 23,
-    "articles_with_relations": 0,
+    "articles_with_relations": 3,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 22,
+    "addenda_count": 23,
     "appendices_count": 7,
     "attachments_count": 0
   },
@@ -451,5 +821,8 @@
   "addendum_provision_id": "SchlPubRul:(한국문화예술위원회)보수규정시행세칙#ADDENDUM",
   "amendment_provision_id": "SchlPubRul:(한국문화예술위원회)보수규정시행세칙#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "(한국문화예술위원회) 보수규정 시행세칙/(한국문화예술위원회) 보수규정 시행세칙.json"
 }
