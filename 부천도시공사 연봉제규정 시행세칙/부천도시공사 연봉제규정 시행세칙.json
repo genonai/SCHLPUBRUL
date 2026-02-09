@@ -1,40 +1,40 @@
 {
   "law_id": "2139775",
-  "mst": "2200000148281",
+  "mst": "2200000152663",
   "law_name": "부천도시공사 연봉제규정 시행세칙",
   "law_abbr": "",
   "law_type": "공단규정",
   "doc_target": "public",
   "doc_kind": "공공기관",
   "adm_uid": "public:2139775",
-  "promulgation_no": "131",
-  "promulgation_date": "20250829",
-  "enforcement_date": "20250829",
-  "revision_date": "20250829",
-  "revision_type": "제정",
-  "is_current": false,
+  "promulgation_no": "140",
+  "promulgation_date": "20260209",
+  "enforcement_date": "20260209",
+  "revision_date": "20260209",
+  "revision_type": "일부개정",
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "부천도시공사",
     "담당자명": "김승민",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "부천도시공사 연봉제규정 시행세칙",
-    "발령일자": "20250829",
+    "발령일자": "20260209",
     "행정규칙종류": "공단규정",
-    "제개정구분코드": "200401",
+    "제개정구분코드": "200403",
     "조문형식여부": "Y",
     "소관부처명": "부천도시공사",
     "전화번호": "032-340-0833",
-    "제개정구분명": "제정",
+    "제개정구분명": "일부개정",
     "소관부처코드": "B553888",
-    "생성일자": "20260209",
+    "생성일자": "20260210",
     "행정규칙ID": "2139775",
     "담당부서기관코드": "B553888",
-    "발령번호": "131",
-    "행정규칙일련번호": "2200000148281"
+    "발령번호": "140",
+    "행정규칙일련번호": "2200000152663"
   },
-  "amendment_text": "부천도시공사 연봉제규정 시행세칙 제정안\n부천도시공사 연봉제규정 시행세칙을 다음과 같이 제정한다.\n제1조(목적) 이 세칙은 「부천도시공사 연봉제규정」에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.\n제2조(기본연봉의 한계액) 연봉제규정 제12조 각 호의 산정원칙에 따라, 공사 봉급표상의 호봉 기준을 기초로 기본연봉의 한계액을 산정하며, 그 금액은 별표 1과 같다.\n별표 1을 별지와 같이 신설한다.",
-  "revision_reason": "부천도시공사 연봉제규정 시행세칙 제정안\n1. 제정이유\n행정안전부 「지방공기업 인사·조직 운영기준」 및 공사 연봉제 규정에 따라 연봉제 운영의 공정성과 예측 가능성을 높이기 위함\n2. 주요내용\n가. 연봉제규정 제12조(기본연봉의 한계액) 기준 명확화\n1) (입안배경) 현행 연봉제규정 제12조에 따른 연봉의 한계액 산정 기준이 취지와 다르게 적용되어 이를 바로잡고 합리적인 연봉제 제도가 운영되도록 하기 위함\n2) (입안내용) 연봉제규정 시행세칙을 제정하여 해당 직급의 ‘호봉’ 기준으로 연봉의 한계액을 산정하도록 명문화하고 별표에 각 직급별 상·하한액 구체적 금액 명시\n3) (기대효과) 지방공기업 인사·조직 운영기준에 부합하는 제도 운영 및 연봉제 제도의 공정성과 예측가능성 제고",
+  "amendment_text": "부천도시공사 연봉제규정 시행세칙 일부개정세칙안\n부천도시공사 연봉제규정 시행세칙 일부를 다음과 같이 개정한다.\n별표 1의 표를 다음과 같이 한다.\n직급\n상한액\n하한액\n일반2급\n104,833,590원\n53,371,240원\n일반3급\n87,816,050원\n42,209,890원\n일반4급\n79,293,500원\n37,316,860원",
+  "revision_reason": "1. 개정이유\n부천도시공사 연봉제 대상 직급의 연봉 상·하한액을 2026년 기본급에 맞게 현행화하기 위함\n2. 주요내용\n가. 연봉제규정 시행세칙 [별표 1] 직급별 금액 수정",
   "body": {
     "format": "articles",
     "article_count": 2,
@@ -46,7 +46,28 @@
         "chapter_path": "",
         "content": "제1조(목적) 이 세칙은 「부천도시공사 연봉제규정」에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「부천도시공사 연봉제규정」",
+            "line_text": "",
+            "target_law_name": "부천도시공사 연봉제규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2139775",
+            "target_url": "https://www.law.go.kr/학칙공단/부천도시공사 연봉제규정",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:부천도시공사연봉제규정시행세칙#JO0001",
+            "reference_id": "SchlPubRul:부천도시공사연봉제규정#DOC",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "부천도시공사 연봉제규정/부천도시공사 연봉제규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:부천도시공사연봉제규정시행세칙#JO0001"
       },
@@ -57,7 +78,33 @@
         "chapter_path": "",
         "content": "제2조(기본연봉의 한계액) 연봉제규정 제12조 각 호의 산정원칙에 따라, 공사 봉급표상의 호봉 기준을 기초로 기본연봉의 한계액을 산정하며, 그 금액은 별표 1과 같다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "부천도시공사 연봉제규정 시행세칙",
+            "target_article_no": "별표1",
+            "target_article_title": "기본연봉의 한계액 표",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2139775",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000152663&bylNo=0001&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:부천도시공사연봉제규정시행세칙#JO0002",
+            "target_unit": "BYL0001",
+            "reference_id": "SchlPubRul:부천도시공사연봉제규정시행세칙#BYL0001",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "부천도시공사 연봉제규정 시행세칙/부천도시공사 연봉제규정 시행세칙.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:부천도시공사연봉제규정시행세칙#JO0002"
       }
@@ -68,22 +115,69 @@
       "promulgation_date": "20250829",
       "promulgation_no": "00131",
       "content": "부칙 <제131호,2025.8.29>제1조(시행일) 이 세칙은 공포한 날부터 시행한다.제2조(적용례) 이 세칙은 시행 이전에 이미 처리된 사무에도 적용된 것으로 본다.",
-      "provision_id": "SchlPubRul:부천도시공사연봉제규정시행세칙#ADDENDUM"
+      "provision_id": "SchlPubRul:부천도시공사연봉제규정시행세칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000152663",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260209"
+    },
+    {
+      "promulgation_date": "20260209",
+      "promulgation_no": "00140",
+      "content": "부칙 <제140호,2026.2.9>이 세칙은 2026년 1월 1일부터 시행한다.",
+      "provision_id": "SchlPubRul:부천도시공사연봉제규정시행세칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000152663",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260209"
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "기본연봉의 한계액 표",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000152663&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161534213",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161534213",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:부천도시공사연봉제규정시행세칙#BYL0001",
+      "filename": "별표1_기본연봉의 한계액 표.hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표1_기본연봉의 한계액 표.hwp",
+      "file_store_url": ""
+    }
+  ],
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 2,
+    "by_category": {
+      "학칙공단": 2
+    },
+    "by_relation_type": {
+      "citation": 1,
+      "appendix_ref": 1
+    },
     "articles_total": 2,
-    "articles_with_relations": 0,
+    "articles_with_relations": 2,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 1,
+    "addenda_count": 2,
     "appendices_count": 1,
     "attachments_count": 0
   },
@@ -94,5 +188,8 @@
   "addendum_provision_id": "SchlPubRul:부천도시공사연봉제규정시행세칙#ADDENDUM",
   "amendment_provision_id": "SchlPubRul:부천도시공사연봉제규정시행세칙#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "부천도시공사 연봉제규정 시행세칙/부천도시공사 연봉제규정 시행세칙.json"
 }
