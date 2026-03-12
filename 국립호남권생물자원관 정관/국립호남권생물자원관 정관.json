@@ -1129,7 +1129,48 @@
         "chapter_path": "제4장 재산 및 예산ㆍ회계",
         "content": "제42조(운영계획의 수립 등) ① 호남권생물자원관은 예산이 확정되는 경우 지체 없이 이사회의 의결을 거쳐 그 회계연도의 예산에 따른 운영계획을 수립하여야 하며, 제38조제3항에 따라 확정된 예산이 변경된 경우에는 지체 없이 이사회의 의결을 거쳐 운영계획을 변경하여야 한다.② 호남권생물자원관은 제1항에 따라 수립한 운영계획을 기후에너지환경부장관에게 예산이 확정된 후 2개월 이내에 제출하여야 하며, 이를 국립생물자원관장에게 통보하여야 한다. <개정 2026. 03. 12.>③ 제38조제1항 및 제3항의 규정에 의한 예산안 의결 및 승인 당시에 해당연도 사업계획서를 포함한 경우에는 제1항 및 제2항의 절차를 수행한 것으로 본다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제42조",
+            "source_clause": "제42조제1항",
+            "link_text": "제38조제3항",
+            "line_text": "",
+            "target_law_name": "국립호남권생물자원관 정관",
+            "target_article_no": "제38조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2115953",
+            "target_url": "https://www.law.go.kr/학칙공단/국립호남권생물자원관 정관/제38조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:국립호남권생물자원관정관#JO0042",
+            "reference_id": "SchlPubRul:국립호남권생물자원관정관#JO0038",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "국립호남권생물자원관 정관/국립호남권생물자원관 정관.json"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제42조",
+            "source_clause": "제42조제3항",
+            "link_text": "제38조제1항 및 제3항",
+            "line_text": "",
+            "target_law_name": "국립호남권생물자원관 정관",
+            "target_article_no": "제38조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2115953",
+            "target_url": "https://www.law.go.kr/학칙공단/국립호남권생물자원관 정관/제38조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:국립호남권생물자원관정관#JO0042",
+            "reference_id": "SchlPubRul:국립호남권생물자원관정관#JO0038",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "국립호남권생물자원관 정관/국립호남권생물자원관 정관.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:국립호남권생물자원관정관#JO0042"
       },
@@ -1327,7 +1368,48 @@
         "chapter_path": "제6장 보칙",
         "content": "제60조(준용규정) 이 정관에 규정되지 않은 사항은 공공기관운영법과 「민법」 중 재단법인에 관한 규정 및 「기후에너지환경부 및 기상청 소관 비영리법인의 설립과 감독에 관한 규칙」을 준용한다. <개정 2026. 03. 12.>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제60조",
+            "source_clause": "제60조",
+            "link_text": "「민법」",
+            "line_text": "",
+            "target_law_name": "민법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2115953",
+            "target_url": "https://www.law.go.kr/법령/민법",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:국립호남권생물자원관정관#JO0060",
+            "reference_id": "law:민법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "민법/법률/민법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제60조",
+            "source_clause": "제60조",
+            "link_text": "「기후에너지환경부 및 기상청 소관 비영리법인의 설립과 감독에 관한 규칙」",
+            "line_text": "",
+            "target_law_name": "기후에너지환경부 및 기상청 소관 비영리법인의 설립과 감독에 관한 규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2115953",
+            "target_url": "https://www.law.go.kr/법령/기후에너지환경부 및 기상청 소관 비영리법인의 설립과 감독에 관한 규칙",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:국립호남권생물자원관정관#JO0060",
+            "reference_id": "law:기후에너지환경부및기상청소관비영리법인의설립과감독에관한규칙#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "기후에너지환경부 및 기상청 소관 비영리법인의 설립과 감독에 관한 규칙/법률/기후에너지환경부 및 기상청 소관 비영리법인의 설립과 감독에 관한 규칙.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:국립호남권생물자원관정관#JO0060"
       }
@@ -1420,17 +1502,17 @@
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 31,
+    "relations_total": 35,
     "by_category": {
-      "법령": 21,
-      "학칙공단": 10
+      "법령": 23,
+      "학칙공단": 12
     },
     "by_relation_type": {
-      "citation": 21,
-      "internal_ref": 10
+      "citation": 23,
+      "internal_ref": 12
     },
     "articles_total": 60,
-    "articles_with_relations": 12,
+    "articles_with_relations": 14,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
