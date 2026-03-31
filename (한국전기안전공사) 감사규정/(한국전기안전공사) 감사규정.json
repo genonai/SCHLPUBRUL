@@ -1,6 +1,6 @@
 {
   "law_id": "2135643",
-  "mst": "2200000153979",
+  "mst": "2200000160373",
   "law_name": "(한국전기안전공사) 감사규정",
   "law_abbr": "",
   "law_type": "공단규정",
@@ -8,9 +8,9 @@
   "doc_kind": "공단정관",
   "adm_uid": "pi:2135643",
   "promulgation_no": "9999",
-  "promulgation_date": "20251104",
-  "enforcement_date": "20251104",
-  "revision_date": "20251104",
+  "promulgation_date": "20260331",
+  "enforcement_date": "20260331",
+  "revision_date": "20260331",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
@@ -19,7 +19,7 @@
     "담당자명": "",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "(한국전기안전공사) 감사규정",
-    "발령일자": "20251104",
+    "발령일자": "20260331",
     "행정규칙종류": "공단규정",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,11 +27,11 @@
     "전화번호": "063-716-2122",
     "제개정구분명": "일부개정",
     "소관부처코드": "B551398",
-    "생성일자": "20260331",
+    "생성일자": "20260918",
     "행정규칙ID": "2135643",
     "담당부서기관코드": "B551398",
     "발령번호": "9999",
-    "행정규칙일련번호": "2200000153979"
+    "행정규칙일련번호": "2200000160373"
   },
   "amendment_text": "",
   "revision_reason": "",
@@ -65,9 +65,7 @@
             "source_provision_id": "SchlPubRul:(한국전기안전공사)감사규정#JO0001",
             "reference_id": "law:공공감사에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json",
-            "target_git_path": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json"
           }
         ],
         "images": [],
@@ -78,9 +76,30 @@
         "article_title": "적용대상",
         "chapter": "제1장 총칙",
         "chapter_path": "제1장 총칙",
-        "content": "제2조(적용대상) 감사업무 수행과 관련한 「공공감사에 관한 법률(이하 \"법령\"이라 한다)」및 「공기업ㆍ준정부기관 감사 운영규정(이하 \"감사운영규정\"이라 한다)」 등에서 정한 사항을 제외하고는 감사규정(이하 \"규정\"이라 한다)을 적용한다. <개정 2012. 2. 23., 2022. 10. 4.>",
+        "content": "제2조(적용대상) 감사업무 수행과 관련한 「공공감사에 관한 법률」(이하 \"법령\"이라 한다)및 「공기업ㆍ준정부기관 감사 운영규정」(이하 \"감사운영규정\"이라 한다) 등에서 정한 사항을 제외하고는 감사규정(이하 \"규정\"이라 한다)을 적용한다. <개정 2012. 2. 23., 2022. 10. 4.>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「공공감사에 관한 법률」",
+            "line_text": "",
+            "target_law_name": "공공감사에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2135643",
+            "target_url": "https://www.law.go.kr/법령/공공감사에 관한 법률",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(한국전기안전공사)감사규정#JO0002",
+            "reference_id": "law:공공감사에관한법률#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:(한국전기안전공사)감사규정#JO0002"
       },
@@ -111,7 +130,7 @@
         "article_title": "삭제",
         "chapter": "제1장 총칙",
         "chapter_path": "제1장 총칙",
-        "content": "제5조 삭제 <2012. 2. 23.>",
+        "content": "제5조 <삭제 2012. 2. 23.>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -187,9 +206,7 @@
             "source_provision_id": "SchlPubRul:(한국전기안전공사)감사규정#JO0010",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -209,9 +226,7 @@
             "source_provision_id": "SchlPubRul:(한국전기안전공사)감사규정#JO0010",
             "reference_id": "law:공공기관의운영에관한법률#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
           }
         ],
         "images": [],
@@ -254,11 +269,7 @@
             "source_provision_id": "SchlPubRul:(한국전기안전공사)감사규정#JO0011_02",
             "reference_id": "SchlPubRul:(한국전기안전공사)감사규정#JO0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전기안전공사) 감사규정/(한국전기안전공사) 감사규정.json",
-            "target_git_path": "(한국전기안전공사) 감사규정/(한국전기안전공사) 감사규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국전기안전공사) 감사규정/(한국전기안전공사) 감사규정.json"
           }
         ],
         "images": [],
@@ -335,7 +346,7 @@
         "article_title": "감사실 직원에 대한 복무관리",
         "chapter": "제3장 감사 지원부서",
         "chapter_path": "제3장 감사 지원부서",
-        "content": "제18조(감사실 직원에 대한 복무관리) ① 감사는 감사실 직원이 행동규범에 반하여 업무를 수행하거나 비위 등으로 적발된 경우 즉시 사장에게 요구하여 인사조치 등  필요한 조치를 취하여야 한다. <개정 2012. 2. 23., 2022. 10. 4.>② 감사인으로 재직 중에 발생한 감사인의 비위행위에 대해서는 일반직원보다 가중하여 처벌할 수 있다. <신설 2024. 3. 12.>",
+        "content": "제18조(감사실 직원에 대한 복무관리) ① 감사는 감사실 직원이 행동규범에 반하여 업무를 수행하거나 비위 등으로 적발된 경우 즉시 사장에게 요구하여 인사조치 등 필요한 조치를 취하여야 한다. <개정 2012. 2. 23., 2022. 10. 4.>② 감사인으로 재직 중에 발생한 감사인의 비위행위에 대해서는 일반직원보다 가중하여 처벌할 수 있다. <신설 2024. 3. 12.>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -355,8 +366,8 @@
       {
         "article_no": "제20조",
         "article_title": "연간 감사계획의 수립",
-        "chapter": "제4장  감사업무 절차",
-        "chapter_path": "제4장  감사업무 절차",
+        "chapter": "제4장 감사업무 절차",
+        "chapter_path": "제4장 감사업무 절차",
         "content": "제20조(연간 감사계획의 수립) ① 감사는 매 회계연도 시작 후 1월 이내에 다음 각 호의 사항을 포함한 해당연도 연간감사계획서를 작성하여야 한다. <개정 2012. 2. 23., 2022. 10. 4.>1. 감사사항2. 감사의 목적 및 필요성3. 감사의 종류와 감사대상부서4. 감사의 범위5. 감사 실시 기간과 인원6. 그 밖에 감사에 필요한 사항② 제1항에 따른 연간감사계획에 포함되지 않은 자체감사를 하는 경우에는 제1항제1호부터 제6호까지의 사항이 포함된 감사계획을 별도로 수립하여야 한다. <신설 2012. 2. 23., 2022. 10. 4.>",
         "enforcement_date": "",
         "relations": [],
@@ -366,8 +377,8 @@
       {
         "article_no": "제21조",
         "article_title": "감사의 사전예고",
-        "chapter": "제4장  감사업무 절차",
-        "chapter_path": "제4장  감사업무 절차",
+        "chapter": "제4장 감사업무 절차",
+        "chapter_path": "제4장 감사업무 절차",
         "content": "제21조(감사의 사전예고) ① 감사는 감사예정일 7일전까지 감사계획의 주요내용을 감사대상 부서 또는 사업소장에게 통보하여야 한다. 다만 신속히 감사를 실시하여야 할 급박한 사정이 있거나 감사의 실효성을 거두기 위하여 부득이한 때에는 그렇지 않다. <개정 2012. 2. 23., 2022. 10. 4.>② 감사는 감사계획을 변경한 때에는 그 내용을 감사대상 부서 또는 사업소의 장에게 지체 없이 통보하여야 한다. <개정 2022. 10. 4.>",
         "enforcement_date": "",
         "relations": [],
@@ -377,8 +388,8 @@
       {
         "article_no": "제22조",
         "article_title": "감사의 기준",
-        "chapter": "제4장  감사업무 절차",
-        "chapter_path": "제4장  감사업무 절차",
+        "chapter": "제4장 감사업무 절차",
+        "chapter_path": "제4장 감사업무 절차",
         "content": "제22조(감사의 기준) 감사는 다음 각 호를 감사의 기준으로 적용한다. <개정 2012. 2. 23., 2022. 10. 4.>1. 합법성 및 합리성2. 경제성, 능률성 및 효과성3. 형평성, 공정성 및 객관성4. 그 밖의 합리적인 준거",
         "enforcement_date": "",
         "relations": [],
@@ -388,9 +399,9 @@
       {
         "article_no": "제23조",
         "article_title": "감사조서",
-        "chapter": "제4장  감사업무 절차",
-        "chapter_path": "제4장  감사업무 절차",
-        "content": "제23조(감사조서) ① 감사는 감사조서를 기록하고 이를 보존하여야 한다. 다만, 전자문서로 보존하는 경우에는 작성일 이후 수정이 불가능한 형태로 보존하여야 한다. <개정 2012. 2. 23.>② 감사조서에는 감사의 목적, 범위 및 방법과 감사 진행상황 및 감사결론을 뒷받침하는 증빙자료 등을 첨부하여야 한다.",
+        "chapter": "제4장 감사업무 절차",
+        "chapter_path": "제4장 감사업무 절차",
+        "content": "제23조(감사조서) ① 감사는 감사조서를 기록하고 이를 보존하여야 한다. 다만, 전자문서로 보존하는 경우에는 작성일 이후 수정이 불가능한 형태로 보존하여야 한다. <개정 2012. 2. 23>② 감사조서에는 감사의 목적, 범위 및 방법과 감사 진행상황 및 감사결론을 뒷받침하는 증빙자료 등을 첨부하여야 한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -399,8 +410,8 @@
       {
         "article_no": "제24조",
         "article_title": "감사일지",
-        "chapter": "제4장  감사업무 절차",
-        "chapter_path": "제4장  감사업무 절차",
+        "chapter": "제4장 감사업무 절차",
+        "chapter_path": "제4장 감사업무 절차",
         "content": "제24조(감사일지) 감사는 감사일지를 갖춰 놓고 일상감사 내용을 기록하여야 한다. 다만, 전산형태로 기록하는 경우에는 제23조제1항을 준용한다. <개정 2012. 2. 23., 2022. 10. 4.>",
         "enforcement_date": "",
         "relations": [
@@ -422,11 +433,7 @@
             "source_provision_id": "SchlPubRul:(한국전기안전공사)감사규정#JO0024",
             "reference_id": "SchlPubRul:(한국전기안전공사)감사규정#JO0023",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전기안전공사) 감사규정/(한국전기안전공사) 감사규정.json",
-            "target_git_path": "(한국전기안전공사) 감사규정/(한국전기안전공사) 감사규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국전기안전공사) 감사규정/(한국전기안전공사) 감사규정.json"
           }
         ],
         "images": [],
@@ -435,9 +442,9 @@
       {
         "article_no": "제25조",
         "article_title": "감사결과 통보",
-        "chapter": "제4장  감사업무 절차",
-        "chapter_path": "제4장  감사업무 절차",
-        "content": "제25조(감사결과 통보) ① 감사는 종합감사 및 특정감사 결과를 사장에게 통보하고 이사회에 보고하여야 한다. 이 경우 감사결과에 따라 사장에게 다음 각 호의 요구를 할 수 있다. <개정 2012. 2. 23., 2022. 10. 4.>1. 규정ㆍ제도 또는 운영상 불합리한 사항의 개선2. 위법부당하다고 인정된 사항에 대한 중단 및 시정3. 관계직원에 대한 징계 또는 변상4. 관계직원에 대한 교육 및 그 밖의 필요한 조치5. 감사결과 우수직원에 대한 포상 <신설 2012. 2. 23.>② 제1항제3호에 따른 징계를 요구할 때에는 그 종류(해임, 강등, 정직, 감봉, 견책 등으로 구분) 및 사유를 명시하고 변상을 요구할 때에는 변상책임자, 변상액 및 그 사유를 명시하여야 한다. <개정 2022. 10. 4.>③ 삭제 <개정 2022. 10. 4.>",
+        "chapter": "제4장 감사업무 절차",
+        "chapter_path": "제4장 감사업무 절차",
+        "content": "제25조(감사결과 통보) ① 감사는 종합감사 및 특정감사 결과를 사장에게 통보하고 이사회에 보고하여야 한다. 이 경우 감사결과에 따라 사장에게 다음 각 호의 요구를 할 수 있다. <개정 2012. 2. 23., 2022. 10. 4.>1. 규정ㆍ제도 또는 운영상 불합리한 사항의 개선2. 위법부당하다고 인정된 사항에 대한 중단 및 시정3. 관계직원에 대한 징계 또는 변상4. 관계직원에 대한 교육 및 그 밖의 필요한 조치5. 감사결과 우수직원에 대한 포상 <신설 2012. 2. 23.>② 제1항제3호에 따른 징계를 요구할 때에는 그 종류(해임, 강등, 정직, 감봉, 견책 등으로 구분) 및 사유를 명시하고 변상을 요구할 때에는 변상책임자, 변상액 및 그 사유를 명시하여야 한다. <개정 2022. 10. 4.>③ <삭제 2022. 10. 4.>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -446,8 +453,8 @@
       {
         "article_no": "제25조의2",
         "article_title": "적극행정에 대한 면책",
-        "chapter": "제4장  감사업무 절차",
-        "chapter_path": "제4장  감사업무 절차",
+        "chapter": "제4장 감사업무 절차",
+        "chapter_path": "제4장 감사업무 절차",
         "content": "제25조의2(적극행정에 대한 면책) 자체감사를 받는 사람이 불합리한 규제의 개선 등 공공의 이익을 위하여 업무를 적극적으로 처리한 결과에 대하여 그의 행위에 고의나 중대한 과실이 없는 경우에는 이 규정에 따른 징계 요구 또는 문책 요구 등 책임을 묻지 않는다. <신설 2022. 10. 4.>",
         "enforcement_date": "",
         "relations": [],
@@ -457,8 +464,8 @@
       {
         "article_no": "제26조",
         "article_title": "시효정지",
-        "chapter": "제4장  감사업무 절차",
-        "chapter_path": "제4장  감사업무 절차",
+        "chapter": "제4장 감사업무 절차",
+        "chapter_path": "제4장 감사업무 절차",
         "content": "제26조(시효정지) ① 사장은 감사로부터 외부감사 시작 및 특정사안에 대하여 조사시작 통보를 받은 날부터 징계 또는 문책절차를 진행하지 못한다. <개정 2022. 10. 4.>② 제1항에 따른 징계 또는 문책절차를 진행하지 못하여 법령 또는 공사에서 정한 징계, 문책 시효기간이 만료되거나, 시효의 남은 기간이 1개월에 못 미치게 될 때에는 그 시효기간은 조사종료의 통보를 받은 날 또는 처분 요구 및 조치사항을 통보받은 날부터 1개월이 경과한 날에 만료되는 것으로 본다. <신설 2012. 2. 23., 2019. 12. 23., 2022. 10. 4.>",
         "enforcement_date": "",
         "relations": [],
@@ -468,8 +475,8 @@
       {
         "article_no": "제27조",
         "article_title": "감사결과 조치",
-        "chapter": "제4장  감사업무 절차",
-        "chapter_path": "제4장  감사업무 절차",
+        "chapter": "제4장 감사업무 절차",
+        "chapter_path": "제4장 감사업무 절차",
         "content": "제27조(감사결과 조치) ① 사장은 제25조에 따른 요구를 받은 때에는 지체 없이 이에 대한 조치를 취하고 그 결과를 감사에게 통보하여야 한다. 다만, 감사의 요구에 이의가 있을 때에는 그 이유를 명백히 하여 15일 이내에 감사에 이의신청을 할 수 있다. <개정 2012. 2. 23., 2022. 10. 4.>② 감사는 제1항에 따른 조치내용이 요구내용과 다르거나 사장의 이의신청이 부당하다고 인정되는 경우 1월 이내에 사장에게 재요구할 수 있다. <개정 2022. 10. 4.>③ 제2항에 따라 사장이 재요구를 받은 때에는 정당한 사유가 없을 때에는 감사의 재요구에 응하여야 한다. 다만, 사장은 재요구에 이의가 있을 때에는 1월 이내에 감사에 사유를 명시하여 재심사를 요구할 수 있다. <개정 2022. 10. 4.>④ 사장이 제3항에 따른 재심사를 요구하지 않으면서 1월을 초과하여 재요구에 대해 조치를 취하지 않거나 재심사 요구 사유가 정당하지 못하다고 판단되는 경우 감사는 이사회에 그 사실을 보고하여야 한다. <개정 2022. 10. 4.>",
         "enforcement_date": "",
         "relations": [
@@ -491,11 +498,7 @@
             "source_provision_id": "SchlPubRul:(한국전기안전공사)감사규정#JO0027",
             "reference_id": "SchlPubRul:(한국전기안전공사)감사규정#JO0025",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전기안전공사) 감사규정/(한국전기안전공사) 감사규정.json",
-            "target_git_path": "(한국전기안전공사) 감사규정/(한국전기안전공사) 감사규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국전기안전공사) 감사규정/(한국전기안전공사) 감사규정.json"
           }
         ],
         "images": [],
@@ -504,8 +507,8 @@
       {
         "article_no": "제27조의2",
         "article_title": "감사결과의 공개",
-        "chapter": "제4장  감사업무 절차",
-        "chapter_path": "제4장  감사업무 절차",
+        "chapter": "제4장 감사업무 절차",
+        "chapter_path": "제4장 감사업무 절차",
         "content": "제27조의2(감사결과의 공개) 감사결과는 원칙적으로 공개한다. 다만, 「공공기관의 정보공개에 관한 법률」 제9조제1항 각 호의 어느 하나에 해당하는 정보는 공개하지 않을 수 있다. <개정 2012. 2. 23., 2022. 10. 4.>",
         "enforcement_date": "",
         "relations": [
@@ -527,9 +530,7 @@
             "source_provision_id": "SchlPubRul:(한국전기안전공사)감사규정#JO0027_02",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
-            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -549,9 +550,7 @@
             "source_provision_id": "SchlPubRul:(한국전기안전공사)감사규정#JO0027_02",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
-            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
           }
         ],
         "images": [],
@@ -560,8 +559,8 @@
       {
         "article_no": "제28조",
         "article_title": "내ㆍ외부전문가 참여",
-        "chapter": "제4장  감사업무 절차",
-        "chapter_path": "제4장  감사업무 절차",
+        "chapter": "제4장 감사업무 절차",
+        "chapter_path": "제4장 감사업무 절차",
         "content": "제28조(내ㆍ외부전문가 참여) ① 회계, 건설, 환경 등 전문지식이나 실무경험 등이 요구되는 분야를 감사하는 경우 외부전문기관 또는 내ㆍ외부전문가를 감사에 참여시킬 수 있다. <개정 2019. 12. 23.>② 제1항에 따른 감사에 참여하는 외부전문기관 또는 외부전문가에게는 예산의 범위에서 수당, 여비 및 그 밖의 필요한 경비를 지급할 수 있다. <신설 2012. 2. 23., 2022. 10. 4.>",
         "enforcement_date": "",
         "relations": [],
@@ -573,7 +572,7 @@
         "article_title": "감사보고서",
         "chapter": "제5장 감사결과 보고",
         "chapter_path": "제5장 감사결과 보고",
-        "content": "제29조(감사보고서) ① 감사는 매 회계연도 경과 후 2월 이내에 직전년도 감사결과를 종합한 연간감사보고서를 작성하여 이사회와 주무부장관 및 기획재정부장관, 감사원장에게 보고하여야 한다. <개정 2011. 2. 7., 2012. 2. 23.>② 감사는 연간감사보고서를 작성함에 있어 지적한 사항 이외의 주요 사항에 대해서는 공사 업무활동의 적정 여부를 명기하고 불확실한 사안은 이를 향후 감사계획에 포함하여야 한다.③ 연간감사보고서는 「공공기관의 운영에 관한 법률」 제11조 및 제12조에 따라 공시 및 통합공시하고 공사의 인터넷 홈페이지에 올려야 한다. <개정 2011. 2. 7., 2022. 10. 4.>④ 감사는 제4조에서 정한 특정감사 종료 후 1월 내에 감사보고서를 작성하여 감사요청 기관, 이사회, 주무부장관 및 기획재정부장관에 보고하고, 사장에게 제출하여야 한다. 다만, 감사의 필요에 따라 특정감사를 실시한 결과 경미한 사항으로 판단되는 경우에는 이를 생략할 수 있다. <개정 2010. 2. 23., 2022. 10. 4.>⑤ 감사는 감사결과 기관의 위법 또는 부당한 업무처리 사항이 인정되는 경우에는 감사결과에 대하여 감사 종료 후 1월 내에 감사보고서를 작성하여 주무부장관 및 기획재정부장관에게 보고하여야 한다. 다만, 제4항에 따른 감사보고서에 포함되었거나 경미한 사항으로 판단되는 경우에는 이를 생략할 수 있다. <신설 2010. 2. 23., 2022. 10. 4.>",
+        "content": "제29조(감사보고서) ① 감사는 매 회계연도 경과 후 2월 이내에 직전년도 감사결과를 종합한 연간감사보고서를 작성하여 이사회와 주무부장관 및 재정경제부장관, 감사원장에게 보고하여야 한다. <개정 2011. 2. 7., 2012. 2. 23., 2026. 3. 31.>② 감사는 연간감사보고서를 작성함에 있어 지적한 사항 이외의 주요 사항에 대해서는 공사 업무활동의 적정 여부를 명기하고 불확실한 사안은 이를 향후 감사계획에 포함하여야 한다.③ 연간감사보고서는 「공공기관의 운영에 관한 법률」 제11조 및 제12조에 따라 공시 및 통합공시하고 공사의 인터넷 홈페이지에 올려야 한다. <개정 2011. 2. 7., 2022. 10. 4.>④ 감사는 제4조에서 정한 특정감사 종료 후 1월 내에 감사보고서를 작성하여 감사요청 기관, 이사회, 주무부장관 및 재정경제부장관에 보고하고, 사장에게 제출하여야 한다. 다만, 감사의 필요에 따라 특정감사를 실시한 결과 경미한 사항으로 판단되는 경우에는 이를 생략할 수 있다. <개정 2010. 2. 23., 2022. 10. 4., 2026. 3. 31.>⑤ 감사는 감사결과 기관의 위법 또는 부당한 업무처리 사항이 인정되는 경우에는 감사결과에 대하여 감사 종료 후 1월 내에 감사보고서를 작성하여 주무부장관 및 재정경제부장관에게 보고하여야 한다. 다만, 제4항에 따른 감사보고서에 포함되었거나 경미한 사항으로 판단되는 경우에는 이를 생략할 수 있다. <신설 2010. 2. 23., 2022. 10. 4., 2026. 3. 31.>",
         "enforcement_date": "",
         "relations": [
           {
@@ -594,9 +593,7 @@
             "source_provision_id": "SchlPubRul:(한국전기안전공사)감사규정#JO0029",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -616,9 +613,7 @@
             "source_provision_id": "SchlPubRul:(한국전기안전공사)감사규정#JO0029",
             "reference_id": "law:공공기관의운영에관한법률#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -638,9 +633,7 @@
             "source_provision_id": "SchlPubRul:(한국전기안전공사)감사규정#JO0029",
             "reference_id": "law:공공기관의운영에관한법률#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -660,11 +653,7 @@
             "source_provision_id": "SchlPubRul:(한국전기안전공사)감사규정#JO0029",
             "reference_id": "SchlPubRul:(한국전기안전공사)감사규정#JO0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전기안전공사) 감사규정/(한국전기안전공사) 감사규정.json",
-            "target_git_path": "(한국전기안전공사) 감사규정/(한국전기안전공사) 감사규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국전기안전공사) 감사규정/(한국전기안전공사) 감사규정.json"
           }
         ],
         "images": [],
@@ -708,7 +697,7 @@
         "article_title": "경영지침 준수여부 보고",
         "chapter": "제5장 감사결과 보고",
         "chapter_path": "제5장 감사결과 보고",
-        "content": "제33조(경영지침 준수여부 보고) 감사는 「공공기관의 운영에 관한 법률」 제50조제1항에 따른 경영지침 준수를 위한 효과적인 감사활동 수행을 위해 노력하여야 하며, 기관의 경영지침 위반사항을 발견하는 경우에는 그 위반사항과 그에 대한 조치계획을 지체 없이 주무부장관 및 기획재정부장관에게 보고하여야 한다. <개정 2012. 2. 23., 2022. 10. 4.>",
+        "content": "제33조(경영지침 준수여부 보고) 감사는 「공공기관의 운영에 관한 법률」 제50조제1항에 따른 경영지침 준수를 위한 효과적인 감사활동 수행을 위해 노력하여야 하며, 기관의 경영지침 위반사항을 발견하는 경우에는 그 위반사항과 그에 대한 조치계획을 지체 없이 주무부장관 및 재정경제부장관에게 보고하여야 한다. <개정 2012. 2. 23., 2022. 10. 4., 2026. 3. 31.>",
         "enforcement_date": "",
         "relations": [
           {
@@ -729,9 +718,7 @@
             "source_provision_id": "SchlPubRul:(한국전기안전공사)감사규정#JO0033",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -751,9 +738,7 @@
             "source_provision_id": "SchlPubRul:(한국전기안전공사)감사규정#JO0033",
             "reference_id": "law:공공기관의운영에관한법률#JO0050",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
           }
         ],
         "images": [],
@@ -874,7 +859,7 @@
         "article_title": "회계감사의 기준",
         "chapter": "제7장 보칙 <개정 2012. 2. 23.>",
         "chapter_path": "제7장 보칙 <개정 2012. 2. 23.>",
-        "content": "제43조(회계감사의 기준) 회계감사의 기준이 되는 회계처리의 원칙은 「공공기관의 운영에 관한 법률」 제39조제3항에 따라 기획재정부령으로 정하는 바에 따른다. <개정 2011. 2. 7., 2012. 2. 23., 2022. 10. 4.>",
+        "content": "제43조(회계감사의 기준) 회계감사의 기준이 되는 회계처리의 원칙은 「공공기관의 운영에 관한 법률」 제39조제3항에 따라 재정경제부령으로 정하는 바에 따른다. <개정 2011. 2. 7., 2012. 2. 23., 2022. 10. 4., 2026. 3. 31.>",
         "enforcement_date": "",
         "relations": [
           {
@@ -895,9 +880,7 @@
             "source_provision_id": "SchlPubRul:(한국전기안전공사)감사규정#JO0043",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -917,9 +900,7 @@
             "source_provision_id": "SchlPubRul:(한국전기안전공사)감사규정#JO0043",
             "reference_id": "law:공공기관의운영에관한법률#JO0039",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
           }
         ],
         "images": [],
@@ -962,11 +943,7 @@
             "source_provision_id": "SchlPubRul:(한국전기안전공사)감사규정#JO0045",
             "reference_id": "SchlPubRul:(한국전기안전공사)감사규정#JO0025",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전기안전공사) 감사규정/(한국전기안전공사) 감사규정.json",
-            "target_git_path": "(한국전기안전공사) 감사규정/(한국전기안전공사) 감사규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국전기안전공사) 감사규정/(한국전기안전공사) 감사규정.json"
           }
         ],
         "images": [],
@@ -981,10 +958,10 @@
       "content": "부칙 <제9999호, 1976.09.10.>이 규정은 1976. 9. 10부터 시행한다.",
       "provision_id": "SchlPubRul:(한국전기안전공사)감사규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000153979",
+      "source_mst": "2200000160373",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251104"
+      "version_enforcement_date": "20260331"
     },
     {
       "promulgation_date": "20240312",
@@ -992,10 +969,10 @@
       "content": "부칙 <제9999호, 2024.03.12.>이 규정은 공포일부터 시행한다.",
       "provision_id": "SchlPubRul:(한국전기안전공사)감사규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000153979",
+      "source_mst": "2200000160373",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251104"
+      "version_enforcement_date": "20260331"
     },
     {
       "promulgation_date": "20251104",
@@ -1003,31 +980,42 @@
       "content": "부칙 <제9999호, 2025.11.04.>이 규정은 공포일부터 시행한다.",
       "provision_id": "SchlPubRul:(한국전기안전공사)감사규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000153979",
+      "source_mst": "2200000160373",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251104"
+      "version_enforcement_date": "20260331"
+    },
+    {
+      "promulgation_date": "20260331",
+      "promulgation_no": "9999",
+      "content": "부칙 <제9999호, 2026.03.31.>이 규정은 공포일부터 시행한다.",
+      "provision_id": "SchlPubRul:(한국전기안전공사)감사규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000160373",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260331"
     }
   ],
   "appendices": [],
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 17,
+    "relations_total": 18,
     "by_category": {
-      "법령": 12,
+      "법령": 13,
       "학칙공단": 5
     },
     "by_relation_type": {
-      "citation": 12,
+      "citation": 13,
       "internal_ref": 5
     },
     "articles_total": 49,
-    "articles_with_relations": 10,
+    "articles_with_relations": 11,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 3,
+    "addenda_count": 4,
     "appendices_count": 0,
     "attachments_count": 0
   },
