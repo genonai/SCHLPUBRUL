@@ -1,6 +1,6 @@
 {
   "law_id": "2122755",
-  "mst": "2200000140525",
+  "mst": "2200000153761",
   "law_name": "부산도시공사 직제규정시행내규",
   "law_abbr": "",
   "law_type": "공단규정",
@@ -8,18 +8,18 @@
   "doc_kind": "공공기관",
   "adm_uid": "public:2122755",
   "promulgation_no": "9999",
-  "promulgation_date": "20251229",
-  "enforcement_date": "20260101",
-  "revision_date": "20251229",
+  "promulgation_date": "20260306",
+  "enforcement_date": "20260401",
+  "revision_date": "20260306",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "부산도시공사",
     "담당자명": "류보경",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "부산도시공사 직제규정시행내규",
-    "발령일자": "20251229",
+    "발령일자": "20260306",
     "행정규칙종류": "공단규정",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,11 +27,11 @@
     "전화번호": "051-810-1275",
     "제개정구분명": "일부개정",
     "소관부처코드": "B551922",
-    "생성일자": "20260401",
+    "생성일자": "20260402",
     "행정규칙ID": "2122755",
-    "담당부서기관코드": "B551922",
+    "담당부서기관코드": "",
     "발령번호": "9999",
-    "행정규칙일련번호": "2200000140525"
+    "행정규칙일련번호": "2200000153761"
   },
   "amendment_text": "",
   "revision_reason": "",
@@ -68,7 +68,33 @@
         "chapter_path": "제1장 총칙",
         "content": "제3조(하부조직) ①각 본부내 실·처·단, 부의 명칭과 수는 별표 1과 같다.<신설 1998.12.24> <개정 2001.12.31, 2004.7.7, 2005.2.4, 2005.8.8, 2010.7.1, 2012.2.10, 2013. 3. 20, 2014. 7. 31, 2015. 5. 15, 2016. 12. 29, 2018. 2. 7, 2019. 1.16, 2019. 7.15., 2021.12.24.>② 삭제 <2015. 5.15>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제1항",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "부산도시공사 직제규정시행내규",
+            "target_article_no": "별표1",
+            "target_article_title": "기구표",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2122755",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000153761&bylNo=0001&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:부산도시공사직제규정시행내규#JO0003",
+            "target_unit": "BYL0001",
+            "reference_id": "SchlPubRul:부산도시공사직제규정시행내규#BYL0001",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "부산도시공사 직제규정시행내규/부산도시공사 직제규정시행내규.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:부산도시공사직제규정시행내규#JO0003"
       },
@@ -79,7 +105,33 @@
         "chapter_path": "제1장 총칙",
         "content": "제4조(업무분장) ①부서인 실·처·단, 실·처·단 내 부별 업무분장은 별표 2와 같다<개정 1991. 12. 1, 1992. 4. 30, 1993. 3. 25, 1995. 2. 13, 1995. 10. 19, 1996. 6. 3, 1996. 12. 24, 1998. 12. 24, 2004.7.7, 2005. 8. 8, 2010. 7. 1, 2012. 2. 10, 2013. 3. 20, 2014. 7. 31, 2015. 5. 15, 2016. 12. 29, 2018. 2. 7, 2019. 1.16, 2019. 7.15, 2020. 6. 2., 2020.12.16., 2021.12.24.>②각 본부장은 소관업무에 대하여 조정을 하고 권한 범위내 추진 책임을 진다.③ 삭제 <2013. 3.20>④ 삭제 <2010. 7. 1>⑤실·처·단장(부서장)은 소관 부서의 사무를 총괄하며, 소속 직원을 지휘 감독한다. 부서장이 직무를 수행할 수 없을 때에는 부장 및 직급상 선임자 순에 따라 그 직무를 대행한다. <신설 2004.7.7><개정 2005. 2.4 2005. 8. 8, 2009. 2. 1, 2012. 2.10, 2015. 5. 15, 2018. 2. 7, 2019. 1.16, 2020. 6. 2., 2021.12.24.>⑥ 삭제 <2007. 1.29>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제1항",
+            "link_text": "별표 2",
+            "line_text": "",
+            "target_law_name": "부산도시공사 직제규정시행내규",
+            "target_article_no": "별표2",
+            "target_article_title": "부서별업무분장표",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2122755",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000153761&bylNo=0002&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:부산도시공사직제규정시행내규#JO0004",
+            "target_unit": "BYL0002",
+            "reference_id": "SchlPubRul:부산도시공사직제규정시행내규#BYL0002",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "부산도시공사 직제규정시행내규/부산도시공사 직제규정시행내규.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:부산도시공사직제규정시행내규#JO0004"
       },
@@ -88,7 +140,7 @@
         "article_title": "임직원호칭",
         "chapter": "제1장 총칙",
         "chapter_path": "제1장 총칙",
-        "content": "제4조의2(임직원호칭)  ①임직원은 다음 각 호와 같이 호칭한다. 다만, 보상 및 임대주택 관리 등 대민업무의 효율적 수행을 위해 필요시 기획경영본부장을 부사장으로 호칭 할 수 있다. <개정 2015. 5.15>1. 실·처·단, 부의 장 : 실·처·단,부장 <개정 2015. 5.15, 2019. 1.16., 2021.12.24.>2.삭제 <2015. 5.15>②일반직 및 도시재생직 중 직책을 부여받지 않은 직원의 직급별 명칭은 다음 각 호와 같이 호칭한다. <개정 2021. 9.24., 2024.12.13.>1. 1∼2급 : 처장2. 3급 : 부장3. 4급 : 차장4. 5급 : 과장5. 6급 : 대리6. 7급 : 주임<개정 2004. 9.22, 2010. 5. 6>③ 아르피나 운영직 중 직책을 부여받지 않은 직원의 직급별 명칭은 다음 각 호와 같이 호칭한다. <신설 2021. 9.24.>1. 1∼2급 : 처장 <개정 2024.12.13.>2. 3급 : 부장 <개정 2024.12.13.>3. 4급 : 차장 <개정 2024.12.13.>4. 5급 : 과장 <개정 2024.12.13.>5. 6급 : 대리 <신설 2024.12.13.>6. 7급 : 주임 <신설 2024.12.13.>7. 8급 : 사원 <신설 2024.12.13.>④ 삭제 <2024.12.13.>[전문개정 2012. 2.10][제목개정 2012. 2.10]",
+        "content": "제4조의2(임직원호칭)  ①임직원은 다음 각 호와 같이 호칭한다. 다만, 보상 및 임대주택 관리 등 대민업무의 효율적 수행을 위해 필요시 기획경영본부장을 부사장으로 호칭 할 수 있다. <개정 2015. 5.15>1. 실·처·단, 부의 장 : 실·처·단,부장 <개정 2015. 5.15, 2019. 1.16., 2021.12.24.>2.삭제 <2015. 5.15>②일반직 중 직책을 부여받지 않은 직원의 직급별 명칭은 다음 각 호와 같이 호칭한다. <개정 2021. 9.24., 2024.12.13., 2025.12. 9.>1. 1∼2급 : 처장2. 3급 : 부장3. 4급 : 차장4. 5급 : 과장5. 6급 : 대리6. 7급 : 주임<개정 2004. 9.22, 2010. 5. 6>③삭제 <2025.12. 9.>1.~7.삭제 <2025.12. 9.>④ 삭제 <2024.12.13.>[전문개정 2012. 2.10][제목개정 2012. 2.10]",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -99,9 +151,35 @@
         "article_title": "정원",
         "chapter": "제1장 총칙",
         "chapter_path": "제1장 총칙",
-        "content": "제5조(정원) ①실·처·단별 정원은 별표 3과 같다.<개정 1991.12. 1, 1992. 4.30, 1995.10.19, 1996. 6. 3, 1998.12.24, 2004. 7 .7, 2005. 8. 8, 2006. 9.14, 2010. 5. 6, 2010. 7. 1, 2010. 7. 1, 2012. 2.10, 2013. 3.20, 2014. 7.31, 2015. 5. 15, 2016.12.29, 2017. 8.30, 2018. 2. 7, 2019. 1.16, 2019. 7.15., 2021.12.24., 2025.12.29.>②특정업무 수행을 위하여 필요한 경우 사장은 정원의 범위내에서 임시조직을 설치·운영할 수 있다.<신설 2009. 2. 1>③각 본부장은 본부별 정원 범위내에서 사업여건에 따라 부서간 인력을 조정 운영할 수 있다. 다만, 일반직과 아르피나 운영직, 도시재생직 간 인력조정은 원칙적으로 금지한다. <신설 2012. 2.10> <개정 2021. 9.24., 2023. 6. 2.>",
+        "content": "제5조(정원) ①실·처·단별 정원은 별표 3과 같다.<개정 1991.12. 1, 1992. 4.30, 1995.10.19, 1996. 6. 3, 1998.12.24, 2004. 7 .7, 2005. 8. 8, 2006. 9.14, 2010. 5. 6, 2010. 7. 1, 2010. 7. 1, 2012. 2.10, 2013. 3.20, 2014. 7.31, 2015. 5. 15, 2016.12.29, 2017. 8.30, 2018. 2. 7, 2019. 1.16, 2019. 7.15., 2021.12.24.>②특정업무 수행을 위하여 필요한 경우 사장은 정원의 범위내에서 임시조직을 설치·운영할 수 있다.<신설 2009. 2. 1>③각 본부장은 본부별 정원 범위내에서 사업여건에 따라 부서간 인력을 조정 운영할 수 있다. <신설 2012. 2.10> <개정 2021. 9.24., 2023. 6. 2., 2025.12. 9.>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제1항",
+            "link_text": "별표 3",
+            "line_text": "",
+            "target_law_name": "부산도시공사 직제규정시행내규",
+            "target_article_no": "별표3",
+            "target_article_title": "정원표",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2122755",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000153761&bylNo=0003&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:부산도시공사직제규정시행내규#JO0005",
+            "target_unit": "BYL0003",
+            "reference_id": "SchlPubRul:부산도시공사직제규정시행내규#BYL0003",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "부산도시공사 직제규정시행내규/부산도시공사 직제규정시행내규.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:부산도시공사직제규정시행내규#JO0005"
       },
@@ -143,32 +221,185 @@
         "article_title": "관리사무소등",
         "chapter": "제1장 총칙",
         "chapter_path": "제1장 총칙",
-        "content": "제9조(관리사무소등)  ①규정 제26조에 의거 복지사업처에 직영관리주택단지의 관리를 위한 관리사무소, 맞춤임대처에 주거복지 정보제공을 위한 주거복지센터, 단지사업처에 관광단지관리를 위한 관광단지관리센터를 둘 수 있다.<개정 2001.12.31., 2007. 1.29., 2012. 2.10., 2015. 5.15., 2018. 2. 7., 2019. 1.16., 2020.12.16., 2021. 9.24., 2024. 8.12.>②제1항의 소장, 센터장은 부서장의 지휘를 받아 주택법 및 관계법규에서 정한 소관사무를 수행한다. <개정 2001.12.31, 2005. 8. 8, 2012. 2.10, 2015. 5.15, 2018. 2. 7, 2020. 6. 2., 2020.12.16.>③전문위원은 총정원 범위에서 운영 할 수 있다. <신설 2015. 5.15><개정 2018. 2. 7>",
+        "content": "제9조(관리사무소등)  ①규정 제26조에 의거 주거복지처에 직영관리주택단지의 관리를 위한 관리사무소 및 주거복지 정보제공을 위한 주거복지센터, 단지사업처에 관광단지관리를 위한 관광단지관리센터를 둘 수 있다.<개정 2001.12.31., 2007. 1.29., 2012. 2.10., 2015. 5.15., 2018. 2. 7., 2019. 1.16., 2020.12.16., 2021. 9.24., 2024. 8.12.>②제1항의 소장, 센터장은 부서장의 지휘를 받아 주택법 및 관계법규에서 정한 소관사무를 수행한다. <개정 2001.12.31, 2005. 8. 8, 2012. 2.10, 2015. 5.15, 2018. 2. 7, 2020. 6. 2., 2020.12.16.>③전문위원은 총정원 범위에서 운영 할 수 있다. <신설 2015. 5.15><개정 2018. 2. 7>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
         "provision_id": "SchlPubRul:부산도시공사직제규정시행내규#JO0009"
       }
+    ],
+    "unmatched_relations": [
+      {
+        "relation_type": "internal_ref",
+        "delegation_type": null,
+        "target_category": "학칙공단",
+        "source_article_no": "제2조의2",
+        "source_clause": "제2조의2제1항",
+        "link_text": "제5조",
+        "line_text": "",
+        "target_law_name": "부산도시공사 직제규정시행내규",
+        "target_article_no": "제5조",
+        "target_article_title": "",
+        "target_mst": "",
+        "source_admrul_seq": "2122755",
+        "target_url": "https://www.law.go.kr/학칙공단/부산도시공사 직제규정시행내규/제5조",
+        "resolve_method": "render",
+        "source_provision_id": "SchlPubRul:부산도시공사직제규정시행내규#DOC",
+        "reference_id": "SchlPubRul:부산도시공사직제규정시행내규#JO0005",
+        "target_repo": "SCHLPUBRUL",
+        "target_git_path_guess": "부산도시공사 직제규정시행내규/부산도시공사 직제규정시행내규.json"
+      },
+      {
+        "relation_type": "internal_ref",
+        "delegation_type": null,
+        "target_category": "학칙공단",
+        "source_article_no": "제2조의2",
+        "source_clause": "제2조의2제2항",
+        "link_text": "제6조",
+        "line_text": "",
+        "target_law_name": "부산도시공사 직제규정시행내규",
+        "target_article_no": "제6조",
+        "target_article_title": "",
+        "target_mst": "",
+        "source_admrul_seq": "2122755",
+        "target_url": "https://www.law.go.kr/학칙공단/부산도시공사 직제규정시행내규/제6조",
+        "resolve_method": "render",
+        "source_provision_id": "SchlPubRul:부산도시공사직제규정시행내규#DOC",
+        "reference_id": "SchlPubRul:부산도시공사직제규정시행내규#JO0006",
+        "target_repo": "SCHLPUBRUL",
+        "target_git_path_guess": "부산도시공사 직제규정시행내규/부산도시공사 직제규정시행내규.json"
+      }
     ]
   },
   "addenda": [
     {
-      "promulgation_date": "20251229",
-      "promulgation_no": "00598",
-      "content": "부칙 <내규 제598호, 2025.12.29>이 내규는 2026년 1월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:부산도시공사직제규정시행내규#ADDENDUM"
+      "promulgation_date": "20260306",
+      "promulgation_no": "00601",
+      "content": "부칙 <내규 제601호, 2026.3.6>이 내규는 2026년 4월 1일부터 시행한다.",
+      "provision_id": "SchlPubRul:부산도시공사직제규정시행내규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000153761",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260401"
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "기구표",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000153761&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162660247",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162660247",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:부산도시공사직제규정시행내규#BYL0001",
+      "filename": "별표1_기구표.hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표1_기구표.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "부서별업무분장표",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000153761&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162660251",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162660251",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:부산도시공사직제규정시행내규#BYL0002",
+      "filename": "별표2_부서별업무분장표.hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표2_부서별업무분장표.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별표",
+      "title": "정원표",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000153761&bylNo=0003&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162660281",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162660281",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:부산도시공사직제규정시행내규#BYL0003",
+      "filename": "별표3_정원표.hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표3_정원표.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별표",
+      "title": "삭제 <2020.12.16.>",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000153761&bylNo=0004&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162660285",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162660285",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:부산도시공사직제규정시행내규#BYL0004",
+      "filename": "별표4_삭제 _2020.12.16._.hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표4_삭제 _2020.12.16._.hwp",
+      "file_store_url": ""
+    }
+  ],
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 5,
+    "by_category": {
+      "학칙공단": 5
+    },
+    "by_relation_type": {
+      "internal_ref": 2,
+      "appendix_ref": 3
+    },
     "articles_total": 10,
-    "articles_with_relations": 0,
-    "unmatched_relations": 0,
+    "articles_with_relations": 3,
+    "unmatched_relations": 2,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
     "addenda_count": 1,
@@ -182,5 +413,8 @@
   "addendum_provision_id": "SchlPubRul:부산도시공사직제규정시행내규#ADDENDUM",
   "amendment_provision_id": "SchlPubRul:부산도시공사직제규정시행내규#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "부산도시공사 직제규정시행내규/부산도시공사 직제규정시행내규.json"
 }
