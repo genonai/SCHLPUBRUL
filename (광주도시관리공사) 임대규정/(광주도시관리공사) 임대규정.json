@@ -1,25 +1,25 @@
 {
   "law_id": "2129043",
-  "mst": "2200000120345",
+  "mst": "2200000160877",
   "law_name": "(광주도시관리공사) 임대규정",
   "law_abbr": "",
   "law_type": "공단규정",
   "doc_target": "public",
   "doc_kind": "공공기관",
   "adm_uid": "public:2129043",
-  "promulgation_no": "316",
-  "promulgation_date": "20191231",
-  "enforcement_date": "20191231",
-  "revision_date": "20191231",
+  "promulgation_no": "479",
+  "promulgation_date": "20260408",
+  "enforcement_date": "20260408",
+  "revision_date": "20260408",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
     "현행여부": "Y",
-    "담당부서기관명": "광주도시관리공사 도시사업처 도시사업1팀",
-    "담당자명": "최진영",
+    "담당부서기관명": "광주도시관리공사",
+    "담당자명": "정서희",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "(광주도시관리공사) 임대규정",
-    "발령일자": "20191231",
+    "발령일자": "20260408",
     "행정규칙종류": "공단규정",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,14 +27,14 @@
     "전화번호": "031-799-4896",
     "제개정구분명": "일부개정",
     "소관부처코드": "B553422",
-    "생성일자": "20251121",
+    "생성일자": "20261023",
     "행정규칙ID": "2129043",
     "담당부서기관코드": "",
-    "발령번호": "316",
-    "행정규칙일련번호": "2200000120345"
+    "발령번호": "479",
+    "행정규칙일련번호": "2200000160877"
   },
   "amendment_text": "",
-  "revision_reason": "-",
+  "revision_reason": "임대규정 일부개정안\n\n□ 개정이유\n○ 현재 적용 법령에서 사용한 문구로 일부 수정\n□ 주요내용\n가. 표준임대보증금 관련 문구 변경을 통한 기능 보완\n○ (현행) 국토교통부장관이 정하고 고시하는 표준임대보증금 등의 범위 내에서 결정한다.\n→ (변경) 국토교통부장관이 정하고 고시하는 표준 임대료(임대 보증금 및 월 임대료)를 초과 할 수 없다.",
   "body": {
     "format": "articles",
     "article_count": 46,
@@ -44,7 +44,7 @@
         "article_title": "목적",
         "chapter": "제1장 총칙",
         "chapter_path": "제1장 총칙",
-        "content": "제1조(목적) 이 규정은 광주도시관리공사(이하“공사”라 한다)가 관계법령에 따라 건설·임대하는 주택과 부대시설 및 복리시설의 임대대상자, 조건, 방법, 절차 등의 임대 업무를 수행하기 위하여 필요한 사항을 규정함을 목적으로 한다.",
+        "content": "제1조(목적) 이 규정은 광주도시관리공사(이하“공사”라 한다)가 관계법령에 따라 건설ㆍ임대하는 주택과 부대시설 및 복리시설의 임대대상자, 조건, 방법, 절차 등의 임대 업무를 수행하기 위하여 필요한 사항을 규정함을 목적으로 한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -76,9 +76,7 @@
             "source_provision_id": "SchlPubRul:(광주도시관리공사)임대규정#JO0002",
             "reference_id": "law:주택도시기금법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "주택도시기금법/법률/주택도시기금법.json",
-            "target_git_path": "주택도시기금법/법률/주택도시기금법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "주택도시기금법/법률/주택도시기금법.json"
           },
           {
             "relation_type": "citation",
@@ -98,9 +96,7 @@
             "source_provision_id": "SchlPubRul:(광주도시관리공사)임대규정#JO0002",
             "reference_id": "law:공공주택특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공주택 특별법/법률/공공주택 특별법.json",
-            "target_git_path": "공공주택 특별법/법률/공공주택 특별법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공공주택 특별법/법률/공공주택 특별법.json"
           },
           {
             "relation_type": "citation",
@@ -120,9 +116,7 @@
             "source_provision_id": "SchlPubRul:(광주도시관리공사)임대규정#JO0002",
             "reference_id": "law:공공주택특별법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공주택 특별법/법률/공공주택 특별법.json",
-            "target_git_path": "공공주택 특별법/법률/공공주택 특별법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공공주택 특별법/법률/공공주택 특별법.json"
           },
           {
             "relation_type": "citation",
@@ -142,9 +136,7 @@
             "source_provision_id": "SchlPubRul:(광주도시관리공사)임대규정#JO0002",
             "reference_id": "law:주택공급에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "주택공급에 관한 규칙/법률/주택공급에 관한 규칙.json",
-            "target_git_path": "주택공급에 관한 규칙/법률/주택공급에 관한 규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "주택공급에 관한 규칙/법률/주택공급에 관한 규칙.json"
           },
           {
             "relation_type": "citation",
@@ -164,9 +156,7 @@
             "source_provision_id": "SchlPubRul:(광주도시관리공사)임대규정#JO0002",
             "reference_id": "law:주택공급에관한규칙#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "주택공급에 관한 규칙/법률/주택공급에 관한 규칙.json",
-            "target_git_path": "주택공급에 관한 규칙/법률/주택공급에 관한 규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "주택공급에 관한 규칙/법률/주택공급에 관한 규칙.json"
           },
           {
             "relation_type": "citation",
@@ -186,9 +176,7 @@
             "source_provision_id": "SchlPubRul:(광주도시관리공사)임대규정#JO0002",
             "reference_id": "law:주택공급에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "주택공급에 관한 규칙/법률/주택공급에 관한 규칙.json",
-            "target_git_path": "주택공급에 관한 규칙/법률/주택공급에 관한 규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "주택공급에 관한 규칙/법률/주택공급에 관한 규칙.json"
           },
           {
             "relation_type": "citation",
@@ -208,9 +196,7 @@
             "source_provision_id": "SchlPubRul:(광주도시관리공사)임대규정#JO0002",
             "reference_id": "law:주택공급에관한규칙#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "주택공급에 관한 규칙/법률/주택공급에 관한 규칙.json",
-            "target_git_path": "주택공급에 관한 규칙/법률/주택공급에 관한 규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "주택공급에 관한 규칙/법률/주택공급에 관한 규칙.json"
           },
           {
             "relation_type": "citation",
@@ -230,9 +216,7 @@
             "source_provision_id": "SchlPubRul:(광주도시관리공사)임대규정#JO0002",
             "reference_id": "law:주택공급에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "주택공급에 관한 규칙/법률/주택공급에 관한 규칙.json",
-            "target_git_path": "주택공급에 관한 규칙/법률/주택공급에 관한 규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "주택공급에 관한 규칙/법률/주택공급에 관한 규칙.json"
           },
           {
             "relation_type": "citation",
@@ -252,9 +236,7 @@
             "source_provision_id": "SchlPubRul:(광주도시관리공사)임대규정#JO0002",
             "reference_id": "law:주택공급에관한규칙#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "주택공급에 관한 규칙/법률/주택공급에 관한 규칙.json",
-            "target_git_path": "주택공급에 관한 규칙/법률/주택공급에 관한 규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "주택공급에 관한 규칙/법률/주택공급에 관한 규칙.json"
           }
         ],
         "images": [],
@@ -287,7 +269,7 @@
         "article_title": "임대보증금 및 임대료",
         "chapter": "제2장 임대주택",
         "chapter_path": "제2장 임대주택",
-        "content": "제5조(임대보증금 및 임대료) ① 최초로 임대하는 주택의 임대보증금 및 임대료(이하 “임대보증금 등”이라 한다.)는 「공공주택 특별법 시행령」 제44조 제1항에 따라 국토교통부장관이 정하고 고시하는 표준임대보증금 등의 범위 내에서 결정한다. 다만, 표준임대보증금 등이 건설원가 및 거래실정과 현저한 차이가 있는 등 불합리한 사유가 있다고 판단되는 때에는 임대부서의 장은 그 사유를 명시하여 국토교통부장관에게 조정 건의할 수 있다.② 제1항에 의거한 임대보증금 등을 결정하기 위하여 임대부서의 장은 관련부서의 장에게 임대보증금등 을 결정하기 위한 관련 자료를 요구하고 그 자료를 기초로 임대보증금 등을 산정하여야 한다.③ 다음 각 호의 1에 해당하는 사유가 발생하는 경우에는 임대보증금 등을 증감할 수 있다.1. 물가 기타 경제사정이 변동에 따라 임대보증금 등을 변경할 필요가 있을 경우2. 주택의 일반 거래가격과 균형이 필요하다고 인정할 경우3. 임대주택 및 부대시설을 개량하였을 경우④ 제3항에 의하여 임대보증금 등을 증액하고자 할 때는 그 비율은 5%를 초과하지 못한다.",
+        "content": "제5조(임대보증금 및 임대료) ① 최초로 임대하는 주택의 임대보증금 및 임대료(이하 “임대보증금 등”이라 한다.)는 「공공주택 특별법 시행령」 제44조 제1항에 따라 국토교통부장관이 정하고 고시하는표준 임대료(임대 보증금 및 월 임대료)를 초과할 수 없다. 다만, 표준임대보증금 등이 건설원가 및 거래실정과 현저한 차이가 있는 등 불합리한 사유가 있다고 판단되는 때에는 임대부서의 장은 그 사유를 명시하여 국토교통부장관에게 조정 건의할 수 있다.(개정 2026. 04. 08.)② 제1항에 의거한 임대보증금 등을 결정하기 위하여 임대부서의 장은 관련부서의 장에게 임대보증금등 을 결정하기 위한 관련 자료를 요구하고 그 자료를 기초로 임대보증금 등을 산정하여야 한다.③ 다음 각 호의 1에 해당하는 사유가 발생하는 경우에는 임대보증금 등을 증감할 수 있다.1. 물가 기타 경제사정이 변동에 따라 임대보증금 등을 변경할 필요가 있을 경우2. 주택의 일반 거래가격과 균형이 필요하다고 인정할 경우3. 임대주택 및 부대시설을 개량하였을 경우④ 제3항에 의하여 임대보증금 등을 증액하고자 할 때는 그 비율은 5%를 초과하지 못한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -308,9 +290,7 @@
             "source_provision_id": "SchlPubRul:(광주도시관리공사)임대규정#JO0005",
             "reference_id": "law:공공주택특별법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공주택 특별법/시행령/공공주택 특별법 시행령.json",
-            "target_git_path": "공공주택 특별법/시행령/공공주택 특별법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공공주택 특별법/시행령/공공주택 특별법 시행령.json"
           },
           {
             "relation_type": "citation",
@@ -330,9 +310,7 @@
             "source_provision_id": "SchlPubRul:(광주도시관리공사)임대규정#JO0005",
             "reference_id": "law:공공주택특별법시행령#JO0044",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공주택 특별법/시행령/공공주택 특별법 시행령.json",
-            "target_git_path": "공공주택 특별법/시행령/공공주택 특별법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공공주택 특별법/시행령/공공주택 특별법 시행령.json"
           }
         ],
         "images": [],
@@ -364,9 +342,7 @@
             "source_provision_id": "SchlPubRul:(광주도시관리공사)임대규정#JO0006",
             "reference_id": "law:공공주택특별법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공주택 특별법/시행규칙/공공주택 특별법 시행규칙.json",
-            "target_git_path": "공공주택 특별법/시행규칙/공공주택 특별법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공공주택 특별법/시행규칙/공공주택 특별법 시행규칙.json"
           },
           {
             "relation_type": "citation",
@@ -386,9 +362,7 @@
             "source_provision_id": "SchlPubRul:(광주도시관리공사)임대규정#JO0006",
             "reference_id": "law:공공주택특별법시행규칙#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공주택 특별법/시행규칙/공공주택 특별법 시행규칙.json",
-            "target_git_path": "공공주택 특별법/시행규칙/공공주택 특별법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공공주택 특별법/시행규칙/공공주택 특별법 시행규칙.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -407,14 +381,13 @@
             "appendix_found": false,
             "target_mst": "",
             "source_admrul_seq": "2129043",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000120345&bylNo=&bylBrNo=",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000160877&bylNo=&bylBrNo=",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(광주도시관리공사)임대규정#JO0006",
             "target_unit": "BYL0004",
             "reference_id": "SchlPubRul:(광주도시관리공사)임대규정#BYL0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(광주도시관리공사) 임대규정/(광주도시관리공사) 임대규정.json",
-            "target_missing_unit": true
+            "target_git_path_guess": "(광주도시관리공사) 임대규정/(광주도시관리공사) 임대규정.json"
           }
         ],
         "images": [],
@@ -457,11 +430,7 @@
             "source_provision_id": "SchlPubRul:(광주도시관리공사)임대규정#JO0008",
             "reference_id": "SchlPubRul:(광주도시관리공사)임대규정#JO0028",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(광주도시관리공사) 임대규정/(광주도시관리공사) 임대규정.json",
-            "target_git_path": "(광주도시관리공사) 임대규정/(광주도시관리공사) 임대규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "(광주도시관리공사) 임대규정/(광주도시관리공사) 임대규정.json"
           }
         ],
         "images": [],
@@ -513,10 +482,10 @@
       },
       {
         "article_no": "제13조",
-        "article_title": "주택의 동·호 결정",
+        "article_title": "주택의 동ㆍ호 결정",
         "chapter": "제2장 임대주택",
         "chapter_path": "제2장 임대주택",
-        "content": "제13조(주택의 동·호 결정) 입주자로 선정된 자에게 임대할 주택의 동·호 결정은 추첨의 방법에 의한다. 다만, 제11조 제2항에 의한 입주자를 선정하는 경우에는 그러하지 아니할 수 있다.",
+        "content": "제13조(주택의 동ㆍ호 결정) 입주자로 선정된 자에게 임대할 주택의 동ㆍ호 결정은 추첨의 방법에 의한다. 다만, 제11조 제2항에 의한 입주자를 선정하는 경우에는 그러하지 아니할 수 있다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -537,11 +506,7 @@
             "source_provision_id": "SchlPubRul:(광주도시관리공사)임대규정#JO0013",
             "reference_id": "SchlPubRul:(광주도시관리공사)임대규정#JO0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(광주도시관리공사) 임대규정/(광주도시관리공사) 임대규정.json",
-            "target_git_path": "(광주도시관리공사) 임대규정/(광주도시관리공사) 임대규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "(광주도시관리공사) 임대규정/(광주도시관리공사) 임대규정.json"
           }
         ],
         "images": [],
@@ -573,11 +538,7 @@
             "source_provision_id": "SchlPubRul:(광주도시관리공사)임대규정#JO0014",
             "reference_id": "SchlPubRul:(광주도시관리공사)임대규정#JO0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(광주도시관리공사) 임대규정/(광주도시관리공사) 임대규정.json",
-            "target_git_path": "(광주도시관리공사) 임대규정/(광주도시관리공사) 임대규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "(광주도시관리공사) 임대규정/(광주도시관리공사) 임대규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -597,11 +558,7 @@
             "source_provision_id": "SchlPubRul:(광주도시관리공사)임대규정#JO0014",
             "reference_id": "SchlPubRul:(광주도시관리공사)임대규정#JO0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(광주도시관리공사) 임대규정/(광주도시관리공사) 임대규정.json",
-            "target_git_path": "(광주도시관리공사) 임대규정/(광주도시관리공사) 임대규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "(광주도시관리공사) 임대규정/(광주도시관리공사) 임대규정.json"
           }
         ],
         "images": [],
@@ -688,9 +645,7 @@
             "source_provision_id": "SchlPubRul:(광주도시관리공사)임대규정#JO0020",
             "reference_id": "law:공공주택특별법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공주택 특별법/시행령/공공주택 특별법 시행령.json",
-            "target_git_path": "공공주택 특별법/시행령/공공주택 특별법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공공주택 특별법/시행령/공공주택 특별법 시행령.json"
           },
           {
             "relation_type": "citation",
@@ -710,9 +665,7 @@
             "source_provision_id": "SchlPubRul:(광주도시관리공사)임대규정#JO0020",
             "reference_id": "law:공공주택특별법시행령#JO0054",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공주택 특별법/시행령/공공주택 특별법 시행령.json",
-            "target_git_path": "공공주택 특별법/시행령/공공주택 특별법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공공주택 특별법/시행령/공공주택 특별법 시행령.json"
           }
         ],
         "images": [],
@@ -755,11 +708,7 @@
             "source_provision_id": "SchlPubRul:(광주도시관리공사)임대규정#JO0022",
             "reference_id": "SchlPubRul:(광주도시관리공사)임대규정#JO0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(광주도시관리공사) 임대규정/(광주도시관리공사) 임대규정.json",
-            "target_git_path": "(광주도시관리공사) 임대규정/(광주도시관리공사) 임대규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "(광주도시관리공사) 임대규정/(광주도시관리공사) 임대규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -779,11 +728,7 @@
             "source_provision_id": "SchlPubRul:(광주도시관리공사)임대규정#JO0022",
             "reference_id": "SchlPubRul:(광주도시관리공사)임대규정#JO0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(광주도시관리공사) 임대규정/(광주도시관리공사) 임대규정.json",
-            "target_git_path": "(광주도시관리공사) 임대규정/(광주도시관리공사) 임대규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "(광주도시관리공사) 임대규정/(광주도시관리공사) 임대규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -803,11 +748,7 @@
             "source_provision_id": "SchlPubRul:(광주도시관리공사)임대규정#JO0022",
             "reference_id": "SchlPubRul:(광주도시관리공사)임대규정#JO0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(광주도시관리공사) 임대규정/(광주도시관리공사) 임대규정.json",
-            "target_git_path": "(광주도시관리공사) 임대규정/(광주도시관리공사) 임대규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "(광주도시관리공사) 임대규정/(광주도시관리공사) 임대규정.json"
           }
         ],
         "images": [],
@@ -916,11 +857,7 @@
             "source_provision_id": "SchlPubRul:(광주도시관리공사)임대규정#JO0030",
             "reference_id": "SchlPubRul:(광주도시관리공사)임대규정#JO0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(광주도시관리공사) 임대규정/(광주도시관리공사) 임대규정.json",
-            "target_git_path": "(광주도시관리공사) 임대규정/(광주도시관리공사) 임대규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "(광주도시관리공사) 임대규정/(광주도시관리공사) 임대규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -940,11 +877,7 @@
             "source_provision_id": "SchlPubRul:(광주도시관리공사)임대규정#JO0030",
             "reference_id": "SchlPubRul:(광주도시관리공사)임대규정#JO0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(광주도시관리공사) 임대규정/(광주도시관리공사) 임대규정.json",
-            "target_git_path": "(광주도시관리공사) 임대규정/(광주도시관리공사) 임대규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "(광주도시관리공사) 임대규정/(광주도시관리공사) 임대규정.json"
           }
         ],
         "images": [],
@@ -966,7 +899,7 @@
         "article_title": "임대 시행계획",
         "chapter": "제5장 상가 및 복리시설 임대",
         "chapter_path": "제5장 상가 및 복리시설 임대",
-        "content": "제32조(임대 시행계획) 공사는 임대를 목적으로 건설하는 주택건설 지구의 단위별 상가 및 복리시설의 임대 시행계획을 각각 수립·시행한다.",
+        "content": "제32조(임대 시행계획) 공사는 임대를 목적으로 건설하는 주택건설 지구의 단위별 상가 및 복리시설의 임대 시행계획을 각각 수립ㆍ시행한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -998,11 +931,7 @@
             "source_provision_id": "SchlPubRul:(광주도시관리공사)임대규정#JO0033",
             "reference_id": "SchlPubRul:(광주도시관리공사)임대규정#JO0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(광주도시관리공사) 임대규정/(광주도시관리공사) 임대규정.json",
-            "target_git_path": "(광주도시관리공사) 임대규정/(광주도시관리공사) 임대규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "(광주도시관리공사) 임대규정/(광주도시관리공사) 임대규정.json"
           }
         ],
         "images": [],
@@ -1034,9 +963,7 @@
             "source_provision_id": "SchlPubRul:(광주도시관리공사)임대규정#JO0034",
             "reference_id": "law:공공주택특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공주택 특별법/법률/공공주택 특별법.json",
-            "target_git_path": "공공주택 특별법/법률/공공주택 특별법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공공주택 특별법/법률/공공주택 특별법.json"
           },
           {
             "relation_type": "citation",
@@ -1056,9 +983,7 @@
             "source_provision_id": "SchlPubRul:(광주도시관리공사)임대규정#JO0034",
             "reference_id": "law:공공주택특별법#JO0035",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공주택 특별법/법률/공공주택 특별법.json",
-            "target_git_path": "공공주택 특별법/법률/공공주택 특별법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공공주택 특별법/법률/공공주택 특별법.json"
           }
         ],
         "images": [],
@@ -1123,11 +1048,7 @@
             "source_provision_id": "SchlPubRul:(광주도시관리공사)임대규정#JO0038",
             "reference_id": "SchlPubRul:(광주도시관리공사)임대규정#JO0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(광주도시관리공사) 임대규정/(광주도시관리공사) 임대규정.json",
-            "target_git_path": "(광주도시관리공사) 임대규정/(광주도시관리공사) 임대규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "(광주도시관리공사) 임대규정/(광주도시관리공사) 임대규정.json"
           }
         ],
         "images": [],
@@ -1170,11 +1091,7 @@
             "source_provision_id": "SchlPubRul:(광주도시관리공사)임대규정#JO0040",
             "reference_id": "SchlPubRul:(광주도시관리공사)임대규정#JO0018",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(광주도시관리공사) 임대규정/(광주도시관리공사) 임대규정.json",
-            "target_git_path": "(광주도시관리공사) 임대규정/(광주도시관리공사) 임대규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "(광주도시관리공사) 임대규정/(광주도시관리공사) 임대규정.json"
           }
         ],
         "images": [],
@@ -1255,10 +1172,10 @@
       "content": "부칙 <제281호,2019.2.18>제1조(시행일) 이 규정은 공포한 날부터 시행한다.",
       "provision_id": "SchlPubRul:(광주도시관리공사)임대규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000120345",
+      "source_mst": "2200000160877",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20191231"
+      "version_enforcement_date": "20260408"
     },
     {
       "promulgation_date": "20191231",
@@ -1266,10 +1183,21 @@
       "content": "부칙 <제316호,2019.12.31>제1조(시행일) 이 규정은 공포한 날부터 시행한다.",
       "provision_id": "SchlPubRul:(광주도시관리공사)임대규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000120345",
+      "source_mst": "2200000160877",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20191231"
+      "version_enforcement_date": "20260408"
+    },
+    {
+      "promulgation_date": "20260408",
+      "promulgation_no": "00479",
+      "content": "부칙 <제479호,2026.4.8>제1조(시행일) 이 규정은 공포한 날부터 시행한다.",
+      "provision_id": "SchlPubRul:(광주도시관리공사)임대규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000160877",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260408"
     }
   ],
   "appendices": [],
@@ -1291,7 +1219,7 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 2,
+    "addenda_count": 3,
     "appendices_count": 0,
     "attachments_count": 0
   },
