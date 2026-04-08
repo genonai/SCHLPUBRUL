@@ -1,25 +1,25 @@
 {
   "law_id": "2128945",
-  "mst": "2200000120275",
+  "mst": "2200000160907",
   "law_name": "(광주도시관리공사) 제안서평가위원회 설치 및 운영 내규",
   "law_abbr": "",
   "law_type": "공단규정",
   "doc_target": "public",
   "doc_kind": "공공기관",
   "adm_uid": "public:2128945",
-  "promulgation_no": "198",
-  "promulgation_date": "20191231",
-  "enforcement_date": "20191231",
-  "revision_date": "20191231",
+  "promulgation_no": "355",
+  "promulgation_date": "20260408",
+  "enforcement_date": "20260408",
+  "revision_date": "20260408",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
     "현행여부": "Y",
-    "담당부서기관명": "광주도시관리공사 도시사업처 도시사업1팀",
-    "담당자명": "최진영",
+    "담당부서기관명": "광주도시관리공사",
+    "담당자명": "정서희",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "(광주도시관리공사) 제안서평가위원회 설치 및 운영 내규",
-    "발령일자": "20191231",
+    "발령일자": "20260408",
     "행정규칙종류": "공단규정",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,14 +27,14 @@
     "전화번호": "031-799-4896",
     "제개정구분명": "일부개정",
     "소관부처코드": "B553422",
-    "생성일자": "20251121",
+    "생성일자": "20261023",
     "행정규칙ID": "2128945",
     "담당부서기관코드": "",
-    "발령번호": "198",
-    "행정규칙일련번호": "2200000120275"
+    "발령번호": "355",
+    "행정규칙일련번호": "2200000160907"
   },
   "amendment_text": "",
-  "revision_reason": "-",
+  "revision_reason": "제안서평가위원회 설치 및 운영내규 일부개정안\n\n□ 개정이유\n○ 현재 적용 법령에서 사용하는 용어로 현행화 및 기능 보완\n□ 주요내용\n가. 법령 용어 현행화\n○ (현행) 당해 → (변경) 해당\n나. 명확한 규정 제시를 통한 기능보완\n○ (현행) 제43조 제10항 → (변경) 제43조 제9항 및 제10항\n○ (현행) 국가 및 자치단체 전문공무원 → (변경) 다른 지방자치단체 공무원\n○ (현행) 대학의 전임강사 → (변경) 대학의 조교수\n○ (현행) 위원장을 포함한 3분의 2이상 → (변경) 위원장을 포함한 7인 이상",
   "body": {
     "format": "articles",
     "article_count": 7,
@@ -44,7 +44,7 @@
         "article_title": "목적",
         "chapter": "",
         "chapter_path": "",
-        "content": "제1조(목적) 이 규정은 「지방자치단체를 당사자로 하는 계약에 관한 법률 시행령」제43조제10항의 규정에 따라 광주도시관리공사(이하 “공사”라 한다)의 제안서평가위원회(이하“위원회”라 한다)의 구성 및 운영에 관하여 필요한 사항을 정함을 목적으로 한다.",
+        "content": "제1조(목적) 이 규정은 「지방자치단체를 당사자로 하는 계약에 관한 법률 시행령」제43조제9항 및 제10항에 따라 광주도시관리공사(이하 “공사”라 한다)의 제안서평가위원회(이하“위원회”라 한다)의 구성 및 운영에 관하여 필요한 사항을 정함을 목적으로 한다.(개정 2026. 04. 08.)",
         "enforcement_date": "",
         "relations": [
           {
@@ -65,9 +65,7 @@
             "source_provision_id": "SchlPubRul:(광주도시관리공사)제안서평가위원회설치및운영내규#JO0001",
             "reference_id": "law:지방자치단체를당사자로하는계약에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방자치단체를 당사자로 하는 계약에 관한 법률/시행령/지방자치단체를 당사자로 하는 계약에 관한 법률 시행령.json",
-            "target_git_path": "지방자치단체를 당사자로 하는 계약에 관한 법률/시행령/지방자치단체를 당사자로 하는 계약에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "지방자치단체를 당사자로 하는 계약에 관한 법률/시행령/지방자치단체를 당사자로 하는 계약에 관한 법률 시행령.json"
           },
           {
             "relation_type": "citation",
@@ -75,7 +73,7 @@
             "target_category": "법령",
             "source_article_no": "제1조",
             "source_clause": "제1조",
-            "link_text": "제43조제10항",
+            "link_text": "제43조제9항 및 제10항",
             "line_text": "",
             "target_law_name": "지방자치단체를 당사자로 하는 계약에 관한 법률 시행령",
             "target_article_no": "제43조",
@@ -87,9 +85,7 @@
             "source_provision_id": "SchlPubRul:(광주도시관리공사)제안서평가위원회설치및운영내규#JO0001",
             "reference_id": "law:지방자치단체를당사자로하는계약에관한법률시행령#JO0043",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방자치단체를 당사자로 하는 계약에 관한 법률/시행령/지방자치단체를 당사자로 하는 계약에 관한 법률 시행령.json",
-            "target_git_path": "지방자치단체를 당사자로 하는 계약에 관한 법률/시행령/지방자치단체를 당사자로 하는 계약에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "지방자치단체를 당사자로 하는 계약에 관한 법률/시행령/지방자치단체를 당사자로 하는 계약에 관한 법률 시행령.json"
           }
         ],
         "images": [],
@@ -100,7 +96,7 @@
         "article_title": "평가위원의 위촉",
         "chapter": "",
         "chapter_path": "",
-        "content": "제2조(평가위원의 위촉) ① 제안서 평가위원(이하“평가위원”이라 한다)은 해당 심사분야의 전문성이 있는 자로서 다음 각호에 해당하는 자를 자격요건으로 하되 도시계획·건축·토목·조경·경관·디자인·부동산·회계 등 전문가,  국가 및 자치단체 전문공무원, 마을주민 대표, 시민단체 대표 등 다양한 분야의 관련 전문가가 고르게 평가위원으로 구성될 수 있도록 하여야 한다.(개정 2019.12.31.)1. 3년 이상 근무경력을 가진 7급 이상 공무원2. 공공기관·준정부기관·다른 지방공기업의 4급 이상 직원 또는 동등이상 경력자3. 대학의 전임강사 이상인 자로서 해당분야 전공을 한 자4. 1년 이상 근무경력을 가진 기술사 또는 박사학위 소지자5. 마을주민을 대표하는 자6. 시민단체 등 기타 공정한 심사를 위하여 필요하다고 인정되는 자② 계약담당자 또는 그 위임을 받은 자는 제1항의 자격을 가진 자를 대상으로 인터넷, 기타방법을 통하여 개별적으로 별지1의 평가위원(후보자) 등록 신청서를 접수받아 이를 심사하여 해당 평가위원회 구성인원의 3배수 이상을 예비 평가위원으로 선정하고 평가위원별로 고유번호를 부여한 예비명부를 작성한다.③제2항의 예비명부를 작성할 경우 공고시 정한 일정자격을 갖춘 자 모두를 예비명부에 포함되도록 하고 별지2에 따라 관리하여야 한다.",
+        "content": "제2조(평가위원의 위촉) ① 제안서 평가위원(이하“평가위원”이라 한다)은 해당 심사분야의 전문성이 있는 자로서 다음 각호에 해당하는 자를 자격요건으로 하되 도시계획ㆍ건축ㆍ토목ㆍ조경ㆍ경관ㆍ디자인ㆍ부동산ㆍ회계 등 전문가,  국가 및 다른 지방자치단체 공무원, 마을주민 대표, 시민단체 대표 등 다양한 분야의 관련 전문가가 고르게 평가위원으로 구성될 수 있도록 하여야 한다.(개정 2019.12.31., 2026.04.08.)1. 3년 이상 근무경력을 가진 7급 이상 공무원2. 공공기관ㆍ준정부기관ㆍ다른 지방공기업의 4급 이상 직원 또는 동등이상 경력자3. 대학의 조교수 이상인 자로서 해당분야 전공을 한 자(개정 2026.04.08.)4. 1년 이상 근무경력을 가진 기술사 또는 박사학위 소지자5. 마을주민을 대표하는 자6. 시민단체 등 기타 공정한 심사를 위하여 필요하다고 인정되는 자② 계약담당자 또는 그 위임을 받은 자는 제1항의 자격을 가진 자를 대상으로 인터넷, 기타방법을 통하여 개별적으로 별지1의 평가위원(후보자) 등록 신청서를 접수받아 이를 심사하여 해당 평가위원회 구성인원의 3배수 이상을 예비 평가위원으로 선정하고 평가위원별로 고유번호를 부여한 예비명부를 작성한다.③제2항의 예비명부를 작성할 경우 공고시 정한 일정자격을 갖춘 자 모두를 예비명부에 포함되도록 하고 별지2에 따라 관리하여야 한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -120,18 +116,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2128945",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158426165",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170855563",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(광주도시관리공사)제안서평가위원회설치및운영내규#JO0002",
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(광주도시관리공사)제안서평가위원회설치및운영내규#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(광주도시관리공사) 제안서평가위원회 설치 및 운영 내규/(광주도시관리공사) 제안서평가위원회 설치 및 운영 내규.json",
-            "target_git_path": "(광주도시관리공사) 제안서평가위원회 설치 및 운영 내규/(광주도시관리공사) 제안서평가위원회 설치 및 운영 내규.json",
-            "target_git_file_path": "(광주도시관리공사) 제안서평가위원회 설치 및 운영 내규/별지/별지1_제안서 평가위원(후보자) 등록 신청서.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "(광주도시관리공사) 제안서평가위원회 설치 및 운영 내규/(광주도시관리공사) 제안서평가위원회 설치 및 운영 내규.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -150,18 +141,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2128945",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158426169",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170855567",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(광주도시관리공사)제안서평가위원회설치및운영내규#JO0002",
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(광주도시관리공사)제안서평가위원회설치및운영내규#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(광주도시관리공사) 제안서평가위원회 설치 및 운영 내규/(광주도시관리공사) 제안서평가위원회 설치 및 운영 내규.json",
-            "target_git_path": "(광주도시관리공사) 제안서평가위원회 설치 및 운영 내규/(광주도시관리공사) 제안서평가위원회 설치 및 운영 내규.json",
-            "target_git_file_path": "(광주도시관리공사) 제안서평가위원회 설치 및 운영 내규/별지/별지2_제안서 평가위원 등록관리대장.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "(광주도시관리공사) 제안서평가위원회 설치 및 운영 내규/(광주도시관리공사) 제안서평가위원회 설치 및 운영 내규.json"
           }
         ],
         "images": [],
@@ -183,7 +169,7 @@
         "article_title": "위원의 기피 및 제척",
         "chapter": "",
         "chapter_path": "",
-        "content": "제4조(위원의 기피 및 제척) 다음 각호중의 하나에 해당하는 평가위원이 포함되지 아니하도록 심사 전에 확인하여야 한다.1. 당해 평가 대상과 관련하여 용역, 자문, 연구 등을 수행한 경우2. 당해 평가의 시행으로 인하여 이해당사자가 되는 경우3. 최근 3년이내에 당해 평가 대상업체에 재직한 경우4. 기타 공정한 심의를 수행할 수 없다고 판단되는 자",
+        "content": "제4조(위원의 기피 및 제척) 다음 각호중의 하나에 해당하는 평가위원이 포함되지 아니하도록 심사 전에 확인하여야 한다.1. 해당 평가 대상과 관련하여 용역, 자문, 연구 등을 수행한 경우(개정 2026. 04. 08.)2. 해당 평가의 시행으로 인하여 이해당사자가 되는 경우(개정 2026. 04. 08.)3. 최근 3년이내에 해당 평가 대상업체에 재직한 경우(개정 2026. 04. 08.)4. 기타 공정한 심의를 수행할 수 없다고 판단되는 자",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -194,7 +180,7 @@
         "article_title": "위원회의 진행",
         "chapter": "",
         "chapter_path": "",
-        "content": "제5조(위원회의 진행) ① 위원회는 위원장을 포함한 3분의 2이상 출석으로 개회한다.② 계약담당자 또는 그 위임을 받은 자는 위원회에 부의할 안건으로 평가대상업체가 작성한 제안서(공사의 경우 설계서를 포함한다. 이하 같다)를 평가 당일 위원회에 배부하는 것을 원칙으로 한다. 다만, 제안서의 심도 있는 검토를 위하여 필요한 경우 미리 평가위원에게 배부할 수 있다.③ 위원회는 필요할 경우 평가 당일 제안서를 제출한 자로부터 제안서에 대한 설명을 청취하고 질의 및 답변을 청취할 수 있으나 평가위원 개별적으로는 일체 설명을 받을 수 없다.④ 제안서 발표순서는 제안서를 제출한 자가 평가 당일 추첨하여 결정하며, 타 제안서 제출자의 발표를 청취할 수 없다.",
+        "content": "제5조(위원회의 진행) ① 위원회는 위원장을 포함한 7인 이상 출석으로 개회한다.(개정 2026. 04. 08.)② 계약담당자 또는 그 위임을 받은 자는 위원회에 부의할 안건으로 평가대상업체가 작성한 제안서(공사의 경우 설계서를 포함한다. 이하 같다)를 평가 당일 위원회에 배부하는 것을 원칙으로 한다. 다만, 제안서의 심도 있는 검토를 위하여 필요한 경우 미리 평가위원에게 배부할 수 있다.③ 위원회는 필요할 경우 평가 당일 제안서를 제출한 자로부터 제안서에 대한 설명을 청취하고 질의 및 답변을 청취할 수 있으나 평가위원 개별적으로는 일체 설명을 받을 수 없다.④ 제안서 발표순서는 제안서를 제출한 자가 평가 당일 추첨하여 결정하며, 타 제안서 제출자의 발표를 청취할 수 없다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -225,18 +211,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2128945",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158426173",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170855571",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(광주도시관리공사)제안서평가위원회설치및운영내규#JO0006",
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:(광주도시관리공사)제안서평가위원회설치및운영내규#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(광주도시관리공사) 제안서평가위원회 설치 및 운영 내규/(광주도시관리공사) 제안서평가위원회 설치 및 운영 내규.json",
-            "target_git_path": "(광주도시관리공사) 제안서평가위원회 설치 및 운영 내규/(광주도시관리공사) 제안서평가위원회 설치 및 운영 내규.json",
-            "target_git_file_path": "(광주도시관리공사) 제안서평가위원회 설치 및 운영 내규/별지/별지3_평가위원별 채점집계표.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "(광주도시관리공사) 제안서평가위원회 설치 및 운영 내규/(광주도시관리공사) 제안서평가위원회 설치 및 운영 내규.json"
           }
         ],
         "images": [],
@@ -247,7 +228,7 @@
         "article_title": "수당 및 여비 등",
         "chapter": "",
         "chapter_path": "",
-        "content": "제7조(수당 및 여비 등) ① 심사위원에 대하여는 예산의 범위 안에서 참석수당·심사수당 및 여비 등을 지급할 수 있다. 다만, 공사 임직원이 그 소관업무와 직접적으로 관련하여 위원회에 출석하는 경우에는 그러하지 아니하다.② 이 규정에서 정한 사항 이외에 위원회의 운영에 관하여 필요한 사항은 입찰관련서류나 입찰공고내용 등에 의한다.",
+        "content": "제7조(수당 및 여비 등) ① 심사위원에 대하여는 예산의 범위 안에서 참석수당ㆍ심사수당 및 여비 등을 지급할 수 있다. 다만, 공사 임직원이 그 소관업무와 직접적으로 관련하여 위원회에 출석하는 경우에는 그러하지 아니하다.② 이 규정에서 정한 사항 이외에 위원회의 운영에 관하여 필요한 사항은 입찰관련서류나 입찰공고내용 등에 의한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -262,10 +243,10 @@
       "content": "부칙 <제161호,2019.2.18>제1조(시행일) 이 규정은 공포한 날부터 시행한다.",
       "provision_id": "SchlPubRul:(광주도시관리공사)제안서평가위원회설치및운영내규#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000120275",
+      "source_mst": "2200000160907",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20191231"
+      "version_enforcement_date": "20260408"
     },
     {
       "promulgation_date": "20191231",
@@ -273,10 +254,21 @@
       "content": "부칙 <제198호,2019.12.31>제1조(시행일) 이 규정은 공포한 날부터 시행한다.",
       "provision_id": "SchlPubRul:(광주도시관리공사)제안서평가위원회설치및운영내규#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000120275",
+      "source_mst": "2200000160907",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20191231"
+      "version_enforcement_date": "20260408"
+    },
+    {
+      "promulgation_date": "20260408",
+      "promulgation_no": "00355",
+      "content": "부칙 <제355호,2026.4.8>제1조(시행일) 이 규정은 공포한 날부터 시행한다.",
+      "provision_id": "SchlPubRul:(광주도시관리공사)제안서평가위원회설치및운영내규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000160907",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260408"
     }
   ],
   "appendices": [
@@ -289,11 +281,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158426165",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170855563",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158426165",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170855563",
           "name": "",
           "file_store_url": ""
         }
@@ -314,11 +306,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158426169",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170855567",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158426169",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170855567",
           "name": "",
           "file_store_url": ""
         }
@@ -339,11 +331,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158426173",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170855571",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158426173",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170855571",
           "name": "",
           "file_store_url": ""
         }
@@ -364,11 +356,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158426177",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170855575",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=158426177",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170855575",
           "name": "",
           "file_store_url": ""
         }
@@ -398,7 +390,7 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 2,
+    "addenda_count": 3,
     "appendices_count": 4,
     "attachments_count": 0
   },
