@@ -1,25 +1,25 @@
 {
   "law_id": "2093168",
-  "mst": "2200000151797",
+  "mst": "2200000154515",
   "law_name": "울산시설공단 수탁사업 운영규정",
   "law_abbr": "",
   "law_type": "공단규정",
   "doc_target": "public",
   "doc_kind": "공공기관",
   "adm_uid": "public:2093168",
-  "promulgation_no": "629",
-  "promulgation_date": "20251229",
-  "enforcement_date": "20251229",
-  "revision_date": "20251229",
+  "promulgation_no": "635",
+  "promulgation_date": "20260408",
+  "enforcement_date": "20260408",
+  "revision_date": "20260408",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
-    "담당부서기관명": "기획경영실",
+    "현행여부": "Y",
+    "담당부서기관명": "총무인사팀",
     "담당자명": "이정호",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "울산시설공단 수탁사업 운영규정",
-    "발령일자": "20251229",
+    "발령일자": "20260408",
     "행정규칙종류": "공단규정",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -30,8 +30,8 @@
     "생성일자": "20260415",
     "행정규칙ID": "2093168",
     "담당부서기관코드": "",
-    "발령번호": "629",
-    "행정규칙일련번호": "2200000151797"
+    "발령번호": "635",
+    "행정규칙일련번호": "2200000154515"
   },
   "amendment_text": "",
   "revision_reason": "",
@@ -79,7 +79,28 @@
         "chapter_path": "제1장 총 칙",
         "content": "제4조(업무분장) 수탁사업에 관한 업무는 수탁사업 담당 부서장이 총괄하되, 그 외의 업무분장은 「울산시설공단 직제규정」에서 정하는 바에 따른다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "「울산시설공단 직제규정」",
+            "line_text": "",
+            "target_law_name": "울산시설공단 직제규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2093168",
+            "target_url": "https://www.law.go.kr/학칙공단/울산시설공단 직제규정",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:울산시설공단수탁사업운영규정#JO0004",
+            "reference_id": "SchlPubRul:울산시설공단직제규정#DOC",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "울산시설공단 직제규정/울산시설공단 직제규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:울산시설공단수탁사업운영규정#JO0004"
       },
@@ -90,7 +111,26 @@
         "chapter_path": "제1장 총 칙",
         "content": "제5조(수탁사업의 신청) 공단이 경영상 필요에 의해 위탁자로부터 수탁사업을 신청하고자 하는 경우에는 「울산광역시 사무의 위탁에 관한 조례」등에 따른다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "자치법규",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "「울산광역시 사무의 위탁에 관한 조례」",
+            "line_text": "",
+            "target_law_name": "울산광역시 사무의 위탁에 관한 조례",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2093168",
+            "target_url": "https://www.law.go.kr/자치법규/울산광역시 사무의 위탁에 관한 조례",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:울산시설공단수탁사업운영규정#JO0005",
+            "reference_id": "ordin:울산광역시사무의위탁에관한조례#DOC"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:울산시설공단수탁사업운영규정#JO0005"
       },
@@ -101,7 +141,33 @@
         "chapter_path": "제1장 총 칙",
         "content": "제6조(추진절차 등) 위수탁 협약 체결 이후 수탁사업 추진절차 및 시행부서는 별표1과 같다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "별표1",
+            "line_text": "",
+            "target_law_name": "울산시설공단 수탁사업 운영규정",
+            "target_article_no": "별표1",
+            "target_article_title": "수탁사업 추진절차 및 시행부서(제6조 관련)",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2093168",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000154515&bylNo=0001&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:울산시설공단수탁사업운영규정#JO0006",
+            "target_unit": "BYL0001",
+            "reference_id": "SchlPubRul:울산시설공단수탁사업운영규정#BYL0001",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "울산시설공단 수탁사업 운영규정/울산시설공단 수탁사업 운영규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:울산시설공단수탁사업운영규정#JO0006"
       },
@@ -134,7 +200,33 @@
         "chapter_path": "제2장 위수탁 협약체결 및 수탁사무의 처리",
         "content": "제9조 (위수탁 사업현황) 공단의 위수탁 사업현황은 별표2와 같다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제9조",
+            "source_clause": "제9조",
+            "link_text": "별표2",
+            "line_text": "",
+            "target_law_name": "울산시설공단 수탁사업 운영규정",
+            "target_article_no": "별표2",
+            "target_article_title": "위수탁 현황(제9조 관련)",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2093168",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000154515&bylNo=0002&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:울산시설공단수탁사업운영규정#JO0009",
+            "target_unit": "BYL0002",
+            "reference_id": "SchlPubRul:울산시설공단수탁사업운영규정#BYL0002",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "울산시설공단 수탁사업 운영규정/울산시설공단 수탁사업 운영규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:울산시설공단수탁사업운영규정#JO0009"
       },
@@ -189,7 +281,28 @@
         "chapter_path": "제4장 예산 편성 및 지출 등",
         "content": "제14조(지출원인행위) ①지출원인행위는 당해 수탁사업 예산범위 내에서 하여야 한다. 다만, 계속비 사업으로 계약한 수탁사업에 대해서는 총사업비 범위 내에서 지출원인행위를 할 수 있다.②지출원인행위를 하고자 할 때에는 「울산시설공단 회계규정 시행내규」에서 정하는 바에 따라 내부품의 및 지출결의서를 작성하여야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제2항",
+            "link_text": "「울산시설공단 회계규정 시행내규」",
+            "line_text": "",
+            "target_law_name": "울산시설공단 회계규정 시행내규",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2093168",
+            "target_url": "https://www.law.go.kr/학칙공단/울산시설공단 회계규정 시행내규",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:울산시설공단수탁사업운영규정#JO0014",
+            "reference_id": "SchlPubRul:울산시설공단회계규정시행내규#DOC",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "울산시설공단 회계규정 시행내규/울산시설공단 회계규정 시행내규.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:울산시설공단수탁사업운영규정#JO0014"
       },
@@ -222,94 +335,227 @@
       "promulgation_date": "20151231",
       "promulgation_no": "00435",
       "content": "부칙 <제435호,2015.12.31.>제1조(시행일) 이 규정은 공포한 날부터 시행한다.제2조(수탁사업에 대한 경과조치) 이 규정 시행 이전에 위수탁 협약을 체결하여 수행 중인 수탁사업은 이 규정에 의하여 협약이 체결된 것으로 본다.",
-      "provision_id": "SchlPubRul:울산시설공단수탁사업운영규정#ADDENDUM"
+      "provision_id": "SchlPubRul:울산시설공단수탁사업운영규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000154515",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260408"
     },
     {
       "promulgation_date": "20171228",
       "promulgation_no": "00473",
       "content": "부칙 <제473호,2017.12.28>이 규정은 공포한 날부터 시행한다.",
-      "provision_id": "SchlPubRul:울산시설공단수탁사업운영규정#ADDENDUM"
+      "provision_id": "SchlPubRul:울산시설공단수탁사업운영규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000154515",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260408"
     },
     {
       "promulgation_date": "20180427",
       "promulgation_no": "00482",
       "content": "부칙 <제482호,2018.4.27>이 규정은 공포한 날부터 시행하되, 2018년 3월 1일부터 적용한다.",
-      "provision_id": "SchlPubRul:울산시설공단수탁사업운영규정#ADDENDUM"
+      "provision_id": "SchlPubRul:울산시설공단수탁사업운영규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000154515",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260408"
     },
     {
       "promulgation_date": "20190401",
       "promulgation_no": "00502",
       "content": "부칙 <제502호,2019.4.1>이 규정은 공포한 날로부터 시행한다.",
-      "provision_id": "SchlPubRul:울산시설공단수탁사업운영규정#ADDENDUM"
+      "provision_id": "SchlPubRul:울산시설공단수탁사업운영규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000154515",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260408"
     },
     {
       "promulgation_date": "20201229",
       "promulgation_no": "00535",
       "content": "부칙 <제535호,2020.12.29>이 규정은 공포한 날부터 시행하되, 이 규정 시행 이전에 시행한 사항은 이 규정에 의하여 행하여 진 것으로 본다.",
-      "provision_id": "SchlPubRul:울산시설공단수탁사업운영규정#ADDENDUM"
+      "provision_id": "SchlPubRul:울산시설공단수탁사업운영규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000154515",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260408"
     },
     {
       "promulgation_date": "20210311",
       "promulgation_no": "00538",
       "content": "부칙 <제538호,2021.3.11>이 규정은 공포한 날부터 시행한다.",
-      "provision_id": "SchlPubRul:울산시설공단수탁사업운영규정#ADDENDUM"
+      "provision_id": "SchlPubRul:울산시설공단수탁사업운영규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000154515",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260408"
     },
     {
       "promulgation_date": "20211230",
       "promulgation_no": "00558",
       "content": "부칙 <제558호,2021.12.30>이 규정은 2022년 1월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:울산시설공단수탁사업운영규정#ADDENDUM"
+      "provision_id": "SchlPubRul:울산시설공단수탁사업운영규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000154515",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260408"
     },
     {
       "promulgation_date": "20220530",
       "promulgation_no": "00570",
       "content": "부칙 <제570호,2022.5.30>이 규정은 공포한 날부터 시행한다.",
-      "provision_id": "SchlPubRul:울산시설공단수탁사업운영규정#ADDENDUM"
+      "provision_id": "SchlPubRul:울산시설공단수탁사업운영규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000154515",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260408"
     },
     {
       "promulgation_date": "20221230",
       "promulgation_no": "00577",
       "content": "부칙 <제577호,2022.12.30>(직제규정)제1조(시행일) 이 규정은 2023년 1월 1일부터 시행한다.제2조(다른 규정의 개정) ① 부터 ③ 생략④수탁사업 운영규정을 다음과 같이 개정한다.[별표2] 중 “울산광역시 가족문화센터 위수탁 협약서” 및 “울산광역시 여성인력개발센터 위수탁 협약서”를 삭제한다.제3조 생략",
-      "provision_id": "SchlPubRul:울산시설공단수탁사업운영규정#ADDENDUM"
+      "provision_id": "SchlPubRul:울산시설공단수탁사업운영규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000154515",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260408"
     },
     {
       "promulgation_date": "20231229",
       "promulgation_no": "00600",
       "content": "부칙 <제600호,2023.12.29>이 규정은 2024년 1월 1일부터 시행한다",
-      "provision_id": "SchlPubRul:울산시설공단수탁사업운영규정#ADDENDUM"
+      "provision_id": "SchlPubRul:울산시설공단수탁사업운영규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000154515",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260408"
     },
     {
       "promulgation_date": "20241230",
       "promulgation_no": "00612",
       "content": "부칙 <제612호,2024.12.30>이 규정은 공포한 날부터 시행한다.",
-      "provision_id": "SchlPubRul:울산시설공단수탁사업운영규정#ADDENDUM"
+      "provision_id": "SchlPubRul:울산시설공단수탁사업운영규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000154515",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260408"
     },
     {
       "promulgation_date": "20250707",
       "promulgation_no": "00625",
       "content": "부칙 <제625호,2025.7.7>이 규정은 공포한 날부터 시행한다.",
-      "provision_id": "SchlPubRul:울산시설공단수탁사업운영규정#ADDENDUM"
+      "provision_id": "SchlPubRul:울산시설공단수탁사업운영규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000154515",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260408"
     },
     {
       "promulgation_date": "20251229",
       "promulgation_no": "00629",
       "content": "부칙 <제629호,2025.12.29>이 규정은 공포한 날부터 시행한다.",
-      "provision_id": "SchlPubRul:울산시설공단수탁사업운영규정#ADDENDUM"
+      "provision_id": "SchlPubRul:울산시설공단수탁사업운영규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000154515",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260408"
+    },
+    {
+      "promulgation_date": "20260408",
+      "promulgation_no": "00635",
+      "content": "부칙 <제635호,2026.4.8>이 규정은 공포한 날부터 시행한다",
+      "provision_id": "SchlPubRul:울산시설공단수탁사업운영규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000154515",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260408"
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "수탁사업 추진절차 및 시행부서(제6조 관련)",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000154515&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163507703",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163507703",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:울산시설공단수탁사업운영규정#BYL0001",
+      "filename": "별표1_수탁사업 추진절차 및 시행부서(제6조 관련).hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표1_수탁사업 추진절차 및 시행부서(제6조 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "위수탁 현황(제9조 관련)",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000154515&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163507707",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163507707",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:울산시설공단수탁사업운영규정#BYL0002",
+      "filename": "별표2_위수탁 현황(제9조 관련).hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표2_위수탁 현황(제9조 관련).hwp",
+      "file_store_url": ""
+    }
+  ],
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 5,
+    "by_category": {
+      "학칙공단": 4,
+      "자치법규": 1
+    },
+    "by_relation_type": {
+      "citation": 3,
+      "appendix_ref": 2
+    },
     "articles_total": 16,
-    "articles_with_relations": 0,
+    "articles_with_relations": 5,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 13,
+    "addenda_count": 14,
     "appendices_count": 2,
     "attachments_count": 0
   },
@@ -320,5 +566,8 @@
   "addendum_provision_id": "SchlPubRul:울산시설공단수탁사업운영규정#ADDENDUM",
   "amendment_provision_id": "SchlPubRul:울산시설공단수탁사업운영규정#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "울산시설공단 수탁사업 운영규정/울산시설공단 수탁사업 운영규정.json"
 }
