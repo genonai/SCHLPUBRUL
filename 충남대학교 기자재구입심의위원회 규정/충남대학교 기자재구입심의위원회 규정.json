@@ -1,25 +1,25 @@
 {
   "law_id": "2107531",
-  "mst": "2200000114457",
+  "mst": "2200000155433",
   "law_name": "충남대학교 기자재구입심의위원회 규정",
   "law_abbr": "",
   "law_type": "학교규정",
   "doc_target": "school",
   "doc_kind": "학칙",
   "adm_uid": "school:2107531",
-  "promulgation_no": "2094",
-  "promulgation_date": "20230420",
-  "enforcement_date": "20230420",
-  "revision_date": "20230420",
+  "promulgation_no": "2263",
+  "promulgation_date": "20260410",
+  "enforcement_date": "20260410",
+  "revision_date": "20260410",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "충남대학교",
     "담당자명": "왕경원",
     "행정규칙종류코드": "B0026",
     "행정규칙명": "충남대학교 기자재구입심의위원회 규정",
-    "발령일자": "20230420",
+    "발령일자": "20260410",
     "행정규칙종류": "학교규정",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -30,11 +30,11 @@
     "생성일자": "20260515",
     "행정규칙ID": "2107531",
     "담당부서기관코드": "7001105",
-    "발령번호": "2094",
-    "행정규칙일련번호": "2200000114457"
+    "발령번호": "2263",
+    "행정규칙일련번호": "2200000155433"
   },
-  "amendment_text": "충남대학교 기자재구입심의위원회 규정을 다음과 같이 개정한다.\n제3조(구성) 제1항의 “위원 15인 이내”를 “위원 20인 이내”로 한다.\n제2항의 “산학연지원단장”을 “연구처장”으로 한다.\n제3항의 “정보통신원장”을 “정보화본부”로 “경리과장”을 “재무과장”으로 변경하고 “연구지원과장”을 추가한다.\n제6조(간사) “위원회의 서무를 처리하기 위하여”를“위원회의 사무를 처리하기 위하여”로 “학술진흥과장”을 “담당부서팀장”으로 변경한다.",
-  "revision_reason": "1. 개정이유\n○ 우리 대학의 다양한 학문분야에 필요한 기자재 구입 심의의 전문성을 제고하기 위하여 위원의 범위를 확대하고자 함\n○ 학칙에 따른 직위 명칭을 현행화하고 위원회 사무의 신속성 확보를 위하여 간사 선임을 변경하고자 함\n2. 주요내용\n가. 위원의 범위 확대 및 직위 명칭 현행화에 관한 사항(안 제3조)\n○ 위원회 구성 범위를 확대하기 위하여 위원을 추가\n- 임명직 위원 추가\n- 당연직 위원 추가(연구지원과장)\n○ 학칙에 따른 직위 명칭을 현행화(안 제3조)\n- 현행: 산학연지원단장, 정보통신원장, 경리과장\n- 변경: 연구처장, 정보화본부장, 재무과장\n나. 위원회 간사업무의 명확화 및 선임 변경에 관한 사항(안 제6조)\n○ ‘위원회의 서무를 처리하기 위하여’를 ‘위원회의 사무를 처리하기 위하여’로 변경\n○ 위원회 간사를 학술진흥과장에서 담당부서 팀장으로 선임 변경",
+  "amendment_text": "",
+  "revision_reason": "",
   "body": {
     "format": "articles",
     "article_count": 9,
@@ -66,7 +66,7 @@
         "article_title": "구성",
         "chapter": "",
         "chapter_path": "",
-        "content": "제3조 (구성) ①위원회는 위원장을 포함한 위원 20인 이내로 구성한다. <개정 2023. 4. 20.>②위원장은 연구처장이 되고, 부위원장은 위원 중에서 호선한다. <개정 2023. 4. 20.>③위원은 정보화본부장, 공동실험실습관장, 재무과장, 연구지원과장과 총장이 임명하는 위원으로 구성한다. <개정 2023. 4. 20.>④임명위원의 임기는 2년으로 하되 연임할 수 있다.",
+        "content": "제3조 (구성) ①위원회는 위원장을 포함한 위원 20인 이내로 구성한다. <개정 2023. 4. 20.>②위원장은 연구처장이 되고, 부위원장은 위원 중에서 호선한다. <개정 2023. 4. 20.>③위원은 AI정보화본부장, 공동실험실습관장, 재무과장, 연구지원과장과 총장이 임명하는 위원으로 구성한다. <개정 2023. 4. 20., 2026. 4. 10.>④임명위원의 임기는 2년으로 하되 연임할 수 있다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -132,7 +132,7 @@
         "article_title": "운영세칙",
         "chapter": "",
         "chapter_path": "",
-        "content": "제9조 (운영세칙) 위원회의 운영에 관한 세부사항은 위원회의 의결을 거쳐 위원장이 정한다.",
+        "content": "제9조 (운영세칙) 위원회의 운영에 관한 세부사항은 위원회의 의결을 거쳐 위원장 이 정한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -145,28 +145,110 @@
       "promulgation_date": "20000918",
       "promulgation_no": "01009",
       "content": "부칙 <제1009호,2000.9.18>이 규정은 공포한 날부터 시행한다.",
-      "provision_id": "SchlPubRul:충남대학교기자재구입심의위원회규정#ADDENDUM"
+      "provision_id": "SchlPubRul:충남대학교기자재구입심의위원회규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000155433",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260410"
     },
     {
       "promulgation_date": "20011029",
       "promulgation_no": "01042",
       "content": "부칙 <제1042호,2001.10.29>제1조(시행일) 이 규정은 공포한 날부터 시행한다.제2조(경과 규정) 생략",
-      "provision_id": "SchlPubRul:충남대학교기자재구입심의위원회규정#ADDENDUM"
+      "provision_id": "SchlPubRul:충남대학교기자재구입심의위원회규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000155433",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260410"
     },
     {
       "promulgation_date": "20050615",
       "promulgation_no": "01244",
       "content": "부칙 <제1244호,2005.6.15>이 규정은 공포한 날부터 시행한다.",
-      "provision_id": "SchlPubRul:충남대학교기자재구입심의위원회규정#ADDENDUM"
+      "provision_id": "SchlPubRul:충남대학교기자재구입심의위원회규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000155433",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260410"
     },
     {
       "promulgation_date": "20230420",
       "promulgation_no": "02094",
       "content": "부칙 <제2094호,2023.4.20>제1조(시행일) 이 규정은 공포한 날부터 시행한다.제2조(경과 규정) 생략",
-      "provision_id": "SchlPubRul:충남대학교기자재구입심의위원회규정#ADDENDUM"
+      "provision_id": "SchlPubRul:충남대학교기자재구입심의위원회규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000155433",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260410"
+    },
+    {
+      "promulgation_date": "20260410",
+      "promulgation_no": "02263",
+      "content": "부칙 <제2263호,2026.4.10.>제1조 (시행일) 이 규정은 공포한 날부터 시행한다.",
+      "provision_id": "SchlPubRul:충남대학교기자재구입심의위원회규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000155433",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260410"
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "실험ㆍ실습기자재 구입계획서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164228023",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164228023",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:충남대학교기자재구입심의위원회규정#BJ0001",
+      "filename": "별지1_실험ㆍ실습기자재 구입계획서.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지1_실험ㆍ실습기자재 구입계획서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "검토의견서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164228029",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164228029",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:충남대학교기자재구입심의위원회규정#BJ0002",
+      "filename": "별지2_검토의견서.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지2_검토의견서.hwp",
+      "file_store_url": ""
+    }
+  ],
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
@@ -178,7 +260,7 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 4,
+    "addenda_count": 5,
     "appendices_count": 2,
     "attachments_count": 0
   },
@@ -189,5 +271,8 @@
   "addendum_provision_id": "SchlPubRul:충남대학교기자재구입심의위원회규정#ADDENDUM",
   "amendment_provision_id": "SchlPubRul:충남대학교기자재구입심의위원회규정#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "충남대학교 기자재구입심의위원회 규정/충남대학교 기자재구입심의위원회 규정.json"
 }
