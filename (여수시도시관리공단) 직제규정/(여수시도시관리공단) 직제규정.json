@@ -1,40 +1,40 @@
 {
   "law_id": "2125755",
-  "mst": "2200000151729",
+  "mst": "2200000154475",
   "law_name": "(여수시도시관리공단) 직제규정",
   "law_abbr": "",
   "law_type": "공단규정",
   "doc_target": "public",
   "doc_kind": "공공기관",
   "adm_uid": "public:2125755",
-  "promulgation_no": "203",
-  "promulgation_date": "20251229",
-  "enforcement_date": "20251229",
-  "revision_date": "20251229",
+  "promulgation_no": "214",
+  "promulgation_date": "20260410",
+  "enforcement_date": "20260410",
+  "revision_date": "20260410",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "경영지원부",
-    "담당자명": "신태원",
+    "담당자명": "이현호",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "(여수시도시관리공단) 직제규정",
-    "발령일자": "20251229",
+    "발령일자": "20260410",
     "행정규칙종류": "공단규정",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
     "소관부처명": "여수시도시관리공단",
-    "전화번호": "061-662-8066",
+    "전화번호": "061-652-8207",
     "제개정구분명": "일부개정",
     "소관부처코드": "B553860",
-    "생성일자": "20260413",
+    "생성일자": "20260430",
     "행정규칙ID": "2125755",
     "담당부서기관코드": "",
-    "발령번호": "203",
-    "행정규칙일련번호": "2200000151729"
+    "발령번호": "214",
+    "행정규칙일련번호": "2200000154475"
   },
-  "amendment_text": "직제규정 일부를 다음과 같이 개정한다.\n별표 2를 별지 1과 같이 한다.\n별표 3을 별지 2와 같이 한다.",
-  "revision_reason": "1. 제안이유\n기능직 직원의 조직 내 인력 유동성을 높이고 부서 간 업무분장 조정을 통해 적극행정의 실행력을 강화하고자 「직제규정」 을 일부 개정하고자 함\n2. 주요내용\n가. 정원 증원 없이 기능직 직급간 비율 조정\n[그림]\n구분\n계\n6등급\n7등급\n8등급\n9등급\n비고\n현행 정원\n30\n4\n11\n12\n3\n조정 정원\n30\n5\n12\n12\n1\n(단위 : 명)\n\n나. 적극행정 기획·추진 기능 강화 및 실행력 제고",
+  "amendment_text": "직제 규정 일부를 다음과 같이 개정한다.\n제9조제1항 중 “수영강사, 수상안전요원)”을 “수상안전요원), 수영강사직(수영강사)”으로 한다.\n별표 2를 별지와 같이 한다.",
+  "revision_reason": "1. 제안이유\n「수영강사직 관리 규정」이 별도로 제정됨에 따라, 기존 공무직 직렬에 포함되어 있던 수영강사 직무를 독립된 직원 범주로 재정비하여 이를 통해 직무별 관리체계를 명확히 하고자 함\n2. 주요내용\n가. 직원의 범주 정비(제9조)\n- 공무직 직렬 설명 중 ‘수영강사’ 문구 삭제\n나. 정원표 개정(별표 2)\n- 정원표 상 ‘공무직’과 ‘환경미화직’사이에 ‘수영강사직’란을 신설하여 직제순서 조정",
   "body": {
     "format": "articles",
     "article_count": 18,
@@ -123,7 +123,28 @@
         "chapter_path": "제2장 구성원",
         "content": "제8조(직무대행) 이사장 유고시에는 이사장이 임명되기까지는 정관 제9조제4항에 의한 이사중에서 호선으로 선임된 임원이 이사장의 직무를 대행한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "제9조제4항",
+            "line_text": "",
+            "target_law_name": "(여수시도시관리공단) 직제규정",
+            "target_article_no": "제9조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2125755",
+            "target_url": "https://www.law.go.kr/학칙공단/(여수시도시관리공단) 직제규정/제9조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(여수시도시관리공단)직제규정#JO0008",
+            "reference_id": "SchlPubRul:(여수시도시관리공단)직제규정#JO0009",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(여수시도시관리공단) 직제규정/(여수시도시관리공단) 직제규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:(여수시도시관리공단)직제규정#JO0008"
       },
@@ -132,7 +153,7 @@
         "article_title": "직원",
         "chapter": "제2장 구성원",
         "chapter_path": "제2장 구성원",
-        "content": "제9조(직원) ① 직원은 일반직(행정·토목·건축·도시계획·지적·환경·기계·전기·안전·보건·사서·전산), 기능직(운전·기계·전기·환경), 공무직(사무원, 시설관리원, 수영강사, 수상안전요원), 환경미화직(환경미화)로 한다. <개정 2018. 1. 4., 2020. 12. 15., 2021. 5. 28.>② 일반직 직원의 직급은 2급부터 6급으로 한다.③ 기능직 직원의 직급은 6등급으로부터 9등급으로 한다.",
+        "content": "제9조(직원) ① 직원은 일반직(행정·토목·건축·도시계획·지적·환경·기계·전기·안전·보건·사서·전산), 기능직(운전·기계·전기·환경), 공무직(사무원, 시설관리원, 수상안전요원), 수영강사직(수영강사), 환경미화직(환경미화)로 한다. <개정 2018. 1. 4., 2020. 12. 15., 2021. 5. 28., 2026. 4. 10.>② 일반직 직원의 직급은 2급부터 6급으로 한다.③ 기능직 직원의 직급은 6등급으로부터 9등급으로 한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -156,7 +177,33 @@
         "chapter_path": "제3장 조직",
         "content": "제11조(기구) ① 공단에는 이사장 직속의 청렴감사부와 안전관리부, 본부 소속의 경영본부와 사업본부를 둔다. 경영본부에는 경영본부장과 하부조직에 기획혁신부, 경영지원부를 두며, 사업본부에는 사업본부장과 하부조직에 교통휴양시설부, 도시미화부, 체육시설부, 환경자원사업소를 둔다. <개정 2024. 2. 26.>② 공단의 기구는 별표 1과 같다.③ 공단은 필요에 따라 제1항외에 별도의 TF팀을 구성할 수 있다.  <신설 2021. 3. 2.>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제2항",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "(여수시도시관리공단) 직제규정",
+            "target_article_no": "별표1",
+            "target_article_title": "여수시도시관리공단 기구표(제11조 관련)",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2125755",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000154475&bylNo=0001&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(여수시도시관리공단)직제규정#JO0011",
+            "target_unit": "BYL0001",
+            "reference_id": "SchlPubRul:(여수시도시관리공단)직제규정#BYL0001",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(여수시도시관리공단) 직제규정/(여수시도시관리공단) 직제규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:(여수시도시관리공단)직제규정#JO0011"
       },
@@ -178,7 +225,33 @@
         "chapter_path": "제3장 조직",
         "content": "제13조(정원) 공단의 직급별 정원은 별표 2와 같다. 다만, 기간제근로자와 계약직 직원은 예산의 범위 내에서 따로 둘 수 있다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제13조",
+            "source_clause": "제13조",
+            "link_text": "별표 2",
+            "line_text": "",
+            "target_law_name": "(여수시도시관리공단) 직제규정",
+            "target_article_no": "별표2",
+            "target_article_title": "여수시도시관리공단 정원표(제13조 관련)",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2125755",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000154475&bylNo=0002&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(여수시도시관리공단)직제규정#JO0013",
+            "target_unit": "BYL0002",
+            "reference_id": "SchlPubRul:(여수시도시관리공단)직제규정#BYL0002",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(여수시도시관리공단) 직제규정/(여수시도시관리공단) 직제규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:(여수시도시관리공단)직제규정#JO0013"
       },
@@ -189,7 +262,33 @@
         "chapter_path": "제4장 사무분장",
         "content": "제14조(업무분장) 각 부(사업소)의 업무분장은 별표 3과 같다. <개정 2024. 2. 26.>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제14조",
+            "source_clause": "제14조",
+            "link_text": "별표 3",
+            "line_text": "",
+            "target_law_name": "(여수시도시관리공단) 직제규정",
+            "target_article_no": "별표3",
+            "target_article_title": "부서별 업무분장표(제14조 관련)",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2125755",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000154475&bylNo=0003&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(여수시도시관리공단)직제규정#JO0014",
+            "target_unit": "BYL0003",
+            "reference_id": "SchlPubRul:(여수시도시관리공단)직제규정#BYL0003",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(여수시도시관리공단) 직제규정/(여수시도시관리공단) 직제규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:(여수시도시관리공단)직제규정#JO0014"
       },
@@ -244,130 +343,317 @@
       "promulgation_date": "20171117",
       "promulgation_no": "00003",
       "content": "부칙 <제3호,2017.11.17>제1조(시행일) 이 규정은 공단 설립 일부터 시행 한다제2조(경과조치) 이 규정 시행 전 여수시도시공사 직제규정으로 이미 시행된 사항은 이 규정에 의하여 시행된 것으로 본다.",
-      "provision_id": "SchlPubRul:(여수시도시관리공단)직제규정#ADDENDUM"
+      "provision_id": "SchlPubRul:(여수시도시관리공단)직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000154475",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260410"
     },
     {
       "promulgation_date": "20180104",
       "promulgation_no": "00030",
       "content": "부칙 <제30호, 2018.1.4.>이 규정은 공포한 날부터 시행한다",
-      "provision_id": "SchlPubRul:(여수시도시관리공단)직제규정#ADDENDUM"
+      "provision_id": "SchlPubRul:(여수시도시관리공단)직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000154475",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260410"
     },
     {
       "promulgation_date": "20181218",
       "promulgation_no": "00042",
       "content": "부칙<제42호, 2018.12.18.>이 규정은 공포한 날부터 시행 한다",
-      "provision_id": "SchlPubRul:(여수시도시관리공단)직제규정#ADDENDUM"
+      "provision_id": "SchlPubRul:(여수시도시관리공단)직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000154475",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260410"
     },
     {
       "promulgation_date": "20190708",
       "promulgation_no": "00043",
       "content": "부칙<제43호, 2019.7.8.>이 규정은 공포한 날부터 시행한다",
-      "provision_id": "SchlPubRul:(여수시도시관리공단)직제규정#ADDENDUM"
+      "provision_id": "SchlPubRul:(여수시도시관리공단)직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000154475",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260410"
     },
     {
       "promulgation_date": "20200109",
       "promulgation_no": "00046",
       "content": "부칙<제46호, 2020.1.9.>이 규정은 공포한 날부터 시행한다",
-      "provision_id": "SchlPubRul:(여수시도시관리공단)직제규정#ADDENDUM"
+      "provision_id": "SchlPubRul:(여수시도시관리공단)직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000154475",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260410"
     },
     {
       "promulgation_date": "20200207",
       "promulgation_no": "00055",
       "content": "부칙<제55호, 2020.2.7.>이 규정은 공포한 날부터 시행한다",
-      "provision_id": "SchlPubRul:(여수시도시관리공단)직제규정#ADDENDUM"
+      "provision_id": "SchlPubRul:(여수시도시관리공단)직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000154475",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260410"
     },
     {
       "promulgation_date": "20200522",
       "promulgation_no": "00061",
       "content": "부칙<제61호, 2020.5.22.>이 규정은 공포한 날부터 시행한다",
-      "provision_id": "SchlPubRul:(여수시도시관리공단)직제규정#ADDENDUM"
+      "provision_id": "SchlPubRul:(여수시도시관리공단)직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000154475",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260410"
     },
     {
       "promulgation_date": "20200918",
       "promulgation_no": "00065",
       "content": "부칙<제65호, 2020.9.18.>이 규정은 공포한 날부터 시행한다",
-      "provision_id": "SchlPubRul:(여수시도시관리공단)직제규정#ADDENDUM"
+      "provision_id": "SchlPubRul:(여수시도시관리공단)직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000154475",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260410"
     },
     {
       "promulgation_date": "20201215",
       "promulgation_no": "00067",
       "content": "부칙<제67호, 2020.12.15.>이 규정은 공포한 날부터 시행한다",
-      "provision_id": "SchlPubRul:(여수시도시관리공단)직제규정#ADDENDUM"
+      "provision_id": "SchlPubRul:(여수시도시관리공단)직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000154475",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260410"
     },
     {
       "promulgation_date": "20210210",
       "promulgation_no": "00079",
       "content": "부칙<제79호, 2021.2.10.>이 규정은 공포한 날부터 시행한다.",
-      "provision_id": "SchlPubRul:(여수시도시관리공단)직제규정#ADDENDUM"
+      "provision_id": "SchlPubRul:(여수시도시관리공단)직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000154475",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260410"
     },
     {
       "promulgation_date": "20210302",
       "promulgation_no": "00082",
       "content": "부칙<제82호, 2021.3.2.>이 규정은 공포한 날부터 시행한다.",
-      "provision_id": "SchlPubRul:(여수시도시관리공단)직제규정#ADDENDUM"
+      "provision_id": "SchlPubRul:(여수시도시관리공단)직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000154475",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260410"
     },
     {
       "promulgation_date": "20210528",
       "promulgation_no": "00086",
       "content": "부칙<제86호, 2021.5.28.>제1조(시행일) 이 규정은 공포한 날부터 시행한다.제2조(다른 규정의 개정) ① 보수규정 일부를 다음과 같이 개정한다.제27조 “환경사업소”를 “환경자원사업소”로 한다.“별표6” 수당 지급기준표 중 “환경사업소”를 “환경자원사업소”로 하고, 위험근무수당 항목의 지급대상에서 “바이오”를 삭제한다.② 회계규정 일부를 다음과 같이 개정한다.제6조제3항 중 “환경사업소장”을 “환경자원사업소장”으로 한다.",
-      "provision_id": "SchlPubRul:(여수시도시관리공단)직제규정#ADDENDUM"
+      "provision_id": "SchlPubRul:(여수시도시관리공단)직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000154475",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260410"
     },
     {
       "promulgation_date": "20221230",
       "promulgation_no": "00135",
       "content": "부칙 <제135호,2022.12.30.>제1조 (시행일) 이 규정은 2022년 12월 30일부터 시행한다.",
-      "provision_id": "SchlPubRul:(여수시도시관리공단)직제규정#ADDENDUM"
+      "provision_id": "SchlPubRul:(여수시도시관리공단)직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000154475",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260410"
     },
     {
       "promulgation_date": "20230630",
       "promulgation_no": "00147",
       "content": "부칙 <제147호,2023.6.30.>제1조 (시행일) 이 규정은 2023년 6월 30일부터 시행한다.",
-      "provision_id": "SchlPubRul:(여수시도시관리공단)직제규정#ADDENDUM"
+      "provision_id": "SchlPubRul:(여수시도시관리공단)직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000154475",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260410"
     },
     {
       "promulgation_date": "20231127",
       "promulgation_no": "00156",
       "content": "부칙<제156호, 2023.11.27.>제1조(시행일) 이 규정은 2023년 11월 27일부터 시행한다.",
-      "provision_id": "SchlPubRul:(여수시도시관리공단)직제규정#ADDENDUM"
+      "provision_id": "SchlPubRul:(여수시도시관리공단)직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000154475",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260410"
     },
     {
       "promulgation_date": "20240226",
       "promulgation_no": "00167",
       "content": "부칙<제167호, 2024.2.26.>제1조(시행일) 이 규정은 2024년 2월 26일부터 시행한다.",
-      "provision_id": "SchlPubRul:(여수시도시관리공단)직제규정#ADDENDUM"
+      "provision_id": "SchlPubRul:(여수시도시관리공단)직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000154475",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260410"
     },
     {
       "promulgation_date": "20241025",
       "promulgation_no": "00186",
       "content": "부칙<제186호, 2024.10.25.>제1조(시행일) 이 규정은 2024년 10월 25일부터 시행한다.",
-      "provision_id": "SchlPubRul:(여수시도시관리공단)직제규정#ADDENDUM"
+      "provision_id": "SchlPubRul:(여수시도시관리공단)직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000154475",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260410"
     },
     {
       "promulgation_date": "20250513",
       "promulgation_no": "00191",
       "content": "부칙<제191호, 2025.5.13.>이 규정은 2025년 5월 13일부터 시행한다.",
-      "provision_id": "SchlPubRul:(여수시도시관리공단)직제규정#ADDENDUM"
+      "provision_id": "SchlPubRul:(여수시도시관리공단)직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000154475",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260410"
     },
     {
       "promulgation_date": "20251229",
       "promulgation_no": "00203",
       "content": "부칙 <제203호,2025.12.29>이 규정은 2025년 12월 29일부터 시행한다.",
-      "provision_id": "SchlPubRul:(여수시도시관리공단)직제규정#ADDENDUM"
+      "provision_id": "SchlPubRul:(여수시도시관리공단)직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000154475",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260410"
+    },
+    {
+      "promulgation_date": "20260410",
+      "promulgation_no": "00214",
+      "content": "부칙 <제214호,2026.4.10>이 규정은 2026년 4월 10일부터 시행한다.",
+      "provision_id": "SchlPubRul:(여수시도시관리공단)직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000154475",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260410"
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "여수시도시관리공단 기구표(제11조 관련)",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000154475&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163493401",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163493401",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:(여수시도시관리공단)직제규정#BYL0001",
+      "filename": "별표1_여수시도시관리공단 기구표(제11조 관련).hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표1_여수시도시관리공단 기구표(제11조 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "여수시도시관리공단 정원표(제13조 관련)",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000154475&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163493405",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163493405",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:(여수시도시관리공단)직제규정#BYL0002",
+      "filename": "별표2_여수시도시관리공단 정원표(제13조 관련).hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표2_여수시도시관리공단 정원표(제13조 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별표",
+      "title": "부서별 업무분장표(제14조 관련)",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000154475&bylNo=0003&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163493409",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163493409",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:(여수시도시관리공단)직제규정#BYL0003",
+      "filename": "별표3_부서별 업무분장표(제14조 관련).hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표3_부서별 업무분장표(제14조 관련).hwp",
+      "file_store_url": ""
+    }
+  ],
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 4,
+    "by_category": {
+      "학칙공단": 4
+    },
+    "by_relation_type": {
+      "internal_ref": 1,
+      "appendix_ref": 3
+    },
     "articles_total": 18,
-    "articles_with_relations": 0,
+    "articles_with_relations": 4,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 19,
+    "addenda_count": 20,
     "appendices_count": 3,
     "attachments_count": 0
   },
@@ -378,5 +664,8 @@
   "addendum_provision_id": "SchlPubRul:(여수시도시관리공단)직제규정#ADDENDUM",
   "amendment_provision_id": "SchlPubRul:(여수시도시관리공단)직제규정#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "(여수시도시관리공단) 직제규정/(여수시도시관리공단) 직제규정.json"
 }
