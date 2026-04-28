@@ -1,25 +1,25 @@
 {
   "law_id": "2129957",
-  "mst": "2200000123127",
+  "mst": "2200000159345",
   "law_name": "(한국토지주택공사) 취업규칙",
   "law_abbr": "",
   "law_type": "공단규정",
   "doc_target": "pi",
   "doc_kind": "공단정관",
   "adm_uid": "pi:2129957",
-  "promulgation_no": "296",
-  "promulgation_date": "20231017",
-  "enforcement_date": "20231019",
-  "revision_date": "20231017",
+  "promulgation_no": "9999",
+  "promulgation_date": "20260415",
+  "enforcement_date": "20260428",
+  "revision_date": "20260415",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
     "현행여부": "Y",
-    "담당부서기관명": "한국토지주택공사 인사관리처",
+    "담당부서기관명": "한국토지주택공사",
     "담당자명": "",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "(한국토지주택공사) 취업규칙",
-    "발령일자": "20231017",
+    "발령일자": "20260415",
     "행정규칙종류": "공단규정",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,17 +27,17 @@
     "전화번호": "055-922-3107",
     "제개정구분명": "일부개정",
     "소관부처코드": "B552555",
-    "생성일자": "20260305",
+    "생성일자": "20260825",
     "행정규칙ID": "2129957",
-    "담당부서기관코드": "",
-    "발령번호": "296",
-    "행정규칙일련번호": "2200000123127"
+    "담당부서기관코드": "B552555",
+    "발령번호": "9999",
+    "행정규칙일련번호": "2200000159345"
   },
   "amendment_text": "",
   "revision_reason": "",
   "body": {
     "format": "articles",
-    "article_count": 67,
+    "article_count": 69,
     "articles": [
       {
         "article_no": "제1조",
@@ -55,7 +55,7 @@
         "article_title": "적용범위",
         "chapter": "제1장 총칙",
         "chapter_path": "제1장 총칙",
-        "content": "제2조(적용범위) ① 이 규칙은 「직제규정」 에 따른 직원 중 일반직원, 전문위원, 별정직원에 대하여 적용한다. <개정 2020. 4. 24.>② 이 규칙에서 정한 사항이 「근로기준법」 , 관련 법령, 정관 및 단체협약에 저촉되는 경우에는 「근로기준법」 , 관련 법령, 정관 및 단체협약에 따른다.",
+        "content": "제2조(적용범위) ① 이 규칙은 「직제규정」에 따른 직원 중 일반직원, 전문위원, 별정직원에 대하여 적용한다. <개정 2020. 4. 24.>② 이 규칙에서 정한 사항이 「근로기준법」, 관련 법령, 정관 및 단체협약에 저촉되는 경우에는 「근로기준법」, 관련 법령, 정관 및 단체협약에 따른다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -76,9 +76,7 @@
             "source_provision_id": "SchlPubRul:(한국토지주택공사)취업규칙#JO0002",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
-            "target_git_path": "근로기준법/법률/근로기준법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
           },
           {
             "relation_type": "citation",
@@ -98,9 +96,7 @@
             "source_provision_id": "SchlPubRul:(한국토지주택공사)취업규칙#JO0002",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
-            "target_git_path": "근로기준법/법률/근로기준법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
           }
         ],
         "images": [],
@@ -187,11 +183,7 @@
             "source_provision_id": "SchlPubRul:(한국토지주택공사)취업규칙#JO0008",
             "reference_id": "SchlPubRul:(한국토지주택공사)취업규칙#JO0025",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국토지주택공사) 취업규칙/(한국토지주택공사) 취업규칙.json",
-            "target_git_path": "(한국토지주택공사) 취업규칙/(한국토지주택공사) 취업규칙.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국토지주택공사) 취업규칙/(한국토지주택공사) 취업규칙.json"
           }
         ],
         "images": [],
@@ -202,7 +194,7 @@
         "article_title": "공사와 거래제한",
         "chapter": "제1절 총칙",
         "chapter_path": "제2장 복무 > 제1절 총칙",
-        "content": "제9조(공사와 거래제한) ① 직원은 일반인에게 공개되지 아니한 업무와 관련된 정보를 이용하여 공사가 공급하는 주택, 토지 및 상가 등(이하 \"주택 등\"이라 한다)을 부당하게 공급받을 수 없다.② 직원 및 그 배우자ㆍ부모와 자녀는 공사와 주택 등의 매매 및 임대차계약 또는 「용지규정」 등에 따라 보상 및 이주와 관련하여 특별 공급받은 주택 등의 권리의무승계계약을 체결하여서는 아니 된다. 다만, 다음 각 호의 경우에는 그러하지 아니한다.1. 「주택법」 에 따라 설립된 주택조합이 매입하는 경우2. 추첨제분양 대상 주택 등을 매입 또는 임대차하거나 수의계약 대상(산업시설용지를 제외한다)으로서 수의계약 개시일로부터 10일이 경과된 주택 등을 매입 또는 임대차하는 경우3. 직원의 부모와 자녀가 관련 법령에 따라 산업시설용지를 매입 하는 경우4. 수의계약 대상 주택으로 일간신문, 관할 시ㆍ군ㆍ자치구의 홈페이지 또는 공사홈페이지를 통해 일반인에게 모집공고를 하고, 추첨에 의한 동호지정순번을 결정하여 그 결과에 따라 주택을 매입하거나 임대차하는 경우 <개정 2019. 8. 29.>③ 삭제 <2011. 12. 1.>④ 제2항제2호 및 제4호에 따라 수의계약의 방법으로 공사의 주택 등을 매입 또는 임대차하는 경우에는 계약체결일로부터 30일 이내에 별지 제1호서식으로 감사담당부서장에게 신고하여야 하며, 1년이 경과하기 전에는 전매할 수 없다.",
+        "content": "제9조(공사와 거래제한) ① 직원은 일반인에게 공개되지 아니한 업무와 관련된 정보를 이용하여 공사가 공급하는 주택, 토지 및 상가 등(이하 \"주택 등\"이라 한다)을 부당하게 공급받을 수 없다.② 직원 및 그 배우자ㆍ부모와 자녀는 공사와 주택 등의 매매 및 임대차계약 또는「용지규정」등에 따라 보상 및 이주와 관련하여 특별 공급받은 주택 등의 권리의무승계계약을 체결하여서는 아니 된다. 다만, 다음 각 호의 경우에는 그러하지 아니한다.1. 「주택법」에 따라 설립된 주택조합이 매입하는 경우2. 추첨제분양 대상 주택 등을 매입 또는 임대차하거나 수의계약 대상(산업시설용지를 제외한다)으로서 수의계약 개시일로부터 10일이 경과된 주택 등을 매입 또는 임대차하는 경우3. 직원의 부모와 자녀가 관련 법령에 따라 산업시설용지를 매입 하는 경우4. 수의계약 대상 주택으로 일간신문, 관할 시ㆍ군ㆍ자치구의 홈페이지 또는 공사홈페이지를 통해 일반인에게 모집공고를 하고, 추첨에 의한 동호지정순번을 결정하여 그 결과에 따라 주택을 매입하거나 임대차하는 경우 <개정 2019. 8. 29.>③ <삭제 2011. 12. 1>④ 제2항제2호 및 제4호에 따라 수의계약의 방법으로 공사의 주택 등을 매입 또는 임대차하는 경우에는 계약체결일로부터 30일 이내에 별지 제1호서식으로 감사담당부서장에게 신고하여야 하며, 1년이 경과하기 전에는 전매할 수 없다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -223,9 +215,7 @@
             "source_provision_id": "SchlPubRul:(한국토지주택공사)취업규칙#JO0009",
             "reference_id": "law:주택법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "주택법/법률/주택법.json",
-            "target_git_path": "주택법/법률/주택법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "주택법/법률/주택법.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -244,18 +234,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2129957",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162145715",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168566771",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국토지주택공사)취업규칙#JO0009",
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(한국토지주택공사)취업규칙#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국토지주택공사) 취업규칙/(한국토지주택공사) 취업규칙.json",
-            "target_git_path": "(한국토지주택공사) 취업규칙/(한국토지주택공사) 취업규칙.json",
-            "target_git_file_path": "(한국토지주택공사) 취업규칙/별지/별지1_거래계약신고서(제9조제4항 관련).hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국토지주택공사) 취업규칙/(한국토지주택공사) 취업규칙.json"
           }
         ],
         "images": [],
@@ -310,7 +295,7 @@
         "article_title": "시차출퇴근제 등",
         "chapter": "제2절 근무시간 및 휴게시간",
         "chapter_path": "제2장 복무 > 제2절 근무시간 및 휴게시간",
-        "content": "제12조의2(시차출퇴근제 등) 삭제 <2017. 10. 23.>",
+        "content": "제12조의2(시차출퇴근제 등) <삭제 2017. 10. 23>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -342,22 +327,29 @@
             "source_provision_id": "SchlPubRul:(한국토지주택공사)취업규칙#JO0012_03",
             "reference_id": "SchlPubRul:(한국토지주택공사)취업규칙#JO0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국토지주택공사) 취업규칙/(한국토지주택공사) 취업규칙.json",
-            "target_git_path": "(한국토지주택공사) 취업규칙/(한국토지주택공사) 취업규칙.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국토지주택공사) 취업규칙/(한국토지주택공사) 취업규칙.json"
           }
         ],
         "images": [],
         "provision_id": "SchlPubRul:(한국토지주택공사)취업규칙#JO0012_03"
       },
       {
+        "article_no": "제12조의4",
+        "article_title": "육아기 근로시간 단축",
+        "chapter": "제2절 근무시간 및 휴게시간",
+        "chapter_path": "제2장 복무 > 제2절 근무시간 및 휴게시간",
+        "content": "제12조의4(육아기 근로시간 단축) ① 만 12세 이하 또는 초등학교 6학년 이하의 자녀를 양육하기 위하여 근로시간을 단축하여 근무할 수 있다.② 제1항에 따라 육아기 근로시간을 단축할 경우 근로시간은 주당 15시간 이상이어야 하고 35시간을 넘어서는 아니 된다.③ 육아기 근로시간 단축의 기간은 1년 이내로 한다. 단 육아휴직 기간 중 사용하지 아니한 기간이 있으면 그 기간의 두 배를 가산한 기간 이내로 한다.④ 직원은 육아기 근로시간 단축을 나누어 사용할 수 있다. 이 경우 나누어 사용하는 1회의 기간은 1개월 이상이 되어야 한다.[본조신설 2025. 02. 26.]",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "SchlPubRul:(한국토지주택공사)취업규칙#JO0012_04"
+      },
+      {
         "article_no": "제13조",
         "article_title": "육아시간",
         "chapter": "제2절 근무시간 및 휴게시간",
         "chapter_path": "제2장 복무 > 제2절 근무시간 및 휴게시간",
-        "content": "제13조(육아시간) ① 공사는 생후 96개월 이하의 자녀를 가진 직원의 청구가 있는 경우에는 24개월의 범위에서 1일에 2시간의 육아시간을 부여한다. <개정 2023. 10. 17.>② 임신 중인 여자직원은 1일에 2시간의 범위에서 휴식이나 병원 진료 등을 위한 모성보호시간을 받을 수 있다. <개정 2019. 4. 10.>③ 제1항의 세부 적용사항은 사장이 따로 정한다. <신설 2023. 10. 17.>",
+        "content": "제13조(육아시간) ① 공사는 생후 108개월 이하 또는 초등학교 2학년 이하의 자녀를 가진 직원의 청구가 있는 경우에는 36개월의 범위에서 1일에 2시간의 육아시간을 부여한다. <개정 2024. 09. 10.>② 임신 중인 여자직원은 1일에 2시간의 범위에서 휴식이나 병원 진료 등을 위한 모성보호시간을 받을 수 있다. <개정 2019. 4. 10.>③ 제1항과 제2항의 육아시간 및 모성보호시간을 사용하는 근무일은 4시간 이상의 근무시간이 확보되어야 하며, 세부 적용사항은 사장이 따로 정한다. <개정 2024. 09. 10.>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -409,10 +401,10 @@
       },
       {
         "article_no": "제18조",
-        "article_title": "시간외근무의 종류",
+        "article_title": "연장근로의 구분",
         "chapter": "제4절 연장 근로",
         "chapter_path": "제2장 복무 > 제4절 연장 근로",
-        "content": "제18조(시간외근무의 종류) 제12조의 근무시간을 초과하여 근무할 경우에는 공사와 직원의 합의에 따라 1주간에 12시간을 한도로 근로시간을 연장할 수 있으며, 이를 시간외근무, 야간근무 및 휴일근무로 구분한다. <개정 2019. 4. 10.>",
+        "content": "제18조(연장근로의 구분) ① 제12조의 근무시간을 초과하여 근무할 경우에는 공사와 직원의 합의에 따라 1주간에 12시간을 한도로 근로시간을 연장할 수 있으며, 이를 시간외근무, 야간근무 및 휴일근무로 구분한다. <개정 2024. 09. 10.>② 연장근로를 신청하는 경우 승인권자는 필요성 및 적정성을 검토하여 허가하여야 한다. <개정 2024. 09. 10.>",
         "enforcement_date": "",
         "relations": [
           {
@@ -420,7 +412,7 @@
             "delegation_type": null,
             "target_category": "학칙공단",
             "source_article_no": "제18조",
-            "source_clause": "제18조",
+            "source_clause": "제18조제1항",
             "link_text": "제12조",
             "line_text": "",
             "target_law_name": "(한국토지주택공사) 취업규칙",
@@ -433,11 +425,7 @@
             "source_provision_id": "SchlPubRul:(한국토지주택공사)취업규칙#JO0018",
             "reference_id": "SchlPubRul:(한국토지주택공사)취업규칙#JO0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국토지주택공사) 취업규칙/(한국토지주택공사) 취업규칙.json",
-            "target_git_path": "(한국토지주택공사) 취업규칙/(한국토지주택공사) 취업규칙.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국토지주택공사) 취업규칙/(한국토지주택공사) 취업규칙.json"
           }
         ],
         "images": [],
@@ -445,10 +433,10 @@
       },
       {
         "article_no": "제18조의2",
-        "article_title": "시간외근무의 종류",
+        "article_title": "탄력적 근로시간제",
         "chapter": "제4절 연장 근로",
         "chapter_path": "제2장 복무 > 제4절 연장 근로",
-        "content": "제18조의2(시간외근무의 종류) ① 공사는 2주간 이내의 일정한 단위기간을 평균하여 1주간의 근로시간이 40시간을 초과하지 아니하는 범위내에서 특정주에 40시간, 특정일에 8시간을 초과하여 근로하게 할 수 있다. 다만, 특정주의 근로시간은 48시간을 초과할 수 없다② 제1항의 세부 적용사항은 사장이 따로 정한다. <신설 2022. 12. 16.>",
+        "content": "제18조의2(탄력적 근로시간제) ① 공사는 2주간 이내의 일정한 단위기간을 평균하여 1주간의 근로시간이 40시간을 초과하지 아니하는 범위내에서 특정주에 40시간, 특정일에 8시간을 초과하여 근로하게 할 수 있다. 다만, 특정주의 근로시간은 48시간을 초과할 수 없다. <개정 2024. 09. 10.>② 제1항의 세부 적용사항은 사장이 따로 정한다. <신설 2022. 12. 16.>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -459,7 +447,7 @@
         "article_title": "시간외근무",
         "chapter": "제4절 연장 근로",
         "chapter_path": "제2장 복무 > 제4절 연장 근로",
-        "content": "제19조(시간외근무) ① 시간외근무는 1주에 12시간까지 초과 근무시킬 수 있다.  다만, 산후 1년이 지나지 아니한 여자직원에 대해서는 1일에 2시간, 1주에 6시간, 1년에 150시간을 초과하는 시간외근무를 시키지 못한다. <개정 2019. 4. 10.>② 임신 중인 여직원에 대해서는 시간외근무를 명할 수 없으며, 해당 직원의 요구가 있는 때에는 쉬운 종류의 근무로 전환하게 하여야 한다.",
+        "content": "제19조(시간외근무) ① 시간외근무는 1주에 12시간까지 초과 근무시킬 수 있다.  다만, 산후 1년이 지나지 아니한 여자직원에 대해서는 1일에 2시간, 1주에 6시간, 1년에 150시간을 초과하는 시간외근무를 시키지 못한다.  <개정 2019. 4. 10.>② 임신 중인 여직원에 대해서는 시간외근무를 명할 수 없으며, 해당 직원의 요구가 있는 때에는 쉬운 종류의 근무로 전환하게 하여야 한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -470,7 +458,7 @@
         "article_title": "야간근무",
         "chapter": "제4절 연장 근로",
         "chapter_path": "제2장 복무 > 제4절 연장 근로",
-        "content": "제20조(야간근무) ① 야간근무는 오후 10시부터 다음 날 오전 6시까지 근무하는 것으로 남자직원에 한정하여 근무시킬 수 있다. 다만, 18세 이상 여자직원의 경우는 본인의 동의를 받아야 한다. <개정 2023. 3. 3>② 제1항에도 불구하고 임신 중인 여자직원과 18세 미만 직원의 경우는 오후 10시부터 다음 날 오전 6시까지 근무를 시키지 못한다. <개정 2023. 3. 3.>",
+        "content": "제20조(야간근무) ① 야간근무는 오후 10시부터 다음 날 오전 6시까지 근무하는 것으로 남자직원에 한정하여 근무시킬 수 있다. 다만, 18세 이상 여자직원의 경우는 본인의 동의를 받아야 한다. <개정 2023. 3. 3.>② 제1항에도 불구하고 임신 중인 여자직원과 18세 미만 직원의 경우는 오후 10시부터 다음 날 오전 6시까지 근무를 시키지 못한다. <개정 2023. 3. 3.>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -492,7 +480,7 @@
         "article_title": "근무수당",
         "chapter": "제4절 연장 근로",
         "chapter_path": "제2장 복무 > 제4절 연장 근로",
-        "content": "제22조(근무수당) 시간외근무, 야간근무, 휴일근무에 대해서는 「직원보수규정」 에 따라 수당을 지급한다.",
+        "content": "제22조(근무수당) 시간외근무, 야간근무, 휴일근무에 대해서는 「직원보수규정」에 따라 수당을 지급하거나, 지급되는 임금에 갈음하여 휴가를 부여할 수 있다. <개정 2024. 09. 10.>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -503,7 +491,7 @@
         "article_title": "휴일",
         "chapter": "제5절 휴일 및 휴가",
         "chapter_path": "제2장 복무 > 제5절 휴일 및 휴가",
-        "content": "제23조(휴일) 공사의 유급휴일은 다음과 같다.1. 「관공서의 공휴일에 관한 규정」 에서 정한 공휴일2. 공사창립기념일(10월 1일)이 속하는 주의 금요일. 단, 공휴일과 겹치는 경우 비공휴일인 전일 <개정 2020. 4. 24.>3. 근로자의 날(5월 1일)4. 그 밖에 공사에서 정하는 날",
+        "content": "제23조(휴일) 공사의 유급휴일은 다음과 같다.1. 「관공서의 공휴일에 관한 규정」에서 정한 공휴일2. <삭제 2024. 04. 08.>3. 근로자의 날(5월 1일)4. 그 밖에 공사에서 정하는 날",
         "enforcement_date": "",
         "relations": [
           {
@@ -524,9 +512,7 @@
             "source_provision_id": "SchlPubRul:(한국토지주택공사)취업규칙#JO0023",
             "reference_id": "law:관공서의공휴일에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "관공서의 공휴일에 관한 규정/법률/관공서의 공휴일에 관한 규정.json",
-            "target_git_path": "관공서의 공휴일에 관한 규정/법률/관공서의 공휴일에 관한 규정.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "관공서의 공휴일에 관한 규정/법률/관공서의 공휴일에 관한 규정.json"
           }
         ],
         "images": [],
@@ -537,7 +523,7 @@
         "article_title": "대휴",
         "chapter": "제5절 휴일 및 휴가",
         "chapter_path": "제2장 복무 > 제5절 휴일 및 휴가",
-        "content": "제24조(대휴) 공사는 당직근무, 방재근무에 대하여 대휴를 부여할 수 있다. <개정 2019. 4. 10.>",
+        "content": "제24조(대휴) 공사는 당직근무, 방재근무 그 밖에 노사합의로 정하는 경우에 대하여 대휴를 부여할 수 있다. <개정 2024. 09. 10.>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -559,7 +545,7 @@
         "article_title": "연차 유급휴가",
         "chapter": "제5절 휴일 및 휴가",
         "chapter_path": "제2장 복무 > 제5절 휴일 및 휴가",
-        "content": "제26조(연차 유급휴가) ① 직원은 「근로기준법」 에 따라 다음 기간의 연차 유급휴가를 받을 수 있다. <개정 2023. 3. 3.>1. 1년간 80퍼센트 이상 출근한 경우에는 15일2. 1년 미만 근무 또는 1년간 80퍼센트 미만 출근한 경우 1월 개근 시 1일3. 삭제 <2019. 4. 10.>4. 3년 이상 계속 근무한 경우에는 최초 1년을 초과하는 계속 근무연수 2년마다 1일씩을 제1호의 휴가일수에 가산한다. 이 경우 가산휴가를 포함한 총 휴가일수는 25일을 한도로 한다.② 제1항의 휴가일수는 직원의 자유의사에 따라 1년간에 한정하여 적치 또는 분할하여 사용할 수 있다.③ 제1항의 연차유급휴가는 1시간 단위로 분할하여 사용(이하 \"시간제 휴가\"라 한다)할 수 있으며, 시간제 휴가를 8시간 사용한 경우에는 연차 유급휴가 1일을 사용한 것으로 본다. <개정 2015. 10. 7.>④ 직원은 다음 연도에 발생할 연차휴가를 5일의 범위 내에서 미리 사용할 수 있다. <신설 2017. 10. 23.>⑤ 직원은 제1항의 연차 유급휴가를 저축하여 사용할 수 있으며, 세부사항은 사장이 따로 정한다. <신설 2019. 4. 10.>⑥ 직원은 제3항의 시간제 휴가를 분할하여 사용할 수 있으며, 세부사항은 사장이 따로 정한다. <신설 2022. 12. 16.>",
+        "content": "제26조(연차 유급휴가) ① 직원은 「근로기준법」에 따라 다음 기간의 연차 유급휴가를 받을 수 있다. <개정 2023. 3. 3.>1. 1년간 80퍼센트 이상 출근한 경우에는 15일2. 1년 미만 근무 또는 1년간 80퍼센트 미만 출근한 경우 1월 개근 시 1일3. <삭제 2019. 4. 10>4. 3년 이상 계속 근무한 경우에는 최초 1년을 초과하는 계속 근무연수 2년마다 1일씩을 제1호의 휴가일수에 가산한다. 이 경우 가산휴가를 포함한 총 휴가일수는 25일을 한도로 한다.② 제1항의 휴가일수는 직원의 자유의사에 따라 1년간에 한정하여 적치 또는 분할하여 사용할 수 있다.③ 제1항의 연차유급휴가는 30분 단위로 분할하여 사용(이하 \"시간제 휴가\"라 한다)할 수 있으며, 시간제 휴가를 8시간 사용한 경우에는 연차 유급휴가 1일을 사용한 것으로 본다. <개정 2024. 09. 10.>④ 직원은 다음 연도에 발생할 연차휴가를 재직기간 별로 각 호의 범위 내에서 미리 사용할 수 있다. <개정 2024. 01. 25.>1. 1년 미만: 5일2. 1년 이상 2년 미만: 6일3. 2년 이상 3년 미만: 7일4. 3년 이상 4년 미만: 8일5. 4년 이상: 10일⑤ 직원은 제1항의 연차 유급휴가를 저축하여 사용할 수 있으며, 세부사항은 사장이 따로 정한다. <신설 2019. 4. 10.>⑥ 직원은 제3항의 시간제 휴가를 분할하여 사용할 수 있으며, 세부사항은 사장이 따로 정한다. <신설 2022. 12. 16.>",
         "enforcement_date": "",
         "relations": [
           {
@@ -580,9 +566,7 @@
             "source_provision_id": "SchlPubRul:(한국토지주택공사)취업규칙#JO0026",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
-            "target_git_path": "근로기준법/법률/근로기준법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
           }
         ],
         "images": [],
@@ -593,7 +577,7 @@
         "article_title": "연차 유급휴가의 사용촉진",
         "chapter": "제5절 휴일 및 휴가",
         "chapter_path": "제2장 복무 > 제5절 휴일 및 휴가",
-        "content": "제27조(연차 유급휴가의 사용촉진) ① 연차 유급휴가를 사용하지 아니한 직원에 대하여는 「직원보수규정」 에 따라 이를 보상한다.② 연차 유급휴가의 사용촉진을 위하여 「근로기준법」 제61조에 따른 조치를 하였음에도 휴가를 사용하지 아니하여 제26조제2항에 따라 소멸된 때에는 그 사용하지 않은 휴가에 대하여는 제1항에 따른 보상을 하지 아니한다.",
+        "content": "제27조(연차 유급휴가의 사용촉진) ① 연차 유급휴가를 사용하지 아니한 직원에 대하여는 「직원보수규정」에 따라 이를 보상한다.② 연차 유급휴가의 사용촉진을 위하여 「근로기준법」 제61조에 따른 조치를 하였음에도 휴가를 사용하지 아니하여 제26조제2항에 따라 소멸된 때에는 그 사용하지 않은 휴가에 대하여는 제1항에 따른 보상을 하지 아니한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -614,9 +598,7 @@
             "source_provision_id": "SchlPubRul:(한국토지주택공사)취업규칙#JO0027",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
-            "target_git_path": "근로기준법/법률/근로기준법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
           },
           {
             "relation_type": "citation",
@@ -636,9 +618,7 @@
             "source_provision_id": "SchlPubRul:(한국토지주택공사)취업규칙#JO0027",
             "reference_id": "law:근로기준법#JO0061",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
-            "target_git_path": "근로기준법/법률/근로기준법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -658,11 +638,7 @@
             "source_provision_id": "SchlPubRul:(한국토지주택공사)취업규칙#JO0027",
             "reference_id": "SchlPubRul:(한국토지주택공사)취업규칙#JO0026",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국토지주택공사) 취업규칙/(한국토지주택공사) 취업규칙.json",
-            "target_git_path": "(한국토지주택공사) 취업규칙/(한국토지주택공사) 취업규칙.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국토지주택공사) 취업규칙/(한국토지주택공사) 취업규칙.json"
           }
         ],
         "images": [],
@@ -673,7 +649,7 @@
         "article_title": "경조사휴가",
         "chapter": "제5절 휴일 및 휴가",
         "chapter_path": "제2장 복무 > 제5절 휴일 및 휴가",
-        "content": "제28조(경조사휴가) ① 직원이 경조사휴가를 받을 수 있는 범위는 별표 1과 같으며 사전에 허가를 받아야 한다. 다만, 휴가지역이 원격지일 경우에는 2일의 범위 내에서 왕복소요일수를 추가할 수 있다.(단, 입양 제외) <개정 2023. 10. 17.>② 제1항의 경우 사용한 휴가기간은 유급으로 한다. <개정 2020. 01. 16.>",
+        "content": "제28조(경조사휴가) ① 직원이 경조사휴가를 받을 수 있는 범위는 별표 1과 같으며 사전에 허가를 받아야 한다. <개정 2024. 09. 10.>② 제1항의 경우 사용한 휴가기간은 유급으로 한다. <개정 2020. 01. 16.>",
         "enforcement_date": "",
         "relations": [
           {
@@ -693,18 +669,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2129957",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000123127&bylNo=0001&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000159345&bylNo=0001&bylBrNo=00",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국토지주택공사)취업규칙#JO0028",
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(한국토지주택공사)취업규칙#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국토지주택공사) 취업규칙/(한국토지주택공사) 취업규칙.json",
-            "target_git_path": "(한국토지주택공사) 취업규칙/(한국토지주택공사) 취업규칙.json",
-            "target_git_file_path": "(한국토지주택공사) 취업규칙/별표/별표1_경조사휴가(제28조 관련).hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국토지주택공사) 취업규칙/(한국토지주택공사) 취업규칙.json"
           }
         ],
         "images": [],
@@ -715,7 +686,7 @@
         "article_title": "공가",
         "chapter": "제5절 휴일 및 휴가",
         "chapter_path": "제2장 복무 > 제5절 휴일 및 휴가",
-        "content": "제29조(공가) 공사는 다음 각 호의 어느 하나에 해당하는 경우 공가를 부여한다. 이 경우 사용한 휴가기간은 유급으로 한다. <개정 2020. 01. 16.>1. 「병역법」 , 그 밖에 다른 법령에 따른 징병검사ㆍ소집ㆍ검열점호 등에 응하거나 동원 또는 훈련에 참가할 때2. 공무상 국회, 법원, 검찰, 그 밖의 국가기관에 소환될 때3. 법률에 따른 투표에 참가할 때4. 천재, 지변, 교통차단 그 밖의 사유로 출근이 불가능할 때5. 「복지후생규정」 제4조에 따른 건강진단을 받을 때6. 승진시험 등 공사에서 시행하는 시험에 응시할 때 <신설 2022. 12. 16.>7. 헌혈에 참가할 때 <신설 2022. 12. 16.>",
+        "content": "제29조(공가) 공사는 다음 각 호의 어느 하나에 해당하는 경우 공가를 부여한다. 이 경우 사용한 휴가기간은 유급으로 한다. <개정 2020. 01. 16.>1. 「병역법」, 그 밖에 다른 법령에 따른 징병검사ㆍ소집ㆍ검열점호 등에 응하거나 동원 또는 훈련에 참가할 때2. 공무상 국회, 법원, 검찰, 그 밖의 국가기관에 소환될 때3. 법률에 따른 투표에 참가할 때4. 천재, 지변, 교통차단 그 밖의 사유로 출근이 불가능할 때5. 「복지후생규정」 제4조에 따른 건강진단을 받을 때6. 승진시험 등 공사에서 시행하는 시험에 응시할 때 <신설 2022. 12. 16.>7. 헌혈에 참가할 때 <신설 2022. 12. 16.>8. 「국민의 형사재판 참여에 관한 법률」에 의해 배심원 또는 배심원후보자로 출석할 때  <신설 2024. 04. 08.>9. 직원이 「공직선거법」 제147조부터 제148조, 제174조의 선거 및 투표 관련 사무원으로 선거 관련 사무를 수행할 때 선거일 이후 첫 정상근무일  <신설 2024. 09. 10.>",
         "enforcement_date": "",
         "relations": [
           {
@@ -736,9 +707,107 @@
             "source_provision_id": "SchlPubRul:(한국토지주택공사)취업규칙#JO0029",
             "reference_id": "law:병역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "병역법/법률/병역법.json",
-            "target_git_path": "병역법/법률/병역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "병역법/법률/병역법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제29조",
+            "source_clause": "제29조",
+            "link_text": "「국민의 형사재판 참여에 관한 법률」",
+            "line_text": "",
+            "target_law_name": "국민의 형사재판 참여에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2129957",
+            "target_url": "https://www.law.go.kr/법령/국민의 형사재판 참여에 관한 법률",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(한국토지주택공사)취업규칙#JO0029",
+            "reference_id": "law:국민의형사재판참여에관한법률#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "국민의 형사재판 참여에 관한 법률/법률/국민의 형사재판 참여에 관한 법률.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제29조",
+            "source_clause": "제29조",
+            "link_text": "「공직선거법」",
+            "line_text": "",
+            "target_law_name": "공직선거법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2129957",
+            "target_url": "https://www.law.go.kr/법령/공직선거법",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(한국토지주택공사)취업규칙#JO0029",
+            "reference_id": "law:공직선거법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "공직선거법/법률/공직선거법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제29조",
+            "source_clause": "제29조",
+            "link_text": "제147조부터 제148조",
+            "line_text": "",
+            "target_law_name": "공직선거법",
+            "target_article_no": "제147조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2129957",
+            "target_url": "https://www.law.go.kr/법령/공직선거법/제147조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(한국토지주택공사)취업규칙#JO0029",
+            "reference_id": "law:공직선거법#JO0147",
+            "target_repo": "LAW",
+            "target_git_path_guess": "공직선거법/법률/공직선거법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제29조",
+            "source_clause": "제29조",
+            "link_text": "제147조부터 제148조",
+            "line_text": "",
+            "target_law_name": "공직선거법",
+            "target_article_no": "제148조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2129957",
+            "target_url": "https://www.law.go.kr/법령/공직선거법/제148조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(한국토지주택공사)취업규칙#JO0029",
+            "reference_id": "law:공직선거법#JO0148",
+            "target_repo": "LAW",
+            "target_git_path_guess": "공직선거법/법률/공직선거법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제29조",
+            "source_clause": "제29조",
+            "link_text": "제174조",
+            "line_text": "",
+            "target_law_name": "공직선거법",
+            "target_article_no": "제174조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2129957",
+            "target_url": "https://www.law.go.kr/법령/공직선거법/제174조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(한국토지주택공사)취업규칙#JO0029",
+            "reference_id": "law:공직선거법#JO0174",
+            "target_repo": "LAW",
+            "target_git_path_guess": "공직선거법/법률/공직선거법.json"
           }
         ],
         "images": [],
@@ -749,7 +818,7 @@
         "article_title": "특별휴가",
         "chapter": "제5절 휴일 및 휴가",
         "chapter_path": "제2장 복무 > 제5절 휴일 및 휴가",
-        "content": "제30조(특별휴가) 직원이 다음 각 호의 어느 하나에 해당하는 때에는 별표 2의 기준에 따라 특별휴가를 받을 수 있다. 다만, 사전에 본인이 신청하여야 한다. <개정 2017. 10. 23.>1. 삭제 <2014. 9. 30.>2. 임신, 출산, 생리 등을 하는 경우. 임신직원이 장애인, 만 35세 이상, 다태아 임신, 고위험 임신(단, 진단서 필요)인 경우 별표 2의 태아검진 휴가한도를 초과하여 특별휴가를 받을 수 있다. 단, 특별휴가 실시 후 1주일 이내에 검진기록을 소속 부서에 제출하여야 한다. <신설 2022. 12. 16.>3. 삭제 <2014. 6. 30.>4.「영유아보육법」 에 따른 어린이집, 「유아교육법」 에 따른 유치원 및 「초ㆍ중등교육법」 에 따른 학교에서 공식적으로 주최하는 행사 또는 교사와의 상담에 참여할 경우, 자녀의 병원 진료( 「국민건강보험법」 에 따른 건강검진 또는 「감염병의 예방 및 관리에 관한 법률」 에 따른 예방접종을 포함한다)에 동행하는 경우 <개정 2019. 4. 10.>5. 생후 72개월 미만의 자녀를 가진 경우 <개정 2019. 4. 10.>6. 가족(조부모, 부모, 배우자, 배우자의 부모, 자녀 또는 손자녀)의 질병, 사고, 노령 또는 자녀의 양육으로 인하여 긴급하게 가족을 돌보는 경우(다만, 본인 외에도 조부모의 직계비속 또는 손자녀의 직계존속이 있는 경우는 제외한다) <신설 2020. 01. 16.>7. 「직장 내 괴롭힘 예방 및 고충처리 지침」 및 「성희롱ㆍ성폭력 예방 및 고충처리 지침」 에 따라 직장 내 괴롭힘ㆍ성희롱으로 인정된 사건의 피해자 등이 고충신고 및 처리, 고충심의 이후 심신 안정을 위해 필요한 경우 <신설 2021. 2. 9.>8. 남성직원의 배우자의 유산ㆍ사산의 경우 3일 이내 <신설 2022. 12. 16.>9. 남성직원 난임치료 시술에 따른 정자 채취일에 1일 <신설 2022. 12. 16.>10. 업무를 성공적으로 수행하여 탁월한 성과와 공로가 인정되는 경우 10일 이내(인사위원회 심의ㆍ의결 필요) <신설 2022. 12. 16.>",
+        "content": "제30조(특별휴가) 직원이 다음 각 호의 어느 하나에 해당하는 때에는 별표 2의 기준에 따라 사전에 본인이 신청하여 특별휴가를 받을 수 있다. <개정 2024. 09. 10.>1. <삭제 2014. 9. 30.>2. 임신, 출산, 생리 등을 하는 경우. 임신직원이 장애인, 만 35세 이상, 다태아 임신, 고위험 임신(단, 진단서 필요)인 경우 별표2의 태아검진 휴가한도를 초과하여 특별휴가를 받을 수 있다. 단, 특별휴가 실시 후 1주일 이내에 검진기록을 소속 부서에 제출하여야 한다. <신설 2022. 12. 16.>3. <삭제 2014. 6. 30.>4. 「영유아보육법」에 따른 어린이집, 「유아교육법」에 따른 유치원 및 「초ㆍ중등교육법」에 따른 학교에서 공식적으로 주최하는 행사 또는 교사와의 상담에 참여할 경우, 자녀의 병원 진료(「국민건강보험법」에 따른 건강검진 또는 「감염병의 예방 및 관리에 관한 법률」에 따른 예방접종을 포함한다)에 동행하는 경우 <개정 2019. 4. 10>5. 생후 108개월 이하 또는 초등학교 2학년 이하의 자녀를 가진 경우6. 가족(조부모, 부모, 배우자, 배우자의 부모, 자녀 또는 손자녀)의 질병, 사고, 노령 또는 자녀의 양육으로 인하여 긴급하게 가족을 돌보는 경우(다만, 본인 외에도 조부모의 직계비속 또는 손자녀의 직계존속이 있는 경우는 제외한다) <신설 2020. 01. 16.>7. 「직장 내 괴롭힘 예방 및 고충처리 지침」 및 「성희롱ㆍ성폭력 예방 및 고충처리 지침」에 따라 직장 내 괴롭힘ㆍ성희롱으로 인정된 사건의 피해자 등이 고충신고 및 처리, 고충심의 이후 심신 안정을 위해 필요한 경우 <신설 2021. 2. 9.>8. 남성직원의 배우자의 유산ㆍ사산의 경우 3일 이내 <신설 2022. 12. 16.>9. 난임치료 시술 시 연간 6일 이내 <개정 2024. 09. 10., 2025. 02. 26., 2026. 04. 15.>10. 업무를 성공적으로 수행하여 탁월한 성과와 공로가 인정되는 경우 10일 이내(인사위원회 심의ㆍ의결 필요) <신설 2022. 12. 16.>11. 재직기간이 1년 이상 5년 미만인 직원(직급 4급 이하에 한함)은 해당 기간동안 1회에 한하여 3일의 특별휴가를 받을 수 있으며, 이 휴가 운영에 필요한 사항은 사장이 따로 정한다. <신설 2025. 09. 15.>12. 재직기간이 10년 이상 20년 미만인 직원은 5일, 20년 이상인 직원은 7일의 장기재직휴가를 해당 기간동안 1회에 한하여 받을 수 있으며, 이 휴가 운영에 필요한 사항은 사장이 따로 정한다. <신설 2025. 12. 30.>13. 「재난 및 안전관리 기본법」 제3조제1호에 따른 재난으로 피해(배우자, 부모, 배우자의 부모, 자녀가 입은 피해 포함)를 입은 직원은 5일(같은 법 제14조제1항에 따른 대규모 재난으로 피해를 입은 경우에는 10일) 이내의 재해구호휴가를 받을 수 있다. <신설 2026. 4. 15.>14. 배우자의 임신기간 중 검진에 동행하는 경우 10일 이내 <신설 2026. 4. 15.>",
         "enforcement_date": "",
         "relations": [
           {
@@ -769,18 +838,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2129957",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000123127&bylNo=0002&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000159345&bylNo=0002&bylBrNo=00",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국토지주택공사)취업규칙#JO0030",
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:(한국토지주택공사)취업규칙#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국토지주택공사) 취업규칙/(한국토지주택공사) 취업규칙.json",
-            "target_git_path": "(한국토지주택공사) 취업규칙/(한국토지주택공사) 취업규칙.json",
-            "target_git_file_path": "(한국토지주택공사) 취업규칙/별표/별표2_특별휴가(제30조 관련).hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국토지주택공사) 취업규칙/(한국토지주택공사) 취업규칙.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -788,7 +852,7 @@
             "target_category": "학칙공단",
             "source_article_no": "제30조",
             "source_clause": "제30조",
-            "link_text": "별표 2",
+            "link_text": "별표2",
             "line_text": "",
             "target_law_name": "(한국토지주택공사) 취업규칙",
             "target_article_no": "별표2",
@@ -799,18 +863,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2129957",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000123127&bylNo=0002&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000159345&bylNo=0002&bylBrNo=00",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국토지주택공사)취업규칙#JO0030",
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:(한국토지주택공사)취업규칙#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국토지주택공사) 취업규칙/(한국토지주택공사) 취업규칙.json",
-            "target_git_path": "(한국토지주택공사) 취업규칙/(한국토지주택공사) 취업규칙.json",
-            "target_git_file_path": "(한국토지주택공사) 취업규칙/별표/별표2_특별휴가(제30조 관련).hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국토지주택공사) 취업규칙/(한국토지주택공사) 취업규칙.json"
           },
           {
             "relation_type": "citation",
@@ -830,9 +889,7 @@
             "source_provision_id": "SchlPubRul:(한국토지주택공사)취업규칙#JO0030",
             "reference_id": "law:영유아보육법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "영유아보육법/법률/영유아보육법.json",
-            "target_git_path": "영유아보육법/법률/영유아보육법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "영유아보육법/법률/영유아보육법.json"
           },
           {
             "relation_type": "citation",
@@ -852,9 +909,7 @@
             "source_provision_id": "SchlPubRul:(한국토지주택공사)취업규칙#JO0030",
             "reference_id": "law:유아교육법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "유아교육법/법률/유아교육법.json",
-            "target_git_path": "유아교육법/법률/유아교육법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "유아교육법/법률/유아교육법.json"
           },
           {
             "relation_type": "citation",
@@ -874,9 +929,7 @@
             "source_provision_id": "SchlPubRul:(한국토지주택공사)취업규칙#JO0030",
             "reference_id": "law:초중등교육법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "초ㆍ중등교육법/법률/초ㆍ중등교육법.json",
-            "target_git_path": "초ㆍ중등교육법/법률/초ㆍ중등교육법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "초ㆍ중등교육법/법률/초ㆍ중등교육법.json"
           },
           {
             "relation_type": "citation",
@@ -896,9 +949,7 @@
             "source_provision_id": "SchlPubRul:(한국토지주택공사)취업규칙#JO0030",
             "reference_id": "law:국민건강보험법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json",
-            "target_git_path": "국민건강보험법/법률/국민건강보험법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json"
           },
           {
             "relation_type": "citation",
@@ -918,9 +969,87 @@
             "source_provision_id": "SchlPubRul:(한국토지주택공사)취업규칙#JO0030",
             "reference_id": "law:감염병의예방및관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json",
-            "target_git_path": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제30조",
+            "source_clause": "제30조",
+            "link_text": "「재난 및 안전관리 기본법」",
+            "line_text": "",
+            "target_law_name": "재난 및 안전관리 기본법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2129957",
+            "target_url": "https://www.law.go.kr/법령/재난 및 안전관리 기본법",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(한국토지주택공사)취업규칙#JO0030",
+            "reference_id": "law:재난및안전관리기본법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제30조",
+            "source_clause": "제30조",
+            "link_text": "제3조제1호",
+            "line_text": "",
+            "target_law_name": "재난 및 안전관리 기본법",
+            "target_article_no": "제3조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2129957",
+            "target_url": "https://www.law.go.kr/법령/재난 및 안전관리 기본법/제3조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(한국토지주택공사)취업규칙#JO0030",
+            "reference_id": "law:재난및안전관리기본법#JO0003",
+            "target_repo": "LAW",
+            "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제30조",
+            "source_clause": "제30조",
+            "link_text": "같은 법",
+            "line_text": "",
+            "target_law_name": "재난 및 안전관리 기본법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2129957",
+            "target_url": "https://www.law.go.kr/법령/재난 및 안전관리 기본법",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(한국토지주택공사)취업규칙#JO0030",
+            "reference_id": "law:재난및안전관리기본법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제30조",
+            "source_clause": "제30조",
+            "link_text": "제14조제1항",
+            "line_text": "",
+            "target_law_name": "재난 및 안전관리 기본법",
+            "target_article_no": "제14조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2129957",
+            "target_url": "https://www.law.go.kr/법령/재난 및 안전관리 기본법/제14조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(한국토지주택공사)취업규칙#JO0030",
+            "reference_id": "law:재난및안전관리기본법#JO0014",
+            "target_repo": "LAW",
+            "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json"
           }
         ],
         "images": [],
@@ -931,7 +1060,7 @@
         "article_title": "병가",
         "chapter": "제5절 휴일 및 휴가",
         "chapter_path": "제2장 복무 > 제5절 휴일 및 휴가",
-        "content": "제31조(병가) ① 직원이 업무상 부상 또는 질병으로 인하여 출근이 불가능한 경우에는 연 누계 6개월 범위 안에서 병가를 받을 수 있다.② 제1항의 업무상 부상 또는 질병의 범위는 「재해보상 및 배상 규정」 에 따른다.③ 제2항 이외의 부상ㆍ 질병 또는 임신4월 미만의 기간중에 유산ㆍ조산ㆍ사산으로 인하여 계속 출근이 불가능할 경우와 전염병으로 인하여 그 직원의 출근이 다른 직원의 건강에 영향을 미칠 우려가 있을 때에는 연 누계 2개월 범위 안에서 병가를 받을 수 있다.④ 병가 기간이 7일 이상일 경우에는 진단서를 첨부하여야 한다.",
+        "content": "제31조(병가) ① 직원이 업무상 부상 또는 질병으로 인하여 출근이 불가능한 경우에는 연 누계 6개월 범위 안에서 병가를 받을 수 있다.② 제1항의 업무상 부상 또는 질병의 범위는 「재해보상 및 배상 규정」에 따른다.③ 제2항 이외의 부상ㆍ 질병 또는 임신4월 미만의 기간중에 유산ㆍ조산ㆍ사산으로 인하여 계속 출근이 불가능할 경우와 전염병으로 인하여 그 직원의 출근이 다른 직원의 건강에 영향을 미칠 우려가 있을 때에는 연 누계 2개월 범위 안에서 병가를 받을 수 있다.④ 병가 기간이 7일 이상일 경우에는 진단서를 첨부하여야 한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -963,11 +1092,7 @@
             "source_provision_id": "SchlPubRul:(한국토지주택공사)취업규칙#JO0032",
             "reference_id": "SchlPubRul:(한국토지주택공사)취업규칙#JO0019",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국토지주택공사) 취업규칙/(한국토지주택공사) 취업규칙.json",
-            "target_git_path": "(한국토지주택공사) 취업규칙/(한국토지주택공사) 취업규칙.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국토지주택공사) 취업규칙/(한국토지주택공사) 취업규칙.json"
           },
           {
             "relation_type": "internal_ref",
@@ -987,11 +1112,7 @@
             "source_provision_id": "SchlPubRul:(한국토지주택공사)취업규칙#JO0032",
             "reference_id": "SchlPubRul:(한국토지주택공사)취업규칙#JO0020",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국토지주택공사) 취업규칙/(한국토지주택공사) 취업규칙.json",
-            "target_git_path": "(한국토지주택공사) 취업규칙/(한국토지주택공사) 취업규칙.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국토지주택공사) 취업규칙/(한국토지주택공사) 취업규칙.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1011,22 +1132,110 @@
             "source_provision_id": "SchlPubRul:(한국토지주택공사)취업규칙#JO0032",
             "reference_id": "SchlPubRul:(한국토지주택공사)취업규칙#JO0021",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국토지주택공사) 취업규칙/(한국토지주택공사) 취업규칙.json",
-            "target_git_path": "(한국토지주택공사) 취업규칙/(한국토지주택공사) 취업규칙.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국토지주택공사) 취업규칙/(한국토지주택공사) 취업규칙.json"
           }
         ],
         "images": [],
         "provision_id": "SchlPubRul:(한국토지주택공사)취업규칙#JO0032"
       },
       {
+        "article_no": "제32조의1",
+        "article_title": "보상휴가의 나눔",
+        "chapter": "제5절 휴일 및 휴가",
+        "chapter_path": "제2장 복무 > 제5절 휴일 및 휴가",
+        "content": "제32조의1(보상휴가의 나눔) ① 직원은 제32조의 보상휴가 한도 내에서 자유의사에 따라 보상휴가를 다른 직원에게 나줘줄 수 있다.② 제1항에 따른 수혜대상 직원은 다음 각호의 요건을 모두 충족하여야 한다.1. 부상 또는 질병으로 인해 정상근무가 곤란하여 추가적인 치료가 필요하다고 의사의 진단을 받을 것2. 해당 연도에 제26조, 제31조, 제32조의 휴가를 모두 사용할 것③ 수혜 가능 일수는 재직기간 동안 365일을 초과할 수 없다.④ 휴가나눔에 필요한 절차, 방법 등 세부 적용 사항은 사장이 따로 정한다.[본조신설 2025. 09. 15.]",
+        "enforcement_date": "",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제32조의1",
+            "source_clause": "제32조의1제1항",
+            "link_text": "제32조",
+            "line_text": "",
+            "target_law_name": "(한국토지주택공사) 취업규칙",
+            "target_article_no": "제32조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2129957",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국토지주택공사) 취업규칙/제32조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(한국토지주택공사)취업규칙#JO0032_01",
+            "reference_id": "SchlPubRul:(한국토지주택공사)취업규칙#JO0032",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(한국토지주택공사) 취업규칙/(한국토지주택공사) 취업규칙.json"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제32조의1",
+            "source_clause": "제32조의1제2항",
+            "link_text": "제26조",
+            "line_text": "",
+            "target_law_name": "(한국토지주택공사) 취업규칙",
+            "target_article_no": "제26조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2129957",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국토지주택공사) 취업규칙/제26조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(한국토지주택공사)취업규칙#JO0032_01",
+            "reference_id": "SchlPubRul:(한국토지주택공사)취업규칙#JO0026",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(한국토지주택공사) 취업규칙/(한국토지주택공사) 취업규칙.json"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제32조의1",
+            "source_clause": "제32조의1제2항",
+            "link_text": "제31조",
+            "line_text": "",
+            "target_law_name": "(한국토지주택공사) 취업규칙",
+            "target_article_no": "제31조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2129957",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국토지주택공사) 취업규칙/제31조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(한국토지주택공사)취업규칙#JO0032_01",
+            "reference_id": "SchlPubRul:(한국토지주택공사)취업규칙#JO0031",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(한국토지주택공사) 취업규칙/(한국토지주택공사) 취업규칙.json"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제32조의1",
+            "source_clause": "제32조의1제2항",
+            "link_text": "제32조",
+            "line_text": "",
+            "target_law_name": "(한국토지주택공사) 취업규칙",
+            "target_article_no": "제32조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2129957",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국토지주택공사) 취업규칙/제32조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(한국토지주택공사)취업규칙#JO0032_01",
+            "reference_id": "SchlPubRul:(한국토지주택공사)취업규칙#JO0032",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(한국토지주택공사) 취업규칙/(한국토지주택공사) 취업규칙.json"
+          }
+        ],
+        "images": [],
+        "provision_id": "SchlPubRul:(한국토지주택공사)취업규칙#JO0032_01"
+      },
+      {
         "article_no": "제33조",
         "article_title": "연차 유급휴가와의 관계",
         "chapter": "제5절 휴일 및 휴가",
         "chapter_path": "제2장 복무 > 제5절 휴일 및 휴가",
-        "content": "제33조(연차 유급휴가와의 관계) 경조사휴가, 공가, 특별휴가, 병가 및 보상휴가 기간은 연차 유급휴가 일수에 영향을 미치지 아니한다.",
+        "content": "제33조(연차 유급휴가와의 관계) ① 경조사휴가, 공가, 특별휴가, 병가 및 보상휴가 기간은 연차 유급휴가 일수에 영향을 미치지 아니한다.② 연차 유급휴가는 보상휴가 우선 사용, 저축휴가 차순위 사용 후 사용하여야 한다. <개정 2024. 09. 10.>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -1048,7 +1257,7 @@
         "article_title": "휴가 기간 중의 공휴일",
         "chapter": "제5절 휴일 및 휴가",
         "chapter_path": "제2장 복무 > 제5절 휴일 및 휴가",
-        "content": "제35조(휴가 기간 중의 공휴일) 제23조의 휴일 및 토요일은 휴가일수에 산입하지 아니한다. 다만, 휴가일수가 1개월 이상 계속되는 경우에는 그러하지 아니한다.",
+        "content": "제35조(휴가 기간 중의 공휴일) 제23조의 휴일 및 토요일은 휴가일수에 산입하지 아니한다. 다만, 연차유급휴가를 제외한 휴가일수가 30일 이상 계속되는 경우에는 그러하지 아니한다.  <개정 2024. 01. 25.>",
         "enforcement_date": "",
         "relations": [
           {
@@ -1069,11 +1278,7 @@
             "source_provision_id": "SchlPubRul:(한국토지주택공사)취업규칙#JO0035",
             "reference_id": "SchlPubRul:(한국토지주택공사)취업규칙#JO0023",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국토지주택공사) 취업규칙/(한국토지주택공사) 취업규칙.json",
-            "target_git_path": "(한국토지주택공사) 취업규칙/(한국토지주택공사) 취업규칙.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국토지주택공사) 취업규칙/(한국토지주택공사) 취업규칙.json"
           }
         ],
         "images": [],
@@ -1117,7 +1322,7 @@
         "article_title": "휴직 및 복직",
         "chapter": "제6절 휴직 및 복직",
         "chapter_path": "제2장 복무 > 제6절 휴직 및 복직",
-        "content": "제39조(휴직 및 복직) 직원의 휴직 및 복직에 관하여는 「인사규정」 에 따른다.",
+        "content": "제39조(휴직 및 복직) 직원의 휴직 및 복직에 관하여는 「인사규정」에 따른다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -1128,7 +1333,7 @@
         "article_title": "당직근무",
         "chapter": "제7절 당직",
         "chapter_path": "제2장 복무 > 제7절 당직",
-        "content": "제40조(당직근무) 직원은 「당직 및 비상근무 규정」 에 따라 일직 또는 숙직근무를 하여야 한다.",
+        "content": "제40조(당직근무) 직원은 「당직 및 비상근무 규정」에 따라 일직 또는 숙직근무를 하여야 한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -1139,7 +1344,7 @@
         "article_title": "출장",
         "chapter": "제8절 출장",
         "chapter_path": "제2장 복무 > 제8절 출장",
-        "content": "제41조(출장) ① 업무수행상 필요한 경우 직원을 출장근무하게 할 수 있다.② 출장의 명을 받은 직원은 당해 업무수행을 위하여 전력을 다하여야 하며, 사사로운 일을 위하여 시간을 소비하여서는 아니 된다.③ 직원의 출장은 「인사규정」 과 「여비규정」 에 따른다.④ 임신 중인 직원과 태아의 건강을 보호하기 위하여 해당 직원의 장거리 또는 장기간 출장을 제한할 수 있다. <신설 2017. 10. 23.>",
+        "content": "제41조(출장) ① 업무수행상 필요한 경우 직원을 출장근무하게 할 수 있다.② 출장의 명을 받은 직원은 당해 업무수행을 위하여 전력을 다하여야 하며, 사사로운 일을 위하여 시간을 소비하여서는 아니 된다.③ 직원의 출장은 「인사규정」과 「여비규정」에 따른다.④ 임신 중인 직원과 태아의 건강을 보호하기 위하여 해당 직원의 장거리 또는 장기간 출장을 제한할 수 있다. <신설 2017. 10. 23.>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -1204,11 +1409,7 @@
             "source_provision_id": "SchlPubRul:(한국토지주택공사)취업규칙#JO0045",
             "reference_id": "SchlPubRul:(한국토지주택공사)취업규칙#JO0044",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국토지주택공사) 취업규칙/(한국토지주택공사) 취업규칙.json",
-            "target_git_path": "(한국토지주택공사) 취업규칙/(한국토지주택공사) 취업규칙.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국토지주택공사) 취업규칙/(한국토지주택공사) 취업규칙.json"
           }
         ],
         "images": [],
@@ -1219,7 +1420,7 @@
         "article_title": "전보여비",
         "chapter": "제9절 전보",
         "chapter_path": "제2장 복무 > 제9절 전보",
-        "content": "제46조(전보여비) 전보자에 대해서는 「여비규정」 에 따른 정해진 여비를 지급한다.",
+        "content": "제46조(전보여비) 전보자에 대해서는 「여비규정」에 따른 정해진 여비를 지급한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -1241,7 +1442,7 @@
         "article_title": "보수",
         "chapter": "제3장 보수",
         "chapter_path": "제3장 보수",
-        "content": "제48조(보수) 직원의 보수는 「직원보수규정」 에 따른다.",
+        "content": "제48조(보수) 직원의 보수는 「직원보수규정」에 따른다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -1263,7 +1464,7 @@
         "article_title": "대상 및 절차",
         "chapter": "제1절 포상",
         "chapter_path": "제4장 상벌 > 제1절 포상",
-        "content": "제50조(대상 및 절차) 포상의 대상, 방법 및 심의절차는 「인사규정」 에 따른다.",
+        "content": "제50조(대상 및 절차) 포상의 대상, 방법 및 심의절차는 「인사규정」에 따른다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -1285,7 +1486,7 @@
         "article_title": "대상 및 절차",
         "chapter": "제2절 징계",
         "chapter_path": "제4장 상벌 > 제2절 징계",
-        "content": "제52조(대상 및 절차) 징계의 구분, 대상 및 절차 등 필요한 사항은 「인사규정」 에 따른다.",
+        "content": "제52조(대상 및 절차) 징계의 구분, 대상 및 절차 등 필요한 사항은 「인사규정」에 따른다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -1296,7 +1497,7 @@
         "article_title": "퇴직",
         "chapter": "제5장 퇴직",
         "chapter_path": "제5장 퇴직",
-        "content": "제53조(퇴직) ① 직원의 퇴직은 의원면직, 당연퇴직, 정년퇴직, 명예퇴직, 희망퇴직, 직권면직, 징계(파면ㆍ해임)로 인한 퇴직으로 구분한다.② 퇴직에 관하여 필요한 사항은 「인사규정」 에 따른다.",
+        "content": "제53조(퇴직) ① 직원의 퇴직은 의원면직, 당연퇴직, 정년퇴직, 명예퇴직, 희망퇴직, 직권면직, 징계(파면ㆍ해임)로 인한 퇴직으로 구분한다.② 퇴직에 관하여 필요한 사항은 「인사규정」에 따른다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -1307,7 +1508,7 @@
         "article_title": "퇴직금",
         "chapter": "제5장 퇴직",
         "chapter_path": "제5장 퇴직",
-        "content": "제54조(퇴직금) 퇴직하는 직원에 대하여는 「직원보수규정」 에 따라 퇴직금을 지급한다.",
+        "content": "제54조(퇴직금) 퇴직하는 직원에 대하여는 「직원보수규정」에 따라 퇴직금을 지급한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -1318,7 +1519,7 @@
         "article_title": "교육",
         "chapter": "제6장 교육",
         "chapter_path": "제6장 교육",
-        "content": "제55조(교육) ① 공사는 직원의 자질향상을 위하여 교육시설을 설치하고 교육을 실시한다.② 직원의 교육은 「교육훈련규정」 에 따른다.",
+        "content": "제55조(교육) ① 공사는 직원의 자질향상을 위하여 교육시설을 설치하고 교육을 실시한다.② 직원의 교육은 「교육훈련규정」에 따른다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -1329,7 +1530,7 @@
         "article_title": "안전 및 보건",
         "chapter": "제7장 안전과 보건",
         "chapter_path": "제7장 안전과 보건",
-        "content": "제56조(안전 및 보건) 안전 및 보건에 관하여는 「복지후생규정」 에 따른다.",
+        "content": "제56조(안전 및 보건) 안전 및 보건에 관하여는 「복지후생규정」에 따른다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -1340,7 +1541,7 @@
         "article_title": "재해보상 및 형사피의보상",
         "chapter": "제8장 재해보상",
         "chapter_path": "제8장 재해보상",
-        "content": "제57조(재해보상 및 형사피의보상) 직원이 업무상 입은 재해에 대한 보상 및 형사피의보상 등은 「재해보상 및 배상 규정」 에 따른다.",
+        "content": "제57조(재해보상 및 형사피의보상) 직원이 업무상 입은 재해에 대한 보상 및 형사피의보상 등은 「재해보상 및 배상 규정」에 따른다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -1362,7 +1563,7 @@
         "article_title": "갑질 등 직장 내 괴롭힘 행위의 금지",
         "chapter": "제9장 갑질 등 직장 내 괴롭힘의 예방",
         "chapter_path": "제9장 갑질 등 직장 내 괴롭힘의 예방",
-        "content": "제59조(갑질 등 직장 내 괴롭힘 행위의 금지) 임ㆍ직원은 직장에서의 지위 또는 관계 등의 우위를 이용하여 업무상 적정범위를 넘어 다른 직원에게 신체적ㆍ정신적 고통을 주거나 근무환경을 악화시키는 행위 (이하 \"직장내 괴롭힘\"이라 한다)를 하여서는 아니된다. <신설 2019. 8. 29.>",
+        "content": "제59조(갑질 등 직장 내 괴롭힘 행위의 금지) 임ㆍ직원은 직장에서의  지위 또는 관계 등의 우위를 이용하여 업무상 적정범위를 넘어 다른   직원에게 신체적ㆍ정신적 고통을 주거나 근무환경을 악화시키는 행위 (이하 \"직장내 괴롭힘\"이라 한다)를 하여서는 아니된다. <신설 2019. 8. 29.>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -1427,9 +1628,7 @@
             "source_provision_id": "SchlPubRul:(한국토지주택공사)취업규칙#JO0063",
             "reference_id": "law:한국토지주택공사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국토지주택공사법/법률/한국토지주택공사법.json",
-            "target_git_path": "한국토지주택공사법/법률/한국토지주택공사법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "한국토지주택공사법/법률/한국토지주택공사법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1449,11 +1648,7 @@
             "source_provision_id": "SchlPubRul:(한국토지주택공사)취업규칙#JO0063",
             "reference_id": "SchlPubRul:(한국토지주택공사)취업규칙#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국토지주택공사) 취업규칙/(한국토지주택공사) 취업규칙.json",
-            "target_git_path": "(한국토지주택공사) 취업규칙/(한국토지주택공사) 취업규칙.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국토지주택공사) 취업규칙/(한국토지주택공사) 취업규칙.json"
           }
         ],
         "images": [],
@@ -1468,10 +1663,10 @@
       "content": "부칙 <제2호, 2009.10.01.>이 규칙은 2009년 10월 1일부터 시행한다.",
       "provision_id": "SchlPubRul:(한국토지주택공사)취업규칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000123127",
+      "source_mst": "2200000159345",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20231019"
+      "version_enforcement_date": "20260428"
     },
     {
       "promulgation_date": "20111201",
@@ -1479,10 +1674,10 @@
       "content": "부칙 <제74호, 2011.12.01.>이 규정은 2011년 12월 1일부터 시행한다.",
       "provision_id": "SchlPubRul:(한국토지주택공사)취업규칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000123127",
+      "source_mst": "2200000159345",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20231019"
+      "version_enforcement_date": "20260428"
     },
     {
       "promulgation_date": "20111230",
@@ -1490,10 +1685,10 @@
       "content": "부칙 <제77호, 2011.12.30.>이 규정은 2011년 12월 30일부터 시행한다.",
       "provision_id": "SchlPubRul:(한국토지주택공사)취업규칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000123127",
+      "source_mst": "2200000159345",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20231019"
+      "version_enforcement_date": "20260428"
     },
     {
       "promulgation_date": "20140630",
@@ -1501,10 +1696,10 @@
       "content": "부칙 <제114호, 2014.06.30.>제1조(시행일) 이 규정은 2014년 7월 1일부터 시행한다.제2조(경과조치) 제30조제3호의 개정규정에도 불구하고 이 규정 시행당시 이미 부여되어 사용하지 않은 장기근속휴가는 종전규정에 따른다.",
       "provision_id": "SchlPubRul:(한국토지주택공사)취업규칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000123127",
+      "source_mst": "2200000159345",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20231019"
+      "version_enforcement_date": "20260428"
     },
     {
       "promulgation_date": "20140930",
@@ -1512,10 +1707,10 @@
       "content": "부칙 <제123호, 2014.09.30.>이 규정은 2014년 9월 30일부터 시행한다.",
       "provision_id": "SchlPubRul:(한국토지주택공사)취업규칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000123127",
+      "source_mst": "2200000159345",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20231019"
+      "version_enforcement_date": "20260428"
     },
     {
       "promulgation_date": "20151007",
@@ -1523,10 +1718,10 @@
       "content": "부칙 <제137호, 2015.10.07.>이 규정은 2015년 10월 7일부터 시행한다.",
       "provision_id": "SchlPubRul:(한국토지주택공사)취업규칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000123127",
+      "source_mst": "2200000159345",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20231019"
+      "version_enforcement_date": "20260428"
     },
     {
       "promulgation_date": "20171023",
@@ -1534,10 +1729,10 @@
       "content": "부칙 <제167호, 2017.10.23.>이 규정은 2017년 10월 23일부터 시행한다.",
       "provision_id": "SchlPubRul:(한국토지주택공사)취업규칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000123127",
+      "source_mst": "2200000159345",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20231019"
+      "version_enforcement_date": "20260428"
     },
     {
       "promulgation_date": "20190410",
@@ -1545,10 +1740,10 @@
       "content": "부칙 <제191호, 2019.04.10.>이 규정은 2019년 4월 15일부터 시행한다.",
       "provision_id": "SchlPubRul:(한국토지주택공사)취업규칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000123127",
+      "source_mst": "2200000159345",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20231019"
+      "version_enforcement_date": "20260428"
     },
     {
       "promulgation_date": "20190829",
@@ -1556,10 +1751,10 @@
       "content": "부칙 <제197호, 2019.08.29.>이 규정은 2019년 8월 30일부터 시행한다.",
       "provision_id": "SchlPubRul:(한국토지주택공사)취업규칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000123127",
+      "source_mst": "2200000159345",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20231019"
+      "version_enforcement_date": "20260428"
     },
     {
       "promulgation_date": "20200116",
@@ -1567,10 +1762,10 @@
       "content": "부칙 <제212호, 2020.01.16.>이 규정은 2020년 1월 22일부터 시행한다.",
       "provision_id": "SchlPubRul:(한국토지주택공사)취업규칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000123127",
+      "source_mst": "2200000159345",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20231019"
+      "version_enforcement_date": "20260428"
     },
     {
       "promulgation_date": "20200424",
@@ -1578,10 +1773,10 @@
       "content": "부칙 <제220호, 2020.04.24.>이 규정은 2020년 5월 6일부터 시행한다.",
       "provision_id": "SchlPubRul:(한국토지주택공사)취업규칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000123127",
+      "source_mst": "2200000159345",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20231019"
+      "version_enforcement_date": "20260428"
     },
     {
       "promulgation_date": "20210209",
@@ -1589,10 +1784,10 @@
       "content": "부칙 <제240호, 2021.02.09.>이 규정은 2021년 2월 9일부터 시행한다.",
       "provision_id": "SchlPubRul:(한국토지주택공사)취업규칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000123127",
+      "source_mst": "2200000159345",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20231019"
+      "version_enforcement_date": "20260428"
     },
     {
       "promulgation_date": "20210326",
@@ -1600,10 +1795,10 @@
       "content": "부칙 <제244호, 2021.03.26.>제1조(시행일) 이 규정은 2021년 3월 31일부터 시행한다.제2조(부동산 등의 등록에 관한 경과조치) 이 규정 시행일 이전에 이미 취득한 부동산 등의 신고에 대해서는 사장이 따로 정하는 바에 따른다.",
       "provision_id": "SchlPubRul:(한국토지주택공사)취업규칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000123127",
+      "source_mst": "2200000159345",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20231019"
+      "version_enforcement_date": "20260428"
     },
     {
       "promulgation_date": "20221216",
@@ -1611,10 +1806,10 @@
       "content": "부칙 <제277호, 2022.12.16.>이 규정은 2022년 12월 19일부터 시행한다.",
       "provision_id": "SchlPubRul:(한국토지주택공사)취업규칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000123127",
+      "source_mst": "2200000159345",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20231019"
+      "version_enforcement_date": "20260428"
     },
     {
       "promulgation_date": "20230303",
@@ -1622,10 +1817,10 @@
       "content": "부칙 <제282호, 2023.03.03.>이 규정은 2023년 3월 6일부터 시행한다.",
       "provision_id": "SchlPubRul:(한국토지주택공사)취업규칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000123127",
+      "source_mst": "2200000159345",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20231019"
+      "version_enforcement_date": "20260428"
     },
     {
       "promulgation_date": "20231017",
@@ -1633,10 +1828,21 @@
       "content": "부칙 <제296호, 2023.10.17.>이 규정은 2023년 10월 19일부터 시행한다.",
       "provision_id": "SchlPubRul:(한국토지주택공사)취업규칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000123127",
+      "source_mst": "2200000159345",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20231019"
+      "version_enforcement_date": "20260428"
+    },
+    {
+      "promulgation_date": "20260415",
+      "promulgation_no": "9999",
+      "content": "부칙 <제9999호, 2026.04.15.>이 규정은 2026년 04월 28일부터 시행한다.",
+      "provision_id": "SchlPubRul:(한국토지주택공사)취업규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000159345",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260428"
     }
   ],
   "appendices": [
@@ -1648,12 +1854,12 @@
       "enforcement_date": "",
       "content": "",
       "is_file_only": true,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000123127&bylNo=0001&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162145705",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000159345&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168566759",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162145705",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168566759",
           "name": "",
           "file_store_url": ""
         }
@@ -1673,12 +1879,12 @@
       "enforcement_date": "",
       "content": "",
       "is_file_only": true,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000123127&bylNo=0002&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162145709",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000159345&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168566763",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162145709",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168566763",
           "name": "",
           "file_store_url": ""
         }
@@ -1699,11 +1905,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162145715",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168566771",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162145715",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168566771",
           "name": "",
           "file_store_url": ""
         }
@@ -1719,22 +1925,22 @@
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 28,
+    "relations_total": 41,
     "by_category": {
-      "법령": 14,
-      "학칙공단": 14
+      "법령": 23,
+      "학칙공단": 18
     },
     "by_relation_type": {
-      "citation": 14,
-      "internal_ref": 10,
+      "citation": 23,
+      "internal_ref": 14,
       "appendix_ref": 4
     },
-    "articles_total": 67,
-    "articles_with_relations": 15,
+    "articles_total": 69,
+    "articles_with_relations": 16,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 16,
+    "addenda_count": 17,
     "appendices_count": 3,
     "attachments_count": 0
   },
