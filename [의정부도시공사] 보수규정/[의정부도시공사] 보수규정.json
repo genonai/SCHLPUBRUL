@@ -1,6 +1,6 @@
 {
   "law_id": "2138991",
-  "mst": "2200000145367",
+  "mst": "2200000155633",
   "law_name": "[의정부도시공사] 보수규정",
   "law_abbr": "",
   "law_type": "공단규정",
@@ -8,30 +8,30 @@
   "doc_kind": "공공기관",
   "adm_uid": "public:2138991",
   "promulgation_no": "규정제43",
-  "promulgation_date": "20250312",
-  "enforcement_date": "20250312",
-  "revision_date": "20250312",
+  "promulgation_date": "20260508",
+  "enforcement_date": "20260508",
+  "revision_date": "20260508",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "경영기획처",
     "담당자명": "조수민",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "[의정부도시공사] 보수규정",
-    "발령일자": "20250312",
+    "발령일자": "20260508",
     "행정규칙종류": "공단규정",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
     "소관부처명": "의정부도시공사",
     "전화번호": "031-828-6833",
     "제개정구분명": "일부개정",
-    "소관부처코드": "B551301",
+    "소관부처코드": "B555146",
     "생성일자": "20260521",
     "행정규칙ID": "2138991",
     "담당부서기관코드": "",
     "발령번호": "규정제43",
-    "행정규칙일련번호": "2200000145367"
+    "행정규칙일련번호": "2200000155633"
   },
   "amendment_text": "",
   "revision_reason": "",
@@ -299,7 +299,28 @@
         "chapter_path": "제4장  수당",
         "content": "제24조(제수당) ① 임직원에 대하여 제수당은 “별표 5”의 기준표에 따라 지급한다.② 가족수당의 지급은 「지방공무원 수당 등에 관한 규정」을 준용하며, 연 1회 지급 운영실태 점검을 실시한다.③ 야간근무수당은 22시부터 익일 6시까지의 근무시간으로 한다.[전문개정 2025. 3. 12.]",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제24조",
+            "source_clause": "제24조제2항",
+            "link_text": "「지방공무원 수당 등에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "지방공무원 수당 등에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2138991",
+            "target_url": "https://www.law.go.kr/법령/지방공무원 수당 등에 관한 규정",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:[의정부도시공사]보수규정#JO0024",
+            "reference_id": "law:지방공무원수당등에관한규정#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "지방공무원 수당 등에 관한 규정/법률/지방공무원 수당 등에 관한 규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:[의정부도시공사]보수규정#JO0024"
       },
@@ -321,7 +342,28 @@
         "chapter_path": "제4장  수당",
         "content": "제26조(대우수당) ① 인사규정이 정하는 바에 따라 대우직원으로 선발된 직원에 대하여는 매월 수당을 지급할 수 있다.② 제1항에 따른 대우직원에 대한 수당 지급률은 「지방공무원 수당 등에 관한 규정」을 준용한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제26조",
+            "source_clause": "제26조제2항",
+            "link_text": "「지방공무원 수당 등에 관한 규정」",
+            "line_text": "",
+            "target_law_name": "지방공무원 수당 등에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2138991",
+            "target_url": "https://www.law.go.kr/법령/지방공무원 수당 등에 관한 규정",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:[의정부도시공사]보수규정#JO0026",
+            "reference_id": "law:지방공무원수당등에관한규정#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "지방공무원 수당 등에 관한 규정/법률/지방공무원 수당 등에 관한 규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:[의정부도시공사]보수규정#JO0026"
       },
@@ -430,31 +472,101 @@
     {
       "promulgation_date": "20240304",
       "promulgation_no": "00007",
-      "content": "부칙 <규정 제7호,2024.3.4>제1조(시행일) 이 규정은 공사설립일부터 시행한다.제2조(경과조치) 이 규정 시행 전에 이미 시행된 사항은 이 규정에 의하여 시행된 것으로 본다.",
-      "provision_id": "SchlPubRul:[의정부도시공사]보수규정#ADDENDUM"
+      "content": "부칙 <규정제7호,2024.3.4>제1조(시행일) 이 규정은 공사설립일부터 시행한다.제2조(경과조치) 이 규정 시행 전에 이미 시행된 사항은 이 규정에 의하여 시행된 것으로 본다.",
+      "provision_id": "SchlPubRul:[의정부도시공사]보수규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000155633",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260508"
     },
     {
       "promulgation_date": "20240415",
       "promulgation_no": "00027",
-      "content": "부칙 <규정 제27호,2024.4.15>이 규정은 공포한 날부터 시행한다.",
-      "provision_id": "SchlPubRul:[의정부도시공사]보수규정#ADDENDUM"
+      "content": "부칙 <규정제27호,2024.4.15>이 규정은 공포한 날부터 시행한다.",
+      "provision_id": "SchlPubRul:[의정부도시공사]보수규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000155633",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260508"
     },
     {
       "promulgation_date": "20250312",
       "promulgation_no": "00043",
-      "content": "부칙 <규정 제43호,2025.3.12>이 규정은 공포한 날부터 시행한다.",
-      "provision_id": "SchlPubRul:[의정부도시공사]보수규정#ADDENDUM"
+      "content": "부칙 <규정제43호,2025.3.12>이 규정은 공포한 날부터 시행한다.",
+      "provision_id": "SchlPubRul:[의정부도시공사]보수규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000155633",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260508"
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "별표",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000155633&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164354265",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164354265",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:[의정부도시공사]보수규정#BYL0001",
+      "filename": "별표1_별표.hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표1_별표.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "별지",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164354279",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164354279",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:[의정부도시공사]보수규정#BJ0001",
+      "filename": "별지1_별지.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지1_별지.hwp",
+      "file_store_url": ""
+    }
+  ],
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 2,
+    "by_category": {
+      "법령": 2
+    },
+    "by_relation_type": {
+      "citation": 2
+    },
     "articles_total": 35,
-    "articles_with_relations": 0,
+    "articles_with_relations": 2,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
@@ -469,5 +581,8 @@
   "addendum_provision_id": "SchlPubRul:[의정부도시공사]보수규정#ADDENDUM",
   "amendment_provision_id": "SchlPubRul:[의정부도시공사]보수규정#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "[의정부도시공사] 보수규정/[의정부도시공사] 보수규정.json"
 }
