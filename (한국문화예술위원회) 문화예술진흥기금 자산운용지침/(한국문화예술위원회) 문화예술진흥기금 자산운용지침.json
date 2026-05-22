@@ -27,7 +27,7 @@
     "전화번호": "061-900-2149",
     "제개정구분명": "일부개정",
     "소관부처코드": "B551510",
-    "생성일자": "20260611",
+    "생성일자": "20260922",
     "행정규칙ID": "2136657",
     "담당부서기관코드": "",
     "발령번호": "9999",
@@ -65,9 +65,7 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)문화예술진흥기금자산운용지침#JO0001",
             "reference_id": "law:국가재정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가재정법/법률/국가재정법.json",
-            "target_git_path": "국가재정법/법률/국가재정법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가재정법/법률/국가재정법.json"
           },
           {
             "relation_type": "citation",
@@ -87,9 +85,7 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)문화예술진흥기금자산운용지침#JO0001",
             "reference_id": "law:국가재정법#JO0079",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가재정법/법률/국가재정법.json",
-            "target_git_path": "국가재정법/법률/국가재정법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가재정법/법률/국가재정법.json"
           }
         ],
         "images": [],
@@ -100,32 +96,9 @@
         "article_title": "자산운용지침의 목적",
         "chapter": "제1장 개요",
         "chapter_path": "제1장 개요",
-        "content": "제2조(자산운용지침의 목적) ① 본 지침은 「국가재정법」을 준수하면서 기금의 자산운용ㆍ관리에 적합한 자산운용정책, 자산운용목표 및 제한사항, 위험관리 및 성과평가의 기준을 확립한다.② 본 지침은 자산운용에 관한 내부관리자 및 모든 이해 관계자들에게 기금자산의 운용원칙 및 방향을 제시함으로써 기금의 자산운용이 투명하고 효율적으로 이루어지게 하는 것을 목적으로 한다.",
+        "content": "제2조(자산운용지침의 목적) ① 본 지침은 국가재정법을 준수하면서 기금의 자산운용ㆍ관리에 적합한 자산운용정책, 자산운용목표 및 제한사항, 위험관리 및 성과평가의 기준을 확립한다.② 본 지침은 자산운용에 관한 내부관리자 및 모든 이해 관계자들에게 기금자산의 운용원칙 및 방향을 제시함으로써 기금의 자산운용이 투명하고 효율적으로 이루어지게 하는 것을 목적으로 한다.",
         "enforcement_date": "",
-        "relations": [
-          {
-            "relation_type": "citation",
-            "delegation_type": null,
-            "target_category": "법령",
-            "source_article_no": "제2조",
-            "source_clause": "제2조제1항",
-            "link_text": "「국가재정법」",
-            "line_text": "",
-            "target_law_name": "국가재정법",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "",
-            "source_admrul_seq": "2136657",
-            "target_url": "https://www.law.go.kr/법령/국가재정법",
-            "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:(한국문화예술위원회)문화예술진흥기금자산운용지침#JO0002",
-            "reference_id": "law:국가재정법#DOC",
-            "target_repo": "LAW",
-            "target_git_path_guess": "국가재정법/법률/국가재정법.json",
-            "target_git_path": "국가재정법/법률/국가재정법.json",
-            "target_source_repository": "LAW"
-          }
-        ],
+        "relations": [],
         "images": [],
         "provision_id": "SchlPubRul:(한국문화예술위원회)문화예술진흥기금자산운용지침#JO0002"
       },
@@ -134,32 +107,48 @@
         "article_title": "기금의 개요",
         "chapter": "제1장 개요",
         "chapter_path": "제1장 개요",
-        "content": "제3조(기금의 개요) ① 기금은 문화예술진흥을 위한 사업이나 활동을 지원하기 위하여, 1973년 문화예술진흥법 제16조에 의해 설치되었으며 그 용도는 「문화예술진흥법」 제18조에 명시된 문화예술인의 창작과 보급, 민족전통문화의 보존ㆍ계승 및 발전, 문화예술인의 후생복지 증진을 위한 사업, 지역문화진흥기금에의 출연, 위원회의 운영에 필요한 경비, 기타 문화예술의 진흥을 목적으로 하는 사업이나 활동의 지원에 사용하는 것이다.② 기금의 주요 재원은 「문화예술진흥법」\n제17조(문화예술진흥기금의 조성)의 규정에 따라 정부의 출연금, 개인 또는 법인의 기부금품, 기금의 운용으로 생기는 수익금, 기타 대통령령으로 정하는 수입금 등이며, 기금사업의 원활한 추진을 위하여 안정적 운용을 최우선으로 한다.",
+        "content": "제3조(기금의 개요) ① 기금은 문화예술진흥을 위한 사업이나 활동을 지원하기 위하여, 1973년 「문화예술진흥법」 제16조에 의해 설치되었으며 그 용도는 「문화예술진흥법」 제18조에 명시된 문화예술인의 창작과 보급, 민족전통문화의 보존ㆍ계승 및 발전, 문화예술인의 후생복지 증진을 위한 사업, 지역문화진흥기금에의 출연, 위원회의 운영에 필요한 경비, 기타 문화예술의 진흥을 목적으로 하는 사업이나 활동의 지원에 사용하는 것이다.② 기금의 주요 재원은 「문화예술진흥법」\n제17조(문화예술진흥기금의 조성)의 규정에 따라 정부의 출연금, 개인 또는 법인의 기부금품, 기금의 운용으로 생기는 수익금, 기타 대통령령으로 정하는 수입금 등이며, 기금사업의 원활한 추진을 위하여 안정적 운용을 최우선으로 한다.",
         "enforcement_date": "",
         "relations": [
           {
-            "relation_type": "internal_ref",
+            "relation_type": "citation",
             "delegation_type": null,
-            "target_category": "학칙공단",
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제1항",
+            "link_text": "「문화예술진흥법」",
+            "line_text": "",
+            "target_law_name": "문화예술진흥법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2136657",
+            "target_url": "https://www.law.go.kr/법령/문화예술진흥법",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(한국문화예술위원회)문화예술진흥기금자산운용지침#JO0003",
+            "reference_id": "law:문화예술진흥법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "문화예술진흥법/법률/문화예술진흥법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
             "source_article_no": "제3조",
             "source_clause": "제3조제1항",
             "link_text": "제16조",
             "line_text": "",
-            "target_law_name": "(한국문화예술위원회) 문화예술진흥기금 자산운용지침",
+            "target_law_name": "문화예술진흥법",
             "target_article_no": "제16조",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "2136657",
-            "target_url": "https://www.law.go.kr/학칙공단/(한국문화예술위원회) 문화예술진흥기금 자산운용지침/제16조",
+            "target_url": "https://www.law.go.kr/법령/문화예술진흥법/제16조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)문화예술진흥기금자산운용지침#JO0003",
-            "reference_id": "SchlPubRul:(한국문화예술위원회)문화예술진흥기금자산운용지침#JO0016",
-            "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국문화예술위원회) 문화예술진흥기금 자산운용지침/(한국문화예술위원회) 문화예술진흥기금 자산운용지침.json",
-            "target_git_path": "(한국문화예술위원회) 문화예술진흥기금 자산운용지침/(한국문화예술위원회) 문화예술진흥기금 자산운용지침.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "reference_id": "law:문화예술진흥법#JO0016",
+            "target_repo": "LAW",
+            "target_git_path_guess": "문화예술진흥법/법률/문화예술진흥법.json"
           },
           {
             "relation_type": "citation",
@@ -179,9 +168,7 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)문화예술진흥기금자산운용지침#JO0003",
             "reference_id": "law:문화예술진흥법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "문화예술진흥법/법률/문화예술진흥법.json",
-            "target_git_path": "문화예술진흥법/법률/문화예술진흥법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "문화예술진흥법/법률/문화예술진흥법.json"
           },
           {
             "relation_type": "citation",
@@ -201,9 +188,7 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)문화예술진흥기금자산운용지침#JO0003",
             "reference_id": "law:문화예술진흥법#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "문화예술진흥법/법률/문화예술진흥법.json",
-            "target_git_path": "문화예술진흥법/법률/문화예술진흥법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "문화예술진흥법/법률/문화예술진흥법.json"
           },
           {
             "relation_type": "citation",
@@ -223,9 +208,7 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)문화예술진흥기금자산운용지침#JO0003",
             "reference_id": "law:문화예술진흥법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "문화예술진흥법/법률/문화예술진흥법.json",
-            "target_git_path": "문화예술진흥법/법률/문화예술진흥법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "문화예술진흥법/법률/문화예술진흥법.json"
           },
           {
             "relation_type": "citation",
@@ -245,9 +228,7 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)문화예술진흥기금자산운용지침#JO0003",
             "reference_id": "law:문화예술진흥법#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "문화예술진흥법/법률/문화예술진흥법.json",
-            "target_git_path": "문화예술진흥법/법률/문화예술진흥법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "문화예술진흥법/법률/문화예술진흥법.json"
           }
         ],
         "images": [],
@@ -258,7 +239,7 @@
         "article_title": "자산운용 관련법규",
         "chapter": "제2장 자산운용 관련 법령 및 규정",
         "chapter_path": "제2장 자산운용 관련 법령 및 규정",
-        "content": "제4조(자산운용 관련법규) ① 기금의 운용ㆍ관리는 「문화예술진흥법」 및 동법 시행령과 「국가재정법」 및 동법 시행령의 적용을 받는다.② 또한 자산운용은 위 법이 허용한 범위 내에서 본 지침을 포함하여「문화예술진흥기금 관리규정」및 하위 규정의 적용을 받는다.③ 다만, 기금관리주체가 기금을 연기금투자풀 완전위탁형으로 전환할 경우, 국가재정법 제76조 ①항에 의거 자산운용 관련 의사결정을 기획예산처 기금자산운용정책위원회에 위임하며, 위 법령에서 허용된 범위 내에서 연기금투자풀 관련 기획예산처 훈령인 「기금 여유자금의 통합운용 등에 관한 규정」 및 「연기금투자풀 운영규정」과 전담주간운용사 내 투자풀 업무 관련 규정을 우선 적용한다.",
+        "content": "제4조(자산운용 관련법규) ① 기금의 운용ㆍ관리는 「문화예술진흥법」 및 동법 시행령과 「국가재정법」 및 동법 시행령의 적용을 받는다.② 또한 자산운용은 위 법이 허용한 범위 내에서 본 지침을 포함하여「문화예술진흥기금 관리규정」및 하위 규정의 적용을 받는다.③ 다만, 기금관리주체가 기금을 연기금투자풀 완전위탁형으로 전환할 경우, 「국가재정법」 제76조제1항에 의거 자산운용 관련 의사결정을 기획예산처 기금자산운용정책위원회에 위임하며, 위 법령에서 허용된 범위 내에서 연기금투자풀 관련 기획예산처 훈령인 「기금 여유자금의 통합운용 등에 관한 규정」 및 「연기금투자풀 운영규정」과 전담주간운용사 내 투자풀 업무 관련 규정을 우선 적용한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -279,9 +260,7 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)문화예술진흥기금자산운용지침#JO0004",
             "reference_id": "law:문화예술진흥법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "문화예술진흥법/시행령/문화예술진흥법 시행령.json",
-            "target_git_path": "문화예술진흥법/시행령/문화예술진흥법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "문화예술진흥법/시행령/문화예술진흥법 시행령.json"
           },
           {
             "relation_type": "citation",
@@ -301,16 +280,34 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)문화예술진흥기금자산운용지침#JO0004",
             "reference_id": "law:국가재정법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가재정법/시행령/국가재정법 시행령.json",
-            "target_git_path": "국가재정법/시행령/국가재정법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가재정법/시행령/국가재정법 시행령.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제3항",
+            "link_text": "제76조제1항",
+            "line_text": "",
+            "target_law_name": "국가재정법",
+            "target_article_no": "제76조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2136657",
+            "target_url": "https://www.law.go.kr/법령/국가재정법/제76조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(한국문화예술위원회)문화예술진흥기금자산운용지침#JO0004",
+            "reference_id": "law:국가재정법#JO0076",
+            "target_repo": "LAW",
+            "target_git_path_guess": "국가재정법/법률/국가재정법.json"
           },
           {
             "relation_type": "citation",
             "delegation_type": null,
             "target_category": "행정규칙",
             "source_article_no": "제4조",
-            "source_clause": "제4조제1항",
+            "source_clause": "제4조제3항",
             "link_text": "「기금 여유자금의 통합운용 등에 관한 규정」",
             "line_text": "",
             "target_law_name": "기금 여유자금의 통합운용 등에 관한 규정",
@@ -323,11 +320,7 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)문화예술진흥기금자산운용지침#JO0004",
             "reference_id": "admrul:기금여유자금의통합운용등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "기금 여유자금의 통합운용 등에 관한 규정/기금 여유자금의 통합운용 등에 관한 규정.json",
-            "target_git_path": "기금 여유자금의 통합운용 등에 관한 규정/기금 여유자금의 통합운용 등에 관한 규정.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "기금 여유자금의 통합운용 등에 관한 규정/기금 여유자금의 통합운용 등에 관한 규정.json"
           }
         ],
         "images": [],
@@ -366,8 +359,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164888339",
-            "seq": "164888339",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169535115",
+            "seq": "169535115",
             "filename": "제7조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제7조_1.gif",
@@ -398,8 +391,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164886763",
-            "seq": "164886763",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169535111",
+            "seq": "169535111",
             "filename": "제9조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제9조_1.gif",
@@ -419,8 +412,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164886765",
-            "seq": "164886765",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169535113",
+            "seq": "169535113",
             "filename": "제10조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제10조_1.gif",
@@ -460,19 +453,14 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(한국문화예술위원회)문화예술진흥기금자산운용지침#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국문화예술위원회) 문화예술진흥기금 자산운용지침/(한국문화예술위원회) 문화예술진흥기금 자산운용지침.json",
-            "target_git_path": "(한국문화예술위원회) 문화예술진흥기금 자산운용지침/(한국문화예술위원회) 문화예술진흥기금 자산운용지침.json",
-            "target_git_file_path": "(한국문화예술위원회) 문화예술진흥기금 자산운용지침/별표/별표1_2026년 자산운용지침 주요 내용.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국문화예술위원회) 문화예술진흥기금 자산운용지침/(한국문화예술위원회) 문화예술진흥기금 자산운용지침.json"
           }
         ],
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164886767",
-            "seq": "164886767",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169534739",
+            "seq": "169534739",
             "filename": "제11조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제11조_1.gif",
@@ -512,12 +500,7 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(한국문화예술위원회)문화예술진흥기금자산운용지침#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국문화예술위원회) 문화예술진흥기금 자산운용지침/(한국문화예술위원회) 문화예술진흥기금 자산운용지침.json",
-            "target_git_path": "(한국문화예술위원회) 문화예술진흥기금 자산운용지침/(한국문화예술위원회) 문화예술진흥기금 자산운용지침.json",
-            "target_git_file_path": "(한국문화예술위원회) 문화예술진흥기금 자산운용지침/별표/별표1_2026년 자산운용지침 주요 내용.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국문화예술위원회) 문화예술진흥기금 자산운용지침/(한국문화예술위원회) 문화예술진흥기금 자산운용지침.json"
           }
         ],
         "images": [],
@@ -554,12 +537,7 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(한국문화예술위원회)문화예술진흥기금자산운용지침#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국문화예술위원회) 문화예술진흥기금 자산운용지침/(한국문화예술위원회) 문화예술진흥기금 자산운용지침.json",
-            "target_git_path": "(한국문화예술위원회) 문화예술진흥기금 자산운용지침/(한국문화예술위원회) 문화예술진흥기금 자산운용지침.json",
-            "target_git_file_path": "(한국문화예술위원회) 문화예술진흥기금 자산운용지침/별표/별표1_2026년 자산운용지침 주요 내용.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국문화예술위원회) 문화예술진흥기금 자산운용지침/(한국문화예술위원회) 문화예술진흥기금 자산운용지침.json"
           }
         ],
         "images": [],
@@ -596,12 +574,7 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(한국문화예술위원회)문화예술진흥기금자산운용지침#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국문화예술위원회) 문화예술진흥기금 자산운용지침/(한국문화예술위원회) 문화예술진흥기금 자산운용지침.json",
-            "target_git_path": "(한국문화예술위원회) 문화예술진흥기금 자산운용지침/(한국문화예술위원회) 문화예술진흥기금 자산운용지침.json",
-            "target_git_file_path": "(한국문화예술위원회) 문화예술진흥기금 자산운용지침/별표/별표1_2026년 자산운용지침 주요 내용.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국문화예술위원회) 문화예술진흥기금 자산운용지침/(한국문화예술위원회) 문화예술진흥기금 자산운용지침.json"
           }
         ],
         "images": [],
@@ -612,14 +585,14 @@
         "article_title": "투자가능 자산",
         "chapter": "제7장 전략적 자산배분",
         "chapter_path": "제7장 전략적 자산배분",
-        "content": "제15조(투자가능 자산) 기금은 전담주간운용사에 설정한 완전위탁형 통합집합투자기구(이하 ‘완전위탁통합펀드’라 한다.)를 통해 여유자금을 운용하며, 완전위탁통합펀드의 운용대상 금융상품은 다음과 같다.[그림]* 수익증권은 자본시장법 상 집합투자기구(펀드)임",
+        "content": "제15조(투자가능 자산) 기금은 전담주간운용사에 설정한 완전위탁형 통합집합투자기구(이하 ‘완전위탁통합펀드’라 한다)를 통해 여유자금을 운용하며, 완전위탁통합펀드의 운용대상 금융상품은 다음과 같다.[그림]",
         "enforcement_date": "",
         "relations": [],
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164889021",
-            "seq": "164889021",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169535117",
+            "seq": "169535117",
             "filename": "제15조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제15조_1.gif",
@@ -659,12 +632,7 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(한국문화예술위원회)문화예술진흥기금자산운용지침#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국문화예술위원회) 문화예술진흥기금 자산운용지침/(한국문화예술위원회) 문화예술진흥기금 자산운용지침.json",
-            "target_git_path": "(한국문화예술위원회) 문화예술진흥기금 자산운용지침/(한국문화예술위원회) 문화예술진흥기금 자산운용지침.json",
-            "target_git_file_path": "(한국문화예술위원회) 문화예술진흥기금 자산운용지침/별표/별표1_2026년 자산운용지침 주요 내용.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국문화예술위원회) 문화예술진흥기금 자산운용지침/(한국문화예술위원회) 문화예술진흥기금 자산운용지침.json"
           }
         ],
         "images": [],
@@ -701,12 +669,7 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(한국문화예술위원회)문화예술진흥기금자산운용지침#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국문화예술위원회) 문화예술진흥기금 자산운용지침/(한국문화예술위원회) 문화예술진흥기금 자산운용지침.json",
-            "target_git_path": "(한국문화예술위원회) 문화예술진흥기금 자산운용지침/(한국문화예술위원회) 문화예술진흥기금 자산운용지침.json",
-            "target_git_file_path": "(한국문화예술위원회) 문화예술진흥기금 자산운용지침/별표/별표1_2026년 자산운용지침 주요 내용.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국문화예술위원회) 문화예술진흥기금 자산운용지침/(한국문화예술위원회) 문화예술진흥기금 자산운용지침.json"
           }
         ],
         "images": [],
@@ -787,12 +750,7 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(한국문화예술위원회)문화예술진흥기금자산운용지침#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국문화예술위원회) 문화예술진흥기금 자산운용지침/(한국문화예술위원회) 문화예술진흥기금 자산운용지침.json",
-            "target_git_path": "(한국문화예술위원회) 문화예술진흥기금 자산운용지침/(한국문화예술위원회) 문화예술진흥기금 자산운용지침.json",
-            "target_git_file_path": "(한국문화예술위원회) 문화예술진흥기금 자산운용지침/별표/별표1_2026년 자산운용지침 주요 내용.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국문화예술위원회) 문화예술진흥기금 자산운용지침/(한국문화예술위원회) 문화예술진흥기금 자산운용지침.json"
           }
         ],
         "images": [],
@@ -890,193 +848,6 @@
   },
   "addenda": [
     {
-      "promulgation_date": "20121213",
-      "promulgation_no": "9999",
-      "content": "부칙 <제9999호, 2012.12.13.>이 지침은 2012년 12월 13일부터 시행한다.",
-      "provision_id": "SchlPubRul:(한국문화예술위원회)문화예술진흥기금자산운용지침#ADDENDUM",
-      "is_future": false,
-      "source_mst": "2200000155993",
-      "source_version_uid": "",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260522"
-    },
-    {
-      "promulgation_date": "20130802",
-      "promulgation_no": "9999",
-      "content": "부칙 <제9999호, 2013.08.02.>이 지침은 2013년 8월 2일부터 시행한다.",
-      "provision_id": "SchlPubRul:(한국문화예술위원회)문화예술진흥기금자산운용지침#ADDENDUM",
-      "is_future": false,
-      "source_mst": "2200000155993",
-      "source_version_uid": "",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260522"
-    },
-    {
-      "promulgation_date": "20140714",
-      "promulgation_no": "9999",
-      "content": "부칙 <제9999호, 2014.07.14.>이 지침은 2014년 7월 14일부터 시행한다.",
-      "provision_id": "SchlPubRul:(한국문화예술위원회)문화예술진흥기금자산운용지침#ADDENDUM",
-      "is_future": false,
-      "source_mst": "2200000155993",
-      "source_version_uid": "",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260522"
-    },
-    {
-      "promulgation_date": "20150119",
-      "promulgation_no": "9999",
-      "content": "부칙 <제9999호, 2015.01.19.>이 지침은 2015년 1월 19일부터 시행한다.",
-      "provision_id": "SchlPubRul:(한국문화예술위원회)문화예술진흥기금자산운용지침#ADDENDUM",
-      "is_future": false,
-      "source_mst": "2200000155993",
-      "source_version_uid": "",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260522"
-    },
-    {
-      "promulgation_date": "20160118",
-      "promulgation_no": "9999",
-      "content": "부칙 <제9999호, 2016.01.18.>이 지침은 2016년 1월 18일부터 시행한다.",
-      "provision_id": "SchlPubRul:(한국문화예술위원회)문화예술진흥기금자산운용지침#ADDENDUM",
-      "is_future": false,
-      "source_mst": "2200000155993",
-      "source_version_uid": "",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260522"
-    },
-    {
-      "promulgation_date": "20161222",
-      "promulgation_no": "9999",
-      "content": "부칙 <제9999호, 2016.12.22.>이 지침은 2016년 12월 22일부터 시행한다.",
-      "provision_id": "SchlPubRul:(한국문화예술위원회)문화예술진흥기금자산운용지침#ADDENDUM",
-      "is_future": false,
-      "source_mst": "2200000155993",
-      "source_version_uid": "",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260522"
-    },
-    {
-      "promulgation_date": "20170602",
-      "promulgation_no": "9999",
-      "content": "부칙 <제9999호, 2017.06.02.>이 지침은 2017년 6월 2일부터 시행한다.",
-      "provision_id": "SchlPubRul:(한국문화예술위원회)문화예술진흥기금자산운용지침#ADDENDUM",
-      "is_future": false,
-      "source_mst": "2200000155993",
-      "source_version_uid": "",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260522"
-    },
-    {
-      "promulgation_date": "20180115",
-      "promulgation_no": "9999",
-      "content": "부칙 <제9999호, 2018.01.15.>이 지침은 2018년 1월 15일부터 시행한다.",
-      "provision_id": "SchlPubRul:(한국문화예술위원회)문화예술진흥기금자산운용지침#ADDENDUM",
-      "is_future": false,
-      "source_mst": "2200000155993",
-      "source_version_uid": "",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260522"
-    },
-    {
-      "promulgation_date": "20191211",
-      "promulgation_no": "9999",
-      "content": "부칙 <제9999호, 2019.12.11.>이 지침은 2019년 12월 11일부터 시행한다.",
-      "provision_id": "SchlPubRul:(한국문화예술위원회)문화예술진흥기금자산운용지침#ADDENDUM",
-      "is_future": false,
-      "source_mst": "2200000155993",
-      "source_version_uid": "",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260522"
-    },
-    {
-      "promulgation_date": "20200101",
-      "promulgation_no": "9999",
-      "content": "부칙 <제9999호, 2020.01.01.>이 지침은 2020년 1월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:(한국문화예술위원회)문화예술진흥기금자산운용지침#ADDENDUM",
-      "is_future": false,
-      "source_mst": "2200000155993",
-      "source_version_uid": "",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260522"
-    },
-    {
-      "promulgation_date": "20210104",
-      "promulgation_no": "9999",
-      "content": "부칙 <제9999호, 2021.01.04.>이 지침은 2021년 1월 4일부터 시행한다.",
-      "provision_id": "SchlPubRul:(한국문화예술위원회)문화예술진흥기금자산운용지침#ADDENDUM",
-      "is_future": false,
-      "source_mst": "2200000155993",
-      "source_version_uid": "",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260522"
-    },
-    {
-      "promulgation_date": "20210727",
-      "promulgation_no": "9999",
-      "content": "부칙 <제9999호, 2021.07.27.>이 지침은 2021년 7월 27일부터 시행한다.",
-      "provision_id": "SchlPubRul:(한국문화예술위원회)문화예술진흥기금자산운용지침#ADDENDUM",
-      "is_future": false,
-      "source_mst": "2200000155993",
-      "source_version_uid": "",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260522"
-    },
-    {
-      "promulgation_date": "20220425",
-      "promulgation_no": "9999",
-      "content": "부칙 <제9999호, 2022.04.25.>이 지침은 2022년 4월 25일부터 시행한다.",
-      "provision_id": "SchlPubRul:(한국문화예술위원회)문화예술진흥기금자산운용지침#ADDENDUM",
-      "is_future": false,
-      "source_mst": "2200000155993",
-      "source_version_uid": "",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260522"
-    },
-    {
-      "promulgation_date": "20221028",
-      "promulgation_no": "9999",
-      "content": "부칙 <제9999호, 2022.10.28.>이 지침은 2022년 10월 28일부터 시행한다.",
-      "provision_id": "SchlPubRul:(한국문화예술위원회)문화예술진흥기금자산운용지침#ADDENDUM",
-      "is_future": false,
-      "source_mst": "2200000155993",
-      "source_version_uid": "",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260522"
-    },
-    {
-      "promulgation_date": "20230503",
-      "promulgation_no": "9999",
-      "content": "부칙 <제9999호, 2023.05.03.>이 지침은 2023년 5월 3일부터 시행한다.",
-      "provision_id": "SchlPubRul:(한국문화예술위원회)문화예술진흥기금자산운용지침#ADDENDUM",
-      "is_future": false,
-      "source_mst": "2200000155993",
-      "source_version_uid": "",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260522"
-    },
-    {
-      "promulgation_date": "20240201",
-      "promulgation_no": "9999",
-      "content": "부칙 <제9999호, 2024.02.01.>이 지침은 2024년 2월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:(한국문화예술위원회)문화예술진흥기금자산운용지침#ADDENDUM",
-      "is_future": false,
-      "source_mst": "2200000155993",
-      "source_version_uid": "",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260522"
-    },
-    {
-      "promulgation_date": "20240426",
-      "promulgation_no": "9999",
-      "content": "부칙 <제9999호, 2024.04.26.>이 지침은 2024년 4월 26일부터 시행한다.",
-      "provision_id": "SchlPubRul:(한국문화예술위원회)문화예술진흥기금자산운용지침#ADDENDUM",
-      "is_future": false,
-      "source_mst": "2200000155993",
-      "source_version_uid": "",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260522"
-    },
-    {
       "promulgation_date": "20250708",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2025.07.08.>이 지침은 2025년 7월 8일부터 시행한다.",
@@ -1109,11 +880,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000155993&bylNo=0001&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164889571",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169535269",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164889571",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169535269",
           "name": "",
           "file_store_url": ""
         }
@@ -1129,23 +900,22 @@
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 18,
+    "relations_total": 19,
     "by_category": {
-      "법령": 9,
-      "학칙공단": 8,
-      "행정규칙": 1
+      "법령": 11,
+      "행정규칙": 1,
+      "학칙공단": 7
     },
     "by_relation_type": {
-      "citation": 10,
-      "internal_ref": 1,
+      "citation": 12,
       "appendix_ref": 7
     },
     "articles_total": 30,
-    "articles_with_relations": 11,
+    "articles_with_relations": 10,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 19,
+    "addenda_count": 2,
     "appendices_count": 1,
     "attachments_count": 0
   },
@@ -1159,7 +929,5 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "(한국문화예술위원회) 문화예술진흥기금 자산운용지침/(한국문화예술위원회) 문화예술진흥기금 자산운용지침.json",
-  "repealed": true,
-  "repealed_at": "20260919"
+  "git_path": "(한국문화예술위원회) 문화예술진흥기금 자산운용지침/(한국문화예술위원회) 문화예술진흥기금 자산운용지침.json"
 }
