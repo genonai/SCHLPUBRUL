@@ -1,6 +1,6 @@
 {
   "law_id": "2115779",
-  "mst": "2200000091913",
+  "mst": "2200000161615",
   "law_name": "(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정",
   "law_abbr": "",
   "law_type": "공단규정",
@@ -8,18 +8,18 @@
   "doc_kind": "공단정관",
   "adm_uid": "pi:2115779",
   "promulgation_no": "9999",
-  "promulgation_date": "20220722",
-  "enforcement_date": "20220722",
-  "revision_date": "20220722",
+  "promulgation_date": "20260601",
+  "enforcement_date": "20260601",
+  "revision_date": "20260601",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
     "현행여부": "Y",
-    "담당부서기관명": "한국산업인력공단 본부 기획운영이사 경영기획실",
+    "담당부서기관명": "한국산업인력공단",
     "담당자명": "김동현",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정",
-    "발령일자": "20220722",
+    "발령일자": "20260601",
     "행정규칙종류": "공단규정",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,11 +27,11 @@
     "전화번호": "052-714-8039",
     "제개정구분명": "일부개정",
     "소관부처코드": "B490007",
-    "생성일자": "20260529",
+    "생성일자": "20261110",
     "행정규칙ID": "2115779",
-    "담당부서기관코드": "",
+    "담당부서기관코드": "B490007",
     "발령번호": "9999",
-    "행정규칙일련번호": "2200000091913"
+    "행정규칙일련번호": "2200000161615"
   },
   "amendment_text": "",
   "revision_reason": "",
@@ -42,9 +42,9 @@
       {
         "article_no": "제1조",
         "article_title": "목적",
-        "chapter": "제1장 총 칙",
-        "chapter_path": "제1장 총 칙",
-        "content": "제1조(목적) 이 규정은 「외국인근로자의 고용 등에 관한 법률」 (이하 \"법\"이라 한다) 제13조의2에 따라 설치되는 \"휴면보험금 등 관리위원회\"(이하 \"위원회\"라 한다) 및 그에 따른 한국산업인력공단(이하 \"공단\"이라 한다)의 업무수행에 필요한 사항을 정함을 목적으로 한다.",
+        "chapter": "제1장 총칙",
+        "chapter_path": "제1장 총칙",
+        "content": "제1조(목적) 이 규정은 「외국인근로자의 고용 등에 관한 법률」(이하 \"법\"이라 한다) 제13조의2에 따라 설치되는 \"휴면보험금 등 관리위원회\"(이하 \"위원회\"라 한다) 및 그에 따른 한국산업인력공단(이하 \"공단\"이라 한다)의 업무수행에 필요한 사항을 정함을 목적으로 한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -65,9 +65,7 @@
             "source_provision_id": "SchlPubRul:(한국산업인력공단)외국인근로자휴면보험금등관리위원회운영규정#JO0001",
             "reference_id": "law:외국인근로자의고용등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "외국인근로자의 고용 등에 관한 법률/법률/외국인근로자의 고용 등에 관한 법률.json",
-            "target_git_path": "외국인근로자의 고용 등에 관한 법률/법률/외국인근로자의 고용 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "외국인근로자의 고용 등에 관한 법률/법률/외국인근로자의 고용 등에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -87,9 +85,7 @@
             "source_provision_id": "SchlPubRul:(한국산업인력공단)외국인근로자휴면보험금등관리위원회운영규정#JO0001",
             "reference_id": "law:외국인근로자의고용등에관한법률#JO0013_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "외국인근로자의 고용 등에 관한 법률/법률/외국인근로자의 고용 등에 관한 법률.json",
-            "target_git_path": "외국인근로자의 고용 등에 관한 법률/법률/외국인근로자의 고용 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "외국인근로자의 고용 등에 관한 법률/법률/외국인근로자의 고용 등에 관한 법률.json"
           }
         ],
         "images": [],
@@ -98,8 +94,8 @@
       {
         "article_no": "제2조",
         "article_title": "적용범위",
-        "chapter": "제1장 총 칙",
-        "chapter_path": "제1장 총 칙",
+        "chapter": "제1장 총칙",
+        "chapter_path": "제1장 총칙",
         "content": "제2조(적용범위) 위원회 운영에 관하여 법령 및 다른 내규에 특별히 정한 경우를 제외하고는 이 규정이 정하는 바에 따른다.",
         "enforcement_date": "",
         "relations": [],
@@ -109,8 +105,8 @@
       {
         "article_no": "제3조",
         "article_title": "용어의 정의",
-        "chapter": "제1장 총 칙",
-        "chapter_path": "제1장 총 칙",
+        "chapter": "제1장 총칙",
+        "chapter_path": "제1장 총칙",
         "content": "제3조(용어의 정의) 이 규정에서 사용하는 용어의 정의는 다음과 같다.1. \"휴면보험금 등\" 이라 함은 법 제13조의 출국만기보험ㆍ신탁 및 법 제15조의 귀국비용보험ㆍ신탁에 따라 출국만기보험 등의 소멸시효가 완성된 휴면보험금과 동 보험금의 운용으로부터 발생한 이자수입 등의 수익금을 말한다.2. \"휴면보험금 원 권리자\"라 함은 소멸시효가 완성되어 휴면보험금에 대한 청구권을 상실한자를 말한다.3. \"보험ㆍ신탁사업자\"라 함은 휴면보험금 등을 공단에게 이전하는 금융기관을 말한다.4. \"휴면보험금 등 이전에 필요한 정보\"라 함은 보험ㆍ신탁사업자가 휴면보험금 등을 공단에게 이전 시 제공해야 할 휴면보험금 원 권리자의 성명, 여권번호(또는 외국인등록번호), 주소, 금융기관명, 휴면보험금액, 금융기관 연락처, 휴면보험금 계좌번호(또는 가입증서번호), 소멸시효 완성일 등의 정보를 말한다.",
         "enforcement_date": "",
         "relations": [
@@ -132,9 +128,7 @@
             "source_provision_id": "SchlPubRul:(한국산업인력공단)외국인근로자휴면보험금등관리위원회운영규정#JO0003",
             "reference_id": "law:외국인근로자의고용등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "외국인근로자의 고용 등에 관한 법률/법률/외국인근로자의 고용 등에 관한 법률.json",
-            "target_git_path": "외국인근로자의 고용 등에 관한 법률/법률/외국인근로자의 고용 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "외국인근로자의 고용 등에 관한 법률/법률/외국인근로자의 고용 등에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -154,9 +148,7 @@
             "source_provision_id": "SchlPubRul:(한국산업인력공단)외국인근로자휴면보험금등관리위원회운영규정#JO0003",
             "reference_id": "law:외국인근로자의고용등에관한법률#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "외국인근로자의 고용 등에 관한 법률/법률/외국인근로자의 고용 등에 관한 법률.json",
-            "target_git_path": "외국인근로자의 고용 등에 관한 법률/법률/외국인근로자의 고용 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "외국인근로자의 고용 등에 관한 법률/법률/외국인근로자의 고용 등에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -176,9 +168,7 @@
             "source_provision_id": "SchlPubRul:(한국산업인력공단)외국인근로자휴면보험금등관리위원회운영규정#JO0003",
             "reference_id": "law:외국인근로자의고용등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "외국인근로자의 고용 등에 관한 법률/법률/외국인근로자의 고용 등에 관한 법률.json",
-            "target_git_path": "외국인근로자의 고용 등에 관한 법률/법률/외국인근로자의 고용 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "외국인근로자의 고용 등에 관한 법률/법률/외국인근로자의 고용 등에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -198,9 +188,7 @@
             "source_provision_id": "SchlPubRul:(한국산업인력공단)외국인근로자휴면보험금등관리위원회운영규정#JO0003",
             "reference_id": "law:외국인근로자의고용등에관한법률#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "외국인근로자의 고용 등에 관한 법률/법률/외국인근로자의 고용 등에 관한 법률.json",
-            "target_git_path": "외국인근로자의 고용 등에 관한 법률/법률/외국인근로자의 고용 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "외국인근로자의 고용 등에 관한 법률/법률/외국인근로자의 고용 등에 관한 법률.json"
           }
         ],
         "images": [],
@@ -211,7 +199,7 @@
         "article_title": "위원회의 기능",
         "chapter": "제2장 휴면보험금 등 관리위원회",
         "chapter_path": "제2장 휴면보험금 등 관리위원회",
-        "content": "제4조(위원회의 기능) ① 위원회는 다음 각 호의 사항에 대하여 심의ㆍ의결한다.1. 이전받은 휴면보험금 등 관련 사업계획의 수립ㆍ변경에 관한 사항2. 휴면보험금 등 관련 예산의 편성 및 결산에 관한 사항3. 휴면보험금 찾아주기 사업의 실시에 관한 사항4. 미지급된 휴면보험금의 송출국가 이전, 기여 등에 관한 사항5. 휴면보험금 등의 운용 수익금을 통한 외국인근로자에 대한 복지사업6. 그 밖에 휴면보험금 등을 활용한 피보험자 등을 위한 사업7. 보험ㆍ신탁사업자로부터 휴면보험금 등의 인수ㆍ관리ㆍ운용에 관한 사항8. 그 밖에 휴면보험금 등의 관리ㆍ운용과 관련된 사항으로서 위원장이 필요하다고 인정하여 회의에 회부하는 사항",
+        "content": "제4조(위원회의 기능) ① 위원회는 다음 각 호의 사항에 대하여 심의ㆍ의결한다.1. 이전받은 휴면보험금 등 관련 사업계획의 수립ㆍ변경에 관한 사항2. 휴면보험금 등 관련 예산의 편성 및 결산에 관한 사항3. 휴면보험금 찾아주기 사업의 실시에 관한 사항4. 미지급된 휴면보험금의 송출국가 지원, 기여 등에 관한 사항 <개정 2024. 9. 30.>5. 휴면보험금 등의 운용 수익금을 통한 외국인근로자에 대한 복지사업6. 그 밖에 휴면보험금 등을 활용한 피보험자 등을 위한 사업7. <삭제 2024. 9. 30.>8. 그 밖에 휴면보험금 등의 관리ㆍ운용과 관련된 사항으로서 위원장이 필요하다고 인정하여 회의에 회부하는 사항",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -222,39 +210,9 @@
         "article_title": "위원회 구성",
         "chapter": "제2장 휴면보험금 등 관리위원회",
         "chapter_path": "제2장 휴면보험금 등 관리위원회",
-        "content": "제5조(위원회 구성) ① 위원회는 위원장 1명을 포함하여 15명 이내의 위원으로 구성한다.② 위원장은 공단 이사장으로 하고, 위원장이 부득이한 사유로 직무를 수행할 수 없을 때에는 위원 중에서 호선된 위원이 회의주재 등 위원장의 직무를 대행한다.③ 위원장은 위원회를 대표하고 위원회의 업무를 총괄한다.④ 위원은 총 연합단체인 노동조합에서 추천한 사람 2명, 전국적 규모를 갖춘 사용자단체에서 추천한 사람 2명과 다음 각 호의 사람 중에서 공단 이사장이 위촉하며 추천 및 당연직을 제외한 민간위원은 위원수의 3배수 이상 위원후보군(Pool)을 구성하여 선정한다.1. 외국인근로자의 고용 및 권익보호나 법률ㆍ회계에 관한 학식과 경험이 풍부한 사람2. 고용노동부에서 외국인근로자 고용 업무를 담당하는 4급 이상의 공무원3. 공단의 임원 또는 외국인근로자 고용 업무를 담당하는 사업본부의 장⑤ 위원회의 심의ㆍ의결 과정에 이해당사자가 개입할 가능성을 최소화하기 위하여 위원으로 위촉된 외부전문가는 위촉 시 별지 제1호서식에 따른 직무윤리 사전진단서 및 별지 제2호서식에 따른 서약서를 제출하여야 한다.⑥ 다음 각 호에 해당하는 자는 위원회의 위원선정에서 배제한다.1. 재직 또는 활동 중 금품ㆍ향응수수, 배임ㆍ횡령 등 부패에 연루된 경우 <개정 2022. 7. 22.>2. 위촉 시 경력, 학력 또는 「부패방지 및 국민권익위원회의 설치와 운영에 관한 법률」 제2조제4호에 따른 부패행위 전력을 거짓으로 제출한 경우",
+        "content": "제5조(위원회 구성) ① 위원회는 위원장 1명을 포함하여 15명 이내의 위원으로 구성한다.② 위원장은 공단 이사장으로 하고, 위원장이 부득이한 사유로 직무를 수행할 수 없을 때에는 위원 중에서 호선된 위원이 회의주재 등 위원장의 직무를 대행한다.③ 위원장은 위원회를 대표하고 위원회의 업무를 총괄한다.④ 위원은 다음 각 호의 사람을 위촉하거나 임명하는 사람으로 한다. 다만, 민간위원은 민간 위원수의 3배수 이상 위원후보군(Pool)을 구성하여 선정한다. <개정 2024. 9. 30.>1. 외국인근로자의 고용 및 권익보호나 법률ㆍ회계 등에 관한 학식과 경험이 풍부한 사람 <개정 2026. 6. 1.>2. 고용노동부에서 외국인근로자 고용 업무를 담당하는 4급 이상의 공무원3. 공단의 임원 또는 외국인근로자 고용 업무를 담당하는 사업본부의 장4. 총 연합단체인 노동조합에서 추천한 사람으로서 공단 이사장이 위촉하는 사람 2명5. 전국적 규모를 갖춘 사용자단체에서 추천한 사람으로서 공단 이사장이 위촉하는 사람 2명⑤ 위원회의 심의ㆍ의결 과정에 이해당사자가 개입할 가능성을 최소화하기 위하여 위원으로 위촉된 외부전문가는 위촉 시 별지 제2호서식에 따른 서약서 및 별지 제8호서식에 따른 이해충돌 방지 사전진단서를 제출여야 한다. <개정 2024. 9. 30.>⑥ 다음 각 호에 해당하는 자는 위원회의 위원선정에서 배제한다.1. 재직 또는 활동 중 금품ㆍ향응수수, 배임ㆍ횡령 등 부패에 연루된 경우 <개정 2022. 7. 22.>2. 위촉 시 경력, 학력 또는 「부패방지 및 국민권익위원회의 설치와 운영에 관한 법률」 제2조제4호에 따른 부패행위 전력을 거짓으로 제출한 경우",
         "enforcement_date": "",
         "relations": [
-          {
-            "relation_type": "appendix_ref",
-            "delegation_type": null,
-            "target_category": "학칙공단",
-            "source_article_no": "제5조",
-            "source_clause": "제5조제5항",
-            "link_text": "별지 제1호서식",
-            "line_text": "",
-            "target_law_name": "(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정",
-            "target_article_no": "별지1",
-            "target_article_title": "직무윤리 사전진단서",
-            "appendix_no": "1",
-            "appendix_branch": "",
-            "appendix_kind": "별지",
-            "appendix_found": true,
-            "target_mst": "",
-            "source_admrul_seq": "2115779",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157495479",
-            "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:(한국산업인력공단)외국인근로자휴면보험금등관리위원회운영규정#JO0005",
-            "target_unit": "BJ0001",
-            "reference_id": "SchlPubRul:(한국산업인력공단)외국인근로자휴면보험금등관리위원회운영규정#BJ0001",
-            "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정/(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정.json",
-            "target_git_path": "(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정/(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정.json",
-            "target_git_file_path": "(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정/별지/별지1_직무윤리 사전진단서.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
-          },
           {
             "relation_type": "appendix_ref",
             "delegation_type": null,
@@ -272,18 +230,38 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2115779",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157495485",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171338191",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국산업인력공단)외국인근로자휴면보험금등관리위원회운영규정#JO0005",
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(한국산업인력공단)외국인근로자휴면보험금등관리위원회운영규정#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정/(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정.json",
-            "target_git_path": "(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정/(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정.json",
-            "target_git_file_path": "(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정/별지/별지2_청렴서약서.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정/(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정.json"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제5항",
+            "link_text": "별지 제8호서식",
+            "line_text": "",
+            "target_law_name": "(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정",
+            "target_article_no": "별지8",
+            "target_article_title": "이해충돌 방지 사전진단서",
+            "appendix_no": "8",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2115779",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171338779",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(한국산업인력공단)외국인근로자휴면보험금등관리위원회운영규정#JO0005",
+            "target_unit": "BJ0008",
+            "reference_id": "SchlPubRul:(한국산업인력공단)외국인근로자휴면보험금등관리위원회운영규정#BJ0008",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정/(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정.json"
           },
           {
             "relation_type": "citation",
@@ -303,9 +281,7 @@
             "source_provision_id": "SchlPubRul:(한국산업인력공단)외국인근로자휴면보험금등관리위원회운영규정#JO0005",
             "reference_id": "law:부패방지및국민권익위원회의설치와운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
-            "target_git_path": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -325,9 +301,7 @@
             "source_provision_id": "SchlPubRul:(한국산업인력공단)외국인근로자휴면보험금등관리위원회운영규정#JO0005",
             "reference_id": "law:부패방지및국민권익위원회의설치와운영에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
-            "target_git_path": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json"
           }
         ],
         "images": [],
@@ -370,11 +344,7 @@
             "source_provision_id": "SchlPubRul:(한국산업인력공단)외국인근로자휴면보험금등관리위원회운영규정#JO0006",
             "reference_id": "SchlPubRul:(한국산업인력공단)외국인근로자휴면보험금등관리위원회운영규정#JO0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정/(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정.json",
-            "target_git_path": "(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정/(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정/(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정.json"
           }
         ],
         "images": [],
@@ -416,18 +386,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2115779",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157495489",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171338195",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국산업인력공단)외국인근로자휴면보험금등관리위원회운영규정#JO0008",
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:(한국산업인력공단)외국인근로자휴면보험금등관리위원회운영규정#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정/(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정.json",
-            "target_git_path": "(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정/(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정.json",
-            "target_git_file_path": "(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정/별지/별지3_안건.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정/(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -446,18 +411,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2115779",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157495495",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171338201",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국산업인력공단)외국인근로자휴면보험금등관리위원회운영규정#JO0008",
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:(한국산업인력공단)외국인근로자휴면보험금등관리위원회운영규정#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정/(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정.json",
-            "target_git_path": "(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정/(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정.json",
-            "target_git_file_path": "(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정/별지/별지4_휴면보험금 등 관리위원회 서면결의서.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정/(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정.json"
           }
         ],
         "images": [],
@@ -468,7 +428,7 @@
         "article_title": "위원의 제척ㆍ기피ㆍ회피",
         "chapter": "제2장 휴면보험금 등 관리위원회",
         "chapter_path": "제2장 휴면보험금 등 관리위원회",
-        "content": "제9조(위원의 제척ㆍ기피ㆍ회피) ① 위원회의 위원은 다음 각 호의 어느 하나에 해당하는 경우에는 그 안건의 심의ㆍ의결에서 제척된다.1. 위원 또는 그 배우자나 배우자였던 자가 그 안건의 당사자가 되거나 그 안건에 관하여 공동권리자 또는 의무자의 관계에 있는 경우2. 위원이 그 안건의 당사자와 「민법」 제777조에 따른 친족이거나 친족이었던 경우3. 당해 위원회 운영관련 용역, 자문, 연구 등을 수행한 경우4. 당해 위원으로 활동관련 이해 당사자가 되는 경우5. 감독부처 소관 공무원. 다만 관련 법령에 명시가 되어 있거나 공단운영 및 사업추진관련 합리적이고 타당한 사유가 있을 경우 그러하지 아니하다.6. 한 명이 여러 위원회에 중복되어 위촉되는 경우. 다만 업무관련성이 없는 위원회의 경우는 적용하지 아니한다.7. 기타 공정한 심의를 수행할 수 없다고 판단되는 자② 당사자는 위원에게 심리ㆍ의결의 공정을 기대하기 어려운 사정이 있는 경우에는 기피신청을 할 수 있다.③ 위원이 제1항이나 제2항의 사유에 해당하고, 스스로 그 안건의 심리ㆍ의결을 회피하지 않을 경우 위원장이 직권으로 해촉할 수 있다.④ 안건의 심의ㆍ의결에 관한 업무에 관여하는 위원 아닌 직원에게도 제1항부터 제3항까지의 규정을 준용한다.⑤ 위원이 1항에 따라 해당 안건에 대하여 회피를 하여야 함에도 회피를 하지 않고 심의ㆍ의결을 하였을 경우에는 그 의결을 무효로 처리한다.",
+        "content": "제9조(위원의 제척ㆍ기피ㆍ회피) ① 위원회의 위원은 다음 각 호의 어느 하나에 해당하는 경우에는 그 안건의 심의ㆍ의결에서 제척된다.1. 위원 또는 그 배우자나 배우자였던 자가 그 안건의 당사자가 되거나 그 안건에 관하여 공동권리자 또는 의무자의 관계에 있는 경우2. 위원이 그 안건의 당사자와 「민법」 제777조에 따른 친족이거나 친족이었던 경우3. 당해 위원회 운영 관련 용역, 자문, 연구 등을 수행한 경우4. 당해 위원으로 활동 관련 이해 당사자가 되는 경우5. 최근 2년 이내에 당해 평가 또는 심의 대상 업체에 재직한 경우 <개정 2024. 9. 30.>6. 감독부처 소관 공무원. 다만 관련 법령에 명시가 되어 있거나 공단운영 및 사업추진관련 합리적이고 타당한 사유가 있을 경우 그러하지 아니하다.7. 당해 기관 또는 심의대상 기관에서 발주하는 위원회 직무 관련 용역ㆍ공사 등에 수의계약에 의한 방식 참여 <개정 2024. 9. 30.>8. 한 명이 여러 위원회에 중복되어 위촉되는 경우. 다만 업무관련성이 없는 위원회의 경우는 적용하지 아니한다.9. 기타 공정한 심의를 수행할 수 없다고 판단되는 자② 당사자는 위원에게 심리ㆍ의결의 공정을 기대하기 어려운 사정이 있는 경우에는 기피신청을 할 수 있다.③ 위원이 제1항이나 제2항의 사유에 해당하고, 스스로 그 안건의 심리ㆍ의결을 회피하지 않을 경우 위원장이 직권으로 해촉할 수 있다.④ 안건의 심의ㆍ의결에 관한 업무에 관여하는 위원 아닌 직원에게도 제1항부터 제3항까지의 규정을 준용한다.⑤ 위원이 1항에 따라 해당 안건에 대하여 회피를 하여야 함에도 회피를 하지 않고 심의ㆍ의결을 하였을 경우에는 그 의결을 무효로 처리한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -489,9 +449,7 @@
             "source_provision_id": "SchlPubRul:(한국산업인력공단)외국인근로자휴면보험금등관리위원회운영규정#JO0009",
             "reference_id": "law:민법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json",
-            "target_git_path": "민법/법률/민법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "민법/법률/민법.json"
           },
           {
             "relation_type": "citation",
@@ -511,9 +469,7 @@
             "source_provision_id": "SchlPubRul:(한국산업인력공단)외국인근로자휴면보험금등관리위원회운영규정#JO0009",
             "reference_id": "law:민법#JO0777",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json",
-            "target_git_path": "민법/법률/민법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "민법/법률/민법.json"
           }
         ],
         "images": [],
@@ -544,18 +500,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2115779",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157495499",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171338205",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국산업인력공단)외국인근로자휴면보험금등관리위원회운영규정#JO0010",
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:(한국산업인력공단)외국인근로자휴면보험금등관리위원회운영규정#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정/(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정.json",
-            "target_git_path": "(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정/(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정.json",
-            "target_git_file_path": "(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정/별지/별지5_위임장.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정/(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정.json"
           }
         ],
         "images": [],
@@ -586,18 +537,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2115779",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157495503",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171338209",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국산업인력공단)외국인근로자휴면보험금등관리위원회운영규정#JO0011",
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:(한국산업인력공단)외국인근로자휴면보험금등관리위원회운영규정#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정/(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정.json",
-            "target_git_path": "(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정/(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정.json",
-            "target_git_file_path": "(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정/별지/별지6_휴면보험금 등 관리위원회 회의록.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정/(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정.json"
           }
         ],
         "images": [],
@@ -639,18 +585,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2115779",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157495509",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171338215",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국산업인력공단)외국인근로자휴면보험금등관리위원회운영규정#JO0013",
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:(한국산업인력공단)외국인근로자휴면보험금등관리위원회운영규정#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정/(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정.json",
-            "target_git_path": "(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정/(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정.json",
-            "target_git_file_path": "(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정/별지/별지7_수당지급명세서.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정/(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정.json"
           }
         ],
         "images": [],
@@ -694,56 +635,88 @@
         "article_title": "휴면보험금 등의 관리ㆍ운용",
         "chapter": "제3장 사업 수행",
         "chapter_path": "제3장 사업 수행",
-        "content": "제17조(휴면보험금 등의 관리ㆍ운용) ① 공단은 휴면보험금 등을 다음과 같은 원리금보장 방법으로 운용하여야 한다.1. 신용등급 등에 관하여 금융위원회가 정하여 고시하는 기준 이상의 금융기관이 제공하는 다음 각 목의 운용방법가. 은행법 제2조제1항제2호에 따른 은행이 취급하는 예금ㆍ적금나. 보험업법 제2조제6호에 따른 보험회사가 취급하는 보험계약으로서 휴면보험금 등의 최저 이자율을 보증하는 등의 형태로 원리금 지급을 보장하는 보험계약2. 우체국예금ㆍ보험에 관한 법률에 따라 해당기관이 취급하는 예금3. 그 밖에 원리금 상환이 보장되는 운용방법으로서 금융위원회가 정하여 고시하는 운용방법② 공단은 자금관리의 전문성, 효율성을 위해 전담 은행사를 선정하여 제1항의 휴면보험금 등의 관리ㆍ운용을 위탁할 수 있다.③ 공단은 선량한 관리자의 주의의무로 자산을 관리ㆍ운용하여야 한다.",
+        "content": "제17조(휴면보험금 등의 관리ㆍ운용) ① 공단은 휴면보험금 등을 다음과 같은 원리금보장 방법으로 운용하여야 한다.1. 신용등급 등에 관하여 금융위원회가 정하여 고시하는 기준 이상의 금융기관이 제공하는 다음 각 목의 운용방법가. 「은행법」 제2조제1항제2호에 따른 은행이 취급하는 예금ㆍ적금나. 「보험업법」 제2조제6호에 따른 보험회사가 취급하는 보험계약으로서 휴면보험금 등의 최저 이자율을 보증하는 등의 형태로 원리금 지급을 보장하는 보험계약2. 우체국예금ㆍ보험에 관한 법률에 따라 해당기관이 취급하는 예금3. 그 밖에 원리금 상환이 보장되는 운용방법으로서 금융위원회가 정하여 고시하는 운용방법② 공단은 자금관리의 전문성, 효율성을 위해 전담 은행사를 선정하여 제1항의 휴면보험금 등의 관리ㆍ운용을 위탁할 수 있다.③ 공단은 선량한 관리자의 주의의무로 자산을 관리ㆍ운용하여야 한다.",
         "enforcement_date": "",
         "relations": [
           {
-            "relation_type": "internal_ref",
+            "relation_type": "citation",
             "delegation_type": null,
-            "target_category": "학칙공단",
+            "target_category": "법령",
+            "source_article_no": "제17조",
+            "source_clause": "제17조제1항",
+            "link_text": "「은행법」",
+            "line_text": "",
+            "target_law_name": "은행법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2115779",
+            "target_url": "https://www.law.go.kr/법령/은행법",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(한국산업인력공단)외국인근로자휴면보험금등관리위원회운영규정#JO0017",
+            "reference_id": "law:은행법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "은행법/법률/은행법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
             "source_article_no": "제17조",
             "source_clause": "제17조제1항",
             "link_text": "제2조제1항제2호",
             "line_text": "",
-            "target_law_name": "(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정",
+            "target_law_name": "은행법",
             "target_article_no": "제2조",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "2115779",
-            "target_url": "https://www.law.go.kr/학칙공단/(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정/제2조",
+            "target_url": "https://www.law.go.kr/법령/은행법/제2조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국산업인력공단)외국인근로자휴면보험금등관리위원회운영규정#JO0017",
-            "reference_id": "SchlPubRul:(한국산업인력공단)외국인근로자휴면보험금등관리위원회운영규정#JO0002",
-            "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정/(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정.json",
-            "target_git_path": "(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정/(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "reference_id": "law:은행법#JO0002",
+            "target_repo": "LAW",
+            "target_git_path_guess": "은행법/법률/은행법.json"
           },
           {
-            "relation_type": "internal_ref",
+            "relation_type": "citation",
             "delegation_type": null,
-            "target_category": "학칙공단",
+            "target_category": "법령",
+            "source_article_no": "제17조",
+            "source_clause": "제17조제1항",
+            "link_text": "「보험업법」",
+            "line_text": "",
+            "target_law_name": "보험업법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2115779",
+            "target_url": "https://www.law.go.kr/법령/보험업법",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(한국산업인력공단)외국인근로자휴면보험금등관리위원회운영규정#JO0017",
+            "reference_id": "law:보험업법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "보험업법/법률/보험업법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
             "source_article_no": "제17조",
             "source_clause": "제17조제1항",
             "link_text": "제2조제6호",
             "line_text": "",
-            "target_law_name": "(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정",
+            "target_law_name": "보험업법",
             "target_article_no": "제2조",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "2115779",
-            "target_url": "https://www.law.go.kr/학칙공단/(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정/제2조",
+            "target_url": "https://www.law.go.kr/법령/보험업법/제2조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국산업인력공단)외국인근로자휴면보험금등관리위원회운영규정#JO0017",
-            "reference_id": "SchlPubRul:(한국산업인력공단)외국인근로자휴면보험금등관리위원회운영규정#JO0002",
-            "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정/(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정.json",
-            "target_git_path": "(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정/(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "reference_id": "law:보험업법#JO0002",
+            "target_repo": "LAW",
+            "target_git_path_guess": "보험업법/법률/보험업법.json"
           }
         ],
         "images": [],
@@ -754,7 +727,7 @@
         "article_title": "사업계획서 등의 제출",
         "chapter": "제3장 사업 수행",
         "chapter_path": "제3장 사업 수행",
-        "content": "제18조(사업계획서 등의 제출) ① 공단은 사업연도별 사업계획서 및 예산서를 12월 말일까지 위원회에 제출하여야 한다. 다만 부득이한 경우 제출기한을 연기할 수 있다.② 공단은 다음 각호의 내용이 포함된 결산서를 공인회계사나 회계법인의 감사를 받아 차기 사업연도 3월 말일까지 위원회에 제출하여야 한다. <개정 2022. 7. 22.>1. 재무제표(공인회계사나 회계법인의 감사보고서를 포함한다) 및 그 부속서류 <개정 2022. 7. 22.>2. 삭제 <2022. 7. 22.>3. 삭제 <2022. 7. 22.>4. 그 밖에 결산의 내용을 명백히 하는 데에 필요한 서류",
+        "content": "제18조(사업계획서 등의 제출) ① 공단은 사업연도별 사업계획서 및 예산서를 사업연도 3월 말일까지 위원회에 제출하여야 한다. 다만 부득이한 경우 제출기한을 연기할 수 있다. <개정 2024. 9. 30.>② 공단은 다음 각호의 내용이 포함된 결산서를 공인회계사나 회계법인의 감사를 받아 차기 사업연도 3월 말일까지 위원회에 제출하여야 한다. <개정 2022. 7. 22.>1. 재무제표(공인회계사나 회계법인의 감사보고서를 포함한다) 및 그 부속서류 <개정 2022. 7. 22.>2. <삭제 2022. 7. 22.>3. <삭제 2022. 7. 22.>4. 그 밖에 결산의 내용을 명백히 하는 데에 필요한 서류",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -797,11 +770,7 @@
             "source_provision_id": "SchlPubRul:(한국산업인력공단)외국인근로자휴면보험금등관리위원회운영규정#JO0020",
             "reference_id": "SchlPubRul:(한국산업인력공단)외국인근로자휴면보험금등관리위원회운영규정#JO0015",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정/(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정.json",
-            "target_git_path": "(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정/(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정/(한국산업인력공단) 외국인근로자 휴면보험금 등 관리위원회 운영규정.json"
           }
         ],
         "images": [],
@@ -844,26 +813,59 @@
   },
   "addenda": [
     {
+      "promulgation_date": "20140828",
+      "promulgation_no": "9999",
+      "content": "부칙 <제9999호, 2014.08.28.>제1조(시행일) 이 규정은 위원회의 의결을 거쳐 공단 이사장이 결재한 날로부터 시행한다.제2조(경과조치) 이 규정 시행 이전에 시행된 위원 등의 임명, 휴면보험금 등의 인수, 자산운용 등 외국인근로자 휴면보험금 등 관리위원회와 관련하여 이루어진 행위는 이 규정에 의해 시행된 것으로 본다.",
+      "provision_id": "SchlPubRul:(한국산업인력공단)외국인근로자휴면보험금등관리위원회운영규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000161615",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260601"
+    },
+    {
       "promulgation_date": "20190709",
       "promulgation_no": "9999",
       "content": "부칙 <제9999호, 2019.07.09.>제1조(시행일) 이 규정은 위원회의 의결을 거쳐 공단 이사장이 결재한 날로부터 시행한다.",
       "provision_id": "SchlPubRul:(한국산업인력공단)외국인근로자휴면보험금등관리위원회운영규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000091913",
+      "source_mst": "2200000161615",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20220722"
+      "version_enforcement_date": "20260601"
     },
     {
       "promulgation_date": "20220722",
       "promulgation_no": "9999",
-      "content": "부칙 <제9999호, 2022.07.22.>제1조(시행일) 이 규정은 위원회의 의결을 거쳐 공단 이사장이 결재한 날(’22. 7. 22. )로부터 시행한다.",
+      "content": "부칙 <제9999호, 2022.07.22.>제1조(시행일) 이 규정은 위원회의 의결을 거쳐 공단 이사장이 결재한 날(2022. 7. 22.)로부터 시행한다.",
       "provision_id": "SchlPubRul:(한국산업인력공단)외국인근로자휴면보험금등관리위원회운영규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000091913",
+      "source_mst": "2200000161615",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20220722"
+      "version_enforcement_date": "20260601"
+    },
+    {
+      "promulgation_date": "20240930",
+      "promulgation_no": "9999",
+      "content": "부칙 <제9999호, 2024.09.30.>제1조(시행일) 이 규정은 위원회의 의결을 거쳐 공단 이사장이 결재한 날(2024. 9. 30.)로부터 시행한다.",
+      "provision_id": "SchlPubRul:(한국산업인력공단)외국인근로자휴면보험금등관리위원회운영규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000161615",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260601"
+    },
+    {
+      "promulgation_date": "20260601",
+      "promulgation_no": "9999",
+      "content": "부칙 <제9999호, 2026.06.01.>제1조(시행일) 이 규정은 위원회의 의결을 거쳐 공단 이사장이 결재한 날(2026. 6. 1.)로부터 시행한다.",
+      "provision_id": "SchlPubRul:(한국산업인력공단)외국인근로자휴면보험금등관리위원회운영규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000161615",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260601"
     }
   ],
   "appendices": [
@@ -876,11 +878,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157495475",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171338783",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157495475",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171338783",
           "name": "",
           "file_store_url": ""
         }
@@ -896,25 +898,25 @@
       "no": "0001",
       "branch": "00",
       "kind": "별지",
-      "title": "직무윤리 사전진단서",
+      "title": "삭제",
       "enforcement_date": "",
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157495479",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171338187",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157495479",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171338187",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "SchlPubRul:(한국산업인력공단)외국인근로자휴면보험금등관리위원회운영규정#BJ0001",
-      "filename": "별지1_직무윤리 사전진단서.hwp",
+      "filename": "별지1_삭제.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지1_직무윤리 사전진단서.hwp",
+      "local_path": "별지/별지1_삭제.hwp",
       "file_store_url": ""
     },
     {
@@ -926,11 +928,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157495485",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171338191",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157495485",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171338191",
           "name": "",
           "file_store_url": ""
         }
@@ -951,11 +953,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157495489",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171338195",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157495489",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171338195",
           "name": "",
           "file_store_url": ""
         }
@@ -976,11 +978,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157495495",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171338201",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157495495",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171338201",
           "name": "",
           "file_store_url": ""
         }
@@ -1001,11 +1003,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157495499",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171338205",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157495499",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171338205",
           "name": "",
           "file_store_url": ""
         }
@@ -1026,11 +1028,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157495503",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171338209",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157495503",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171338209",
           "name": "",
           "file_store_url": ""
         }
@@ -1051,11 +1053,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157495509",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171338215",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157495509",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171338215",
           "name": "",
           "file_store_url": ""
         }
@@ -1066,28 +1068,53 @@
       "file_dir": "별지",
       "local_path": "별지/별지7_수당지급명세서.hwp",
       "file_store_url": ""
+    },
+    {
+      "no": "0008",
+      "branch": "00",
+      "kind": "별지",
+      "title": "이해충돌 방지 사전진단서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171338779",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171338779",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:(한국산업인력공단)외국인근로자휴면보험금등관리위원회운영규정#BJ0008",
+      "filename": "별지8_이해충돌 방지 사전진단서.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지8_이해충돌 방지 사전진단서.hwp",
+      "file_store_url": ""
     }
   ],
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 21,
+    "relations_total": 23,
     "by_category": {
-      "법령": 10,
-      "학칙공단": 11
+      "법령": 14,
+      "학칙공단": 9
     },
     "by_relation_type": {
-      "citation": 10,
+      "citation": 14,
       "appendix_ref": 7,
-      "internal_ref": 4
+      "internal_ref": 2
     },
     "articles_total": 24,
     "articles_with_relations": 11,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 2,
-    "appendices_count": 8,
+    "addenda_count": 5,
+    "appendices_count": 9,
     "attachments_count": 0
   },
   "source": {
