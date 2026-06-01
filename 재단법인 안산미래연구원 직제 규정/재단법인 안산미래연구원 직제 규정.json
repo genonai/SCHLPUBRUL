@@ -1,37 +1,37 @@
 {
   "law_id": "2139489",
-  "mst": "2200000149545",
+  "mst": "2200000155827",
   "law_name": "재단법인 안산미래연구원 직제 규정",
   "law_abbr": "",
   "law_type": "공단규정",
   "doc_target": "public",
   "doc_kind": "공공기관",
   "adm_uid": "public:2139489",
-  "promulgation_no": "23",
-  "promulgation_date": "20251031",
-  "enforcement_date": "20251031",
-  "revision_date": "20251031",
+  "promulgation_no": "26",
+  "promulgation_date": "20260601",
+  "enforcement_date": "20260601",
+  "revision_date": "20260601",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "재단법인안산미래연구원",
-    "담당자명": "이미령",
+    "담당자명": "김종현",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "재단법인 안산미래연구원 직제 규정",
-    "발령일자": "20251031",
+    "발령일자": "20260601",
     "행정규칙종류": "공단규정",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
     "소관부처명": "재단법인안산미래연구원",
-    "전화번호": "031-418-6304",
+    "전화번호": "031-418-6309",
     "제개정구분명": "일부개정",
     "소관부처코드": "B555315",
     "생성일자": "20260602",
     "행정규칙ID": "2139489",
-    "담당부서기관코드": "B555315",
-    "발령번호": "23",
-    "행정규칙일련번호": "2200000149545"
+    "담당부서기관코드": "",
+    "발령번호": "26",
+    "행정규칙일련번호": "2200000155827"
   },
   "amendment_text": "",
   "revision_reason": "",
@@ -77,9 +77,35 @@
         "article_title": "조직",
         "chapter": "",
         "chapter_path": "",
-        "content": "제4조(조직) ① 연구원의 조직은  [별표 1]과 같다.② 기획경영실장은 실장은 행정 4급 이상, 각 연구실장은 연구위원급 이상 중에서, 경영지원·연구기획부장은 행정 6급 이상, 연구위원급 이상으로 보한다. <개정 2025. 6. 26.> <개정 2025. 10. 31.>③ 제1항에도 불구하고 원장은 업무수행을 위해 한시적으로 TF 등 임시조직을 구성·운영할 수 있으며, 운영에 필요한 사항은 원장이 따로 정한다.④ 부서별 사무분장은 원장이 규칙으로 정한다.",
+        "content": "제4조(조직) ① 연구원의 조직은 [별표 1]과 같다.② 기획경영실장은 실장은 행정 4급 이상, 각 연구실장은 연구위원급 이상 중에서, 경영지원·연구기획부장은 행정 6급 이상, 연구위원급 이상으로 보한다. <개정 2025. 6. 26.> <개정 2025. 10. 31.>③ 제1항에도 불구하고 원장은 업무수행을 위해 한시적으로 TF 등 임시조직을 구성·운영할 수 있으며, 운영에 필요한 사항은 원장이 따로 정한다.④ 부서별 사무분장은 원장이 규칙으로 정한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제1항",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "재단법인 안산미래연구원 직제 규정",
+            "target_article_no": "별표1",
+            "target_article_title": "조직도",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2139489",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000155827&bylNo=0001&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:재단법인안산미래연구원직제규정#JO0004",
+            "target_unit": "BYL0001",
+            "reference_id": "SchlPubRul:재단법인안산미래연구원직제규정#BYL0001",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "재단법인 안산미래연구원 직제 규정/재단법인 안산미래연구원 직제 규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:재단법인안산미래연구원직제규정#JO0004"
       },
@@ -90,7 +116,33 @@
         "chapter_path": "",
         "content": "제5조(직급 및 정원) ① 직원은 연구직, 행정직으로 구분한다.② 직원의 직종·직급별 정원은 [별표 2]와 같고, 각 부서별 정원은 총정원 범위 내에서 원장이 정한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제2항",
+            "link_text": "별표 2",
+            "line_text": "",
+            "target_law_name": "재단법인 안산미래연구원 직제 규정",
+            "target_article_no": "별표2",
+            "target_article_title": "직급 및 정원표",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2139489",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000155827&bylNo=0002&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:재단법인안산미래연구원직제규정#JO0005",
+            "target_unit": "BYL0002",
+            "reference_id": "SchlPubRul:재단법인안산미래연구원직제규정#BYL0002",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "재단법인 안산미래연구원 직제 규정/재단법인 안산미래연구원 직제 규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:재단법인안산미래연구원직제규정#JO0005"
       },
@@ -154,7 +206,7 @@
         "article_title": "겸직",
         "chapter": "",
         "chapter_path": "",
-        "content": "제11조(겸직) 원장은 필요에 따라 직원의 겸직을 명할 수 있다.",
+        "content": "제11조(겸직) 원장은 필요에 따라 직원의 겸직을 명할 수 있다.나. 주요시책·사업의 기본방향 결정다. 주요업무계획의 조정라. 대내외 주요 의사 결정 사항2. 실장의 결재사항 <개정 2025. 10. 31.>가. 세부계획의 수립 및 집행나. 소관업무에 관련된 수집·조사·연구다. 소관업무의 진도 파악 및 관리라. 법령이나 규정에 따른 신고·접수·처리",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -167,36 +219,111 @@
       "promulgation_date": "20250326",
       "promulgation_no": "00002",
       "content": "부   칙 <제2호, 2025.3.26>제1조 (시행일) 이 규정은 연구원 설립일부터 시행한다.제2조 (경과조치) 이 규정 시행 전의 방침에 의하여 시행된 사항은 이 규정에 의하여 시행된 것으로 본다.",
-      "provision_id": "SchlPubRul:재단법인안산미래연구원직제규정#ADDENDUM"
+      "provision_id": "SchlPubRul:재단법인안산미래연구원직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000155827",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260601"
     },
     {
       "promulgation_date": "20250626",
       "promulgation_no": "00016",
       "content": "부   칙 <제16호, 2025.6.26>제1조(시행일) 이 규정은 공포한 날부터 시행한다.",
-      "provision_id": "SchlPubRul:재단법인안산미래연구원직제규정#ADDENDUM"
+      "provision_id": "SchlPubRul:재단법인안산미래연구원직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000155827",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260601"
     },
     {
       "promulgation_date": "20250806",
       "promulgation_no": "00021",
       "content": "부   칙 <제21호, 2025.8.6>제1조 (시행일) 이 규정은 발령한 날부터 시행한다.",
-      "provision_id": "SchlPubRul:재단법인안산미래연구원직제규정#ADDENDUM"
+      "provision_id": "SchlPubRul:재단법인안산미래연구원직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000155827",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260601"
     },
     {
       "promulgation_date": "20251031",
       "promulgation_no": "00023",
       "content": "부   칙 <제23호, 2025.10.31.>제1조 (시행일) 이 규정은 발령한 날부터 시행한다.",
-      "provision_id": "SchlPubRul:재단법인안산미래연구원직제규정#ADDENDUM"
+      "provision_id": "SchlPubRul:재단법인안산미래연구원직제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000155827",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260601"
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "조직도",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000155827&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164699083",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164699083",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:재단법인안산미래연구원직제규정#BYL0001",
+      "filename": "별표1_조직도.hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표1_조직도.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "직급 및 정원표",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000155827&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164699087",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164699087",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:재단법인안산미래연구원직제규정#BYL0002",
+      "filename": "별표2_직급 및 정원표.hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표2_직급 및 정원표.hwp",
+      "file_store_url": ""
+    }
+  ],
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 2,
+    "by_category": {
+      "학칙공단": 2
+    },
+    "by_relation_type": {
+      "appendix_ref": 2
+    },
     "articles_total": 11,
-    "articles_with_relations": 0,
+    "articles_with_relations": 2,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
@@ -211,5 +338,8 @@
   "addendum_provision_id": "SchlPubRul:재단법인안산미래연구원직제규정#ADDENDUM",
   "amendment_provision_id": "SchlPubRul:재단법인안산미래연구원직제규정#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "재단법인 안산미래연구원 직제 규정/재단법인 안산미래연구원 직제 규정.json"
 }
