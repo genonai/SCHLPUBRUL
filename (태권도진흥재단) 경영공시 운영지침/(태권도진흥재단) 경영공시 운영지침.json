@@ -1,6 +1,6 @@
 {
   "law_id": "2133403",
-  "mst": "2200000153159",
+  "mst": "2200000159317",
   "law_name": "(태권도진흥재단) 경영공시 운영지침",
   "law_abbr": "",
   "law_type": "공단규정",
@@ -8,9 +8,9 @@
   "doc_kind": "공단정관",
   "adm_uid": "pi:2133403",
   "promulgation_no": "9999",
-  "promulgation_date": "20251022",
-  "enforcement_date": "20251022",
-  "revision_date": "20251022",
+  "promulgation_date": "20260604",
+  "enforcement_date": "20260604",
+  "revision_date": "20260604",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
@@ -19,7 +19,7 @@
     "담당자명": "",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "(태권도진흥재단) 경영공시 운영지침",
-    "발령일자": "20251022",
+    "발령일자": "20260604",
     "행정규칙종류": "공단규정",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,11 +27,11 @@
     "전화번호": "063-320-0017",
     "제개정구분명": "일부개정",
     "소관부처코드": "B552570",
-    "생성일자": "20260303",
+    "생성일자": "20260826",
     "행정규칙ID": "2133403",
     "담당부서기관코드": "B552570",
     "발령번호": "9999",
-    "행정규칙일련번호": "2200000153159"
+    "행정규칙일련번호": "2200000159317"
   },
   "amendment_text": "",
   "revision_reason": "",
@@ -44,9 +44,30 @@
         "article_title": "목적",
         "chapter": "제1장 총칙",
         "chapter_path": "제1장 총칙",
-        "content": "제1조(목적) 이 지침은 공공기관의 운영에 관한 법률ㆍ시행령, 공공기관 혁신에 관한 지침 및 공공기관의 통합공시에 관한 기준에 근거하여 태권도진흥재단(이하 \"재단\"이라 한다)의 경영공시에 필요한 사항을 규정함을 목적으로 한다. <개정 2025. 10. 22.>",
+        "content": "제1조(목적) 이 지침은 「공공기관의 운영에 관한 법률ㆍ시행령」, 「공공기관의 혁신에 관한 지침」 및 공공기관의 통합공시에 관한 기준에 근거하여 태권도진흥재단(이하 \"재단\"이라 한다)의 경영공시에 필요한 사항을 규정함을 목적으로 한다. <개정 2025. 10. 22>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「공공기관의 운영에 관한 법률ㆍ시행령」",
+            "line_text": "",
+            "target_law_name": "공공기관의 운영에 관한 법률ㆍ시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2133403",
+            "target_url": "https://www.law.go.kr/법령/공공기관의 운영에 관한 법률ㆍ시행령",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(태권도진흥재단)경영공시운영지침#JO0001",
+            "reference_id": "law:공공기관의운영에관한법률시행령#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "공공기관의 운영에 관한 법률ㆍ/시행령/공공기관의 운영에 관한 법률ㆍ시행령.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:(태권도진흥재단)경영공시운영지침#JO0001"
       },
@@ -55,7 +76,7 @@
         "article_title": "적용범위",
         "chapter": "제1장 총칙",
         "chapter_path": "제1장 총칙",
-        "content": "제2조(적용범위) 경영공시에 관하여 관계 법령, 정관 또는 다른 규정(기획재정부의 지침, 기준 및 매뉴얼 포함)에 특별히 정하는 것을 제외하고는 이 지침이 정하는 바에 따른다.",
+        "content": "제2조(적용범위) 경영공시에 관하여 관계 법령, 정관 또는 다른 규정(재정경제부의 지침, 기준 및 매뉴얼 포함)에 특별히 정하는 것을 제외하고는 이 지침이 정하는 바에 따른다. <개정 2026. 06. 04.>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -66,7 +87,7 @@
         "article_title": "공시분류",
         "chapter": "제1장 총칙",
         "chapter_path": "제1장 총칙",
-        "content": "제3조(공시분류) ① \"통합공시\"는 기획재정부장관이 정한 항목을 매년 정기 또는 수시로  「공공기관 경영정보 공개시스템(이하 \"알리오\"이라 한다)」에 공시하는 제도를 말한다.② \"자율공시\"는 재단이 자율적으로 국민의 알권리 충족을 위해 제1항의 항목을 포함한 재단 경영에 대한 주요 정보를 재단 홈페이지에 공시하는 것을 말한다.",
+        "content": "제3조(공시분류) ① \"통합공시\"는 재정경제부장관이 정한 항목을 매년 정기 또는 수시로  「공공기관 경영정보 공개시스템(이하 \"알리오\"이라 한다)」에 공시하는 제도를 말한다.② \"자율공시\"는 재단이 자율적으로 국민의 알권리 충족을 위해 제1항의 항목을 포함한 재단 경영에 대한 주요 정보를 재단 홈페이지에 공시하는 것을 말한다. <개정 2026. 06. 04.>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -77,9 +98,50 @@
         "article_title": "공시 대상정보",
         "chapter": "제1장 총칙",
         "chapter_path": "제1장 총칙",
-        "content": "제4조(공시 대상정보) ① 재단은「공공기관 운영에 관한 법률」(이하 \"법률\") 제11조 제1항의 사항을 공시하여야 한다.② 경영공시는 최근 5년간의 자료를 공시하는 것을 원칙으로 한다.",
+        "content": "제4조(공시 대상정보) ① 재단은「공공기관의 운영에 관한 법률」(이하 \"법률\") 제11조 제1항의 사항을 공시하여야 한다.② 경영공시는 최근 5년간의 자료를 공시하는 것을 원칙으로 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제1항",
+            "link_text": "「공공기관의 운영에 관한 법률」",
+            "line_text": "",
+            "target_law_name": "공공기관의 운영에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2133403",
+            "target_url": "https://www.law.go.kr/법령/공공기관의 운영에 관한 법률",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(태권도진흥재단)경영공시운영지침#JO0004",
+            "reference_id": "law:공공기관의운영에관한법률#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제1항",
+            "link_text": "제11조",
+            "line_text": "",
+            "target_law_name": "공공기관의 운영에 관한 법률",
+            "target_article_no": "제11조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2133403",
+            "target_url": "https://www.law.go.kr/법령/공공기관의 운영에 관한 법률/제11조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(태권도진흥재단)경영공시운영지침#JO0004",
+            "reference_id": "law:공공기관의운영에관한법률#JO0011",
+            "target_repo": "LAW",
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:(태권도진흥재단)경영공시운영지침#JO0004"
       },
@@ -109,11 +171,7 @@
             "source_provision_id": "SchlPubRul:(태권도진흥재단)경영공시운영지침#JO0005",
             "reference_id": "SchlPubRul:(태권도진흥재단)경영공시운영지침#JO0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(태권도진흥재단) 경영공시 운영지침/(태권도진흥재단) 경영공시 운영지침.json",
-            "target_git_path": "(태권도진흥재단) 경영공시 운영지침/(태권도진흥재단) 경영공시 운영지침.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(태권도진흥재단) 경영공시 운영지침/(태권도진흥재단) 경영공시 운영지침.json"
           },
           {
             "relation_type": "citation",
@@ -133,9 +191,7 @@
             "source_provision_id": "SchlPubRul:(태권도진흥재단)경영공시운영지침#JO0005",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
-            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -155,9 +211,7 @@
             "source_provision_id": "SchlPubRul:(태권도진흥재단)경영공시운영지침#JO0005",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
-            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
           }
         ],
         "images": [],
@@ -201,7 +255,7 @@
         "article_title": "정의",
         "chapter": "제3장 불성실 공시",
         "chapter_path": "제3장 불성실 공시",
-        "content": "제9조(정의) ① \"불성실 공시\"라 함은 다음 각 호의 경우를 말한다.1. 공시불이행: 공시내용을 공시하지 않거나 공시기한을 준수하지 않은 경우2. 허위공시: 사실과 다른 경영정보를 공시하여, 외부기관(국회, 정부부처 등)으로부터 적발된 경우3. 공시변경: 오류 등으로 사실과 다른 경영정보를 공시하여, 이를 기관에서 수정한 경우② 공시 항목별 담당부서장은 제1항에 따른 불성실공시가 발생하지 않도록 주의의무를 다하여야 하며, 공시관련업무의 수행과정에서 불성실공시가 발생하거나 발생이 예상될 때에는 지체 없이 감독자에게 알리고, 정정공시를 위해 필요한 조치를 취한다.③ 감독자는 공시정보의 정확성 등에 부정적인 영향을 미칠 수 있는 불성실 공시가 빌행하지 않도록 관리하여야 한다.",
+        "content": "제9조(정의) ① \"불성실 공시\"라 함은 다음 각 호의 경우를 말한다.1. 공시불이행: 공시내용을 공시하지 않거나 공시기한을 준수하지 않은 경우2. 허위공시: 사실과 다른 경영정보를 공시하여, 외부기관(국회, 정부부처 등)으로부터 적발된 경우3. 공시변경: 오류 등으로 사실과 다른 경영정보를 공시하여, 이를 기관에서 수정한 경우② 공시 항목별 담당부서장은 제1항에 따른 불성실공시가 발생하지 않도록 주의의무를 다하여야 하며, 공시관련업무의 수행과정에서 불성실공시가 발생하거나 발생이 예상될 때에는 지체 없이 감독자에게 알리고, 정정공시를 위해 필요한 조치를 취한다.③ 감독자는 공시정보의 정확성 등에 부정적인 영향을 미칠 수 있는 불성실 공시가 발생하지 않도록 관리하여야 한다. <개정 2026. 06. 04.>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -212,7 +266,7 @@
         "article_title": "사후조치",
         "chapter": "제3장 불성실 공시",
         "chapter_path": "제3장 불성실 공시",
-        "content": "제10조(사후조치) ① 불성실 공시로 인한 기획재정부장관이 부과하는 벌점기준은 통합공시 기준 제14조 1항에 따른다.② 기획재정부장관으로부터 불성실 공시로 인한 사후조치 요청을 받은 경우, 작성자는 불성실공시 예방을 위하여별표 서식의 \"불성실공시 재발방지를 위한 개선계획서\"을 작성한 후 총괄부서에 제출하여야 한다.",
+        "content": "제10조(사후조치) ① 불성실 공시로 인한 재정경제부장관이 부과하는 벌점기준은 통합공시 기준 제14조 1항에 따른다. <개정 2026. 06. 04.>② 재정경제부장관으로부터 불성실 공시로 인한 사후조치 요청을 받은 경우, 작성자는 불성실공시 예방을 위하여【별표】서식의 \"불성실공시 재발방지를 위한 개선계획서\"을 작성한 후 총괄부서에 제출하여야 한다. <개정 2026. 06. 04.>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -223,7 +277,7 @@
         "article_title": "교육",
         "chapter": "제4장 교육",
         "chapter_path": "제4장 교육",
-        "content": "제11조(교육) 감독자는 작성자가 공시관리제도에 대해 충분히 이해하고 관련 업무를 수행할 수 있도록 다음 각 호의 조치를 취하여야 한다.1. 공시정보의 발생빈도가 높은 공시 항목별 작성자에 대하여 기획재정부에서 실시하는 경영공시에 관한 교육을 받을 수 있도록 한다.2. 공시 항목별 작성자에 대하여 기획재정부의 매뉴얼에 대한 집체교육을 실시하고, 매뉴얼 개정 시 관련 공시 항목별 작성자에 대하여 교육을 실시한다.3. 제10조의 사후조치를 받은 작성자에 대하여 특별교육을 실시할 수 있다.",
+        "content": "제11조(교육) 감독자는 작성자가 공시관리제도에 대해 충분히 이해하고 관련 업무를 수행할 수 있도록 다음 각 호의 조치를 취하여야 한다.1. 공시정보의 발생빈도가 높은 공시 항목별 작성자에 대하여 재정경제부에서 실시하는 경영공시에 관한 교육을 받을 수 있도록 한다. <개정 2026. 06. 04.>2. 공시 항목별 작성자에 대하여 재정경제부의 매뉴얼에 대한 집체교육을 실시하고, 매뉴얼 개정 시 관련 공시 항목별 작성자에 대하여 교육을 실시한다. <개정 2026. 06. 04.>3. 제10조의 사후조치를 받은 작성자에 대하여 특별교육을 실시할 수 있다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -244,11 +298,7 @@
             "source_provision_id": "SchlPubRul:(태권도진흥재단)경영공시운영지침#JO0011",
             "reference_id": "SchlPubRul:(태권도진흥재단)경영공시운영지침#JO0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(태권도진흥재단) 경영공시 운영지침/(태권도진흥재단) 경영공시 운영지침.json",
-            "target_git_path": "(태권도진흥재단) 경영공시 운영지침/(태권도진흥재단) 경영공시 운영지침.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(태권도진흥재단) 경영공시 운영지침/(태권도진흥재단) 경영공시 운영지침.json"
           }
         ],
         "images": [],
@@ -263,10 +313,10 @@
       "content": "부칙 <제9999호, 2017.05.12.>제1조(시행일) 이 지침은 이사장의 승인을 받는 날로부터 시행한다.",
       "provision_id": "SchlPubRul:(태권도진흥재단)경영공시운영지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000153159",
+      "source_mst": "2200000159317",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251022"
+      "version_enforcement_date": "20260604"
     },
     {
       "promulgation_date": "20251022",
@@ -274,10 +324,21 @@
       "content": "부칙 <제9999호, 2025.10.22.>제1조(시행일) 이 지침은 이사장의 승인을 받는 날로부터 시행한다.",
       "provision_id": "SchlPubRul:(태권도진흥재단)경영공시운영지침#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000153159",
+      "source_mst": "2200000159317",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251022"
+      "version_enforcement_date": "20260604"
+    },
+    {
+      "promulgation_date": "20260604",
+      "promulgation_no": "9999",
+      "content": "부칙 <제9999호, 2026.06.04.>제1조(시행일) 이 지침은 이사장의 승인을 받는 날로부터 시행한다.",
+      "provision_id": "SchlPubRul:(태권도진흥재단)경영공시운영지침#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000159317",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260604"
     }
   ],
   "appendices": [
@@ -290,11 +351,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162052559",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168629965",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162052559",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168629965",
           "name": "",
           "file_store_url": ""
         }
@@ -310,21 +371,21 @@
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 4,
+    "relations_total": 7,
     "by_category": {
-      "학칙공단": 2,
-      "법령": 2
+      "법령": 5,
+      "학칙공단": 2
     },
     "by_relation_type": {
-      "internal_ref": 2,
-      "citation": 2
+      "citation": 5,
+      "internal_ref": 2
     },
     "articles_total": 11,
-    "articles_with_relations": 2,
+    "articles_with_relations": 4,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 2,
+    "addenda_count": 3,
     "appendices_count": 1,
     "attachments_count": 0
   },
