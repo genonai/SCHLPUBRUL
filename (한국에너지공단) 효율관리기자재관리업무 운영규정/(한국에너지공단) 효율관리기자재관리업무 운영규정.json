@@ -1,6 +1,6 @@
 {
   "law_id": "2111731",
-  "mst": "2200000087225",
+  "mst": "2200000160919",
   "law_name": "(한국에너지공단) 효율관리기자재관리업무 운영규정",
   "law_abbr": "",
   "law_type": "공단규정",
@@ -8,10 +8,10 @@
   "doc_kind": "공단정관",
   "adm_uid": "pi:2111731",
   "promulgation_no": "9999",
-  "promulgation_date": "20161229",
-  "enforcement_date": "20170101",
-  "revision_date": "20161229",
-  "revision_type": "전부개정",
+  "promulgation_date": "20260630",
+  "enforcement_date": "20260630",
+  "revision_date": "20260630",
+  "revision_type": "타법개정",
   "is_current": true,
   "basic_info": {
     "현행여부": "Y",
@@ -19,19 +19,19 @@
     "담당자명": "권민정",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "(한국에너지공단) 효율관리기자재관리업무 운영규정",
-    "발령일자": "20161229",
+    "발령일자": "20260630",
     "행정규칙종류": "공단규정",
-    "제개정구분코드": "200402",
+    "제개정구분코드": "200409",
     "조문형식여부": "Y",
     "소관부처명": "한국에너지공단",
     "전화번호": "052-920-0215",
-    "제개정구분명": "전부개정",
+    "제개정구분명": "타법개정",
     "소관부처코드": "B553530",
-    "생성일자": "20260428",
+    "생성일자": "20261015",
     "행정규칙ID": "2111731",
     "담당부서기관코드": "B553530",
     "발령번호": "9999",
-    "행정규칙일련번호": "2200000087225"
+    "행정규칙일련번호": "2200000160919"
   },
   "amendment_text": "",
   "revision_reason": "",
@@ -44,7 +44,7 @@
         "article_title": "목적",
         "chapter": "",
         "chapter_path": "",
-        "content": "제1조(목적) 이 규정은 「에너지이용합리화법」 (이하 \"법\"이라 한다) 제15조, 제16조 및 산업통상자원부장관이 고시한 「효율관리기자재 운용규정」 (이하 \"고시\"라 한다)에 따라 한국에너지공단(이하 \"공단\"이라 한다)에서 효율관리기자재 관리업무를 효율적으로 수행하기 위하여 필요한 사항을 정함을 목적으로 한다.",
+        "content": "제1조(목적) 이 규정은 「에너지이용합리화법」(이하 \"법\"이라 한다) 제15조, 제16조 및 기후에너지환경부장관이 고시한 효율관리기자재 운용규정(이하 \"고시\"라 한다)에 따라 한국에너지공단(이하 \"공단\"이라 한다)에서 효율관리기자재 관리업무를 효율적으로 수행하기 위하여 필요한 사항을 정함을 목적으로 한다. <개정 2026. 6. 30.>",
         "enforcement_date": "",
         "relations": [
           {
@@ -65,9 +65,7 @@
             "source_provision_id": "SchlPubRul:(한국에너지공단)효율관리기자재관리업무운영규정#JO0001",
             "reference_id": "law:에너지이용합리화법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "에너지이용합리화법/법률/에너지이용합리화법.json",
-            "target_git_path": "에너지이용 합리화법/법률/에너지이용 합리화법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "에너지이용합리화법/법률/에너지이용합리화법.json"
           },
           {
             "relation_type": "citation",
@@ -87,9 +85,7 @@
             "source_provision_id": "SchlPubRul:(한국에너지공단)효율관리기자재관리업무운영규정#JO0001",
             "reference_id": "law:에너지이용합리화법#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "에너지이용합리화법/법률/에너지이용합리화법.json",
-            "target_git_path": "에너지이용 합리화법/법률/에너지이용 합리화법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "에너지이용합리화법/법률/에너지이용합리화법.json"
           },
           {
             "relation_type": "citation",
@@ -109,33 +105,7 @@
             "source_provision_id": "SchlPubRul:(한국에너지공단)효율관리기자재관리업무운영규정#JO0001",
             "reference_id": "law:에너지이용합리화법#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "에너지이용합리화법/법률/에너지이용합리화법.json",
-            "target_git_path": "에너지이용 합리화법/법률/에너지이용 합리화법.json",
-            "target_source_repository": "LAW"
-          },
-          {
-            "relation_type": "citation",
-            "delegation_type": null,
-            "target_category": "행정규칙",
-            "source_article_no": "제1조",
-            "source_clause": "제1조",
-            "link_text": "「효율관리기자재 운용규정」",
-            "line_text": "",
-            "target_law_name": "효율관리기자재 운용규정",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "",
-            "source_admrul_seq": "2111731",
-            "target_url": "https://www.law.go.kr/행정규칙/효율관리기자재 운용규정",
-            "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:(한국에너지공단)효율관리기자재관리업무운영규정#JO0001",
-            "reference_id": "admrul:효율관리기자재운용규정#DOC",
-            "target_repo": "ADMRUL",
-            "target_git_path_guess": "효율관리기자재 운용규정/효율관리기자재 운용규정.json",
-            "target_git_path": "효율관리기자재 운용규정/효율관리기자재 운용규정.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "에너지이용합리화법/법률/에너지이용합리화법.json"
           }
         ],
         "images": [],
@@ -177,18 +147,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2111731",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163868345",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170603295",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국에너지공단)효율관리기자재관리업무운영규정#JO0003",
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(한국에너지공단)효율관리기자재관리업무운영규정#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국에너지공단) 효율관리기자재관리업무 운영규정/(한국에너지공단) 효율관리기자재관리업무 운영규정.json",
-            "target_git_path": "(한국에너지공단) 효율관리기자재관리업무 운영규정/(한국에너지공단) 효율관리기자재관리업무 운영규정.json",
-            "target_git_file_path": "(한국에너지공단) 효율관리기자재관리업무 운영규정/별지/별지1_효율관리기자재등록대장.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국에너지공단) 효율관리기자재관리업무 운영규정/(한국에너지공단) 효율관리기자재관리업무 운영규정.json"
           }
         ],
         "images": [],
@@ -199,7 +164,7 @@
         "article_title": "효율관리시험기관 등 검사",
         "chapter": "",
         "chapter_path": "",
-        "content": "제4조(효율관리시험기관 등 검사) ① 담당부서장은 관련 법령에 따라 산업통상자원부장관으로부터 효율관리시험기관 및 자체측정승인업자의 시험능력 확보 여부 검사 요청이 있는 경우 신청서류를 검토하여 지정요건에 해당하는 지를 검사하여야 한다.② 담당부서장은 관계자 면담, 모의시험 등을 통해 시험방법의 숙지여부, 성적서 기재사항, 효율관리시스템 이용방법 등을 확인할 수 있다.③ 담당부서장은 필요시 관련 전문가가 공단 직원과 함께 검사하게 할 수 있다.",
+        "content": "제4조(효율관리시험기관 등 검사) ① 담당부서장은 관련 법령에 따라 기후에너지환경부장관으로부터 효율관리시험기관 및 자체측정승인업자의 시험능력 확보 여부 검사 요청이 있는 경우 신청서류를 검토하여 지정요건에 해당하는 지를 검사하여야 한다. <개정 2026. 6. 30.>② 담당부서장은 관계자 면담, 모의시험 등을 통해 시험방법의 숙지여부, 성적서 기재사항, 효율관리시스템 이용방법 등을 확인할 수 있다.③ 담당부서장은 필요시 관련 전문가가 공단 직원과 함께 검사하게 할 수 있다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -253,11 +218,7 @@
             "source_provision_id": "SchlPubRul:(한국에너지공단)효율관리기자재관리업무운영규정#JO0007",
             "reference_id": "SchlPubRul:(한국에너지공단)효율관리기자재관리업무운영규정#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국에너지공단) 효율관리기자재관리업무 운영규정/(한국에너지공단) 효율관리기자재관리업무 운영규정.json",
-            "target_git_path": "(한국에너지공단) 효율관리기자재관리업무 운영규정/(한국에너지공단) 효율관리기자재관리업무 운영규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국에너지공단) 효율관리기자재관리업무 운영규정/(한국에너지공단) 효율관리기자재관리업무 운영규정.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -276,18 +237,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2111731",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163868349",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170603299",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국에너지공단)효율관리기자재관리업무운영규정#JO0007",
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(한국에너지공단)효율관리기자재관리업무운영규정#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국에너지공단) 효율관리기자재관리업무 운영규정/(한국에너지공단) 효율관리기자재관리업무 운영규정.json",
-            "target_git_path": "(한국에너지공단) 효율관리기자재관리업무 운영규정/(한국에너지공단) 효율관리기자재관리업무 운영규정.json",
-            "target_git_file_path": "(한국에너지공단) 효율관리기자재관리업무 운영규정/별지/별지2_사후관리현장점검표.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국에너지공단) 효율관리기자재관리업무 운영규정/(한국에너지공단) 효율관리기자재관리업무 운영규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -307,11 +263,7 @@
             "source_provision_id": "SchlPubRul:(한국에너지공단)효율관리기자재관리업무운영규정#JO0007",
             "reference_id": "SchlPubRul:(한국에너지공단)효율관리기자재관리업무운영규정#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국에너지공단) 효율관리기자재관리업무 운영규정/(한국에너지공단) 효율관리기자재관리업무 운영규정.json",
-            "target_git_path": "(한국에너지공단) 효율관리기자재관리업무 운영규정/(한국에너지공단) 효율관리기자재관리업무 운영규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국에너지공단) 효율관리기자재관리업무 운영규정/(한국에너지공단) 효율관리기자재관리업무 운영규정.json"
           }
         ],
         "images": [],
@@ -322,7 +274,7 @@
         "article_title": "보고",
         "chapter": "",
         "chapter_path": "",
-        "content": "제8조(보고) 이사장은 산업통상자원부장관의 요청에 따라 효율관리기자재 신고 현황을 산업통상자원부장관에게 보고한다.",
+        "content": "제8조(보고) 이사장은 기후에너지환경부장관의 요청에 따라 효율관리기자재 신고 현황을 기후에너지환경부장관에게 보고한다. <개정 2026. 6. 30.>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -348,10 +300,21 @@
       "content": "부칙 <제9999호, 2016.12.29.>이 규정은 2017년 1월 1일부터 시행한다.",
       "provision_id": "SchlPubRul:(한국에너지공단)효율관리기자재관리업무운영규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000087225",
+      "source_mst": "2200000160919",
       "source_version_uid": "",
-      "source_revision_type": "전부개정",
-      "version_enforcement_date": "20170101"
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20260630"
+    },
+    {
+      "promulgation_date": "20260630",
+      "promulgation_no": "9999",
+      "content": "부칙 <제9999호, 2026.06.30.> (법령등의 제정 및 개정에 따른 제규정 현행화에 관한 규정)이 규정은 2026년 6월 30일부터 시행한다.",
+      "provision_id": "SchlPubRul:(한국에너지공단)효율관리기자재관리업무운영규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000160919",
+      "source_version_uid": "",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20260630"
     }
   ],
   "appendices": [
@@ -364,11 +327,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163868341",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170603291",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163868341",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170603291",
           "name": "",
           "file_store_url": ""
         }
@@ -389,11 +352,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163868345",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170603295",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163868345",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170603295",
           "name": "",
           "file_store_url": ""
         }
@@ -414,11 +377,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163868349",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170603299",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163868349",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170603299",
           "name": "",
           "file_store_url": ""
         }
@@ -434,14 +397,13 @@
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 8,
+    "relations_total": 7,
     "by_category": {
       "법령": 3,
-      "행정규칙": 1,
       "학칙공단": 4
     },
     "by_relation_type": {
-      "citation": 4,
+      "citation": 3,
       "appendix_ref": 2,
       "internal_ref": 2
     },
@@ -450,7 +412,7 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 1,
+    "addenda_count": 2,
     "appendices_count": 3,
     "attachments_count": 0
   },
