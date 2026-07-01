@@ -27,7 +27,7 @@
     "전화번호": "061-338-5179",
     "제개정구분명": "일부개정",
     "소관부처코드": "B552149",
-    "생성일자": "20261006",
+    "생성일자": "20261013",
     "행정규칙ID": "2114187",
     "담당부서기관코드": "",
     "발령번호": "9999",
@@ -63,30 +63,9 @@
             "target_url": "https://www.law.go.kr/학칙공단/연봉제규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)연봉제규정시행세칙#JO0001",
-            "reference_id": "SchlPubRul:연봉제규정:public_2128341#DOC",
+            "reference_id": "SchlPubRul:연봉제규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "연봉제규정/연봉제규정.json",
-            "target_candidates": 2,
-            "target_candidate_paths": [
-              {
-                "git_path": "연봉제규정/public_2127981/연봉제규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:연봉제규정:public_2127981#DOC",
-                "is_current": true,
-                "enforcement_date": "20160811"
-              },
-              {
-                "git_path": "연봉제규정/public_2128341/연봉제규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:연봉제규정:public_2128341#DOC",
-                "is_current": true,
-                "enforcement_date": "20250101"
-              }
-            ],
-            "target_git_path": "연봉제규정/public_2128341/연봉제규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "연봉제규정/연봉제규정.json"
           }
         ],
         "images": [],
@@ -116,44 +95,9 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)연봉제규정시행세칙#JO0002",
-            "reference_id": "SchlPubRul:인사규정:public_2130247#DOC",
+            "reference_id": "SchlPubRul:인사규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json",
-            "target_candidates": 4,
-            "target_candidate_paths": [
-              {
-                "git_path": "인사규정/public_2127985/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2127985#DOC",
-                "is_current": true,
-                "enforcement_date": "20230310"
-              },
-              {
-                "git_path": "인사규정/public_2128323/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2128323#DOC",
-                "is_current": true,
-                "enforcement_date": "20250109"
-              },
-              {
-                "git_path": "인사규정/public_2130247/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2130247#DOC",
-                "is_current": true,
-                "enforcement_date": "20260818"
-              },
-              {
-                "git_path": "인사규정/public_2141221/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2141221#DOC",
-                "is_current": true,
-                "enforcement_date": "20260805"
-              }
-            ],
-            "target_git_path": "인사규정/public_2130247/인사규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "인사규정/인사규정.json"
           },
           {
             "relation_type": "citation",
@@ -171,44 +115,9 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정/제3조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)연봉제규정시행세칙#JO0002",
-            "reference_id": "SchlPubRul:인사규정:public_2130247#JO0003",
+            "reference_id": "SchlPubRul:인사규정#JO0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json",
-            "target_candidates": 4,
-            "target_candidate_paths": [
-              {
-                "git_path": "인사규정/public_2127985/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2127985#JO0003",
-                "is_current": true,
-                "enforcement_date": "20230310"
-              },
-              {
-                "git_path": "인사규정/public_2128323/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2128323#JO0003",
-                "is_current": true,
-                "enforcement_date": "20250109"
-              },
-              {
-                "git_path": "인사규정/public_2130247/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2130247#JO0003",
-                "is_current": true,
-                "enforcement_date": "20260818"
-              },
-              {
-                "git_path": "인사규정/public_2141221/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2141221#JO0003",
-                "is_current": true,
-                "enforcement_date": "20260805"
-              }
-            ],
-            "target_git_path": "인사규정/public_2130247/인사규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "인사규정/인사규정.json"
           }
         ],
         "images": [],
@@ -238,30 +147,9 @@
             "target_url": "https://www.law.go.kr/학칙공단/연봉제규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)연봉제규정시행세칙#JO0003",
-            "reference_id": "SchlPubRul:연봉제규정:public_2128341#DOC",
+            "reference_id": "SchlPubRul:연봉제규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "연봉제규정/연봉제규정.json",
-            "target_candidates": 2,
-            "target_candidate_paths": [
-              {
-                "git_path": "연봉제규정/public_2127981/연봉제규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:연봉제규정:public_2127981#DOC",
-                "is_current": true,
-                "enforcement_date": "20160811"
-              },
-              {
-                "git_path": "연봉제규정/public_2128341/연봉제규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:연봉제규정:public_2128341#DOC",
-                "is_current": true,
-                "enforcement_date": "20250101"
-              }
-            ],
-            "target_git_path": "연봉제규정/public_2128341/연봉제규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "연봉제규정/연봉제규정.json"
           },
           {
             "relation_type": "citation",
@@ -279,30 +167,9 @@
             "target_url": "https://www.law.go.kr/학칙공단/연봉제규정/제7조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)연봉제규정시행세칙#JO0003",
-            "reference_id": "SchlPubRul:연봉제규정:public_2128341#JO0007",
+            "reference_id": "SchlPubRul:연봉제규정#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "연봉제규정/연봉제규정.json",
-            "target_candidates": 2,
-            "target_candidate_paths": [
-              {
-                "git_path": "연봉제규정/public_2127981/연봉제규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:연봉제규정:public_2127981#JO0007",
-                "is_current": true,
-                "enforcement_date": "20160811"
-              },
-              {
-                "git_path": "연봉제규정/public_2128341/연봉제규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:연봉제규정:public_2128341#JO0007",
-                "is_current": true,
-                "enforcement_date": "20250101"
-              }
-            ],
-            "target_git_path": "연봉제규정/public_2128341/연봉제규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "연봉제규정/연봉제규정.json"
           }
         ],
         "images": [],
@@ -332,30 +199,9 @@
             "target_url": "https://www.law.go.kr/학칙공단/연봉제규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)연봉제규정시행세칙#JO0004",
-            "reference_id": "SchlPubRul:연봉제규정:public_2128341#DOC",
+            "reference_id": "SchlPubRul:연봉제규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "연봉제규정/연봉제규정.json",
-            "target_candidates": 2,
-            "target_candidate_paths": [
-              {
-                "git_path": "연봉제규정/public_2127981/연봉제규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:연봉제규정:public_2127981#DOC",
-                "is_current": true,
-                "enforcement_date": "20160811"
-              },
-              {
-                "git_path": "연봉제규정/public_2128341/연봉제규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:연봉제규정:public_2128341#DOC",
-                "is_current": true,
-                "enforcement_date": "20250101"
-              }
-            ],
-            "target_git_path": "연봉제규정/public_2128341/연봉제규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "연봉제규정/연봉제규정.json"
           },
           {
             "relation_type": "citation",
@@ -373,30 +219,9 @@
             "target_url": "https://www.law.go.kr/학칙공단/연봉제규정/제9조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)연봉제규정시행세칙#JO0004",
-            "reference_id": "SchlPubRul:연봉제규정:public_2128341#JO0009",
+            "reference_id": "SchlPubRul:연봉제규정#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "연봉제규정/연봉제규정.json",
-            "target_candidates": 2,
-            "target_candidate_paths": [
-              {
-                "git_path": "연봉제규정/public_2127981/연봉제규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:연봉제규정:public_2127981#JO0009",
-                "is_current": true,
-                "enforcement_date": "20160811"
-              },
-              {
-                "git_path": "연봉제규정/public_2128341/연봉제규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:연봉제규정:public_2128341#JO0009",
-                "is_current": true,
-                "enforcement_date": "20250101"
-              }
-            ],
-            "target_git_path": "연봉제규정/public_2128341/연봉제규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "연봉제규정/연봉제규정.json"
           }
         ],
         "images": [],
@@ -426,30 +251,9 @@
             "target_url": "https://www.law.go.kr/학칙공단/연봉제규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)연봉제규정시행세칙#JO0005",
-            "reference_id": "SchlPubRul:연봉제규정:public_2128341#DOC",
+            "reference_id": "SchlPubRul:연봉제규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "연봉제규정/연봉제규정.json",
-            "target_candidates": 2,
-            "target_candidate_paths": [
-              {
-                "git_path": "연봉제규정/public_2127981/연봉제규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:연봉제규정:public_2127981#DOC",
-                "is_current": true,
-                "enforcement_date": "20160811"
-              },
-              {
-                "git_path": "연봉제규정/public_2128341/연봉제규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:연봉제규정:public_2128341#DOC",
-                "is_current": true,
-                "enforcement_date": "20250101"
-              }
-            ],
-            "target_git_path": "연봉제규정/public_2128341/연봉제규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "연봉제규정/연봉제규정.json"
           },
           {
             "relation_type": "citation",
@@ -467,30 +271,9 @@
             "target_url": "https://www.law.go.kr/학칙공단/연봉제규정/제12조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)연봉제규정시행세칙#JO0005",
-            "reference_id": "SchlPubRul:연봉제규정:public_2128341#JO0012",
+            "reference_id": "SchlPubRul:연봉제규정#JO0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "연봉제규정/연봉제규정.json",
-            "target_candidates": 2,
-            "target_candidate_paths": [
-              {
-                "git_path": "연봉제규정/public_2127981/연봉제규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:연봉제규정:public_2127981#JO0012",
-                "is_current": true,
-                "enforcement_date": "20160811"
-              },
-              {
-                "git_path": "연봉제규정/public_2128341/연봉제규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:연봉제규정:public_2128341#JO0012",
-                "is_current": true,
-                "enforcement_date": "20250101"
-              }
-            ],
-            "target_git_path": "연봉제규정/public_2128341/연봉제규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "연봉제규정/연봉제규정.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -515,12 +298,7 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(한국농어촌공사)연봉제규정시행세칙#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json",
-            "target_git_path": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json",
-            "target_git_file_path": "(한국농어촌공사) 연봉제규정시행세칙/별표/별표1_직무급 지급기준(제5조 관련).hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -545,12 +323,7 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:(한국농어촌공사)연봉제규정시행세칙#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json",
-            "target_git_path": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json",
-            "target_git_file_path": "(한국농어촌공사) 연봉제규정시행세칙/별표/별표2_자격직무급 지급기준.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json"
           }
         ],
         "images": [],
@@ -582,11 +355,7 @@
             "source_provision_id": "SchlPubRul:(한국농어촌공사)연봉제규정시행세칙#JO0006",
             "reference_id": "SchlPubRul:(한국농어촌공사)연봉제규정시행세칙#JO0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json",
-            "target_git_path": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json"
           },
           {
             "relation_type": "citation",
@@ -606,11 +375,7 @@
             "source_provision_id": "SchlPubRul:(한국농어촌공사)연봉제규정시행세칙#JO0006",
             "reference_id": "SchlPubRul:취업규칙#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "취업규칙/취업규칙.json",
-            "target_git_path": "취업규칙/취업규칙.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "취업규칙/취업규칙.json"
           },
           {
             "relation_type": "citation",
@@ -630,11 +395,7 @@
             "source_provision_id": "SchlPubRul:(한국농어촌공사)연봉제규정시행세칙#JO0006",
             "reference_id": "SchlPubRul:취업규칙#JO0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "취업규칙/취업규칙.json",
-            "target_git_path": "취업규칙/취업규칙.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "취업규칙/취업규칙.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -659,12 +420,7 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:(한국농어촌공사)연봉제규정시행세칙#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json",
-            "target_git_path": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json",
-            "target_git_file_path": "(한국농어촌공사) 연봉제규정시행세칙/별표/별표2_자격직무급 지급기준.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -689,12 +445,7 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:(한국농어촌공사)연봉제규정시행세칙#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json",
-            "target_git_path": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json",
-            "target_git_file_path": "(한국농어촌공사) 연봉제규정시행세칙/별표/별표2_자격직무급 지급기준.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -719,12 +470,7 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:(한국농어촌공사)연봉제규정시행세칙#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json",
-            "target_git_path": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json",
-            "target_git_file_path": "(한국농어촌공사) 연봉제규정시행세칙/별표/별표2_자격직무급 지급기준.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -749,12 +495,7 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:(한국농어촌공사)연봉제규정시행세칙#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json",
-            "target_git_path": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json",
-            "target_git_file_path": "(한국농어촌공사) 연봉제규정시행세칙/별표/별표2_자격직무급 지급기준.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -779,12 +520,7 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:(한국농어촌공사)연봉제규정시행세칙#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json",
-            "target_git_path": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json",
-            "target_git_file_path": "(한국농어촌공사) 연봉제규정시행세칙/별표/별표2_자격직무급 지급기준.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -809,12 +545,7 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:(한국농어촌공사)연봉제규정시행세칙#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json",
-            "target_git_path": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json",
-            "target_git_file_path": "(한국농어촌공사) 연봉제규정시행세칙/별표/별표2_자격직무급 지급기준.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json"
           }
         ],
         "images": [],
@@ -855,30 +586,9 @@
             "target_url": "https://www.law.go.kr/학칙공단/연봉제규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)연봉제규정시행세칙#JO0006_03",
-            "reference_id": "SchlPubRul:연봉제규정:public_2128341#DOC",
+            "reference_id": "SchlPubRul:연봉제규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "연봉제규정/연봉제규정.json",
-            "target_candidates": 2,
-            "target_candidate_paths": [
-              {
-                "git_path": "연봉제규정/public_2127981/연봉제규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:연봉제규정:public_2127981#DOC",
-                "is_current": true,
-                "enforcement_date": "20160811"
-              },
-              {
-                "git_path": "연봉제규정/public_2128341/연봉제규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:연봉제규정:public_2128341#DOC",
-                "is_current": true,
-                "enforcement_date": "20250101"
-              }
-            ],
-            "target_git_path": "연봉제규정/public_2128341/연봉제규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "연봉제규정/연봉제규정.json"
           },
           {
             "relation_type": "citation",
@@ -896,13 +606,9 @@
             "target_url": "https://www.law.go.kr/학칙공단/연봉제규정/제12조의3",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)연봉제규정시행세칙#JO0006_03",
-            "reference_id": "SchlPubRul:연봉제규정:public_2127981#JO0012_03",
+            "reference_id": "SchlPubRul:연봉제규정#JO0012_03",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "연봉제규정/연봉제규정.json",
-            "target_git_path": "연봉제규정/public_2127981/연봉제규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "연봉제규정/연봉제규정.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -927,12 +633,7 @@
             "target_unit": "BYL0001_03",
             "reference_id": "SchlPubRul:(한국농어촌공사)연봉제규정시행세칙#BYL0001_03",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json",
-            "target_git_path": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json",
-            "target_git_file_path": "(한국농어촌공사) 연봉제규정시행세칙/별표/별표1의3_숙련급 지급기준(제6조의3 관련).hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json"
           }
         ],
         "images": [],
@@ -962,30 +663,9 @@
             "target_url": "https://www.law.go.kr/학칙공단/연봉제규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)연봉제규정시행세칙#JO0007",
-            "reference_id": "SchlPubRul:연봉제규정:public_2128341#DOC",
+            "reference_id": "SchlPubRul:연봉제규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "연봉제규정/연봉제규정.json",
-            "target_candidates": 2,
-            "target_candidate_paths": [
-              {
-                "git_path": "연봉제규정/public_2127981/연봉제규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:연봉제규정:public_2127981#DOC",
-                "is_current": true,
-                "enforcement_date": "20160811"
-              },
-              {
-                "git_path": "연봉제규정/public_2128341/연봉제규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:연봉제규정:public_2128341#DOC",
-                "is_current": true,
-                "enforcement_date": "20250101"
-              }
-            ],
-            "target_git_path": "연봉제규정/public_2128341/연봉제규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "연봉제규정/연봉제규정.json"
           },
           {
             "relation_type": "citation",
@@ -1003,30 +683,9 @@
             "target_url": "https://www.law.go.kr/학칙공단/연봉제규정/제10조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)연봉제규정시행세칙#JO0007",
-            "reference_id": "SchlPubRul:연봉제규정:public_2128341#JO0010",
+            "reference_id": "SchlPubRul:연봉제규정#JO0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "연봉제규정/연봉제규정.json",
-            "target_candidates": 2,
-            "target_candidate_paths": [
-              {
-                "git_path": "연봉제규정/public_2127981/연봉제규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:연봉제규정:public_2127981#JO0010",
-                "is_current": true,
-                "enforcement_date": "20160811"
-              },
-              {
-                "git_path": "연봉제규정/public_2128341/연봉제규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:연봉제규정:public_2128341#JO0010",
-                "is_current": true,
-                "enforcement_date": "20250101"
-              }
-            ],
-            "target_git_path": "연봉제규정/public_2128341/연봉제규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "연봉제규정/연봉제규정.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -1051,12 +710,7 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:(한국농어촌공사)연봉제규정시행세칙#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json",
-            "target_git_path": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json",
-            "target_git_file_path": "(한국농어촌공사) 연봉제규정시행세칙/별표/별표3_승진가산급.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json"
           },
           {
             "relation_type": "citation",
@@ -1074,30 +728,9 @@
             "target_url": "https://www.law.go.kr/학칙공단/연봉제규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)연봉제규정시행세칙#JO0007",
-            "reference_id": "SchlPubRul:연봉제규정:public_2128341#DOC",
+            "reference_id": "SchlPubRul:연봉제규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "연봉제규정/연봉제규정.json",
-            "target_candidates": 2,
-            "target_candidate_paths": [
-              {
-                "git_path": "연봉제규정/public_2127981/연봉제규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:연봉제규정:public_2127981#DOC",
-                "is_current": true,
-                "enforcement_date": "20160811"
-              },
-              {
-                "git_path": "연봉제규정/public_2128341/연봉제규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:연봉제규정:public_2128341#DOC",
-                "is_current": true,
-                "enforcement_date": "20250101"
-              }
-            ],
-            "target_git_path": "연봉제규정/public_2128341/연봉제규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "연봉제규정/연봉제규정.json"
           },
           {
             "relation_type": "citation",
@@ -1115,30 +748,9 @@
             "target_url": "https://www.law.go.kr/학칙공단/연봉제규정/제10조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)연봉제규정시행세칙#JO0007",
-            "reference_id": "SchlPubRul:연봉제규정:public_2128341#JO0010",
+            "reference_id": "SchlPubRul:연봉제규정#JO0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "연봉제규정/연봉제규정.json",
-            "target_candidates": 2,
-            "target_candidate_paths": [
-              {
-                "git_path": "연봉제규정/public_2127981/연봉제규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:연봉제규정:public_2127981#JO0010",
-                "is_current": true,
-                "enforcement_date": "20160811"
-              },
-              {
-                "git_path": "연봉제규정/public_2128341/연봉제규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:연봉제규정:public_2128341#JO0010",
-                "is_current": true,
-                "enforcement_date": "20250101"
-              }
-            ],
-            "target_git_path": "연봉제규정/public_2128341/연봉제규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "연봉제규정/연봉제규정.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -1163,12 +775,7 @@
             "target_unit": "BYL0004",
             "reference_id": "SchlPubRul:(한국농어촌공사)연봉제규정시행세칙#BYL0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json",
-            "target_git_path": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json",
-            "target_git_file_path": "(한국농어촌공사) 연봉제규정시행세칙/별표/별표4_승급시 기준급 가산방법.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json"
           }
         ],
         "images": [],
@@ -1198,30 +805,9 @@
             "target_url": "https://www.law.go.kr/학칙공단/연봉제규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)연봉제규정시행세칙#JO0008",
-            "reference_id": "SchlPubRul:연봉제규정:public_2128341#DOC",
+            "reference_id": "SchlPubRul:연봉제규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "연봉제규정/연봉제규정.json",
-            "target_candidates": 2,
-            "target_candidate_paths": [
-              {
-                "git_path": "연봉제규정/public_2127981/연봉제규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:연봉제규정:public_2127981#DOC",
-                "is_current": true,
-                "enforcement_date": "20160811"
-              },
-              {
-                "git_path": "연봉제규정/public_2128341/연봉제규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:연봉제규정:public_2128341#DOC",
-                "is_current": true,
-                "enforcement_date": "20250101"
-              }
-            ],
-            "target_git_path": "연봉제규정/public_2128341/연봉제규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "연봉제규정/연봉제규정.json"
           },
           {
             "relation_type": "citation",
@@ -1239,30 +825,9 @@
             "target_url": "https://www.law.go.kr/학칙공단/연봉제규정/제14조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)연봉제규정시행세칙#JO0008",
-            "reference_id": "SchlPubRul:연봉제규정:public_2128341#JO0014",
+            "reference_id": "SchlPubRul:연봉제규정#JO0014",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "연봉제규정/연봉제규정.json",
-            "target_candidates": 2,
-            "target_candidate_paths": [
-              {
-                "git_path": "연봉제규정/public_2127981/연봉제규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:연봉제규정:public_2127981#JO0014",
-                "is_current": true,
-                "enforcement_date": "20160811"
-              },
-              {
-                "git_path": "연봉제규정/public_2128341/연봉제규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:연봉제규정:public_2128341#JO0014",
-                "is_current": true,
-                "enforcement_date": "20250101"
-              }
-            ],
-            "target_git_path": "연봉제규정/public_2128341/연봉제규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "연봉제규정/연봉제규정.json"
           }
         ],
         "images": [],
@@ -1299,12 +864,7 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(한국농어촌공사)연봉제규정시행세칙#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json",
-            "target_git_path": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json",
-            "target_git_file_path": "(한국농어촌공사) 연봉제규정시행세칙/별표/별표1_직무급 지급기준(제5조 관련).hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json"
           }
         ],
         "images": [],
@@ -1336,11 +896,7 @@
             "source_provision_id": "SchlPubRul:(한국농어촌공사)연봉제규정시행세칙#JO0010",
             "reference_id": "SchlPubRul:취업규칙#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "취업규칙/취업규칙.json",
-            "target_git_path": "취업규칙/취업규칙.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "취업규칙/취업규칙.json"
           },
           {
             "relation_type": "citation",
@@ -1360,11 +916,7 @@
             "source_provision_id": "SchlPubRul:(한국농어촌공사)연봉제규정시행세칙#JO0010",
             "reference_id": "SchlPubRul:취업규칙#JO0019",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "취업규칙/취업규칙.json",
-            "target_git_path": "취업규칙/취업규칙.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "취업규칙/취업규칙.json"
           },
           {
             "relation_type": "citation",
@@ -1384,11 +936,7 @@
             "source_provision_id": "SchlPubRul:(한국농어촌공사)연봉제규정시행세칙#JO0010",
             "reference_id": "SchlPubRul:취업규칙#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "취업규칙/취업규칙.json",
-            "target_git_path": "취업규칙/취업규칙.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "취업규칙/취업규칙.json"
           },
           {
             "relation_type": "citation",
@@ -1408,8 +956,7 @@
             "source_provision_id": "SchlPubRul:(한국농어촌공사)연봉제규정시행세칙#JO0010",
             "reference_id": "SchlPubRul:취업규칙#JO0019_02",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "취업규칙/취업규칙.json",
-            "target_missing_unit": true
+            "target_git_path_guess": "취업규칙/취업규칙.json"
           }
         ],
         "images": [],
@@ -1439,30 +986,9 @@
             "target_url": "https://www.law.go.kr/학칙공단/연봉제규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)연봉제규정시행세칙#JO0011",
-            "reference_id": "SchlPubRul:연봉제규정:public_2128341#DOC",
+            "reference_id": "SchlPubRul:연봉제규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "연봉제규정/연봉제규정.json",
-            "target_candidates": 2,
-            "target_candidate_paths": [
-              {
-                "git_path": "연봉제규정/public_2127981/연봉제규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:연봉제규정:public_2127981#DOC",
-                "is_current": true,
-                "enforcement_date": "20160811"
-              },
-              {
-                "git_path": "연봉제규정/public_2128341/연봉제규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:연봉제규정:public_2128341#DOC",
-                "is_current": true,
-                "enforcement_date": "20250101"
-              }
-            ],
-            "target_git_path": "연봉제규정/public_2128341/연봉제규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "연봉제규정/연봉제규정.json"
           },
           {
             "relation_type": "citation",
@@ -1480,30 +1006,9 @@
             "target_url": "https://www.law.go.kr/학칙공단/연봉제규정/제5조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)연봉제규정시행세칙#JO0011",
-            "reference_id": "SchlPubRul:연봉제규정:public_2128341#JO0005",
+            "reference_id": "SchlPubRul:연봉제규정#JO0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "연봉제규정/연봉제규정.json",
-            "target_candidates": 2,
-            "target_candidate_paths": [
-              {
-                "git_path": "연봉제규정/public_2127981/연봉제규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:연봉제규정:public_2127981#JO0005",
-                "is_current": true,
-                "enforcement_date": "20160811"
-              },
-              {
-                "git_path": "연봉제규정/public_2128341/연봉제규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:연봉제규정:public_2128341#JO0005",
-                "is_current": true,
-                "enforcement_date": "20250101"
-              }
-            ],
-            "target_git_path": "연봉제규정/public_2128341/연봉제규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "연봉제규정/연봉제규정.json"
           }
         ],
         "images": [],
@@ -1533,30 +1038,9 @@
             "target_url": "https://www.law.go.kr/학칙공단/연봉제규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)연봉제규정시행세칙#JO0012",
-            "reference_id": "SchlPubRul:연봉제규정:public_2128341#DOC",
+            "reference_id": "SchlPubRul:연봉제규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "연봉제규정/연봉제규정.json",
-            "target_candidates": 2,
-            "target_candidate_paths": [
-              {
-                "git_path": "연봉제규정/public_2127981/연봉제규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:연봉제규정:public_2127981#DOC",
-                "is_current": true,
-                "enforcement_date": "20160811"
-              },
-              {
-                "git_path": "연봉제규정/public_2128341/연봉제규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:연봉제규정:public_2128341#DOC",
-                "is_current": true,
-                "enforcement_date": "20250101"
-              }
-            ],
-            "target_git_path": "연봉제규정/public_2128341/연봉제규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "연봉제규정/연봉제규정.json"
           },
           {
             "relation_type": "citation",
@@ -1574,30 +1058,9 @@
             "target_url": "https://www.law.go.kr/학칙공단/연봉제규정/제13조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)연봉제규정시행세칙#JO0012",
-            "reference_id": "SchlPubRul:연봉제규정:public_2128341#JO0013",
+            "reference_id": "SchlPubRul:연봉제규정#JO0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "연봉제규정/연봉제규정.json",
-            "target_candidates": 2,
-            "target_candidate_paths": [
-              {
-                "git_path": "연봉제규정/public_2127981/연봉제규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:연봉제규정:public_2127981#JO0013",
-                "is_current": true,
-                "enforcement_date": "20160811"
-              },
-              {
-                "git_path": "연봉제규정/public_2128341/연봉제규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:연봉제규정:public_2128341#JO0013",
-                "is_current": true,
-                "enforcement_date": "20250101"
-              }
-            ],
-            "target_git_path": "연봉제규정/public_2128341/연봉제규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "연봉제규정/연봉제규정.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -1622,12 +1085,7 @@
             "target_unit": "BYL0006",
             "reference_id": "SchlPubRul:(한국농어촌공사)연봉제규정시행세칙#BYL0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json",
-            "target_git_path": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json",
-            "target_git_file_path": "(한국농어촌공사) 연봉제규정시행세칙/별표/별표6_국외근무수당표.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -1652,12 +1110,7 @@
             "target_unit": "BYL0006_02",
             "reference_id": "SchlPubRul:(한국농어촌공사)연봉제규정시행세칙#BYL0006_02",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json",
-            "target_git_path": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json",
-            "target_git_file_path": "(한국농어촌공사) 연봉제규정시행세칙/별표/별표6의2_특수지근무수당표.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json"
           }
         ],
         "images": [],
@@ -1705,12 +1158,7 @@
             "target_unit": "BYL0007",
             "reference_id": "SchlPubRul:(한국농어촌공사)연봉제규정시행세칙#BYL0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json",
-            "target_git_path": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json",
-            "target_git_file_path": "(한국농어촌공사) 연봉제규정시행세칙/별표/별표7_연봉이의신청서.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json"
           }
         ],
         "images": [],
@@ -1740,30 +1188,9 @@
             "target_url": "https://www.law.go.kr/학칙공단/연봉제규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)연봉제규정시행세칙#JO0014",
-            "reference_id": "SchlPubRul:연봉제규정:public_2128341#DOC",
+            "reference_id": "SchlPubRul:연봉제규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "연봉제규정/연봉제규정.json",
-            "target_candidates": 2,
-            "target_candidate_paths": [
-              {
-                "git_path": "연봉제규정/public_2127981/연봉제규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:연봉제규정:public_2127981#DOC",
-                "is_current": true,
-                "enforcement_date": "20160811"
-              },
-              {
-                "git_path": "연봉제규정/public_2128341/연봉제규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:연봉제규정:public_2128341#DOC",
-                "is_current": true,
-                "enforcement_date": "20250101"
-              }
-            ],
-            "target_git_path": "연봉제규정/public_2128341/연봉제규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "연봉제규정/연봉제규정.json"
           },
           {
             "relation_type": "citation",
@@ -1781,13 +1208,9 @@
             "target_url": "https://www.law.go.kr/학칙공단/연봉제규정/제24조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)연봉제규정시행세칙#JO0014",
-            "reference_id": "SchlPubRul:연봉제규정:public_2128341#JO0024",
+            "reference_id": "SchlPubRul:연봉제규정#JO0024",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "연봉제규정/연봉제규정.json",
-            "target_git_path": "연봉제규정/public_2128341/연봉제규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "연봉제규정/연봉제규정.json"
           }
         ],
         "images": [],
@@ -1817,44 +1240,9 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)연봉제규정시행세칙#JO0015",
-            "reference_id": "SchlPubRul:인사규정:public_2130247#DOC",
+            "reference_id": "SchlPubRul:인사규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json",
-            "target_candidates": 4,
-            "target_candidate_paths": [
-              {
-                "git_path": "인사규정/public_2127985/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2127985#DOC",
-                "is_current": true,
-                "enforcement_date": "20230310"
-              },
-              {
-                "git_path": "인사규정/public_2128323/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2128323#DOC",
-                "is_current": true,
-                "enforcement_date": "20250109"
-              },
-              {
-                "git_path": "인사규정/public_2130247/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2130247#DOC",
-                "is_current": true,
-                "enforcement_date": "20260818"
-              },
-              {
-                "git_path": "인사규정/public_2141221/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2141221#DOC",
-                "is_current": true,
-                "enforcement_date": "20260805"
-              }
-            ],
-            "target_git_path": "인사규정/public_2130247/인사규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "인사규정/인사규정.json"
           },
           {
             "relation_type": "citation",
@@ -1872,44 +1260,9 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정/제3조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)연봉제규정시행세칙#JO0015",
-            "reference_id": "SchlPubRul:인사규정:public_2130247#JO0003",
+            "reference_id": "SchlPubRul:인사규정#JO0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json",
-            "target_candidates": 4,
-            "target_candidate_paths": [
-              {
-                "git_path": "인사규정/public_2127985/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2127985#JO0003",
-                "is_current": true,
-                "enforcement_date": "20230310"
-              },
-              {
-                "git_path": "인사규정/public_2128323/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2128323#JO0003",
-                "is_current": true,
-                "enforcement_date": "20250109"
-              },
-              {
-                "git_path": "인사규정/public_2130247/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2130247#JO0003",
-                "is_current": true,
-                "enforcement_date": "20260818"
-              },
-              {
-                "git_path": "인사규정/public_2141221/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2141221#JO0003",
-                "is_current": true,
-                "enforcement_date": "20260805"
-              }
-            ],
-            "target_git_path": "인사규정/public_2130247/인사규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "인사규정/인사규정.json"
           }
         ],
         "images": [],
@@ -1952,11 +1305,7 @@
             "source_provision_id": "SchlPubRul:(한국농어촌공사)연봉제규정시행세칙#JO0017",
             "reference_id": "SchlPubRul:(한국농어촌공사)연봉제규정시행세칙#JO0016",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json",
-            "target_git_path": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json"
           }
         ],
         "images": [],
@@ -1993,12 +1342,7 @@
             "target_unit": "BYL0008",
             "reference_id": "SchlPubRul:(한국농어촌공사)연봉제규정시행세칙#BYL0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json",
-            "target_git_path": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json",
-            "target_git_file_path": "(한국농어촌공사) 연봉제규정시행세칙/별표/별표8_개인성과 평가기준(제18조 관련).hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json"
           }
         ],
         "images": [],
@@ -2035,12 +1379,7 @@
             "target_unit": "BYL0008_01",
             "reference_id": "SchlPubRul:(한국농어촌공사)연봉제규정시행세칙#BYL0008_01",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json",
-            "target_git_path": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json",
-            "target_git_file_path": "(한국농어촌공사) 연봉제규정시행세칙/별표/별표8의1_개인성과평가 조정점수 산출방법.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json"
           }
         ],
         "images": [],
@@ -2072,11 +1411,7 @@
             "source_provision_id": "SchlPubRul:(한국농어촌공사)연봉제규정시행세칙#JO0019_02",
             "reference_id": "SchlPubRul:(한국농어촌공사)연봉제규정시행세칙#JO0018",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json",
-            "target_git_path": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -2101,12 +1436,7 @@
             "target_unit": "BYL0008_02",
             "reference_id": "SchlPubRul:(한국농어촌공사)연봉제규정시행세칙#BYL0008_02",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json",
-            "target_git_path": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json",
-            "target_git_file_path": "(한국농어촌공사) 연봉제규정시행세칙/별표/별표8의2_개인성과급 지급산식(제19조 관련).hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -2131,12 +1461,7 @@
             "target_unit": "BYL0008_02",
             "reference_id": "SchlPubRul:(한국농어촌공사)연봉제규정시행세칙#BYL0008_02",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json",
-            "target_git_path": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json",
-            "target_git_file_path": "(한국농어촌공사) 연봉제규정시행세칙/별표/별표8의2_개인성과급 지급산식(제19조 관련).hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json"
           }
         ],
         "images": [],
@@ -2166,30 +1491,9 @@
             "target_url": "https://www.law.go.kr/학칙공단/연봉제규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)연봉제규정시행세칙#JO0020",
-            "reference_id": "SchlPubRul:연봉제규정:public_2128341#DOC",
+            "reference_id": "SchlPubRul:연봉제규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "연봉제규정/연봉제규정.json",
-            "target_candidates": 2,
-            "target_candidate_paths": [
-              {
-                "git_path": "연봉제규정/public_2127981/연봉제규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:연봉제규정:public_2127981#DOC",
-                "is_current": true,
-                "enforcement_date": "20160811"
-              },
-              {
-                "git_path": "연봉제규정/public_2128341/연봉제규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:연봉제규정:public_2128341#DOC",
-                "is_current": true,
-                "enforcement_date": "20250101"
-              }
-            ],
-            "target_git_path": "연봉제규정/public_2128341/연봉제규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "연봉제규정/연봉제규정.json"
           },
           {
             "relation_type": "citation",
@@ -2207,13 +1511,9 @@
             "target_url": "https://www.law.go.kr/학칙공단/연봉제규정/제30조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)연봉제규정시행세칙#JO0020",
-            "reference_id": "SchlPubRul:연봉제규정:public_2128341#JO0030",
+            "reference_id": "SchlPubRul:연봉제규정#JO0030",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "연봉제규정/연봉제규정.json",
-            "target_git_path": "연봉제규정/public_2128341/연봉제규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "연봉제규정/연봉제규정.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -2238,12 +1538,7 @@
             "target_unit": "BYL0009",
             "reference_id": "SchlPubRul:(한국농어촌공사)연봉제규정시행세칙#BYL0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json",
-            "target_git_path": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json",
-            "target_git_file_path": "(한국농어촌공사) 연봉제규정시행세칙/별표/별표9_퇴직금 산출조서.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json"
           }
         ],
         "images": [],
@@ -2273,30 +1568,9 @@
             "target_url": "https://www.law.go.kr/학칙공단/연봉제규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)연봉제규정시행세칙#JO0021",
-            "reference_id": "SchlPubRul:연봉제규정:public_2128341#DOC",
+            "reference_id": "SchlPubRul:연봉제규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "연봉제규정/연봉제규정.json",
-            "target_candidates": 2,
-            "target_candidate_paths": [
-              {
-                "git_path": "연봉제규정/public_2127981/연봉제규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:연봉제규정:public_2127981#DOC",
-                "is_current": true,
-                "enforcement_date": "20160811"
-              },
-              {
-                "git_path": "연봉제규정/public_2128341/연봉제규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:연봉제규정:public_2128341#DOC",
-                "is_current": true,
-                "enforcement_date": "20250101"
-              }
-            ],
-            "target_git_path": "연봉제규정/public_2128341/연봉제규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "연봉제규정/연봉제규정.json"
           },
           {
             "relation_type": "citation",
@@ -2314,13 +1588,9 @@
             "target_url": "https://www.law.go.kr/학칙공단/연봉제규정/제32조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)연봉제규정시행세칙#JO0021",
-            "reference_id": "SchlPubRul:연봉제규정:public_2128341#JO0032",
+            "reference_id": "SchlPubRul:연봉제규정#JO0032",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "연봉제규정/연봉제규정.json",
-            "target_git_path": "연봉제규정/public_2128341/연봉제규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "연봉제규정/연봉제규정.json"
           }
         ],
         "images": [],
@@ -2350,30 +1620,9 @@
             "target_url": "https://www.law.go.kr/학칙공단/연봉제규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)연봉제규정시행세칙#JO0022",
-            "reference_id": "SchlPubRul:연봉제규정:public_2128341#DOC",
+            "reference_id": "SchlPubRul:연봉제규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "연봉제규정/연봉제규정.json",
-            "target_candidates": 2,
-            "target_candidate_paths": [
-              {
-                "git_path": "연봉제규정/public_2127981/연봉제규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:연봉제규정:public_2127981#DOC",
-                "is_current": true,
-                "enforcement_date": "20160811"
-              },
-              {
-                "git_path": "연봉제규정/public_2128341/연봉제규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:연봉제규정:public_2128341#DOC",
-                "is_current": true,
-                "enforcement_date": "20250101"
-              }
-            ],
-            "target_git_path": "연봉제규정/public_2128341/연봉제규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "연봉제규정/연봉제규정.json"
           },
           {
             "relation_type": "citation",
@@ -2391,13 +1640,9 @@
             "target_url": "https://www.law.go.kr/학칙공단/연봉제규정/제27조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)연봉제규정시행세칙#JO0022",
-            "reference_id": "SchlPubRul:연봉제규정:public_2128341#JO0027",
+            "reference_id": "SchlPubRul:연봉제규정#JO0027",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "연봉제규정/연봉제규정.json",
-            "target_git_path": "연봉제규정/public_2128341/연봉제규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "연봉제규정/연봉제규정.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -2422,12 +1667,7 @@
             "target_unit": "BYL0010",
             "reference_id": "SchlPubRul:(한국농어촌공사)연봉제규정시행세칙#BYL0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json",
-            "target_git_path": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json",
-            "target_git_file_path": "(한국농어촌공사) 연봉제규정시행세칙/별표/별표10_퇴직금중간정산 신청서.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국농어촌공사) 연봉제규정시행세칙/(한국농어촌공사) 연봉제규정시행세칙.json"
           }
         ],
         "images": [],
@@ -2645,11 +1885,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000145587&bylNo=0001&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170094789",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170489961",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170094789",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170489961",
           "name": "",
           "file_store_url": ""
         }
@@ -2670,11 +1910,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000145587&bylNo=0001&bylBrNo=02",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170094795",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170489967",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170094795",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170489967",
           "name": "",
           "file_store_url": ""
         }
@@ -2695,11 +1935,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000145587&bylNo=0001&bylBrNo=03",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170094799",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170489971",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170094799",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170489971",
           "name": "",
           "file_store_url": ""
         }
@@ -2720,11 +1960,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000145587&bylNo=0002&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170094803",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170489975",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170094803",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170489975",
           "name": "",
           "file_store_url": ""
         }
@@ -2745,11 +1985,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000145587&bylNo=0003&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170094807",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170490019",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170094807",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170490019",
           "name": "",
           "file_store_url": ""
         }
@@ -2770,11 +2010,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000145587&bylNo=0004&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170094811",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170490023",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170094811",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170490023",
           "name": "",
           "file_store_url": ""
         }
@@ -2795,11 +2035,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000145587&bylNo=0005&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170094815",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170490027",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170094815",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170490027",
           "name": "",
           "file_store_url": ""
         }
@@ -2820,11 +2060,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000145587&bylNo=0006&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170094819",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170490031",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170094819",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170490031",
           "name": "",
           "file_store_url": ""
         }
@@ -2845,11 +2085,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000145587&bylNo=0006&bylBrNo=02",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170094823",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170490035",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170094823",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170490035",
           "name": "",
           "file_store_url": ""
         }
@@ -2870,11 +2110,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000145587&bylNo=0006&bylBrNo=03",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170094827",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170490039",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170094827",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170490039",
           "name": "",
           "file_store_url": ""
         }
@@ -2895,11 +2135,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000145587&bylNo=0006&bylBrNo=04",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170094831",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170490043",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170094831",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170490043",
           "name": "",
           "file_store_url": ""
         }
@@ -2920,11 +2160,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000145587&bylNo=0007&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170094835",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170490047",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170094835",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170490047",
           "name": "",
           "file_store_url": ""
         }
@@ -2945,11 +2185,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000145587&bylNo=0008&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170094839",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170490051",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170094839",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170490051",
           "name": "",
           "file_store_url": ""
         }
@@ -2970,11 +2210,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000145587&bylNo=0008&bylBrNo=01",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170094843",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170490055",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170094843",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170490055",
           "name": "",
           "file_store_url": ""
         }
@@ -2995,11 +2235,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000145587&bylNo=0008&bylBrNo=02",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170094847",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170490059",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170094847",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170490059",
           "name": "",
           "file_store_url": ""
         }
@@ -3020,11 +2260,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000145587&bylNo=0009&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170094851",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170490063",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170094851",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170490063",
           "name": "",
           "file_store_url": ""
         }
@@ -3045,11 +2285,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000145587&bylNo=0010&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170094855",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170490067",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170094855",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170490067",
           "name": "",
           "file_store_url": ""
         }
