@@ -1,6 +1,6 @@
 {
   "law_id": "2112353",
-  "mst": "2200000139467",
+  "mst": "2200000160567",
   "law_name": "(한국국토정보공사) 공간정보 보안업무예규",
   "law_abbr": "",
   "law_type": "공단규정",
@@ -8,9 +8,9 @@
   "doc_kind": "공단정관",
   "adm_uid": "pi:2112353",
   "promulgation_no": "9999",
-  "promulgation_date": "20250116",
-  "enforcement_date": "20250116",
-  "revision_date": "20250116",
+  "promulgation_date": "20260701",
+  "enforcement_date": "20260701",
+  "revision_date": "20260701",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
@@ -19,7 +19,7 @@
     "담당자명": "이태경",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "(한국국토정보공사) 공간정보 보안업무예규",
-    "발령일자": "20250116",
+    "발령일자": "20260701",
     "행정규칙종류": "공단규정",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,11 +27,11 @@
     "전화번호": "063-713-1096",
     "제개정구분명": "일부개정",
     "소관부처코드": "B553501",
-    "생성일자": "20260330",
+    "생성일자": "20260928",
     "행정규칙ID": "2112353",
     "담당부서기관코드": "B553501",
     "발령번호": "9999",
-    "행정규칙일련번호": "2200000139467"
+    "행정규칙일련번호": "2200000160567"
   },
   "amendment_text": "",
   "revision_reason": "",
@@ -44,7 +44,7 @@
         "article_title": "목적",
         "chapter": "제1장 총칙",
         "chapter_path": "제1장 총칙",
-        "content": "제1조(목적) 이 예규는 「국가공간정보 기본법」 , 국가정보원의 「국가 정보보안 기본지침」 , 「국토교통부 국가공간정보 보안관리규정」 , 「공간정보업무규정」 제9조에 따라 한국국토정보공사의 공간정보 보안 업무 수행에 필요한 세부사항을 규정함을 목적으로 한다. <개정 2025. 01. 16 .>",
+        "content": "제1조(목적) 이 예규는 「국가공간정보 기본법」, 국가정보원의 「국가 정보보안 기본지침」, 「국토교통부 국가공간정보 보안관리규정」, 「공간정보업무규정」 제9조에 따라 한국국토정보공사의 공간정보 보안 업무 수행에 필요한 세부사항을 규정함을 목적으로 한다.<개정 2025. 01. 16.>",
         "enforcement_date": "",
         "relations": [
           {
@@ -65,9 +65,7 @@
             "source_provision_id": "SchlPubRul:(한국국토정보공사)공간정보보안업무예규#JO0001",
             "reference_id": "law:국가공간정보기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공간정보 기본법/법률/국가공간정보 기본법.json",
-            "target_git_path": "국가공간정보 기본법/법률/국가공간정보 기본법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공간정보 기본법/법률/국가공간정보 기본법.json"
           },
           {
             "relation_type": "citation",
@@ -87,11 +85,7 @@
             "source_provision_id": "SchlPubRul:(한국국토정보공사)공간정보보안업무예규#JO0001",
             "reference_id": "admrul:국토교통부국가공간정보보안관리규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국토교통부 국가공간정보 보안관리규정/국토교통부 국가공간정보 보안관리규정.json",
-            "target_git_path": "국토교통부 국가공간정보 보안관리규정/국토교통부 국가공간정보 보안관리규정.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "국토교통부 국가공간정보 보안관리규정/국토교통부 국가공간정보 보안관리규정.json"
           }
         ],
         "images": [],
@@ -102,7 +96,7 @@
         "article_title": "정의",
         "chapter": "제1장 총칙",
         "chapter_path": "제1장 총칙",
-        "content": "제2조(정의) \"공간정보 보안\"이란 「국가공간정보 기본법」 제2조제1호에 따른 공간정보의 구축ㆍ관리 및 활용에서 공개가 제한되는 공간정보에 대한 부당한 접근과 이용 또는 유출을 방지하기 위한 일체의 행위를 말한다. <개정 2025. 01. 16 .>",
+        "content": "제2조(정의) \"공간정보 보안\"이란 「국가공간정보 기본법」 제2조제1호에 따른 공간정보의 구축ㆍ관리 및 활용에서 공개가 제한되는 공간정보에 대한 부당한 접근과 이용 또는 유출을 방지하기 위한 일체의 행위를 말한다.<개정 2025. 01. 16.>",
         "enforcement_date": "",
         "relations": [
           {
@@ -123,9 +117,7 @@
             "source_provision_id": "SchlPubRul:(한국국토정보공사)공간정보보안업무예규#JO0002",
             "reference_id": "law:국가공간정보기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공간정보 기본법/법률/국가공간정보 기본법.json",
-            "target_git_path": "국가공간정보 기본법/법률/국가공간정보 기본법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공간정보 기본법/법률/국가공간정보 기본법.json"
           },
           {
             "relation_type": "citation",
@@ -145,9 +137,7 @@
             "source_provision_id": "SchlPubRul:(한국국토정보공사)공간정보보안업무예규#JO0002",
             "reference_id": "law:국가공간정보기본법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공간정보 기본법/법률/국가공간정보 기본법.json",
-            "target_git_path": "국가공간정보 기본법/법률/국가공간정보 기본법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공간정보 기본법/법률/국가공간정보 기본법.json"
           }
         ],
         "images": [],
@@ -158,7 +148,7 @@
         "article_title": "적용범위",
         "chapter": "제1장 총칙",
         "chapter_path": "제1장 총칙",
-        "content": "제3조(적용범위) 이 예규는 공간정보를 생산ㆍ구축ㆍ관리ㆍ유통 및 활용하는 공사와 그 소관업무를 수행하는 외부인(용역사업 수행 업체, 퇴직인 등)에 적용한다. <개정 2025. 01. 16 .>",
+        "content": "제3조(적용범위) 이 예규는 공간정보를 생산ㆍ구축ㆍ관리ㆍ유통 및 활용하는 공사와 그 소관업무를 수행하는 외부인(용역사업 수행 업체, 퇴직인 등)에 적용한다.<개정 2025. 01. 16.>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -169,7 +159,7 @@
         "article_title": "다른 법령과의 관계",
         "chapter": "제1장 총칙",
         "chapter_path": "제1장 총칙",
-        "content": "제4조(다른 법령과의 관계) 이 예규에 명시되지 않은 사항은 다음 각 호의 법규를 따른다. <개정 2025. 01. 16 .>1. 「국가정보원법」2. 「공공기록물 관리에 관한 법률 시행령」3. 그 밖의 관계 법규",
+        "content": "제4조(다른 법령과의 관계) 이 예규에 명시되지 않은 사항은 다음 각 호의 법규를 따른다.1. 「국가정보원법」2. 「공공기록물 관리에 관한 법률 시행령」3. 그 밖의 관계 법규<개정 2025. 01. 16.>",
         "enforcement_date": "",
         "relations": [
           {
@@ -190,9 +180,7 @@
             "source_provision_id": "SchlPubRul:(한국국토정보공사)공간정보보안업무예규#JO0004",
             "reference_id": "law:국가정보원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가정보원법/법률/국가정보원법.json",
-            "target_git_path": "국가정보원법/법률/국가정보원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가정보원법/법률/국가정보원법.json"
           },
           {
             "relation_type": "citation",
@@ -212,9 +200,7 @@
             "source_provision_id": "SchlPubRul:(한국국토정보공사)공간정보보안업무예규#JO0004",
             "reference_id": "law:공공기록물관리에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
-            "target_git_path": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json"
           }
         ],
         "images": [],
@@ -225,7 +211,7 @@
         "article_title": "운영체계",
         "chapter": "제2장 공간정보 보안 관리체계",
         "chapter_path": "제2장 공간정보 보안 관리체계",
-        "content": "제5조(운영체계) ① 공간정보 보안의 최고책임자는 기획혁신본부장이 된다.  <개정 2022. 01. 24.>② 공간정보 보안담당관은 정보전략실장이 되며, 다음 각 호에 해당하는 자를 분임공간정보 보안담당관으로 한다.  <개정 2022. 01. 24.>1. 본사, 부설기관 및 지역본부: 각 실ㆍ처ㆍ장2. 지사: 각 지사장③ 제2항의 분임공간정보 보안담당관은 공간정보 보안담당관의 지휘ㆍ감독하에 해당 소속 또는 업무에 속하는 범위에서 공간정보 보안담당관의 임무를 수행하게 할 수 있다.",
+        "content": "제5조(운영체계) ① 공간정보 보안의 최고책임자는 기획혁신본부장이 된다.② 공간정보 보안담당관은 AI디지털전략실장이 되며, 다음 각 호에 해당하는 자를 분임공간정보 보안담당관으로 한다.1. 본사, 부설기관 및 지역본부: 각 실ㆍ처ㆍ장2. 지사: 각 지사장③ 제2항의 분임공간정보 보안담당관은 공간정보 보안담당관의 지휘ㆍ감독하에 해당 소속 또는 업무에 속하는 범위에서 공간정보 보안담당관의 임무를 수행하게 할 수 있다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -247,7 +233,7 @@
         "article_title": "공간정보 보안 심의위원회의",
         "chapter": "제2장 공간정보 보안 관리체계",
         "chapter_path": "제2장 공간정보 보안 관리체계",
-        "content": "제7조(공간정보 보안 심의위원회의) ① 공간정보 보안업무 수행에 필요한 사항을 심의ㆍ의결하기 위하여 공간정보 보안심사위원회(이하 \"위원회\"라 한다)를 다음과 같이 운영한다.1. 위원장: 기획혁신본부장2. 부위원장: 정보전략실장3. 위원: 지적사업실장, 지적재조사처장, 공간정보실장, 글로벌사업처장, 경영지원실장.② 위원회는 다음 각 호의 사항에 대해 심의ㆍ의결한다.1. 공간정보 보안업무 계획의 수립 및 추진에 관한 사항 <신설 2025. 01. 16.>2. 비공개ㆍ공개제한 공간정보의 재분류에 관한 사항3. 비공개ㆍ공개제한 공간정보의 공개여부 및 공개 활용에 따른 보안대책4. 그 밖에 공간정보 보안업무에 관한 주요 사항③ 위원회는 재적위원 과반수의 출석으로 개회하고 출석위원 과반수의 찬성으로 의결한다. 다만, 위원회의 소집이 곤란하거나 긴급한 조치가 필요한 경우에는 서면 의결로서 갈음할 수 있다.④ 위원회는 제출된 안건의 심의에 필요한 경우 관계자를 출석시켜 의견을 진술하게 할 수 있다.",
+        "content": "제7조(공간정보 보안 심의위원회의) ① 공간정보 보안업무 수행에 필요한 사항을 심의ㆍ의결하기 위하여 공간정보 보안심사위원회(이하 \"위원회\"라 한다)를 다음과 같이 운영한다.1. 위원장: 기획혁신본부장2. 부위원장: AI디지털전략실장3. 위원: 지적사업실장, 지적재조사처장, 공간정보실장, 글로벌사업처장, 경영지원실장.② 위원회는 다음 각 호의 사항에 대해 심의ㆍ의결한다.1. 공간정보 보안업무 계획의 수립 및 추진에 관한 사항2. 비공개ㆍ공개제한 공간정보의 재분류에 관한 사항3. 비공개ㆍ공개제한 공간정보의 공개여부 및 공개 활용에 따른 보안대책4. 그 밖에 공간정보 보안업무에 관한 주요 사항③ 위원회는 재적위원 과반수의 출석으로 개회하고 출석위원 과반수의 찬성으로 의결한다. 다만, 위원회의 소집이 곤란하거나 긴급한 조치가 필요한 경우에는 서면 의결로서 갈음할 수 있다.④ 위원회는 제출된 안건의 심의에 필요한 경우 관계자를 출석시켜 의견을 진술하게 할 수 있다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -258,7 +244,7 @@
         "article_title": "공간정보의 분류",
         "chapter": "제3장 공간정보의 보호 및 관리",
         "chapter_path": "제3장 공간정보의 보호 및 관리",
-        "content": "제8조(공간정보의 분류) ① 공간정보는 다음 각 호의 기본 분류기준에 따라 구분하여 관리하여야 한다.1. 비공개 공간정보가. 공개될 경우 국가안보에 유해로운 결과를 초래할 우려가 있다고 인정되어 비밀로 분류된 공간정보나. 법률 또는 법률에 의한 명령에 따라 비공개 사항으로 규정된 공간정보2. 공개가 제한되는 공간정보가. 공개될 경우 공공의 안전과 이익을 해할 우려가 있다고 인정되는 공간정보나. 공개될 경우 개인정보를 침해할 우려가 있는 공간정보다. 그 밖에 공개될 경우 관리기관의 업무수행에 지장을 초래한다고 인정되는 공간정보3. 공개 공간정보 <개정 2025. 01. 16.>가. 제1호와 제2호 이외의 공간정보 <신설 2025. 01. 16.>나. 제2호 나목에 해당하는 공간정보에 포함된 개인정보의 일부 또는 전부를 삭제하는 방법 등으로 보안 처리하여 공개될 경우 개인정보를 침해할 우려가 없는 공간정보 <신설 2025. 01. 16.>② 공간정보를 분류할 때에는 별표 1에 따라 세부 분류 기준별로 \"비공개\", \"공개제한\", \"공개\"로 분류하고 별지 제1호서식의 공간정보관리대장에 관리하여야 한다.  <개정 2025. 01. 16.>",
+        "content": "제8조(공간정보의 분류) ① 공간정보는 다음 각 호의 기본 분류기준에 따라 구분하여 관리하여야 한다.1. 비공개 공간정보가. 공개될 경우 국가안보에 유해로운 결과를 초래할 우려가 있다고 인정되어 비밀로 분류된 공간정보나. 법률 또는 법률에 의한 명령에 따라 비공개 사항으로 규정된 공간정보2. 공개가 제한되는 공간정보가. 공개될 경우 공공의 안전과 이익을 해할 우려가 있다고 인정되는 공간정보나. 공개될 경우 개인정보를 침해할 우려가 있는 공간정보다. 그 밖에 공개될 경우 관리기관의 업무수행에 지장을 초래한다고 인정되는 공간정보3. 공개 공간정보가. 제1호와 제2호 이외의 공간정보나. 제2호 나목에 해당하는 공간정보에 포함된 개인정보의 일부 또는 전부를 삭제하는 방법 등으로 보안 처리하여 공개될 경우 개인정보를 침해할 우려가 없는 공간정보② 공간정보를 분류할 때에는 별표 1에 따라 세부 분류 기준별로 \"비공개\", \"공개제한\", \"공개\"로 분류하고 별지 제1호서식의 공간정보관리대장에 관리하여야 한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -278,18 +264,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2112353",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000139467&bylNo=0001&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000160567&bylNo=0001&bylBrNo=00",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국국토정보공사)공간정보보안업무예규#JO0008",
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(한국국토정보공사)공간정보보안업무예규#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국토정보공사) 공간정보 보안업무예규/(한국국토정보공사) 공간정보 보안업무예규.json",
-            "target_git_path": "(한국국토정보공사) 공간정보 보안업무예규/(한국국토정보공사) 공간정보 보안업무예규.json",
-            "target_git_file_path": "(한국국토정보공사) 공간정보 보안업무예규/별표/별표1_국가공간정보 세부 분류기준.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국국토정보공사) 공간정보 보안업무예규/(한국국토정보공사) 공간정보 보안업무예규.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -308,18 +289,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2112353",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162920569",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169669717",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국국토정보공사)공간정보보안업무예규#JO0008",
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(한국국토정보공사)공간정보보안업무예규#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국토정보공사) 공간정보 보안업무예규/(한국국토정보공사) 공간정보 보안업무예규.json",
-            "target_git_path": "(한국국토정보공사) 공간정보 보안업무예규/(한국국토정보공사) 공간정보 보안업무예규.json",
-            "target_git_file_path": "(한국국토정보공사) 공간정보 보안업무예규/별지/별지1_공간정보 관리대장.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국국토정보공사) 공간정보 보안업무예규/(한국국토정보공사) 공간정보 보안업무예규.json"
           }
         ],
         "images": [],
@@ -330,7 +306,7 @@
         "article_title": "공간정보의 취급",
         "chapter": "제3장 공간정보의 보호 및 관리",
         "chapter_path": "제3장 공간정보의 보호 및 관리",
-        "content": "제9조(공간정보의 취급) ① 비공개 또는 공개가 제한되는 공간정보는 업무상 관련이 있는 사람에 한하여 취급할 수 있다.  <개정 2025. 01. 16.>② 비밀로 분류된 공간정보 보안관리는 공사 「보안업무예규」 를 따른다.  <개정 2025. 01. 16.>",
+        "content": "제9조(공간정보의 취급) ① 비공개 또는 공개가 제한되는 공간정보는 업무상 관련이 있는 사람에 한하여 취급할 수 있다.② 비밀로 분류된 공간정보 보안관리는 공사 「보안업무예규」를 따른다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -341,7 +317,7 @@
         "article_title": "공간정보데이터베이스의 보호",
         "chapter": "제3장 공간정보의 보호 및 관리",
         "chapter_path": "제3장 공간정보의 보호 및 관리",
-        "content": "제10조(공간정보데이터베이스의 보호) ① 공간정보데이터베이스를 운영할 경우 공간정보데이터베이스의 훼손ㆍ파괴ㆍ유출 등을 방지하기 위한 보호대책을 마련하여야 한다.② 제1항의 보호대책에 포함되어야 할 사항은 다음 각 호와 같다.1. 보안관리 책임자 지정: 담당부서의 장2. 데이터베이스 보관 시설에 대한 출입통제 등 외부로부터 위해 방지3. 별지 제2호서식의 데이터베이스 복제본 관리대장 비치 <개정 2025. 01. 16.>4. 공간정보자료(원시자료 및 원시자료를 이용하여 생산한 성과물포함)에 대한 접근권한을 구분하여 설정5. 비공개 또는 공개가 제한되는 공간정보 자료목록 관리 및 무단 열람과 복제 여부6. 해킹 등 불법접근 및 컴퓨터바이러스 예방대책 마련③ 전자매체에 수록된 공간정보 자료는 열람ㆍ전송ㆍ출력 등 사용내역 을 확인할 수 있도록 검색 시스템을 구축하여 관리해야 한다.",
+        "content": "제10조(공간정보데이터베이스의 보호) ① 공간정보데이터베이스를 운영할 경우 공간정보데이터베이스의 훼손ㆍ파괴ㆍ유출 등을 방지하기 위한 보호대책을 마련하여야 한다.② 제1항의 보호대책에 포함되어야 할 사항은 다음 각 호와 같다.1. 보안관리 책임자 지정: 담당부서의 장2. 데이터베이스 보관 시설에 대한 출입통제 등 외부로부터 위해 방지3. 별지 제2호서식의 데이터베이스 복제본 관리대장 비치4. 공간정보자료(원시자료 및 원시자료를 이용하여 생산한 성과물포함)에 대한 접근권한을 구분하여 설정5. 비공개 또는 공개가 제한되는 공간정보 자료목록 관리 및 무단 열람과 복제 여부6. 해킹 등 불법접근 및 컴퓨터바이러스 예방대책 마련③ 전자매체에 수록된 공간정보 자료는 열람ㆍ전송ㆍ출력 등 사용내역 을 확인할 수 있도록 검색 시스템을 구축하여 관리해야 한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -361,18 +337,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2112353",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162920575",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169669723",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국국토정보공사)공간정보보안업무예규#JO0010",
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(한국국토정보공사)공간정보보안업무예규#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국토정보공사) 공간정보 보안업무예규/(한국국토정보공사) 공간정보 보안업무예규.json",
-            "target_git_path": "(한국국토정보공사) 공간정보 보안업무예규/(한국국토정보공사) 공간정보 보안업무예규.json",
-            "target_git_file_path": "(한국국토정보공사) 공간정보 보안업무예규/별지/별지2_데이터베이스 복제본 관리대장.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국국토정보공사) 공간정보 보안업무예규/(한국국토정보공사) 공간정보 보안업무예규.json"
           }
         ],
         "images": [],
@@ -383,7 +354,7 @@
         "article_title": "공간정보유통망 관리",
         "chapter": "제3장 공간정보의 보호 및 관리",
         "chapter_path": "제3장 공간정보의 보호 및 관리",
-        "content": "제11조(공간정보유통망 관리) ① 공간정보 유통관리기구 설치 및 운영 시 공간정보의 위ㆍ변조, 불법유출 등을 방지하기 위하여 공간정보 유통망에 대한 보호대책을 수립하여 시행하여야 한다.② 제1항의 보호대책에 포함되어야 할 사항은 다음 각 호와 같다.1. 보안관리 책임자 지정: 담당부서의 장2. 침입차단시스템 설치, 운용3. 해킹 및 컴퓨터바이러스 예방대책 마련4. 비밀로 분류된 공간정보 유통 시 암호자재 사용 등 「정보보안 업무지침」 제21조에 따른 보안대책 마련 <개정 2025. 01. 16.>5. 유통망의 취약점, 중요공간정보 무단 포함 여부 등에 대한 주기적 분석 및 점검",
+        "content": "제11조(공간정보유통망 관리) ① 공간정보 유통관리기구 설치 및 운영 시 공간정보의 위ㆍ변조, 불법유출 등을 방지하기 위하여 공간정보 유통망에 대한 보호대책을 수립하여 시행하여야 한다.② 제1항의 보호대책에 포함되어야 할 사항은 다음 각 호와 같다.1. 보안관리 책임자 지정: 담당부서의 장2. 침입차단시스템 설치, 운용3. 해킹 및 컴퓨터바이러스 예방대책 마련4. 비밀로 분류된 공간정보 유통 시 암호자재 사용 등 「정보보안 업무지침」 제21조에 따른 보안대책 마련5. 유통망의 취약점, 중요공간정보 무단 포함 여부 등에 대한 주기적 분석 및 점검",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -394,7 +365,7 @@
         "article_title": "공간정보의 복제ㆍ출력 등 제한",
         "chapter": "제3장 공간정보의 보호 및 관리",
         "chapter_path": "제3장 공간정보의 보호 및 관리",
-        "content": "제12조(공간정보의 복제ㆍ출력 등 제한) ① 비공개 또는 공개가 제한되는 공간정보는 다음 각 호의 경우를 제외하고는 복제 또는 출력할 수 없다.1. 「국가공간정보 기본법 시행령」 제25조에 따라 복제ㆍ관리하는 경우2. 비공개 공간정보는 관리기관 장의 허가를 받은 때3. 공개가 제한되는 공간정보는 분임 공간정보 보안담당관의 허가를 받은 때 <개정 2025. 01. 16.>② 제1항에 따라 공간정보를 복제ㆍ출력한 때에는 경고문() 을 표시하고, 대외비 이상으로 분류된 공간정보는 예고문 부여 등 보호대책을 마련한 후 별지 제3호 서식의 공간정보자료 복제ㆍ출력대장에 기록하여야 한다.  <개정 2025. 01. 16.>",
+        "content": "제12조(공간정보의 복제ㆍ출력 등 제한) ① 비공개 또는 공개가 제한되는 공간정보는 다음 각 호의 경우를 제외하고는 복제 또는 출력할 수 없다.1. 「국가공간정보 기본법 시행령」 제25조에 따라 복제ㆍ관리하는 경우2. 비공개 공간정보는 관리기관 장의 허가를 받은 때3. 공개가 제한되는 공간정보는 분임 공간정보 보안담당관의 허가를 받은 때② 제1항에 따라 공간정보를 복제ㆍ출력한 때에는 경고문[그림]을 표시하고, 대외비 이상으로 분류된 공간정보는 예고문 부여 등 보호대책을 마련한 후 별지 제3호서식의 공간정보자료 복제ㆍ출력대장에 기록하여야 한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -415,9 +386,7 @@
             "source_provision_id": "SchlPubRul:(한국국토정보공사)공간정보보안업무예규#JO0012",
             "reference_id": "law:국가공간정보기본법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공간정보 기본법/시행령/국가공간정보 기본법 시행령.json",
-            "target_git_path": "국가공간정보 기본법/시행령/국가공간정보 기본법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공간정보 기본법/시행령/국가공간정보 기본법 시행령.json"
           },
           {
             "relation_type": "citation",
@@ -437,9 +406,7 @@
             "source_provision_id": "SchlPubRul:(한국국토정보공사)공간정보보안업무예규#JO0012",
             "reference_id": "law:국가공간정보기본법시행령#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공간정보 기본법/시행령/국가공간정보 기본법 시행령.json",
-            "target_git_path": "국가공간정보 기본법/시행령/국가공간정보 기본법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공간정보 기본법/시행령/국가공간정보 기본법 시행령.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -447,7 +414,7 @@
             "target_category": "학칙공단",
             "source_article_no": "제12조",
             "source_clause": "제12조제2항",
-            "link_text": "별지 제3호 서식",
+            "link_text": "별지 제3호서식",
             "line_text": "",
             "target_law_name": "(한국국토정보공사) 공간정보 보안업무예규",
             "target_article_no": "별지3",
@@ -458,21 +425,26 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2112353",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162920621",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169669729",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국국토정보공사)공간정보보안업무예규#JO0012",
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:(한국국토정보공사)공간정보보안업무예규#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국토정보공사) 공간정보 보안업무예규/(한국국토정보공사) 공간정보 보안업무예규.json",
-            "target_git_path": "(한국국토정보공사) 공간정보 보안업무예규/(한국국토정보공사) 공간정보 보안업무예규.json",
-            "target_git_file_path": "(한국국토정보공사) 공간정보 보안업무예규/별지/별지3_공간정보자료 복제 출력 대장.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국국토정보공사) 공간정보 보안업무예규/(한국국토정보공사) 공간정보 보안업무예규.json"
           }
         ],
-        "images": [],
+        "images": [
+          {
+            "type": "image",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169668475",
+            "seq": "169668475",
+            "filename": "제12조_1.gif",
+            "file_dir": "본문이미지",
+            "local_path": "본문이미지/제12조_1.gif",
+            "file_store_url": ""
+          }
+        ],
         "provision_id": "SchlPubRul:(한국국토정보공사)공간정보보안업무예규#JO0012"
       },
       {
@@ -501,11 +473,7 @@
             "source_provision_id": "SchlPubRul:(한국국토정보공사)공간정보보안업무예규#JO0013",
             "reference_id": "admrul:보안업무규정시행규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
-            "target_git_path": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json"
           },
           {
             "relation_type": "citation",
@@ -525,11 +493,7 @@
             "source_provision_id": "SchlPubRul:(한국국토정보공사)공간정보보안업무예규#JO0013",
             "reference_id": "admrul:보안업무규정시행규칙#JO0013",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
-            "target_git_path": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json"
           }
         ],
         "images": [],
@@ -540,7 +504,7 @@
         "article_title": "보호구역 설정 및 출입통제",
         "chapter": "제3장 공간정보의 보호 및 관리",
         "chapter_path": "제3장 공간정보의 보호 및 관리",
-        "content": "제14조(보호구역 설정 및 출입통제) ① 공간정보의 보호를 위하여 필요한 경우 보호구역을 설정할 수 있다.  <개정 2025. 01. 16.>② 제1항의 보호구역에 대하여는 관리책임자를 지정하고 다음의 보호대책을 마련하여야 한다.  <신설 2025. 01. 16.>1. 출입 인가자를 사전에 지정하고, 비인가자는 관리책임자의 허가를 받은 후 안내를 받아 출입 <신설 2025. 01. 16.>2. 무단출입 방지를 위해 출입문에 생체ㆍ카드 인식기 및 자동잠금장치 설치 <신설 2025. 01. 16.>3. 모든 출입자는 출입통제 대장에 출입사항을 기록. 단, 생체ㆍ자동인식기 등을 통한 자동출입기록으로 대체가 가능하다.  <신설 2025. 01. 16.>4. 출입구에 CCTV를 설치하고 특이사항 발생 시 관리책임자에게 즉시 통보될 수 있도록 상황전파체계 구축 <신설 2025. 01. 16.>5. 비인가 카메라ㆍ휴대폰ㆍ휴대용 저장매체 등의 보관 용기를 출입구에 비치하여 불법 촬영 및 자료유출 방지 <신설 2025. 01. 16.>",
+        "content": "제14조(보호구역 설정 및 출입통제) ① 공간정보의 보호를 위하여 필요한 경우 보호구역을 설정할 수 있다.② 제1항의 보호구역에 대하여는 관리책임자를 지정하고 다음의 보호대책을 마련하여야 한다.1. 출입 인가자를 사전에 지정하고, 비인가자는 관리책임자의 허가를 받은 후 안내를 받아 출입2. 무단출입 방지를 위해 출입문에 생체ㆍ카드 인식기 및 자동잠금장치 설치3. 모든 출입자는 출입통제 대장에 출입사항을 기록. 단, 생체ㆍ자동인식기 등을 통한 자동출입기록으로 대체가 가능하다.4. 출입구에 CCTV를 설치하고 특이사항 발생 시 관리책임자에게 즉시 통보될 수 있도록 상황전파체계 구축5. 비인가 카메라ㆍ휴대폰ㆍ휴대용 저장매체 등의 보관 용기를 출입구에 비치하여 불법 촬영 및 자료유출 방지",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -593,18 +557,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2112353",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000139467&bylNo=0002&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000160567&bylNo=0002&bylBrNo=00",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국국토정보공사)공간정보보안업무예규#JO0017",
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:(한국국토정보공사)공간정보보안업무예규#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국토정보공사) 공간정보 보안업무예규/(한국국토정보공사) 공간정보 보안업무예규.json",
-            "target_git_path": "(한국국토정보공사) 공간정보 보안업무예규/(한국국토정보공사) 공간정보 보안업무예규.json",
-            "target_git_file_path": "(한국국토정보공사) 공간정보 보안업무예규/별표/별표2_공간정보의 안전지출 및 파기계획.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국국토정보공사) 공간정보 보안업무예규/(한국국토정보공사) 공간정보 보안업무예규.json"
           }
         ],
         "images": [],
@@ -658,9 +617,7 @@
             "source_provision_id": "SchlPubRul:(한국국토정보공사)공간정보보안업무예규#JO0020",
             "reference_id": "law:보안업무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
-            "target_git_path": "보안업무규정/법률/보안업무규정.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
           },
           {
             "relation_type": "citation",
@@ -680,9 +637,7 @@
             "source_provision_id": "SchlPubRul:(한국국토정보공사)공간정보보안업무예규#JO0020",
             "reference_id": "law:보안업무규정#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
-            "target_git_path": "보안업무규정/법률/보안업무규정.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
           }
         ],
         "images": [],
@@ -693,7 +648,7 @@
         "article_title": "항공사진의 수집",
         "chapter": "제4장 초경량비행장치 등",
         "chapter_path": "제4장 초경량비행장치 등",
-        "content": "제21조(항공사진의 수집) 항공사진 촬영에 대하여는 다음 단계별 사항에 따라야 한다.1. 계획단계: 항공사진 촬영에 대한 일정 및 촬영조건을 계획하는데 있어 다음 각 호의 사항을 확인ㆍ검토하여야 한다.  <신설 2025. 01. 16.>가. 촬영 대상지의 비행승인 여부 <신설 2025. 01. 16.>나. 촬영 대상지의 촬영승인 여부 <신설 2025. 01. 16.>2. 촬영단계: 장비(초경량비행장치 등)를 이용하여 대상물을 촬영하는데 있어 다음 각 호의 사항을 확인ㆍ검토하여야 한다.  <신설 2025. 01. 16.>가. 항공안전법에서 정한 초경량비행장치 조종자등의 준수사항 <신설 2025. 01. 16.>나. 국가보안법에서 정한 주요시설물 촬영 여부 <신설 2025. 01. 16.>3. 처리단계: 촬영된 영상을 처리ㆍ가공하는데 있어 다음 각 호의 사항을 확인ㆍ검토하여야 한다.  <신설 2025. 01. 16.>가. 영상 취급자에 대한 별지 제5호서식의 보안서약서 작성 여부 <신설 2025. 01. 16.>나. 국가보안법에서 정한 주요시설물 촬영 여부 <신설 2025. 01. 16.>4. 작성단계: 가공되어 작성되어진 결과물에 대하여 다음 각 호의 사항을 확인ㆍ검토하여야 한다.  <신설 2025. 01. 16.>가. 국가보안법에서 정한 주요시설물 노출 여부 <신설 2025. 01. 16.>나. 성과품 작성 후 원본사진 삭제 여부 <신설 2025. 01. 16.>",
+        "content": "제21조(항공사진의 수집) 항공사진 촬영에 대하여는 다음 단계별 사항에 따라야 한다.1. 계획단계: 항공사진 촬영에 대한 일정 및 촬영조건을 계획하는데 있어 다음 각 호의 사항을 확인ㆍ검토하여야 한다.가. 촬영 대상지의 비행승인 여부나. 촬영 대상지의 촬영승인 여부2. 촬영단계: 장비(초경량비행장치 등)를 이용하여 대상물을 촬영하는데 있어 다음 각 호의 사항을 확인ㆍ검토하여야 한다.가. 항공안전법에서 정한 초경량비행장치 조종자등의 준수사항나. 국가보안법에서 정한 주요시설물 촬영 여부3. 처리단계: 촬영된 영상을 처리ㆍ가공하는데 있어 다음 각 호의 사항을 확인ㆍ검토하여야 한다.가. 영상 취급자에 대한 별지 제5호서식의 보안서약서 작성 여부나. 국가보안법에서 정한 주요시설물 촬영 여부4. 작성단계: 가공되어 작성되어진 결과물에 대하여 다음 각 호의 사항을 확인ㆍ검토하여야 한다.가. 국가보안법에서 정한 주요시설물 노출 여부나. 성과품 작성 후 원본사진 삭제 여부",
         "enforcement_date": "",
         "relations": [
           {
@@ -713,18 +668,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2112353",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162920631",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169669741",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국국토정보공사)공간정보보안업무예규#JO0021",
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:(한국국토정보공사)공간정보보안업무예규#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국토정보공사) 공간정보 보안업무예규/(한국국토정보공사) 공간정보 보안업무예규.json",
-            "target_git_path": "(한국국토정보공사) 공간정보 보안업무예규/(한국국토정보공사) 공간정보 보안업무예규.json",
-            "target_git_file_path": "(한국국토정보공사) 공간정보 보안업무예규/별지/별지5_항공사진 파기대장.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국국토정보공사) 공간정보 보안업무예규/(한국국토정보공사) 공간정보 보안업무예규.json"
           }
         ],
         "images": [],
@@ -735,7 +685,7 @@
         "article_title": "항공사진의 관리",
         "chapter": "제4장 초경량비행장치 등",
         "chapter_path": "제4장 초경량비행장치 등",
-        "content": "제22조(항공사진의 관리) ① 항공사진(원판포함)중 국가보안시설 및 군사시설이 포함된 사진은 비공개로, 국가보안시설 및 군사시설이 삭제된 지역 사진은 공개제한으로 관리하고 국가보안시설 또는 군사시설이 삭제되지 않은 사진을 발견하였을 경우에는 보안담당관이 이를 회수하여 관계 법령에 따라 처리한다.② \"비공개\" 또는 \"공개제한\"에 해당하는 항공사진은 별지 제1호서식의 공간정보 관리대장에 기록관리 하여야 한다.  <개정 2025. 01. 16.>③ 작업이 완료되어 납품된 항공사진은 지체 없이 담당감독관과 관리담당자가 확인한 후 관리대장에 기록하여 관리한다.④ 항공사진 보관장소의 창문, 출입문등 외부침입이 우려되는 곳은 철책 등 견고한 방호시설을 설치한다.⑤ 보안담당관은 Ⅲ급 이상의 비밀취급인가를 받은 자에게 항공사진을 관리하게 할 수 있으며, 또한 각종 일지 및 대장 확인은 Ⅲ급 이상의 비밀취급인가를 받은 사진 담당이 전결 처리할 수 있다.⑥ 보안담당관은 연 2회 이상의 항공사진보유현황을 조사하여야 하고, 필요한 경우에 수시로 실시 할 수 있다.⑦ 보안담당관은 훼손된 항공사진이나 불필요한 항공사진을 파기할 수 있다. 다만, 항공사진 파기 후 별지 제5호서식의 항공사진 파기대장에 파기내용을 기록하여야 한다.  <개정 2025. 01. 16.>⑧ 타 기관으로부터 보관위탁 받은 항공사진은 이 지침에 정하는 바에 따른다.",
+        "content": "제22조(항공사진의 관리) ① 항공사진(원판포함)중 국가보안시설 및 군사시설이 포함된 사진은 비공개로, 국가보안시설 및 군사시설이 삭제된 지역 사진은 공개제한으로 관리하고 국가보안시설 또는 군사시설이 삭제되지 않은 사진을 발견하였을 경우에는 보안담당관이 이를 회수하여 관계 법령에 따라 처리한다.② \"비공개\" 또는 \"공개제한\"에 해당하는 항공사진은 별지 제1호서식의 공간정보 관리대장에 기록관리 하여야 한다.③ 작업이 완료되어 납품된 항공사진은 지체 없이 담당감독관과 관리담당자가 확인한 후 관리대장에 기록하여 관리한다.④ 항공사진 보관장소의 창문, 출입문등 외부침입이 우려되는 곳은 철책 등 견고한 방호시설을 설치한다.⑤ 보안담당관은 Ⅲ급 이상의 비밀취급인가를 받은 자에게 항공사진을 관리하게 할 수 있으며, 또한 각종 일지 및 대장 확인은 Ⅲ급 이상의 비밀취급인가를 받은 사진 담당이 전결 처리할 수 있다.⑥ 보안담당관은 연 1회 이상의 항공사진보유현황을 조사하여야 하고, 필요한 경우에 수시로 실시 할 수 있다.⑦ 보안담당관은 훼손된 항공사진이나 불필요한 항공사진을 파기할 수 있다. 다만, 항공사진 파기 후 별지 제5호서식의 항공사진 파기대장에 파기내용을 기록하여야 한다.⑧ 타 기관으로부터 보관위탁 받은 항공사진은 이 지침에 정하는 바에 따른다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -755,18 +705,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2112353",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162920569",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169669717",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국국토정보공사)공간정보보안업무예규#JO0022",
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(한국국토정보공사)공간정보보안업무예규#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국토정보공사) 공간정보 보안업무예규/(한국국토정보공사) 공간정보 보안업무예규.json",
-            "target_git_path": "(한국국토정보공사) 공간정보 보안업무예규/(한국국토정보공사) 공간정보 보안업무예규.json",
-            "target_git_file_path": "(한국국토정보공사) 공간정보 보안업무예규/별지/별지1_공간정보 관리대장.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국국토정보공사) 공간정보 보안업무예규/(한국국토정보공사) 공간정보 보안업무예규.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -785,18 +730,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2112353",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162920631",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169669741",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국국토정보공사)공간정보보안업무예규#JO0022",
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:(한국국토정보공사)공간정보보안업무예규#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국토정보공사) 공간정보 보안업무예규/(한국국토정보공사) 공간정보 보안업무예규.json",
-            "target_git_path": "(한국국토정보공사) 공간정보 보안업무예규/(한국국토정보공사) 공간정보 보안업무예규.json",
-            "target_git_file_path": "(한국국토정보공사) 공간정보 보안업무예규/별지/별지5_항공사진 파기대장.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국국토정보공사) 공간정보 보안업무예규/(한국국토정보공사) 공간정보 보안업무예규.json"
           }
         ],
         "images": [],
@@ -828,9 +768,7 @@
             "source_provision_id": "SchlPubRul:(한국국토정보공사)공간정보보안업무예규#JO0023",
             "reference_id": "law:공간정보의구축및관리등에관한법률시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공간정보의 구축 및 관리 등에 관한 법률/시행규칙/공간정보의 구축 및 관리 등에 관한 법률 시행규칙.json",
-            "target_git_path": "공간정보의 구축 및 관리 등에 관한 법률/시행규칙/공간정보의 구축 및 관리 등에 관한 법률 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공간정보의 구축 및 관리 등에 관한 법률/시행규칙/공간정보의 구축 및 관리 등에 관한 법률 시행규칙.json"
           },
           {
             "relation_type": "citation",
@@ -850,9 +788,7 @@
             "source_provision_id": "SchlPubRul:(한국국토정보공사)공간정보보안업무예규#JO0023",
             "reference_id": "law:공간정보의구축및관리등에관한법률시행규칙#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "공간정보의 구축 및 관리 등에 관한 법률/시행규칙/공간정보의 구축 및 관리 등에 관한 법률 시행규칙.json",
-            "target_git_path": "공간정보의 구축 및 관리 등에 관한 법률/시행규칙/공간정보의 구축 및 관리 등에 관한 법률 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공간정보의 구축 및 관리 등에 관한 법률/시행규칙/공간정보의 구축 및 관리 등에 관한 법률 시행규칙.json"
           }
         ],
         "images": [],
@@ -863,7 +799,7 @@
         "article_title": "보안 지도ㆍ점검",
         "chapter": "제5장 보안지도 및 보안사고 조사",
         "chapter_path": "제5장 보안지도 및 보안사고 조사",
-        "content": "제24조(보안 지도ㆍ점검) ① 공간정보 보안담당관은 소관사항을 개선하기 위하여 연 1회 이상 정기 또는 수시로 보안 지도ㆍ점검을 실시해야 하며 이 경우 정기적으로 실시하는 지도ㆍ점검은 별지 제6호서식의 보안점검 체크리스트로 갈음할 수 있다.  <개정 2025. 01. 16.>② 제1항에 따른 지도ㆍ점검 시 「보안업무예규」 제55조제1항에 따라 보안 점검과 병행할 수 있다.  <개정 2025. 01. 16.>③ 지도ㆍ점검의 대상기관은 「보안업무예규」 제55조제1항에 따른다.  <개정 2025. 01. 16.>④ 효율적인 지도ㆍ점검을 위해 주무부장관에게 필요한 인력 등을 요청할 수 있다.",
+        "content": "제24조(보안 지도ㆍ점검) ① 공간정보 보안담당관은 소관사항을 개선하기 위하여 연 1회 이상 정기 또는 수시로 보안 지도ㆍ점검을 실시해야 하며 이 경우 정기적으로 실시하는 지도ㆍ점검은 별지 제6호서식의 보안점검 체크리스트로 갈음할 수 있다.② 제1항에 따른 지도ㆍ점검 시 「보안업무예규」 제55조제1항에 따라 보안 점검과 병행할 수 있다.③ 지도ㆍ점검의 대상기관은 「보안업무예규」 제55조제1항에 따른다.④ 효율적인 지도ㆍ점검을 위해 주무부장관에게 필요한 인력 등을 요청할 수 있다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -883,18 +819,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2112353",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162920637",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169669747",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국국토정보공사)공간정보보안업무예규#JO0024",
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:(한국국토정보공사)공간정보보안업무예규#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국토정보공사) 공간정보 보안업무예규/(한국국토정보공사) 공간정보 보안업무예규.json",
-            "target_git_path": "(한국국토정보공사) 공간정보 보안업무예규/(한국국토정보공사) 공간정보 보안업무예규.json",
-            "target_git_file_path": "(한국국토정보공사) 공간정보 보안업무예규/별지/별지6_보안점검 체크리스트.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국국토정보공사) 공간정보 보안업무예규/(한국국토정보공사) 공간정보 보안업무예규.json"
           },
           {
             "relation_type": "citation",
@@ -945,7 +876,7 @@
         "article_title": "보안 교육",
         "chapter": "제5장 보안지도 및 보안사고 조사",
         "chapter_path": "제5장 보안지도 및 보안사고 조사",
-        "content": "제25조(보안 교육) ① 공간정보 보안담당관은 보안 교육계획을 수립하여 연 1회 이상 교육을 실시해야 하며, 필요 시 수시교육을 실시할 수 있다. 이 경우 「보안업무예규」 제53조에 따른 보안교육도 병행할 수 있다.  <개정 2025. 01. 16.>② 교육의 효율성 제고를 위하여 자체 실정에 맞는 정보보안 교안을 작성 활용해야 하며 필요하면 주무부장관에게 전문 인력 및 자료 지원을 요청할 수 있다.③ 공간정보 보안담당관은 공간정보업무 취급자를 대상으로 연 1회 이상 공간정보 보안교육을 실시해야 한다.",
+        "content": "제25조(보안 교육) ① 공간정보 보안담당관은 보안 교육계획을 수립하여 연 1회 이상 교육을 실시해야 하며, 필요 시 수시교육을 실시할 수 있다. 이 경우 「보안업무예규」 제53조에 따른 보안교육도 병행할 수 있다.② 교육의 효율성 제고를 위하여 자체 실정에 맞는 정보보안 교안을 작성 활용해야 하며 필요하면 주무부장관에게 전문 인력 및 자료 지원을 요청할 수 있다.③ 공간정보 보안담당관은 공간정보업무 취급자를 대상으로 연 1회 이상 공간정보 보안교육을 실시해야 한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -977,7 +908,7 @@
         "article_title": "공간정보 보안 사고조사",
         "chapter": "제5장 보안지도 및 보안사고 조사",
         "chapter_path": "제5장 보안지도 및 보안사고 조사",
-        "content": "제26조(공간정보 보안 사고조사) ① 사장은 다음 각 호의 보안사고가 발생한 때에는 사고일시 및 장소, 사고자 인적사항, 사고내용 및 경위, 조치사항 등을 주무부장관에게 보고해야 한다.1. 「국가공간정보 기본법」 (이하 \"법\"이라 한다) 제33조 및 제35조1항에 따른 비공개 또는 공개가 제한되는 공간정보의 누설ㆍ유출ㆍ침해ㆍ훼손ㆍ분실2. 법 제37조에 따른 공간정보데이터베이스의 침해ㆍ훼손ㆍ무단이용3. 법 제38조에 따른 비밀준수의무 위반행위4. 공간정보유통망 또는 보호구역에 대한 불법 침입5. 그 밖에 공간정보에 대한 중대한 침해 행위② 공간정보 보안담당관은 제1항의 보안사고에 대한 필요한 자료의 제공 등 보안조사에 성실히 협조하고 이에 대한 조사가 끝날 때까지 관련 내용을 공개하지 아니한다.",
+        "content": "제26조(공간정보 보안 사고조사) ① 사장은 다음 각 호의 보안사고가 발생한 때에는 사고일시 및 장소, 사고자 인적사항, 사고내용 및 경위, 조치사항 등을 주무부장관에게 보고해야 한다.1. 「국가공간정보 기본법」(이하 \"법\"이라 한다) 제33조 및 제35조1항에 따른 비공개 또는 공개가 제한되는 공간정보의 누설ㆍ유출ㆍ침해ㆍ훼손ㆍ분실2. 법 제37조에 따른 공간정보데이터베이스의 침해ㆍ훼손ㆍ무단이용3. 법 제38조에 따른 비밀준수의무 위반행위4. 공간정보유통망 또는 보호구역에 대한 불법 침입5. 그 밖에 공간정보에 대한 중대한 침해 행위② 공간정보 보안담당관은 제1항의 보안사고에 대한 필요한 자료의 제공 등 보안조사에 성실히 협조하고 이에 대한 조사가 끝날 때까지 관련 내용을 공개하지 아니한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -998,9 +929,7 @@
             "source_provision_id": "SchlPubRul:(한국국토정보공사)공간정보보안업무예규#JO0026",
             "reference_id": "law:국가공간정보기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공간정보 기본법/법률/국가공간정보 기본법.json",
-            "target_git_path": "국가공간정보 기본법/법률/국가공간정보 기본법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공간정보 기본법/법률/국가공간정보 기본법.json"
           },
           {
             "relation_type": "citation",
@@ -1020,9 +949,7 @@
             "source_provision_id": "SchlPubRul:(한국국토정보공사)공간정보보안업무예규#JO0026",
             "reference_id": "law:국가공간정보기본법#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공간정보 기본법/법률/국가공간정보 기본법.json",
-            "target_git_path": "국가공간정보 기본법/법률/국가공간정보 기본법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공간정보 기본법/법률/국가공간정보 기본법.json"
           },
           {
             "relation_type": "citation",
@@ -1042,9 +969,7 @@
             "source_provision_id": "SchlPubRul:(한국국토정보공사)공간정보보안업무예규#JO0026",
             "reference_id": "law:국가공간정보기본법#JO0035",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공간정보 기본법/법률/국가공간정보 기본법.json",
-            "target_git_path": "국가공간정보 기본법/법률/국가공간정보 기본법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공간정보 기본법/법률/국가공간정보 기본법.json"
           },
           {
             "relation_type": "citation",
@@ -1064,9 +989,7 @@
             "source_provision_id": "SchlPubRul:(한국국토정보공사)공간정보보안업무예규#JO0026",
             "reference_id": "law:국가공간정보기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공간정보 기본법/법률/국가공간정보 기본법.json",
-            "target_git_path": "국가공간정보 기본법/법률/국가공간정보 기본법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공간정보 기본법/법률/국가공간정보 기본법.json"
           },
           {
             "relation_type": "citation",
@@ -1086,9 +1009,7 @@
             "source_provision_id": "SchlPubRul:(한국국토정보공사)공간정보보안업무예규#JO0026",
             "reference_id": "law:국가공간정보기본법#JO0037",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공간정보 기본법/법률/국가공간정보 기본법.json",
-            "target_git_path": "국가공간정보 기본법/법률/국가공간정보 기본법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공간정보 기본법/법률/국가공간정보 기본법.json"
           },
           {
             "relation_type": "citation",
@@ -1108,9 +1029,7 @@
             "source_provision_id": "SchlPubRul:(한국국토정보공사)공간정보보안업무예규#JO0026",
             "reference_id": "law:국가공간정보기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공간정보 기본법/법률/국가공간정보 기본법.json",
-            "target_git_path": "국가공간정보 기본법/법률/국가공간정보 기본법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공간정보 기본법/법률/국가공간정보 기본법.json"
           },
           {
             "relation_type": "citation",
@@ -1130,9 +1049,7 @@
             "source_provision_id": "SchlPubRul:(한국국토정보공사)공간정보보안업무예규#JO0026",
             "reference_id": "law:국가공간정보기본법#JO0038",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공간정보 기본법/법률/국가공간정보 기본법.json",
-            "target_git_path": "국가공간정보 기본법/법률/국가공간정보 기본법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공간정보 기본법/법률/국가공간정보 기본법.json"
           }
         ],
         "images": [],
@@ -1143,7 +1060,7 @@
         "article_title": "보안관리규정",
         "chapter": "제6장 보칙",
         "chapter_path": "제6장 보칙",
-        "content": "제27조(보안관리규정) ① 관리기관의 장은 공간정보 보안업무 수행을 위하여 「국가공간정보 보안관리 기본지침」 (이하\"지침\" 이라 한다. ) 및 이 보안관리규정에 저촉되지 아니하는 범위 내에서 자체 실정에 맞는 보안관리규정을 작성하여 시행해야 한다.② 제1항의 보안관리규정을 제정하거나 개정할 때에는 국토교통부장관을 경유하여 국가정보원장과 미리 협의해야 한다.",
+        "content": "제27조(보안관리규정) ① 관리기관의 장은 공간정보 보안업무 수행을 위하여 「국가공간정보 보안관리 기본지침」(이하\"지침\" 이라 한다. ) 및 이 보안관리규정에 저촉되지 아니하는 범위 내에서 자체 실정에 맞는 보안관리규정을 작성하여 시행해야 한다.② 제1항의 보안관리규정을 제정하거나 개정할 때에는 국토교통부장관을 경유하여 국가정보원장과 미리 협의해야 한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -1175,11 +1092,7 @@
             "source_provision_id": "SchlPubRul:(한국국토정보공사)공간정보보안업무예규#JO0028",
             "reference_id": "admrul:보안업무규정시행규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
-            "target_git_path": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json"
           },
           {
             "relation_type": "citation",
@@ -1199,11 +1112,7 @@
             "source_provision_id": "SchlPubRul:(한국국토정보공사)공간정보보안업무예규#JO0028",
             "reference_id": "admrul:국토교통부보안업무규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국토교통부 보안업무 규칙/국토교통부 보안업무 규칙.json",
-            "target_git_path": "국토교통부 보안업무규칙/국토교통부 보안업무규칙.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "국토교통부 보안업무 규칙/국토교통부 보안업무 규칙.json"
           }
         ],
         "images": [],
@@ -1218,10 +1127,10 @@
       "content": "부칙 <제9999호, 2019.02.25.>이 지침은 2019년 2월 25일부터 시행한다.",
       "provision_id": "SchlPubRul:(한국국토정보공사)공간정보보안업무예규#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000139467",
+      "source_mst": "2200000160567",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250116"
+      "version_enforcement_date": "20260701"
     },
     {
       "promulgation_date": "20200106",
@@ -1229,10 +1138,10 @@
       "content": "부칙 <제9999호, 2020.01.06.>이 지침은 2020년 1월 6일부터 시행한다.",
       "provision_id": "SchlPubRul:(한국국토정보공사)공간정보보안업무예규#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000139467",
+      "source_mst": "2200000160567",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250116"
+      "version_enforcement_date": "20260701"
     },
     {
       "promulgation_date": "20210106",
@@ -1240,10 +1149,10 @@
       "content": "부칙 <제9999호, 2021.01.06.>이 지침은 2021년 1월 6일부터 시행한다.",
       "provision_id": "SchlPubRul:(한국국토정보공사)공간정보보안업무예규#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000139467",
+      "source_mst": "2200000160567",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250116"
+      "version_enforcement_date": "20260701"
     },
     {
       "promulgation_date": "20220124",
@@ -1251,10 +1160,10 @@
       "content": "부칙 <제9999호, 2022.01.24.>이 지침은 2022년 1월 24일부터 시행한다.",
       "provision_id": "SchlPubRul:(한국국토정보공사)공간정보보안업무예규#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000139467",
+      "source_mst": "2200000160567",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250116"
+      "version_enforcement_date": "20260701"
     },
     {
       "promulgation_date": "20250116",
@@ -1262,10 +1171,21 @@
       "content": "부칙 <제9999호, 2025.01.16.>제1조 (시행일) 이 예규는2025년 1월 16일부터 시행한다.제2조 (다른 사규의 개정) ① 「디지털 트윈 플랫폼 운영 규정」 일부를 다음과 같이 개정한다. 제23조제1항, 제3항, 제4항 및 제29조제1항, 제2항 중 \"공간정보 보안업무지침\"을 \"공간정보 보안업무예규\"로 한다.② 「공간정보업무규정」 일부를 다음과 같이 개정한다. 제9조제1항 중 \"공간정보 보안업무지침\"을 \"공간정보 보안업무예규\"로 한다.",
       "provision_id": "SchlPubRul:(한국국토정보공사)공간정보보안업무예규#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000139467",
+      "source_mst": "2200000160567",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250116"
+      "version_enforcement_date": "20260701"
+    },
+    {
+      "promulgation_date": "20260701",
+      "promulgation_no": "9999",
+      "content": "부칙 <제9999호, 2026.07.01.>이 예규는 2026년 7월 1일부터 시행한다.",
+      "provision_id": "SchlPubRul:(한국국토정보공사)공간정보보안업무예규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000160567",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260701"
     }
   ],
   "appendices": [
@@ -1277,12 +1197,12 @@
       "enforcement_date": "",
       "content": "",
       "is_file_only": true,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000139467&bylNo=0001&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162920553",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000160567&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169669701",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162920553",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169669701",
           "name": "",
           "file_store_url": ""
         }
@@ -1302,12 +1222,12 @@
       "enforcement_date": "",
       "content": "",
       "is_file_only": true,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000139467&bylNo=0002&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162920563",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000160567&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169669711",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162920563",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169669711",
           "name": "",
           "file_store_url": ""
         }
@@ -1328,11 +1248,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162920569",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169669717",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162920569",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169669717",
           "name": "",
           "file_store_url": ""
         }
@@ -1353,11 +1273,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162920575",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169669723",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162920575",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169669723",
           "name": "",
           "file_store_url": ""
         }
@@ -1378,11 +1298,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162920621",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169669729",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162920621",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169669729",
           "name": "",
           "file_store_url": ""
         }
@@ -1398,25 +1318,25 @@
       "no": "0004",
       "branch": "00",
       "kind": "별지",
-      "title": "비밀관리기록부",
+      "title": "보   안   서   약   서",
       "enforcement_date": "",
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162920627",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169669735",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162920627",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169669735",
           "name": "",
           "file_store_url": ""
         }
       ],
       "images": [],
       "provision_id": "SchlPubRul:(한국국토정보공사)공간정보보안업무예규#BJ0004",
-      "filename": "별지4_비밀관리기록부.hwp",
+      "filename": "별지4_보 안 서 약 서.hwp",
       "file_dir": "별지",
-      "local_path": "별지/별지4_비밀관리기록부.hwp",
+      "local_path": "별지/별지4_보 안 서 약 서.hwp",
       "file_store_url": ""
     },
     {
@@ -1428,11 +1348,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162920631",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169669741",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162920631",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169669741",
           "name": "",
           "file_store_url": ""
         }
@@ -1453,11 +1373,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162920637",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169669747",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162920637",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169669747",
           "name": "",
           "file_store_url": ""
         }
@@ -1488,7 +1408,7 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 5,
+    "addenda_count": 6,
     "appendices_count": 8,
     "attachments_count": 0
   },
