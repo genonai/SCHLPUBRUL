@@ -1,6 +1,6 @@
 {
   "law_id": "2122883",
-  "mst": "2200000103059",
+  "mst": "2200000155375",
   "law_name": "부산도시공사 퇴직급여금중간정산에관한내규",
   "law_abbr": "",
   "law_type": "공단규정",
@@ -8,30 +8,30 @@
   "doc_kind": "공공기관",
   "adm_uid": "public:2122883",
   "promulgation_no": "9999",
-  "promulgation_date": "20210305",
-  "enforcement_date": "20210305",
-  "revision_date": "20210305",
+  "promulgation_date": "20260514",
+  "enforcement_date": "20260701",
+  "revision_date": "20260514",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "부산도시공사",
-    "담당자명": "조미",
+    "담당자명": "류보경",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "부산도시공사 퇴직급여금중간정산에관한내규",
-    "발령일자": "20210305",
+    "발령일자": "20260514",
     "행정규칙종류": "공단규정",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
     "소관부처명": "부산도시공사",
-    "전화번호": "051-810-1289",
+    "전화번호": "051-810-1275",
     "제개정구분명": "일부개정",
     "소관부처코드": "B551922",
-    "생성일자": "20260701",
+    "생성일자": "20260702",
     "행정규칙ID": "2122883",
     "담당부서기관코드": "",
     "발령번호": "9999",
-    "행정규칙일련번호": "2200000103059"
+    "행정규칙일련번호": "2200000155375"
   },
   "amendment_text": "",
   "revision_reason": "",
@@ -55,9 +55,50 @@
         "article_title": "적용범위",
         "chapter": "",
         "chapter_path": "",
-        "content": "제2조(적용범위) 이 내규는 퇴직금 지급대상 사원에 대하여 적용한다.",
+        "content": "제2조(적용범위) ①이 내규는 퇴직금 지급대상 사원에 대하여 적용한다. 다만, 보수규정에 따라 퇴직연금제도에 가입한 사원에 대하여는 이 내규를 적용하지 아니한다.②퇴직연금제도에 가입한 사원의 적립금 중도인출에 관하여는 「근로자퇴직급여 보장법」 제22조 및 퇴직연금제도 운영지침에서 정하는 바에 따른다.[전문개정 2026. 5.14.]",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제2항",
+            "link_text": "「근로자퇴직급여 보장법」",
+            "line_text": "",
+            "target_law_name": "근로자퇴직급여 보장법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2122883",
+            "target_url": "https://www.law.go.kr/법령/근로자퇴직급여 보장법",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:부산도시공사퇴직급여금중간정산에관한내규#JO0002",
+            "reference_id": "law:근로자퇴직급여보장법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "근로자퇴직급여 보장법/법률/근로자퇴직급여 보장법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제2항",
+            "link_text": "제22조",
+            "line_text": "",
+            "target_law_name": "근로자퇴직급여 보장법",
+            "target_article_no": "제22조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2122883",
+            "target_url": "https://www.law.go.kr/법령/근로자퇴직급여 보장법/제22조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:부산도시공사퇴직급여금중간정산에관한내규#JO0002",
+            "reference_id": "law:근로자퇴직급여보장법#JO0022",
+            "target_repo": "LAW",
+            "target_git_path_guess": "근로자퇴직급여 보장법/법률/근로자퇴직급여 보장법.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:부산도시공사퇴직급여금중간정산에관한내규#JO0002"
       },
@@ -79,7 +120,33 @@
         "chapter_path": "",
         "content": "제4조(지급신청) ①퇴직금 중간정산을 원하는 사원은 별지 제1호 서식에 의거 소속 부서장을 경유하여 보수담당 부서장에게 매분기말일까지 제출하여야 한다.<개정 2005.11.10., 2019. 2.25.>②제1항의 중간정산에 있어 지급신청 대상기간은 총 대상기간의 일부에 대하여도 신청할 수 있다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제1항",
+            "link_text": "별지 제1호 서식",
+            "line_text": "",
+            "target_law_name": "부산도시공사 퇴직급여금중간정산에관한내규",
+            "target_article_no": "별지1",
+            "target_article_title": "퇴직금 중간정산 신청서",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2122883",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164224373",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:부산도시공사퇴직급여금중간정산에관한내규#JO0004",
+            "target_unit": "BJ0001",
+            "reference_id": "SchlPubRul:부산도시공사퇴직급여금중간정산에관한내규#BJ0001",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "부산도시공사 퇴직급여금중간정산에관한내규/부산도시공사 퇴직급여금중간정산에관한내규.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:부산도시공사퇴직급여금중간정산에관한내규#JO0004"
       },
@@ -90,7 +157,28 @@
         "chapter_path": "",
         "content": "제5조(지급결정) ①중간정산의 지급여부는 사원의 청구가 있는 경우 제12조에 의한 노사협의회(이하 \"협의회\"라 한다)의 심의, 의결을 거쳐 사장이 결정한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제1항",
+            "link_text": "제12조",
+            "line_text": "",
+            "target_law_name": "부산도시공사 퇴직급여금중간정산에관한내규",
+            "target_article_no": "제12조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2122883",
+            "target_url": "https://www.law.go.kr/학칙공단/부산도시공사 퇴직급여금중간정산에관한내규/제12조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:부산도시공사퇴직급여금중간정산에관한내규#JO0005",
+            "reference_id": "SchlPubRul:부산도시공사퇴직급여금중간정산에관한내규#JO0012",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "부산도시공사 퇴직급여금중간정산에관한내규/부산도시공사 퇴직급여금중간정산에관한내규.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:부산도시공사퇴직급여금중간정산에관한내규#JO0005"
       },
@@ -134,7 +222,28 @@
         "chapter_path": "",
         "content": "제9조(지급) ①중간정산은 원칙적으로 당해연도 예산의 범위내에서 한다.②제7조제3항 및 제4항에서 정한 근속년수는 일부적용과 분할지급이 필요할 경우 인사노무부장은 먼저 신청자의 동의를 구하여야 하며 동의가 이루어지지 않을 경우에는 협의회에서 결정한다.<개정 2005.11.10., 2021. 3. 5.>③중간정산을 위한 근속년수의 산정은 신청일이 속하는 달의 말일을 기준으로 하되, 1년미만의 잔여기간은 신청기간에서 제외한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제9조",
+            "source_clause": "제9조제2항",
+            "link_text": "제7조제3항 및 제4항",
+            "line_text": "",
+            "target_law_name": "부산도시공사 퇴직급여금중간정산에관한내규",
+            "target_article_no": "제7조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2122883",
+            "target_url": "https://www.law.go.kr/학칙공단/부산도시공사 퇴직급여금중간정산에관한내규/제7조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:부산도시공사퇴직급여금중간정산에관한내규#JO0009",
+            "reference_id": "SchlPubRul:부산도시공사퇴직급여금중간정산에관한내규#JO0007",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "부산도시공사 퇴직급여금중간정산에관한내규/부산도시공사 퇴직급여금중간정산에관한내규.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:부산도시공사퇴직급여금중간정산에관한내규#JO0009"
       },
@@ -145,7 +254,28 @@
         "chapter_path": "",
         "content": "제10조(지급시기) ①중간정산금은 매분기 초월에 지급한다.②인사노무부장은 매분기별로 중간정산 신청자에 대해 제11조에서 정한 결격여부를 검토한 후 매분기 초월 10일까지 협의회에서 지급여부 심의를 부의한다.<개정 2005.11.10., 2021. 3. 5.>③협의회는 제2항에 관한 안건을 당월 25일까지 심의, 의결하여야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제2항",
+            "link_text": "제11조",
+            "line_text": "",
+            "target_law_name": "부산도시공사 퇴직급여금중간정산에관한내규",
+            "target_article_no": "제11조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2122883",
+            "target_url": "https://www.law.go.kr/학칙공단/부산도시공사 퇴직급여금중간정산에관한내규/제11조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:부산도시공사퇴직급여금중간정산에관한내규#JO0010",
+            "reference_id": "SchlPubRul:부산도시공사퇴직급여금중간정산에관한내규#JO0011",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "부산도시공사 퇴직급여금중간정산에관한내규/부산도시공사 퇴직급여금중간정산에관한내규.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:부산도시공사퇴직급여금중간정산에관한내규#JO0010"
       },
@@ -211,7 +341,28 @@
         "chapter_path": "",
         "content": "제16조(벌칙) 제15조를 위반하였거나, 협의회가 요구한 제출 서류를 정당한 이유없이 거부하거나 허위로 작성제출 하였을 때에는 인사규정, 취업규정이 정하는 바에 따라 조치할 수 있다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제16조",
+            "source_clause": "제16조",
+            "link_text": "제15조",
+            "line_text": "",
+            "target_law_name": "부산도시공사 퇴직급여금중간정산에관한내규",
+            "target_article_no": "제15조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2122883",
+            "target_url": "https://www.law.go.kr/학칙공단/부산도시공사 퇴직급여금중간정산에관한내규/제15조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:부산도시공사퇴직급여금중간정산에관한내규#JO0016",
+            "reference_id": "SchlPubRul:부산도시공사퇴직급여금중간정산에관한내규#JO0015",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "부산도시공사 퇴직급여금중간정산에관한내규/부산도시공사 퇴직급여금중간정산에관한내규.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:부산도시공사퇴직급여금중간정산에관한내규#JO0016"
       }
@@ -219,21 +370,59 @@
   },
   "addenda": [
     {
-      "promulgation_date": "20210305",
-      "promulgation_no": "00464",
-      "content": "부칙 <내규 제464호, 2021.3.5>이 내규는 공포한 날부터 시행한다.",
-      "provision_id": "SchlPubRul:부산도시공사퇴직급여금중간정산에관한내규#ADDENDUM"
+      "promulgation_date": "20260514",
+      "promulgation_no": "00609",
+      "content": "부칙 <내규 제609호, 2026.5.14>이 내규는 2026년 7월 1일부터 시행한다.",
+      "provision_id": "SchlPubRul:부산도시공사퇴직급여금중간정산에관한내규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000155375",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260701"
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "퇴직금 중간정산 신청서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164224373",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164224373",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:부산도시공사퇴직급여금중간정산에관한내규#BJ0001",
+      "filename": "별지1_퇴직금 중간정산 신청서.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지1_퇴직금 중간정산 신청서.hwp",
+      "file_store_url": ""
+    }
+  ],
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 7,
+    "by_category": {
+      "법령": 2,
+      "학칙공단": 5
+    },
+    "by_relation_type": {
+      "citation": 2,
+      "appendix_ref": 1,
+      "internal_ref": 4
+    },
     "articles_total": 16,
-    "articles_with_relations": 0,
+    "articles_with_relations": 6,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
@@ -248,5 +437,8 @@
   "addendum_provision_id": "SchlPubRul:부산도시공사퇴직급여금중간정산에관한내규#ADDENDUM",
   "amendment_provision_id": "SchlPubRul:부산도시공사퇴직급여금중간정산에관한내규#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "부산도시공사 퇴직급여금중간정산에관한내규/부산도시공사 퇴직급여금중간정산에관한내규.json"
 }
