@@ -1,25 +1,25 @@
 {
   "law_id": "2127167",
-  "mst": "2200000140309",
+  "mst": "2200000157077",
   "law_name": "대구교통공사  신호설비보수규정 시행내규",
   "law_abbr": "",
   "law_type": "공단규정",
   "doc_target": "public",
   "doc_kind": "공공기관",
   "adm_uid": "public:2127167",
-  "promulgation_no": "712",
-  "promulgation_date": "20250220",
-  "enforcement_date": "20250220",
-  "revision_date": "20250220",
+  "promulgation_no": "743",
+  "promulgation_date": "20260622",
+  "enforcement_date": "20260701",
+  "revision_date": "20260622",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "basic_info": {
-    "현행여부": "N",
+    "현행여부": "Y",
     "담당부서기관명": "대구교통공사",
     "담당자명": "민혜빈",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "대구교통공사  신호설비보수규정 시행내규",
-    "발령일자": "20250220",
+    "발령일자": "20260622",
     "행정규칙종류": "공단규정",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,14 +27,14 @@
     "전화번호": "0536400893",
     "제개정구분명": "일부개정",
     "소관부처코드": "B554805",
-    "생성일자": "20260701",
+    "생성일자": "20260702",
     "행정규칙ID": "2127167",
-    "담당부서기관코드": "",
-    "발령번호": "712",
-    "행정규칙일련번호": "2200000140309"
+    "담당부서기관코드": "B554805",
+    "발령번호": "743",
+    "행정규칙일련번호": "2200000157077"
   },
-  "amendment_text": "대구교통공사 신호설비보수규정 시행내규를 다음과 같이 시행한다.\n대구교통공사 사장    김  기  혁\n2025년  2월  20일\n대구교통공사 내규 제712호(개정)\n신호설비보수규정 시행내규 일부개정내규\n대구교통공사 신호설비보수규정 시행내규 일부를 다음과 같이 개정한다.\n별표1을 별지와 같이 한다.\n부      칙\n이 내규는 2025년 2월 20일부터 시행한다.",
-  "revision_reason": "◇ 신호설비보수규정 시행내규 개정이유 ◇\n? 신호 주요설비 점검항목 추가 및 수정\n- 관리자 현장 체험을 통한 매뉴얼 보완 결과\n(차량계획팀-2579)에 따른 조치사항 반영\n◇ 주 요 골 자 ◇\n? 점검항목 추가(1·2호선)\n[선로전환기]\n- 회로제어기 전환레버 및 캠바 연결봉 마모진행 여부\n: 연간점검\n- 퓨즈 및 NFB 접속상태(푸시버튼 기능포함) : 분기점검\n[ATP/ATO 장치]\n- TBR 동작상태 확인 : 분기점검\n? 점검항목 수정(1·2호선)\n[전자연동장치]\n- 전원장치 입·출력전압 측정 → 전원장치 입·출력    전압 및 전류 측정\n? 점검항목 추가(3호선)\n[안전설비-기상관측장치]\n- 기상타워 수동핸들 동작상태 : 연간점검\n- 기상타워 고정장치 체결 상태 : 연간점검",
+  "amendment_text": "대구교통공사 신호설비보수규정 시행내규를 다음과 같이 시행한다.\n대구교통공사 사장    김  기  혁\n2026년  6월  22일\n대구교통공사 내규 제743호(개정)\n신호설비보수규정 시행내규 일부개정내규\n신호설비보수규정 시행내규 일부를 다음과 같이 개정한다.\n제8조 본문을 제1항으로 하고, 제2항을 다음과 같이 신설한다.\n②연동검사 시 연동검사 로그파일을 다음 연동검사 시행 시까지 보존한다.\n별표1 검사기준표 내 1ㆍ2호선 선로전환기 점검항목 중“융설장치 전원 케이블 절연 저항 측정(4년 주기)”을 신설한다.\n부       칙\n이 내규는 2026년 7월 1일부터 시행한다.",
+  "revision_reason": "◇ 신호설비보수규정 시행내규 개정이유 ◇\n? 2025년 철도안전관리체계 정기검사 지적사항 이행\n◇ 주 요 골 자 ◇\n? 연동검사 로그파일 보존기한 신설(제8조제2항)\n? 1ㆍ2호선 선로전환기 점검항목 신설(별표1)\n- 융설장치 전원케이블 절연 저항 측정: 4년 주기",
   "body": {
     "format": "articles",
     "article_count": 57,
@@ -66,7 +66,7 @@
         "article_title": "용어의 정의",
         "chapter": "제1장  총   칙",
         "chapter_path": "제1장  총   칙",
-        "content": "제3조(용어의 정의) 이 내규에서 사용하는 용어의 정의는 다음과 같다.1. “개량”이라 함은 설비의 노후 및 고장 등으로 계속 사용하기에 적합하지 않아 성능을 보완 또는 이를 교체하거나 재 시설하는 것을 말한다. <개정 ‘14. 9. 17>2. “검사기준”이라 함은 설비의 기능을 항상 양호한 상태로 유지하기 위하여 설비의 양부를 검사하여 차기 검사 때까지 사용에 지장이 없도록 조정·수리 또는 교환 등의 여부를 결정할 수 있는 기준을 말한다.3. “조정”이라 함은 설비의 기능 상태를 정상적으로 유지하기 위해 설비를 사용 또는 사용 중지 상태에서 설비를 최적 상태로 변경시키는 것을 말한다.4. “부정출발방지장치(TS:Train Stop)”라 함은 차량기지에서 차량의 신호 어김 사고를 미연에 방지하기 위하여, 신호기 외방 일정 위치에 설치한 설비를 말한다. <개정 ‘15. 4. 23>5. “비상정지장치(ESB : Emergency Stop Button, Emergency Stop Plunger)”라 함은 승강장에서 승객이 추락 또는 안전사고가 우려되는 상황이 발생할 경우 이를 인지한 사람이 전동차를 비상 정지 시킬 수 있는 장치를 말한다. <개정 ‘15. 4. 23>6. “전호대체설비”라 함은 차량기지의 검수고 및 주공장의 입·출고시 전호자의 전호를 대체하고자 설치된 설비를 말한다. <신설 ’09. 12. 23, ‘14. 9. 17>7. “선로횡단경보장치”라 함은 차량기지 구내의 도로와 선로의 횡단개소에 설치되어 열차 또는 차량의 접근을 보행자에게 알려 사고를 방지하고자 설치한 장치를 말한다. <신설 ’09. 12. 23>8. “능동마커”라 함은 외부전원이 공급되어 ATO 지상 장치의 기능을 수행하는 마커, 비콘 및 트랜스폰더를 말한다.(AA, 8M, PSBd, STIB, P0 등) <신설 ’09. 12. 23, 개정 ‘15. 4. 23>9. “비상전차선단전장치(ETS : Emergency Trip Station)”라 함은 승강장에서 승객의 추락 등으로 인한 전차선 감전사고 우려를 인지한 직원(역, 관제 직원 등)에 의하여 취급이 가능하며, 전 구간 전차선 단전 및 열차를 비상정지 시킬 수 있는 장치를 말한다. <신설 ‘15. 4. 23>10. “기상관측장치”라 함은 풍향 ·풍속 및 지진을 계측하여 3호선 통합관제실에 종합적으로 표시하는 장치를 말한다. <신설 ‘15. 4. 23>11. 삭제 <‘16. 12. 26>12. “외부인터페이스장치(IFC : InterFace Controller)”라 함은 통신, 전력 등과 같이 3호선 TTC 설비와 상호 정보교환을 필요로 하는 관련 분야의 장치와 상호 원활한 기능의 인터페이스를 위한 장치를 말한다. <신설 ‘15. 4. 23>",
+        "content": "제3조(용어의 정의) 이 내규에서 사용하는 용어의 정의는 다음과 같다.1. “개량”이라 함은 설비의 노후 및 고장 등으로 계속 사용하기에 적합하지 않아 성능을 보완 또는 이를 교체하거나 재 시설하는 것을 말한다. <개정 ‘14. 9. 17>2. “검사기준”이라 함은 설비의 기능을 항상 양호한 상태로 유지하기 위하여 설비의 양부를 검사하여 차기 검사 때까지 사용에 지장이 없도록 조정ㆍ수리 또는 교환 등의 여부를 결정할 수 있는 기준을 말한다.3. “조정”이라 함은 설비의 기능 상태를 정상적으로 유지하기 위해 설비를 사용 또는 사용 중지 상태에서 설비를 최적 상태로 변경시키는 것을 말한다.4. “부정출발방지장치(TS:Train Stop)”라 함은 차량기지에서 차량의 신호 어김 사고를 미연에 방지하기 위하여, 신호기 외방 일정 위치에 설치한 설비를 말한다. <개정 ‘15. 4. 23>5. “비상정지장치(ESB : Emergency Stop Button, Emergency Stop Plunger)”라 함은 승강장에서 승객이 추락 또는 안전사고가 우려되는 상황이 발생할 경우 이를 인지한 사람이 전동차를 비상 정지 시킬 수 있는 장치를 말한다. <개정 ‘15. 4. 23>6. “전호대체설비”라 함은 차량기지의 검수고 및 주공장의 입ㆍ출고시 전호자의 전호를 대체하고자 설치된 설비를 말한다. <신설 ’09. 12. 23, ‘14. 9. 17>7. “선로횡단경보장치”라 함은 차량기지 구내의 도로와 선로의 횡단개소에 설치되어 열차 또는 차량의 접근을 보행자에게 알려 사고를 방지하고자 설치한 장치를 말한다. <신설 ’09. 12. 23>8. “능동마커”라 함은 외부전원이 공급되어 ATO 지상 장치의 기능을 수행하는 마커, 비콘 및 트랜스폰더를 말한다.(AA, 8M, PSBd, STIB, P0 등) <신설 ’09. 12. 23, 개정 ‘15. 4. 23>9. “비상전차선단전장치(ETS : Emergency Trip Station)”라 함은 승강장에서 승객의 추락 등으로 인한 전차선 감전사고 우려를 인지한 직원(역, 관제 직원 등)에 의하여 취급이 가능하며, 전 구간 전차선 단전 및 열차를 비상정지 시킬 수 있는 장치를 말한다. <신설 ‘15. 4. 23>10. “기상관측장치”라 함은 풍향 ㆍ풍속 및 지진을 계측하여 3호선 통합관제실에 종합적으로 표시하는 장치를 말한다. <신설 ‘15. 4. 23>11. 삭제 <‘16. 12. 26>12. “외부인터페이스장치(IFC : InterFace Controller)”라 함은 통신, 전력 등과 같이 3호선 TTC 설비와 상호 정보교환을 필요로 하는 관련 분야의 장치와 상호 원활한 기능의 인터페이스를 위한 장치를 말한다. <신설 ‘15. 4. 23>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -77,7 +77,7 @@
         "article_title": "점검 및 검사의 종류",
         "chapter": "제2장  점검, 검사 및 정비",
         "chapter_path": "제2장  점검, 검사 및 정비",
-        "content": "제4조(점검 및 검사의 종류) 규정 제24조의 규정에 의한 검사는 다음 각 호에 의거 실시하여야 한다.1. “정기검사”는 설비의 종류별로 정한 주기적 검사로 기능이 정상인지 판별하기 위하여 설비의 사용을 정지하거나 분해하여 정밀 진단을 하는 검사 또는 설비를 실제 사용 조건하에 둔 채 종합적으로 기능을 확인하는 검사를 말하며 그 종류는 다음과 같다.가. 일일점검(1일) 또는 일상점검(7일)<개정 ‘15. 4. 23>나. 월간검사(1개월, 1·2호선) <개정 ’09. 12. 23, ’12. 7. 10, ‘15. 4. 23>다. 분기검사(3개월)라. 삭제<‘08. 3. 28>마. 연간검사(1년)바. 4년검사(4년)2. “임시검사”는 설비를 신설·개량·수리하였을 때, 설비의 이상이 우려되거나 발생하였을 때 또는 기타 필요하다고 인정될 때에 실시한다.3. “특별검사”는 사장이 설비 기능 유지상 필요하다고 인정될 때 실시한다.",
+        "content": "제4조(점검 및 검사의 종류) 규정 제24조의 규정에 의한 검사는 다음 각 호에 의거 실시하여야 한다.1. “정기검사”는 설비의 종류별로 정한 주기적 검사로 기능이 정상인지 판별하기 위하여 설비의 사용을 정지하거나 분해하여 정밀 진단을 하는 검사 또는 설비를 실제 사용 조건하에 둔 채 종합적으로 기능을 확인하는 검사를 말하며 그 종류는 다음과 같다.가. 일일점검(1일) 또는 일상점검(7일)<개정 ‘15. 4. 23>나. 월간검사(1개월, 1ㆍ2호선) <개정 ’09. 12. 23, ’12. 7. 10, ‘15. 4. 23>다. 분기검사(3개월)라. 삭제<‘08. 3. 28>마. 연간검사(1년)바. 4년검사(4년)2. “임시검사”는 설비를 신설ㆍ개량ㆍ수리하였을 때, 설비의 이상이 우려되거나 발생하였을 때 또는 기타 필요하다고 인정될 때에 실시한다.3. “특별검사”는 사장이 설비 기능 유지상 필요하다고 인정될 때 실시한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -99,9 +99,35 @@
         "article_title": "검사의 기준",
         "chapter": "제2장  점검, 검사 및 정비",
         "chapter_path": "제2장  점검, 검사 및 정비",
-        "content": "제6조(검사의 기준) ①설비의 검사는 별표 1의 검사기준표에 따라 시행하며, 점검기준 및 방법은 정기검사절차서에 따른다. <개정 ’09. 12. 23, ‘14. 9. 17>②사장은 상기 제1항에도 불구하고 설비의 기능 유지에 필요하다고 인정될 경우에는 별도의 검사기준을 수립·시행할 수 있다.",
+        "content": "제6조(검사의 기준) ①설비의 검사는 별표 1의 검사기준표에 따라 시행하며, 점검기준 및 방법은 정기검사절차서에 따른다. <개정 ’09. 12. 23, ‘14. 9. 17>②사장은 상기 제1항에도 불구하고 설비의 기능 유지에 필요하다고 인정될 경우에는 별도의 검사기준을 수립ㆍ시행할 수 있다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제1항",
+            "link_text": "별표 1",
+            "line_text": "",
+            "target_law_name": "대구교통공사 신호설비보수규정 시행내규",
+            "target_article_no": "별표1",
+            "target_article_title": "검사기준표",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2127167",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000157077&bylNo=0001&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:대구교통공사신호설비보수규정시행내규#JO0006",
+            "target_unit": "BYL0001",
+            "reference_id": "SchlPubRul:대구교통공사신호설비보수규정시행내규#BYL0001",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "대구교통공사 신호설비보수규정 시행내규/대구교통공사 신호설비보수규정 시행내규.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:대구교통공사신호설비보수규정시행내규#JO0006"
       },
@@ -110,7 +136,7 @@
         "article_title": "점검 및 검사 기록",
         "chapter": "제2장  점검, 검사 및 정비",
         "chapter_path": "제2장  점검, 검사 및 정비",
-        "content": "제7조(점검 및 검사 기록) 각종 점검 또는 검사를 하였을 때에는 1·2호선은 신호전자사업소장 및 3호선 경전철기술사업소장(이하“소속장”이라 한다)은 별도의 승인된 서식을 사용하여 기록 관리하여야 한다. <개정 ’06. 6. 8, ’09. 12. 23, ‘15. 4. 23>",
+        "content": "제7조(점검 및 검사 기록) 각종 점검 또는 검사를 하였을 때에는 1ㆍ2호선은 신호전자사업소장 및 3호선 경전철기술사업소장(이하“소속장”이라 한다)은 별도의 승인된 서식을 사용하여 기록 관리하여야 한다. <개정 ’06. 6. 8, ’09. 12. 23, ‘15. 4. 23>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -121,9 +147,35 @@
         "article_title": "신호 연동 검사",
         "chapter": "제2장  점검, 검사 및 정비",
         "chapter_path": "제2장  점검, 검사 및 정비",
-        "content": "제8조(신호 연동 검사) 연동장치의 조건 검사는 별표 2에 의한 연동장치의 검사기준에 의한다.",
+        "content": "제8조(신호 연동 검사) ①연동장치의 조건 검사는 별표 2에 의한 연동장치의 검사기준에 의한다. <개정 ’26. 6. 22>②연동검사 시 연동검사 로그파일을 다음 연동검사 시행 시까지 보존한다. <신설 ’26. 6. 22>[종전의 본문은 제1항으로 이동 ’26. 6. 22]",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제1항",
+            "link_text": "별표 2",
+            "line_text": "",
+            "target_law_name": "대구교통공사 신호설비보수규정 시행내규",
+            "target_article_no": "별표2",
+            "target_article_title": "연동장치의 검사기준",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2127167",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000157077&bylNo=0002&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:대구교통공사신호설비보수규정시행내규#JO0008",
+            "target_unit": "BYL0002",
+            "reference_id": "SchlPubRul:대구교통공사신호설비보수규정시행내규#BYL0002",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "대구교통공사 신호설비보수규정 시행내규/대구교통공사 신호설비보수규정 시행내규.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:대구교통공사신호설비보수규정시행내규#JO0008"
       },
@@ -132,7 +184,7 @@
         "article_title": "사용전 검사 <개정 ’09. 12. 23>",
         "chapter": "제2장  점검, 검사 및 정비",
         "chapter_path": "제2장  점검, 검사 및 정비",
-        "content": "제9조(사용전 검사 <개정 ’09. 12. 23>) 설비를 신설·개량 및 수리하였을 때는 영업운전에 사용하기 전 반드시 사용전 검사를 하여야 하며 검사 종료 후 양호하다고 인정된 후에 사용하여야 한다. <개정 ’09. 12. 23>",
+        "content": "제9조(사용전 검사 <개정 ’09. 12. 23>) 설비를 신설ㆍ개량 및 수리하였을 때는 영업운전에 사용하기 전 반드시 사용전 검사를 하여야 하며 검사 종료 후 양호하다고 인정된 후에 사용하여야 한다. <개정 ’09. 12. 23>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -154,9 +206,35 @@
         "article_title": "보수 및 안전",
         "chapter": "제2장  점검, 검사 및 정비",
         "chapter_path": "제2장  점검, 검사 및 정비",
-        "content": "제11조(보수 및 안전) 설비의 보수 및 안전에 대하여 다음 각 호에 의거 행하여야 한다.1. 재해 또는 돌발 사고가 발생하였을 때에는 즉시 조치하여야 한다.2. 설비의 고장 우려가 있는 것에 대하여는 예방 조치를 하고, 고장 시에는 즉시 적당한 조치를 하여야 한다.3. 작업 목표를 항상 명확하게 하고 작업 순서·방법 등을 치밀하게 계획하여 작업 능률의 향상을 도모하여야 한다.4. 작업시 안전을 위하여 별표 3의 각종 안전수칙을 준수하여, 안전사고를 예방하여야 한다.<개정 ‘08. 3. 28, ‘14. 9. 17>",
+        "content": "제11조(보수 및 안전) 설비의 보수 및 안전에 대하여 다음 각 호에 의거 행하여야 한다.1. 재해 또는 돌발 사고가 발생하였을 때에는 즉시 조치하여야 한다.2. 설비의 고장 우려가 있는 것에 대하여는 예방 조치를 하고, 고장 시에는 즉시 적당한 조치를 하여야 한다.3. 작업 목표를 항상 명확하게 하고 작업 순서ㆍ방법 등을 치밀하게 계획하여 작업 능률의 향상을 도모하여야 한다.4. 작업시 안전을 위하여 별표 3의 각종 안전수칙을 준수하여, 안전사고를 예방하여야 한다.<개정 ‘08. 3. 28, ‘14. 9. 17>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제11조",
+            "source_clause": "제11조",
+            "link_text": "별표 3",
+            "line_text": "",
+            "target_law_name": "대구교통공사 신호설비보수규정 시행내규",
+            "target_article_no": "별표3",
+            "target_article_title": "보수작업 안전수칙",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2127167",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000157077&bylNo=0003&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:대구교통공사신호설비보수규정시행내규#JO0011",
+            "target_unit": "BYL0003",
+            "reference_id": "SchlPubRul:대구교통공사신호설비보수규정시행내규#BYL0003",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "대구교통공사 신호설비보수규정 시행내규/대구교통공사 신호설비보수규정 시행내규.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:대구교통공사신호설비보수규정시행내규#JO0011"
       },
@@ -165,7 +243,7 @@
         "article_title": "유지관리이행계획 수립<개정 ‘15. 12. 31>",
         "chapter": "제2장  점검, 검사 및 정비",
         "chapter_path": "제2장  점검, 검사 및 정비",
-        "content": "제12조(유지관리이행계획 수립<개정 ‘15. 12. 31>) 규정 제28조 제1항에 의한 유지관리이행계획에 따라 다음 각 호의 사항을 포함하여야 한다. <개정 ‘15. 4. 23, ‘15. 12. 31>1. 유지관리이행계획 목적 <개정 ‘15. 12. 31>2. 점검·보수·교체·개량 대상 <개정 ‘15. 12. 31>3. 점검·보수·교체·개량 방법 <개정 ‘15. 12. 31>4. 점검·보수·교체·개량 인력(계약자 포함) <신설 ‘15. 12. 31>5. 점검·보수·교체·개량 일정 등 <신설 ‘15. 12. 31>6. 전년도 유지관리이행실적 분석 <신설 ‘15. 12. 31>7. 중장기 유지관리계획과의 연계 <신설 ‘15. 12. 31>",
+        "content": "제12조(유지관리이행계획 수립<개정 ‘15. 12. 31>) 규정 제28조 제1항에 의한 유지관리이행계획에 따라 다음 각 호의 사항을 포함하여야 한다. <개정 ‘15. 4. 23, ‘15. 12. 31>1. 유지관리이행계획 목적 <개정 ‘15. 12. 31>2. 점검ㆍ보수ㆍ교체ㆍ개량 대상 <개정 ‘15. 12. 31>3. 점검ㆍ보수ㆍ교체ㆍ개량 방법 <개정 ‘15. 12. 31>4. 점검ㆍ보수ㆍ교체ㆍ개량 인력(계약자 포함) <신설 ‘15. 12. 31>5. 점검ㆍ보수ㆍ교체ㆍ개량 일정 등 <신설 ‘15. 12. 31>6. 전년도 유지관리이행실적 분석 <신설 ‘15. 12. 31>7. 중장기 유지관리계획과의 연계 <신설 ‘15. 12. 31>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -462,7 +540,7 @@
         "article_title": "전원절체기, 자동전압조정기",
         "chapter": "제6절  전원장치 <개정 ‘15. 4. 23>",
         "chapter_path": "제3장  설비의 관리 > 제6절  전원장치 <개정 ‘15. 4. 23>",
-        "content": "제40조(전원절체기, 자동전압조정기) ①전원절체기의 “절체동작”은 신속하고 정확하게 되어야 한다.②자동전압조정기는 입·출력 전압 및 주파수 등 허용 범위의 변동률에 대하여 일정하게 유지되어야 한다. <개정 ’14. 9. 17, ‘15. 4. 23>",
+        "content": "제40조(전원절체기, 자동전압조정기) ①전원절체기의 “절체동작”은 신속하고 정확하게 되어야 한다.②자동전압조정기는 입ㆍ출력 전압 및 주파수 등 허용 범위의 변동률에 대하여 일정하게 유지되어야 한다. <개정 ’14. 9. 17, ‘15. 4. 23>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -490,8 +568,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149631869",
-            "seq": "149631869",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166204661",
+            "seq": "166204661",
             "filename": "제42조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제42조_1.gif",
@@ -499,8 +577,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149632159",
-            "seq": "149632159",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166204495",
+            "seq": "166204495",
             "filename": "제42조_2.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제42조_2.gif",
@@ -547,7 +625,7 @@
         "article_title": "트라후",
         "chapter": "제7절  전선로 및 배선",
         "chapter_path": "제3장  설비의 관리 > 제7절  전선로 및 배선",
-        "content": "제46조(트라후) 트라후 뚜껑 윗면이 지표면과 수평이 되게 설치하고 경사·침하·파손 및 뚜껑의 탈락이 없는 것을 원칙으로 한다. 다만, 주변여건상 부득이한 경우는 예외로 한다.",
+        "content": "제46조(트라후) 트라후 뚜껑 윗면이 지표면과 수평이 되게 설치하고 경사ㆍ침하ㆍ파손 및 뚜껑의 탈락이 없는 것을 원칙으로 한다. 다만, 주변여건상 부득이한 경우는 예외로 한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -608,8 +686,8 @@
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149631871",
-            "seq": "149631871",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166204659",
+            "seq": "166204659",
             "filename": "제51조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제51조_1.gif",
@@ -617,8 +695,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149632161",
-            "seq": "149632161",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166204657",
+            "seq": "166204657",
             "filename": "제51조_2.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제51조_2.gif",
@@ -626,8 +704,8 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149632163",
-            "seq": "149632163",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166204655",
+            "seq": "166204655",
             "filename": "제51조_3.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제51조_3.gif",
@@ -674,7 +752,7 @@
         "article_title": "타 분야 관련 보수한계",
         "chapter": "제9절  기타 장치",
         "chapter_path": "제3장  설비의 관리 > 제9절  기타 장치",
-        "content": "제55조(타 분야 관련 보수한계) ①1·2호선 신호설비 중 타 분야와 관련되는 설비의 보수한계는 다음 각 호와 같이 한다. <개정 ‘15. 4. 23>1. 정보전송장치(IFU, IFC)의 보수한계는 신호기계실 통신단자함 2차측부터 <개정 ’09. 12. 23, ’14. 9. 17>2. 승강장안전문설비 관련 보수한계는 신호기계실의 터미널 블럭 2차측 단자까지 <개정 ‘15. 4. 23>3. 무정전전원장치(UPS) 장치의 입력 전원에 대한 보수한계는 ATS(자동절체기)의 1차측 입력 단자부터, 신호기계실 내 분전반 설치시는 분전반 차단기 1차측 단자부터 <개정 ‘15. 4. 23>4. 열차경보제어장치의 보수한계는 제어함(앰프제외), 검지센서, 제어장치, 경광등 및 관련 케이블을 포함②3호선 신호설비 중 타 분야와 관련되는 설비의 보수한계는 다음 각 호와 같이 한다. <신설 ‘15. 4. 23>1. ETS의 보수한계는 변전소 내 ETS 단자대 1차측까지 <신설 ‘15. 4. 23>2. 분기기장치 동작전원의 보수한계는 분기기장치 분전함 2차측 단자부터 <신설 ‘15. 4. 23>3. 승강장안전문설비 무정전전원장치 입력전원의 보수한계는 입력 2차측 단자부터 <신설 ‘15. 4. 23>",
+        "content": "제55조(타 분야 관련 보수한계) ①1ㆍ2호선 신호설비 중 타 분야와 관련되는 설비의 보수한계는 다음 각 호와 같이 한다. <개정 ‘15. 4. 23>1. 정보전송장치(IFU, IFC)의 보수한계는 신호기계실 통신단자함 2차측부터 <개정 ’09. 12. 23, ’14. 9. 17>2. 승강장안전문설비 관련 보수한계는 신호기계실의 터미널 블럭 2차측 단자까지 <개정 ‘15. 4. 23>3. 무정전전원장치(UPS) 장치의 입력 전원에 대한 보수한계는 ATS(자동절체기)의 1차측 입력 단자부터, 신호기계실 내 분전반 설치시는 분전반 차단기 1차측 단자부터 <개정 ‘15. 4. 23>4. 열차경보제어장치의 보수한계는 제어함(앰프제외), 검지센서, 제어장치, 경광등 및 관련 케이블을 포함②3호선 신호설비 중 타 분야와 관련되는 설비의 보수한계는 다음 각 호와 같이 한다. <신설 ‘15. 4. 23>1. ETS의 보수한계는 변전소 내 ETS 단자대 1차측까지 <신설 ‘15. 4. 23>2. 분기기장치 동작전원의 보수한계는 분기기장치 분전함 2차측 단자부터 <신설 ‘15. 4. 23>3. 승강장안전문설비 무정전전원장치 입력전원의 보수한계는 입력 2차측 단자부터 <신설 ‘15. 4. 23>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -696,7 +774,7 @@
         "article_title": "비상복구자재 <신설 ‘15. 4. 23>",
         "chapter": "제9절  기타 장치",
         "chapter_path": "제3장  설비의 관리 > 제9절  기타 장치",
-        "content": "제57조(비상복구자재 <신설 ‘15. 4. 23>) 소속장은 비상복구자재의 보유기준을 수립·운용하고 항상 양호한 상태로 유지하며, 필요시 수량과 비치장소를 조정하여 배치할 수 있다. <신설 ‘15. 4. 23>",
+        "content": "제57조(비상복구자재 <신설 ‘15. 4. 23>) 소속장은 비상복구자재의 보유기준을 수립ㆍ운용하고 항상 양호한 상태로 유지하며, 필요시 수량과 비치장소를 조정하여 배치할 수 있다. <신설 ‘15. 4. 23>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -720,148 +798,349 @@
       "promulgation_date": "19960701",
       "promulgation_no": "00017",
       "content": "부칙 <제17호,1996.7.1>이 내규는 1996년 7월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:대구교통공사신호설비보수규정시행내규#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사신호설비보수규정시행내규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000157077",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260701"
     },
     {
       "promulgation_date": "20000901",
       "promulgation_no": "00108",
       "content": "부칙 <제108호,2000.9.1>이 내규는 2000년 9월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:대구교통공사신호설비보수규정시행내규#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사신호설비보수규정시행내규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000157077",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260701"
     },
     {
       "promulgation_date": "20050509",
       "promulgation_no": "00158",
       "content": "부칙 <제158호,2005.5.9>이 내규는 2005년 5월 9일부터 시행한다.",
-      "provision_id": "SchlPubRul:대구교통공사신호설비보수규정시행내규#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사신호설비보수규정시행내규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000157077",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260701"
     },
     {
       "promulgation_date": "20060608",
       "promulgation_no": "00209",
       "content": "부칙 <제209호,2006.6.8>이 내규는 2006년 6월 9일부터 시행한다.",
-      "provision_id": "SchlPubRul:대구교통공사신호설비보수규정시행내규#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사신호설비보수규정시행내규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000157077",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260701"
     },
     {
       "promulgation_date": "20080328",
       "promulgation_no": "00244",
       "content": "부칙 <제244호,2008.3.28>이 내규는 2008년 4월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:대구교통공사신호설비보수규정시행내규#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사신호설비보수규정시행내규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000157077",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260701"
     },
     {
       "promulgation_date": "20080925",
       "promulgation_no": "00245",
       "content": "부칙 <제245호,2008.9.25><정관 제20호, ’08. 9. 25>①(시행일) 이 정관은 2008년 10월 1일부터 시행한다.②(포괄승계 사항의 경과조치) 이 정관 제정 당시에 지하철 운영에 관하여 공사에 포괄승계된 사항은 이 정관 시행에 의하여 도시철도 운영에 관하여 공사에 포괄승계된 것으로 본다.③(다른 사규의 개정) 이 정관 시행일 현재 공사의 모든 사규에서 사용하고 있는 사명 “대구광역시지하철공사”를 각각 “대구도시철도공사”로 하고, 용어 “지하철”을 각각 “도시철도”로 하며, 명칭 “행정자치부장관”을 각각 “행정안전부장관”으로 한다.",
-      "provision_id": "SchlPubRul:대구교통공사신호설비보수규정시행내규#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사신호설비보수규정시행내규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000157077",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260701"
     },
     {
       "promulgation_date": "20091223",
       "promulgation_no": "00301",
       "content": "부칙 <제301호,2009.12.23>이 내규는 2010년 1월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:대구교통공사신호설비보수규정시행내규#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사신호설비보수규정시행내규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000157077",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260701"
     },
     {
       "promulgation_date": "20100428",
       "promulgation_no": "00305",
       "content": "부칙 <제305호,2010.4.28>이 내규는 2010년 4월 28일부터 시행한다.",
-      "provision_id": "SchlPubRul:대구교통공사신호설비보수규정시행내규#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사신호설비보수규정시행내규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000157077",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260701"
     },
     {
       "promulgation_date": "20120710",
       "promulgation_no": "00339",
       "content": "부칙 <제339호,2012.7.10>①(시행일) 이 내규는 2012년 7월 10일부터 시행한다.②(경과조치) 이 내규 시행일 이전에 시행된 사항에 대하여는 이 내규에 의하여 시행된 것으로 본다.",
-      "provision_id": "SchlPubRul:대구교통공사신호설비보수규정시행내규#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사신호설비보수규정시행내규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000157077",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260701"
     },
     {
       "promulgation_date": "20131226",
       "promulgation_no": "00384",
       "content": "부칙 <제384호,2013.12.26>이 내규는 2013년 12월 26일부터 시행한다.",
-      "provision_id": "SchlPubRul:대구교통공사신호설비보수규정시행내규#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사신호설비보수규정시행내규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000157077",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260701"
     },
     {
       "promulgation_date": "20140917",
       "promulgation_no": "00404",
       "content": "부칙 <제404호,2014.9.17>이 내규는 2014년 9월 17일부터 시행한다.",
-      "provision_id": "SchlPubRul:대구교통공사신호설비보수규정시행내규#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사신호설비보수규정시행내규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000157077",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260701"
     },
     {
       "promulgation_date": "20150423",
       "promulgation_no": "00443",
       "content": "부칙 <제443호,2015.4.23>이 내규는 2015년 4월 23일부터 시행한다.",
-      "provision_id": "SchlPubRul:대구교통공사신호설비보수규정시행내규#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사신호설비보수규정시행내규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000157077",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260701"
     },
     {
       "promulgation_date": "20151231",
       "promulgation_no": "00458",
       "content": "부칙 <제458호,2015.12.31>이 내규는 2016년 1월 1일부터 시행한다.",
-      "provision_id": "SchlPubRul:대구교통공사신호설비보수규정시행내규#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사신호설비보수규정시행내규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000157077",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260701"
     },
     {
       "promulgation_date": "20161226",
       "promulgation_no": "00501",
       "content": "부칙 <제501호,2016.12.26>이 내규는 2016년 12월 26일부터 시행한다.",
-      "provision_id": "SchlPubRul:대구교통공사신호설비보수규정시행내규#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사신호설비보수규정시행내규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000157077",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260701"
     },
     {
       "promulgation_date": "20180504",
       "promulgation_no": "00540",
       "content": "부칙 <제540호,2018.5.4>이 내규는 2018년 5월 4일부터 시행한다.",
-      "provision_id": "SchlPubRul:대구교통공사신호설비보수규정시행내규#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사신호설비보수규정시행내규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000157077",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260701"
     },
     {
       "promulgation_date": "20190228",
       "promulgation_no": "00565",
       "content": "부칙 <제565호,2019.2.28>이 내규는 2019년 2월 28일부터 시행한다.",
-      "provision_id": "SchlPubRul:대구교통공사신호설비보수규정시행내규#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사신호설비보수규정시행내규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000157077",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260701"
     },
     {
       "promulgation_date": "20191011",
       "promulgation_no": "00579",
       "content": "부칙 <제579호,2019.10.11>이 내규는 2019년 10월 11일부터 시행한다.",
-      "provision_id": "SchlPubRul:대구교통공사신호설비보수규정시행내규#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사신호설비보수규정시행내규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000157077",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260701"
     },
     {
       "promulgation_date": "20201214",
       "promulgation_no": "00615",
       "content": "부칙 <제615호,2020.12.14>이 내규는 2020년 12월 11일부터 시행한다.",
-      "provision_id": "SchlPubRul:대구교통공사신호설비보수규정시행내규#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사신호설비보수규정시행내규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000157077",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260701"
     },
     {
       "promulgation_date": "20220830",
       "promulgation_no": "00038",
       "content": "부칙 <제38호,2022.8.30>(정관)제1조(시행일) 이 정관은  2022년 9월 1일부터 시행한다.제2조 <생략>제3조(다른 사규의 개정) ①이 정관 시행일 현재 공사의 모든 사규에서 사용하고 있는 사명 “대구도시철도공사”를 “대구교통공사”로 한다.② <생략>",
-      "provision_id": "SchlPubRul:대구교통공사신호설비보수규정시행내규#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사신호설비보수규정시행내규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000157077",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260701"
     },
     {
       "promulgation_date": "20230831",
       "promulgation_no": "00678",
       "content": "부칙 <제678호,2023.8.31>이 내규는 2023년 8월 31일부터 시행한다.",
-      "provision_id": "SchlPubRul:대구교통공사신호설비보수규정시행내규#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사신호설비보수규정시행내규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000157077",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260701"
     },
     {
       "promulgation_date": "20231228",
       "promulgation_no": "00684",
       "content": "부칙 <제684호,2023.12.28>이 내규는 2023년 12월 28일부터 시행한다.",
-      "provision_id": "SchlPubRul:대구교통공사신호설비보수규정시행내규#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사신호설비보수규정시행내규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000157077",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260701"
     },
     {
       "promulgation_date": "20250220",
       "promulgation_no": "00712",
       "content": "부칙 <제712호,2025.2.20>이 내규는 2025년 2월 20일부터 시행한다.",
-      "provision_id": "SchlPubRul:대구교통공사신호설비보수규정시행내규#ADDENDUM"
+      "provision_id": "SchlPubRul:대구교통공사신호설비보수규정시행내규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000157077",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260701"
+    },
+    {
+      "promulgation_date": "20260622",
+      "promulgation_no": "00743",
+      "content": "부칙 <제743호,2026.6.22>이 내규는 2026년 7월 1일부터 시행한다.",
+      "provision_id": "SchlPubRul:대구교통공사신호설비보수규정시행내규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000157077",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260701"
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "검사기준표",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000157077&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166204845",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166204845",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:대구교통공사신호설비보수규정시행내규#BYL0001",
+      "filename": "별표1_검사기준표.hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표1_검사기준표.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "연동장치의 검사기준",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000157077&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166204863",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166204863",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:대구교통공사신호설비보수규정시행내규#BYL0002",
+      "filename": "별표2_연동장치의 검사기준.hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표2_연동장치의 검사기준.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별표",
+      "title": "보수작업 안전수칙",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000157077&bylNo=0003&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166204873",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166204873",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:대구교통공사신호설비보수규정시행내규#BYL0003",
+      "filename": "별표3_보수작업 안전수칙.hwp",
+      "file_dir": "별표",
+      "local_path": "별표/별표3_보수작업 안전수칙.hwp",
+      "file_store_url": ""
+    }
+  ],
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 3,
+    "by_category": {
+      "학칙공단": 3
+    },
+    "by_relation_type": {
+      "appendix_ref": 3
+    },
     "articles_total": 57,
-    "articles_with_relations": 0,
+    "articles_with_relations": 3,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 22,
+    "addenda_count": 23,
     "appendices_count": 3,
     "attachments_count": 0
   },
@@ -872,5 +1151,8 @@
   "addendum_provision_id": "SchlPubRul:대구교통공사신호설비보수규정시행내규#ADDENDUM",
   "amendment_provision_id": "SchlPubRul:대구교통공사신호설비보수규정시행내규#AMENDMENT",
   "is_future": false,
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
   "git_path": "대구교통공사  신호설비보수규정 시행내규/대구교통공사  신호설비보수규정 시행내규.json"
 }
