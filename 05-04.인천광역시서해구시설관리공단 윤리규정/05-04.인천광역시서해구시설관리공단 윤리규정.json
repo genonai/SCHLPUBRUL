@@ -46,7 +46,48 @@
         "chapter_path": "제1장  총   칙",
         "content": "제1조(목적) 이 규정은 「부패방지 및 국민권익위원회의 설치와 운영에 관한 법률」 제8조의 규정에 의하여 임ㆍ직원이 준수하여야 할 윤리헌장 및 행동기준을 규정함을 목적으로 한다.<개정 2025.12.24>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「부패방지 및 국민권익위원회의 설치와 운영에 관한 법률」",
+            "line_text": "",
+            "target_law_name": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2127817",
+            "target_url": "https://www.law.go.kr/법령/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:05-04.인천광역시서해구시설관리공단윤리규정#JO0001",
+            "reference_id": "law:부패방지및국민권익위원회의설치와운영에관한법률#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제8조",
+            "line_text": "",
+            "target_law_name": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률",
+            "target_article_no": "제8조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2127817",
+            "target_url": "https://www.law.go.kr/법령/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/제8조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:05-04.인천광역시서해구시설관리공단윤리규정#JO0001",
+            "reference_id": "law:부패방지및국민권익위원회의설치와운영에관한법률#JO0008",
+            "target_repo": "LAW",
+            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:05-04.인천광역시서해구시설관리공단윤리규정#JO0001"
       },
@@ -491,11 +532,15 @@
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 2,
+    "by_category": {
+      "법령": 2
+    },
+    "by_relation_type": {
+      "citation": 2
+    },
     "articles_total": 35,
-    "articles_with_relations": 0,
+    "articles_with_relations": 1,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
