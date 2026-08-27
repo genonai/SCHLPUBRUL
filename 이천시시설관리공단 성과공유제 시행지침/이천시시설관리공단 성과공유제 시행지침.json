@@ -76,7 +76,9 @@
             "source_provision_id": "SchlPubRul:이천시시설관리공단성과공유제시행지침#JO0002",
             "reference_id": "law:대중소기업상생협력촉진에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "대·중소기업 상생협력 촉진에 관한 법률/법률/대·중소기업 상생협력 촉진에 관한 법률.json"
+            "target_git_path_guess": "대·중소기업 상생협력 촉진에 관한 법률/법률/대·중소기업 상생협력 촉진에 관한 법률.json",
+            "target_git_path": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -96,7 +98,9 @@
             "source_provision_id": "SchlPubRul:이천시시설관리공단성과공유제시행지침#JO0002",
             "reference_id": "law:지방공기업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -116,7 +120,11 @@
             "source_provision_id": "SchlPubRul:이천시시설관리공단성과공유제시행지침#JO0002",
             "reference_id": "admrul:성과공유확인제운영요령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "성과공유 확인제 운영요령/성과공유 확인제 운영요령.json"
+            "target_git_path_guess": "성과공유 확인제 운영요령/성과공유 확인제 운영요령.json",
+            "target_git_path": "성과공유 확인제 운영요령/성과공유 확인제 운영요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -148,7 +156,9 @@
             "source_provision_id": "SchlPubRul:이천시시설관리공단성과공유제시행지침#JO0003",
             "reference_id": "law:대중소기업상생협력촉진에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "대·중소기업 상생협력 촉진에 관한 법률/법률/대·중소기업 상생협력 촉진에 관한 법률.json"
+            "target_git_path_guess": "대·중소기업 상생협력 촉진에 관한 법률/법률/대·중소기업 상생협력 촉진에 관한 법률.json",
+            "target_git_path": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -251,7 +261,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:이천시시설관리공단성과공유제시행지침#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "이천시시설관리공단 성과공유제 시행지침/이천시시설관리공단 성과공유제 시행지침.json"
+            "target_git_path_guess": "이천시시설관리공단 성과공유제 시행지침/이천시시설관리공단 성과공유제 시행지침.json",
+            "target_git_path": "이천시시설관리공단 성과공유제 시행지침/이천시시설관리공단 성과공유제 시행지침.json",
+            "target_git_file_path": "이천시시설관리공단 성과공유제 시행지침/별지/별지1_성과공유과제 신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -276,7 +291,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:이천시시설관리공단성과공유제시행지침#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "이천시시설관리공단 성과공유제 시행지침/이천시시설관리공단 성과공유제 시행지침.json"
+            "target_git_path_guess": "이천시시설관리공단 성과공유제 시행지침/이천시시설관리공단 성과공유제 시행지침.json",
+            "target_git_path": "이천시시설관리공단 성과공유제 시행지침/이천시시설관리공단 성과공유제 시행지침.json",
+            "target_git_file_path": "이천시시설관리공단 성과공유제 시행지침/별지/별지2_성과공유과제 수행계획서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -308,7 +328,11 @@
             "source_provision_id": "SchlPubRul:이천시시설관리공단성과공유제시행지침#JO0011",
             "reference_id": "SchlPubRul:이천시시설관리공단성과공유제시행지침#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "이천시시설관리공단 성과공유제 시행지침/이천시시설관리공단 성과공유제 시행지침.json"
+            "target_git_path_guess": "이천시시설관리공단 성과공유제 시행지침/이천시시설관리공단 성과공유제 시행지침.json",
+            "target_git_path": "이천시시설관리공단 성과공유제 시행지침/이천시시설관리공단 성과공유제 시행지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -333,7 +357,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:이천시시설관리공단성과공유제시행지침#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "이천시시설관리공단 성과공유제 시행지침/이천시시설관리공단 성과공유제 시행지침.json"
+            "target_git_path_guess": "이천시시설관리공단 성과공유제 시행지침/이천시시설관리공단 성과공유제 시행지침.json",
+            "target_git_path": "이천시시설관리공단 성과공유제 시행지침/이천시시설관리공단 성과공유제 시행지침.json",
+            "target_git_file_path": "이천시시설관리공단 성과공유제 시행지침/별지/별지3_성과공유과제 검토 결과서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -365,7 +394,11 @@
             "source_provision_id": "SchlPubRul:이천시시설관리공단성과공유제시행지침#JO0012",
             "reference_id": "SchlPubRul:이천시시설관리공단성과공유제시행지침#JO0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "이천시시설관리공단 성과공유제 시행지침/이천시시설관리공단 성과공유제 시행지침.json"
+            "target_git_path_guess": "이천시시설관리공단 성과공유제 시행지침/이천시시설관리공단 성과공유제 시행지침.json",
+            "target_git_path": "이천시시설관리공단 성과공유제 시행지침/이천시시설관리공단 성과공유제 시행지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -402,7 +435,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:이천시시설관리공단성과공유제시행지침#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "이천시시설관리공단 성과공유제 시행지침/이천시시설관리공단 성과공유제 시행지침.json"
+            "target_git_path_guess": "이천시시설관리공단 성과공유제 시행지침/이천시시설관리공단 성과공유제 시행지침.json",
+            "target_git_path": "이천시시설관리공단 성과공유제 시행지침/이천시시설관리공단 성과공유제 시행지침.json",
+            "target_git_file_path": "이천시시설관리공단 성과공유제 시행지침/별지/별지4_성과공유제 표준계약서(전문).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -439,7 +477,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:이천시시설관리공단성과공유제시행지침#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "이천시시설관리공단 성과공유제 시행지침/이천시시설관리공단 성과공유제 시행지침.json"
+            "target_git_path_guess": "이천시시설관리공단 성과공유제 시행지침/이천시시설관리공단 성과공유제 시행지침.json",
+            "target_git_path": "이천시시설관리공단 성과공유제 시행지침/이천시시설관리공단 성과공유제 시행지침.json",
+            "target_git_file_path": "이천시시설관리공단 성과공유제 시행지침/별지/별지5_성과공유과제 중간보고서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -464,7 +507,12 @@
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:이천시시설관리공단성과공유제시행지침#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "이천시시설관리공단 성과공유제 시행지침/이천시시설관리공단 성과공유제 시행지침.json"
+            "target_git_path_guess": "이천시시설관리공단 성과공유제 시행지침/이천시시설관리공단 성과공유제 시행지침.json",
+            "target_git_path": "이천시시설관리공단 성과공유제 시행지침/이천시시설관리공단 성과공유제 시행지침.json",
+            "target_git_file_path": "이천시시설관리공단 성과공유제 시행지침/별지/별지6_성과공유과제 완료보고서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -501,7 +549,12 @@
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:이천시시설관리공단성과공유제시행지침#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "이천시시설관리공단 성과공유제 시행지침/이천시시설관리공단 성과공유제 시행지침.json"
+            "target_git_path_guess": "이천시시설관리공단 성과공유제 시행지침/이천시시설관리공단 성과공유제 시행지침.json",
+            "target_git_path": "이천시시설관리공단 성과공유제 시행지침/이천시시설관리공단 성과공유제 시행지침.json",
+            "target_git_file_path": "이천시시설관리공단 성과공유제 시행지침/별지/별지7_성과공유과제 평가결과서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -533,7 +586,11 @@
             "source_provision_id": "SchlPubRul:이천시시설관리공단성과공유제시행지침#JO0016",
             "reference_id": "SchlPubRul:이천시시설관리공단성과공유제시행지침#JO0014",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "이천시시설관리공단 성과공유제 시행지침/이천시시설관리공단 성과공유제 시행지침.json"
+            "target_git_path_guess": "이천시시설관리공단 성과공유제 시행지침/이천시시설관리공단 성과공유제 시행지침.json",
+            "target_git_path": "이천시시설관리공단 성과공유제 시행지침/이천시시설관리공단 성과공유제 시행지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],

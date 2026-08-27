@@ -142,7 +142,11 @@
             "source_provision_id": "SchlPubRul:사규관리규정:public_2126919#JO0008",
             "reference_id": "SchlPubRul:사규관리규정:public_2126919#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "사규관리규정/사규관리규정.json"
+            "target_git_path_guess": "사규관리규정/사규관리규정.json",
+            "target_git_path": "사규관리규정/public_2126919/사규관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -292,5 +296,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "사규관리규정/public_2126919/사규관리규정.json"
+  "git_path": "사규관리규정/public_2126919/사규관리규정.json",
+  "_schlpub_id_suffix": "public_2126919"
 }

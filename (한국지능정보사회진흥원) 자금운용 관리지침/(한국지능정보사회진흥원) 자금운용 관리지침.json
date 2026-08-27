@@ -76,7 +76,9 @@
             "source_provision_id": "SchlPubRul:(한국지능정보사회진흥원)자금운용관리지침#JO0002",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -152,7 +154,9 @@
             "source_provision_id": "SchlPubRul:(한국지능정보사회진흥원)자금운용관리지침#JO0006",
             "reference_id": "law:금융산업의구조개선에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "금융산업의 구조개선에 관한 법률/법률/금융산업의 구조개선에 관한 법률.json"
+            "target_git_path_guess": "금융산업의 구조개선에 관한 법률/법률/금융산업의 구조개선에 관한 법률.json",
+            "target_git_path": "금융산업의 구조개선에 관한 법률/법률/금융산업의 구조개선에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -172,7 +176,9 @@
             "source_provision_id": "SchlPubRul:(한국지능정보사회진흥원)자금운용관리지침#JO0006",
             "reference_id": "law:금융산업의구조개선에관한법률#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "금융산업의 구조개선에 관한 법률/법률/금융산업의 구조개선에 관한 법률.json"
+            "target_git_path_guess": "금융산업의 구조개선에 관한 법률/법률/금융산업의 구조개선에 관한 법률.json",
+            "target_git_path": "금융산업의 구조개선에 관한 법률/법률/금융산업의 구조개선에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -192,7 +198,9 @@
             "source_provision_id": "SchlPubRul:(한국지능정보사회진흥원)자금운용관리지침#JO0006",
             "reference_id": "law:예금자보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "예금자보호법/법률/예금자보호법.json"
+            "target_git_path_guess": "예금자보호법/법률/예금자보호법.json",
+            "target_git_path": "예금자보호법/법률/예금자보호법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -235,7 +243,11 @@
             "source_provision_id": "SchlPubRul:(한국지능정보사회진흥원)자금운용관리지침#JO0008",
             "reference_id": "SchlPubRul:(한국지능정보사회진흥원)자금운용관리지침#JO0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국지능정보사회진흥원) 자금운용 관리지침/(한국지능정보사회진흥원) 자금운용 관리지침.json"
+            "target_git_path_guess": "(한국지능정보사회진흥원) 자금운용 관리지침/(한국지능정보사회진흥원) 자금운용 관리지침.json",
+            "target_git_path": "(한국지능정보사회진흥원) 자금운용 관리지침/(한국지능정보사회진흥원) 자금운용 관리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -255,7 +267,11 @@
             "source_provision_id": "SchlPubRul:(한국지능정보사회진흥원)자금운용관리지침#JO0008",
             "reference_id": "SchlPubRul:(한국지능정보사회진흥원)자금운용관리지침#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국지능정보사회진흥원) 자금운용 관리지침/(한국지능정보사회진흥원) 자금운용 관리지침.json"
+            "target_git_path_guess": "(한국지능정보사회진흥원) 자금운용 관리지침/(한국지능정보사회진흥원) 자금운용 관리지침.json",
+            "target_git_path": "(한국지능정보사회진흥원) 자금운용 관리지침/(한국지능정보사회진흥원) 자금운용 관리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -275,7 +291,11 @@
             "source_provision_id": "SchlPubRul:(한국지능정보사회진흥원)자금운용관리지침#JO0008",
             "reference_id": "SchlPubRul:(한국지능정보사회진흥원)자금운용관리지침#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국지능정보사회진흥원) 자금운용 관리지침/(한국지능정보사회진흥원) 자금운용 관리지침.json"
+            "target_git_path_guess": "(한국지능정보사회진흥원) 자금운용 관리지침/(한국지능정보사회진흥원) 자금운용 관리지침.json",
+            "target_git_path": "(한국지능정보사회진흥원) 자금운용 관리지침/(한국지능정보사회진흥원) 자금운용 관리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

@@ -109,7 +109,9 @@
             "source_provision_id": "SchlPubRul:(신용보증기금)회계규정#JO0005",
             "reference_id": "law:신용보증기금법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "신용보증기금법/법률/신용보증기금법.json"
+            "target_git_path_guess": "신용보증기금법/법률/신용보증기금법.json",
+            "target_git_path": "신용보증기금법/법률/신용보증기금법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -129,7 +131,11 @@
             "source_provision_id": "SchlPubRul:(신용보증기금)회계규정#JO0005",
             "reference_id": "SchlPubRul:신용보증기금정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "신용보증기금 정관/신용보증기금 정관.json"
+            "target_git_path_guess": "신용보증기금 정관/신용보증기금 정관.json",
+            "target_git_path": "신용보증기금 정관/신용보증기금 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -568,7 +574,9 @@
             "source_provision_id": "SchlPubRul:(신용보증기금)회계규정#JO0043",
             "reference_id": "law:신용보증기금법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "신용보증기금법/법률/신용보증기금법.json"
+            "target_git_path_guess": "신용보증기금법/법률/신용보증기금법.json",
+            "target_git_path": "신용보증기금법/법률/신용보증기금법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -776,7 +784,9 @@
             "source_provision_id": "SchlPubRul:(신용보증기금)회계규정#JO0059",
             "reference_id": "law:국가회계기준에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가회계기준에 관한 규칙/법률/국가회계기준에 관한 규칙.json"
+            "target_git_path_guess": "국가회계기준에 관한 규칙/법률/국가회계기준에 관한 규칙.json",
+            "target_git_path": "국가회계기준에 관한 규칙/법률/국가회계기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

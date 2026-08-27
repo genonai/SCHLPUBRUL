@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:(한국기초과학지원연구원)고객헌장운영에관한지침#JO0001",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -85,7 +87,9 @@
             "source_provision_id": "SchlPubRul:(한국기초과학지원연구원)고객헌장운영에관한지침#JO0001",
             "reference_id": "law:공공기관의운영에관한법률#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -144,7 +148,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(한국기초과학지원연구원)고객헌장운영에관한지침#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국기초과학지원연구원) 고객헌장 운영에 관한 지침/(한국기초과학지원연구원) 고객헌장 운영에 관한 지침.json"
+            "target_git_path_guess": "(한국기초과학지원연구원) 고객헌장 운영에 관한 지침/(한국기초과학지원연구원) 고객헌장 운영에 관한 지침.json",
+            "target_git_path": "(한국기초과학지원연구원) 고객헌장 운영에 관한 지침/(한국기초과학지원연구원) 고객헌장 운영에 관한 지침.json",
+            "target_git_file_path": "(한국기초과학지원연구원) 고객헌장 운영에 관한 지침/별표/별표1_고객헌장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

@@ -109,7 +109,9 @@
             "source_provision_id": "SchlPubRul:(한국교통안전공단)철도차량운전및철도교통관제실무수습인증구간관리지침#JO0005",
             "reference_id": "law:철도사업법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json"
+            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_path": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -129,7 +131,9 @@
             "source_provision_id": "SchlPubRul:(한국교통안전공단)철도차량운전및철도교통관제실무수습인증구간관리지침#JO0005",
             "reference_id": "law:철도사업법시행규칙#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json"
+            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_path": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -161,7 +165,11 @@
             "source_provision_id": "SchlPubRul:(한국교통안전공단)철도차량운전및철도교통관제실무수습인증구간관리지침#JO0006",
             "reference_id": "SchlPubRul:(한국교통안전공단)철도차량운전및철도교통관제실무수습인증구간관리지침#JO0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국교통안전공단) 철도차량운전 및 철도교통관제 실무수습 인증구간 관리지침/(한국교통안전공단) 철도차량운전 및 철도교통관제 실무수습 인증구간 관리지침.json"
+            "target_git_path_guess": "(한국교통안전공단) 철도차량운전 및 철도교통관제 실무수습 인증구간 관리지침/(한국교통안전공단) 철도차량운전 및 철도교통관제 실무수습 인증구간 관리지침.json",
+            "target_git_path": "(한국교통안전공단) 철도차량운전 및 철도교통관제 실무수습 인증구간 관리지침/(한국교통안전공단) 철도차량운전 및 철도교통관제 실무수습 인증구간 관리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

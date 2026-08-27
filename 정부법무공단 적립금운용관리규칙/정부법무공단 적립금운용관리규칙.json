@@ -65,7 +65,11 @@
             "source_provision_id": "SchlPubRul:정부법무공단적립금운용관리규칙#JO0001",
             "reference_id": "SchlPubRul:정부법무공단정관#JO0048",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "정부법무공단 정관/정부법무공단 정관.json"
+            "target_git_path_guess": "정부법무공단 정관/정부법무공단 정관.json",
+            "target_git_path": "정부법무공단 정관/정부법무공단 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -97,7 +101,11 @@
             "source_provision_id": "SchlPubRul:정부법무공단적립금운용관리규칙#JO0002",
             "reference_id": "SchlPubRul:정부법무공단적립금운용관리규칙#JO0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "정부법무공단 적립금운용관리규칙/정부법무공단 적립금운용관리규칙.json"
+            "target_git_path_guess": "정부법무공단 적립금운용관리규칙/정부법무공단 적립금운용관리규칙.json",
+            "target_git_path": "정부법무공단 적립금운용관리규칙/정부법무공단 적립금운용관리규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -162,7 +170,9 @@
             "source_provision_id": "SchlPubRul:정부법무공단적립금운용관리규칙#JO0006",
             "reference_id": "law:정부법무공단법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "정부법무공단법/법률/정부법무공단법.json"
+            "target_git_path_guess": "정부법무공단법/법률/정부법무공단법.json",
+            "target_git_path": "정부법무공단법/법률/정부법무공단법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -182,7 +192,9 @@
             "source_provision_id": "SchlPubRul:정부법무공단적립금운용관리규칙#JO0006",
             "reference_id": "law:정부법무공단법#JO0027",
             "target_repo": "LAW",
-            "target_git_path_guess": "정부법무공단법/법률/정부법무공단법.json"
+            "target_git_path_guess": "정부법무공단법/법률/정부법무공단법.json",
+            "target_git_path": "정부법무공단법/법률/정부법무공단법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -236,7 +248,9 @@
             "source_provision_id": "SchlPubRul:정부법무공단적립금운용관리규칙#JO0009",
             "reference_id": "law:정부법무공단법#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "정부법무공단법/법률/정부법무공단법.json"
+            "target_git_path_guess": "정부법무공단법/법률/정부법무공단법.json",
+            "target_git_path": "정부법무공단법/법률/정부법무공단법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -268,7 +282,9 @@
             "source_provision_id": "SchlPubRul:정부법무공단적립금운용관리규칙#JO0010",
             "reference_id": "law:은행법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "은행법/법률/은행법.json"
+            "target_git_path_guess": "은행법/법률/은행법.json",
+            "target_git_path": "은행법/법률/은행법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

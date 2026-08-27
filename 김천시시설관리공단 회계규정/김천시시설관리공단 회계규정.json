@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:김천시시설관리공단회계규정#JO0001",
             "reference_id": "law:지방공기업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -235,7 +237,9 @@
             "source_provision_id": "SchlPubRul:김천시시설관리공단회계규정#JO0011",
             "reference_id": "law:회계관계직원등의책임에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "회계관계 직원 등의 책임에 관한 법률/법률/회계관계 직원 등의 책임에 관한 법률.json"
+            "target_git_path_guess": "회계관계 직원 등의 책임에 관한 법률/법률/회계관계 직원 등의 책임에 관한 법률.json",
+            "target_git_path": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -322,7 +326,9 @@
             "source_provision_id": "SchlPubRul:김천시시설관리공단회계규정#JO0017",
             "reference_id": "law:법인세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "법인세법/법률/법인세법.json"
+            "target_git_path_guess": "법인세법/법률/법인세법.json",
+            "target_git_path": "법인세법/법률/법인세법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -431,7 +437,11 @@
             "source_provision_id": "SchlPubRul:김천시시설관리공단회계규정#JO0025",
             "reference_id": "SchlPubRul:김천시시설관리공단회계규정#JO0028",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "김천시시설관리공단 회계규정/김천시시설관리공단 회계규정.json"
+            "target_git_path_guess": "김천시시설관리공단 회계규정/김천시시설관리공단 회계규정.json",
+            "target_git_path": "김천시시설관리공단 회계규정/김천시시설관리공단 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -749,7 +759,9 @@
             "source_provision_id": "SchlPubRul:김천시시설관리공단회계규정#JO0052",
             "reference_id": "law:지방회계법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방회계법/시행령/지방회계법 시행령.json"
+            "target_git_path_guess": "지방회계법/시행령/지방회계법 시행령.json",
+            "target_git_path": "지방회계법/시행령/지방회계법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -803,7 +815,11 @@
             "source_provision_id": "SchlPubRul:김천시시설관리공단회계규정#JO0055",
             "reference_id": "SchlPubRul:김천시시설관리공단회계규정#JO0045",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "김천시시설관리공단 회계규정/김천시시설관리공단 회계규정.json"
+            "target_git_path_guess": "김천시시설관리공단 회계규정/김천시시설관리공단 회계규정.json",
+            "target_git_path": "김천시시설관리공단 회계규정/김천시시설관리공단 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -884,7 +900,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:김천시시설관리공단회계규정#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "김천시시설관리공단 회계규정/김천시시설관리공단 회계규정.json"
+            "target_git_path_guess": "김천시시설관리공단 회계규정/김천시시설관리공단 회계규정.json",
+            "target_git_path": "김천시시설관리공단 회계규정/김천시시설관리공단 회계규정.json",
+            "target_git_file_path": "김천시시설관리공단 회계규정/별지/별지1_수입지출외현금 반환청구서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -998,7 +1019,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:김천시시설관리공단회계규정#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "김천시시설관리공단 회계규정/김천시시설관리공단 회계규정.json"
+            "target_git_path_guess": "김천시시설관리공단 회계규정/김천시시설관리공단 회계규정.json",
+            "target_git_path": "김천시시설관리공단 회계규정/김천시시설관리공단 회계규정.json",
+            "target_git_file_path": "김천시시설관리공단 회계규정/별지/별지2_대차대조표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1041,7 +1067,11 @@
             "source_provision_id": "SchlPubRul:김천시시설관리공단회계규정#JO0070",
             "reference_id": "SchlPubRul:김천시시설관리공단회계규정#JO0093",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "김천시시설관리공단 회계규정/김천시시설관리공단 회계규정.json"
+            "target_git_path_guess": "김천시시설관리공단 회계규정/김천시시설관리공단 회계규정.json",
+            "target_git_path": "김천시시설관리공단 회계규정/김천시시설관리공단 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1205,7 +1235,9 @@
             "source_provision_id": "SchlPubRul:김천시시설관리공단회계규정#JO0083",
             "reference_id": "law:법인세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "법인세법/법률/법인세법.json"
+            "target_git_path_guess": "법인세법/법률/법인세법.json",
+            "target_git_path": "법인세법/법률/법인세법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1303,7 +1335,9 @@
             "source_provision_id": "SchlPubRul:김천시시설관리공단회계규정#JO0090",
             "reference_id": "law:자산재평가법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "자산재평가법/법률/자산재평가법.json"
+            "target_git_path_guess": "자산재평가법/법률/자산재평가법.json",
+            "target_git_path": "자산재평가법/법률/자산재평가법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1346,7 +1380,9 @@
             "source_provision_id": "SchlPubRul:김천시시설관리공단회계규정#JO0092",
             "reference_id": "law:자산재평가법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "자산재평가법/법률/자산재평가법.json"
+            "target_git_path_guess": "자산재평가법/법률/자산재평가법.json",
+            "target_git_path": "자산재평가법/법률/자산재평가법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1466,7 +1502,9 @@
             "source_provision_id": "SchlPubRul:김천시시설관리공단회계규정#JO0101",
             "reference_id": "law:법인세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "법인세법/법률/법인세법.json"
+            "target_git_path_guess": "법인세법/법률/법인세법.json",
+            "target_git_path": "법인세법/법률/법인세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1486,7 +1524,9 @@
             "source_provision_id": "SchlPubRul:김천시시설관리공단회계규정#JO0101",
             "reference_id": "law:법인세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "법인세법/법률/법인세법.json"
+            "target_git_path_guess": "법인세법/법률/법인세법.json",
+            "target_git_path": "법인세법/법률/법인세법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1518,7 +1558,9 @@
             "source_provision_id": "SchlPubRul:김천시시설관리공단회계규정#JO0102",
             "reference_id": "law:자산재평가법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "자산재평가법/법률/자산재평가법.json"
+            "target_git_path_guess": "자산재평가법/법률/자산재평가법.json",
+            "target_git_path": "자산재평가법/법률/자산재평가법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1572,7 +1614,9 @@
             "source_provision_id": "SchlPubRul:김천시시설관리공단회계규정#JO0105",
             "reference_id": "law:법인세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "법인세법/법률/법인세법.json"
+            "target_git_path_guess": "법인세법/법률/법인세법.json",
+            "target_git_path": "법인세법/법률/법인세법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1637,7 +1681,9 @@
             "source_provision_id": "SchlPubRul:김천시시설관리공단회계규정#JO0109",
             "reference_id": "law:법인세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "법인세법/법률/법인세법.json"
+            "target_git_path_guess": "법인세법/법률/법인세법.json",
+            "target_git_path": "법인세법/법률/법인세법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1691,7 +1737,9 @@
             "source_provision_id": "SchlPubRul:김천시시설관리공단회계규정#JO0112",
             "reference_id": "law:법인세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "법인세법/법률/법인세법.json"
+            "target_git_path_guess": "법인세법/법률/법인세법.json",
+            "target_git_path": "법인세법/법률/법인세법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1772,7 +1820,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:김천시시설관리공단회계규정#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "김천시시설관리공단 회계규정/김천시시설관리공단 회계규정.json"
+            "target_git_path_guess": "김천시시설관리공단 회계규정/김천시시설관리공단 회계규정.json",
+            "target_git_path": "김천시시설관리공단 회계규정/김천시시설관리공단 회계규정.json",
+            "target_git_file_path": "김천시시설관리공단 회계규정/별지/별지3_손익계산서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1892,7 +1945,9 @@
             "source_provision_id": "SchlPubRul:김천시시설관리공단회계규정#JO0126",
             "reference_id": "law:법인세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "법인세법/법률/법인세법.json"
+            "target_git_path_guess": "법인세법/법률/법인세법.json",
+            "target_git_path": "법인세법/법률/법인세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1912,7 +1967,9 @@
             "source_provision_id": "SchlPubRul:김천시시설관리공단회계규정#JO0126",
             "reference_id": "law:법인세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "법인세법/법률/법인세법.json"
+            "target_git_path_guess": "법인세법/법률/법인세법.json",
+            "target_git_path": "법인세법/법률/법인세법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1955,7 +2012,9 @@
             "source_provision_id": "SchlPubRul:김천시시설관리공단회계규정#JO0128",
             "reference_id": "law:법인세법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "법인세법/시행령/법인세법 시행령.json"
+            "target_git_path_guess": "법인세법/시행령/법인세법 시행령.json",
+            "target_git_path": "법인세법/시행령/법인세법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2165,7 +2224,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:김천시시설관리공단회계규정#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "김천시시설관리공단 회계규정/김천시시설관리공단 회계규정.json"
+            "target_git_path_guess": "김천시시설관리공단 회계규정/김천시시설관리공단 회계규정.json",
+            "target_git_path": "김천시시설관리공단 회계규정/김천시시설관리공단 회계규정.json",
+            "target_git_file_path": "김천시시설관리공단 회계규정/별지/별지4_세출예산추산부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2190,7 +2254,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:김천시시설관리공단회계규정#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "김천시시설관리공단 회계규정/김천시시설관리공단 회계규정.json"
+            "target_git_path_guess": "김천시시설관리공단 회계규정/김천시시설관리공단 회계규정.json",
+            "target_git_path": "김천시시설관리공단 회계규정/김천시시설관리공단 회계규정.json",
+            "target_git_file_path": "김천시시설관리공단 회계규정/별지/별지5_지출원인행위 및 지출부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -2288,7 +2357,9 @@
             "source_provision_id": "SchlPubRul:김천시시설관리공단회계규정#JO0150",
             "reference_id": "law:지방공기업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2326,7 +2397,9 @@
             "source_provision_id": "SchlPubRul:김천시시설관리공단회계규정#JO0150",
             "reference_id": "law:법인세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "법인세법/법률/법인세법.json"
+            "target_git_path_guess": "법인세법/법률/법인세법.json",
+            "target_git_path": "법인세법/법률/법인세법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2479,7 +2552,9 @@
             "source_provision_id": "SchlPubRul:김천시시설관리공단회계규정#JO0162",
             "reference_id": "law:지방재정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방재정법/법률/지방재정법.json"
+            "target_git_path_guess": "지방재정법/법률/지방재정법.json",
+            "target_git_path": "지방재정법/법률/지방재정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2499,7 +2574,9 @@
             "source_provision_id": "SchlPubRul:김천시시설관리공단회계규정#JO0162",
             "reference_id": "law:지방자치단체를당사자로하는계약에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방자치단체를 당사자로 하는 계약에 관한 법률/법률/지방자치단체를 당사자로 하는 계약에 관한 법률.json"
+            "target_git_path_guess": "지방자치단체를 당사자로 하는 계약에 관한 법률/법률/지방자치단체를 당사자로 하는 계약에 관한 법률.json",
+            "target_git_path": "지방자치단체를 당사자로 하는 계약에 관한 법률/법률/지방자치단체를 당사자로 하는 계약에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

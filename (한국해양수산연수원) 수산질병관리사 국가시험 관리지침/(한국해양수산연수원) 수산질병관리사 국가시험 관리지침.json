@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:(한국해양수산연수원)수산질병관리사국가시험관리지침#JO0001",
             "reference_id": "law:수산생물질병관리법#JO0037_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "수산생물질병관리법/법률/수산생물질병관리법.json"
+            "target_git_path_guess": "수산생물질병관리법/법률/수산생물질병관리법.json",
+            "target_git_path": "수산생물질병 관리법/법률/수산생물질병 관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -85,7 +87,9 @@
             "source_provision_id": "SchlPubRul:(한국해양수산연수원)수산질병관리사국가시험관리지침#JO0001",
             "reference_id": "law:수산생물질병관리법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "수산생물질병관리법/시행령/수산생물질병관리법 시행령.json"
+            "target_git_path_guess": "수산생물질병관리법/시행령/수산생물질병관리법 시행령.json",
+            "target_git_path": "수산생물질병 관리법/시행령/수산생물질병 관리법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -105,7 +109,9 @@
             "source_provision_id": "SchlPubRul:(한국해양수산연수원)수산질병관리사국가시험관리지침#JO0001",
             "reference_id": "law:수산생물질병관리법시행령#JO0015_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "수산생물질병관리법/시행령/수산생물질병관리법 시행령.json"
+            "target_git_path_guess": "수산생물질병관리법/시행령/수산생물질병관리법 시행령.json",
+            "target_git_path": "수산생물질병 관리법/시행령/수산생물질병 관리법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -159,7 +165,11 @@
             "source_provision_id": "SchlPubRul:(한국해양수산연수원)수산질병관리사국가시험관리지침#JO0004",
             "reference_id": "SchlPubRul:(한국해양수산연수원)수산질병관리사국가시험관리지침#JO0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json"
+            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -179,7 +189,9 @@
             "source_provision_id": "SchlPubRul:(한국해양수산연수원)수산질병관리사국가시험관리지침#JO0004",
             "reference_id": "law:수산생물질병관리법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "수산생물질병관리법/시행령/수산생물질병관리법 시행령.json"
+            "target_git_path_guess": "수산생물질병관리법/시행령/수산생물질병관리법 시행령.json",
+            "target_git_path": "수산생물질병 관리법/시행령/수산생물질병 관리법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -199,7 +211,9 @@
             "source_provision_id": "SchlPubRul:(한국해양수산연수원)수산질병관리사국가시험관리지침#JO0004",
             "reference_id": "law:수산생물질병관리법시행령#JO0015_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "수산생물질병관리법/시행령/수산생물질병관리법 시행령.json"
+            "target_git_path_guess": "수산생물질병관리법/시행령/수산생물질병관리법 시행령.json",
+            "target_git_path": "수산생물질병 관리법/시행령/수산생물질병 관리법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -224,7 +238,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(한국해양수산연수원)수산질병관리사국가시험관리지침#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json"
+            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_file_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/별표/별표1_수산질병관리사 국가시험 시행공고.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -272,7 +291,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:(한국해양수산연수원)수산질병관리사국가시험관리지침#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json"
+            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_file_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/별표/별표2_응시원서 접수요령.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -292,7 +316,9 @@
             "source_provision_id": "SchlPubRul:(한국해양수산연수원)수산질병관리사국가시험관리지침#JO0006",
             "reference_id": "law:수산생물질병관리법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "수산생물질병관리법/시행규칙/수산생물질병관리법 시행규칙.json"
+            "target_git_path_guess": "수산생물질병관리법/시행규칙/수산생물질병관리법 시행규칙.json",
+            "target_git_path": "수산생물질병 관리법/시행규칙/수산생물질병 관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -312,7 +338,9 @@
             "source_provision_id": "SchlPubRul:(한국해양수산연수원)수산질병관리사국가시험관리지침#JO0006",
             "reference_id": "law:수산생물질병관리법시행규칙#JO0037_06",
             "target_repo": "LAW",
-            "target_git_path_guess": "수산생물질병관리법/시행규칙/수산생물질병관리법 시행규칙.json"
+            "target_git_path_guess": "수산생물질병관리법/시행규칙/수산생물질병관리법 시행규칙.json",
+            "target_git_path": "수산생물질병 관리법/시행규칙/수산생물질병 관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -337,7 +365,8 @@
             "target_unit": "BJ0024_04",
             "reference_id": "SchlPubRul:(한국해양수산연수원)수산질병관리사국가시험관리지침#BJ0024_04",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json"
+            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "appendix_ref",
@@ -362,7 +391,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(한국해양수산연수원)수산질병관리사국가시험관리지침#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json"
+            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_file_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/별지/별지1_응시표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -387,7 +421,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(한국해양수산연수원)수산질병관리사국가시험관리지침#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json"
+            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_file_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/별지/별지2_소인.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -424,7 +463,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:(한국해양수산연수원)수산질병관리사국가시험관리지침#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json"
+            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_file_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/별지/별지3_수산질병관리사 국가시험 응시원서 접수현황.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -461,7 +505,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:(한국해양수산연수원)수산질병관리사국가시험관리지침#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json"
+            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_file_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/별지/별지4_수산질병관리사 국가시험 응시원서 접수부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -531,7 +580,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:(한국해양수산연수원)수산질병관리사국가시험관리지침#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json"
+            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_file_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/별지/별지5_수살질병관리사 국가시험 시험위원카드.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -556,7 +610,12 @@
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:(한국해양수산연수원)수산질병관리사국가시험관리지침#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json"
+            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_file_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/별지/별지6_수산질병관리사 국가시험 출제위원 위촉현황.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -593,7 +652,12 @@
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:(한국해양수산연수원)수산질병관리사국가시험관리지침#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json"
+            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_file_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/별지/별지7_위촉장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -630,7 +694,12 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:(한국해양수산연수원)수산질병관리사국가시험관리지침#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json"
+            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_file_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/별표/별표3_신규문제 출제요령.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -655,7 +724,12 @@
             "target_unit": "BJ0008",
             "reference_id": "SchlPubRul:(한국해양수산연수원)수산질병관리사국가시험관리지침#BJ0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json"
+            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_file_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/별지/별지8_문제카드.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -692,7 +766,12 @@
             "target_unit": "BJ0009",
             "reference_id": "SchlPubRul:(한국해양수산연수원)수산질병관리사국가시험관리지침#BJ0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json"
+            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_file_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/별지/별지9_시험위원 위촉 확인 및 서약서(출제위원용).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -717,7 +796,12 @@
             "target_unit": "BJ0009",
             "reference_id": "SchlPubRul:(한국해양수산연수원)수산질병관리사국가시험관리지침#BJ0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json"
+            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_file_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/별지/별지9_시험위원 위촉 확인 및 서약서(출제위원용).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -754,7 +838,12 @@
             "target_unit": "BYL0004",
             "reference_id": "SchlPubRul:(한국해양수산연수원)수산질병관리사국가시험관리지침#BYL0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json"
+            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_file_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/별표/별표4_문제출제(선정) 요령.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -779,7 +868,12 @@
             "target_unit": "BYL0005",
             "reference_id": "SchlPubRul:(한국해양수산연수원)수산질병관리사국가시험관리지침#BYL0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json"
+            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_file_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/별표/별표5_수산질병관리사 시험 문제카드 전산코드.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -833,7 +927,11 @@
             "source_provision_id": "SchlPubRul:(한국해양수산연수원)수산질병관리사국가시험관리지침#JO0018",
             "reference_id": "SchlPubRul:(한국해양수산연수원)수산질병관리사국가시험관리지침#JO0014",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json"
+            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -858,7 +956,12 @@
             "target_unit": "BYL0004",
             "reference_id": "SchlPubRul:(한국해양수산연수원)수산질병관리사국가시험관리지침#BYL0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json"
+            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_file_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/별표/별표4_문제출제(선정) 요령.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -883,7 +986,12 @@
             "target_unit": "BJ0009",
             "reference_id": "SchlPubRul:(한국해양수산연수원)수산질병관리사국가시험관리지침#BJ0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json"
+            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_file_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/별지/별지9_시험위원 위촉 확인 및 서약서(출제위원용).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -908,7 +1016,12 @@
             "target_unit": "BJ0009",
             "reference_id": "SchlPubRul:(한국해양수산연수원)수산질병관리사국가시험관리지침#BJ0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json"
+            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_file_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/별지/별지9_시험위원 위촉 확인 및 서약서(출제위원용).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -933,7 +1046,12 @@
             "target_unit": "BJ0009",
             "reference_id": "SchlPubRul:(한국해양수산연수원)수산질병관리사국가시험관리지침#BJ0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json"
+            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_file_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/별지/별지9_시험위원 위촉 확인 및 서약서(출제위원용).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -958,7 +1076,12 @@
             "target_unit": "BJ0009",
             "reference_id": "SchlPubRul:(한국해양수산연수원)수산질병관리사국가시험관리지침#BJ0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json"
+            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_file_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/별지/별지9_시험위원 위촉 확인 및 서약서(출제위원용).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -990,7 +1113,11 @@
             "source_provision_id": "SchlPubRul:(한국해양수산연수원)수산질병관리사국가시험관리지침#JO0018_02",
             "reference_id": "SchlPubRul:(한국해양수산연수원)수산질병관리사국가시험관리지침#JO0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json"
+            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1049,7 +1176,12 @@
             "target_unit": "BYL0006",
             "reference_id": "SchlPubRul:(한국해양수산연수원)수산질병관리사국가시험관리지침#BYL0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json"
+            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_file_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/별표/별표6_출제작업과정별 조치요령.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1074,7 +1206,12 @@
             "target_unit": "BJ0010",
             "reference_id": "SchlPubRul:(한국해양수산연수원)수산질병관리사국가시험관리지침#BJ0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json"
+            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_file_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/별지/별지10_시험문제지 배부계획표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1099,7 +1236,12 @@
             "target_unit": "BJ0011",
             "reference_id": "SchlPubRul:(한국해양수산연수원)수산질병관리사국가시험관리지침#BJ0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json"
+            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_file_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/별지/별지11_문제출제작업 진행현황표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1136,7 +1278,12 @@
             "target_unit": "BYL0007",
             "reference_id": "SchlPubRul:(한국해양수산연수원)수산질병관리사국가시험관리지침#BYL0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json"
+            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_file_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/별표/별표7_시험장 및 시험실별 준비물.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1173,7 +1320,12 @@
             "target_unit": "BYL0008",
             "reference_id": "SchlPubRul:(한국해양수산연수원)수산질병관리사국가시험관리지침#BYL0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json"
+            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_file_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/별표/별표8_수산질병관리사 국가시험 좌석 배열방안.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1210,7 +1362,12 @@
             "target_unit": "BYL0009",
             "reference_id": "SchlPubRul:(한국해양수산연수원)수산질병관리사국가시험관리지침#BYL0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json"
+            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_file_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/별표/별표9_본부요원 근무요령.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1235,7 +1392,12 @@
             "target_unit": "BJ0009",
             "reference_id": "SchlPubRul:(한국해양수산연수원)수산질병관리사국가시험관리지침#BJ0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json"
+            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_file_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/별지/별지9_시험위원 위촉 확인 및 서약서(출제위원용).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1305,7 +1467,12 @@
             "target_unit": "BYL0010",
             "reference_id": "SchlPubRul:(한국해양수산연수원)수산질병관리사국가시험관리지침#BYL0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json"
+            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_file_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/별표/별표10_감시관 근무요령.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1330,7 +1497,12 @@
             "target_unit": "BJ0012",
             "reference_id": "SchlPubRul:(한국해양수산연수원)수산질병관리사국가시험관리지침#BJ0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json"
+            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_file_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/별지/별지12_수산질병관리사 자격시험 시험실 응시자 좌석표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1355,7 +1527,12 @@
             "target_unit": "BJ0009",
             "reference_id": "SchlPubRul:(한국해양수산연수원)수산질병관리사국가시험관리지침#BJ0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json"
+            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_file_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/별지/별지9_시험위원 위촉 확인 및 서약서(출제위원용).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1414,7 +1591,12 @@
             "target_unit": "BYL0011",
             "reference_id": "SchlPubRul:(한국해양수산연수원)수산질병관리사국가시험관리지침#BYL0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json"
+            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_file_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/별표/별표11_수산질병관리사 시험 응시자 설문서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1473,7 +1655,12 @@
             "target_unit": "BJ0012",
             "reference_id": "SchlPubRul:(한국해양수산연수원)수산질병관리사국가시험관리지침#BJ0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json"
+            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_file_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/별지/별지12_수산질병관리사 자격시험 시험실 응시자 좌석표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1498,7 +1685,12 @@
             "target_unit": "BJ0013",
             "reference_id": "SchlPubRul:(한국해양수산연수원)수산질병관리사국가시험관리지침#BJ0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json"
+            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_file_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/별지/별지13_수산질병관리사 국가시험 성적일람표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1523,7 +1715,12 @@
             "target_unit": "BJ0014",
             "reference_id": "SchlPubRul:(한국해양수산연수원)수산질병관리사국가시험관리지침#BJ0014",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json"
+            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_file_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/별지/별지14_수산질병관리사 국가시험 합격자 명단.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1548,7 +1745,12 @@
             "target_unit": "BJ0009",
             "reference_id": "SchlPubRul:(한국해양수산연수원)수산질병관리사국가시험관리지침#BJ0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json"
+            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_file_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/별지/별지9_시험위원 위촉 확인 및 서약서(출제위원용).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1585,7 +1787,12 @@
             "target_unit": "BJ0015",
             "reference_id": "SchlPubRul:(한국해양수산연수원)수산질병관리사국가시험관리지침#BJ0015",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json"
+            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_file_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/별지/별지15_수산질병관리사 답안지.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1622,7 +1829,12 @@
             "target_unit": "BYL0012",
             "reference_id": "SchlPubRul:(한국해양수산연수원)수산질병관리사국가시험관리지침#BYL0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json"
+            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_file_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/별표/별표12_합격자 공고.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1720,7 +1932,11 @@
             "source_provision_id": "SchlPubRul:(한국해양수산연수원)수산질병관리사국가시험관리지침#JO0042",
             "reference_id": "SchlPubRul:(한국해양수산연수원)수산질병관리사국가시험관리지침#JO0035",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json"
+            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1740,7 +1956,11 @@
             "source_provision_id": "SchlPubRul:(한국해양수산연수원)수산질병관리사국가시험관리지침#JO0042",
             "reference_id": "SchlPubRul:(한국해양수산연수원)수산질병관리사국가시험관리지침#JO0036",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json"
+            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1760,7 +1980,11 @@
             "source_provision_id": "SchlPubRul:(한국해양수산연수원)수산질병관리사국가시험관리지침#JO0042",
             "reference_id": "SchlPubRul:(한국해양수산연수원)수산질병관리사국가시험관리지침#JO0026",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json"
+            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1785,7 +2009,12 @@
             "target_unit": "BJ0015",
             "reference_id": "SchlPubRul:(한국해양수산연수원)수산질병관리사국가시험관리지침#BJ0015",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json"
+            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_file_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/별지/별지15_수산질병관리사 답안지.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1805,7 +2034,11 @@
             "source_provision_id": "SchlPubRul:(한국해양수산연수원)수산질병관리사국가시험관리지침#JO0042",
             "reference_id": "SchlPubRul:(한국해양수산연수원)수산질병관리사국가시험관리지침#JO0040",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json"
+            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1825,7 +2058,11 @@
             "source_provision_id": "SchlPubRul:(한국해양수산연수원)수산질병관리사국가시험관리지침#JO0042",
             "reference_id": "SchlPubRul:(한국해양수산연수원)수산질병관리사국가시험관리지침#JO0041",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json"
+            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_git_path": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1850,7 +2087,8 @@
             "target_unit": "BYL0020",
             "reference_id": "SchlPubRul:(한국해양수산연수원)수산질병관리사국가시험관리지침#BYL0020",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json"
+            "target_git_path_guess": "(한국해양수산연수원) 수산질병관리사 국가시험 관리지침/(한국해양수산연수원) 수산질병관리사 국가시험 관리지침.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],

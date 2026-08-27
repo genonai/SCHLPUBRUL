@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:(국방기술품질원)기록물관리지침#JO0001",
             "reference_id": "law:공공기록물관리에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -85,7 +87,9 @@
             "source_provision_id": "SchlPubRul:(국방기술품질원)기록물관리지침#JO0001",
             "reference_id": "law:공공기록물관리에관한법률시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행규칙/공공기록물 관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행규칙/공공기록물 관리에 관한 법률 시행규칙.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행규칙/공공기록물 관리에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -103,9 +107,14 @@
             "target_url": "https://www.law.go.kr/법령/사무관리규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(국방기술품질원)기록물관리지침#JO0001",
-            "reference_id": "law:사무관리규정#DOC",
+            "reference_id": "SchlPubRul:사무관리규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "사무관리규정/법률/사무관리규정.json"
+            "target_git_path_guess": "사무관리규정/법률/사무관리규정.json",
+            "target_git_path": "사무관리규정/public_2139481/사무관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관",
+            "target_candidates": 3
           },
           {
             "relation_type": "internal_ref",
@@ -125,7 +134,11 @@
             "source_provision_id": "SchlPubRul:(국방기술품질원)기록물관리지침#JO0001",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#JO0049",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -157,7 +170,9 @@
             "source_provision_id": "SchlPubRul:(국방기술품질원)기록물관리지침#JO0002",
             "reference_id": "law:공공기록물관리에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -177,7 +192,9 @@
             "source_provision_id": "SchlPubRul:(국방기술품질원)기록물관리지침#JO0002",
             "reference_id": "law:공공기록물관리에관한법률시행령#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -197,7 +214,9 @@
             "source_provision_id": "SchlPubRul:(국방기술품질원)기록물관리지침#JO0002",
             "reference_id": "law:공공기록물관리에관한법률시행령#JO0042",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -240,7 +259,9 @@
             "source_provision_id": "SchlPubRul:(국방기술품질원)기록물관리지침#JO0004",
             "reference_id": "law:행정업무의운영및혁신에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정업무의 운영 및 혁신에 관한 규정/법률/행정업무의 운영 및 혁신에 관한 규정.json"
+            "target_git_path_guess": "행정업무의 운영 및 혁신에 관한 규정/법률/행정업무의 운영 및 혁신에 관한 규정.json",
+            "target_git_path": "행정업무의 운영 및 혁신에 관한 규정/법률/행정업무의 운영 및 혁신에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -260,7 +281,9 @@
             "source_provision_id": "SchlPubRul:(국방기술품질원)기록물관리지침#JO0004",
             "reference_id": "law:행정업무의운영및혁신에관한규정#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정업무의 운영 및 혁신에 관한 규정/법률/행정업무의 운영 및 혁신에 관한 규정.json"
+            "target_git_path_guess": "행정업무의 운영 및 혁신에 관한 규정/법률/행정업무의 운영 및 혁신에 관한 규정.json",
+            "target_git_path": "행정업무의 운영 및 혁신에 관한 규정/법률/행정업무의 운영 및 혁신에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -280,7 +303,9 @@
             "source_provision_id": "SchlPubRul:(국방기술품질원)기록물관리지침#JO0004",
             "reference_id": "law:행정업무의운영및혁신에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정업무의 운영 및 혁신에 관한 규정/법률/행정업무의 운영 및 혁신에 관한 규정.json"
+            "target_git_path_guess": "행정업무의 운영 및 혁신에 관한 규정/법률/행정업무의 운영 및 혁신에 관한 규정.json",
+            "target_git_path": "행정업무의 운영 및 혁신에 관한 규정/법률/행정업무의 운영 및 혁신에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -300,7 +325,9 @@
             "source_provision_id": "SchlPubRul:(국방기술품질원)기록물관리지침#JO0004",
             "reference_id": "law:행정업무의운영및혁신에관한규정#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정업무의 운영 및 혁신에 관한 규정/법률/행정업무의 운영 및 혁신에 관한 규정.json"
+            "target_git_path_guess": "행정업무의 운영 및 혁신에 관한 규정/법률/행정업무의 운영 및 혁신에 관한 규정.json",
+            "target_git_path": "행정업무의 운영 및 혁신에 관한 규정/법률/행정업무의 운영 및 혁신에 관한 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -387,7 +414,11 @@
             "source_provision_id": "SchlPubRul:(국방기술품질원)기록물관리지침#JO0010",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -412,7 +443,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_file_path": "(국방기술품질원) 기록물관리지침/별지/별지1_회의록 서식(제10조제2항관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -466,7 +502,11 @@
             "source_provision_id": "SchlPubRul:(국방기술품질원)기록물관리지침#JO0013",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -503,7 +543,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_file_path": "(국방기술품질원) 기록물관리지침/별표/별표1_등록번호 표시방법.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -528,7 +573,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_file_path": "(국방기술품질원) 기록물관리지침/별표/별표1_등록번호 표시방법.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -553,7 +603,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_file_path": "(국방기술품질원) 기록물관리지침/별표/별표1_등록번호 표시방법.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -578,7 +633,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_file_path": "(국방기술품질원) 기록물관리지침/별표/별표1_등록번호 표시방법.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -621,7 +681,11 @@
             "source_provision_id": "SchlPubRul:(국방기술품질원)기록물관리지침#JO0016",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -658,7 +722,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_file_path": "(국방기술품질원) 기록물관리지침/별표/별표2_기록물의 기능분류기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -695,7 +764,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_file_path": "(국방기술품질원) 기록물관리지침/별지/별지2_기록관리기준표 작성서식(제18조제1항관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -720,7 +794,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_file_path": "(국방기술품질원) 기록물관리지침/별지/별지3_기록관리기준표 변경신청서(제18조제4항관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -757,7 +836,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_file_path": "(국방기술품질원) 기록물관리지침/별지/별지4_기록물철등록부(제19조제1항관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -782,7 +866,12 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_file_path": "(국방기술품질원) 기록물관리지침/별표/별표3_테이프·디스크·디스켓류의 분류번호 표시방법.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -807,7 +896,12 @@
             "target_unit": "BYL0004",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#BYL0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_file_path": "(국방기술품질원) 기록물관리지침/별표/별표4_기록물철 표지.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -844,7 +938,12 @@
             "target_unit": "BYL0005",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#BYL0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_file_path": "(국방기술품질원) 기록물관리지침/별표/별표5_진행문서파일.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -869,7 +968,12 @@
             "target_unit": "BYL0004",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#BYL0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_file_path": "(국방기술품질원) 기록물관리지침/별표/별표4_기록물철 표지.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -894,7 +998,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_file_path": "(국방기술품질원) 기록물관리지침/별지/별지5_색 인 목 록.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -919,7 +1028,12 @@
             "target_unit": "BYL0006",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#BYL0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_file_path": "(국방기술품질원) 기록물관리지침/별표/별표6_보존용 표지.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -944,7 +1058,12 @@
             "target_unit": "BYL0007",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#BYL0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_file_path": "(국방기술품질원) 기록물관리지침/별표/별표7_보존상자의 규격.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -969,7 +1088,12 @@
             "target_unit": "BYL0008",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#BYL0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_file_path": "(국방기술품질원) 기록물관리지침/별표/별표8_보존상자표지.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1006,7 +1130,12 @@
             "target_unit": "BYL0009",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#BYL0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_file_path": "(국방기술품질원) 기록물관리지침/별표/별표9_카드류 보존봉투.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1031,7 +1160,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_file_path": "(국방기술품질원) 기록물관리지침/별지/별지5_색 인 목 록.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1068,7 +1202,12 @@
             "target_unit": "BYL0010",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#BYL0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_file_path": "(국방기술품질원) 기록물관리지침/별표/별표10_도면류 보존봉투.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1093,7 +1232,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_file_path": "(국방기술품질원) 기록물관리지침/별지/별지5_색 인 목 록.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1130,7 +1274,12 @@
             "target_unit": "BYL0011",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#BYL0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_file_path": "(국방기술품질원) 기록물관리지침/별표/별표11_사진·필름류 보존봉투.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1155,7 +1304,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_file_path": "(국방기술품질원) 기록물관리지침/별지/별지5_색 인 목 록.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1236,7 +1390,12 @@
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_file_path": "(국방기술품질원) 기록물관리지침/별지/별지6_기록물 이관 연기신청서(제28조제2항관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1261,7 +1420,12 @@
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_file_path": "(국방기술품질원) 기록물관리지침/별지/별지7_이 관 목 록(제28조제4항관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1309,7 +1473,12 @@
             "target_unit": "BYL0012",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#BYL0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_file_path": "(국방기술품질원) 기록물관리지침/별표/별표12_기록물의 보존기간별 분류기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1329,7 +1498,11 @@
             "source_provision_id": "SchlPubRul:(국방기술품질원)기록물관리지침#JO0030",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#JO0025",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1366,7 +1539,12 @@
             "target_unit": "BYL0013",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#BYL0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_file_path": "(국방기술품질원) 기록물관리지침/별표/별표13_기록물의 보존방법별 분류기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1414,7 +1592,12 @@
             "target_unit": "BYL0014",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#BYL0014",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_file_path": "(국방기술품질원) 기록물관리지침/별표/별표14_보존매체의 종류와 규격.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -1434,7 +1617,9 @@
             "source_provision_id": "SchlPubRul:(국방기술품질원)기록물관리지침#JO0033",
             "reference_id": "law:공공기록물관리에관한법률시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행규칙/공공기록물 관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행규칙/공공기록물 관리에 관한 법률 시행규칙.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행규칙/공공기록물 관리에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1454,7 +1639,9 @@
             "source_provision_id": "SchlPubRul:(국방기술품질원)기록물관리지침#JO0033",
             "reference_id": "law:공공기록물관리에관한법률시행규칙#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행규칙/공공기록물 관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행규칙/공공기록물 관리에 관한 법률 시행규칙.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행규칙/공공기록물 관리에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1513,7 +1700,12 @@
             "target_unit": "BYL0015",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#BYL0015",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_file_path": "(국방기술품질원) 기록물관리지침/별표/별표15_기록관의 보존시설 및 장비의 기준(제36조제1항관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1533,7 +1725,11 @@
             "source_provision_id": "SchlPubRul:(국방기술품질원)기록물관리지침#JO0036",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#JO0017",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -1553,7 +1749,9 @@
             "source_provision_id": "SchlPubRul:(국방기술품질원)기록물관리지침#JO0036",
             "reference_id": "law:공공기록물관리에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1573,7 +1771,9 @@
             "source_provision_id": "SchlPubRul:(국방기술품질원)기록물관리지침#JO0036",
             "reference_id": "law:공공기록물관리에관한법률시행령#JO0038",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1610,7 +1810,12 @@
             "target_unit": "BJ0008",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#BJ0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_file_path": "(국방기술품질원) 기록물관리지침/별지/별지8_기록물보존처리서(제37조제4항관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1647,7 +1852,12 @@
             "target_unit": "BYL0016",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#BYL0016",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_file_path": "(국방기술품질원) 기록물관리지침/별표/별표16_기록물의 보존가치평가기준(제38조제2항관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1672,7 +1882,12 @@
             "target_unit": "BYL0017",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#BYL0017",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_file_path": "(국방기술품질원) 기록물관리지침/별표/별표17_기록물의 상태평가기준(제38조제3항관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1704,7 +1919,11 @@
             "source_provision_id": "SchlPubRul:(국방기술품질원)기록물관리지침#JO0039",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#JO0038",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1741,7 +1960,12 @@
             "target_unit": "BJ0009",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#BJ0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_file_path": "(국방기술품질원) 기록물관리지침/별지/별지9_기록물복원처리서(제40조제1항관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1773,7 +1997,11 @@
             "source_provision_id": "SchlPubRul:(국방기술품질원)기록물관리지침#JO0041",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#JO0018",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1793,7 +2021,11 @@
             "source_provision_id": "SchlPubRul:(국방기술품질원)기록물관리지침#JO0041",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#JO0031",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1818,7 +2050,12 @@
             "target_unit": "BYL0012",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#BYL0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_file_path": "(국방기술품질원) 기록물관리지침/별표/별표12_기록물의 보존기간별 분류기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1866,7 +2103,12 @@
             "target_unit": "BJ0010",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#BJ0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_file_path": "(국방기술품질원) 기록물관리지침/별지/별지10_비밀기록물 인계부서 의견서(제43조제2항관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1891,7 +2133,12 @@
             "target_unit": "BJ0011",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#BJ0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_file_path": "(국방기술품질원) 기록물관리지침/별지/별지11_비밀기록물 이관봉투 표지(제43조제3항관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1916,7 +2163,12 @@
             "target_unit": "BJ0012",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#BJ0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_file_path": "(국방기술품질원) 기록물관리지침/별지/별지12_비밀기록물 이관목록.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1941,7 +2193,12 @@
             "target_unit": "BYL0018",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#BYL0018",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_file_path": "(국방기술품질원) 기록물관리지침/별표/별표18_비밀기록물 봉인표지(제43조제3항관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1966,7 +2223,12 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_file_path": "(국방기술품질원) 기록물관리지침/별표/별표3_테이프·디스크·디스켓류의 분류번호 표시방법.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2025,7 +2287,12 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_file_path": "(국방기술품질원) 기록물관리지침/별표/별표3_테이프·디스크·디스켓류의 분류번호 표시방법.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2062,7 +2329,12 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_file_path": "(국방기술품질원) 기록물관리지침/별표/별표3_테이프·디스크·디스켓류의 분류번호 표시방법.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2110,7 +2382,12 @@
             "target_unit": "BJ0013",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#BJ0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_file_path": "(국방기술품질원) 기록물관리지침/별지/별지13_정보통신망에 의한 열람(대출·복사)신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2142,7 +2419,11 @@
             "source_provision_id": "SchlPubRul:(국방기술품질원)기록물관리지침#JO0050",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#JO0018",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2167,7 +2448,12 @@
             "target_unit": "BJ0014",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#BJ0014",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_file_path": "(국방기술품질원) 기록물관리지침/별지/별지14_[별지제14호서식].hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2204,7 +2490,12 @@
             "target_unit": "BJ0013",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#BJ0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_file_path": "(국방기술품질원) 기록물관리지침/별지/별지13_정보통신망에 의한 열람(대출·복사)신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2229,7 +2520,12 @@
             "target_unit": "BJ0014",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#BJ0014",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_file_path": "(국방기술품질원) 기록물관리지침/별지/별지14_[별지제14호서식].hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2254,7 +2550,12 @@
             "target_unit": "BJ0015",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#BJ0015",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_file_path": "(국방기술품질원) 기록물관리지침/별지/별지15_기록물 반출·반입서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2308,7 +2609,9 @@
             "source_provision_id": "SchlPubRul:(국방기술품질원)기록물관리지침#JO0054",
             "reference_id": "law:공공기록물관리에관한법률#JO0027",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2328,7 +2631,9 @@
             "source_provision_id": "SchlPubRul:(국방기술품질원)기록물관리지침#JO0054",
             "reference_id": "law:공공기록물관리에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2348,7 +2653,9 @@
             "source_provision_id": "SchlPubRul:(국방기술품질원)기록물관리지침#JO0054",
             "reference_id": "law:공공기록물관리에관한법률시행령#JO0043",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2368,7 +2675,9 @@
             "source_provision_id": "SchlPubRul:(국방기술품질원)기록물관리지침#JO0054",
             "reference_id": "law:공공기록물관리에관한법률시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행규칙/공공기록물 관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행규칙/공공기록물 관리에 관한 법률 시행규칙.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행규칙/공공기록물 관리에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2388,7 +2697,9 @@
             "source_provision_id": "SchlPubRul:(국방기술품질원)기록물관리지침#JO0054",
             "reference_id": "law:공공기록물관리에관한법률시행규칙#JO0035",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행규칙/공공기록물 관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행규칙/공공기록물 관리에 관한 법률 시행규칙.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행규칙/공공기록물 관리에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2413,7 +2724,12 @@
             "target_unit": "BJ0016",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#BJ0016",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_file_path": "(국방기술품질원) 기록물관리지침/별지/별지16_보존기간 경과 기록물 의견서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2438,7 +2754,12 @@
             "target_unit": "BJ0017",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#BJ0017",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_file_path": "(국방기술품질원) 기록물관리지침/별지/별지17_기록물평가심의서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2463,7 +2784,12 @@
             "target_unit": "BJ0018",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#BJ0018",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_file_path": "(국방기술품질원) 기록물관리지침/별지/별지18_서가배치서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -2483,7 +2809,11 @@
             "source_provision_id": "SchlPubRul:(국방기술품질원)기록물관리지침#JO0054",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#JO0030",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2520,7 +2850,12 @@
             "target_unit": "BJ0019",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#BJ0019",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_file_path": "(국방기술품질원) 기록물관리지침/별지/별지19_기록물 평가심의 서약서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -2540,7 +2875,11 @@
             "source_provision_id": "SchlPubRul:(국방기술품질원)기록물관리지침#JO0055",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#JO0054",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2572,7 +2911,11 @@
             "source_provision_id": "SchlPubRul:(국방기술품질원)기록물관리지침#JO0056",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#JO0054",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2597,7 +2940,12 @@
             "target_unit": "BYL0019",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#BYL0019",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_file_path": "(국방기술품질원) 기록물관리지침/별표/별표19_재분류 표지(제56조제3항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2645,7 +2993,12 @@
             "target_unit": "BJ0020",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#BJ0020",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_file_path": "(국방기술품질원) 기록물관리지침/별지/별지20_간행물 발간등록번호 신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2670,7 +3023,12 @@
             "target_unit": "BYL0020",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#BYL0020",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_file_path": "(국방기술품질원) 기록물관리지침/별표/별표20_간행물발간등록 생략대상(제58조제1항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2707,7 +3065,12 @@
             "target_unit": "BYL0021",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#BYL0021",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_file_path": "(국방기술품질원) 기록물관리지침/별표/별표21_발간등록번호의 구성(제59조제1항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2732,7 +3095,12 @@
             "target_unit": "BYL0022",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#BYL0022",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_file_path": "(국방기술품질원) 기록물관리지침/별표/별표22_발간등록번호 등의 표기(제59조제2항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2764,7 +3132,11 @@
             "source_provision_id": "SchlPubRul:(국방기술품질원)기록물관리지침#JO0060",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#JO0058",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -2784,7 +3156,11 @@
             "source_provision_id": "SchlPubRul:(국방기술품질원)기록물관리지침#JO0060",
             "reference_id": "SchlPubRul:(국방기술품질원)기록물관리지침#JO0043",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json"
+            "target_git_path_guess": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_git_path": "(국방기술품질원) 기록물관리지침/(국방기술품질원) 기록물관리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

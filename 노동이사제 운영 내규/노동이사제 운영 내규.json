@@ -142,7 +142,11 @@
             "source_provision_id": "SchlPubRul:노동이사제운영내규#JO0003",
             "reference_id": "SchlPubRul:노동이사제운영내규#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "노동이사제 운영 내규/노동이사제 운영 내규.json"
+            "target_git_path_guess": "노동이사제 운영 내규/노동이사제 운영 내규.json",
+            "target_git_path": "노동이사제 운영 내규/노동이사제 운영 내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -185,7 +189,11 @@
             "source_provision_id": "SchlPubRul:노동이사제운영내규#JO0005",
             "reference_id": "SchlPubRul:노동이사제운영내규#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "노동이사제 운영 내규/노동이사제 운영 내규.json"
+            "target_git_path_guess": "노동이사제 운영 내규/노동이사제 운영 내규.json",
+            "target_git_path": "노동이사제 운영 내규/노동이사제 운영 내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -210,7 +218,8 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:노동이사제운영내규#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "노동이사제 운영 내규/노동이사제 운영 내규.json"
+            "target_git_path_guess": "노동이사제 운영 내규/노동이사제 운영 내규.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],

@@ -98,7 +98,11 @@
             "source_provision_id": "SchlPubRul:(한국해양교통안전공단)자산관리규정#JO0004",
             "reference_id": "SchlPubRul:(한국해양교통안전공단)자산관리규정#JO0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양교통안전공단) 자산관리규정/(한국해양교통안전공단) 자산관리규정.json"
+            "target_git_path_guess": "(한국해양교통안전공단) 자산관리규정/(한국해양교통안전공단) 자산관리규정.json",
+            "target_git_path": "(한국해양교통안전공단) 자산관리규정/(한국해양교통안전공단) 자산관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -163,7 +167,9 @@
             "source_provision_id": "SchlPubRul:(한국해양교통안전공단)자산관리규정#JO0008",
             "reference_id": "law:법인세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "법인세법/법률/법인세법.json"
+            "target_git_path_guess": "법인세법/법률/법인세법.json",
+            "target_git_path": "법인세법/법률/법인세법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -228,7 +234,9 @@
             "source_provision_id": "SchlPubRul:(한국해양교통안전공단)자산관리규정#JO0012",
             "reference_id": "law:공인중개사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공인중개사법/법률/공인중개사법.json"
+            "target_git_path_guess": "공인중개사법/법률/공인중개사법.json",
+            "target_git_path": "공인중개사법/법률/공인중개사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -248,7 +256,9 @@
             "source_provision_id": "SchlPubRul:(한국해양교통안전공단)자산관리규정#JO0012",
             "reference_id": "law:공인중개사법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "공인중개사법/법률/공인중개사법.json"
+            "target_git_path_guess": "공인중개사법/법률/공인중개사법.json",
+            "target_git_path": "공인중개사법/법률/공인중개사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -268,7 +278,9 @@
             "source_provision_id": "SchlPubRul:(한국해양교통안전공단)자산관리규정#JO0012",
             "reference_id": "law:공인중개사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공인중개사법/법률/공인중개사법.json"
+            "target_git_path_guess": "공인중개사법/법률/공인중개사법.json",
+            "target_git_path": "공인중개사법/법률/공인중개사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -288,7 +300,9 @@
             "source_provision_id": "SchlPubRul:(한국해양교통안전공단)자산관리규정#JO0012",
             "reference_id": "law:공인중개사법#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "공인중개사법/법률/공인중개사법.json"
+            "target_git_path_guess": "공인중개사법/법률/공인중개사법.json",
+            "target_git_path": "공인중개사법/법률/공인중개사법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -375,7 +389,9 @@
             "source_provision_id": "SchlPubRul:(한국해양교통안전공단)자산관리규정#JO0018",
             "reference_id": "law:국유재산법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국유재산법/법률/국유재산법.json"
+            "target_git_path_guess": "국유재산법/법률/국유재산법.json",
+            "target_git_path": "국유재산법/법률/국유재산법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -395,7 +411,9 @@
             "source_provision_id": "SchlPubRul:(한국해양교통안전공단)자산관리규정#JO0018",
             "reference_id": "law:물품관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "물품관리법/법률/물품관리법.json"
+            "target_git_path_guess": "물품관리법/법률/물품관리법.json",
+            "target_git_path": "물품관리법/법률/물품관리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

@@ -87,7 +87,9 @@
             "source_provision_id": "SchlPubRul:(한국장애인고용공단)회계규정#JO0002_02",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +109,9 @@
             "source_provision_id": "SchlPubRul:(한국장애인고용공단)회계규정#JO0002_02",
             "reference_id": "law:국가재정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가재정법/법률/국가재정법.json"
+            "target_git_path_guess": "국가재정법/법률/국가재정법.json",
+            "target_git_path": "국가재정법/법률/국가재정법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -139,7 +143,9 @@
             "source_provision_id": "SchlPubRul:(한국장애인고용공단)회계규정#JO0003",
             "reference_id": "law:장애인고용촉진및직업재활법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "장애인고용촉진 및 직업재활법/법률/장애인고용촉진 및 직업재활법.json"
+            "target_git_path_guess": "장애인고용촉진 및 직업재활법/법률/장애인고용촉진 및 직업재활법.json",
+            "target_git_path": "장애인고용촉진 및 직업재활법/법률/장애인고용촉진 및 직업재활법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -159,7 +165,9 @@
             "source_provision_id": "SchlPubRul:(한국장애인고용공단)회계규정#JO0003",
             "reference_id": "law:장애인고용촉진및직업재활법#JO0071",
             "target_repo": "LAW",
-            "target_git_path_guess": "장애인고용촉진 및 직업재활법/법률/장애인고용촉진 및 직업재활법.json"
+            "target_git_path_guess": "장애인고용촉진 및 직업재활법/법률/장애인고용촉진 및 직업재활법.json",
+            "target_git_path": "장애인고용촉진 및 직업재활법/법률/장애인고용촉진 및 직업재활법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -235,7 +243,9 @@
             "source_provision_id": "SchlPubRul:(한국장애인고용공단)회계규정#JO0008",
             "reference_id": "law:회계관계직원등의책임에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json"
+            "target_git_path_guess": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json",
+            "target_git_path": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -267,7 +277,11 @@
             "source_provision_id": "SchlPubRul:(한국장애인고용공단)회계규정#JO0009",
             "reference_id": "SchlPubRul:(한국장애인고용공단)회계규정#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국장애인고용공단) 회계규정/(한국장애인고용공단) 회계규정.json"
+            "target_git_path_guess": "(한국장애인고용공단) 회계규정/(한국장애인고용공단) 회계규정.json",
+            "target_git_path": "(한국장애인고용공단) 회계규정/(한국장애인고용공단) 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -321,7 +335,11 @@
             "source_provision_id": "SchlPubRul:(한국장애인고용공단)회계규정#JO0012",
             "reference_id": "SchlPubRul:(한국장애인고용공단)회계규정#JO0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국장애인고용공단) 회계규정/(한국장애인고용공단) 회계규정.json"
+            "target_git_path_guess": "(한국장애인고용공단) 회계규정/(한국장애인고용공단) 회계규정.json",
+            "target_git_path": "(한국장애인고용공단) 회계규정/(한국장애인고용공단) 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -386,7 +404,9 @@
             "source_provision_id": "SchlPubRul:(한국장애인고용공단)회계규정#JO0016",
             "reference_id": "law:장애인고용촉진및직업재활법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "장애인고용촉진 및 직업재활법/법률/장애인고용촉진 및 직업재활법.json"
+            "target_git_path_guess": "장애인고용촉진 및 직업재활법/법률/장애인고용촉진 및 직업재활법.json",
+            "target_git_path": "장애인고용촉진 및 직업재활법/법률/장애인고용촉진 및 직업재활법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -406,7 +426,9 @@
             "source_provision_id": "SchlPubRul:(한국장애인고용공단)회계규정#JO0016",
             "reference_id": "law:장애인고용촉진및직업재활법#JO0043",
             "target_repo": "LAW",
-            "target_git_path_guess": "장애인고용촉진 및 직업재활법/법률/장애인고용촉진 및 직업재활법.json"
+            "target_git_path_guess": "장애인고용촉진 및 직업재활법/법률/장애인고용촉진 및 직업재활법.json",
+            "target_git_path": "장애인고용촉진 및 직업재활법/법률/장애인고용촉진 및 직업재활법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -581,7 +603,11 @@
             "source_provision_id": "SchlPubRul:(한국장애인고용공단)회계규정#JO0030",
             "reference_id": "SchlPubRul:(한국장애인고용공단)회계규정#JO0026",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국장애인고용공단) 회계규정/(한국장애인고용공단) 회계규정.json"
+            "target_git_path_guess": "(한국장애인고용공단) 회계규정/(한국장애인고용공단) 회계규정.json",
+            "target_git_path": "(한국장애인고용공단) 회계규정/(한국장애인고용공단) 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -601,7 +627,11 @@
             "source_provision_id": "SchlPubRul:(한국장애인고용공단)회계규정#JO0030",
             "reference_id": "SchlPubRul:(한국장애인고용공단)회계규정#JO0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국장애인고용공단) 회계규정/(한국장애인고용공단) 회계규정.json"
+            "target_git_path_guess": "(한국장애인고용공단) 회계규정/(한국장애인고용공단) 회계규정.json",
+            "target_git_path": "(한국장애인고용공단) 회계규정/(한국장애인고용공단) 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -864,7 +894,9 @@
             "source_provision_id": "SchlPubRul:(한국장애인고용공단)회계규정#JO0052",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -884,7 +916,9 @@
             "source_provision_id": "SchlPubRul:(한국장애인고용공단)회계규정#JO0052",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행규칙/국가를 당사자로 하는 계약에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행규칙/국가를 당사자로 하는 계약에 관한 법률 시행규칙.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행규칙/국가를 당사자로 하는 계약에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1103,7 +1137,9 @@
             "source_provision_id": "SchlPubRul:(한국장애인고용공단)회계규정#JO0070",
             "reference_id": "law:민법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1123,7 +1159,9 @@
             "source_provision_id": "SchlPubRul:(한국장애인고용공단)회계규정#JO0070",
             "reference_id": "law:민법#JO0671",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1155,7 +1193,11 @@
             "source_provision_id": "SchlPubRul:(한국장애인고용공단)회계규정#JO0071",
             "reference_id": "SchlPubRul:(한국장애인고용공단)회계규정#JO0065",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국장애인고용공단) 회계규정/(한국장애인고용공단) 회계규정.json"
+            "target_git_path_guess": "(한국장애인고용공단) 회계규정/(한국장애인고용공단) 회계규정.json",
+            "target_git_path": "(한국장애인고용공단) 회계규정/(한국장애인고용공단) 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1187,7 +1229,11 @@
             "source_provision_id": "SchlPubRul:(한국장애인고용공단)회계규정#JO0072",
             "reference_id": "SchlPubRul:(한국장애인고용공단)회계규정#JO0065",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국장애인고용공단) 회계규정/(한국장애인고용공단) 회계규정.json"
+            "target_git_path_guess": "(한국장애인고용공단) 회계규정/(한국장애인고용공단) 회계규정.json",
+            "target_git_path": "(한국장애인고용공단) 회계규정/(한국장애인고용공단) 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1219,7 +1265,11 @@
             "source_provision_id": "SchlPubRul:(한국장애인고용공단)회계규정#JO0073",
             "reference_id": "SchlPubRul:(한국장애인고용공단)회계규정#JO0075",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국장애인고용공단) 회계규정/(한국장애인고용공단) 회계규정.json"
+            "target_git_path_guess": "(한국장애인고용공단) 회계규정/(한국장애인고용공단) 회계규정.json",
+            "target_git_path": "(한국장애인고용공단) 회계규정/(한국장애인고용공단) 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1251,7 +1301,11 @@
             "source_provision_id": "SchlPubRul:(한국장애인고용공단)회계규정#JO0074",
             "reference_id": "SchlPubRul:(한국장애인고용공단)회계규정#JO0073",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국장애인고용공단) 회계규정/(한국장애인고용공단) 회계규정.json"
+            "target_git_path_guess": "(한국장애인고용공단) 회계규정/(한국장애인고용공단) 회계규정.json",
+            "target_git_path": "(한국장애인고용공단) 회계규정/(한국장애인고용공단) 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

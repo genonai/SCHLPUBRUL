@@ -131,7 +131,11 @@
             "source_provision_id": "SchlPubRul:인천환경공단여비규정#JO0007",
             "reference_id": "SchlPubRul:인천환경공단여비규정#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천환경공단 여비 규정/인천환경공단 여비 규정.json"
+            "target_git_path_guess": "인천환경공단 여비 규정/인천환경공단 여비 규정.json",
+            "target_git_path": "인천환경공단 여비 규정/인천환경공단 여비 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -179,7 +183,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:인천환경공단여비규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천환경공단 여비 규정/인천환경공단 여비 규정.json"
+            "target_git_path_guess": "인천환경공단 여비 규정/인천환경공단 여비 규정.json",
+            "target_git_path": "인천환경공단 여비 규정/인천환경공단 여비 규정.json",
+            "target_git_file_path": "인천환경공단 여비 규정/별표/별표1_국내 여비 기준표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -204,7 +213,12 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:인천환경공단여비규정#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천환경공단 여비 규정/인천환경공단 여비 규정.json"
+            "target_git_path_guess": "인천환경공단 여비 규정/인천환경공단 여비 규정.json",
+            "target_git_path": "인천환경공단 여비 규정/인천환경공단 여비 규정.json",
+            "target_git_file_path": "인천환경공단 여비 규정/별표/별표3_교육훈련여비 지급기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -263,7 +277,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:인천환경공단여비규정#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천환경공단 여비 규정/인천환경공단 여비 규정.json"
+            "target_git_path_guess": "인천환경공단 여비 규정/인천환경공단 여비 규정.json",
+            "target_git_path": "인천환경공단 여비 규정/인천환경공단 여비 규정.json",
+            "target_git_file_path": "인천환경공단 여비 규정/별표/별표2_국외 여비 기준표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -295,7 +314,11 @@
             "source_provision_id": "SchlPubRul:인천환경공단여비규정#JO0010_02",
             "reference_id": "SchlPubRul:인천환경공단여비규정#JO0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천환경공단 여비 규정/인천환경공단 여비 규정.json"
+            "target_git_path_guess": "인천환경공단 여비 규정/인천환경공단 여비 규정.json",
+            "target_git_path": "인천환경공단 여비 규정/인천환경공단 여비 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -338,7 +361,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단여비규정#JO0010_04",
             "reference_id": "law:공무원여비규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원여비규정/법률/공무원여비규정.json"
+            "target_git_path_guess": "공무원여비규정/법률/공무원여비규정.json",
+            "target_git_path": "공무원 여비 규정/법률/공무원 여비 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -358,7 +383,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단여비규정#JO0010_04",
             "reference_id": "law:지방자치단체를당사자로하는계약에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방자치단체를 당사자로 하는 계약에 관한 법률/법률/지방자치단체를 당사자로 하는 계약에 관한 법률.json"
+            "target_git_path_guess": "지방자치단체를 당사자로 하는 계약에 관한 법률/법률/지방자치단체를 당사자로 하는 계약에 관한 법률.json",
+            "target_git_path": "지방자치단체를 당사자로 하는 계약에 관한 법률/법률/지방자치단체를 당사자로 하는 계약에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

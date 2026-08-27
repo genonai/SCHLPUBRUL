@@ -114,7 +114,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(한국디자인진흥원)보수규정#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국디자인진흥원) 보수규정/(한국디자인진흥원) 보수규정.json"
+            "target_git_path_guess": "(한국디자인진흥원) 보수규정/(한국디자인진흥원) 보수규정.json",
+            "target_git_path": "(한국디자인진흥원) 보수규정/(한국디자인진흥원) 보수규정.json",
+            "target_git_file_path": "(한국디자인진흥원) 보수규정/별지/별지1_연봉계약서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -300,7 +305,9 @@
             "source_provision_id": "SchlPubRul:(한국디자인진흥원)보수규정#JO0020",
             "reference_id": "law:고등교육법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고등교육법/법률/고등교육법.json"
+            "target_git_path_guess": "고등교육법/법률/고등교육법.json",
+            "target_git_path": "고등교육법/법률/고등교육법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -320,7 +327,9 @@
             "source_provision_id": "SchlPubRul:(한국디자인진흥원)보수규정#JO0020",
             "reference_id": "law:고등교육법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "고등교육법/법률/고등교육법.json"
+            "target_git_path_guess": "고등교육법/법률/고등교육법.json",
+            "target_git_path": "고등교육법/법률/고등교육법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -340,7 +349,9 @@
             "source_provision_id": "SchlPubRul:(한국디자인진흥원)보수규정#JO0020",
             "reference_id": "law:평생교육법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "평생교육법/법률/평생교육법.json"
+            "target_git_path_guess": "평생교육법/법률/평생교육법.json",
+            "target_git_path": "평생교육법/법률/평생교육법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -360,7 +371,9 @@
             "source_provision_id": "SchlPubRul:(한국디자인진흥원)보수규정#JO0020",
             "reference_id": "law:평생교육법#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "평생교육법/법률/평생교육법.json"
+            "target_git_path_guess": "평생교육법/법률/평생교육법.json",
+            "target_git_path": "평생교육법/법률/평생교육법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

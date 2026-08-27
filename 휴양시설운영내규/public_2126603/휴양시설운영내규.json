@@ -63,9 +63,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/복리후생규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:휴양시설운영내규:public_2126603#JO0001",
-            "reference_id": "SchlPubRul:복리후생규정#DOC",
+            "reference_id": "SchlPubRul:복리후생규정:public_2141165#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "복리후생규정/복리후생규정.json"
+            "target_git_path_guess": "복리후생규정/복리후생규정.json",
+            "target_candidates": 3,
+            "target_git_path": "복리후생규정/public_2141165/복리후생규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -83,9 +88,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/복리후생규정/제6조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:휴양시설운영내규:public_2126603#JO0001",
-            "reference_id": "SchlPubRul:복리후생규정#JO0006",
+            "reference_id": "SchlPubRul:복리후생규정:public_2141165#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "복리후생규정/복리후생규정.json"
+            "target_git_path_guess": "복리후생규정/복리후생규정.json",
+            "target_candidates": 3,
+            "target_git_path": "복리후생규정/public_2141165/복리후생규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -126,9 +136,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:휴양시설운영내규:public_2126603#JO0003",
-            "reference_id": "SchlPubRul:인사규정#DOC",
+            "reference_id": "SchlPubRul:인사규정:public_2130247#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json"
+            "target_git_path_guess": "인사규정/인사규정.json",
+            "target_candidates": 4,
+            "target_git_path": "인사규정/public_2130247/인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -146,9 +161,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정/제35조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:휴양시설운영내규:public_2126603#JO0003",
-            "reference_id": "SchlPubRul:인사규정#JO0035",
+            "reference_id": "SchlPubRul:인사규정:public_2130247#JO0035",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json"
+            "target_git_path_guess": "인사규정/인사규정.json",
+            "target_candidates": 4,
+            "target_git_path": "인사규정/public_2130247/인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -202,7 +222,11 @@
             "source_provision_id": "SchlPubRul:휴양시설운영내규:public_2126603#JO0006",
             "reference_id": "SchlPubRul:휴양시설운영내규:public_2126603#JO0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "휴양시설운영내규/휴양시설운영내규.json"
+            "target_git_path_guess": "휴양시설운영내규/휴양시설운영내규.json",
+            "target_git_path": "휴양시설운영내규/public_2126603/휴양시설운영내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -222,7 +246,11 @@
             "source_provision_id": "SchlPubRul:휴양시설운영내규:public_2126603#JO0006",
             "reference_id": "SchlPubRul:휴양시설운영내규:public_2126603#JO0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "휴양시설운영내규/휴양시설운영내규.json"
+            "target_git_path_guess": "휴양시설운영내규/휴양시설운영내규.json",
+            "target_git_path": "휴양시설운영내규/public_2126603/휴양시설운영내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -318,5 +346,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "휴양시설운영내규/public_2126603/휴양시설운영내규.json"
+  "git_path": "휴양시설운영내규/public_2126603/휴양시설운영내규.json",
+  "_schlpub_id_suffix": "public_2126603"
 }

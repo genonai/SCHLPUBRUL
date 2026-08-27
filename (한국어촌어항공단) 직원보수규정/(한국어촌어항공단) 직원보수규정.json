@@ -186,7 +186,11 @@
             "source_provision_id": "SchlPubRul:(한국어촌어항공단)직원보수규정#JO0012",
             "reference_id": "SchlPubRul:(한국어촌어항공단)직원보수규정#JO0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국어촌어항공단) 직원보수규정/(한국어촌어항공단) 직원보수규정.json"
+            "target_git_path_guess": "(한국어촌어항공단) 직원보수규정/(한국어촌어항공단) 직원보수규정.json",
+            "target_git_path": "(한국어촌어항공단) 직원보수규정/(한국어촌어항공단) 직원보수규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -223,7 +227,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(한국어촌어항공단)직원보수규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국어촌어항공단) 직원보수규정/(한국어촌어항공단) 직원보수규정.json"
+            "target_git_path_guess": "(한국어촌어항공단) 직원보수규정/(한국어촌어항공단) 직원보수규정.json",
+            "target_git_path": "(한국어촌어항공단) 직원보수규정/(한국어촌어항공단) 직원보수규정.json",
+            "target_git_file_path": "(한국어촌어항공단) 직원보수규정/별표/별표1_저성과자 기본연봉 지급표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -243,7 +252,11 @@
             "source_provision_id": "SchlPubRul:(한국어촌어항공단)직원보수규정#JO0013",
             "reference_id": "SchlPubRul:(한국어촌어항공단)직원보수규정#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국어촌어항공단) 직원보수규정/(한국어촌어항공단) 직원보수규정.json"
+            "target_git_path_guess": "(한국어촌어항공단) 직원보수규정/(한국어촌어항공단) 직원보수규정.json",
+            "target_git_path": "(한국어촌어항공단) 직원보수규정/(한국어촌어항공단) 직원보수규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -335,7 +348,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:(한국어촌어항공단)직원보수규정#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국어촌어항공단) 직원보수규정/(한국어촌어항공단) 직원보수규정.json"
+            "target_git_path_guess": "(한국어촌어항공단) 직원보수규정/(한국어촌어항공단) 직원보수규정.json",
+            "target_git_path": "(한국어촌어항공단) 직원보수규정/(한국어촌어항공단) 직원보수규정.json",
+            "target_git_file_path": "(한국어촌어항공단) 직원보수규정/별표/별표2_성과연봉 지급비율표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -389,7 +407,9 @@
             "source_provision_id": "SchlPubRul:(한국어촌어항공단)직원보수규정#JO0021",
             "reference_id": "law:근로자퇴직급여보장법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로자퇴직급여보장법/법률/근로자퇴직급여보장법.json"
+            "target_git_path_guess": "근로자퇴직급여보장법/법률/근로자퇴직급여보장법.json",
+            "target_git_path": "근로자퇴직급여 보장법/법률/근로자퇴직급여 보장법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -409,7 +429,9 @@
             "source_provision_id": "SchlPubRul:(한국어촌어항공단)직원보수규정#JO0021",
             "reference_id": "law:근로자퇴직급여보장법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로자퇴직급여보장법/법률/근로자퇴직급여보장법.json"
+            "target_git_path_guess": "근로자퇴직급여보장법/법률/근로자퇴직급여보장법.json",
+            "target_git_path": "근로자퇴직급여 보장법/법률/근로자퇴직급여 보장법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

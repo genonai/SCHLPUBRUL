@@ -131,7 +131,9 @@
             "source_provision_id": "SchlPubRul:화성도시공사청렴시민옴부즈맨운영규정#JO0007",
             "reference_id": "law:보안업무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -151,7 +153,8 @@
             "source_provision_id": "SchlPubRul:화성도시공사청렴시민옴부즈맨운영규정#JO0007",
             "reference_id": "law:보안업무규정#JO0001_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],

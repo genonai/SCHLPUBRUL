@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:부산환경공단공단금고지정운영내규#JO0001",
             "reference_id": "law:지방재정법#JO0077",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방재정법/법률/지방재정법.json"
+            "target_git_path_guess": "지방재정법/법률/지방재정법.json",
+            "target_git_path": "지방재정법/법률/지방재정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -85,7 +87,9 @@
             "source_provision_id": "SchlPubRul:부산환경공단공단금고지정운영내규#JO0001",
             "reference_id": "law:지방재정법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방재정법/시행령/지방재정법시행령.json"
+            "target_git_path_guess": "지방재정법/시행령/지방재정법시행령.json",
+            "target_git_path": "지방재정법/시행령/지방재정법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -105,7 +109,9 @@
             "source_provision_id": "SchlPubRul:부산환경공단공단금고지정운영내규#JO0001",
             "reference_id": "law:지방재정법시행령#JO0102",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방재정법/시행령/지방재정법시행령.json"
+            "target_git_path_guess": "지방재정법/시행령/지방재정법시행령.json",
+            "target_git_path": "지방재정법/시행령/지방재정법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -123,9 +129,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/회계규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:부산환경공단공단금고지정운영내규#JO0001",
-            "reference_id": "SchlPubRul:회계규정#DOC",
+            "reference_id": "SchlPubRul:회계규정:public_2141227#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_candidates": 3,
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -143,9 +154,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/회계규정/제83조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:부산환경공단공단금고지정운영내규#JO0001",
-            "reference_id": "SchlPubRul:회계규정#JO0083",
+            "reference_id": "SchlPubRul:회계규정:public_2141227#JO0083",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_candidates": 3,
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -177,7 +193,9 @@
             "source_provision_id": "SchlPubRul:부산환경공단공단금고지정운영내규#JO0002",
             "reference_id": "law:은행법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "은행법/법률/은행법.json"
+            "target_git_path_guess": "은행법/법률/은행법.json",
+            "target_git_path": "은행법/법률/은행법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -225,7 +243,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:부산환경공단공단금고지정운영내규#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산환경공단 공단금고지정운영내규/부산환경공단 공단금고지정운영내규.json"
+            "target_git_path_guess": "부산환경공단 공단금고지정운영내규/부산환경공단 공단금고지정운영내규.json",
+            "target_git_path": "부산환경공단 공단금고지정운영내규/부산환경공단 공단금고지정운영내규.json",
+            "target_git_file_path": "부산환경공단 공단금고지정운영내규/별표/별표1_금고지정 평가항목별 배점기준(제4조제2항관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -268,7 +291,11 @@
             "source_provision_id": "SchlPubRul:부산환경공단공단금고지정운영내규#JO0006",
             "reference_id": "SchlPubRul:부산환경공단공단금고지정운영내규#JO0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산환경공단 공단금고지정운영내규/부산환경공단 공단금고지정운영내규.json"
+            "target_git_path_guess": "부산환경공단 공단금고지정운영내규/부산환경공단 공단금고지정운영내규.json",
+            "target_git_path": "부산환경공단 공단금고지정운영내규/부산환경공단 공단금고지정운영내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -300,7 +327,11 @@
             "source_provision_id": "SchlPubRul:부산환경공단공단금고지정운영내규#JO0007",
             "reference_id": "SchlPubRul:부산환경공단공단금고지정운영내규#JO0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산환경공단 공단금고지정운영내규/부산환경공단 공단금고지정운영내규.json"
+            "target_git_path_guess": "부산환경공단 공단금고지정운영내규/부산환경공단 공단금고지정운영내규.json",
+            "target_git_path": "부산환경공단 공단금고지정운영내규/부산환경공단 공단금고지정운영내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -320,7 +351,11 @@
             "source_provision_id": "SchlPubRul:부산환경공단공단금고지정운영내규#JO0007",
             "reference_id": "SchlPubRul:부산환경공단공단금고지정운영내규#JO0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산환경공단 공단금고지정운영내규/부산환경공단 공단금고지정운영내규.json"
+            "target_git_path_guess": "부산환경공단 공단금고지정운영내규/부산환경공단 공단금고지정운영내규.json",
+            "target_git_path": "부산환경공단 공단금고지정운영내규/부산환경공단 공단금고지정운영내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -352,7 +387,11 @@
             "source_provision_id": "SchlPubRul:부산환경공단공단금고지정운영내규#JO0008",
             "reference_id": "SchlPubRul:부산환경공단공단금고지정운영내규#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산환경공단 공단금고지정운영내규/부산환경공단 공단금고지정운영내규.json"
+            "target_git_path_guess": "부산환경공단 공단금고지정운영내규/부산환경공단 공단금고지정운영내규.json",
+            "target_git_path": "부산환경공단 공단금고지정운영내규/부산환경공단 공단금고지정운영내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],

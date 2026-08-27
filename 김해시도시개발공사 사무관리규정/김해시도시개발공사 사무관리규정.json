@@ -329,7 +329,9 @@
             "source_provision_id": "SchlPubRul:김해시도시개발공사사무관리규정#JO0025",
             "reference_id": "law:산업표준화법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업표준화법/법률/산업표준화법.json"
+            "target_git_path_guess": "산업표준화법/법률/산업표준화법.json",
+            "target_git_path": "산업표준화법/법률/산업표준화법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -493,7 +495,11 @@
             "source_provision_id": "SchlPubRul:김해시도시개발공사사무관리규정#JO0038",
             "reference_id": "SchlPubRul:김해시도시개발공사사무관리규정#JO0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "김해시도시개발공사 사무관리규정/김해시도시개발공사 사무관리규정.json"
+            "target_git_path_guess": "김해시도시개발공사 사무관리규정/김해시도시개발공사 사무관리규정.json",
+            "target_git_path": "김해시도시개발공사 사무관리규정/김해시도시개발공사 사무관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -578,9 +584,14 @@
             "target_url": "https://www.law.go.kr/행정규칙/물품관리규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:김해시도시개발공사사무관리규정#JO0044",
-            "reference_id": "admrul:물품관리규정#DOC",
+            "reference_id": "SchlPubRul:물품관리규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "물품관리규정/물품관리규정.json"
+            "target_git_path_guess": "물품관리규정/물품관리규정.json",
+            "target_git_path": "물품관리규정/public_2128437/물품관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관",
+            "target_candidates": 3
           }
         ],
         "images": [],
@@ -841,7 +852,11 @@
             "source_provision_id": "SchlPubRul:김해시도시개발공사사무관리규정#JO0062",
             "reference_id": "SchlPubRul:김해시도시개발공사사무관리규정#JO0016",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "김해시도시개발공사 사무관리규정/김해시도시개발공사 사무관리규정.json"
+            "target_git_path_guess": "김해시도시개발공사 사무관리규정/김해시도시개발공사 사무관리규정.json",
+            "target_git_path": "김해시도시개발공사 사무관리규정/김해시도시개발공사 사무관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],

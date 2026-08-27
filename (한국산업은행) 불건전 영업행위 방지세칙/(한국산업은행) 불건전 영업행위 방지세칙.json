@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:(한국산업은행)불건전영업행위방지세칙#JO0001",
             "reference_id": "law:은행법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "은행법/법률/은행법.json"
+            "target_git_path_guess": "은행법/법률/은행법.json",
+            "target_git_path": "은행법/법률/은행법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -97,7 +99,11 @@
             "source_provision_id": "SchlPubRul:(한국산업은행)불건전영업행위방지세칙#JO0002",
             "reference_id": "SchlPubRul:(한국산업은행)불건전영업행위방지세칙#JO0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산업은행) 불건전 영업행위 방지세칙/(한국산업은행) 불건전 영업행위 방지세칙.json"
+            "target_git_path_guess": "(한국산업은행) 불건전 영업행위 방지세칙/(한국산업은행) 불건전 영업행위 방지세칙.json",
+            "target_git_path": "(한국산업은행) 불건전 영업행위 방지세칙/(한국산업은행) 불건전 영업행위 방지세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -129,7 +135,9 @@
             "source_provision_id": "SchlPubRul:(한국산업은행)불건전영업행위방지세칙#JO0003",
             "reference_id": "law:자본시장과금융투자업에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json"
+            "target_git_path_guess": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json",
+            "target_git_path": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -149,7 +157,9 @@
             "source_provision_id": "SchlPubRul:(한국산업은행)불건전영업행위방지세칙#JO0003",
             "reference_id": "law:자본시장과금융투자업에관한법률#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json"
+            "target_git_path_guess": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json",
+            "target_git_path": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -169,7 +179,11 @@
             "source_provision_id": "SchlPubRul:(한국산업은행)불건전영업행위방지세칙#JO0003",
             "reference_id": "admrul:은행업감독규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "은행업 감독규정/은행업 감독규정.json"
+            "target_git_path_guess": "은행업 감독규정/은행업 감독규정.json",
+            "target_git_path": "은행업감독규정/은행업감독규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -189,7 +203,11 @@
             "source_provision_id": "SchlPubRul:(한국산업은행)불건전영업행위방지세칙#JO0003",
             "reference_id": "admrul:은행업감독규정#JO0029_03",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "은행업 감독규정/은행업 감독규정.json"
+            "target_git_path_guess": "은행업 감독규정/은행업 감독규정.json",
+            "target_git_path": "은행업감독규정/은행업감독규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -209,7 +227,9 @@
             "source_provision_id": "SchlPubRul:(한국산업은행)불건전영업행위방지세칙#JO0003",
             "reference_id": "law:국민기초생활보장법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민기초생활 보장법/법률/국민기초생활 보장법.json"
+            "target_git_path_guess": "국민기초생활 보장법/법률/국민기초생활 보장법.json",
+            "target_git_path": "국민기초생활 보장법/법률/국민기초생활 보장법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -229,7 +249,9 @@
             "source_provision_id": "SchlPubRul:(한국산업은행)불건전영업행위방지세칙#JO0003",
             "reference_id": "law:국민기초생활보장법#JO0045",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민기초생활 보장법/법률/국민기초생활 보장법.json"
+            "target_git_path_guess": "국민기초생활 보장법/법률/국민기초생활 보장법.json",
+            "target_git_path": "국민기초생활 보장법/법률/국민기초생활 보장법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -249,7 +271,9 @@
             "source_provision_id": "SchlPubRul:(한국산업은행)불건전영업행위방지세칙#JO0003",
             "reference_id": "law:노인복지법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "노인복지법/법률/노인복지법.json"
+            "target_git_path_guess": "노인복지법/법률/노인복지법.json",
+            "target_git_path": "노인복지법/법률/노인복지법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -269,7 +293,9 @@
             "source_provision_id": "SchlPubRul:(한국산업은행)불건전영업행위방지세칙#JO0003",
             "reference_id": "law:노인복지법#JO0048",
             "target_repo": "LAW",
-            "target_git_path_guess": "노인복지법/법률/노인복지법.json"
+            "target_git_path_guess": "노인복지법/법률/노인복지법.json",
+            "target_git_path": "노인복지법/법률/노인복지법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

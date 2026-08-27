@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:한국가스안전공사정관#JO0001",
             "reference_id": "law:고압가스안전관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고압가스안전관리법/법률/고압가스안전관리법.json"
+            "target_git_path_guess": "고압가스안전관리법/법률/고압가스안전관리법.json",
+            "target_git_path": "고압가스 안전관리법/법률/고압가스 안전관리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -119,7 +121,9 @@
             "source_provision_id": "SchlPubRul:한국가스안전공사정관#JO0004",
             "reference_id": "law:기후위기대응을위한탄소중립녹색성장기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "기후위기 대응을 위한 탄소중립ㆍ녹색성장 기본법/법률/기후위기 대응을 위한 탄소중립ㆍ녹색성장 기본법.json"
+            "target_git_path_guess": "기후위기 대응을 위한 탄소중립ㆍ녹색성장 기본법/법률/기후위기 대응을 위한 탄소중립ㆍ녹색성장 기본법.json",
+            "target_git_path": "기후위기 대응을 위한 탄소중립ㆍ녹색성장 기본법/법률/기후위기 대응을 위한 탄소중립ㆍ녹색성장 기본법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -162,7 +166,9 @@
             "source_provision_id": "SchlPubRul:한국가스안전공사정관#JO0006",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -182,7 +188,9 @@
             "source_provision_id": "SchlPubRul:한국가스안전공사정관#JO0006",
             "reference_id": "law:근로기준법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -202,7 +210,9 @@
             "source_provision_id": "SchlPubRul:한국가스안전공사정관#JO0006",
             "reference_id": "law:공공기관의운영에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률ㆍ/시행령/공공기관의 운영에 관한 법률ㆍ시행령.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률ㆍ/시행령/공공기관의 운영에 관한 법률ㆍ시행령.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/시행령/공공기관의 운영에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -234,7 +244,11 @@
             "source_provision_id": "SchlPubRul:한국가스안전공사정관#JO0007",
             "reference_id": "SchlPubRul:한국가스안전공사정관#JO0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국가스안전공사 정관/한국가스안전공사 정관.json"
+            "target_git_path_guess": "한국가스안전공사 정관/한국가스안전공사 정관.json",
+            "target_git_path": "한국가스안전공사 정관/한국가스안전공사 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -277,7 +291,9 @@
             "source_provision_id": "SchlPubRul:한국가스안전공사정관#JO0009",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -297,7 +313,9 @@
             "source_provision_id": "SchlPubRul:한국가스안전공사정관#JO0009",
             "reference_id": "law:국가공무원법#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -317,7 +335,11 @@
             "source_provision_id": "SchlPubRul:한국가스안전공사정관#JO0009",
             "reference_id": "SchlPubRul:한국가스안전공사정관#JO0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국가스안전공사 정관/한국가스안전공사 정관.json"
+            "target_git_path_guess": "한국가스안전공사 정관/한국가스안전공사 정관.json",
+            "target_git_path": "한국가스안전공사 정관/한국가스안전공사 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -337,7 +359,11 @@
             "source_provision_id": "SchlPubRul:한국가스안전공사정관#JO0009",
             "reference_id": "SchlPubRul:한국가스안전공사정관#JO0017",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국가스안전공사 정관/한국가스안전공사 정관.json"
+            "target_git_path_guess": "한국가스안전공사 정관/한국가스안전공사 정관.json",
+            "target_git_path": "한국가스안전공사 정관/한국가스안전공사 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -357,7 +383,9 @@
             "source_provision_id": "SchlPubRul:한국가스안전공사정관#JO0009",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -377,7 +405,9 @@
             "source_provision_id": "SchlPubRul:한국가스안전공사정관#JO0009",
             "reference_id": "law:공공기관의운영에관한법률#JO0035",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -397,7 +427,9 @@
             "source_provision_id": "SchlPubRul:한국가스안전공사정관#JO0009",
             "reference_id": "law:공공기관의운영에관한법률#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -417,7 +449,9 @@
             "source_provision_id": "SchlPubRul:한국가스안전공사정관#JO0009",
             "reference_id": "law:공공기관의운영에관한법률#JO0048",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -449,7 +483,9 @@
             "source_provision_id": "SchlPubRul:한국가스안전공사정관#JO0010",
             "reference_id": "law:상법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "상법/법률/상법.json"
+            "target_git_path_guess": "상법/법률/상법.json",
+            "target_git_path": "상법/법률/상법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -469,7 +505,9 @@
             "source_provision_id": "SchlPubRul:한국가스안전공사정관#JO0010",
             "reference_id": "law:상법#JO0382_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "상법/법률/상법.json"
+            "target_git_path_guess": "상법/법률/상법.json",
+            "target_git_path": "상법/법률/상법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -489,7 +527,9 @@
             "source_provision_id": "SchlPubRul:한국가스안전공사정관#JO0010",
             "reference_id": "law:상법#JO0382_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "상법/법률/상법.json"
+            "target_git_path_guess": "상법/법률/상법.json",
+            "target_git_path": "상법/법률/상법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -509,7 +549,9 @@
             "source_provision_id": "SchlPubRul:한국가스안전공사정관#JO0010",
             "reference_id": "law:상법#JO0399",
             "target_repo": "LAW",
-            "target_git_path_guess": "상법/법률/상법.json"
+            "target_git_path_guess": "상법/법률/상법.json",
+            "target_git_path": "상법/법률/상법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -529,7 +571,9 @@
             "source_provision_id": "SchlPubRul:한국가스안전공사정관#JO0010",
             "reference_id": "law:상법#JO0400",
             "target_repo": "LAW",
-            "target_git_path_guess": "상법/법률/상법.json"
+            "target_git_path_guess": "상법/법률/상법.json",
+            "target_git_path": "상법/법률/상법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -549,7 +593,9 @@
             "source_provision_id": "SchlPubRul:한국가스안전공사정관#JO0010",
             "reference_id": "law:상법#JO0401",
             "target_repo": "LAW",
-            "target_git_path_guess": "상법/법률/상법.json"
+            "target_git_path_guess": "상법/법률/상법.json",
+            "target_git_path": "상법/법률/상법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -569,7 +615,9 @@
             "source_provision_id": "SchlPubRul:한국가스안전공사정관#JO0010",
             "reference_id": "law:상법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "상법/법률/상법.json"
+            "target_git_path_guess": "상법/법률/상법.json",
+            "target_git_path": "상법/법률/상법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -589,7 +637,9 @@
             "source_provision_id": "SchlPubRul:한국가스안전공사정관#JO0010",
             "reference_id": "law:상법#JO0414",
             "target_repo": "LAW",
-            "target_git_path_guess": "상법/법률/상법.json"
+            "target_git_path_guess": "상법/법률/상법.json",
+            "target_git_path": "상법/법률/상법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -609,7 +659,9 @@
             "source_provision_id": "SchlPubRul:한국가스안전공사정관#JO0010",
             "reference_id": "law:상법#JO0415",
             "target_repo": "LAW",
-            "target_git_path_guess": "상법/법률/상법.json"
+            "target_git_path_guess": "상법/법률/상법.json",
+            "target_git_path": "상법/법률/상법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -652,7 +704,11 @@
             "source_provision_id": "SchlPubRul:한국가스안전공사정관#JO0012",
             "reference_id": "SchlPubRul:한국가스안전공사정관#JO0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국가스안전공사 정관/한국가스안전공사 정관.json"
+            "target_git_path_guess": "한국가스안전공사 정관/한국가스안전공사 정관.json",
+            "target_git_path": "한국가스안전공사 정관/한국가스안전공사 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -750,7 +806,9 @@
             "source_provision_id": "SchlPubRul:한국가스안전공사정관#JO0019",
             "reference_id": "law:고압가스안전관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고압가스안전관리법/법률/고압가스안전관리법.json"
+            "target_git_path_guess": "고압가스안전관리법/법률/고압가스안전관리법.json",
+            "target_git_path": "고압가스 안전관리법/법률/고압가스 안전관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -770,7 +828,9 @@
             "source_provision_id": "SchlPubRul:한국가스안전공사정관#JO0019",
             "reference_id": "law:고압가스안전관리법#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "고압가스안전관리법/법률/고압가스안전관리법.json"
+            "target_git_path_guess": "고압가스안전관리법/법률/고압가스안전관리법.json",
+            "target_git_path": "고압가스 안전관리법/법률/고압가스 안전관리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -802,7 +862,9 @@
             "source_provision_id": "SchlPubRul:한국가스안전공사정관#JO0019_02",
             "reference_id": "law:고압가스안전관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고압가스안전관리법/법률/고압가스안전관리법.json"
+            "target_git_path_guess": "고압가스안전관리법/법률/고압가스안전관리법.json",
+            "target_git_path": "고압가스 안전관리법/법률/고압가스 안전관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -822,7 +884,9 @@
             "source_provision_id": "SchlPubRul:한국가스안전공사정관#JO0019_02",
             "reference_id": "law:고압가스안전관리법#JO0033_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "고압가스안전관리법/법률/고압가스안전관리법.json"
+            "target_git_path_guess": "고압가스안전관리법/법률/고압가스안전관리법.json",
+            "target_git_path": "고압가스 안전관리법/법률/고압가스 안전관리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -854,7 +918,9 @@
             "source_provision_id": "SchlPubRul:한국가스안전공사정관#JO0019_03",
             "reference_id": "law:도시가스사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "도시가스사업법/법률/도시가스사업법.json"
+            "target_git_path_guess": "도시가스사업법/법률/도시가스사업법.json",
+            "target_git_path": "도시가스사업법/법률/도시가스사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -874,7 +940,9 @@
             "source_provision_id": "SchlPubRul:한국가스안전공사정관#JO0019_03",
             "reference_id": "law:도시가스사업법#JO0030_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "도시가스사업법/법률/도시가스사업법.json"
+            "target_git_path_guess": "도시가스사업법/법률/도시가스사업법.json",
+            "target_git_path": "도시가스사업법/법률/도시가스사업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1016,7 +1084,11 @@
             "source_provision_id": "SchlPubRul:한국가스안전공사정관#JO0030",
             "reference_id": "SchlPubRul:한국가스안전공사정관#JO0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국가스안전공사 정관/한국가스안전공사 정관.json"
+            "target_git_path_guess": "한국가스안전공사 정관/한국가스안전공사 정관.json",
+            "target_git_path": "한국가스안전공사 정관/한국가스안전공사 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1048,7 +1120,11 @@
             "source_provision_id": "SchlPubRul:한국가스안전공사정관#JO0031",
             "reference_id": "SchlPubRul:한국가스안전공사정관#JO0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국가스안전공사 정관/한국가스안전공사 정관.json"
+            "target_git_path_guess": "한국가스안전공사 정관/한국가스안전공사 정관.json",
+            "target_git_path": "한국가스안전공사 정관/한국가스안전공사 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1080,7 +1156,9 @@
             "source_provision_id": "SchlPubRul:한국가스안전공사정관#JO0032",
             "reference_id": "law:고압가스안전관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고압가스안전관리법/법률/고압가스안전관리법.json"
+            "target_git_path_guess": "고압가스안전관리법/법률/고압가스안전관리법.json",
+            "target_git_path": "고압가스 안전관리법/법률/고압가스 안전관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1100,7 +1178,9 @@
             "source_provision_id": "SchlPubRul:한국가스안전공사정관#JO0032",
             "reference_id": "law:고압가스안전관리법#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "고압가스안전관리법/법률/고압가스안전관리법.json"
+            "target_git_path_guess": "고압가스안전관리법/법률/고압가스안전관리법.json",
+            "target_git_path": "고압가스 안전관리법/법률/고압가스 안전관리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1154,7 +1234,9 @@
             "source_provision_id": "SchlPubRul:한국가스안전공사정관#JO0035",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1174,7 +1256,9 @@
             "source_provision_id": "SchlPubRul:한국가스안전공사정관#JO0035",
             "reference_id": "law:공공기관의운영에관한법률#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

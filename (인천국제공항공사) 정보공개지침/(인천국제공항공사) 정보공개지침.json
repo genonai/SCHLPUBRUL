@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0001",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -97,7 +99,9 @@
             "source_provision_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0002",
             "reference_id": "law:전자정부법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -117,7 +121,9 @@
             "source_provision_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0002",
             "reference_id": "law:전자정부법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -160,7 +166,9 @@
             "source_provision_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0004",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -180,7 +188,9 @@
             "source_provision_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0004",
             "reference_id": "law:공공기관의운영에관한법률#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -217,7 +227,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(인천국제공항공사)정보공개지침#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json"
+            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_git_path": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_git_file_path": "(인천국제공항공사) 정보공개지침/별표/별표1_경영공시 세부 내용.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -282,7 +297,11 @@
             "source_provision_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0005",
             "reference_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0016",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json"
+            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_git_path": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -330,7 +349,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(인천국제공항공사)정보공개지침#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json"
+            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_git_path": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_git_file_path": "(인천국제공항공사) 정보공개지침/별지/별지1_정보공개청구서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -355,7 +379,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(인천국제공항공사)정보공개지침#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json"
+            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_git_path": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_git_file_path": "(인천국제공항공사) 정보공개지침/별지/별지2_정보공개 구술청구서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -375,7 +404,9 @@
             "source_provision_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0006",
             "reference_id": "law:민원처리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민원 처리에 관한 법률/법률/민원 처리에 관한 법률.json"
+            "target_git_path_guess": "민원 처리에 관한 법률/법률/민원 처리에 관한 법률.json",
+            "target_git_path": "민원 처리에 관한 법률/법률/민원 처리에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -418,7 +449,9 @@
             "source_provision_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0006_03",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -438,7 +471,9 @@
             "source_provision_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0006_03",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -458,7 +493,9 @@
             "source_provision_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0006_03",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -478,7 +515,9 @@
             "source_provision_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0006_03",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -510,7 +549,11 @@
             "source_provision_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0007",
             "reference_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json"
+            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_git_path": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -542,7 +585,11 @@
             "source_provision_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0007_02",
             "reference_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json"
+            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_git_path": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -562,7 +609,11 @@
             "source_provision_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0007_02",
             "reference_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json"
+            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_git_path": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -582,7 +633,11 @@
             "source_provision_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0007_02",
             "reference_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json"
+            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_git_path": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -602,7 +657,11 @@
             "source_provision_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0007_02",
             "reference_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json"
+            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_git_path": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -622,7 +681,11 @@
             "source_provision_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0007_02",
             "reference_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json"
+            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_git_path": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -642,7 +705,11 @@
             "source_provision_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0007_02",
             "reference_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json"
+            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_git_path": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -674,7 +741,11 @@
             "source_provision_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0008",
             "reference_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json"
+            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_git_path": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -699,7 +770,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:(인천국제공항공사)정보공개지침#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json"
+            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_git_path": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_git_file_path": "(인천국제공항공사) 정보공개지침/별지/별지3_공개여부 결정기간 연장통지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -736,7 +812,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:(인천국제공항공사)정보공개지침#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json"
+            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_git_path": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_git_file_path": "(인천국제공항공사) 정보공개지침/별지/별지4_제3자 의견서(비공개요청서).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -761,7 +842,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:(인천국제공항공사)정보공개지침#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json"
+            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_git_path": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_git_file_path": "(인천국제공항공사) 정보공개지침/별지/별지5_제3자 의견청취서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -826,7 +912,11 @@
             "source_provision_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0013",
             "reference_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0023",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json"
+            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_git_path": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -846,7 +936,9 @@
             "source_provision_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0013",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -866,7 +958,9 @@
             "source_provision_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0013",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -886,7 +980,11 @@
             "source_provision_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0013",
             "reference_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0023",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json"
+            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_git_path": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -906,7 +1004,11 @@
             "source_provision_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0013",
             "reference_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json"
+            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_git_path": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -931,7 +1033,12 @@
             "target_unit": "BJ0018",
             "reference_id": "SchlPubRul:(인천국제공항공사)정보공개지침#BJ0018",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json"
+            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_git_path": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_git_file_path": "(인천국제공항공사) 정보공개지침/별지/별지18_정보공개심의회 의결서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -974,7 +1081,11 @@
             "source_provision_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0014",
             "reference_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json"
+            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_git_path": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -999,7 +1110,12 @@
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:(인천국제공항공사)정보공개지침#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json"
+            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_git_path": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_git_file_path": "(인천국제공항공사) 정보공개지침/별지/별지6_정보 (공개, 부분공개, 비공개) 결정통지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1019,7 +1135,11 @@
             "source_provision_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0014",
             "reference_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0022",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json"
+            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_git_path": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1039,7 +1159,11 @@
             "source_provision_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0014",
             "reference_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json"
+            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_git_path": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1071,7 +1195,11 @@
             "source_provision_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0015",
             "reference_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json"
+            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_git_path": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1096,7 +1224,12 @@
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:(인천국제공항공사)정보공개지침#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json"
+            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_git_path": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_git_file_path": "(인천국제공항공사) 정보공개지침/별지/별지7_정보공개처리대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1128,7 +1261,11 @@
             "source_provision_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0016",
             "reference_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0014",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json"
+            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_git_path": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1153,7 +1290,12 @@
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:(인천국제공항공사)정보공개지침#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json"
+            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_git_path": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_git_file_path": "(인천국제공항공사) 정보공개지침/별지/별지7_정보공개처리대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -1173,7 +1315,9 @@
             "source_provision_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0016",
             "reference_id": "law:개인정보보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json"
+            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1193,7 +1337,9 @@
             "source_provision_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0016",
             "reference_id": "law:개인정보보호법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json"
+            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1225,7 +1371,11 @@
             "source_provision_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0017",
             "reference_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0016",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json"
+            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_git_path": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1245,7 +1395,11 @@
             "source_provision_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0017",
             "reference_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0016",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json"
+            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_git_path": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1277,7 +1431,11 @@
             "source_provision_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0018",
             "reference_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0005_02",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json"
+            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_git_path": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1297,7 +1455,11 @@
             "source_provision_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0018",
             "reference_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0014",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json"
+            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_git_path": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1329,7 +1491,11 @@
             "source_provision_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0019",
             "reference_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json"
+            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_git_path": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1361,7 +1527,11 @@
             "source_provision_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0020",
             "reference_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json"
+            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_git_path": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1381,7 +1551,11 @@
             "source_provision_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0020",
             "reference_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json"
+            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_git_path": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1406,7 +1580,12 @@
             "target_unit": "BJ0008",
             "reference_id": "SchlPubRul:(인천국제공항공사)정보공개지침#BJ0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json"
+            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_git_path": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_git_file_path": "(인천국제공항공사) 정보공개지침/별지/별지8_정보공개위임장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1443,7 +1622,12 @@
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:(인천국제공항공사)정보공개지침#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json"
+            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_git_path": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_git_file_path": "(인천국제공항공사) 정보공개지침/별지/별지7_정보공개처리대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1480,7 +1664,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:(인천국제공항공사)정보공개지침#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json"
+            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_git_path": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_git_file_path": "(인천국제공항공사) 정보공개지침/별표/별표2_수수료.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1505,7 +1694,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:(인천국제공항공사)정보공개지침#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json"
+            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_git_path": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_git_file_path": "(인천국제공항공사) 정보공개지침/별표/별표2_수수료.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1542,7 +1736,12 @@
             "target_unit": "BJ0009",
             "reference_id": "SchlPubRul:(인천국제공항공사)정보공개지침#BJ0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json"
+            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_git_path": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_git_file_path": "(인천국제공항공사) 정보공개지침/별지/별지9_정보공개 결정 등 이의신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1567,7 +1766,12 @@
             "target_unit": "BJ0010",
             "reference_id": "SchlPubRul:(인천국제공항공사)정보공개지침#BJ0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json"
+            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_git_path": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_git_file_path": "(인천국제공항공사) 정보공개지침/별지/별지10_이의신청 결정기간 연장통지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1592,7 +1796,12 @@
             "target_unit": "BJ0011",
             "reference_id": "SchlPubRul:(인천국제공항공사)정보공개지침#BJ0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json"
+            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_git_path": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_git_file_path": "(인천국제공항공사) 정보공개지침/별지/별지11_이의신청처리대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1624,7 +1833,11 @@
             "source_provision_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0024",
             "reference_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0028",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json"
+            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_git_path": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1656,7 +1869,9 @@
             "source_provision_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0025",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1676,7 +1891,9 @@
             "source_provision_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0025",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1730,7 +1947,9 @@
             "source_provision_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0028",
             "reference_id": "law:민법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1750,7 +1969,11 @@
             "source_provision_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0028",
             "reference_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json"
+            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_git_path": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1770,7 +1993,11 @@
             "source_provision_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0028",
             "reference_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json"
+            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_git_path": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1790,7 +2017,11 @@
             "source_provision_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0028",
             "reference_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0023",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json"
+            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_git_path": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1810,7 +2041,11 @@
             "source_provision_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0028",
             "reference_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0025",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json"
+            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_git_path": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1830,7 +2065,11 @@
             "source_provision_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0028",
             "reference_id": "SchlPubRul:(인천국제공항공사)정보공개지침#JO0023",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json"
+            "target_git_path_guess": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_git_path": "(인천국제공항공사) 정보공개지침/(인천국제공항공사) 정보공개지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

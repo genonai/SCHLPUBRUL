@@ -158,7 +158,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(한국고용노동교육원)시설물관리및운영에관한규칙#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국고용노동교육원) 시설물 관리 및 운영에 관한 규칙/(한국고용노동교육원) 시설물 관리 및 운영에 관한 규칙.json"
+            "target_git_path_guess": "(한국고용노동교육원) 시설물 관리 및 운영에 관한 규칙/(한국고용노동교육원) 시설물 관리 및 운영에 관한 규칙.json",
+            "target_git_path": "(한국고용노동교육원) 시설물 관리 및 운영에 관한 규칙/(한국고용노동교육원) 시설물 관리 및 운영에 관한 규칙.json",
+            "target_git_file_path": "(한국고용노동교육원) 시설물 관리 및 운영에 관한 규칙/별표/별표1_세부분야별 관리항목.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -195,7 +200,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:(한국고용노동교육원)시설물관리및운영에관한규칙#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국고용노동교육원) 시설물 관리 및 운영에 관한 규칙/(한국고용노동교육원) 시설물 관리 및 운영에 관한 규칙.json"
+            "target_git_path_guess": "(한국고용노동교육원) 시설물 관리 및 운영에 관한 규칙/(한국고용노동교육원) 시설물 관리 및 운영에 관한 규칙.json",
+            "target_git_path": "(한국고용노동교육원) 시설물 관리 및 운영에 관한 규칙/(한국고용노동교육원) 시설물 관리 및 운영에 관한 규칙.json",
+            "target_git_file_path": "(한국고용노동교육원) 시설물 관리 및 운영에 관한 규칙/별표/별표2_법령에 따른 시설점검항목(예시).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -238,7 +248,11 @@
             "source_provision_id": "SchlPubRul:(한국고용노동교육원)시설물관리및운영에관한규칙#JO0011",
             "reference_id": "SchlPubRul:(한국고용노동교육원)시설물관리및운영에관한규칙#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국고용노동교육원) 시설물 관리 및 운영에 관한 규칙/(한국고용노동교육원) 시설물 관리 및 운영에 관한 규칙.json"
+            "target_git_path_guess": "(한국고용노동교육원) 시설물 관리 및 운영에 관한 규칙/(한국고용노동교육원) 시설물 관리 및 운영에 관한 규칙.json",
+            "target_git_path": "(한국고용노동교육원) 시설물 관리 및 운영에 관한 규칙/(한국고용노동교육원) 시설물 관리 및 운영에 관한 규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -258,7 +272,11 @@
             "source_provision_id": "SchlPubRul:(한국고용노동교육원)시설물관리및운영에관한규칙#JO0011",
             "reference_id": "SchlPubRul:(한국고용노동교육원)시설물관리및운영에관한규칙#JO0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국고용노동교육원) 시설물 관리 및 운영에 관한 규칙/(한국고용노동교육원) 시설물 관리 및 운영에 관한 규칙.json"
+            "target_git_path_guess": "(한국고용노동교육원) 시설물 관리 및 운영에 관한 규칙/(한국고용노동교육원) 시설물 관리 및 운영에 관한 규칙.json",
+            "target_git_path": "(한국고용노동교육원) 시설물 관리 및 운영에 관한 규칙/(한국고용노동교육원) 시설물 관리 및 운영에 관한 규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -278,7 +296,9 @@
             "source_provision_id": "SchlPubRul:(한국고용노동교육원)시설물관리및운영에관한규칙#JO0011",
             "reference_id": "law:건축법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건축법/법률/건축법.json"
+            "target_git_path_guess": "건축법/법률/건축법.json",
+            "target_git_path": "건축법/법률/건축법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -298,7 +318,9 @@
             "source_provision_id": "SchlPubRul:(한국고용노동교육원)시설물관리및운영에관한규칙#JO0011",
             "reference_id": "law:건축법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "건축법/법률/건축법.json"
+            "target_git_path_guess": "건축법/법률/건축법.json",
+            "target_git_path": "건축법/법률/건축법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -363,7 +385,9 @@
             "source_provision_id": "SchlPubRul:(한국고용노동교육원)시설물관리및운영에관한규칙#JO0015",
             "reference_id": "law:에너지이용합리화법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "에너지이용 합리화법/법률/에너지이용 합리화법.json"
+            "target_git_path_guess": "에너지이용 합리화법/법률/에너지이용 합리화법.json",
+            "target_git_path": "에너지이용 합리화법/법률/에너지이용 합리화법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -383,7 +407,11 @@
             "source_provision_id": "SchlPubRul:(한국고용노동교육원)시설물관리및운영에관한규칙#JO0015",
             "reference_id": "admrul:공공기관에너지이용합리화추진에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공공기관 에너지이용 합리화 추진에 관한 규정/공공기관 에너지이용 합리화 추진에 관한 규정.json"
+            "target_git_path_guess": "공공기관 에너지이용 합리화 추진에 관한 규정/공공기관 에너지이용 합리화 추진에 관한 규정.json",
+            "target_git_path": "공공기관 에너지이용 합리화 추진에 관한 규정/공공기관 에너지이용 합리화 추진에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -415,7 +443,11 @@
             "source_provision_id": "SchlPubRul:(한국고용노동교육원)시설물관리및운영에관한규칙#JO0016",
             "reference_id": "admrul:공공기관에너지이용합리화추진에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공공기관 에너지이용 합리화 추진에 관한 규정/공공기관 에너지이용 합리화 추진에 관한 규정.json"
+            "target_git_path_guess": "공공기관 에너지이용 합리화 추진에 관한 규정/공공기관 에너지이용 합리화 추진에 관한 규정.json",
+            "target_git_path": "공공기관 에너지이용 합리화 추진에 관한 규정/공공기관 에너지이용 합리화 추진에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -435,7 +467,11 @@
             "source_provision_id": "SchlPubRul:(한국고용노동교육원)시설물관리및운영에관한규칙#JO0016",
             "reference_id": "admrul:공공기관에너지이용합리화추진에관한규정#JO0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공공기관 에너지이용 합리화 추진에 관한 규정/공공기관 에너지이용 합리화 추진에 관한 규정.json"
+            "target_git_path_guess": "공공기관 에너지이용 합리화 추진에 관한 규정/공공기관 에너지이용 합리화 추진에 관한 규정.json",
+            "target_git_path": "공공기관 에너지이용 합리화 추진에 관한 규정/공공기관 에너지이용 합리화 추진에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -522,7 +558,11 @@
             "source_provision_id": "SchlPubRul:(한국고용노동교육원)시설물관리및운영에관한규칙#JO0022",
             "reference_id": "SchlPubRul:(한국고용노동교육원)시설물관리및운영에관한규칙#JO0016",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국고용노동교육원) 시설물 관리 및 운영에 관한 규칙/(한국고용노동교육원) 시설물 관리 및 운영에 관한 규칙.json"
+            "target_git_path_guess": "(한국고용노동교육원) 시설물 관리 및 운영에 관한 규칙/(한국고용노동교육원) 시설물 관리 및 운영에 관한 규칙.json",
+            "target_git_path": "(한국고용노동교육원) 시설물 관리 및 운영에 관한 규칙/(한국고용노동교육원) 시설물 관리 및 운영에 관한 규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -664,7 +704,11 @@
             "source_provision_id": "SchlPubRul:(한국고용노동교육원)시설물관리및운영에관한규칙#JO0033",
             "reference_id": "SchlPubRul:(한국고용노동교육원)시설물관리및운영에관한규칙#JO0032",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국고용노동교육원) 시설물 관리 및 운영에 관한 규칙/(한국고용노동교육원) 시설물 관리 및 운영에 관한 규칙.json"
+            "target_git_path_guess": "(한국고용노동교육원) 시설물 관리 및 운영에 관한 규칙/(한국고용노동교육원) 시설물 관리 및 운영에 관한 규칙.json",
+            "target_git_path": "(한국고용노동교육원) 시설물 관리 및 운영에 관한 규칙/(한국고용노동교육원) 시설물 관리 및 운영에 관한 규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -718,7 +762,11 @@
             "source_provision_id": "SchlPubRul:(한국고용노동교육원)시설물관리및운영에관한규칙#JO0036",
             "reference_id": "SchlPubRul:(한국고용노동교육원)시설물관리및운영에관한규칙#JO0035",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국고용노동교육원) 시설물 관리 및 운영에 관한 규칙/(한국고용노동교육원) 시설물 관리 및 운영에 관한 규칙.json"
+            "target_git_path_guess": "(한국고용노동교육원) 시설물 관리 및 운영에 관한 규칙/(한국고용노동교육원) 시설물 관리 및 운영에 관한 규칙.json",
+            "target_git_path": "(한국고용노동교육원) 시설물 관리 및 운영에 관한 규칙/(한국고용노동교육원) 시설물 관리 및 운영에 관한 규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -738,7 +786,9 @@
             "source_provision_id": "SchlPubRul:(한국고용노동교육원)시설물관리및운영에관한규칙#JO0036",
             "reference_id": "law:국가기술자격법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가기술자격법/법률/국가기술자격법.json"
+            "target_git_path_guess": "국가기술자격법/법률/국가기술자격법.json",
+            "target_git_path": "국가기술자격법/법률/국가기술자격법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -775,7 +825,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(한국고용노동교육원)시설물관리및운영에관한규칙#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국고용노동교육원) 시설물 관리 및 운영에 관한 규칙/(한국고용노동교육원) 시설물 관리 및 운영에 관한 규칙.json"
+            "target_git_path_guess": "(한국고용노동교육원) 시설물 관리 및 운영에 관한 규칙/(한국고용노동교육원) 시설물 관리 및 운영에 관한 규칙.json",
+            "target_git_path": "(한국고용노동교육원) 시설물 관리 및 운영에 관한 규칙/(한국고용노동교육원) 시설물 관리 및 운영에 관한 규칙.json",
+            "target_git_file_path": "(한국고용노동교육원) 시설물 관리 및 운영에 관한 규칙/별지/별지1_한국고용노동교육원(본원) 시설사용신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -812,7 +867,12 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:(한국고용노동교육원)시설물관리및운영에관한규칙#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국고용노동교육원) 시설물 관리 및 운영에 관한 규칙/(한국고용노동교육원) 시설물 관리 및 운영에 관한 규칙.json"
+            "target_git_path_guess": "(한국고용노동교육원) 시설물 관리 및 운영에 관한 규칙/(한국고용노동교육원) 시설물 관리 및 운영에 관한 규칙.json",
+            "target_git_path": "(한국고용노동교육원) 시설물 관리 및 운영에 관한 규칙/(한국고용노동교육원) 시설물 관리 및 운영에 관한 규칙.json",
+            "target_git_file_path": "(한국고용노동교육원) 시설물 관리 및 운영에 관한 규칙/별표/별표3_교육원 본원 시설사용료.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

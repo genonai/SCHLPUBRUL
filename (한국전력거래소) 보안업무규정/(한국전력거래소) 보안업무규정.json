@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0001",
             "reference_id": "law:국가정보원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가정보원법/법률/국가정보원법.json"
+            "target_git_path_guess": "국가정보원법/법률/국가정보원법.json",
+            "target_git_path": "국가정보원법/법률/국가정보원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -85,7 +87,11 @@
             "source_provision_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0001",
             "reference_id": "admrul:보안업무규정시행규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json"
+            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_git_path": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -105,7 +111,11 @@
             "source_provision_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0001",
             "reference_id": "admrul:방첩업무규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "방첩업무규정/방첩업무규정.json"
+            "target_git_path_guess": "방첩업무규정/방첩업무규정.json",
+            "target_git_path": "방첩업무 규정/방첩업무 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -148,7 +158,11 @@
             "source_provision_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0003",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -168,7 +182,9 @@
             "source_provision_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0003",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -188,7 +204,9 @@
             "source_provision_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0003",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -208,7 +226,11 @@
             "source_provision_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0003",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0034",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -256,7 +278,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_file_path": "(한국전력거래소) 보안업무규정/별지/별지1_제 차 보안심의위원회.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -276,7 +303,11 @@
             "source_provision_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0005",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -296,7 +327,11 @@
             "source_provision_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0005",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0025",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -344,7 +379,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_file_path": "(한국전력거래소) 보안업무규정/별지/별지1_제 차 보안심의위원회.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -387,7 +427,11 @@
             "source_provision_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0007_02",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -407,7 +451,11 @@
             "source_provision_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0007_02",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0068",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -450,7 +498,11 @@
             "source_provision_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0008",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -475,7 +527,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_file_path": "(한국전력거래소) 보안업무규정/별지/별지2_보안업무시행계획.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -500,7 +557,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_file_path": "(한국전력거래소) 보안업무규정/별지/별지3_보안업무심사분석.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -559,7 +621,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_file_path": "(한국전력거래소) 보안업무규정/별지/별지4_비밀취급인가신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -584,7 +651,12 @@
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_file_path": "(한국전력거래소) 보안업무규정/별지/별지6_서약서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -609,7 +681,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_file_path": "(한국전력거래소) 보안업무규정/별지/별지5_비밀취급인가사유서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -629,7 +706,11 @@
             "source_provision_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0011",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0016",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -654,7 +735,12 @@
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_file_path": "(한국전력거래소) 보안업무규정/별지/별지7_비밀취급인가대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -686,7 +772,11 @@
             "source_provision_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0012",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -711,7 +801,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_file_path": "(한국전력거래소) 보안업무규정/별지/별지4_비밀취급인가신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -736,7 +831,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_file_path": "(한국전력거래소) 보안업무규정/별지/별지5_비밀취급인가사유서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -761,7 +861,12 @@
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_file_path": "(한국전력거래소) 보안업무규정/별지/별지6_서약서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -781,7 +886,11 @@
             "source_provision_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0012",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -829,7 +938,12 @@
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_file_path": "(한국전력거래소) 보안업무규정/별지/별지6_서약서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -866,7 +980,12 @@
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_file_path": "(한국전력거래소) 보안업무규정/별지/별지6_서약서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -891,7 +1010,12 @@
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_file_path": "(한국전력거래소) 보안업무규정/별지/별지7_비밀취급인가대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -950,7 +1074,12 @@
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_file_path": "(한국전력거래소) 보안업무규정/별지/별지7_비밀취급인가대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -987,7 +1116,12 @@
             "target_unit": "BJ0008",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#BJ0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_file_path": "(한국전력거래소) 보안업무규정/별지/별지8_비밀·암호자재취급 인가증 재발급 요청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1012,7 +1146,12 @@
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_file_path": "(한국전력거래소) 보안업무규정/별지/별지6_서약서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1049,7 +1188,12 @@
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_file_path": "(한국전력거래소) 보안업무규정/별지/별지7_비밀취급인가대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1081,7 +1225,11 @@
             "source_provision_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0020_02",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1101,7 +1249,11 @@
             "source_provision_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0020_02",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1121,7 +1273,11 @@
             "source_provision_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0020_02",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1141,7 +1297,11 @@
             "source_provision_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0020_02",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1161,7 +1321,11 @@
             "source_provision_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0020_02",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1181,7 +1345,11 @@
             "source_provision_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0020_02",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0006_02",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1201,7 +1369,11 @@
             "source_provision_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0020_02",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1221,7 +1393,11 @@
             "source_provision_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0020_02",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0007_02",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1241,7 +1417,11 @@
             "source_provision_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0020_02",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0007_03",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1261,7 +1441,11 @@
             "source_provision_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0020_02",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1281,7 +1465,11 @@
             "source_provision_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0020_02",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1301,7 +1489,11 @@
             "source_provision_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0020_02",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1321,7 +1513,11 @@
             "source_provision_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0020_02",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1346,7 +1542,12 @@
             "target_unit": "BJ0037",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#BJ0037",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_file_path": "(한국전력거래소) 보안업무규정/별지/별지37_암호자재 관리기록부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1371,7 +1572,12 @@
             "target_unit": "BJ0038",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#BJ0038",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_file_path": "(한국전력거래소) 보안업무규정/별지/별지38_암호자재 점검기록부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1419,7 +1625,12 @@
             "target_unit": "BJ0009",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#BJ0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_file_path": "(한국전력거래소) 보안업무규정/별지/별지9_신원조사 대상자 명단.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1444,7 +1655,12 @@
             "target_unit": "BJ0011",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#BJ0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_file_path": "(한국전력거래소) 보안업무규정/별지/별지11_신 원 진 술 서(약식).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -1464,7 +1680,9 @@
             "source_provision_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0022",
             "reference_id": "law:가족관계의등록등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "가족관계의 등록 등에 관한 법률/법률/가족관계의 등록 등에 관한 법률.json"
+            "target_git_path_guess": "가족관계의 등록 등에 관한 법률/법률/가족관계의 등록 등에 관한 법률.json",
+            "target_git_path": "가족관계의 등록 등에 관한 법률/법률/가족관계의 등록 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1484,7 +1702,9 @@
             "source_provision_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0022",
             "reference_id": "law:가족관계의등록등에관한법률#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "가족관계의 등록 등에 관한 법률/법률/가족관계의 등록 등에 관한 법률.json"
+            "target_git_path_guess": "가족관계의 등록 등에 관한 법률/법률/가족관계의 등록 등에 관한 법률.json",
+            "target_git_path": "가족관계의 등록 등에 관한 법률/법률/가족관계의 등록 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1509,7 +1729,12 @@
             "target_unit": "BJ0012",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#BJ0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_file_path": "(한국전력거래소) 보안업무규정/별지/별지12_PERSONAL QUESTIONNAIRE.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1541,7 +1766,11 @@
             "source_provision_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0022_02",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0021",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1578,7 +1807,12 @@
             "target_unit": "BJ0013",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#BJ0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_file_path": "(한국전력거래소) 보안업무규정/별지/별지13_보안서약서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1626,7 +1860,12 @@
             "target_unit": "BJ0013",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#BJ0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_file_path": "(한국전력거래소) 보안업무규정/별지/별지13_보안서약서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1646,7 +1885,11 @@
             "source_provision_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0025",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0046",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1694,7 +1937,12 @@
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_file_path": "(한국전력거래소) 보안업무규정/별지/별지6_서약서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1719,7 +1967,12 @@
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_file_path": "(한국전력거래소) 보안업무규정/별지/별지6_서약서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1751,7 +2004,11 @@
             "source_provision_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0027",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1788,7 +2045,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_file_path": "(한국전력거래소) 보안업무규정/별표/별표1_보안업무규정 시행규칙상 기본분류지침표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1808,7 +2070,11 @@
             "source_provision_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0028",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1845,7 +2111,12 @@
             "target_unit": "BJ0014",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#BJ0014",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_file_path": "(한국전력거래소) 보안업무규정/별지/별지14_비밀세부분류지침 자료.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1870,7 +2141,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_file_path": "(한국전력거래소) 보안업무규정/별표/별표1_보안업무규정 시행규칙상 기본분류지침표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1902,7 +2178,11 @@
             "source_provision_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0030",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0050",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1922,7 +2202,11 @@
             "source_provision_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0030",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0049",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [
@@ -1978,7 +2262,12 @@
             "target_unit": "BJ0015",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#BJ0015",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_file_path": "(한국전력거래소) 보안업무규정/별지/별지15_비밀발간승인신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2003,7 +2292,12 @@
             "target_unit": "BJ0016",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#BJ0016",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_file_path": "(한국전력거래소) 보안업무규정/별지/별지16_비밀발간통제부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [
@@ -2054,7 +2348,11 @@
             "source_provision_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0032",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0042",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [
@@ -2137,7 +2435,12 @@
             "target_unit": "BJ0017",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#BJ0017",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_file_path": "(한국전력거래소) 보안업무규정/별지/별지17_이중 봉투 양식.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2162,7 +2465,12 @@
             "target_unit": "BJ0018",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#BJ0018",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_file_path": "(한국전력거래소) 보안업무규정/별지/별지18_비밀발송대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2199,7 +2507,12 @@
             "target_unit": "BJ0019",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#BJ0019",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_file_path": "(한국전력거래소) 보안업무규정/별지/별지19_비밀접수 및 발송대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2236,7 +2549,12 @@
             "target_unit": "BJ0020",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#BJ0020",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_file_path": "(한국전력거래소) 보안업무규정/별지/별지20_비밀관리기록부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2273,7 +2591,12 @@
             "target_unit": "BJ0021",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#BJ0021",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_file_path": "(한국전력거래소) 보안업무규정/별지/별지21_접수증.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -2293,7 +2616,11 @@
             "source_provision_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0036",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0070",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2352,7 +2679,12 @@
             "target_unit": "BJ0022",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#BJ0022",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_file_path": "(한국전력거래소) 보안업무규정/별지/별지22_비밀 보관책임자 명부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2384,7 +2716,11 @@
             "source_provision_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0040",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0036",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -2404,7 +2740,11 @@
             "source_provision_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0040",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0062",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [
@@ -2462,7 +2802,12 @@
             "target_unit": "BJ0020",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#BJ0020",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_file_path": "(한국전력거래소) 보안업무규정/별지/별지20_비밀관리기록부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2494,7 +2839,11 @@
             "source_provision_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0043",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0066",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [
@@ -2536,7 +2885,11 @@
             "source_provision_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0044",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0046",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2561,7 +2914,12 @@
             "target_unit": "BJ0023",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#BJ0023",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_file_path": "(한국전력거래소) 보안업무규정/별지/별지23_비밀대출부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2586,7 +2944,12 @@
             "target_unit": "BJ0024",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#BJ0024",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_file_path": "(한국전력거래소) 보안업무규정/별지/별지24_비밀열람기록전.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2623,7 +2986,12 @@
             "target_unit": "BJ0025",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#BJ0025",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_file_path": "(한국전력거래소) 보안업무규정/별지/별지25_비밀반출승인서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -2643,7 +3011,11 @@
             "source_provision_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0045",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0046",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2680,7 +3052,12 @@
             "target_unit": "BJ0026",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#BJ0026",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_file_path": "(한국전력거래소) 보안업무규정/별지/별지26_비밀소유현황.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2705,7 +3082,12 @@
             "target_unit": "BJ0027",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#BJ0027",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_file_path": "(한국전력거래소) 보안업무규정/별지/별지27_비밀취급 인가자 현황.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2791,7 +3173,11 @@
             "source_provision_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0051",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0028",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -2811,7 +3197,11 @@
             "source_provision_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0051",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0049",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2854,7 +3244,11 @@
             "source_provision_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0053",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -2874,7 +3268,9 @@
             "source_provision_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0053",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2894,7 +3290,9 @@
             "source_provision_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0053",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2914,7 +3312,11 @@
             "source_provision_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0053",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0032",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2939,7 +3341,12 @@
             "target_unit": "BJ0028",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#BJ0028",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_file_path": "(한국전력거래소) 보안업무규정/별지/별지28_대외비 관리 대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -2959,7 +3366,9 @@
             "source_provision_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0053",
             "reference_id": "law:공공기록물관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [
@@ -3066,7 +3475,11 @@
             "source_provision_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0058",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0053",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -3086,7 +3499,11 @@
             "source_provision_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0058",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0054",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -3123,7 +3540,12 @@
             "target_unit": "BJ0039",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#BJ0039",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_file_path": "(한국전력거래소) 보안업무규정/별지/별지39_보안서약서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -3160,7 +3582,12 @@
             "target_unit": "BJ0029",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#BJ0029",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_file_path": "(한국전력거래소) 보안업무규정/별지/별지29_통제구역(제한구역) 출입자명부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -3185,7 +3612,12 @@
             "target_unit": "BJ0029",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#BJ0029",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_file_path": "(한국전력거래소) 보안업무규정/별지/별지29_통제구역(제한구역) 출입자명부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [
@@ -3236,7 +3668,11 @@
             "source_provision_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0060_02",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0060",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -3256,7 +3692,11 @@
             "source_provision_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0060_02",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0054",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -3276,7 +3716,11 @@
             "source_provision_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0060_02",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0040",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -3335,7 +3779,12 @@
             "target_unit": "BJ0030",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#BJ0030",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_file_path": "(한국전력거래소) 보안업무규정/별지/별지30_보안점검표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -3360,7 +3809,12 @@
             "target_unit": "BJ0031",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#BJ0031",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_file_path": "(한국전력거래소) 보안업무규정/별지/별지31_당직근무일지.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -3425,7 +3879,11 @@
             "source_provision_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0064",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0051",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -3462,7 +3920,12 @@
             "target_unit": "BJ0032",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#BJ0032",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_file_path": "(한국전력거래소) 보안업무규정/별지/별지32_5월 보안 진단결과.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -3487,7 +3950,12 @@
             "target_unit": "BJ0010",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#BJ0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_file_path": "(한국전력거래소) 보안업무규정/별지/별지10_불시 보안 점검표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -3519,7 +3987,11 @@
             "source_provision_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0066",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0068",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -3539,7 +4011,9 @@
             "source_provision_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0066",
             "reference_id": "law:공공기록물관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -3571,7 +4045,11 @@
             "source_provision_id": "SchlPubRul:(한국전력거래소)보안업무규정#JO0067",
             "reference_id": "admrul:방첩업무규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "방첩업무규정/방첩업무규정.json"
+            "target_git_path_guess": "방첩업무규정/방첩업무규정.json",
+            "target_git_path": "방첩업무 규정/방첩업무 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -3608,7 +4086,12 @@
             "target_unit": "BJ0033",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#BJ0033",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_file_path": "(한국전력거래소) 보안업무규정/별지/별지33_외국공관원 접촉 신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -3633,7 +4116,12 @@
             "target_unit": "BJ0034",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#BJ0034",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_file_path": "(한국전력거래소) 보안업무규정/별지/별지34_외국공관원 접촉결과 보고서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -3670,7 +4158,12 @@
             "target_unit": "BJ0035",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#BJ0035",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_file_path": "(한국전력거래소) 보안업무규정/별지/별지35_외국인 등 접촉시 특이사항 보고서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -3707,7 +4200,12 @@
             "target_unit": "BJ0036",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#BJ0036",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_file_path": "(한국전력거래소) 보안업무규정/별지/별지36_외국 정보기관의 구성원 접촉 신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -3732,7 +4230,12 @@
             "target_unit": "BJ0034",
             "reference_id": "SchlPubRul:(한국전력거래소)보안업무규정#BJ0034",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json"
+            "target_git_path_guess": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_path": "(한국전력거래소) 보안업무규정/(한국전력거래소) 보안업무규정.json",
+            "target_git_file_path": "(한국전력거래소) 보안업무규정/별지/별지34_외국공관원 접촉결과 보고서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

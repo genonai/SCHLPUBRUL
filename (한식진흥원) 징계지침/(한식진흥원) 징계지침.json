@@ -98,7 +98,9 @@
             "source_provision_id": "SchlPubRul:(한식진흥원)징계지침#JO0004",
             "reference_id": "law:공무원행동강령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원행동강령/법률/공무원행동강령.json"
+            "target_git_path_guess": "공무원행동강령/법률/공무원행동강령.json",
+            "target_git_path": "공무원 행동강령/법률/공무원 행동강령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -118,7 +120,9 @@
             "source_provision_id": "SchlPubRul:(한식진흥원)징계지침#JO0004",
             "reference_id": "law:공무원행동강령#JO0013_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원행동강령/법률/공무원행동강령.json"
+            "target_git_path_guess": "공무원행동강령/법률/공무원행동강령.json",
+            "target_git_path": "공무원 행동강령/법률/공무원 행동강령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -150,7 +154,11 @@
             "source_provision_id": "SchlPubRul:(한식진흥원)징계지침#JO0005",
             "reference_id": "SchlPubRul:(한식진흥원)징계지침#JO0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한식진흥원) 징계지침/(한식진흥원) 징계지침.json"
+            "target_git_path_guess": "(한식진흥원) 징계지침/(한식진흥원) 징계지침.json",
+            "target_git_path": "(한식진흥원) 징계지침/(한식진흥원) 징계지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -175,7 +183,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(한식진흥원)징계지침#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한식진흥원) 징계지침/(한식진흥원) 징계지침.json"
+            "target_git_path_guess": "(한식진흥원) 징계지침/(한식진흥원) 징계지침.json",
+            "target_git_path": "(한식진흥원) 징계지침/(한식진흥원) 징계지침.json",
+            "target_git_file_path": "(한식진흥원) 징계지침/별지/별지1_직원징계심의요구서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -223,7 +236,12 @@
             "target_unit": "BJ0008",
             "reference_id": "SchlPubRul:(한식진흥원)징계지침#BJ0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한식진흥원) 징계지침/(한식진흥원) 징계지침.json"
+            "target_git_path_guess": "(한식진흥원) 징계지침/(한식진흥원) 징계지침.json",
+            "target_git_path": "(한식진흥원) 징계지침/(한식진흥원) 징계지침.json",
+            "target_git_file_path": "(한식진흥원) 징계지침/별지/별지8_출석통지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -248,7 +266,12 @@
             "target_unit": "BJ0008",
             "reference_id": "SchlPubRul:(한식진흥원)징계지침#BJ0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한식진흥원) 징계지침/(한식진흥원) 징계지침.json"
+            "target_git_path_guess": "(한식진흥원) 징계지침/(한식진흥원) 징계지침.json",
+            "target_git_path": "(한식진흥원) 징계지침/(한식진흥원) 징계지침.json",
+            "target_git_file_path": "(한식진흥원) 징계지침/별지/별지8_출석통지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -307,7 +330,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(한식진흥원)징계지침#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한식진흥원) 징계지침/(한식진흥원) 징계지침.json"
+            "target_git_path_guess": "(한식진흥원) 징계지침/(한식진흥원) 징계지침.json",
+            "target_git_path": "(한식진흥원) 징계지침/(한식진흥원) 징계지침.json",
+            "target_git_file_path": "(한식진흥원) 징계지침/별표/별표1_징계양정의 기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -332,7 +360,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:(한식진흥원)징계지침#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한식진흥원) 징계지침/(한식진흥원) 징계지침.json"
+            "target_git_path_guess": "(한식진흥원) 징계지침/(한식진흥원) 징계지침.json",
+            "target_git_path": "(한식진흥원) 징계지침/(한식진흥원) 징계지침.json",
+            "target_git_file_path": "(한식진흥원) 징계지침/별표/별표2_청렴 의무 위반 기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -357,7 +390,12 @@
             "target_unit": "BYL0004",
             "reference_id": "SchlPubRul:(한식진흥원)징계지침#BYL0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한식진흥원) 징계지침/(한식진흥원) 징계지침.json"
+            "target_git_path_guess": "(한식진흥원) 징계지침/(한식진흥원) 징계지침.json",
+            "target_git_path": "(한식진흥원) 징계지침/(한식진흥원) 징계지침.json",
+            "target_git_file_path": "(한식진흥원) 징계지침/별표/별표4_채용비위자 징계기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -382,7 +420,12 @@
             "target_unit": "BYL0005",
             "reference_id": "SchlPubRul:(한식진흥원)징계지침#BYL0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한식진흥원) 징계지침/(한식진흥원) 징계지침.json"
+            "target_git_path_guess": "(한식진흥원) 징계지침/(한식진흥원) 징계지침.json",
+            "target_git_path": "(한식진흥원) 징계지침/(한식진흥원) 징계지침.json",
+            "target_git_file_path": "(한식진흥원) 징계지침/별표/별표5_음주운전 징계기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -402,7 +445,9 @@
             "source_provision_id": "SchlPubRul:(한식진흥원)징계지침#JO0009",
             "reference_id": "law:공무원징계령시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json"
+            "target_git_path_guess": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json",
+            "target_git_path": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -422,7 +467,9 @@
             "source_provision_id": "SchlPubRul:(한식진흥원)징계지침#JO0009",
             "reference_id": "law:공무원징계령시행규칙#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json"
+            "target_git_path_guess": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json",
+            "target_git_path": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -459,7 +506,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(한식진흥원)징계지침#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한식진흥원) 징계지침/(한식진흥원) 징계지침.json"
+            "target_git_path_guess": "(한식진흥원) 징계지침/(한식진흥원) 징계지침.json",
+            "target_git_path": "(한식진흥원) 징계지침/(한식진흥원) 징계지침.json",
+            "target_git_file_path": "(한식진흥원) 징계지침/별지/별지2_징계의결서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -479,7 +531,9 @@
             "source_provision_id": "SchlPubRul:(한식진흥원)징계지침#JO0010",
             "reference_id": "law:성폭력범죄의처벌등에관한특례법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json"
+            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
+            "target_git_path": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -499,7 +553,9 @@
             "source_provision_id": "SchlPubRul:(한식진흥원)징계지침#JO0010",
             "reference_id": "law:성폭력범죄의처벌등에관한특례법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json"
+            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
+            "target_git_path": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -519,7 +575,9 @@
             "source_provision_id": "SchlPubRul:(한식진흥원)징계지침#JO0010",
             "reference_id": "law:양성평등기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json"
+            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json",
+            "target_git_path": "양성평등기본법/법률/양성평등기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -539,7 +597,9 @@
             "source_provision_id": "SchlPubRul:(한식진흥원)징계지침#JO0010",
             "reference_id": "law:양성평등기본법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json"
+            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json",
+            "target_git_path": "양성평등기본법/법률/양성평등기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -559,7 +619,9 @@
             "source_provision_id": "SchlPubRul:(한식진흥원)징계지침#JO0010",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -579,7 +641,9 @@
             "source_provision_id": "SchlPubRul:(한식진흥원)징계지침#JO0010",
             "reference_id": "law:근로기준법#JO0076_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -604,7 +668,12 @@
             "target_unit": "BJ0009",
             "reference_id": "SchlPubRul:(한식진흥원)징계지침#BJ0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한식진흥원) 징계지침/(한식진흥원) 징계지침.json"
+            "target_git_path_guess": "(한식진흥원) 징계지침/(한식진흥원) 징계지침.json",
+            "target_git_path": "(한식진흥원) 징계지침/(한식진흥원) 징계지침.json",
+            "target_git_file_path": "(한식진흥원) 징계지침/별지/별지9_징계처분결과 통보서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -641,7 +710,12 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:(한식진흥원)징계지침#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한식진흥원) 징계지침/(한식진흥원) 징계지침.json"
+            "target_git_path_guess": "(한식진흥원) 징계지침/(한식진흥원) 징계지침.json",
+            "target_git_path": "(한식진흥원) 징계지침/(한식진흥원) 징계지침.json",
+            "target_git_file_path": "(한식진흥원) 징계지침/별표/별표3_비위행위자와 감독자에 대한 문책 기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -666,7 +740,12 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:(한식진흥원)징계지침#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한식진흥원) 징계지침/(한식진흥원) 징계지침.json"
+            "target_git_path_guess": "(한식진흥원) 징계지침/(한식진흥원) 징계지침.json",
+            "target_git_path": "(한식진흥원) 징계지침/(한식진흥원) 징계지침.json",
+            "target_git_file_path": "(한식진흥원) 징계지침/별표/별표3_비위행위자와 감독자에 대한 문책 기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -691,7 +770,12 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:(한식진흥원)징계지침#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한식진흥원) 징계지침/(한식진흥원) 징계지침.json"
+            "target_git_path_guess": "(한식진흥원) 징계지침/(한식진흥원) 징계지침.json",
+            "target_git_path": "(한식진흥원) 징계지침/(한식진흥원) 징계지침.json",
+            "target_git_file_path": "(한식진흥원) 징계지침/별표/별표3_비위행위자와 감독자에 대한 문책 기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -728,7 +812,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:(한식진흥원)징계지침#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한식진흥원) 징계지침/(한식진흥원) 징계지침.json"
+            "target_git_path_guess": "(한식진흥원) 징계지침/(한식진흥원) 징계지침.json",
+            "target_git_path": "(한식진흥원) 징계지침/(한식진흥원) 징계지침.json",
+            "target_git_file_path": "(한식진흥원) 징계지침/별지/별지3_재심청구서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -760,7 +849,9 @@
             "source_provision_id": "SchlPubRul:(한식진흥원)징계지침#JO0013",
             "reference_id": "law:공무원징계령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원징계령/법률/공무원징계령.json"
+            "target_git_path_guess": "공무원징계령/법률/공무원징계령.json",
+            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

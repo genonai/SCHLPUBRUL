@@ -205,7 +205,11 @@
             "source_provision_id": "SchlPubRul:(서울특별시구로구시설관리공단)체육시설이용규정#JO0012",
             "reference_id": "admrul:소비자분쟁해결기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "소비자분쟁해결기준/소비자분쟁해결기준.json"
+            "target_git_path_guess": "소비자분쟁해결기준/소비자분쟁해결기준.json",
+            "target_git_path": "소비자분쟁해결기준/소비자분쟁해결기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],

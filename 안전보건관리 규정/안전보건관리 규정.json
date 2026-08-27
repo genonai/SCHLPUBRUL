@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:안전보건관리규정#JO0001",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -85,7 +87,9 @@
             "source_provision_id": "SchlPubRul:안전보건관리규정#JO0001",
             "reference_id": "law:중대재해처벌등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중대재해 처벌 등에 관한 법률/법률/중대재해 처벌 등에 관한 법률.json"
+            "target_git_path_guess": "중대재해 처벌 등에 관한 법률/법률/중대재해 처벌 등에 관한 법률.json",
+            "target_git_path": "중대재해 처벌 등에 관한 법률/법률/중대재해 처벌 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -105,7 +109,9 @@
             "source_provision_id": "SchlPubRul:안전보건관리규정#JO0001",
             "reference_id": "law:재난및안전관리기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json"
+            "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+            "target_git_path": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -135,9 +141,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:안전보건관리규정#JO0002",
-            "reference_id": "SchlPubRul:인사규정#DOC",
+            "reference_id": "SchlPubRul:인사규정:public_2130247#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json"
+            "target_git_path_guess": "인사규정/인사규정.json",
+            "target_candidates": 4,
+            "target_git_path": "인사규정/public_2130247/인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -157,7 +168,9 @@
             "source_provision_id": "SchlPubRul:안전보건관리규정#JO0002",
             "reference_id": "law:산업안전보건법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -177,7 +190,9 @@
             "source_provision_id": "SchlPubRul:안전보건관리규정#JO0002",
             "reference_id": "law:산업안전보건법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -197,7 +212,9 @@
             "source_provision_id": "SchlPubRul:안전보건관리규정#JO0002",
             "reference_id": "law:산업안전보건기준에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -217,7 +234,9 @@
             "source_provision_id": "SchlPubRul:안전보건관리규정#JO0002",
             "reference_id": "law:중대재해처벌등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중대재해 처벌 등에 관한 법률/법률/중대재해 처벌 등에 관한 법률.json"
+            "target_git_path_guess": "중대재해 처벌 등에 관한 법률/법률/중대재해 처벌 등에 관한 법률.json",
+            "target_git_path": "중대재해 처벌 등에 관한 법률/법률/중대재해 처벌 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -247,9 +266,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/취업규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:안전보건관리규정#JO0003",
-            "reference_id": "SchlPubRul:취업규정#DOC",
+            "reference_id": "SchlPubRul:취업규정:public_2141121#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "취업규정/취업규정.json"
+            "target_git_path_guess": "취업규정/취업규정.json",
+            "target_candidates": 2,
+            "target_git_path": "취업규정/public_2141121/취업규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -297,7 +321,13 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:안전보건관리규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "안전보건관리 규정/안전보건관리 규정.json"
+            "target_git_path_guess": "안전보건관리 규정/안전보건관리 규정.json",
+            "target_candidates": 2,
+            "target_git_path": "안전보건관리규정/안전보건관리규정.json",
+            "target_git_file_path": "안전보건관리규정/별표/별표1_안건보건관리 조직 구성도.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -329,7 +359,9 @@
             "source_provision_id": "SchlPubRul:안전보건관리규정#JO0006",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -381,9 +413,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/보수규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:안전보건관리규정#JO0007_03",
-            "reference_id": "SchlPubRul:보수규정#DOC",
+            "reference_id": "SchlPubRul:보수규정:public_2128339#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "보수규정/보수규정.json"
+            "target_git_path_guess": "보수규정/보수규정.json",
+            "target_candidates": 3,
+            "target_git_path": "보수규정/public_2128339/보수규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -426,7 +463,12 @@
             "source_provision_id": "SchlPubRul:안전보건관리규정#JO0008",
             "reference_id": "SchlPubRul:안전보건관리규정#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "안전보건관리 규정/안전보건관리 규정.json"
+            "target_git_path_guess": "안전보건관리 규정/안전보건관리 규정.json",
+            "target_candidates": 2,
+            "target_git_path": "안전보건관리규정/안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -444,9 +486,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/취업규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:안전보건관리규정#JO0008",
-            "reference_id": "SchlPubRul:취업규정#DOC",
+            "reference_id": "SchlPubRul:취업규정:public_2141121#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "취업규정/취업규정.json"
+            "target_git_path_guess": "취업규정/취업규정.json",
+            "target_candidates": 2,
+            "target_git_path": "취업규정/public_2141121/취업규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -464,9 +511,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/취업규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:안전보건관리규정#JO0008",
-            "reference_id": "SchlPubRul:취업규정#DOC",
+            "reference_id": "SchlPubRul:취업규정:public_2141121#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "취업규정/취업규정.json"
+            "target_git_path_guess": "취업규정/취업규정.json",
+            "target_candidates": 2,
+            "target_git_path": "취업규정/public_2141121/취업규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -486,7 +538,9 @@
             "source_provision_id": "SchlPubRul:안전보건관리규정#JO0008",
             "reference_id": "law:산업안전보건법#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -526,7 +580,9 @@
             "source_provision_id": "SchlPubRul:안전보건관리규정#JO0008",
             "reference_id": "law:산업안전보건법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -546,7 +602,9 @@
             "source_provision_id": "SchlPubRul:안전보건관리규정#JO0008",
             "reference_id": "law:산업안전보건법시행규칙#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -578,7 +636,12 @@
             "source_provision_id": "SchlPubRul:안전보건관리규정#JO0009",
             "reference_id": "SchlPubRul:안전보건관리규정#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "안전보건관리 규정/안전보건관리 규정.json"
+            "target_git_path_guess": "안전보건관리 규정/안전보건관리 규정.json",
+            "target_candidates": 2,
+            "target_git_path": "안전보건관리규정/안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -596,9 +659,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/취업규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:안전보건관리규정#JO0009",
-            "reference_id": "SchlPubRul:취업규정#DOC",
+            "reference_id": "SchlPubRul:취업규정:public_2141121#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "취업규정/취업규정.json"
+            "target_git_path_guess": "취업규정/취업규정.json",
+            "target_candidates": 2,
+            "target_git_path": "취업규정/public_2141121/취업규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -616,9 +684,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/취업규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:안전보건관리규정#JO0009",
-            "reference_id": "SchlPubRul:취업규정#DOC",
+            "reference_id": "SchlPubRul:취업규정:public_2141121#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "취업규정/취업규정.json"
+            "target_git_path_guess": "취업규정/취업규정.json",
+            "target_candidates": 2,
+            "target_git_path": "취업규정/public_2141121/취업규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -638,7 +711,9 @@
             "source_provision_id": "SchlPubRul:안전보건관리규정#JO0009",
             "reference_id": "law:산업안전보건법#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -678,7 +753,9 @@
             "source_provision_id": "SchlPubRul:안전보건관리규정#JO0009",
             "reference_id": "law:산업안전보건법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -698,7 +775,9 @@
             "source_provision_id": "SchlPubRul:안전보건관리규정#JO0009",
             "reference_id": "law:산업안전보건법시행규칙#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -730,7 +809,9 @@
             "source_provision_id": "SchlPubRul:안전보건관리규정#JO0010",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -750,7 +831,11 @@
             "source_provision_id": "SchlPubRul:안전보건관리규정#JO0010",
             "reference_id": "SchlPubRul:산업안전보건위원회운영지침#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "산업안전보건위원회 운영지침/산업안전보건위원회 운영지침.json"
+            "target_git_path_guess": "산업안전보건위원회 운영지침/산업안전보건위원회 운영지침.json",
+            "target_git_path": "산업안전보건위원회 운영지침/산업안전보건위원회 운영지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -782,7 +867,11 @@
             "source_provision_id": "SchlPubRul:안전보건관리규정#JO0011",
             "reference_id": "SchlPubRul:안전보건경영위원회운영지침#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "안전보건경영위원회 운영지침/안전보건경영위원회 운영지침.json"
+            "target_git_path_guess": "안전보건경영위원회 운영지침/안전보건경영위원회 운영지침.json",
+            "target_git_path": "안전보건경영위원회 운영지침/안전보건경영위원회 운영지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -836,7 +925,9 @@
             "source_provision_id": "SchlPubRul:안전보건관리규정#JO0014",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -978,7 +1069,9 @@
             "source_provision_id": "SchlPubRul:안전보건관리규정#JO0022",
             "reference_id": "law:고압가스안전관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고압가스 안전관리법/법률/고압가스 안전관리법.json"
+            "target_git_path_guess": "고압가스 안전관리법/법률/고압가스 안전관리법.json",
+            "target_git_path": "고압가스 안전관리법/법률/고압가스 안전관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -998,7 +1091,9 @@
             "source_provision_id": "SchlPubRul:안전보건관리규정#JO0022",
             "reference_id": "law:전기사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기사업법/법률/전기사업법.json"
+            "target_git_path_guess": "전기사업법/법률/전기사업법.json",
+            "target_git_path": "전기사업법/법률/전기사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1018,7 +1113,9 @@
             "source_provision_id": "SchlPubRul:안전보건관리규정#JO0022",
             "reference_id": "law:에너지이용합리화법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "에너지이용 합리화법/법률/에너지이용 합리화법.json"
+            "target_git_path_guess": "에너지이용 합리화법/법률/에너지이용 합리화법.json",
+            "target_git_path": "에너지이용 합리화법/법률/에너지이용 합리화법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1083,7 +1180,9 @@
             "source_provision_id": "SchlPubRul:안전보건관리규정#JO0026",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1126,7 +1225,9 @@
             "source_provision_id": "SchlPubRul:안전보건관리규정#JO0028",
             "reference_id": "law:산업안전보건기준에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1158,7 +1259,9 @@
             "source_provision_id": "SchlPubRul:안전보건관리규정#JO0029",
             "reference_id": "law:산업안전보건기준에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1243,9 +1346,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:안전보건관리규정#JO0035",
-            "reference_id": "SchlPubRul:인사규정#DOC",
+            "reference_id": "SchlPubRul:인사규정:public_2130247#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json"
+            "target_git_path_guess": "인사규정/인사규정.json",
+            "target_candidates": 4,
+            "target_git_path": "인사규정/public_2130247/인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],

@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:아산시시설관리공단정관#JO0001",
             "reference_id": "law:지방공기업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -83,7 +85,11 @@
             "target_url": "https://www.law.go.kr/자치법규/아산시 시설관리공단 설립 및 운영에 관한 조례",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:아산시시설관리공단정관#JO0001",
-            "reference_id": "ordin:아산시시설관리공단설립및운영에관한조례#DOC"
+            "reference_id": "ordin:아산시시설관리공단설립및운영에관한조례#DOC",
+            "target_git_path": "아산시시설관리공단 설립 및 운영에 관한 조례/아산시시설관리공단 설립 및 운영에 관한 조례.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -159,7 +165,9 @@
             "source_provision_id": "SchlPubRul:아산시시설관리공단정관#JO0006",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -191,7 +199,11 @@
             "source_provision_id": "SchlPubRul:아산시시설관리공단정관#JO0007",
             "reference_id": "SchlPubRul:아산시시설관리공단정관#JO0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "아산시시설관리공단 정관/아산시시설관리공단 정관.json"
+            "target_git_path_guess": "아산시시설관리공단 정관/아산시시설관리공단 정관.json",
+            "target_git_path": "아산시시설관리공단 정관/아산시시설관리공단 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -256,7 +268,9 @@
             "source_provision_id": "SchlPubRul:아산시시설관리공단정관#JO0011",
             "reference_id": "law:지방공기업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -276,7 +290,9 @@
             "source_provision_id": "SchlPubRul:아산시시설관리공단정관#JO0011",
             "reference_id": "law:지방공기업법#JO0058",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -308,7 +324,9 @@
             "source_provision_id": "SchlPubRul:아산시시설관리공단정관#JO0012",
             "reference_id": "law:지방공기업법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/시행령/지방공기업법 시행령.json"
+            "target_git_path_guess": "지방공기업법/시행령/지방공기업법 시행령.json",
+            "target_git_path": "지방공기업법/시행령/지방공기업법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -328,7 +346,9 @@
             "source_provision_id": "SchlPubRul:아산시시설관리공단정관#JO0012",
             "reference_id": "law:지방공기업법시행령#JO0056_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/시행령/지방공기업법 시행령.json"
+            "target_git_path_guess": "지방공기업법/시행령/지방공기업법 시행령.json",
+            "target_git_path": "지방공기업법/시행령/지방공기업법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -376,7 +396,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:아산시시설관리공단정관#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "아산시시설관리공단 정관/아산시시설관리공단 정관.json"
+            "target_git_path_guess": "아산시시설관리공단 정관/아산시시설관리공단 정관.json",
+            "target_git_path": "아산시시설관리공단 정관/아산시시설관리공단 정관.json",
+            "target_git_file_path": "아산시시설관리공단 정관/별표/별표1_[별표1-2] 정관 21차 개정(2026.4.13.).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -401,7 +426,8 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:아산시시설관리공단정관#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "아산시시설관리공단 정관/아산시시설관리공단 정관.json"
+            "target_git_path_guess": "아산시시설관리공단 정관/아산시시설관리공단 정관.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -444,7 +470,9 @@
             "source_provision_id": "SchlPubRul:아산시시설관리공단정관#JO0016",
             "reference_id": "law:지방공기업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -464,7 +492,9 @@
             "source_provision_id": "SchlPubRul:아산시시설관리공단정관#JO0016",
             "reference_id": "law:지방공기업법#JO0060",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -484,7 +514,9 @@
             "source_provision_id": "SchlPubRul:아산시시설관리공단정관#JO0016",
             "reference_id": "law:지방공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json"
+            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json",
+            "target_git_path": "지방공무원법/법률/지방공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -504,7 +536,9 @@
             "source_provision_id": "SchlPubRul:아산시시설관리공단정관#JO0016",
             "reference_id": "law:지방공무원법#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json"
+            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json",
+            "target_git_path": "지방공무원법/법률/지방공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -524,7 +558,9 @@
             "source_provision_id": "SchlPubRul:아산시시설관리공단정관#JO0016",
             "reference_id": "law:지방공기업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -765,7 +801,11 @@
             "source_provision_id": "SchlPubRul:아산시시설관리공단정관#JO0036",
             "reference_id": "SchlPubRul:아산시시설관리공단정관#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "아산시시설관리공단 정관/아산시시설관리공단 정관.json"
+            "target_git_path_guess": "아산시시설관리공단 정관/아산시시설관리공단 정관.json",
+            "target_git_path": "아산시시설관리공단 정관/아산시시설관리공단 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -830,7 +870,9 @@
             "source_provision_id": "SchlPubRul:아산시시설관리공단정관#JO0040",
             "reference_id": "law:지방공기업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -850,7 +892,9 @@
             "source_provision_id": "SchlPubRul:아산시시설관리공단정관#JO0040",
             "reference_id": "law:지방공기업법#JO0077_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

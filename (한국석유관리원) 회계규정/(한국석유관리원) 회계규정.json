@@ -227,7 +227,11 @@
             "source_provision_id": "SchlPubRul:(한국석유관리원)회계규정#JO0012",
             "reference_id": "SchlPubRul:(한국석유관리원)회계규정#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국석유관리원) 회계규정/(한국석유관리원) 회계규정.json"
+            "target_git_path_guess": "(한국석유관리원) 회계규정/(한국석유관리원) 회계규정.json",
+            "target_git_path": "(한국석유관리원) 회계규정/(한국석유관리원) 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -259,7 +263,9 @@
             "source_provision_id": "SchlPubRul:(한국석유관리원)회계규정#JO0013",
             "reference_id": "law:채무자회생및파산에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "채무자 회생 및 파산에 관한 법률/법률/채무자 회생 및 파산에 관한 법률.json"
+            "target_git_path_guess": "채무자 회생 및 파산에 관한 법률/법률/채무자 회생 및 파산에 관한 법률.json",
+            "target_git_path": "채무자 회생 및 파산에 관한 법률/법률/채무자 회생 및 파산에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -356,7 +362,11 @@
             "source_provision_id": "SchlPubRul:(한국석유관리원)회계규정#JO0018",
             "reference_id": "admrul:전자기록의보전방법등에관한고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "전자기록의보전방법등에관한고시/전자기록의보전방법등에관한고시.json"
+            "target_git_path_guess": "전자기록의보전방법등에관한고시/전자기록의보전방법등에관한고시.json",
+            "target_git_path": "전자기록의 보전방법 등에 관한 고시/전자기록의 보전방법 등에 관한 고시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -487,7 +497,9 @@
             "source_provision_id": "SchlPubRul:(한국석유관리원)회계규정#JO0028",
             "reference_id": "law:여신전문금융업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "여신전문금융업법/법률/여신전문금융업법.json"
+            "target_git_path_guess": "여신전문금융업법/법률/여신전문금융업법.json",
+            "target_git_path": "여신전문금융업법/법률/여신전문금융업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -530,7 +542,9 @@
             "source_provision_id": "SchlPubRul:(한국석유관리원)회계규정#JO0030",
             "reference_id": "law:부가가치세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json"
+            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json",
+            "target_git_path": "부가가치세법/법률/부가가치세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -550,7 +564,9 @@
             "source_provision_id": "SchlPubRul:(한국석유관리원)회계규정#JO0030",
             "reference_id": "law:부가가치세법#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json"
+            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json",
+            "target_git_path": "부가가치세법/법률/부가가치세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -570,7 +586,9 @@
             "source_provision_id": "SchlPubRul:(한국석유관리원)회계규정#JO0030",
             "reference_id": "law:소득세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소득세법/법률/소득세법.json"
+            "target_git_path_guess": "소득세법/법률/소득세법.json",
+            "target_git_path": "소득세법/법률/소득세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -590,7 +608,9 @@
             "source_provision_id": "SchlPubRul:(한국석유관리원)회계규정#JO0030",
             "reference_id": "law:소득세법#JO0163",
             "target_repo": "LAW",
-            "target_git_path_guess": "소득세법/법률/소득세법.json"
+            "target_git_path_guess": "소득세법/법률/소득세법.json",
+            "target_git_path": "소득세법/법률/소득세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -610,7 +630,9 @@
             "source_provision_id": "SchlPubRul:(한국석유관리원)회계규정#JO0030",
             "reference_id": "law:여신전문금융업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "여신전문금융업법/법률/여신전문금융업법.json"
+            "target_git_path_guess": "여신전문금융업법/법률/여신전문금융업법.json",
+            "target_git_path": "여신전문금융업법/법률/여신전문금융업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -763,7 +785,9 @@
             "source_provision_id": "SchlPubRul:(한국석유관리원)회계규정#JO0042",
             "reference_id": "law:은행법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "은행법/법률/은행법.json"
+            "target_git_path_guess": "은행법/법률/은행법.json",
+            "target_git_path": "은행법/법률/은행법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -806,7 +830,11 @@
             "source_provision_id": "SchlPubRul:(한국석유관리원)회계규정#JO0044",
             "reference_id": "SchlPubRul:(한국석유관리원)회계규정#JO0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국석유관리원) 회계규정/(한국석유관리원) 회계규정.json"
+            "target_git_path_guess": "(한국석유관리원) 회계규정/(한국석유관리원) 회계규정.json",
+            "target_git_path": "(한국석유관리원) 회계규정/(한국석유관리원) 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -937,7 +965,9 @@
             "source_provision_id": "SchlPubRul:(한국석유관리원)회계규정#JO0054",
             "reference_id": "law:산업재해보상보험법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업재해보상보험법/법률/산업재해보상보험법.json"
+            "target_git_path_guess": "산업재해보상보험법/법률/산업재해보상보험법.json",
+            "target_git_path": "산업재해보상보험법/법률/산업재해보상보험법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1475,7 +1505,9 @@
             "source_provision_id": "SchlPubRul:(한국석유관리원)회계규정#JO0101",
             "reference_id": "law:공인회계사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공인회계사법/법률/공인회계사법.json"
+            "target_git_path_guess": "공인회계사법/법률/공인회계사법.json",
+            "target_git_path": "공인회계사법/법률/공인회계사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1495,7 +1527,9 @@
             "source_provision_id": "SchlPubRul:(한국석유관리원)회계규정#JO0101",
             "reference_id": "law:공인회계사법#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "공인회계사법/법률/공인회계사법.json"
+            "target_git_path_guess": "공인회계사법/법률/공인회계사법.json",
+            "target_git_path": "공인회계사법/법률/공인회계사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1515,7 +1549,9 @@
             "source_provision_id": "SchlPubRul:(한국석유관리원)회계규정#JO0101",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1535,7 +1571,9 @@
             "source_provision_id": "SchlPubRul:(한국석유관리원)회계규정#JO0101",
             "reference_id": "law:공공기관의운영에관한법률#JO0043",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1600,7 +1638,11 @@
             "source_provision_id": "SchlPubRul:(한국석유관리원)회계규정#JO0105",
             "reference_id": "SchlPubRul:(한국석유관리원)회계규정#JO0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국석유관리원) 회계규정/(한국석유관리원) 회계규정.json"
+            "target_git_path_guess": "(한국석유관리원) 회계규정/(한국석유관리원) 회계규정.json",
+            "target_git_path": "(한국석유관리원) 회계규정/(한국석유관리원) 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1775,7 +1817,11 @@
             "source_provision_id": "SchlPubRul:(한국석유관리원)회계규정#JO0119",
             "reference_id": "SchlPubRul:(한국석유관리원)회계규정#JO0020",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국석유관리원) 회계규정/(한국석유관리원) 회계규정.json"
+            "target_git_path_guess": "(한국석유관리원) 회계규정/(한국석유관리원) 회계규정.json",
+            "target_git_path": "(한국석유관리원) 회계규정/(한국석유관리원) 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1818,7 +1864,11 @@
             "source_provision_id": "SchlPubRul:(한국석유관리원)회계규정#JO0121",
             "reference_id": "SchlPubRul:(한국석유관리원)회계규정#JO0113",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국석유관리원) 회계규정/(한국석유관리원) 회계규정.json"
+            "target_git_path_guess": "(한국석유관리원) 회계규정/(한국석유관리원) 회계규정.json",
+            "target_git_path": "(한국석유관리원) 회계규정/(한국석유관리원) 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1850,7 +1900,11 @@
             "source_provision_id": "SchlPubRul:(한국석유관리원)회계규정#JO0122",
             "reference_id": "SchlPubRul:(한국석유관리원)회계규정#JO0114",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국석유관리원) 회계규정/(한국석유관리원) 회계규정.json"
+            "target_git_path_guess": "(한국석유관리원) 회계규정/(한국석유관리원) 회계규정.json",
+            "target_git_path": "(한국석유관리원) 회계규정/(한국석유관리원) 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

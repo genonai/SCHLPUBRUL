@@ -76,7 +76,9 @@
             "source_provision_id": "SchlPubRul:(한국토지주택공사)주택분양규정#JO0002",
             "reference_id": "law:건축법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건축법/법률/건축법.json"
+            "target_git_path_guess": "건축법/법률/건축법.json",
+            "target_git_path": "건축법/법률/건축법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -96,7 +98,9 @@
             "source_provision_id": "SchlPubRul:(한국토지주택공사)주택분양규정#JO0002",
             "reference_id": "law:주택법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "주택법/법률/주택법.json"
+            "target_git_path_guess": "주택법/법률/주택법.json",
+            "target_git_path": "주택법/법률/주택법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -116,7 +120,9 @@
             "source_provision_id": "SchlPubRul:(한국토지주택공사)주택분양규정#JO0002",
             "reference_id": "law:주택법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "주택법/법률/주택법.json"
+            "target_git_path_guess": "주택법/법률/주택법.json",
+            "target_git_path": "주택법/법률/주택법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -181,7 +187,9 @@
             "source_provision_id": "SchlPubRul:(한국토지주택공사)주택분양규정#JO0006",
             "reference_id": "law:공공주택특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공주택 특별법/법률/공공주택 특별법.json"
+            "target_git_path_guess": "공공주택 특별법/법률/공공주택 특별법.json",
+            "target_git_path": "공공주택 특별법/법률/공공주택 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -201,7 +209,9 @@
             "source_provision_id": "SchlPubRul:(한국토지주택공사)주택분양규정#JO0006",
             "reference_id": "law:주택공급에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "주택공급에 관한 규칙/법률/주택공급에 관한 규칙.json"
+            "target_git_path_guess": "주택공급에 관한 규칙/법률/주택공급에 관한 규칙.json",
+            "target_git_path": "주택공급에 관한 규칙/법률/주택공급에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -221,7 +231,9 @@
             "source_provision_id": "SchlPubRul:(한국토지주택공사)주택분양규정#JO0006",
             "reference_id": "law:주거기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "주거기본법/법률/주거기본법.json"
+            "target_git_path_guess": "주거기본법/법률/주거기본법.json",
+            "target_git_path": "주거기본법/법률/주거기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -241,7 +253,9 @@
             "source_provision_id": "SchlPubRul:(한국토지주택공사)주택분양규정#JO0006",
             "reference_id": "law:주택법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "주택법/법률/주택법.json"
+            "target_git_path_guess": "주택법/법률/주택법.json",
+            "target_git_path": "주택법/법률/주택법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -306,7 +320,9 @@
             "source_provision_id": "SchlPubRul:(한국토지주택공사)주택분양규정#JO0010",
             "reference_id": "law:공공주택특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공주택 특별법/법률/공공주택 특별법.json"
+            "target_git_path_guess": "공공주택 특별법/법률/공공주택 특별법.json",
+            "target_git_path": "공공주택 특별법/법률/공공주택 특별법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -360,7 +376,11 @@
             "source_provision_id": "SchlPubRul:(한국토지주택공사)주택분양규정#JO0013",
             "reference_id": "SchlPubRul:(한국토지주택공사)주택분양규정#JO0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국토지주택공사) 주택분양규정/(한국토지주택공사) 주택분양규정.json"
+            "target_git_path_guess": "(한국토지주택공사) 주택분양규정/(한국토지주택공사) 주택분양규정.json",
+            "target_git_path": "(한국토지주택공사) 주택분양규정/(한국토지주택공사) 주택분양규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -392,7 +412,9 @@
             "source_provision_id": "SchlPubRul:(한국토지주택공사)주택분양규정#JO0014",
             "reference_id": "law:감정평가및감정평가사에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "감정평가 및 감정평가사에 관한 법률/법률/감정평가 및 감정평가사에 관한 법률.json"
+            "target_git_path_guess": "감정평가 및 감정평가사에 관한 법률/법률/감정평가 및 감정평가사에 관한 법률.json",
+            "target_git_path": "감정평가 및 감정평가사에 관한 법률/법률/감정평가 및 감정평가사에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

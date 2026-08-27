@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0001",
             "reference_id": "law:건설산업기본법#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설산업기본법/법률/건설산업기본법.json"
+            "target_git_path_guess": "건설산업기본법/법률/건설산업기본법.json",
+            "target_git_path": "건설산업기본법/법률/건설산업기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -85,7 +87,9 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0001",
             "reference_id": "law:건설산업기본법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설산업기본법/시행령/건설산업기본법 시행령.json"
+            "target_git_path_guess": "건설산업기본법/시행령/건설산업기본법 시행령.json",
+            "target_git_path": "건설산업기본법/시행령/건설산업기본법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -105,7 +109,9 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0001",
             "reference_id": "law:건설산업기본법시행령#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설산업기본법/시행령/건설산업기본법 시행령.json"
+            "target_git_path_guess": "건설산업기본법/시행령/건설산업기본법 시행령.json",
+            "target_git_path": "건설산업기본법/시행령/건설산업기본법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -125,7 +131,9 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0001",
             "reference_id": "law:건설기술진흥법#JO0035",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설기술진흥법/법률/건설기술진흥법.json"
+            "target_git_path_guess": "건설기술진흥법/법률/건설기술진흥법.json",
+            "target_git_path": "건설기술 진흥법/법률/건설기술 진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -145,7 +153,9 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0001",
             "reference_id": "law:건설기술진흥법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설기술진흥법/시행규칙/건설기술진흥법 시행규칙.json"
+            "target_git_path_guess": "건설기술진흥법/시행규칙/건설기술진흥법 시행규칙.json",
+            "target_git_path": "건설기술 진흥법/시행규칙/건설기술 진흥법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -165,7 +175,9 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0001",
             "reference_id": "law:건설기술진흥법시행규칙#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설기술진흥법/시행규칙/건설기술진흥법 시행규칙.json"
+            "target_git_path_guess": "건설기술진흥법/시행규칙/건설기술진흥법 시행규칙.json",
+            "target_git_path": "건설기술 진흥법/시행규칙/건설기술 진흥법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -185,7 +197,11 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0001",
             "reference_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0042",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json"
+            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_path": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -205,7 +221,11 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0001",
             "reference_id": "admrul:건설공사하도급심사기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "건설공사 하도급심사기준/건설공사 하도급심사기준.json"
+            "target_git_path_guess": "건설공사 하도급심사기준/건설공사 하도급심사기준.json",
+            "target_git_path": "건설공사 하도급 심사기준/건설공사 하도급 심사기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -225,7 +245,11 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0001",
             "reference_id": "admrul:건설기술용역하도급관리지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "건설기술용역 하도급 관리지침/건설기술용역 하도급 관리지침.json"
+            "target_git_path_guess": "건설기술용역 하도급 관리지침/건설기술용역 하도급 관리지침.json",
+            "target_git_path": "건설기술용역 하도급 관리지침/건설기술용역 하도급 관리지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -257,7 +281,9 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0002",
             "reference_id": "law:건설산업기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설산업기본법/법률/건설산업기본법.json"
+            "target_git_path_guess": "건설산업기본법/법률/건설산업기본법.json",
+            "target_git_path": "건설산업기본법/법률/건설산업기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -277,7 +303,9 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0002",
             "reference_id": "law:전기공사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기공사업법/법률/전기공사업법.json"
+            "target_git_path_guess": "전기공사업법/법률/전기공사업법.json",
+            "target_git_path": "전기공사업법/법률/전기공사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -297,7 +325,9 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0002",
             "reference_id": "law:정보통신공사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보통신공사업법/법률/정보통신공사업법.json"
+            "target_git_path_guess": "정보통신공사업법/법률/정보통신공사업법.json",
+            "target_git_path": "정보통신공사업법/법률/정보통신공사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -317,7 +347,9 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0002",
             "reference_id": "law:사회기반시설에대한민간투자법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "사회기반시설에 대한 민간투자법/법률/사회기반시설에 대한 민간투자법.json"
+            "target_git_path_guess": "사회기반시설에 대한 민간투자법/법률/사회기반시설에 대한 민간투자법.json",
+            "target_git_path": "사회기반시설에 대한 민간투자법/법률/사회기반시설에 대한 민간투자법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -349,7 +381,9 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0003",
             "reference_id": "law:건설산업기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설산업기본법/법률/건설산업기본법.json"
+            "target_git_path_guess": "건설산업기본법/법률/건설산업기본법.json",
+            "target_git_path": "건설산업기본법/법률/건설산업기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -369,7 +403,9 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0003",
             "reference_id": "law:건설산업기본법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설산업기본법/법률/건설산업기본법.json"
+            "target_git_path_guess": "건설산업기본법/법률/건설산업기본법.json",
+            "target_git_path": "건설산업기본법/법률/건설산업기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -389,7 +425,9 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0003",
             "reference_id": "law:건설산업기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설산업기본법/법률/건설산업기본법.json"
+            "target_git_path_guess": "건설산업기본법/법률/건설산업기본법.json",
+            "target_git_path": "건설산업기본법/법률/건설산업기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -409,7 +447,9 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0003",
             "reference_id": "law:건설산업기본법#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설산업기본법/법률/건설산업기본법.json"
+            "target_git_path_guess": "건설산업기본법/법률/건설산업기본법.json",
+            "target_git_path": "건설산업기본법/법률/건설산업기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -429,7 +469,11 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0003",
             "reference_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json"
+            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_path": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -449,7 +493,9 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0003",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -469,7 +515,9 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0003",
             "reference_id": "law:산업안전보건법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -489,7 +537,9 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0003",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -509,7 +559,9 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0003",
             "reference_id": "law:근로기준법#JO0043_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -529,7 +581,9 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0003",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -549,7 +603,9 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0003",
             "reference_id": "law:산업안전보건법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -569,7 +625,9 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0003",
             "reference_id": "law:건설기술진흥법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설기술 진흥법/시행령/건설기술 진흥법 시행령.json"
+            "target_git_path_guess": "건설기술 진흥법/시행령/건설기술 진흥법 시행령.json",
+            "target_git_path": "건설기술 진흥법/시행령/건설기술 진흥법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -589,7 +647,9 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0003",
             "reference_id": "law:건설기술진흥법시행령#JO0105",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설기술 진흥법/시행령/건설기술 진흥법 시행령.json"
+            "target_git_path_guess": "건설기술 진흥법/시행령/건설기술 진흥법 시행령.json",
+            "target_git_path": "건설기술 진흥법/시행령/건설기술 진흥법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -609,7 +669,9 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0003",
             "reference_id": "law:철도안전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도안전법/법률/철도안전법.json"
+            "target_git_path_guess": "철도안전법/법률/철도안전법.json",
+            "target_git_path": "철도안전법/법률/철도안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -629,7 +691,9 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0003",
             "reference_id": "law:철도안전법#JO0061",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도안전법/법률/철도안전법.json"
+            "target_git_path_guess": "철도안전법/법률/철도안전법.json",
+            "target_git_path": "철도안전법/법률/철도안전법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -694,7 +758,11 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0007",
             "reference_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json"
+            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_path": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -719,7 +787,12 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:(국가철도공단)하도급관리지침#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json"
+            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_path": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_file_path": "(국가철도공단) 하도급 관리 지침/별표/별표3_하도급 심사항목 및 배점기준 (제6조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -739,7 +812,11 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0007",
             "reference_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0034",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json"
+            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_path": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -771,7 +848,11 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0008",
             "reference_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json"
+            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_path": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -796,7 +877,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(국가철도공단)하도급관리지침#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json"
+            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_path": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_file_path": "(국가철도공단) 하도급 관리 지침/별지/별지1_하도급심사 자기평가표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -816,7 +902,11 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0008",
             "reference_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json"
+            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_path": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -848,7 +938,11 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0009",
             "reference_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json"
+            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_path": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -873,7 +967,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(국가철도공단)하도급관리지침#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json"
+            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_path": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_file_path": "(국가철도공단) 하도급 관리 지침/별표/별표1_하도급 관련 흐름도.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -898,7 +997,12 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:(국가철도공단)하도급관리지침#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json"
+            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_path": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_file_path": "(국가철도공단) 하도급 관리 지침/별표/별표3_하도급 심사항목 및 배점기준 (제6조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -930,7 +1034,11 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0010",
             "reference_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json"
+            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_path": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -973,7 +1081,11 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0012",
             "reference_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json"
+            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_path": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -993,7 +1105,11 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0012",
             "reference_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json"
+            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_path": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1013,7 +1129,11 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0012",
             "reference_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json"
+            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_path": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1033,7 +1153,11 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0012",
             "reference_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json"
+            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_path": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -1053,7 +1177,9 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0012",
             "reference_id": "law:건설기술진흥법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설기술진흥법/법률/건설기술진흥법.json"
+            "target_git_path_guess": "건설기술진흥법/법률/건설기술진흥법.json",
+            "target_git_path": "건설기술 진흥법/법률/건설기술 진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1073,7 +1199,9 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0012",
             "reference_id": "law:건설기술진흥법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설기술진흥법/법률/건설기술진흥법.json"
+            "target_git_path_guess": "건설기술진흥법/법률/건설기술진흥법.json",
+            "target_git_path": "건설기술 진흥법/법률/건설기술 진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1093,7 +1221,9 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0012",
             "reference_id": "law:특허법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "특허법/법률/특허법.json"
+            "target_git_path_guess": "특허법/법률/특허법.json",
+            "target_git_path": "특허법/법률/특허법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1113,7 +1243,9 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0012",
             "reference_id": "law:특허법#JO0087",
             "target_repo": "LAW",
-            "target_git_path_guess": "특허법/법률/특허법.json"
+            "target_git_path_guess": "특허법/법률/특허법.json",
+            "target_git_path": "특허법/법률/특허법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1133,7 +1265,9 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0012",
             "reference_id": "law:특허법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "특허법/법률/특허법.json"
+            "target_git_path_guess": "특허법/법률/특허법.json",
+            "target_git_path": "특허법/법률/특허법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1153,7 +1287,9 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0012",
             "reference_id": "law:특허법#JO0100",
             "target_repo": "LAW",
-            "target_git_path_guess": "특허법/법률/특허법.json"
+            "target_git_path_guess": "특허법/법률/특허법.json",
+            "target_git_path": "특허법/법률/특허법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1173,7 +1309,9 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0012",
             "reference_id": "law:특허법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "특허법/법률/특허법.json"
+            "target_git_path_guess": "특허법/법률/특허법.json",
+            "target_git_path": "특허법/법률/특허법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1193,7 +1331,9 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0012",
             "reference_id": "law:특허법#JO0102",
             "target_repo": "LAW",
-            "target_git_path_guess": "특허법/법률/특허법.json"
+            "target_git_path_guess": "특허법/법률/특허법.json",
+            "target_git_path": "특허법/법률/특허법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1213,7 +1353,11 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0012",
             "reference_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json"
+            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_path": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1245,7 +1389,11 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0012_02",
             "reference_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json"
+            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_path": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1265,7 +1413,11 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0012_02",
             "reference_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json"
+            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_path": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1285,7 +1437,11 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0012_02",
             "reference_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json"
+            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_path": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1317,7 +1473,11 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0013",
             "reference_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json"
+            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_path": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1342,7 +1502,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:(국가철도공단)하도급관리지침#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json"
+            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_path": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_file_path": "(국가철도공단) 하도급 관리 지침/별표/별표2_하도급계약 통보시 제출 (제6조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1385,7 +1550,11 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0015",
             "reference_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json"
+            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_path": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1405,7 +1574,11 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0015",
             "reference_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json"
+            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_path": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1425,7 +1598,11 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0015",
             "reference_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json"
+            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_path": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1450,7 +1627,12 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:(국가철도공단)하도급관리지침#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json"
+            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_path": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_file_path": "(국가철도공단) 하도급 관리 지침/별표/별표3_하도급 심사항목 및 배점기준 (제6조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1475,7 +1657,12 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:(국가철도공단)하도급관리지침#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json"
+            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_path": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_file_path": "(국가철도공단) 하도급 관리 지침/별표/별표3_하도급 심사항목 및 배점기준 (제6조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1500,7 +1687,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(국가철도공단)하도급관리지침#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json"
+            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_path": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_file_path": "(국가철도공단) 하도급 관리 지침/별지/별지2_하도급 심사위원회 심사의결서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1554,7 +1746,9 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0018",
             "reference_id": "law:중소기업기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업기본법/법률/중소기업기본법.json"
+            "target_git_path_guess": "중소기업기본법/법률/중소기업기본법.json",
+            "target_git_path": "중소기업기본법/법률/중소기업기본법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1591,7 +1785,12 @@
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:(국가철도공단)하도급관리지침#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json"
+            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_path": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_file_path": "(국가철도공단) 하도급 관리 지침/별지/별지7_건설기술용역 표준하도급계약서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1623,7 +1822,11 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0020",
             "reference_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0031",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json"
+            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_path": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1648,7 +1851,12 @@
             "target_unit": "BJ0008",
             "reference_id": "SchlPubRul:(국가철도공단)하도급관리지침#BJ0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json"
+            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_path": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_file_path": "(국가철도공단) 하도급 관리 지침/별지/별지8_참여기술자 관리능력 평가표(제17조 및 18조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1673,7 +1881,12 @@
             "target_unit": "BJ0009",
             "reference_id": "SchlPubRul:(국가철도공단)하도급관리지침#BJ0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json"
+            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_path": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_file_path": "(국가철도공단) 하도급 관리 지침/별지/별지9_건설기술용역 하도급 계약 검토서(제20조 및 21조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -1730,7 +1943,12 @@
             "target_unit": "BJ0008",
             "reference_id": "SchlPubRul:(국가철도공단)하도급관리지침#BJ0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json"
+            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_path": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_file_path": "(국가철도공단) 하도급 관리 지침/별지/별지8_참여기술자 관리능력 평가표(제17조 및 18조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1755,7 +1973,12 @@
             "target_unit": "BJ0009",
             "reference_id": "SchlPubRul:(국가철도공단)하도급관리지침#BJ0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json"
+            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_path": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_file_path": "(국가철도공단) 하도급 관리 지침/별지/별지9_건설기술용역 하도급 계약 검토서(제20조 및 21조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1798,7 +2021,11 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0023",
             "reference_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0020",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json"
+            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_path": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1852,7 +2079,11 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0026",
             "reference_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0024",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json"
+            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_path": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1877,7 +2108,12 @@
             "target_unit": "BJ0011",
             "reference_id": "SchlPubRul:(국가철도공단)하도급관리지침#BJ0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json"
+            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_path": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_file_path": "(국가철도공단) 하도급 관리 지침/별지/별지11_신기술(특허공법) 사용협약서_예시_.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1942,7 +2178,11 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0030",
             "reference_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0017",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json"
+            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_path": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1962,7 +2202,11 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0030",
             "reference_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0017",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json"
+            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_path": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1982,7 +2226,11 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0030",
             "reference_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0018",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json"
+            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_path": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -2002,7 +2250,11 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0030",
             "reference_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0019",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json"
+            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_path": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -2022,7 +2274,11 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0030",
             "reference_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0020",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json"
+            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_path": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -2042,7 +2298,11 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0030",
             "reference_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0021",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json"
+            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_path": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -2062,7 +2322,11 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0030",
             "reference_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0022",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json"
+            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_path": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -2082,7 +2346,11 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0030",
             "reference_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0023",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json"
+            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_path": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2130,7 +2398,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(국가철도공단)하도급관리지침#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json"
+            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_path": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_file_path": "(국가철도공단) 하도급 관리 지침/별표/별표1_하도급 관련 흐름도.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2173,7 +2446,11 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0034",
             "reference_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0016",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json"
+            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_path": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2205,7 +2482,11 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0035",
             "reference_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0036",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json"
+            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_path": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2270,7 +2551,11 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0039",
             "reference_id": "SchlPubRul:(국가철도공단)하도급관리지침#JO0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json"
+            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_path": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2307,7 +2592,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(국가철도공단)하도급관리지침#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json"
+            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_path": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_file_path": "(국가철도공단) 하도급 관리 지침/별지/별지1_하도급심사 자기평가표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2344,7 +2634,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(국가철도공단)하도급관리지침#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json"
+            "target_git_path_guess": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_path": "(국가철도공단) 하도급 관리 지침/(국가철도공단) 하도급 관리 지침.json",
+            "target_git_file_path": "(국가철도공단) 하도급 관리 지침/별지/별지2_하도급 심사위원회 심사의결서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

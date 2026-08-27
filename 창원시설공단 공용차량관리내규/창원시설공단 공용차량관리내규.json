@@ -76,7 +76,9 @@
             "source_provision_id": "SchlPubRul:창원시설공단공용차량관리내규#JO0002",
             "reference_id": "law:자동차관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "자동차관리법/법률/자동차관리법.json"
+            "target_git_path_guess": "자동차관리법/법률/자동차관리법.json",
+            "target_git_path": "자동차관리법/법률/자동차관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -96,7 +98,9 @@
             "source_provision_id": "SchlPubRul:창원시설공단공용차량관리내규#JO0002",
             "reference_id": "law:자동차관리법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "자동차관리법/법률/자동차관리법.json"
+            "target_git_path_guess": "자동차관리법/법률/자동차관리법.json",
+            "target_git_path": "자동차관리법/법률/자동차관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -116,7 +120,9 @@
             "source_provision_id": "SchlPubRul:창원시설공단공용차량관리내규#JO0002",
             "reference_id": "law:여객자동차운수사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "여객자동차운수사업법/법률/여객자동차운수사업법.json"
+            "target_git_path_guess": "여객자동차운수사업법/법률/여객자동차운수사업법.json",
+            "target_git_path": "여객자동차 운수사업법/법률/여객자동차 운수사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -136,7 +142,9 @@
             "source_provision_id": "SchlPubRul:창원시설공단공용차량관리내규#JO0002",
             "reference_id": "law:여객자동차운수사업법#JO0029",
             "target_repo": "LAW",
-            "target_git_path_guess": "여객자동차운수사업법/법률/여객자동차운수사업법.json"
+            "target_git_path_guess": "여객자동차운수사업법/법률/여객자동차운수사업법.json",
+            "target_git_path": "여객자동차 운수사업법/법률/여객자동차 운수사업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -184,7 +192,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:창원시설공단공용차량관리내규#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 공용차량관리내규/창원시설공단 공용차량관리내규.json"
+            "target_git_path_guess": "창원시설공단 공용차량관리내규/창원시설공단 공용차량관리내규.json",
+            "target_git_path": "창원시설공단 공용차량관리내규/창원시설공단 공용차량관리내규.json",
+            "target_git_file_path": "창원시설공단 공용차량관리내규/별지/별지1_차량배차 신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -209,7 +222,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:창원시설공단공용차량관리내규#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 공용차량관리내규/창원시설공단 공용차량관리내규.json"
+            "target_git_path_guess": "창원시설공단 공용차량관리내규/창원시설공단 공용차량관리내규.json",
+            "target_git_path": "창원시설공단 공용차량관리내규/창원시설공단 공용차량관리내규.json",
+            "target_git_file_path": "창원시설공단 공용차량관리내규/별지/별지2_차량 유류 관리대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -234,7 +252,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:창원시설공단공용차량관리내규#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 공용차량관리내규/창원시설공단 공용차량관리내규.json"
+            "target_git_path_guess": "창원시설공단 공용차량관리내규/창원시설공단 공용차량관리내규.json",
+            "target_git_path": "창원시설공단 공용차량관리내규/창원시설공단 공용차량관리내규.json",
+            "target_git_file_path": "창원시설공단 공용차량관리내규/별지/별지3_차량운행 점검일지.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -259,7 +282,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:창원시설공단공용차량관리내규#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 공용차량관리내규/창원시설공단 공용차량관리내규.json"
+            "target_git_path_guess": "창원시설공단 공용차량관리내규/창원시설공단 공용차량관리내규.json",
+            "target_git_path": "창원시설공단 공용차량관리내규/창원시설공단 공용차량관리내규.json",
+            "target_git_file_path": "창원시설공단 공용차량관리내규/별지/별지4_차량 정비대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -307,7 +335,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:창원시설공단공용차량관리내규#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 공용차량관리내규/창원시설공단 공용차량관리내규.json"
+            "target_git_path_guess": "창원시설공단 공용차량관리내규/창원시설공단 공용차량관리내규.json",
+            "target_git_path": "창원시설공단 공용차량관리내규/창원시설공단 공용차량관리내규.json",
+            "target_git_file_path": "창원시설공단 공용차량관리내규/별표/별표1_차량의 차종ㆍ차형ㆍ배정대상 및 최단운행기준연한.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -372,7 +405,11 @@
             "source_provision_id": "SchlPubRul:창원시설공단공용차량관리내규#JO0010",
             "reference_id": "SchlPubRul:창원시설공단공용차량관리내규#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 공용차량관리내규/창원시설공단 공용차량관리내규.json"
+            "target_git_path_guess": "창원시설공단 공용차량관리내규/창원시설공단 공용차량관리내규.json",
+            "target_git_path": "창원시설공단 공용차량관리내규/창원시설공단 공용차량관리내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -453,7 +490,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:창원시설공단공용차량관리내규#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 공용차량관리내규/창원시설공단 공용차량관리내규.json"
+            "target_git_path_guess": "창원시설공단 공용차량관리내규/창원시설공단 공용차량관리내규.json",
+            "target_git_path": "창원시설공단 공용차량관리내규/창원시설공단 공용차량관리내규.json",
+            "target_git_file_path": "창원시설공단 공용차량관리내규/별지/별지3_차량운행 점검일지.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -551,7 +593,9 @@
             "source_provision_id": "SchlPubRul:창원시설공단공용차량관리내규#JO0021",
             "reference_id": "law:도로교통법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "도로교통법/법률/도로교통법.json"
+            "target_git_path_guess": "도로교통법/법률/도로교통법.json",
+            "target_git_path": "도로교통법/법률/도로교통법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

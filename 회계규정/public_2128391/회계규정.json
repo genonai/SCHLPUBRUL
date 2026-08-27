@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2128391#JO0001",
             "reference_id": "law:지방공기업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -97,7 +99,9 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2128391#JO0002",
             "reference_id": "law:주식회사등의외부감사에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "주식회사 등의 외부감사에 관한 법률/법률/주식회사 등의 외부감사에 관한 법률.json"
+            "target_git_path_guess": "주식회사 등의 외부감사에 관한 법률/법률/주식회사 등의 외부감사에 관한 법률.json",
+            "target_git_path": "주식회사 등의 외부감사에 관한 법률/법률/주식회사 등의 외부감사에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -117,7 +121,9 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2128391#JO0002",
             "reference_id": "law:주식회사등의외부감사에관한법률#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "주식회사 등의 외부감사에 관한 법률/법률/주식회사 등의 외부감사에 관한 법률.json"
+            "target_git_path_guess": "주식회사 등의 외부감사에 관한 법률/법률/주식회사 등의 외부감사에 관한 법률.json",
+            "target_git_path": "주식회사 등의 외부감사에 관한 법률/법률/주식회사 등의 외부감사에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -169,9 +175,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/회계규정 시행내규",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:회계규정:public_2128391#JO0005",
-            "reference_id": "SchlPubRul:회계규정시행내규#DOC",
+            "reference_id": "SchlPubRul:회계규정시행내규:public_2128359#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정 시행내규/회계규정 시행내규.json"
+            "target_git_path_guess": "회계규정 시행내규/회계규정 시행내규.json",
+            "target_candidates": 2,
+            "target_git_path": "회계규정 시행내규/public_2128359/회계규정 시행내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -225,7 +236,9 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2128391#JO0008",
             "reference_id": "law:회계관계직원등의책임에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json"
+            "target_git_path_guess": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json",
+            "target_git_path": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -257,7 +270,11 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2128391#JO0009",
             "reference_id": "SchlPubRul:회계규정:public_2128391#JO0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2128391/회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -289,7 +306,11 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2128391#JO0010",
             "reference_id": "SchlPubRul:회계규정:public_2128391#JO0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2128391/회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -307,9 +328,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/직인관리규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:회계규정:public_2128391#JO0010",
-            "reference_id": "SchlPubRul:직인관리규정#DOC",
+            "reference_id": "SchlPubRul:직인관리규정:public_2141175#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "직인관리규정/직인관리규정.json"
+            "target_git_path_guess": "직인관리규정/직인관리규정.json",
+            "target_candidates": 2,
+            "target_git_path": "직인관리규정/public_2141175/직인관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -339,9 +365,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/사무관리규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:회계규정:public_2128391#JO0011",
-            "reference_id": "SchlPubRul:사무관리규정#DOC",
+            "reference_id": "SchlPubRul:사무관리규정:public_2139481#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "사무관리규정/사무관리규정.json"
+            "target_git_path_guess": "사무관리규정/사무관리규정.json",
+            "target_candidates": 3,
+            "target_git_path": "사무관리규정/public_2139481/사무관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -361,7 +392,11 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2128391#JO0011",
             "reference_id": "SchlPubRul:회계규정:public_2128391#JO0018",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2128391/회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -415,7 +450,11 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2128391#JO0014",
             "reference_id": "SchlPubRul:회계규정:public_2128391#JO0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2128391/회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -435,7 +474,11 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2128391#JO0014",
             "reference_id": "SchlPubRul:회계규정:public_2128391#JO0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2128391/회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -577,7 +620,9 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2128391#JO0024",
             "reference_id": "law:법인세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "법인세법/법률/법인세법.json"
+            "target_git_path_guess": "법인세법/법률/법인세법.json",
+            "target_git_path": "법인세법/법률/법인세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -597,7 +642,9 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2128391#JO0024",
             "reference_id": "law:법인세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "법인세법/법률/법인세법.json"
+            "target_git_path_guess": "법인세법/법률/법인세법.json",
+            "target_git_path": "법인세법/법률/법인세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -617,7 +664,9 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2128391#JO0024",
             "reference_id": "law:법인세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "법인세법/법률/법인세법.json"
+            "target_git_path_guess": "법인세법/법률/법인세법.json",
+            "target_git_path": "법인세법/법률/법인세법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -660,7 +709,9 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2128391#JO0026",
             "reference_id": "law:부가가치세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json"
+            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json",
+            "target_git_path": "부가가치세법/법률/부가가치세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -680,7 +731,9 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2128391#JO0026",
             "reference_id": "law:법인세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "법인세법/법률/법인세법.json"
+            "target_git_path_guess": "법인세법/법률/법인세법.json",
+            "target_git_path": "법인세법/법률/법인세법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -965,7 +1018,9 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2128391#JO0053",
             "reference_id": "law:소득세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소득세법/법률/소득세법.json"
+            "target_git_path_guess": "소득세법/법률/소득세법.json",
+            "target_git_path": "소득세법/법률/소득세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -985,7 +1040,9 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2128391#JO0053",
             "reference_id": "law:지방세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방세법/법률/지방세법.json"
+            "target_git_path_guess": "지방세법/법률/지방세법.json",
+            "target_git_path": "지방세법/법률/지방세법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1127,7 +1184,9 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2128391#JO0064",
             "reference_id": "law:지방공기업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1147,7 +1206,9 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2128391#JO0064",
             "reference_id": "law:지방공기업법#JO0048",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1212,7 +1273,11 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2128391#JO0068",
             "reference_id": "SchlPubRul:회계규정:public_2128391#JO0065",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2128391/회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -1232,7 +1297,11 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2128391#JO0068",
             "reference_id": "SchlPubRul:회계규정:public_2128391#JO0066",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2128391/회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -1252,7 +1321,11 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2128391#JO0068",
             "reference_id": "SchlPubRul:회계규정:public_2128391#JO0067",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2128391/회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -1272,7 +1345,11 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2128391#JO0068",
             "reference_id": "SchlPubRul:회계규정:public_2128391#JO0065",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2128391/회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -1292,7 +1369,11 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2128391#JO0068",
             "reference_id": "SchlPubRul:회계규정:public_2128391#JO0066",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2128391/회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -1312,7 +1393,11 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2128391#JO0068",
             "reference_id": "SchlPubRul:회계규정:public_2128391#JO0067",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2128391/회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1520,7 +1605,9 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2128391#JO0085",
             "reference_id": "law:자산재평가법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "자산재평가법/법률/자산재평가법.json"
+            "target_git_path_guess": "자산재평가법/법률/자산재평가법.json",
+            "target_git_path": "자산재평가법/법률/자산재평가법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1981,7 +2068,11 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2128391#JO0125",
             "reference_id": "SchlPubRul:계정과목별지출방법등에관한지침#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "계정과목별 지출방법 등에 관한 지침/계정과목별 지출방법 등에 관한 지침.json"
+            "target_git_path_guess": "계정과목별 지출방법 등에 관한 지침/계정과목별 지출방법 등에 관한 지침.json",
+            "target_git_path": "계정과목별 지출방법 등에 관한 지침/계정과목별 지출방법 등에 관한 지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -2376,7 +2467,9 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2128391#JO0159",
             "reference_id": "law:지방자치단체를당사자로하는계약에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방자치단체를 당사자로 하는 계약에 관한 법률/시행령/지방자치단체를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "지방자치단체를 당사자로 하는 계약에 관한 법률/시행령/지방자치단체를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "지방자치단체를 당사자로 하는 계약에 관한 법률/시행령/지방자치단체를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2396,7 +2489,9 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2128391#JO0159",
             "reference_id": "law:지방재정법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방재정법/시행령/지방재정법 시행령.json"
+            "target_git_path_guess": "지방재정법/시행령/지방재정법 시행령.json",
+            "target_git_path": "지방재정법/시행령/지방재정법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2470,7 +2565,11 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2128391#JO0162",
             "reference_id": "SchlPubRul:회계규정:public_2128391#JO0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2128391/회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -2490,7 +2589,11 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2128391#JO0162",
             "reference_id": "SchlPubRul:회계규정:public_2128391#JO0161",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2128391/회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -2522,7 +2625,9 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2128391#JO0163",
             "reference_id": "law:회계관계직원등의책임에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json"
+            "target_git_path_guess": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json",
+            "target_git_path": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2542,7 +2647,9 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2128391#JO0163",
             "reference_id": "law:회계관계직원등의책임에관한법률#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json"
+            "target_git_path_guess": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json",
+            "target_git_path": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2562,7 +2669,9 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2128391#JO0163",
             "reference_id": "law:회계관계직원등의책임에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json"
+            "target_git_path_guess": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json",
+            "target_git_path": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2582,7 +2691,9 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2128391#JO0163",
             "reference_id": "law:회계관계직원등의책임에관한법률#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json"
+            "target_git_path_guess": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json",
+            "target_git_path": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2602,7 +2713,9 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2128391#JO0163",
             "reference_id": "law:회계관계직원등의책임에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json"
+            "target_git_path_guess": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json",
+            "target_git_path": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2622,7 +2735,9 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2128391#JO0163",
             "reference_id": "law:회계관계직원등의책임에관한법률#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json"
+            "target_git_path_guess": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json",
+            "target_git_path": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2752,5 +2867,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "회계규정/public_2128391/회계규정.json"
+  "git_path": "회계규정/public_2128391/회계규정.json",
+  "_schlpub_id_suffix": "public_2128391"
 }

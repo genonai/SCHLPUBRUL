@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계조종사안전교육운영등에관한규칙#JO0001",
             "reference_id": "law:건설기계관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설기계관리법/법률/건설기계관리법.json"
+            "target_git_path_guess": "건설기계관리법/법률/건설기계관리법.json",
+            "target_git_path": "건설기계관리법/법률/건설기계관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -85,7 +87,9 @@
             "source_provision_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계조종사안전교육운영등에관한규칙#JO0001",
             "reference_id": "law:건설기계관리법#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설기계관리법/법률/건설기계관리법.json"
+            "target_git_path_guess": "건설기계관리법/법률/건설기계관리법.json",
+            "target_git_path": "건설기계관리법/법률/건설기계관리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -117,7 +121,9 @@
             "source_provision_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계조종사안전교육운영등에관한규칙#JO0002",
             "reference_id": "law:건설기계관리법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설기계관리법/시행령/건설기계관리법 시행령.json"
+            "target_git_path_guess": "건설기계관리법/시행령/건설기계관리법 시행령.json",
+            "target_git_path": "건설기계관리법/시행령/건설기계관리법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -137,7 +143,9 @@
             "source_provision_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계조종사안전교육운영등에관한규칙#JO0002",
             "reference_id": "law:건설기계관리법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설기계관리법/시행규칙/건설기계관리법 시행규칙.json"
+            "target_git_path_guess": "건설기계관리법/시행규칙/건설기계관리법 시행규칙.json",
+            "target_git_path": "건설기계관리법/시행규칙/건설기계관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -196,7 +204,8 @@
             "target_unit": "BYL0023",
             "reference_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계조종사안전교육운영등에관한규칙#BYL0023",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙/((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙.json"
+            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙/((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -239,7 +248,11 @@
             "source_provision_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계조종사안전교육운영등에관한규칙#JO0007",
             "reference_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계조종사안전교육운영등에관한규칙#JO0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙/((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙.json"
+            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙/((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙.json",
+            "target_git_path": "((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙/((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -264,7 +277,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계조종사안전교육운영등에관한규칙#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙/((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙.json"
+            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙/((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙.json",
+            "target_git_path": "((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙/((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙.json",
+            "target_git_file_path": "((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙/별표/별표1_강사기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -289,7 +307,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계조종사안전교육운영등에관한규칙#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙/((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙.json"
+            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙/((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙.json",
+            "target_git_path": "((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙/((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙.json",
+            "target_git_file_path": "((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙/별표/별표1_강사기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -314,7 +337,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계조종사안전교육운영등에관한규칙#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙/((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙.json"
+            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙/((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙.json",
+            "target_git_path": "((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙/((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙.json",
+            "target_git_file_path": "((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙/별표/별표2_위촉장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -346,7 +374,11 @@
             "source_provision_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계조종사안전교육운영등에관한규칙#JO0008",
             "reference_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계조종사안전교육운영등에관한규칙#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙/((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙.json"
+            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙/((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙.json",
+            "target_git_path": "((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙/((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -371,7 +403,12 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계조종사안전교육운영등에관한규칙#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙/((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙.json"
+            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙/((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙.json",
+            "target_git_path": "((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙/((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙.json",
+            "target_git_file_path": "((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙/별표/별표3_강사료 지급기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -408,7 +445,8 @@
             "target_unit": "BJ0043_06",
             "reference_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계조종사안전교육운영등에관한규칙#BJ0043_06",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙/((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙.json"
+            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙/((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -489,7 +527,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계조종사안전교육운영등에관한규칙#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙/((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙.json"
+            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙/((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙.json",
+            "target_git_path": "((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙/((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙.json",
+            "target_git_file_path": "((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙/별표/별표1_강사기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -526,7 +569,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계조종사안전교육운영등에관한규칙#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙/((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙.json"
+            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙/((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙.json",
+            "target_git_path": "((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙/((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙.json",
+            "target_git_file_path": "((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙/별표/별표1_강사기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -551,7 +599,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계조종사안전교육운영등에관한규칙#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙/((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙.json"
+            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙/((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙.json",
+            "target_git_path": "((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙/((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙.json",
+            "target_git_file_path": "((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙/별표/별표1_강사기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -594,7 +647,11 @@
             "source_provision_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계조종사안전교육운영등에관한규칙#JO0017",
             "reference_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계조종사안전교육운영등에관한규칙#JO0015",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙/((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙.json"
+            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙/((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙.json",
+            "target_git_path": "((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙/((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -619,7 +676,12 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계조종사안전교육운영등에관한규칙#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙/((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙.json"
+            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙/((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙.json",
+            "target_git_path": "((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙/((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙.json",
+            "target_git_file_path": "((재)대한건설기계안전관리원) 건설기계조종사 안전교육 운영 등에 관한 규칙/별표/별표3_강사료 지급기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

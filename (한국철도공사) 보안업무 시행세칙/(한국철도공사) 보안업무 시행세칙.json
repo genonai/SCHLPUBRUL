@@ -65,7 +65,11 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0001",
             "reference_id": "admrul:보안업무규정시행규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json"
+            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_git_path": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -85,7 +89,11 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0001",
             "reference_id": "admrul:국토교통부보안업무규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국토교통부 보안업무규칙/국토교통부 보안업무규칙.json"
+            "target_git_path_guess": "국토교통부 보안업무규칙/국토교통부 보안업무규칙.json",
+            "target_git_path": "국토교통부 보안업무규칙/국토교통부 보안업무규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -139,7 +147,11 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0004",
             "reference_id": "admrul:보안업무규정시행규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json"
+            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_git_path": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -159,7 +171,8 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0004",
             "reference_id": "admrul:보안업무규정시행규칙#JO0047",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json"
+            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -191,7 +204,11 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0005",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0019",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -211,7 +228,11 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0005",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0023",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -236,7 +257,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_file_path": "(한국철도공사) 보안업무 시행세칙/별지/별지1_보안심사(실무)위원회 회의록(제5조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -268,7 +294,9 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0006",
             "reference_id": "law:보안업무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -288,7 +316,9 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0006",
             "reference_id": "law:보안업무규정#JO0043",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -347,7 +377,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_file_path": "(한국철도공사) 보안업무 시행세칙/별표/별표1_분야별 보안책임자 및 임무(제9조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -384,7 +419,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_file_path": "(한국철도공사) 보안업무 시행세칙/별표/별표1_분야별 보안책임자 및 임무(제9조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -432,7 +472,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_file_path": "(한국철도공사) 보안업무 시행세칙/별지/별지4_비밀취급인가 심사표(제12조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -457,7 +502,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_file_path": "(한국철도공사) 보안업무 시행세칙/별지/별지5_서약서(보안교육 확인 겸용) (제12조 및 제13조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -482,7 +532,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_file_path": "(한국철도공사) 보안업무 시행세칙/별지/별지2_비밀취급 인가(해제) 대장(제12조, 제13조, 제14조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -507,7 +562,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_file_path": "(한국철도공사) 보안업무 시행세칙/별지/별지2_비밀취급 인가(해제) 대장(제12조, 제13조, 제14조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -544,7 +604,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_file_path": "(한국철도공사) 보안업무 시행세칙/별지/별지2_비밀취급 인가(해제) 대장(제12조, 제13조, 제14조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -569,7 +634,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_file_path": "(한국철도공사) 보안업무 시행세칙/별지/별지5_서약서(보안교육 확인 겸용) (제12조 및 제13조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -606,7 +676,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_file_path": "(한국철도공사) 보안업무 시행세칙/별지/별지2_비밀취급 인가(해제) 대장(제12조, 제13조, 제14조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -638,7 +713,11 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0015",
             "reference_id": "admrul:보안업무규정시행규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json"
+            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_git_path": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -658,7 +737,11 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0015",
             "reference_id": "admrul:보안업무규정시행규칙#JO0015",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json"
+            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_git_path": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -678,7 +761,11 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0015",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0020",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -710,7 +797,9 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0016",
             "reference_id": "law:보안업무규정#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -730,7 +819,11 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0016",
             "reference_id": "admrul:보안업무규정시행규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json"
+            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_git_path": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -750,7 +843,11 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0016",
             "reference_id": "admrul:보안업무규정시행규칙#JO0056",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json"
+            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_git_path": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -770,7 +867,11 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0016",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -790,7 +891,11 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0016",
             "reference_id": "admrul:보안업무규정시행규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json"
+            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_git_path": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -810,7 +915,11 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0016",
             "reference_id": "admrul:보안업무규정시행규칙#JO0056",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json"
+            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_git_path": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -830,7 +939,11 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0016",
             "reference_id": "admrul:보안업무규정시행규칙#JO0057",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json"
+            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_git_path": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -855,7 +968,12 @@
             "target_unit": "BJ0008",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#BJ0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_file_path": "(한국철도공사) 보안업무 시행세칙/별지/별지8_신원조사 대상자 명단(제16조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -880,7 +998,12 @@
             "target_unit": "BJ0009",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#BJ0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_file_path": "(한국철도공사) 보안업무 시행세칙/별지/별지9_신원진술서(약식).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -900,7 +1023,9 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0016",
             "reference_id": "law:가족관계의등록등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "가족관계의 등록 등에 관한 법률/법률/가족관계의 등록 등에 관한 법률.json"
+            "target_git_path_guess": "가족관계의 등록 등에 관한 법률/법률/가족관계의 등록 등에 관한 법률.json",
+            "target_git_path": "가족관계의 등록 등에 관한 법률/법률/가족관계의 등록 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -920,7 +1045,9 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0016",
             "reference_id": "law:가족관계의등록등에관한법률#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "가족관계의 등록 등에 관한 법률/법률/가족관계의 등록 등에 관한 법률.json"
+            "target_git_path_guess": "가족관계의 등록 등에 관한 법률/법률/가족관계의 등록 등에 관한 법률.json",
+            "target_git_path": "가족관계의 등록 등에 관한 법률/법률/가족관계의 등록 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -957,7 +1084,12 @@
             "target_unit": "BJ0010",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#BJ0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_file_path": "(한국철도공사) 보안업무 시행세칙/별지/별지10_보안서약서(제20조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1016,7 +1148,12 @@
             "target_unit": "BJ0010",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#BJ0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_file_path": "(한국철도공사) 보안업무 시행세칙/별지/별지10_보안서약서(제20조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1064,7 +1201,12 @@
             "target_unit": "BJ0011",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#BJ0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_file_path": "(한국철도공사) 보안업무 시행세칙/별지/별지11_해외출장 임·직원 보안수칙(제22조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1101,7 +1243,12 @@
             "target_unit": "BJ0012",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#BJ0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_file_path": "(한국철도공사) 보안업무 시행세칙/별지/별지12_업무일지(제23조관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1126,7 +1273,12 @@
             "target_unit": "BJ0013",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#BJ0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_file_path": "(한국철도공사) 보안업무 시행세칙/별지/별지13_비밀열람기록전(제23조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1193,7 +1345,12 @@
             "target_unit": "BJ0014",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#BJ0014",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_file_path": "(한국철도공사) 보안업무 시행세칙/별지/별지14_배부처(제23조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [
@@ -1240,7 +1397,12 @@
             "target_unit": "BJ0015",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#BJ0015",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_file_path": "(한국철도공사) 보안업무 시행세칙/별지/별지15_비밀문서 발간승인 신청서(제26조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1265,7 +1427,12 @@
             "target_unit": "BJ0016",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#BJ0016",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_file_path": "(한국철도공사) 보안업무 시행세칙/별지/별지16_사전통제기록부(제26조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [
@@ -1328,7 +1495,9 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0028",
             "reference_id": "law:공공기록물관리에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1348,7 +1517,9 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0028",
             "reference_id": "law:공공기록물관리에관한법률시행령#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [
@@ -1411,7 +1582,11 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0030",
             "reference_id": "admrul:보안업무규정시행규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json"
+            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_git_path": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1431,7 +1606,11 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0030",
             "reference_id": "admrul:보안업무규정시행규칙#JO0017",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json"
+            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_git_path": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1520,7 +1699,12 @@
             "target_unit": "BJ0017",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#BJ0017",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_file_path": "(한국철도공사) 보안업무 시행세칙/별지/별지17_비밀접수 및 발송대장(제33조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1557,7 +1741,12 @@
             "target_unit": "BJ0043",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#BJ0043",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_file_path": "(한국철도공사) 보안업무 시행세칙/별지/별지43_이중봉투 양식(제34조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1577,7 +1766,11 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0034",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0038",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1688,7 +1881,12 @@
             "target_unit": "BJ0018",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#BJ0018",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_file_path": "(한국철도공사) 보안업무 시행세칙/별지/별지18_비밀접수증(제38조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1720,7 +1918,11 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0039",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0041",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1752,7 +1954,11 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0040",
             "reference_id": "admrul:보안업무규정시행규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json"
+            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_git_path": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1772,7 +1978,11 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0040",
             "reference_id": "admrul:보안업무규정시행규칙#JO0035",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json"
+            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_git_path": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1797,7 +2007,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_file_path": "(한국철도공사) 보안업무 시행세칙/별표/별표2_비밀인계인수(제40조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1845,7 +2060,12 @@
             "target_unit": "BJ0019",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#BJ0019",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_file_path": "(한국철도공사) 보안업무 시행세칙/별지/별지19_비밀관리기록부(또는 대외비관리기록부) (제42조 및 제53조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1870,7 +2090,12 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_file_path": "(한국철도공사) 보안업무 시행세칙/별표/별표3_비밀관리기록부 기재요령(제42조제2항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1895,7 +2120,12 @@
             "target_unit": "BYL0004",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#BYL0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_file_path": "(한국철도공사) 보안업무 시행세칙/별표/별표4_신장부의 이기시 기재내용(제42조제3항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1932,7 +2162,12 @@
             "target_unit": "BJ0020",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#BJ0020",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_file_path": "(한국철도공사) 보안업무 시행세칙/별지/별지20_비밀대출부(제43조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1957,7 +2192,12 @@
             "target_unit": "BJ0021",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#BJ0021",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_file_path": "(한국철도공사) 보안업무 시행세칙/별지/별지21_비밀반출승인서(제43조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [
@@ -2029,7 +2269,9 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0045",
             "reference_id": "law:공공기록물관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2049,7 +2291,9 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0045",
             "reference_id": "law:공공기록물관리에관한법률#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2069,7 +2313,11 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0045",
             "reference_id": "admrul:보안업무규정시행규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json"
+            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_git_path": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -2089,7 +2337,11 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0045",
             "reference_id": "admrul:보안업무규정시행규칙#JO0016",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json"
+            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_git_path": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -2121,7 +2373,9 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0046",
             "reference_id": "law:공공기록물관리에관한법률#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2141,7 +2395,9 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0046",
             "reference_id": "law:공공기록물관리에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2161,7 +2417,9 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0046",
             "reference_id": "law:공공기록물관리에관한법률시행령#JO0068",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2204,7 +2462,11 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0048",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0024",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2229,7 +2491,12 @@
             "target_unit": "BJ0022",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#BJ0022",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_file_path": "(한국철도공사) 보안업무 시행세칙/별지/별지22_비밀소유 및 인가자 현황 조사서(제48조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2261,7 +2528,11 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0049",
             "reference_id": "admrul:보안업무규정시행규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json"
+            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_git_path": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -2281,7 +2552,11 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0049",
             "reference_id": "admrul:보안업무규정시행규칙#JO0049",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json"
+            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_git_path": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -2306,7 +2581,12 @@
             "target_unit": "BYL0005",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#BYL0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_file_path": "(한국철도공사) 보안업무 시행세칙/별표/별표5_안전반출 및 파기계획 작성방법(제49조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2338,7 +2618,9 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0050",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2358,7 +2640,9 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0050",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2378,7 +2662,9 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0050",
             "reference_id": "law:공공기록물관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2398,7 +2684,11 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0050",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0045",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [
@@ -2440,7 +2730,11 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0051",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0050",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2472,7 +2766,11 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0052",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0040",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2509,7 +2807,12 @@
             "target_unit": "BJ0019",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#BJ0019",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_file_path": "(한국철도공사) 보안업무 시행세칙/별지/별지19_비밀관리기록부(또는 대외비관리기록부) (제42조 및 제53조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2541,7 +2844,11 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0053_02",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0033",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -2561,7 +2868,11 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0053_02",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0034",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -2581,7 +2892,11 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0053_02",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0035",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2606,7 +2921,12 @@
             "target_unit": "BJ0017",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#BJ0017",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_file_path": "(한국철도공사) 보안업무 시행세칙/별지/별지17_비밀접수 및 발송대장(제33조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2638,7 +2958,9 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0054",
             "reference_id": "law:보안업무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2658,7 +2980,9 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0054",
             "reference_id": "law:보안업무규정#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2678,7 +3002,11 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0054",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0053",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2703,7 +3031,12 @@
             "target_unit": "BYL0006",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#BYL0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_file_path": "(한국철도공사) 보안업무 시행세칙/별표/별표6_보호지역(제54조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2728,7 +3061,12 @@
             "target_unit": "BYL0007",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#BYL0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_file_path": "(한국철도공사) 보안업무 시행세칙/별표/별표7_보호지역표지(제54조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2765,7 +3103,12 @@
             "target_unit": "BJ0025",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#BJ0025",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_file_path": "(한국철도공사) 보안업무 시행세칙/별지/별지25_외부인 방문 기록부(제55조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2790,7 +3133,12 @@
             "target_unit": "BJ0023",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#BJ0023",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_file_path": "(한국철도공사) 보안업무 시행세칙/별지/별지23_통제구역 출입대장(제55조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2827,7 +3175,12 @@
             "target_unit": "BJ0024",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#BJ0024",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_file_path": "(한국철도공사) 보안업무 시행세칙/별지/별지24_보안점검부(제56조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -2847,7 +3200,11 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0056",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0055",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2872,7 +3229,12 @@
             "target_unit": "BJ0027",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#BJ0027",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_file_path": "(한국철도공사) 보안업무 시행세칙/별지/별지27_출입증(제56조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -3019,7 +3381,12 @@
             "target_unit": "BJ0028",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#BJ0028",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_file_path": "(한국철도공사) 보안업무 시행세칙/별지/별지28_암호자재(장비) 운용 관리현황(제67조 및 제71조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -3056,7 +3423,12 @@
             "target_unit": "BJ0029",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#BJ0029",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_file_path": "(한국철도공사) 보안업무 시행세칙/별지/별지29_암호자재(장비) 관리기록부(제68조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -3081,7 +3453,12 @@
             "target_unit": "BJ0030",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#BJ0030",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_file_path": "(한국철도공사) 보안업무 시행세칙/별지/별지30_암호자재(장비) 점검기록부(제68조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -3101,7 +3478,11 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0068",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -3126,7 +3507,12 @@
             "target_unit": "BJ0028_02",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#BJ0028_02",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_file_path": "(한국철도공사) 보안업무 시행세칙/별지/별지28의2_암호자재(장비) 취급자 현황(소속 작성·제출용)(제68조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -3163,7 +3549,12 @@
             "target_unit": "BJ0031",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#BJ0031",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_file_path": "(한국철도공사) 보안업무 시행세칙/별지/별지31_암호자재(장비) 증명서(제69조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -3211,7 +3602,12 @@
             "target_unit": "BJ0028",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#BJ0028",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_file_path": "(한국철도공사) 보안업무 시행세칙/별지/별지28_암호자재(장비) 운용 관리현황(제67조 및 제71조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -3248,7 +3644,12 @@
             "target_unit": "BJ0029",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#BJ0029",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_file_path": "(한국철도공사) 보안업무 시행세칙/별지/별지29_암호자재(장비) 관리기록부(제68조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -3280,7 +3681,11 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0072_02",
             "reference_id": "admrul:국토교통부정보보안업무규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국토교통부 정보보안업무규정/국토교통부 정보보안업무규정.json"
+            "target_git_path_guess": "국토교통부 정보보안업무규정/국토교통부 정보보안업무규정.json",
+            "target_git_path": "국토교통부 정보보안업무규정/국토교통부 정보보안업무규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -3328,7 +3733,12 @@
             "target_unit": "BYL0009",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#BYL0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_file_path": "(한국철도공사) 보안업무 시행세칙/별표/별표9_자체 운용 통신자재 운용지침.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -3382,7 +3792,9 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0077",
             "reference_id": "law:대통령등의경호에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "대통령 등의 경호에 관한 법률/법률/대통령 등의 경호에 관한 법률.json"
+            "target_git_path_guess": "대통령 등의 경호에 관한 법률/법률/대통령 등의 경호에 관한 법률.json",
+            "target_git_path": "대통령 등의 경호에 관한 법률/법률/대통령 등의 경호에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -3441,7 +3853,12 @@
             "target_unit": "BYL0008",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#BYL0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_file_path": "(한국철도공사) 보안업무 시행세칙/별표/별표8_등급별 공간정보의 분류기준(제80조제1항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -3506,7 +3923,11 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0083",
             "reference_id": "admrul:보안업무규정시행규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json"
+            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_git_path": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -3526,7 +3947,11 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0083",
             "reference_id": "admrul:보안업무규정시행규칙#JO0064",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json"
+            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_git_path": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -3546,7 +3971,11 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0083",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0063",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -3566,7 +3995,11 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0083",
             "reference_id": "admrul:보안업무규정시행규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json"
+            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_git_path": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -3586,7 +4019,11 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0083",
             "reference_id": "admrul:보안업무규정시행규칙#JO0064",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json"
+            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_git_path": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -3711,7 +4148,12 @@
             "target_unit": "BJ0038",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#BJ0038",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_file_path": "(한국철도공사) 보안업무 시행세칙/별지/별지38_보안서약서(제92조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -3736,7 +4178,12 @@
             "target_unit": "BJ0039",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#BJ0039",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_file_path": "(한국철도공사) 보안업무 시행세칙/별지/별지39_보안서약서(제92조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -3761,7 +4208,12 @@
             "target_unit": "BJ0040",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#BJ0040",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_file_path": "(한국철도공사) 보안업무 시행세칙/별지/별지40_용역업무일지 (제92조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -3798,7 +4250,12 @@
             "target_unit": "BJ0041",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#BJ0041",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_file_path": "(한국철도공사) 보안업무 시행세칙/별지/별지41_설계도서 생산·배부관리대장(제93조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -3823,7 +4280,12 @@
             "target_unit": "BJ0042",
             "reference_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#BJ0042",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 보안업무 시행세칙/(한국철도공사) 보안업무 시행세칙.json",
+            "target_git_file_path": "(한국철도공사) 보안업무 시행세칙/별지/별지42_설계도서 접수관리대장(제93조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -3866,7 +4328,9 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)보안업무시행세칙#JO0095",
             "reference_id": "law:공공기록물관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

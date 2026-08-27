@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:세종특별자치시시설관리공단기록관운영내규#JO0001",
             "reference_id": "law:공공기록물관리에관한법률#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -85,7 +87,9 @@
             "source_provision_id": "SchlPubRul:세종특별자치시시설관리공단기록관운영내규#JO0001",
             "reference_id": "law:공공기록물관리에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -105,7 +109,9 @@
             "source_provision_id": "SchlPubRul:세종특별자치시시설관리공단기록관운영내규#JO0001",
             "reference_id": "law:공공기록물관리에관한법률시행령#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -135,9 +141,14 @@
             "target_url": "https://www.law.go.kr/법령/사무관리규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:세종특별자치시시설관리공단기록관운영내규#JO0002",
-            "reference_id": "law:사무관리규정#DOC",
+            "reference_id": "SchlPubRul:사무관리규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "사무관리규정/법률/사무관리규정.json"
+            "target_git_path_guess": "사무관리규정/법률/사무관리규정.json",
+            "target_git_path": "사무관리규정/public_2139481/사무관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관",
+            "target_candidates": 3
           },
           {
             "relation_type": "citation",
@@ -155,9 +166,14 @@
             "target_url": "https://www.law.go.kr/법령/사무관리규정/제3조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:세종특별자치시시설관리공단기록관운영내규#JO0002",
-            "reference_id": "law:사무관리규정#JO0003",
+            "reference_id": "SchlPubRul:사무관리규정#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "사무관리규정/법률/사무관리규정.json"
+            "target_git_path_guess": "사무관리규정/법률/사무관리규정.json",
+            "target_git_path": "사무관리규정/public_2139481/사무관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관",
+            "target_candidates": 3
           }
         ],
         "images": [],
@@ -249,7 +265,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:세종특별자치시시설관리공단기록관운영내규#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "세종특별자치시시설관리공단 기록관 운영내규/세종특별자치시시설관리공단 기록관 운영내규.json"
+            "target_git_path_guess": "세종특별자치시시설관리공단 기록관 운영내규/세종특별자치시시설관리공단 기록관 운영내규.json",
+            "target_git_path": "세종특별자치시시설관리공단 기록관 운영내규/세종특별자치시시설관리공단 기록관 운영내규.json",
+            "target_git_file_path": "세종특별자치시시설관리공단 기록관 운영내규/별표/별표1_등록번호의 표시방법(제8조제4항).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -308,7 +329,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:세종특별자치시시설관리공단기록관운영내규#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "세종특별자치시시설관리공단 기록관 운영내규/세종특별자치시시설관리공단 기록관 운영내규.json"
+            "target_git_path_guess": "세종특별자치시시설관리공단 기록관 운영내규/세종특별자치시시설관리공단 기록관 운영내규.json",
+            "target_git_path": "세종특별자치시시설관리공단 기록관 운영내규/세종특별자치시시설관리공단 기록관 운영내규.json",
+            "target_git_file_path": "세종특별자치시시설관리공단 기록관 운영내규/별지/별지1_보유 기록물 목록.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -333,7 +359,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:세종특별자치시시설관리공단기록관운영내규#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "세종특별자치시시설관리공단 기록관 운영내규/세종특별자치시시설관리공단 기록관 운영내규.json"
+            "target_git_path_guess": "세종특별자치시시설관리공단 기록관 운영내규/세종특별자치시시설관리공단 기록관 운영내규.json",
+            "target_git_path": "세종특별자치시시설관리공단 기록관 운영내규/세종특별자치시시설관리공단 기록관 운영내규.json",
+            "target_git_file_path": "세종특별자치시시설관리공단 기록관 운영내규/별표/별표2_보존상자 표지(제11조제3항).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -370,7 +401,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:세종특별자치시시설관리공단기록관운영내규#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "세종특별자치시시설관리공단 기록관 운영내규/세종특별자치시시설관리공단 기록관 운영내규.json"
+            "target_git_path_guess": "세종특별자치시시설관리공단 기록관 운영내규/세종특별자치시시설관리공단 기록관 운영내규.json",
+            "target_git_path": "세종특별자치시시설관리공단 기록관 운영내규/세종특별자치시시설관리공단 기록관 운영내규.json",
+            "target_git_file_path": "세종특별자치시시설관리공단 기록관 운영내규/별지/별지1_보유 기록물 목록.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -407,7 +443,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:세종특별자치시시설관리공단기록관운영내규#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "세종특별자치시시설관리공단 기록관 운영내규/세종특별자치시시설관리공단 기록관 운영내규.json"
+            "target_git_path_guess": "세종특별자치시시설관리공단 기록관 운영내규/세종특별자치시시설관리공단 기록관 운영내규.json",
+            "target_git_path": "세종특별자치시시설관리공단 기록관 운영내규/세종특별자치시시설관리공단 기록관 운영내규.json",
+            "target_git_file_path": "세종특별자치시시설관리공단 기록관 운영내규/별지/별지1_보유 기록물 목록.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -444,7 +485,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:세종특별자치시시설관리공단기록관운영내규#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "세종특별자치시시설관리공단 기록관 운영내규/세종특별자치시시설관리공단 기록관 운영내규.json"
+            "target_git_path_guess": "세종특별자치시시설관리공단 기록관 운영내규/세종특별자치시시설관리공단 기록관 운영내규.json",
+            "target_git_path": "세종특별자치시시설관리공단 기록관 운영내규/세종특별자치시시설관리공단 기록관 운영내규.json",
+            "target_git_file_path": "세종특별자치시시설관리공단 기록관 운영내규/별지/별지2_생산 기록물 목록.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -481,7 +527,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:세종특별자치시시설관리공단기록관운영내규#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "세종특별자치시시설관리공단 기록관 운영내규/세종특별자치시시설관리공단 기록관 운영내규.json"
+            "target_git_path_guess": "세종특별자치시시설관리공단 기록관 운영내규/세종특별자치시시설관리공단 기록관 운영내규.json",
+            "target_git_path": "세종특별자치시시설관리공단 기록관 운영내규/세종특별자치시시설관리공단 기록관 운영내규.json",
+            "target_git_file_path": "세종특별자치시시설관리공단 기록관 운영내규/별지/별지3_이관시기 연장 신청서, 이관 기록물 목록.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -506,7 +557,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:세종특별자치시시설관리공단기록관운영내규#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "세종특별자치시시설관리공단 기록관 운영내규/세종특별자치시시설관리공단 기록관 운영내규.json"
+            "target_git_path_guess": "세종특별자치시시설관리공단 기록관 운영내규/세종특별자치시시설관리공단 기록관 운영내규.json",
+            "target_git_path": "세종특별자치시시설관리공단 기록관 운영내규/세종특별자치시시설관리공단 기록관 운영내규.json",
+            "target_git_file_path": "세종특별자치시시설관리공단 기록관 운영내규/별지/별지3_이관시기 연장 신청서, 이관 기록물 목록.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -531,7 +587,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:세종특별자치시시설관리공단기록관운영내규#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "세종특별자치시시설관리공단 기록관 운영내규/세종특별자치시시설관리공단 기록관 운영내규.json"
+            "target_git_path_guess": "세종특별자치시시설관리공단 기록관 운영내규/세종특별자치시시설관리공단 기록관 운영내규.json",
+            "target_git_path": "세종특별자치시시설관리공단 기록관 운영내규/세종특별자치시시설관리공단 기록관 운영내규.json",
+            "target_git_file_path": "세종특별자치시시설관리공단 기록관 운영내규/별지/별지4_기록물인계인수서, 기록물 인계인수 목록.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -568,7 +629,12 @@
             "target_unit": "BYL0004",
             "reference_id": "SchlPubRul:세종특별자치시시설관리공단기록관운영내규#BYL0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "세종특별자치시시설관리공단 기록관 운영내규/세종특별자치시시설관리공단 기록관 운영내규.json"
+            "target_git_path_guess": "세종특별자치시시설관리공단 기록관 운영내규/세종특별자치시시설관리공단 기록관 운영내규.json",
+            "target_git_path": "세종특별자치시시설관리공단 기록관 운영내규/세종특별자치시시설관리공단 기록관 운영내규.json",
+            "target_git_file_path": "세종특별자치시시설관리공단 기록관 운영내규/별표/별표4_기록관의 시설,장비 및 환경 기준(제16조 제1항).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -616,7 +682,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:세종특별자치시시설관리공단기록관운영내규#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "세종특별자치시시설관리공단 기록관 운영내규/세종특별자치시시설관리공단 기록관 운영내규.json"
+            "target_git_path_guess": "세종특별자치시시설관리공단 기록관 운영내규/세종특별자치시시설관리공단 기록관 운영내규.json",
+            "target_git_path": "세종특별자치시시설관리공단 기록관 운영내규/세종특별자치시시설관리공단 기록관 운영내규.json",
+            "target_git_file_path": "세종특별자치시시설관리공단 기록관 운영내규/별지/별지5_생산부서 의견조회서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -641,7 +712,12 @@
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:세종특별자치시시설관리공단기록관운영내규#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "세종특별자치시시설관리공단 기록관 운영내규/세종특별자치시시설관리공단 기록관 운영내규.json"
+            "target_git_path_guess": "세종특별자치시시설관리공단 기록관 운영내규/세종특별자치시시설관리공단 기록관 운영내규.json",
+            "target_git_path": "세종특별자치시시설관리공단 기록관 운영내규/세종특별자치시시설관리공단 기록관 운영내규.json",
+            "target_git_file_path": "세종특별자치시시설관리공단 기록관 운영내규/별지/별지6_기록물평가심의서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -695,7 +771,11 @@
             "source_provision_id": "SchlPubRul:세종특별자치시시설관리공단기록관운영내규#JO0021",
             "reference_id": "SchlPubRul:세종특별자치시시설관리공단기록관운영내규#JO0017",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "세종특별자치시시설관리공단 기록관 운영내규/세종특별자치시시설관리공단 기록관 운영내규.json"
+            "target_git_path_guess": "세종특별자치시시설관리공단 기록관 운영내규/세종특별자치시시설관리공단 기록관 운영내규.json",
+            "target_git_path": "세종특별자치시시설관리공단 기록관 운영내규/세종특별자치시시설관리공단 기록관 운영내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -743,7 +823,12 @@
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:세종특별자치시시설관리공단기록관운영내규#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "세종특별자치시시설관리공단 기록관 운영내규/세종특별자치시시설관리공단 기록관 운영내규.json"
+            "target_git_path_guess": "세종특별자치시시설관리공단 기록관 운영내규/세종특별자치시시설관리공단 기록관 운영내규.json",
+            "target_git_path": "세종특별자치시시설관리공단 기록관 운영내규/세종특별자치시시설관리공단 기록관 운영내규.json",
+            "target_git_file_path": "세종특별자치시시설관리공단 기록관 운영내규/별지/별지6_기록물평가심의서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -768,7 +853,12 @@
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:세종특별자치시시설관리공단기록관운영내규#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "세종특별자치시시설관리공단 기록관 운영내규/세종특별자치시시설관리공단 기록관 운영내규.json"
+            "target_git_path_guess": "세종특별자치시시설관리공단 기록관 운영내규/세종특별자치시시설관리공단 기록관 운영내규.json",
+            "target_git_path": "세종특별자치시시설관리공단 기록관 운영내규/세종특별자치시시설관리공단 기록관 운영내규.json",
+            "target_git_file_path": "세종특별자치시시설관리공단 기록관 운영내규/별지/별지7_기록물 심의의결서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -793,7 +883,12 @@
             "target_unit": "BJ0008",
             "reference_id": "SchlPubRul:세종특별자치시시설관리공단기록관운영내규#BJ0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "세종특별자치시시설관리공단 기록관 운영내규/세종특별자치시시설관리공단 기록관 운영내규.json"
+            "target_git_path_guess": "세종특별자치시시설관리공단 기록관 운영내규/세종특별자치시시설관리공단 기록관 운영내규.json",
+            "target_git_path": "세종특별자치시시설관리공단 기록관 운영내규/세종특별자치시시설관리공단 기록관 운영내규.json",
+            "target_git_file_path": "세종특별자치시시설관리공단 기록관 운영내규/별지/별지8_기록물평가심의회 회의록.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -830,7 +925,12 @@
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:세종특별자치시시설관리공단기록관운영내규#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "세종특별자치시시설관리공단 기록관 운영내규/세종특별자치시시설관리공단 기록관 운영내규.json"
+            "target_git_path_guess": "세종특별자치시시설관리공단 기록관 운영내규/세종특별자치시시설관리공단 기록관 운영내규.json",
+            "target_git_path": "세종특별자치시시설관리공단 기록관 운영내규/세종특별자치시시설관리공단 기록관 운영내규.json",
+            "target_git_file_path": "세종특별자치시시설관리공단 기록관 운영내규/별지/별지6_기록물평가심의서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -855,7 +955,12 @@
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:세종특별자치시시설관리공단기록관운영내규#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "세종특별자치시시설관리공단 기록관 운영내규/세종특별자치시시설관리공단 기록관 운영내규.json"
+            "target_git_path_guess": "세종특별자치시시설관리공단 기록관 운영내규/세종특별자치시시설관리공단 기록관 운영내규.json",
+            "target_git_path": "세종특별자치시시설관리공단 기록관 운영내규/세종특별자치시시설관리공단 기록관 운영내규.json",
+            "target_git_file_path": "세종특별자치시시설관리공단 기록관 운영내규/별지/별지7_기록물 심의의결서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -880,7 +985,12 @@
             "target_unit": "BJ0008",
             "reference_id": "SchlPubRul:세종특별자치시시설관리공단기록관운영내규#BJ0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "세종특별자치시시설관리공단 기록관 운영내규/세종특별자치시시설관리공단 기록관 운영내규.json"
+            "target_git_path_guess": "세종특별자치시시설관리공단 기록관 운영내규/세종특별자치시시설관리공단 기록관 운영내규.json",
+            "target_git_path": "세종특별자치시시설관리공단 기록관 운영내규/세종특별자치시시설관리공단 기록관 운영내규.json",
+            "target_git_file_path": "세종특별자치시시설관리공단 기록관 운영내규/별지/별지8_기록물평가심의회 회의록.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -978,7 +1088,9 @@
             "source_provision_id": "SchlPubRul:세종특별자치시시설관리공단기록관운영내규#JO0031",
             "reference_id": "law:보안업무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -998,7 +1110,9 @@
             "source_provision_id": "SchlPubRul:세종특별자치시시설관리공단기록관운영내규#JO0031",
             "reference_id": "law:보안업무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1068,7 +1182,12 @@
             "target_unit": "BJ0009",
             "reference_id": "SchlPubRul:세종특별자치시시설관리공단기록관운영내규#BJ0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "세종특별자치시시설관리공단 기록관 운영내규/세종특별자치시시설관리공단 기록관 운영내규.json"
+            "target_git_path_guess": "세종특별자치시시설관리공단 기록관 운영내규/세종특별자치시시설관리공단 기록관 운영내규.json",
+            "target_git_path": "세종특별자치시시설관리공단 기록관 운영내규/세종특별자치시시설관리공단 기록관 운영내규.json",
+            "target_git_file_path": "세종특별자치시시설관리공단 기록관 운영내규/별지/별지9_기록물반출반입서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1193,7 +1312,12 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:세종특별자치시시설관리공단기록관운영내규#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "세종특별자치시시설관리공단 기록관 운영내규/세종특별자치시시설관리공단 기록관 운영내규.json"
+            "target_git_path_guess": "세종특별자치시시설관리공단 기록관 운영내규/세종특별자치시시설관리공단 기록관 운영내규.json",
+            "target_git_path": "세종특별자치시시설관리공단 기록관 운영내규/세종특별자치시시설관리공단 기록관 운영내규.json",
+            "target_git_file_path": "세종특별자치시시설관리공단 기록관 운영내규/별표/별표3_기록물 보존기간별 분류기준(제17조 제1항, 제44조).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],

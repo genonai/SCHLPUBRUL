@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0001",
             "reference_id": "law:국제개발협력기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국제개발협력기본법/법률/국제개발협력기본법.json"
+            "target_git_path_guess": "국제개발협력기본법/법률/국제개발협력기본법.json",
+            "target_git_path": "국제개발협력기본법/법률/국제개발협력기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -85,7 +87,9 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0001",
             "reference_id": "law:국제개발협력기본법#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "국제개발협력기본법/법률/국제개발협력기본법.json"
+            "target_git_path_guess": "국제개발협력기본법/법률/국제개발협력기본법.json",
+            "target_git_path": "국제개발협력기본법/법률/국제개발협력기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -105,7 +109,11 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0001",
             "reference_id": "admrul:국제개발협력평가지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국제개발협력 평가지침/국제개발협력 평가지침.json"
+            "target_git_path_guess": "국제개발협력 평가지침/국제개발협력 평가지침.json",
+            "target_git_path": "국제개발협력 평가지침/국제개발협력 평가지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -125,7 +133,11 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0001",
             "reference_id": "admrul:국제개발협력평가지침#JO0007",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국제개발협력 평가지침/국제개발협력 평가지침.json"
+            "target_git_path_guess": "국제개발협력 평가지침/국제개발협력 평가지침.json",
+            "target_git_path": "국제개발협력 평가지침/국제개발협력 평가지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -145,7 +157,11 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0001",
             "reference_id": "admrul:한국국제협력단사업시행지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "한국국제협력단 사업시행지침/한국국제협력단 사업시행지침.json"
+            "target_git_path_guess": "한국국제협력단 사업시행지침/한국국제협력단 사업시행지침.json",
+            "target_git_path": "한국국제협력단사업시행지침/한국국제협력단사업시행지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -165,7 +181,11 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0001",
             "reference_id": "admrul:한국국제협력단사업시행지침#JO0016",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "한국국제협력단 사업시행지침/한국국제협력단 사업시행지침.json"
+            "target_git_path_guess": "한국국제협력단 사업시행지침/한국국제협력단 사업시행지침.json",
+            "target_git_path": "한국국제협력단사업시행지침/한국국제협력단사업시행지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -197,7 +217,11 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0002",
             "reference_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json"
+            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_git_path": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -217,7 +241,11 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0002",
             "reference_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json"
+            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_git_path": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -237,7 +265,11 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0002",
             "reference_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json"
+            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_git_path": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -257,7 +289,11 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0002",
             "reference_id": "admrul:한국국제협력단사업시행지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "한국국제협력단 사업시행지침/한국국제협력단 사업시행지침.json"
+            "target_git_path_guess": "한국국제협력단 사업시행지침/한국국제협력단 사업시행지침.json",
+            "target_git_path": "한국국제협력단사업시행지침/한국국제협력단사업시행지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -277,7 +313,11 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0002",
             "reference_id": "admrul:한국국제협력단사업시행지침#JO0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "한국국제협력단 사업시행지침/한국국제협력단 사업시행지침.json"
+            "target_git_path_guess": "한국국제협력단 사업시행지침/한국국제협력단 사업시행지침.json",
+            "target_git_path": "한국국제협력단사업시행지침/한국국제협력단사업시행지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -297,7 +337,11 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0002",
             "reference_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json"
+            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_git_path": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -317,7 +361,11 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0002",
             "reference_id": "admrul:국제개발협력평가지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국제개발협력 평가지침/국제개발협력 평가지침.json"
+            "target_git_path_guess": "국제개발협력 평가지침/국제개발협력 평가지침.json",
+            "target_git_path": "국제개발협력 평가지침/국제개발협력 평가지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -337,7 +385,11 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0002",
             "reference_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json"
+            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_git_path": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -369,7 +421,11 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0003",
             "reference_id": "admrul:한국국제협력단사업시행지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "한국국제협력단 사업시행지침/한국국제협력단 사업시행지침.json"
+            "target_git_path_guess": "한국국제협력단 사업시행지침/한국국제협력단 사업시행지침.json",
+            "target_git_path": "한국국제협력단사업시행지침/한국국제협력단사업시행지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -389,7 +445,11 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0003",
             "reference_id": "admrul:한국국제협력단사업시행지침#JO0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "한국국제협력단 사업시행지침/한국국제협력단 사업시행지침.json"
+            "target_git_path_guess": "한국국제협력단 사업시행지침/한국국제협력단 사업시행지침.json",
+            "target_git_path": "한국국제협력단사업시행지침/한국국제협력단사업시행지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -465,7 +525,11 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0008",
             "reference_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json"
+            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_git_path": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -485,7 +549,11 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0008",
             "reference_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json"
+            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_git_path": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -505,7 +573,11 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0008",
             "reference_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json"
+            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_git_path": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -542,7 +614,12 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:(한국국제협력단)사업평가규정#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json"
+            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_git_path": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_git_file_path": "(한국국제협력단) 사업평가 규정/별표/별표3_평가성 사정 기준 및 체크리스트.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -562,7 +639,11 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0009",
             "reference_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json"
+            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_git_path": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -582,7 +663,11 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0009",
             "reference_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json"
+            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_git_path": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -602,7 +687,11 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0009",
             "reference_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json"
+            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_git_path": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -634,7 +723,11 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0010",
             "reference_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0038",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json"
+            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_git_path": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -654,7 +747,11 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0010",
             "reference_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json"
+            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_git_path": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -674,7 +771,11 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0010",
             "reference_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json"
+            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_git_path": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -706,7 +807,11 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0011",
             "reference_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json"
+            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_git_path": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -738,7 +843,11 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0012",
             "reference_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json"
+            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_git_path": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -770,7 +879,11 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0013",
             "reference_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json"
+            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_git_path": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -790,7 +903,11 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0013",
             "reference_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json"
+            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_git_path": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -815,7 +932,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(한국국제협력단)사업평가규정#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json"
+            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_git_path": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_git_file_path": "(한국국제협력단) 사업평가 규정/별지/별지2_평 가 윤 리 준 수 확 인 서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1000,7 +1122,11 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0026",
             "reference_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json"
+            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_git_path": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1020,7 +1146,11 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0026",
             "reference_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json"
+            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_git_path": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1052,7 +1182,11 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0027",
             "reference_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0023",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json"
+            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_git_path": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1084,7 +1218,11 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0028",
             "reference_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0027",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json"
+            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_git_path": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1109,7 +1247,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(한국국제협력단)사업평가규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json"
+            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_git_path": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_git_file_path": "(한국국제협력단) 사업평가 규정/별표/별표1_평가 품질검토 기준표 _개정 2024. 07. 30._.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1152,7 +1295,11 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0030",
             "reference_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0027",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json"
+            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_git_path": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1172,7 +1319,11 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0030",
             "reference_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0028",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json"
+            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_git_path": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -1192,7 +1343,9 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0030",
             "reference_id": "law:국제개발협력기본법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국제개발협력기본법/시행령/국제개발협력기본법 시행령.json"
+            "target_git_path_guess": "국제개발협력기본법/시행령/국제개발협력기본법 시행령.json",
+            "target_git_path": "국제개발협력기본법/시행령/국제개발협력기본법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1212,7 +1365,9 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0030",
             "reference_id": "law:국제개발협력기본법시행령#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "국제개발협력기본법/시행령/국제개발협력기본법 시행령.json"
+            "target_git_path_guess": "국제개발협력기본법/시행령/국제개발협력기본법 시행령.json",
+            "target_git_path": "국제개발협력기본법/시행령/국제개발협력기본법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1232,7 +1387,9 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0030",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1252,7 +1409,9 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0030",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1284,7 +1443,11 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0031",
             "reference_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0027",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json"
+            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_git_path": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1304,7 +1467,11 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0031",
             "reference_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0030",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json"
+            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_git_path": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1341,7 +1508,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:(한국국제협력단)사업평가규정#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json"
+            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_git_path": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_git_file_path": "(한국국제협력단) 사업평가 규정/별지/별지5_평가정보 공개 수용 서약서(용역_개별전문가 해당).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1373,7 +1545,11 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0033",
             "reference_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0027",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json"
+            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_git_path": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1393,7 +1569,11 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0033",
             "reference_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0028",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json"
+            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_git_path": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1413,7 +1593,11 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0033",
             "reference_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json"
+            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_git_path": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1445,7 +1629,11 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0034",
             "reference_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0023",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json"
+            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_git_path": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1465,7 +1653,11 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0034",
             "reference_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0027",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json"
+            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_git_path": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1485,7 +1677,11 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0034",
             "reference_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0028",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json"
+            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_git_path": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1510,7 +1706,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:(한국국제협력단)사업평가규정#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json"
+            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_git_path": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_git_file_path": "(한국국제협력단) 사업평가 규정/별표/별표2_사업 평가자료 소프트파일 양식 및 준수사항.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1542,7 +1743,11 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0035",
             "reference_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json"
+            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_git_path": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1562,7 +1767,11 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0035",
             "reference_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0028",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json"
+            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_git_path": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1594,7 +1803,11 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0036",
             "reference_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json"
+            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_git_path": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1626,7 +1839,11 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0037",
             "reference_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0034",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json"
+            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_git_path": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1658,7 +1875,11 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0038",
             "reference_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json"
+            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_git_path": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1678,7 +1899,11 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0038",
             "reference_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0035",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json"
+            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_git_path": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1698,7 +1923,11 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0038",
             "reference_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0036",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json"
+            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_git_path": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1718,7 +1947,11 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0038",
             "reference_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0035",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json"
+            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_git_path": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1738,7 +1971,11 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0038",
             "reference_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0036",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json"
+            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_git_path": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1758,7 +1995,11 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0038",
             "reference_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json"
+            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_git_path": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1795,7 +2036,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(한국국제협력단)사업평가규정#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json"
+            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_git_path": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_git_file_path": "(한국국제협력단) 사업평가 규정/별지/별지2_평 가 윤 리 준 수 확 인 서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1827,7 +2073,11 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0040",
             "reference_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json"
+            "target_git_path_guess": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_git_path": "(한국국제협력단) 사업평가 규정/(한국국제협력단) 사업평가 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1936,7 +2186,9 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)사업평가규정#JO0048",
             "reference_id": "law:양성평등기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json"
+            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json",
+            "target_git_path": "양성평등기본법/법률/양성평등기본법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

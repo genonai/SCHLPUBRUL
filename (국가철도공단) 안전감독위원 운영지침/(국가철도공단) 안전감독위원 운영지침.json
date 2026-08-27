@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)안전감독위원운영지침#JO0001",
             "reference_id": "law:철도안전법#JO0045",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도안전법/법률/철도안전법.json"
+            "target_git_path_guess": "철도안전법/법률/철도안전법.json",
+            "target_git_path": "철도안전법/법률/철도안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -85,7 +87,9 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)안전감독위원운영지침#JO0001",
             "reference_id": "law:철도안전법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도안전법/시행령/철도안전법 시행령.json"
+            "target_git_path_guess": "철도안전법/시행령/철도안전법 시행령.json",
+            "target_git_path": "철도안전법/시행령/철도안전법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -105,7 +109,9 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)안전감독위원운영지침#JO0001",
             "reference_id": "law:철도안전법시행령#JO0063",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도안전법/시행령/철도안전법 시행령.json"
+            "target_git_path_guess": "철도안전법/시행령/철도안전법 시행령.json",
+            "target_git_path": "철도안전법/시행령/철도안전법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -148,7 +154,9 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)안전감독위원운영지침#JO0003",
             "reference_id": "law:건설기술진흥법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설기술진흥법/법률/건설기술진흥법.json"
+            "target_git_path_guess": "건설기술진흥법/법률/건설기술진흥법.json",
+            "target_git_path": "건설기술 진흥법/법률/건설기술 진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -168,7 +176,9 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)안전감독위원운영지침#JO0003",
             "reference_id": "law:건설기술진흥법#JO0053",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설기술진흥법/법률/건설기술진흥법.json"
+            "target_git_path_guess": "건설기술진흥법/법률/건설기술진흥법.json",
+            "target_git_path": "건설기술 진흥법/법률/건설기술 진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -188,7 +198,9 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)안전감독위원운영지침#JO0003",
             "reference_id": "law:철도안전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도안전법/법률/철도안전법.json"
+            "target_git_path_guess": "철도안전법/법률/철도안전법.json",
+            "target_git_path": "철도안전법/법률/철도안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -208,7 +220,9 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)안전감독위원운영지침#JO0003",
             "reference_id": "law:철도안전법#JO0045",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도안전법/법률/철도안전법.json"
+            "target_git_path_guess": "철도안전법/법률/철도안전법.json",
+            "target_git_path": "철도안전법/법률/철도안전법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -245,7 +259,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(국가철도공단)안전감독위원운영지침#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 안전감독위원 운영지침/(국가철도공단) 안전감독위원 운영지침.json"
+            "target_git_path_guess": "(국가철도공단) 안전감독위원 운영지침/(국가철도공단) 안전감독위원 운영지침.json",
+            "target_git_path": "(국가철도공단) 안전감독위원 운영지침/(국가철도공단) 안전감독위원 운영지침.json",
+            "target_git_file_path": "(국가철도공단) 안전감독위원 운영지침/별표/별표1_안전감독위원 자격요건.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -270,7 +289,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(국가철도공단)안전감독위원운영지침#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 안전감독위원 운영지침/(국가철도공단) 안전감독위원 운영지침.json"
+            "target_git_path_guess": "(국가철도공단) 안전감독위원 운영지침/(국가철도공단) 안전감독위원 운영지침.json",
+            "target_git_path": "(국가철도공단) 안전감독위원 운영지침/(국가철도공단) 안전감독위원 운영지침.json",
+            "target_git_file_path": "(국가철도공단) 안전감독위원 운영지침/별지/별지1_안전감독위원증.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -318,7 +342,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:(국가철도공단)안전감독위원운영지침#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 안전감독위원 운영지침/(국가철도공단) 안전감독위원 운영지침.json"
+            "target_git_path_guess": "(국가철도공단) 안전감독위원 운영지침/(국가철도공단) 안전감독위원 운영지침.json",
+            "target_git_path": "(국가철도공단) 안전감독위원 운영지침/(국가철도공단) 안전감독위원 운영지침.json",
+            "target_git_file_path": "(국가철도공단) 안전감독위원 운영지침/별표/별표2_안전감독위원 용품 및 지원장비.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -366,7 +395,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(국가철도공단)안전감독위원운영지침#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 안전감독위원 운영지침/(국가철도공단) 안전감독위원 운영지침.json"
+            "target_git_path_guess": "(국가철도공단) 안전감독위원 운영지침/(국가철도공단) 안전감독위원 운영지침.json",
+            "target_git_path": "(국가철도공단) 안전감독위원 운영지침/(국가철도공단) 안전감독위원 운영지침.json",
+            "target_git_file_path": "(국가철도공단) 안전감독위원 운영지침/별지/별지2_안전감독위원 안전점검표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -391,7 +425,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:(국가철도공단)안전감독위원운영지침#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 안전감독위원 운영지침/(국가철도공단) 안전감독위원 운영지침.json"
+            "target_git_path_guess": "(국가철도공단) 안전감독위원 운영지침/(국가철도공단) 안전감독위원 운영지침.json",
+            "target_git_path": "(국가철도공단) 안전감독위원 운영지침/(국가철도공단) 안전감독위원 운영지침.json",
+            "target_git_file_path": "(국가철도공단) 안전감독위원 운영지침/별지/별지3_안전감독위원 점검관리대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -416,7 +455,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:(국가철도공단)안전감독위원운영지침#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 안전감독위원 운영지침/(국가철도공단) 안전감독위원 운영지침.json"
+            "target_git_path_guess": "(국가철도공단) 안전감독위원 운영지침/(국가철도공단) 안전감독위원 운영지침.json",
+            "target_git_path": "(국가철도공단) 안전감독위원 운영지침/(국가철도공단) 안전감독위원 운영지침.json",
+            "target_git_file_path": "(국가철도공단) 안전감독위원 운영지침/별지/별지4_지도점검일지.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -464,7 +508,12 @@
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:(국가철도공단)안전감독위원운영지침#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 안전감독위원 운영지침/(국가철도공단) 안전감독위원 운영지침.json"
+            "target_git_path_guess": "(국가철도공단) 안전감독위원 운영지침/(국가철도공단) 안전감독위원 운영지침.json",
+            "target_git_path": "(국가철도공단) 안전감독위원 운영지침/(국가철도공단) 안전감독위원 운영지침.json",
+            "target_git_file_path": "(국가철도공단) 안전감독위원 운영지침/별지/별지7_확인서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -512,7 +561,12 @@
             "target_unit": "BJ0011",
             "reference_id": "SchlPubRul:(국가철도공단)안전감독위원운영지침#BJ0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 안전감독위원 운영지침/(국가철도공단) 안전감독위원 운영지침.json"
+            "target_git_path_guess": "(국가철도공단) 안전감독위원 운영지침/(국가철도공단) 안전감독위원 운영지침.json",
+            "target_git_path": "(국가철도공단) 안전감독위원 운영지침/(국가철도공단) 안전감독위원 운영지침.json",
+            "target_git_file_path": "(국가철도공단) 안전감독위원 운영지침/별지/별지11_안전지도점검 지적사항 조치결과.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -549,7 +603,12 @@
             "target_unit": "BJ0012",
             "reference_id": "SchlPubRul:(국가철도공단)안전감독위원운영지침#BJ0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 안전감독위원 운영지침/(국가철도공단) 안전감독위원 운영지침.json"
+            "target_git_path_guess": "(국가철도공단) 안전감독위원 운영지침/(국가철도공단) 안전감독위원 운영지침.json",
+            "target_git_path": "(국가철도공단) 안전감독위원 운영지침/(국가철도공단) 안전감독위원 운영지침.json",
+            "target_git_file_path": "(국가철도공단) 안전감독위원 운영지침/별지/별지12_우수사례.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

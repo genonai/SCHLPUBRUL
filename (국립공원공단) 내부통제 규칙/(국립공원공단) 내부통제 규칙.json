@@ -120,7 +120,11 @@
             "source_provision_id": "SchlPubRul:(국립공원공단)내부통제규칙#JO0006",
             "reference_id": "SchlPubRul:(국립공원공단)내부통제규칙#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국립공원공단) 내부통제 규칙/(국립공원공단) 내부통제 규칙.json"
+            "target_git_path_guess": "(국립공원공단) 내부통제 규칙/(국립공원공단) 내부통제 규칙.json",
+            "target_git_path": "(국립공원공단) 내부통제 규칙/(국립공원공단) 내부통제 규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -240,7 +244,9 @@
             "source_provision_id": "SchlPubRul:(국립공원공단)내부통제규칙#JO0015",
             "reference_id": "law:공직자의이해충돌방지법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공직자의 이해충돌방지법/법률/공직자의 이해충돌방지법.json"
+            "target_git_path_guess": "공직자의 이해충돌방지법/법률/공직자의 이해충돌방지법.json",
+            "target_git_path": "공직자의 이해충돌 방지법/법률/공직자의 이해충돌 방지법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

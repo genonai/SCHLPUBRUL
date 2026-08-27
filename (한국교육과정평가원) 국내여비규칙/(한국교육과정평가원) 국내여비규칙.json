@@ -120,7 +120,11 @@
             "source_provision_id": "SchlPubRul:(한국교육과정평가원)국내여비규칙#JO0005",
             "reference_id": "SchlPubRul:(한국교육과정평가원)국내여비규칙#JO0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국교육과정평가원) 국내여비규칙/(한국교육과정평가원) 국내여비규칙.json"
+            "target_git_path_guess": "(한국교육과정평가원) 국내여비규칙/(한국교육과정평가원) 국내여비규칙.json",
+            "target_git_path": "(한국교육과정평가원) 국내여비규칙/(한국교육과정평가원) 국내여비규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -140,7 +144,11 @@
             "source_provision_id": "SchlPubRul:(한국교육과정평가원)국내여비규칙#JO0005",
             "reference_id": "SchlPubRul:(한국교육과정평가원)국내여비규칙#JO0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국교육과정평가원) 국내여비규칙/(한국교육과정평가원) 국내여비규칙.json"
+            "target_git_path_guess": "(한국교육과정평가원) 국내여비규칙/(한국교육과정평가원) 국내여비규칙.json",
+            "target_git_path": "(한국교육과정평가원) 국내여비규칙/(한국교육과정평가원) 국내여비규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -216,7 +224,9 @@
             "source_provision_id": "SchlPubRul:(한국교육과정평가원)국내여비규칙#JO0010",
             "reference_id": "law:여신전문금융업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "여신전문금융업법/법률/여신전문금융업법.json"
+            "target_git_path_guess": "여신전문금융업법/법률/여신전문금융업법.json",
+            "target_git_path": "여신전문금융업법/법률/여신전문금융업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -236,7 +246,9 @@
             "source_provision_id": "SchlPubRul:(한국교육과정평가원)국내여비규칙#JO0010",
             "reference_id": "law:여신전문금융업법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "여신전문금융업법/법률/여신전문금융업법.json"
+            "target_git_path_guess": "여신전문금융업법/법률/여신전문금융업법.json",
+            "target_git_path": "여신전문금융업법/법률/여신전문금융업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -301,7 +313,9 @@
             "source_provision_id": "SchlPubRul:(한국교육과정평가원)국내여비규칙#JO0013",
             "reference_id": "law:공무원여비규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 여비 규정/법률/공무원 여비 규정.json"
+            "target_git_path_guess": "공무원 여비 규정/법률/공무원 여비 규정.json",
+            "target_git_path": "공무원 여비 규정/법률/공무원 여비 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

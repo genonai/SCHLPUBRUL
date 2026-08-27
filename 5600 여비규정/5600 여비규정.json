@@ -120,7 +120,11 @@
             "source_provision_id": "SchlPubRul:5600여비규정#JO0005",
             "reference_id": "SchlPubRul:5600여비규정#JO0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "5600 여비규정/5600 여비규정.json"
+            "target_git_path_guess": "5600 여비규정/5600 여비규정.json",
+            "target_git_path": "5600 여비규정/5600 여비규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -179,7 +183,8 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:5600여비규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "5600 여비규정/5600 여비규정.json"
+            "target_git_path_guess": "5600 여비규정/5600 여비규정.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "appendix_ref",
@@ -204,7 +209,8 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:5600여비규정#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "5600 여비규정/5600 여비규정.json"
+            "target_git_path_guess": "5600 여비규정/5600 여비규정.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -236,7 +242,9 @@
             "source_provision_id": "SchlPubRul:5600여비규정#JO0008_02",
             "reference_id": "law:여신전문금융업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "여신전문금융업법/법률/여신전문금융업법.json"
+            "target_git_path_guess": "여신전문금융업법/법률/여신전문금융업법.json",
+            "target_git_path": "여신전문금융업법/법률/여신전문금융업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -256,7 +264,9 @@
             "source_provision_id": "SchlPubRul:5600여비규정#JO0008_02",
             "reference_id": "law:여신전문금융업법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "여신전문금융업법/법률/여신전문금융업법.json"
+            "target_git_path_guess": "여신전문금융업법/법률/여신전문금융업법.json",
+            "target_git_path": "여신전문금융업법/법률/여신전문금융업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -276,7 +286,11 @@
             "source_provision_id": "SchlPubRul:5600여비규정#JO0008_02",
             "reference_id": "SchlPubRul:5600여비규정#JO0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "5600 여비규정/5600 여비규정.json"
+            "target_git_path_guess": "5600 여비규정/5600 여비규정.json",
+            "target_git_path": "5600 여비규정/5600 여비규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -313,7 +327,8 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:5600여비규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "5600 여비규정/5600 여비규정.json"
+            "target_git_path_guess": "5600 여비규정/5600 여비규정.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "internal_ref",
@@ -333,7 +348,11 @@
             "source_provision_id": "SchlPubRul:5600여비규정#JO0009",
             "reference_id": "SchlPubRul:5600여비규정#JO0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "5600 여비규정/5600 여비규정.json"
+            "target_git_path_guess": "5600 여비규정/5600 여비규정.json",
+            "target_git_path": "5600 여비규정/5600 여비규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -425,7 +444,8 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:5600여비규정#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "5600 여비규정/5600 여비규정.json"
+            "target_git_path_guess": "5600 여비규정/5600 여비규정.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "appendix_ref",
@@ -450,7 +470,8 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:5600여비규정#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "5600 여비규정/5600 여비규정.json"
+            "target_git_path_guess": "5600 여비규정/5600 여비규정.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],

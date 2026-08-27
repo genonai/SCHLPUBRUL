@@ -65,7 +65,11 @@
             "source_provision_id": "SchlPubRul:(경북대학교병원)임직원행동지침#JO0001",
             "reference_id": "SchlPubRul:(경북대학교병원)임직원행동지침#JO0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(경북대학교병원) 임직원 행동지침/(경북대학교병원) 임직원 행동지침.json"
+            "target_git_path_guess": "(경북대학교병원) 임직원 행동지침/(경북대학교병원) 임직원 행동지침.json",
+            "target_git_path": "(경북대학교병원) 임직원 행동지침/(경북대학교병원) 임직원 행동지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -97,7 +101,9 @@
             "source_provision_id": "SchlPubRul:(경북대학교병원)임직원행동지침#JO0002",
             "reference_id": "law:의료법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "의료법/법률/의료법.json"
+            "target_git_path_guess": "의료법/법률/의료법.json",
+            "target_git_path": "의료법/법률/의료법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -117,7 +123,9 @@
             "source_provision_id": "SchlPubRul:(경북대학교병원)임직원행동지침#JO0002",
             "reference_id": "law:의료법#JO0023_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "의료법/법률/의료법.json"
+            "target_git_path_guess": "의료법/법률/의료법.json",
+            "target_git_path": "의료법/법률/의료법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -137,7 +145,9 @@
             "source_provision_id": "SchlPubRul:(경북대학교병원)임직원행동지침#JO0002",
             "reference_id": "law:약사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "약사법/법률/약사법.json"
+            "target_git_path_guess": "약사법/법률/약사법.json",
+            "target_git_path": "약사법/법률/약사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -157,7 +167,9 @@
             "source_provision_id": "SchlPubRul:(경북대학교병원)임직원행동지침#JO0002",
             "reference_id": "law:약사법#JO0047",
             "target_repo": "LAW",
-            "target_git_path_guess": "약사법/법률/약사법.json"
+            "target_git_path_guess": "약사법/법률/약사법.json",
+            "target_git_path": "약사법/법률/약사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -177,7 +189,9 @@
             "source_provision_id": "SchlPubRul:(경북대학교병원)임직원행동지침#JO0002",
             "reference_id": "law:의료기기법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "의료기기법/법률/의료기기법.json"
+            "target_git_path_guess": "의료기기법/법률/의료기기법.json",
+            "target_git_path": "의료기기법/법률/의료기기법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -197,7 +211,9 @@
             "source_provision_id": "SchlPubRul:(경북대학교병원)임직원행동지침#JO0002",
             "reference_id": "law:의료기기법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "의료기기법/법률/의료기기법.json"
+            "target_git_path_guess": "의료기기법/법률/의료기기법.json",
+            "target_git_path": "의료기기법/법률/의료기기법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -217,7 +233,9 @@
             "source_provision_id": "SchlPubRul:(경북대학교병원)임직원행동지침#JO0002",
             "reference_id": "law:의료기기법#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "의료기기법/법률/의료기기법.json"
+            "target_git_path_guess": "의료기기법/법률/의료기기법.json",
+            "target_git_path": "의료기기법/법률/의료기기법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -237,7 +255,9 @@
             "source_provision_id": "SchlPubRul:(경북대학교병원)임직원행동지침#JO0002",
             "reference_id": "law:부패방지및국민권익위원회의설치와운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json"
+            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
+            "target_git_path": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -257,7 +277,9 @@
             "source_provision_id": "SchlPubRul:(경북대학교병원)임직원행동지침#JO0002",
             "reference_id": "law:부패방지및국민권익위원회의설치와운영에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json"
+            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
+            "target_git_path": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -277,7 +299,9 @@
             "source_provision_id": "SchlPubRul:(경북대학교병원)임직원행동지침#JO0002",
             "reference_id": "law:민법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -297,7 +321,9 @@
             "source_provision_id": "SchlPubRul:(경북대학교병원)임직원행동지침#JO0002",
             "reference_id": "law:민법#JO0767",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -317,7 +343,9 @@
             "source_provision_id": "SchlPubRul:(경북대학교병원)임직원행동지침#JO0002",
             "reference_id": "law:민법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -337,7 +365,9 @@
             "source_provision_id": "SchlPubRul:(경북대학교병원)임직원행동지침#JO0002",
             "reference_id": "law:민법#JO0779",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -440,7 +470,12 @@
             "target_unit": "BJ0008",
             "reference_id": "SchlPubRul:(경북대학교병원)임직원행동지침#BJ0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(경북대학교병원) 임직원 행동지침/(경북대학교병원) 임직원 행동지침.json"
+            "target_git_path_guess": "(경북대학교병원) 임직원 행동지침/(경북대학교병원) 임직원 행동지침.json",
+            "target_git_path": "(경북대학교병원) 임직원 행동지침/(경북대학교병원) 임직원 행동지침.json",
+            "target_git_file_path": "(경북대학교병원) 임직원 행동지침/별지/별지8_감독기관의 부당한 요구에 대한 신고서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -626,7 +661,11 @@
             "source_provision_id": "SchlPubRul:(경북대학교병원)임직원행동지침#JO0015_02",
             "reference_id": "SchlPubRul:(경북대학교병원)임직원행동지침#JO0015",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(경북대학교병원) 임직원 행동지침/(경북대학교병원) 임직원 행동지침.json"
+            "target_git_path_guess": "(경북대학교병원) 임직원 행동지침/(경북대학교병원) 임직원 행동지침.json",
+            "target_git_path": "(경북대학교병원) 임직원 행동지침/(경북대학교병원) 임직원 행동지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -646,7 +685,11 @@
             "source_provision_id": "SchlPubRul:(경북대학교병원)임직원행동지침#JO0015_02",
             "reference_id": "SchlPubRul:(경북대학교병원)임직원행동지침#JO0015",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(경북대학교병원) 임직원 행동지침/(경북대학교병원) 임직원 행동지침.json"
+            "target_git_path_guess": "(경북대학교병원) 임직원 행동지침/(경북대학교병원) 임직원 행동지침.json",
+            "target_git_path": "(경북대학교병원) 임직원 행동지침/(경북대학교병원) 임직원 행동지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -666,7 +709,11 @@
             "source_provision_id": "SchlPubRul:(경북대학교병원)임직원행동지침#JO0015_02",
             "reference_id": "SchlPubRul:(경북대학교병원)임직원행동지침#JO0015",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(경북대학교병원) 임직원 행동지침/(경북대학교병원) 임직원 행동지침.json"
+            "target_git_path_guess": "(경북대학교병원) 임직원 행동지침/(경북대학교병원) 임직원 행동지침.json",
+            "target_git_path": "(경북대학교병원) 임직원 행동지침/(경북대학교병원) 임직원 행동지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -720,7 +767,9 @@
             "source_provision_id": "SchlPubRul:(경북대학교병원)임직원행동지침#JO0016_03",
             "reference_id": "law:부정청탁및금품등수수의금지에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부정청탁 및 금품 등 수수의 금지에 관한 법률/법률/부정청탁 및 금품 등 수수의 금지에 관한 법률.json"
+            "target_git_path_guess": "부정청탁 및 금품 등 수수의 금지에 관한 법률/법률/부정청탁 및 금품 등 수수의 금지에 관한 법률.json",
+            "target_git_path": "부정청탁 및 금품등 수수의 금지에 관한 법률/법률/부정청탁 및 금품등 수수의 금지에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -774,7 +823,11 @@
             "source_provision_id": "SchlPubRul:(경북대학교병원)임직원행동지침#JO0017",
             "reference_id": "SchlPubRul:(경북대학교병원)임직원행동지침#JO0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(경북대학교병원) 임직원 행동지침/(경북대학교병원) 임직원 행동지침.json"
+            "target_git_path_guess": "(경북대학교병원) 임직원 행동지침/(경북대학교병원) 임직원 행동지침.json",
+            "target_git_path": "(경북대학교병원) 임직원 행동지침/(경북대학교병원) 임직원 행동지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -855,7 +908,12 @@
             "target_unit": "BJ0009",
             "reference_id": "SchlPubRul:(경북대학교병원)임직원행동지침#BJ0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(경북대학교병원) 임직원 행동지침/(경북대학교병원) 임직원 행동지침.json"
+            "target_git_path_guess": "(경북대학교병원) 임직원 행동지침/(경북대학교병원) 임직원 행동지침.json",
+            "target_git_path": "(경북대학교병원) 임직원 행동지침/(경북대학교병원) 임직원 행동지침.json",
+            "target_git_file_path": "(경북대학교병원) 임직원 행동지침/별지/별지9_상담기록관리부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -898,7 +956,11 @@
             "source_provision_id": "SchlPubRul:(경북대학교병원)임직원행동지침#JO0024",
             "reference_id": "SchlPubRul:(경북대학교병원)임직원행동지침#JO0021",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(경북대학교병원) 임직원 행동지침/(경북대학교병원) 임직원 행동지침.json"
+            "target_git_path_guess": "(경북대학교병원) 임직원 행동지침/(경북대학교병원) 임직원 행동지침.json",
+            "target_git_path": "(경북대학교병원) 임직원 행동지침/(경북대학교병원) 임직원 행동지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -918,7 +980,11 @@
             "source_provision_id": "SchlPubRul:(경북대학교병원)임직원행동지침#JO0024",
             "reference_id": "SchlPubRul:(경북대학교병원)임직원행동지침#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(경북대학교병원) 임직원 행동지침/(경북대학교병원) 임직원 행동지침.json"
+            "target_git_path_guess": "(경북대학교병원) 임직원 행동지침/(경북대학교병원) 임직원 행동지침.json",
+            "target_git_path": "(경북대학교병원) 임직원 행동지침/(경북대학교병원) 임직원 행동지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -983,7 +1049,11 @@
             "source_provision_id": "SchlPubRul:(경북대학교병원)임직원행동지침#JO0027",
             "reference_id": "SchlPubRul:(경북대학교병원)임직원행동지침#JO0025",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(경북대학교병원) 임직원 행동지침/(경북대학교병원) 임직원 행동지침.json"
+            "target_git_path_guess": "(경북대학교병원) 임직원 행동지침/(경북대학교병원) 임직원 행동지침.json",
+            "target_git_path": "(경북대학교병원) 임직원 행동지침/(경북대학교병원) 임직원 행동지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1003,7 +1073,11 @@
             "source_provision_id": "SchlPubRul:(경북대학교병원)임직원행동지침#JO0027",
             "reference_id": "SchlPubRul:(경북대학교병원)임직원행동지침#JO0022",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(경북대학교병원) 임직원 행동지침/(경북대학교병원) 임직원 행동지침.json"
+            "target_git_path_guess": "(경북대학교병원) 임직원 행동지침/(경북대학교병원) 임직원 행동지침.json",
+            "target_git_path": "(경북대학교병원) 임직원 행동지침/(경북대학교병원) 임직원 행동지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1023,7 +1097,11 @@
             "source_provision_id": "SchlPubRul:(경북대학교병원)임직원행동지침#JO0027",
             "reference_id": "SchlPubRul:(경북대학교병원)임직원행동지침#JO0015",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(경북대학교병원) 임직원 행동지침/(경북대학교병원) 임직원 행동지침.json"
+            "target_git_path_guess": "(경북대학교병원) 임직원 행동지침/(경북대학교병원) 임직원 행동지침.json",
+            "target_git_path": "(경북대학교병원) 임직원 행동지침/(경북대학교병원) 임직원 행동지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

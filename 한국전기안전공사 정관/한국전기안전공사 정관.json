@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:한국전기안전공사정관#JO0001",
             "reference_id": "law:전기안전관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기안전관리법/법률/전기안전관리법.json"
+            "target_git_path_guess": "전기안전관리법/법률/전기안전관리법.json",
+            "target_git_path": "전기안전관리법/법률/전기안전관리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -119,7 +121,11 @@
             "source_provision_id": "SchlPubRul:한국전기안전공사정관#JO0004",
             "reference_id": "SchlPubRul:한국전기안전공사정관#JO0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국전기안전공사 정관/한국전기안전공사 정관.json"
+            "target_git_path_guess": "한국전기안전공사 정관/한국전기안전공사 정관.json",
+            "target_git_path": "한국전기안전공사 정관/한국전기안전공사 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -151,7 +157,9 @@
             "source_provision_id": "SchlPubRul:한국전기안전공사정관#JO0005",
             "reference_id": "law:노동조합및노동관계조정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "노동조합 및 노동관계조정법/법률/노동조합 및 노동관계조정법.json"
+            "target_git_path_guess": "노동조합 및 노동관계조정법/법률/노동조합 및 노동관계조정법.json",
+            "target_git_path": "노동조합 및 노동관계조정법/법률/노동조합 및 노동관계조정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -171,7 +179,9 @@
             "source_provision_id": "SchlPubRul:한국전기안전공사정관#JO0005",
             "reference_id": "law:근로자참여및협력증진에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로자참여 및 협력증진에 관한 법률/법률/근로자참여 및 협력증진에 관한 법률.json"
+            "target_git_path_guess": "근로자참여 및 협력증진에 관한 법률/법률/근로자참여 및 협력증진에 관한 법률.json",
+            "target_git_path": "근로자참여 및 협력증진에 관한 법률/법률/근로자참여 및 협력증진에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -191,7 +201,9 @@
             "source_provision_id": "SchlPubRul:한국전기안전공사정관#JO0005",
             "reference_id": "law:근로자참여및협력증진에관한법률#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로자참여 및 협력증진에 관한 법률/법률/근로자참여 및 협력증진에 관한 법률.json"
+            "target_git_path_guess": "근로자참여 및 협력증진에 관한 법률/법률/근로자참여 및 협력증진에 관한 법률.json",
+            "target_git_path": "근로자참여 및 협력증진에 관한 법률/법률/근로자참여 및 협력증진에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -211,7 +223,11 @@
             "source_provision_id": "SchlPubRul:한국전기안전공사정관#JO0005",
             "reference_id": "SchlPubRul:한국전기안전공사정관#JO0026",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국전기안전공사 정관/한국전기안전공사 정관.json"
+            "target_git_path_guess": "한국전기안전공사 정관/한국전기안전공사 정관.json",
+            "target_git_path": "한국전기안전공사 정관/한국전기안전공사 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -231,7 +247,11 @@
             "source_provision_id": "SchlPubRul:한국전기안전공사정관#JO0005",
             "reference_id": "SchlPubRul:한국전기안전공사정관#JO0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국전기안전공사 정관/한국전기안전공사 정관.json"
+            "target_git_path_guess": "한국전기안전공사 정관/한국전기안전공사 정관.json",
+            "target_git_path": "한국전기안전공사 정관/한국전기안전공사 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -263,7 +283,9 @@
             "source_provision_id": "SchlPubRul:한국전기안전공사정관#JO0005_02",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -283,7 +305,9 @@
             "source_provision_id": "SchlPubRul:한국전기안전공사정관#JO0005_02",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -303,7 +327,9 @@
             "source_provision_id": "SchlPubRul:한국전기안전공사정관#JO0005_02",
             "reference_id": "law:공공기관의운영에관한법률#JO0029",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -335,7 +361,9 @@
             "source_provision_id": "SchlPubRul:한국전기안전공사정관#JO0006",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -378,7 +406,11 @@
             "source_provision_id": "SchlPubRul:한국전기안전공사정관#JO0006_03",
             "reference_id": "SchlPubRul:한국전기안전공사정관#JO0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국전기안전공사 정관/한국전기안전공사 정관.json"
+            "target_git_path_guess": "한국전기안전공사 정관/한국전기안전공사 정관.json",
+            "target_git_path": "한국전기안전공사 정관/한국전기안전공사 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -410,7 +442,9 @@
             "source_provision_id": "SchlPubRul:한국전기안전공사정관#JO0006_04",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -430,7 +464,9 @@
             "source_provision_id": "SchlPubRul:한국전기안전공사정관#JO0006_04",
             "reference_id": "law:국가공무원법#JO0079",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -462,7 +498,9 @@
             "source_provision_id": "SchlPubRul:한국전기안전공사정관#JO0007",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -482,7 +520,9 @@
             "source_provision_id": "SchlPubRul:한국전기안전공사정관#JO0007",
             "reference_id": "law:국가공무원법#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -502,7 +542,11 @@
             "source_provision_id": "SchlPubRul:한국전기안전공사정관#JO0007",
             "reference_id": "SchlPubRul:한국전기안전공사정관#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국전기안전공사 정관/한국전기안전공사 정관.json"
+            "target_git_path_guess": "한국전기안전공사 정관/한국전기안전공사 정관.json",
+            "target_git_path": "한국전기안전공사 정관/한국전기안전공사 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -534,7 +578,9 @@
             "source_provision_id": "SchlPubRul:한국전기안전공사정관#JO0008",
             "reference_id": "law:형사소송법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
+            "target_git_path": "형사소송법/법률/형사소송법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -554,7 +600,9 @@
             "source_provision_id": "SchlPubRul:한국전기안전공사정관#JO0008",
             "reference_id": "law:형사소송법#JO0070",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
+            "target_git_path": "형사소송법/법률/형사소송법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -574,7 +622,9 @@
             "source_provision_id": "SchlPubRul:한국전기안전공사정관#JO0008",
             "reference_id": "law:형사소송법#JO0201",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
+            "target_git_path": "형사소송법/법률/형사소송법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -617,7 +667,9 @@
             "source_provision_id": "SchlPubRul:한국전기안전공사정관#JO0009",
             "reference_id": "law:상법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "상법/법률/상법.json"
+            "target_git_path_guess": "상법/법률/상법.json",
+            "target_git_path": "상법/법률/상법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -637,7 +689,9 @@
             "source_provision_id": "SchlPubRul:한국전기안전공사정관#JO0009",
             "reference_id": "law:상법#JO0382_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "상법/법률/상법.json"
+            "target_git_path_guess": "상법/법률/상법.json",
+            "target_git_path": "상법/법률/상법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -657,7 +711,9 @@
             "source_provision_id": "SchlPubRul:한국전기안전공사정관#JO0009",
             "reference_id": "law:상법#JO0382_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "상법/법률/상법.json"
+            "target_git_path_guess": "상법/법률/상법.json",
+            "target_git_path": "상법/법률/상법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -677,7 +733,9 @@
             "source_provision_id": "SchlPubRul:한국전기안전공사정관#JO0009",
             "reference_id": "law:상법#JO0399",
             "target_repo": "LAW",
-            "target_git_path_guess": "상법/법률/상법.json"
+            "target_git_path_guess": "상법/법률/상법.json",
+            "target_git_path": "상법/법률/상법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -697,7 +755,9 @@
             "source_provision_id": "SchlPubRul:한국전기안전공사정관#JO0009",
             "reference_id": "law:상법#JO0400",
             "target_repo": "LAW",
-            "target_git_path_guess": "상법/법률/상법.json"
+            "target_git_path_guess": "상법/법률/상법.json",
+            "target_git_path": "상법/법률/상법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -717,7 +777,9 @@
             "source_provision_id": "SchlPubRul:한국전기안전공사정관#JO0009",
             "reference_id": "law:상법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "상법/법률/상법.json"
+            "target_git_path_guess": "상법/법률/상법.json",
+            "target_git_path": "상법/법률/상법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -737,7 +799,9 @@
             "source_provision_id": "SchlPubRul:한국전기안전공사정관#JO0009",
             "reference_id": "law:상법#JO0414",
             "target_repo": "LAW",
-            "target_git_path_guess": "상법/법률/상법.json"
+            "target_git_path_guess": "상법/법률/상법.json",
+            "target_git_path": "상법/법률/상법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -769,7 +833,9 @@
             "source_provision_id": "SchlPubRul:한국전기안전공사정관#JO0010",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -789,7 +855,9 @@
             "source_provision_id": "SchlPubRul:한국전기안전공사정관#JO0010",
             "reference_id": "law:공공기관의운영에관한법률#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -821,7 +889,11 @@
             "source_provision_id": "SchlPubRul:한국전기안전공사정관#JO0011",
             "reference_id": "SchlPubRul:한국전기안전공사정관#JO0008_02",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국전기안전공사 정관/한국전기안전공사 정관.json"
+            "target_git_path_guess": "한국전기안전공사 정관/한국전기안전공사 정관.json",
+            "target_git_path": "한국전기안전공사 정관/한국전기안전공사 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -841,7 +913,11 @@
             "source_provision_id": "SchlPubRul:한국전기안전공사정관#JO0011",
             "reference_id": "SchlPubRul:한국전기안전공사정관#JO0008_02",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국전기안전공사 정관/한국전기안전공사 정관.json"
+            "target_git_path_guess": "한국전기안전공사 정관/한국전기안전공사 정관.json",
+            "target_git_path": "한국전기안전공사 정관/한국전기안전공사 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -861,7 +937,9 @@
             "source_provision_id": "SchlPubRul:한국전기안전공사정관#JO0011",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -881,7 +959,9 @@
             "source_provision_id": "SchlPubRul:한국전기안전공사정관#JO0011",
             "reference_id": "law:공공기관의운영에관한법률#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -913,7 +993,9 @@
             "source_provision_id": "SchlPubRul:한국전기안전공사정관#JO0012",
             "reference_id": "law:국가공무원복무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json"
+            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_git_path": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -933,7 +1015,9 @@
             "source_provision_id": "SchlPubRul:한국전기안전공사정관#JO0012",
             "reference_id": "law:국가공무원복무규정#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json"
+            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_git_path": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1020,7 +1104,11 @@
             "source_provision_id": "SchlPubRul:한국전기안전공사정관#JO0018",
             "reference_id": "SchlPubRul:한국전기안전공사정관#JO0029",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국전기안전공사 정관/한국전기안전공사 정관.json"
+            "target_git_path_guess": "한국전기안전공사 정관/한국전기안전공사 정관.json",
+            "target_git_path": "한국전기안전공사 정관/한국전기안전공사 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1074,7 +1162,11 @@
             "source_provision_id": "SchlPubRul:한국전기안전공사정관#JO0021",
             "reference_id": "SchlPubRul:한국전기안전공사정관#JO0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국전기안전공사 정관/한국전기안전공사 정관.json"
+            "target_git_path_guess": "한국전기안전공사 정관/한국전기안전공사 정관.json",
+            "target_git_path": "한국전기안전공사 정관/한국전기안전공사 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1106,7 +1198,9 @@
             "source_provision_id": "SchlPubRul:한국전기안전공사정관#JO0022",
             "reference_id": "law:상법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "상법/법률/상법.json"
+            "target_git_path_guess": "상법/법률/상법.json",
+            "target_git_path": "상법/법률/상법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1126,7 +1220,9 @@
             "source_provision_id": "SchlPubRul:한국전기안전공사정관#JO0022",
             "reference_id": "law:상법#JO0391",
             "target_repo": "LAW",
-            "target_git_path_guess": "상법/법률/상법.json"
+            "target_git_path_guess": "상법/법률/상법.json",
+            "target_git_path": "상법/법률/상법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1158,7 +1254,9 @@
             "source_provision_id": "SchlPubRul:한국전기안전공사정관#JO0023",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1178,7 +1276,9 @@
             "source_provision_id": "SchlPubRul:한국전기안전공사정관#JO0023",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1232,7 +1332,9 @@
             "source_provision_id": "SchlPubRul:한국전기안전공사정관#JO0026",
             "reference_id": "law:전기안전관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기안전관리법/법률/전기안전관리법.json"
+            "target_git_path_guess": "전기안전관리법/법률/전기안전관리법.json",
+            "target_git_path": "전기안전관리법/법률/전기안전관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1252,7 +1354,9 @@
             "source_provision_id": "SchlPubRul:한국전기안전공사정관#JO0026",
             "reference_id": "law:전기안전관리법#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기안전관리법/법률/전기안전관리법.json"
+            "target_git_path_guess": "전기안전관리법/법률/전기안전관리법.json",
+            "target_git_path": "전기안전관리법/법률/전기안전관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1272,7 +1376,9 @@
             "source_provision_id": "SchlPubRul:한국전기안전공사정관#JO0026",
             "reference_id": "law:전기안전관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기안전관리법/법률/전기안전관리법.json"
+            "target_git_path_guess": "전기안전관리법/법률/전기안전관리법.json",
+            "target_git_path": "전기안전관리법/법률/전기안전관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1292,7 +1398,9 @@
             "source_provision_id": "SchlPubRul:한국전기안전공사정관#JO0026",
             "reference_id": "law:전기안전관리법#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기안전관리법/법률/전기안전관리법.json"
+            "target_git_path_guess": "전기안전관리법/법률/전기안전관리법.json",
+            "target_git_path": "전기안전관리법/법률/전기안전관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1312,7 +1420,9 @@
             "source_provision_id": "SchlPubRul:한국전기안전공사정관#JO0026",
             "reference_id": "law:전기안전관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기안전관리법/법률/전기안전관리법.json"
+            "target_git_path_guess": "전기안전관리법/법률/전기안전관리법.json",
+            "target_git_path": "전기안전관리법/법률/전기안전관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1332,7 +1442,9 @@
             "source_provision_id": "SchlPubRul:한국전기안전공사정관#JO0026",
             "reference_id": "law:전기안전관리법#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기안전관리법/법률/전기안전관리법.json"
+            "target_git_path_guess": "전기안전관리법/법률/전기안전관리법.json",
+            "target_git_path": "전기안전관리법/법률/전기안전관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1352,7 +1464,9 @@
             "source_provision_id": "SchlPubRul:한국전기안전공사정관#JO0026",
             "reference_id": "law:전기안전관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기안전관리법/법률/전기안전관리법.json"
+            "target_git_path_guess": "전기안전관리법/법률/전기안전관리법.json",
+            "target_git_path": "전기안전관리법/법률/전기안전관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1372,7 +1486,9 @@
             "source_provision_id": "SchlPubRul:한국전기안전공사정관#JO0026",
             "reference_id": "law:전기안전관리법#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기안전관리법/법률/전기안전관리법.json"
+            "target_git_path_guess": "전기안전관리법/법률/전기안전관리법.json",
+            "target_git_path": "전기안전관리법/법률/전기안전관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1392,7 +1508,9 @@
             "source_provision_id": "SchlPubRul:한국전기안전공사정관#JO0026",
             "reference_id": "law:전기안전관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기안전관리법/법률/전기안전관리법.json"
+            "target_git_path_guess": "전기안전관리법/법률/전기안전관리법.json",
+            "target_git_path": "전기안전관리법/법률/전기안전관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1412,7 +1530,9 @@
             "source_provision_id": "SchlPubRul:한국전기안전공사정관#JO0026",
             "reference_id": "law:전기안전관리법#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기안전관리법/법률/전기안전관리법.json"
+            "target_git_path_guess": "전기안전관리법/법률/전기안전관리법.json",
+            "target_git_path": "전기안전관리법/법률/전기안전관리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1488,7 +1608,9 @@
             "source_provision_id": "SchlPubRul:한국전기안전공사정관#JO0030",
             "reference_id": "law:공인회계사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공인회계사법/법률/공인회계사법.json"
+            "target_git_path_guess": "공인회계사법/법률/공인회계사법.json",
+            "target_git_path": "공인회계사법/법률/공인회계사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1508,7 +1630,9 @@
             "source_provision_id": "SchlPubRul:한국전기안전공사정관#JO0030",
             "reference_id": "law:공인회계사법#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "공인회계사법/법률/공인회계사법.json"
+            "target_git_path_guess": "공인회계사법/법률/공인회계사법.json",
+            "target_git_path": "공인회계사법/법률/공인회계사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1528,7 +1652,9 @@
             "source_provision_id": "SchlPubRul:한국전기안전공사정관#JO0030",
             "reference_id": "law:공인회계사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공인회계사법/법률/공인회계사법.json"
+            "target_git_path_guess": "공인회계사법/법률/공인회계사법.json",
+            "target_git_path": "공인회계사법/법률/공인회계사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1548,7 +1674,9 @@
             "source_provision_id": "SchlPubRul:한국전기안전공사정관#JO0030",
             "reference_id": "law:공인회계사법#JO0041",
             "target_repo": "LAW",
-            "target_git_path_guess": "공인회계사법/법률/공인회계사법.json"
+            "target_git_path_guess": "공인회계사법/법률/공인회계사법.json",
+            "target_git_path": "공인회계사법/법률/공인회계사법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1602,7 +1730,9 @@
             "source_provision_id": "SchlPubRul:한국전기안전공사정관#JO0032_02",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1622,7 +1752,9 @@
             "source_provision_id": "SchlPubRul:한국전기안전공사정관#JO0032_02",
             "reference_id": "law:공공기관의운영에관한법률#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1687,7 +1819,11 @@
             "source_provision_id": "SchlPubRul:한국전기안전공사정관#JO0036",
             "reference_id": "SchlPubRul:한국전기안전공사정관#JO0019",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국전기안전공사 정관/한국전기안전공사 정관.json"
+            "target_git_path_guess": "한국전기안전공사 정관/한국전기안전공사 정관.json",
+            "target_git_path": "한국전기안전공사 정관/한국전기안전공사 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

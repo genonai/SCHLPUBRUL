@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:공공하수도시설등관리운영업무위탁대행계약서#JO0001",
             "reference_id": "law:하수도법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "하수도법/법률/하수도법.json"
+            "target_git_path_guess": "하수도법/법률/하수도법.json",
+            "target_git_path": "하수도법/법률/하수도법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -85,7 +87,9 @@
             "source_provision_id": "SchlPubRul:공공하수도시설등관리운영업무위탁대행계약서#JO0001",
             "reference_id": "law:하수도법#JO0019_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "하수도법/법률/하수도법.json"
+            "target_git_path_guess": "하수도법/법률/하수도법.json",
+            "target_git_path": "하수도법/법률/하수도법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -103,7 +107,11 @@
             "target_url": "https://www.law.go.kr/자치법규/부산환경공단 설치 조례",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:공공하수도시설등관리운영업무위탁대행계약서#JO0001",
-            "reference_id": "ordin:부산환경공단설치조례#DOC"
+            "reference_id": "ordin:부산환경공단설치조례#DOC",
+            "target_git_path": "부산환경공단설치조례/부산환경공단설치조례.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -121,7 +129,11 @@
             "target_url": "https://www.law.go.kr/자치법규/부산환경공단 설치 조례/제2조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:공공하수도시설등관리운영업무위탁대행계약서#JO0001",
-            "reference_id": "ordin:부산환경공단설치조례#JO0002"
+            "reference_id": "ordin:부산환경공단설치조례#JO0002",
+            "target_git_path": "부산환경공단설치조례/부산환경공단설치조례.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -164,7 +176,11 @@
             "source_provision_id": "SchlPubRul:공공하수도시설등관리운영업무위탁대행계약서#JO0003",
             "reference_id": "SchlPubRul:공공하수도시설등관리운영업무위탁대행계약서#JO0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "공공하수도시설등 관리운영업무 위탁대행계약서/공공하수도시설등 관리운영업무 위탁대행계약서.json"
+            "target_git_path_guess": "공공하수도시설등 관리운영업무 위탁대행계약서/공공하수도시설등 관리운영업무 위탁대행계약서.json",
+            "target_git_path": "공공하수도시설등 관리운영업무 위탁대행계약서/공공하수도시설등 관리운영업무 위탁대행계약서.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -196,7 +212,9 @@
             "source_provision_id": "SchlPubRul:공공하수도시설등관리운영업무위탁대행계약서#JO0004",
             "reference_id": "law:하수도법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "하수도법/법률/하수도법.json"
+            "target_git_path_guess": "하수도법/법률/하수도법.json",
+            "target_git_path": "하수도법/법률/하수도법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -216,7 +234,9 @@
             "source_provision_id": "SchlPubRul:공공하수도시설등관리운영업무위탁대행계약서#JO0004",
             "reference_id": "law:하수도법#JO0019_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "하수도법/법률/하수도법.json"
+            "target_git_path_guess": "하수도법/법률/하수도법.json",
+            "target_git_path": "하수도법/법률/하수도법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -248,7 +268,11 @@
             "source_provision_id": "SchlPubRul:공공하수도시설등관리운영업무위탁대행계약서#JO0005",
             "reference_id": "SchlPubRul:공공하수도시설등관리운영업무위탁대행계약서#JO0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "공공하수도시설등 관리운영업무 위탁대행계약서/공공하수도시설등 관리운영업무 위탁대행계약서.json"
+            "target_git_path_guess": "공공하수도시설등 관리운영업무 위탁대행계약서/공공하수도시설등 관리운영업무 위탁대행계약서.json",
+            "target_git_path": "공공하수도시설등 관리운영업무 위탁대행계약서/공공하수도시설등 관리운영업무 위탁대행계약서.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -302,7 +326,9 @@
             "source_provision_id": "SchlPubRul:공공하수도시설등관리운영업무위탁대행계약서#JO0008",
             "reference_id": "law:하수도법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "하수도법/법률/하수도법.json"
+            "target_git_path_guess": "하수도법/법률/하수도법.json",
+            "target_git_path": "하수도법/법률/하수도법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -334,7 +360,9 @@
             "source_provision_id": "SchlPubRul:공공하수도시설등관리운영업무위탁대행계약서#JO0009",
             "reference_id": "law:하수도법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "하수도법/시행규칙/하수도법 시행규칙.json"
+            "target_git_path_guess": "하수도법/시행규칙/하수도법 시행규칙.json",
+            "target_git_path": "하수도법/시행규칙/하수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

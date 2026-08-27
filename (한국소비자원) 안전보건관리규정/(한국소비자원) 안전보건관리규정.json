@@ -87,7 +87,9 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0003",
             "reference_id": "law:산업안전보건법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +109,9 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0003",
             "reference_id": "law:산업안전보건법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -127,7 +131,9 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0003",
             "reference_id": "law:산업안전보건기준에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -186,7 +192,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(한국소비자원)안전보건관리규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국소비자원) 안전보건관리규정/(한국소비자원) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국소비자원) 안전보건관리규정/(한국소비자원) 안전보건관리규정.json",
+            "target_git_path": "(한국소비자원) 안전보건관리규정/(한국소비자원) 안전보건관리규정.json",
+            "target_git_file_path": "(한국소비자원) 안전보건관리규정/별표/별표1_안전보건조직.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -240,7 +251,11 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0006_02",
             "reference_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국소비자원) 안전보건관리규정/(한국소비자원) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국소비자원) 안전보건관리규정/(한국소비자원) 안전보건관리규정.json",
+            "target_git_path": "(한국소비자원) 안전보건관리규정/(한국소비자원) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -260,7 +275,9 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0006_02",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -280,7 +297,9 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0006_02",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -300,7 +319,11 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0006_02",
             "reference_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국소비자원) 안전보건관리규정/(한국소비자원) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국소비자원) 안전보건관리규정/(한국소비자원) 안전보건관리규정.json",
+            "target_git_path": "(한국소비자원) 안전보건관리규정/(한국소비자원) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -320,7 +343,9 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0006_02",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -340,7 +365,9 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0006_02",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -427,7 +454,11 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0012",
             "reference_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국소비자원) 안전보건관리규정/(한국소비자원) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국소비자원) 안전보건관리규정/(한국소비자원) 안전보건관리규정.json",
+            "target_git_path": "(한국소비자원) 안전보건관리규정/(한국소비자원) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -459,7 +490,11 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0013",
             "reference_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0014",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국소비자원) 안전보건관리규정/(한국소비자원) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국소비자원) 안전보건관리규정/(한국소비자원) 안전보건관리규정.json",
+            "target_git_path": "(한국소비자원) 안전보건관리규정/(한국소비자원) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -479,7 +514,11 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0013",
             "reference_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0015",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국소비자원) 안전보건관리규정/(한국소비자원) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국소비자원) 안전보건관리규정/(한국소비자원) 안전보건관리규정.json",
+            "target_git_path": "(한국소비자원) 안전보건관리규정/(한국소비자원) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -499,7 +538,11 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0013",
             "reference_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0016",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국소비자원) 안전보건관리규정/(한국소비자원) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국소비자원) 안전보건관리규정/(한국소비자원) 안전보건관리규정.json",
+            "target_git_path": "(한국소비자원) 안전보건관리규정/(한국소비자원) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -531,7 +574,9 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0014",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -596,7 +641,11 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0018",
             "reference_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0046",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국소비자원) 안전보건관리규정/(한국소비자원) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국소비자원) 안전보건관리규정/(한국소비자원) 안전보건관리규정.json",
+            "target_git_path": "(한국소비자원) 안전보건관리규정/(한국소비자원) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -639,7 +688,9 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0019_02",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -659,7 +710,9 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0019_02",
             "reference_id": "law:산업안전보건법#JO0125",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -679,7 +732,9 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0019_02",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -699,7 +754,9 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0019_02",
             "reference_id": "law:산업안전보건법#JO0130",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -753,7 +810,9 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0022",
             "reference_id": "law:도로교통법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "도로교통법/법률/도로교통법.json"
+            "target_git_path_guess": "도로교통법/법률/도로교통법.json",
+            "target_git_path": "도로교통법/법률/도로교통법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -818,7 +877,9 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0024",
             "reference_id": "law:정보통신망이용촉진및정보보호등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보통신망 이용촉진 및 정보보호 등에 관한 법률/법률/정보통신망 이용촉진 및 정보보호 등에 관한 법률.json"
+            "target_git_path_guess": "정보통신망 이용촉진 및 정보보호 등에 관한 법률/법률/정보통신망 이용촉진 및 정보보호 등에 관한 법률.json",
+            "target_git_path": "정보통신망 이용촉진 및 정보보호 등에 관한 법률/법률/정보통신망 이용촉진 및 정보보호 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -850,7 +911,9 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0024_02",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -870,7 +933,9 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0024_02",
             "reference_id": "law:근로기준법#JO0054",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -890,7 +955,11 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0024_02",
             "reference_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0024",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국소비자원) 안전보건관리규정/(한국소비자원) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국소비자원) 안전보건관리규정/(한국소비자원) 안전보건관리규정.json",
+            "target_git_path": "(한국소비자원) 안전보건관리규정/(한국소비자원) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -933,7 +1002,9 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0025_02",
             "reference_id": "law:산업안전보건법#JO0080",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -953,7 +1024,9 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0025_02",
             "reference_id": "law:산업안전보건법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -973,7 +1046,9 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0025_02",
             "reference_id": "law:산업안전보건법시행규칙#JO0098",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1005,7 +1080,9 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0025_03",
             "reference_id": "law:산업안전보건법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1025,7 +1102,9 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0025_03",
             "reference_id": "law:산업안전보건법시행령#JO0078",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1057,7 +1136,9 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0025_04",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1100,7 +1181,9 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0027",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1120,7 +1203,9 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0027",
             "reference_id": "law:산업안전보건법#JO0105",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1152,7 +1237,9 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0028",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1172,7 +1259,9 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0028",
             "reference_id": "law:산업안전보건법#JO0110",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1204,7 +1293,11 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0029",
             "reference_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0030",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국소비자원) 안전보건관리규정/(한국소비자원) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국소비자원) 안전보건관리규정/(한국소비자원) 안전보건관리규정.json",
+            "target_git_path": "(한국소비자원) 안전보건관리규정/(한국소비자원) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1224,7 +1317,11 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0029",
             "reference_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0031",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국소비자원) 안전보건관리규정/(한국소비자원) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국소비자원) 안전보건관리규정/(한국소비자원) 안전보건관리규정.json",
+            "target_git_path": "(한국소비자원) 안전보건관리규정/(한국소비자원) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1244,7 +1341,11 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0029",
             "reference_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0032",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국소비자원) 안전보건관리규정/(한국소비자원) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국소비자원) 안전보건관리규정/(한국소비자원) 안전보건관리규정.json",
+            "target_git_path": "(한국소비자원) 안전보건관리규정/(한국소비자원) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1276,7 +1377,9 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0030",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1296,7 +1399,9 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0030",
             "reference_id": "law:산업안전보건법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1316,7 +1421,11 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0030",
             "reference_id": "admrul:사업장위험성평가에관한지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "사업장 위험성 평가에 관한 지침/사업장 위험성 평가에 관한 지침.json"
+            "target_git_path_guess": "사업장 위험성 평가에 관한 지침/사업장 위험성 평가에 관한 지침.json",
+            "target_git_path": "사업장 위험성평가에 관한 지침/사업장 위험성평가에 관한 지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1348,7 +1457,11 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0031",
             "reference_id": "admrul:사업장위험성평가에관한지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "사업장 위험성평가에 관한 지침/사업장 위험성평가에 관한 지침.json"
+            "target_git_path_guess": "사업장 위험성평가에 관한 지침/사업장 위험성평가에 관한 지침.json",
+            "target_git_path": "사업장 위험성평가에 관한 지침/사업장 위험성평가에 관한 지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1380,7 +1493,9 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0032",
             "reference_id": "law:산업안전보건법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1400,7 +1515,9 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0032",
             "reference_id": "law:산업안전보건법시행규칙#JO0037",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1465,7 +1582,9 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0034_03",
             "reference_id": "law:산업안전보건법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1485,7 +1604,9 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0034_03",
             "reference_id": "law:산업안전보건법시행령#JO0096_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1505,7 +1626,9 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0034_03",
             "reference_id": "law:산업안전보건법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1525,7 +1648,9 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0034_03",
             "reference_id": "law:산업안전보건법시행규칙#JO0194_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1590,7 +1715,11 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0037",
             "reference_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0040",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국소비자원) 안전보건관리규정/(한국소비자원) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국소비자원) 안전보건관리규정/(한국소비자원) 안전보건관리규정.json",
+            "target_git_path": "(한국소비자원) 안전보건관리규정/(한국소비자원) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1622,7 +1751,9 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0038",
             "reference_id": "law:산업안전보건법#JO0065",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1642,7 +1773,9 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0038",
             "reference_id": "law:산업안전보건법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1662,7 +1795,9 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0038",
             "reference_id": "law:산업안전보건법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1694,7 +1829,9 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0039",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1714,7 +1851,9 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0039",
             "reference_id": "law:산업안전보건법#JO0065",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1757,7 +1896,11 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0041",
             "reference_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0042",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국소비자원) 안전보건관리규정/(한국소비자원) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국소비자원) 안전보건관리규정/(한국소비자원) 안전보건관리규정.json",
+            "target_git_path": "(한국소비자원) 안전보건관리규정/(한국소비자원) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1800,7 +1943,9 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0043",
             "reference_id": "law:산업재해보상보험법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업재해보상보험법/법률/산업재해보상보험법.json"
+            "target_git_path_guess": "산업재해보상보험법/법률/산업재해보상보험법.json",
+            "target_git_path": "산업재해보상보험법/법률/산업재해보상보험법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1865,7 +2010,9 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0046",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1885,7 +2032,9 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0046",
             "reference_id": "law:공공기관의운영에관한법률#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1905,7 +2054,9 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0046",
             "reference_id": "law:공공기관의운영에관한법률#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1981,7 +2132,9 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0050",
             "reference_id": "law:중대재해처벌등에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중대재해 처벌 등에 관한 법률/시행령/중대재해 처벌 등에 관한 법률 시행령.json"
+            "target_git_path_guess": "중대재해 처벌 등에 관한 법률/시행령/중대재해 처벌 등에 관한 법률 시행령.json",
+            "target_git_path": "중대재해 처벌 등에 관한 법률/시행령/중대재해 처벌 등에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2001,7 +2154,9 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0050",
             "reference_id": "law:중대재해처벌등에관한법률시행령#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "중대재해 처벌 등에 관한 법률/시행령/중대재해 처벌 등에 관한 법률 시행령.json"
+            "target_git_path_guess": "중대재해 처벌 등에 관한 법률/시행령/중대재해 처벌 등에 관한 법률 시행령.json",
+            "target_git_path": "중대재해 처벌 등에 관한 법률/시행령/중대재해 처벌 등에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2021,7 +2176,11 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0050",
             "reference_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0030",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국소비자원) 안전보건관리규정/(한국소비자원) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국소비자원) 안전보건관리규정/(한국소비자원) 안전보건관리규정.json",
+            "target_git_path": "(한국소비자원) 안전보건관리규정/(한국소비자원) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -2041,7 +2200,11 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0050",
             "reference_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국소비자원) 안전보건관리규정/(한국소비자원) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국소비자원) 안전보건관리규정/(한국소비자원) 안전보건관리규정.json",
+            "target_git_path": "(한국소비자원) 안전보건관리규정/(한국소비자원) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -2061,7 +2224,11 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0050",
             "reference_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국소비자원) 안전보건관리규정/(한국소비자원) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국소비자원) 안전보건관리규정/(한국소비자원) 안전보건관리규정.json",
+            "target_git_path": "(한국소비자원) 안전보건관리규정/(한국소비자원) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -2081,7 +2248,11 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0050",
             "reference_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0035",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국소비자원) 안전보건관리규정/(한국소비자원) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국소비자원) 안전보건관리규정/(한국소비자원) 안전보건관리규정.json",
+            "target_git_path": "(한국소비자원) 안전보건관리규정/(한국소비자원) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -2101,7 +2272,11 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0050",
             "reference_id": "SchlPubRul:(한국소비자원)안전보건관리규정#JO0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국소비자원) 안전보건관리규정/(한국소비자원) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국소비자원) 안전보건관리규정/(한국소비자원) 안전보건관리규정.json",
+            "target_git_path": "(한국소비자원) 안전보건관리규정/(한국소비자원) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

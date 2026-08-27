@@ -87,7 +87,9 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]건설대행수탁사업운영규정#JO0003",
             "reference_id": "law:지방공기업법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/시행령/지방공기업법 시행령.json"
+            "target_git_path_guess": "지방공기업법/시행령/지방공기업법 시행령.json",
+            "target_git_path": "지방공기업법/시행령/지방공기업법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +109,9 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]건설대행수탁사업운영규정#JO0003",
             "reference_id": "law:지방공기업법시행령#JO0063",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/시행령/지방공기업법 시행령.json"
+            "target_git_path_guess": "지방공기업법/시행령/지방공기업법 시행령.json",
+            "target_git_path": "지방공기업법/시행령/지방공기업법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -177,7 +181,8 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:[의정부도시공사]건설대행수탁사업운영규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "[의정부도시공사] 건설대행 수탁사업 운영규정/[의정부도시공사] 건설대행 수탁사업 운영규정.json"
+            "target_git_path_guess": "[의정부도시공사] 건설대행 수탁사업 운영규정/[의정부도시공사] 건설대행 수탁사업 운영규정.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],

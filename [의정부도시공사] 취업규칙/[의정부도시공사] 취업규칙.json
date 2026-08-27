@@ -263,7 +263,9 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0019",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -300,7 +302,8 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:[의정부도시공사]취업규칙#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json"
+            "target_git_path_guess": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "appendix_ref",
@@ -325,7 +328,8 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:[의정부도시공사]취업규칙#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json"
+            "target_git_path_guess": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -357,7 +361,11 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0021",
             "reference_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0020",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json"
+            "target_git_path_guess": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json",
+            "target_git_path": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -411,7 +419,9 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0024",
             "reference_id": "law:관공서의공휴일에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "관공서의 공휴일에 관한 규정/법률/관공서의 공휴일에 관한 규정.json"
+            "target_git_path_guess": "관공서의 공휴일에 관한 규정/법률/관공서의 공휴일에 관한 규정.json",
+            "target_git_path": "관공서의 공휴일에 관한 규정/법률/관공서의 공휴일에 관한 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -443,7 +453,9 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0025",
             "reference_id": "law:공휴일에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공휴일에 관한 법률/법률/공휴일에 관한 법률.json"
+            "target_git_path_guess": "공휴일에 관한 법률/법률/공휴일에 관한 법률.json",
+            "target_git_path": "공휴일에 관한 법률/법률/공휴일에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -463,7 +475,9 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0025",
             "reference_id": "law:공휴일에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "공휴일에 관한 법률/법률/공휴일에 관한 법률.json"
+            "target_git_path_guess": "공휴일에 관한 법률/법률/공휴일에 관한 법률.json",
+            "target_git_path": "공휴일에 관한 법률/법률/공휴일에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -483,7 +497,9 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0025",
             "reference_id": "law:공휴일에관한법률#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "공휴일에 관한 법률/법률/공휴일에 관한 법률.json"
+            "target_git_path_guess": "공휴일에 관한 법률/법률/공휴일에 관한 법률.json",
+            "target_git_path": "공휴일에 관한 법률/법률/공휴일에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -503,7 +519,9 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0025",
             "reference_id": "law:공휴일에관한법률#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "공휴일에 관한 법률/법률/공휴일에 관한 법률.json"
+            "target_git_path_guess": "공휴일에 관한 법률/법률/공휴일에 관한 법률.json",
+            "target_git_path": "공휴일에 관한 법률/법률/공휴일에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -535,7 +553,11 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0026",
             "reference_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0024",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json"
+            "target_git_path_guess": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json",
+            "target_git_path": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -600,7 +622,9 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0030",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -620,7 +644,9 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0030",
             "reference_id": "law:산업안전보건법#JO0129",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -640,7 +666,9 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0030",
             "reference_id": "law:산업안전보건법#JO0129",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -660,7 +688,9 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0030",
             "reference_id": "law:산업안전보건법#JO0130",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -680,7 +710,9 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0030",
             "reference_id": "law:산업안전보건법#JO0131",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -700,7 +732,9 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0030",
             "reference_id": "law:국민건강보험법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json"
+            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json",
+            "target_git_path": "국민건강보험법/법률/국민건강보험법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -720,7 +754,9 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0030",
             "reference_id": "law:국민건강보험법#JO0052",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json"
+            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json",
+            "target_git_path": "국민건강보험법/법률/국민건강보험법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -740,7 +776,9 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0030",
             "reference_id": "law:혈액관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "혈액관리법/법률/혈액관리법.json"
+            "target_git_path_guess": "혈액관리법/법률/혈액관리법.json",
+            "target_git_path": "혈액관리법/법률/혈액관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -760,7 +798,9 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0030",
             "reference_id": "law:감염병의예방및관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json"
+            "target_git_path_guess": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json",
+            "target_git_path": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -780,7 +820,9 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0030",
             "reference_id": "law:감염병의예방및관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json"
+            "target_git_path_guess": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json",
+            "target_git_path": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -800,7 +842,9 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0030",
             "reference_id": "law:감염병의예방및관리에관한법률#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json"
+            "target_git_path_guess": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json",
+            "target_git_path": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -820,7 +864,9 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0030",
             "reference_id": "law:감염병의예방및관리에관한법률#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json"
+            "target_git_path_guess": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json",
+            "target_git_path": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -840,7 +886,9 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0030",
             "reference_id": "law:감염병의예방및관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json"
+            "target_git_path_guess": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json",
+            "target_git_path": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -860,7 +908,9 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0030",
             "reference_id": "law:감염병의예방및관리에관한법률#JO0042",
             "target_repo": "LAW",
-            "target_git_path_guess": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json"
+            "target_git_path_guess": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json",
+            "target_git_path": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -908,7 +958,8 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:[의정부도시공사]취업규칙#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json"
+            "target_git_path_guess": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "internal_ref",
@@ -928,7 +979,11 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0032",
             "reference_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json"
+            "target_git_path_guess": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json",
+            "target_git_path": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -948,7 +1003,9 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0032",
             "reference_id": "law:공직선거법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공직선거법/법률/공직선거법.json"
+            "target_git_path_guess": "공직선거법/법률/공직선거법.json",
+            "target_git_path": "공직선거법/법률/공직선거법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -968,7 +1025,9 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0032",
             "reference_id": "law:공직선거법#JO0147",
             "target_repo": "LAW",
-            "target_git_path_guess": "공직선거법/법률/공직선거법.json"
+            "target_git_path_guess": "공직선거법/법률/공직선거법.json",
+            "target_git_path": "공직선거법/법률/공직선거법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -988,7 +1047,9 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0032",
             "reference_id": "law:공직선거법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공직선거법/법률/공직선거법.json"
+            "target_git_path_guess": "공직선거법/법률/공직선거법.json",
+            "target_git_path": "공직선거법/법률/공직선거법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1008,7 +1069,9 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0032",
             "reference_id": "law:공직선거법#JO0174",
             "target_repo": "LAW",
-            "target_git_path_guess": "공직선거법/법률/공직선거법.json"
+            "target_git_path_guess": "공직선거법/법률/공직선거법.json",
+            "target_git_path": "공직선거법/법률/공직선거법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1172,7 +1235,9 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0045",
             "reference_id": "law:병역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "병역법/법률/병역법.json"
+            "target_git_path_guess": "병역법/법률/병역법.json",
+            "target_git_path": "병역법/법률/병역법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1204,7 +1269,11 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0046",
             "reference_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0045",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json"
+            "target_git_path_guess": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json",
+            "target_git_path": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -1224,7 +1293,11 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0046",
             "reference_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0045",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json"
+            "target_git_path_guess": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json",
+            "target_git_path": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -1244,7 +1317,11 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0046",
             "reference_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0045",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json"
+            "target_git_path_guess": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json",
+            "target_git_path": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -1264,7 +1341,11 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0046",
             "reference_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0045",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json"
+            "target_git_path_guess": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json",
+            "target_git_path": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -1284,7 +1365,11 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0046",
             "reference_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0045",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json"
+            "target_git_path_guess": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json",
+            "target_git_path": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -1304,7 +1389,11 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0046",
             "reference_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0045",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json"
+            "target_git_path_guess": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json",
+            "target_git_path": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1336,7 +1425,11 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0047",
             "reference_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0050",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json"
+            "target_git_path_guess": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json",
+            "target_git_path": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1368,7 +1461,11 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0048",
             "reference_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0046",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json"
+            "target_git_path_guess": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json",
+            "target_git_path": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1493,7 +1590,8 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:[의정부도시공사]취업규칙#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json"
+            "target_git_path_guess": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -1530,7 +1628,8 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:[의정부도시공사]취업규칙#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json"
+            "target_git_path_guess": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -1567,7 +1666,8 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:[의정부도시공사]취업규칙#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json"
+            "target_git_path_guess": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -1610,7 +1710,11 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0061",
             "reference_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0057",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json"
+            "target_git_path_guess": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json",
+            "target_git_path": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -1630,7 +1734,9 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0061",
             "reference_id": "law:병역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "병역법/법률/병역법.json"
+            "target_git_path_guess": "병역법/법률/병역법.json",
+            "target_git_path": "병역법/법률/병역법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1662,7 +1768,9 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0062",
             "reference_id": "law:지방공무원수당등에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공무원 수당 등에 관한 규정/법률/지방공무원 수당 등에 관한 규정.json"
+            "target_git_path_guess": "지방공무원 수당 등에 관한 규정/법률/지방공무원 수당 등에 관한 규정.json",
+            "target_git_path": "지방공무원 수당 등에 관한 규정/법률/지방공무원 수당 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1682,7 +1790,9 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0062",
             "reference_id": "law:지방공무원수당등에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공무원 수당 등에 관한 규정/법률/지방공무원 수당 등에 관한 규정.json"
+            "target_git_path_guess": "지방공무원 수당 등에 관한 규정/법률/지방공무원 수당 등에 관한 규정.json",
+            "target_git_path": "지방공무원 수당 등에 관한 규정/법률/지방공무원 수당 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1736,7 +1846,11 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0065",
             "reference_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json"
+            "target_git_path_guess": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json",
+            "target_git_path": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -1756,7 +1870,11 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0065",
             "reference_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0046",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json"
+            "target_git_path_guess": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json",
+            "target_git_path": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1821,7 +1939,9 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0069",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1841,7 +1961,9 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0069",
             "reference_id": "law:국민연금법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민연금법/법률/국민연금법.json"
+            "target_git_path_guess": "국민연금법/법률/국민연금법.json",
+            "target_git_path": "국민연금법/법률/국민연금법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1906,7 +2028,11 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0073",
             "reference_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json"
+            "target_git_path_guess": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json",
+            "target_git_path": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -1926,7 +2052,11 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0073",
             "reference_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0064",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json"
+            "target_git_path_guess": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json",
+            "target_git_path": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1969,7 +2099,11 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0075",
             "reference_id": "admrul:건강검진실시기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "건강검진 실시기준/건강검진 실시기준.json"
+            "target_git_path_guess": "건강검진 실시기준/건강검진 실시기준.json",
+            "target_git_path": "건강검진 실시기준/건강검진 실시기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -2045,7 +2179,9 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0080",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2176,7 +2312,9 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0090",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2230,7 +2368,9 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0093",
             "reference_id": "law:청년고용촉진특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "청년고용촉진 특별법/법률/청년고용촉진 특별법.json"
+            "target_git_path_guess": "청년고용촉진 특별법/법률/청년고용촉진 특별법.json",
+            "target_git_path": "청년고용촉진 특별법/법률/청년고용촉진 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2250,7 +2390,9 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0093",
             "reference_id": "law:청년고용촉진특별법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "청년고용촉진 특별법/법률/청년고용촉진 특별법.json"
+            "target_git_path_guess": "청년고용촉진 특별법/법률/청년고용촉진 특별법.json",
+            "target_git_path": "청년고용촉진 특별법/법률/청년고용촉진 특별법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2326,7 +2468,11 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0098",
             "reference_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0093",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json"
+            "target_git_path_guess": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json",
+            "target_git_path": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -2346,7 +2492,11 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0098",
             "reference_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0094",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json"
+            "target_git_path_guess": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json",
+            "target_git_path": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -2366,7 +2516,11 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0098",
             "reference_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0096",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json"
+            "target_git_path_guess": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json",
+            "target_git_path": "[의정부도시공사] 취업규칙/[의정부도시공사] 취업규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -2475,7 +2629,9 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]취업규칙#JO0106",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

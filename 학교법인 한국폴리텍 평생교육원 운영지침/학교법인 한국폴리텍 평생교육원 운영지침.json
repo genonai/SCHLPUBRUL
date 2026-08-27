@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:학교법인한국폴리텍평생교육원운영지침#JO0001",
             "reference_id": "law:평생교육법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "평생교육법/시행령/평생교육법 시행령.json"
+            "target_git_path_guess": "평생교육법/시행령/평생교육법 시행령.json",
+            "target_git_path": "평생교육법/시행령/평생교육법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -85,7 +87,9 @@
             "source_provision_id": "SchlPubRul:학교법인한국폴리텍평생교육원운영지침#JO0001",
             "reference_id": "law:평생교육법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "평생교육법/시행규칙/평생교육법 시행규칙.json"
+            "target_git_path_guess": "평생교육법/시행규칙/평생교육법 시행규칙.json",
+            "target_git_path": "평생교육법/시행규칙/평생교육법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -265,7 +269,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:학교법인한국폴리텍평생교육원운영지침#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "학교법인 한국폴리텍 평생교육원 운영지침/학교법인 한국폴리텍 평생교육원 운영지침.json"
+            "target_git_path_guess": "학교법인 한국폴리텍 평생교육원 운영지침/학교법인 한국폴리텍 평생교육원 운영지침.json",
+            "target_git_path": "학교법인 한국폴리텍 평생교육원 운영지침/학교법인 한국폴리텍 평생교육원 운영지침.json",
+            "target_git_file_path": "학교법인 한국폴리텍 평생교육원 운영지침/별지/별지1_수료증서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

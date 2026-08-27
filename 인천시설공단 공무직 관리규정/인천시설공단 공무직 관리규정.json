@@ -98,7 +98,11 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0004",
             "reference_id": "SchlPubRul:인천시설공단공무직관리규정#JO0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json"
+            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_path": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -123,7 +127,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:인천시설공단공무직관리규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json"
+            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_path": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_file_path": "인천시설공단 공무직 관리규정/별표/별표1_공무직 직종별 고용자격기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -171,7 +180,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:인천시설공단공무직관리규정#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json"
+            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_path": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_file_path": "인천시설공단 공무직 관리규정/별지/별지1_표준근로계약서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -208,7 +222,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:인천시설공단공무직관리규정#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json"
+            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_path": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_file_path": "인천시설공단 공무직 관리규정/별지/별지2_공무직 채용계획서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -262,7 +281,9 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0010",
             "reference_id": "law:성폭력범죄의처벌등에관한특례법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json"
+            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
+            "target_git_path": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -282,7 +303,9 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0010",
             "reference_id": "law:성폭력범죄의처벌등에관한특례법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json"
+            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
+            "target_git_path": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -302,7 +325,9 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0010",
             "reference_id": "law:정보통신망이용촉진및정보보호등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보통신망 이용촉진 및 정보보호 등에 관한 법률/법률/정보통신망 이용촉진 및 정보보호 등에 관한 법률.json"
+            "target_git_path_guess": "정보통신망 이용촉진 및 정보보호 등에 관한 법률/법률/정보통신망 이용촉진 및 정보보호 등에 관한 법률.json",
+            "target_git_path": "정보통신망 이용촉진 및 정보보호 등에 관한 법률/법률/정보통신망 이용촉진 및 정보보호 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -322,7 +347,9 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0010",
             "reference_id": "law:정보통신망이용촉진및정보보호등에관한법률#JO0074",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보통신망 이용촉진 및 정보보호 등에 관한 법률/법률/정보통신망 이용촉진 및 정보보호 등에 관한 법률.json"
+            "target_git_path_guess": "정보통신망 이용촉진 및 정보보호 등에 관한 법률/법률/정보통신망 이용촉진 및 정보보호 등에 관한 법률.json",
+            "target_git_path": "정보통신망 이용촉진 및 정보보호 등에 관한 법률/법률/정보통신망 이용촉진 및 정보보호 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -342,7 +369,9 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0010",
             "reference_id": "law:스토킹범죄의처벌등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "스토킹범죄의 처벌 등에 관한 법률/법률/스토킹범죄의 처벌 등에 관한 법률.json"
+            "target_git_path_guess": "스토킹범죄의 처벌 등에 관한 법률/법률/스토킹범죄의 처벌 등에 관한 법률.json",
+            "target_git_path": "스토킹범죄의 처벌 등에 관한 법률/법률/스토킹범죄의 처벌 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -362,7 +391,9 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0010",
             "reference_id": "law:스토킹범죄의처벌등에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "스토킹범죄의 처벌 등에 관한 법률/법률/스토킹범죄의 처벌 등에 관한 법률.json"
+            "target_git_path_guess": "스토킹범죄의 처벌 등에 관한 법률/법률/스토킹범죄의 처벌 등에 관한 법률.json",
+            "target_git_path": "스토킹범죄의 처벌 등에 관한 법률/법률/스토킹범죄의 처벌 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -382,7 +413,9 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0010",
             "reference_id": "law:성폭력범죄의처벌등에관한특례법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json"
+            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
+            "target_git_path": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -402,7 +435,9 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0010",
             "reference_id": "law:성폭력범죄의처벌등에관한특례법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json"
+            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
+            "target_git_path": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -422,7 +457,9 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0010",
             "reference_id": "law:아동청소년의성보호에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "아동·청소년의 성보호에 관한 법률/법률/아동·청소년의 성보호에 관한 법률.json"
+            "target_git_path_guess": "아동·청소년의 성보호에 관한 법률/법률/아동·청소년의 성보호에 관한 법률.json",
+            "target_git_path": "아동ㆍ청소년의 성보호에 관한 법률/법률/아동ㆍ청소년의 성보호에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -442,7 +479,9 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0010",
             "reference_id": "law:아동청소년의성보호에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "아동·청소년의 성보호에 관한 법률/법률/아동·청소년의 성보호에 관한 법률.json"
+            "target_git_path_guess": "아동·청소년의 성보호에 관한 법률/법률/아동·청소년의 성보호에 관한 법률.json",
+            "target_git_path": "아동ㆍ청소년의 성보호에 관한 법률/법률/아동ㆍ청소년의 성보호에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -462,7 +501,9 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0010",
             "reference_id": "law:형법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -482,7 +523,9 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0010",
             "reference_id": "law:형법#JO0355",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -502,7 +545,9 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0010",
             "reference_id": "law:형법#JO0356",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -522,7 +567,9 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0010",
             "reference_id": "law:아동청소년의성보호에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "아동·청소년의 성보호에 관한 법률/법률/아동·청소년의 성보호에 관한 법률.json"
+            "target_git_path_guess": "아동·청소년의 성보호에 관한 법률/법률/아동·청소년의 성보호에 관한 법률.json",
+            "target_git_path": "아동ㆍ청소년의 성보호에 관한 법률/법률/아동ㆍ청소년의 성보호에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -542,7 +589,9 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0010",
             "reference_id": "law:아동청소년의성보호에관한법률#JO0056",
             "target_repo": "LAW",
-            "target_git_path_guess": "아동·청소년의 성보호에 관한 법률/법률/아동·청소년의 성보호에 관한 법률.json"
+            "target_git_path_guess": "아동·청소년의 성보호에 관한 법률/법률/아동·청소년의 성보호에 관한 법률.json",
+            "target_git_path": "아동ㆍ청소년의 성보호에 관한 법률/법률/아동ㆍ청소년의 성보호에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -562,7 +611,9 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0010",
             "reference_id": "law:부패방지및국민권익위원회의설치와운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json"
+            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
+            "target_git_path": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -582,7 +633,9 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0010",
             "reference_id": "law:부패방지및국민권익위원회의설치와운영에관한법률#JO0082",
             "target_repo": "LAW",
-            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json"
+            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
+            "target_git_path": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -619,7 +672,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:인천시설공단공무직관리규정#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json"
+            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_path": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_file_path": "인천시설공단 공무직 관리규정/별표/별표2_신분증 양식.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -644,7 +702,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:인천시설공단공무직관리규정#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json"
+            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_path": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_file_path": "인천시설공단 공무직 관리규정/별지/별지3_신분증 발급대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -669,7 +732,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:인천시설공단공무직관리규정#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json"
+            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_path": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_file_path": "인천시설공단 공무직 관리규정/별지/별지3_신분증 발급대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -706,7 +774,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:인천시설공단공무직관리규정#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json"
+            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_path": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_file_path": "인천시설공단 공무직 관리규정/별지/별지4_공무직 근무성적 평정표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -738,7 +811,9 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0013",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -770,7 +845,9 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0014",
             "reference_id": "law:남녀고용평등과일가정양립지원에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "남녀고용평등과 일·가정 양립 지원에 관한 법률/법률/남녀고용평등과 일·가정 양립 지원에 관한 법률.json"
+            "target_git_path_guess": "남녀고용평등과 일·가정 양립 지원에 관한 법률/법률/남녀고용평등과 일·가정 양립 지원에 관한 법률.json",
+            "target_git_path": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -802,7 +879,9 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0015",
             "reference_id": "law:고용상연령차별금지및고령자고용촉진에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고용상 연령 차별금지 및 고령자고용촉진에 관한 법률/시행령/고용상 연령 차별금지 및 고령자고용촉진에 관한 법률 시행령.json"
+            "target_git_path_guess": "고용상 연령 차별금지 및 고령자고용촉진에 관한 법률/시행령/고용상 연령 차별금지 및 고령자고용촉진에 관한 법률 시행령.json",
+            "target_git_path": "고용상 연령차별금지 및 고령자고용촉진에 관한 법률/시행령/고용상 연령차별금지 및 고령자고용촉진에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -834,7 +913,11 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0016",
             "reference_id": "SchlPubRul:인천시설공단공무직관리규정#JO0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json"
+            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_path": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -854,7 +937,11 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0016",
             "reference_id": "SchlPubRul:인천시설공단공무직관리규정#JO0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json"
+            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_path": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -874,7 +961,9 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0016",
             "reference_id": "law:채무자회생및파산에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "채무자 회생 및 파산에 관한 법률/법률/채무자 회생 및 파산에 관한 법률.json"
+            "target_git_path_guess": "채무자 회생 및 파산에 관한 법률/법률/채무자 회생 및 파산에 관한 법률.json",
+            "target_git_path": "채무자 회생 및 파산에 관한 법률/법률/채무자 회생 및 파산에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -894,7 +983,9 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0016",
             "reference_id": "law:채무자회생및파산에관한법률#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "채무자 회생 및 파산에 관한 법률/법률/채무자 회생 및 파산에 관한 법률.json"
+            "target_git_path_guess": "채무자 회생 및 파산에 관한 법률/법률/채무자 회생 및 파산에 관한 법률.json",
+            "target_git_path": "채무자 회생 및 파산에 관한 법률/법률/채무자 회생 및 파산에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -914,7 +1005,9 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0016",
             "reference_id": "law:형법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -934,7 +1027,9 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0016",
             "reference_id": "law:형법#JO0129",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -954,7 +1049,9 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0016",
             "reference_id": "law:형법#JO0130",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -974,7 +1071,9 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0016",
             "reference_id": "law:형법#JO0131",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -994,7 +1093,9 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0016",
             "reference_id": "law:형법#JO0132",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1014,7 +1115,9 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0016",
             "reference_id": "law:성폭력범죄의처벌등에관한특례법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json"
+            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
+            "target_git_path": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1034,7 +1137,9 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0016",
             "reference_id": "law:성폭력범죄의처벌등에관한특례법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json"
+            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
+            "target_git_path": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1054,7 +1159,9 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0016",
             "reference_id": "law:정보통신망이용촉진및정보보호등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보통신망 이용촉진 및 정보보호 등에 관한 법률/법률/정보통신망 이용촉진 및 정보보호 등에 관한 법률.json"
+            "target_git_path_guess": "정보통신망 이용촉진 및 정보보호 등에 관한 법률/법률/정보통신망 이용촉진 및 정보보호 등에 관한 법률.json",
+            "target_git_path": "정보통신망 이용촉진 및 정보보호 등에 관한 법률/법률/정보통신망 이용촉진 및 정보보호 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1074,7 +1181,9 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0016",
             "reference_id": "law:정보통신망이용촉진및정보보호등에관한법률#JO0074",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보통신망 이용촉진 및 정보보호 등에 관한 법률/법률/정보통신망 이용촉진 및 정보보호 등에 관한 법률.json"
+            "target_git_path_guess": "정보통신망 이용촉진 및 정보보호 등에 관한 법률/법률/정보통신망 이용촉진 및 정보보호 등에 관한 법률.json",
+            "target_git_path": "정보통신망 이용촉진 및 정보보호 등에 관한 법률/법률/정보통신망 이용촉진 및 정보보호 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1094,7 +1203,9 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0016",
             "reference_id": "law:스토킹범죄의처벌등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "스토킹범죄의 처벌 등에 관한 법률/법률/스토킹범죄의 처벌 등에 관한 법률.json"
+            "target_git_path_guess": "스토킹범죄의 처벌 등에 관한 법률/법률/스토킹범죄의 처벌 등에 관한 법률.json",
+            "target_git_path": "스토킹범죄의 처벌 등에 관한 법률/법률/스토킹범죄의 처벌 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1114,7 +1225,9 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0016",
             "reference_id": "law:스토킹범죄의처벌등에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "스토킹범죄의 처벌 등에 관한 법률/법률/스토킹범죄의 처벌 등에 관한 법률.json"
+            "target_git_path_guess": "스토킹범죄의 처벌 등에 관한 법률/법률/스토킹범죄의 처벌 등에 관한 법률.json",
+            "target_git_path": "스토킹범죄의 처벌 등에 관한 법률/법률/스토킹범죄의 처벌 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1134,7 +1247,9 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0016",
             "reference_id": "law:아동청소년의성보호에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "아동·청소년의 성보호에 관한 법률/법률/아동·청소년의 성보호에 관한 법률.json"
+            "target_git_path_guess": "아동·청소년의 성보호에 관한 법률/법률/아동·청소년의 성보호에 관한 법률.json",
+            "target_git_path": "아동ㆍ청소년의 성보호에 관한 법률/법률/아동ㆍ청소년의 성보호에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1154,7 +1269,9 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0016",
             "reference_id": "law:아동청소년의성보호에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "아동·청소년의 성보호에 관한 법률/법률/아동·청소년의 성보호에 관한 법률.json"
+            "target_git_path_guess": "아동·청소년의 성보호에 관한 법률/법률/아동·청소년의 성보호에 관한 법률.json",
+            "target_git_path": "아동ㆍ청소년의 성보호에 관한 법률/법률/아동ㆍ청소년의 성보호에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1174,7 +1291,9 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0016",
             "reference_id": "law:형법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1194,7 +1313,9 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0016",
             "reference_id": "law:형법#JO0355",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1214,7 +1335,9 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0016",
             "reference_id": "law:형법#JO0356",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1246,7 +1369,11 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0016_02",
             "reference_id": "SchlPubRul:인천시설공단공무직관리규정#JO0031",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json"
+            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_path": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1283,7 +1410,12 @@
             "target_unit": "BYL0004",
             "reference_id": "SchlPubRul:인천시설공단공무직관리규정#BYL0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json"
+            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_path": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_file_path": "인천시설공단 공무직 관리규정/별표/별표4_수당 및 퇴직급여금 지급기준표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -1303,7 +1435,9 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0017",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1323,7 +1457,9 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0017",
             "reference_id": "law:고용상연령차별금지및고령자고용촉진에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고용상 연령차별 금지 및 고령자 고용 촉진에 관한 법률/법률/고용상 연령차별 금지 및 고령자 고용 촉진에 관한 법률.json"
+            "target_git_path_guess": "고용상 연령차별 금지 및 고령자 고용 촉진에 관한 법률/법률/고용상 연령차별 금지 및 고령자 고용 촉진에 관한 법률.json",
+            "target_git_path": "고용상 연령차별금지 및 고령자고용촉진에 관한 법률/법률/고용상 연령차별금지 및 고령자고용촉진에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1355,7 +1491,9 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0018",
             "reference_id": "law:민법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1375,7 +1513,9 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0018",
             "reference_id": "law:민법#JO0379",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1395,7 +1535,9 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0018",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1415,7 +1557,9 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0018",
             "reference_id": "law:근로기준법#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1445,9 +1589,11 @@
             "target_url": "https://www.law.go.kr/법령/남녀고용평등법",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0018_02",
-            "reference_id": "law:남녀고용평등법#DOC",
+            "reference_id": "law:남녀고용평등과일가정양립지원에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "남녀고용평등법/법률/남녀고용평등법.json"
+            "target_git_path_guess": "남녀고용평등법/법률/남녀고용평등법.json",
+            "target_git_path": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1465,9 +1611,11 @@
             "target_url": "https://www.law.go.kr/법령/남녀고용평등법/제19조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0018_02",
-            "reference_id": "law:남녀고용평등법#JO0019",
+            "reference_id": "law:남녀고용평등과일가정양립지원에관한법률#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "남녀고용평등법/법률/남녀고용평등법.json"
+            "target_git_path_guess": "남녀고용평등법/법률/남녀고용평등법.json",
+            "target_git_path": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1499,7 +1647,9 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0018_03",
             "reference_id": "law:근로자퇴직급여보장법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로자퇴직급여 보장법/법률/근로자퇴직급여 보장법.json"
+            "target_git_path_guess": "근로자퇴직급여 보장법/법률/근로자퇴직급여 보장법.json",
+            "target_git_path": "근로자퇴직급여 보장법/법률/근로자퇴직급여 보장법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1519,7 +1669,9 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0018_03",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1551,7 +1703,11 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0019",
             "reference_id": "SchlPubRul:인천시설공단공무직관리규정#JO0037",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json"
+            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_path": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1583,7 +1739,11 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0020",
             "reference_id": "SchlPubRul:인천시설공단공무직관리규정#JO0038",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json"
+            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_path": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1615,7 +1775,11 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0021",
             "reference_id": "SchlPubRul:인천시설공단공무직관리규정#JO0039",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json"
+            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_path": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1647,7 +1811,11 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0022",
             "reference_id": "SchlPubRul:인천시설공단공무직관리규정#JO0040",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json"
+            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_path": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1679,7 +1847,11 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0023",
             "reference_id": "SchlPubRul:인천시설공단공무직관리규정#JO0041",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json"
+            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_path": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1711,7 +1883,11 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0024",
             "reference_id": "SchlPubRul:인천시설공단공무직관리규정#JO0042",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json"
+            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_path": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1743,7 +1919,11 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0025",
             "reference_id": "SchlPubRul:인천시설공단공무직관리규정#JO0043",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json"
+            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_path": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1786,7 +1966,11 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0027",
             "reference_id": "SchlPubRul:인천시설공단공무직관리규정#JO0044",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json"
+            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_path": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1818,7 +2002,11 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0028",
             "reference_id": "SchlPubRul:인천시설공단공무직관리규정#JO0045",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json"
+            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_path": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1850,7 +2038,11 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0029",
             "reference_id": "SchlPubRul:인천시설공단공무직관리규정#JO0046",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json"
+            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_path": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1915,7 +2107,11 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0032",
             "reference_id": "SchlPubRul:인천시설공단공무직관리규정#JO0021",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json"
+            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_path": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1947,7 +2143,11 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0033",
             "reference_id": "SchlPubRul:인천시설공단공무직관리규정#JO0022",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json"
+            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_path": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -1967,7 +2167,11 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0033",
             "reference_id": "SchlPubRul:인천시설공단공무직관리규정#JO0023",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json"
+            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_path": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -1987,7 +2191,11 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0033",
             "reference_id": "SchlPubRul:인천시설공단공무직관리규정#JO0024",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json"
+            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_path": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -2007,7 +2215,11 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0033",
             "reference_id": "SchlPubRul:인천시설공단공무직관리규정#JO0024",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json"
+            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_path": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -2027,7 +2239,11 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0033",
             "reference_id": "SchlPubRul:인천시설공단공무직관리규정#JO0025",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json"
+            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_path": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -2047,7 +2263,11 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0033",
             "reference_id": "SchlPubRul:인천시설공단공무직관리규정#JO0026",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json"
+            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_path": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -2067,7 +2287,11 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0033",
             "reference_id": "SchlPubRul:인천시설공단공무직관리규정#JO0027",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json"
+            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_path": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -2087,7 +2311,11 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0033",
             "reference_id": "SchlPubRul:인천시설공단공무직관리규정#JO0028",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json"
+            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_path": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -2107,7 +2335,11 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0033",
             "reference_id": "SchlPubRul:인천시설공단공무직관리규정#JO0029",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json"
+            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_path": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -2127,7 +2359,11 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0033",
             "reference_id": "SchlPubRul:인천시설공단공무직관리규정#JO0030",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json"
+            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_path": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -2147,7 +2383,11 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0033",
             "reference_id": "SchlPubRul:인천시설공단공무직관리규정#JO0030",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json"
+            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_path": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -2167,7 +2407,11 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0033",
             "reference_id": "SchlPubRul:인천시설공단공무직관리규정#JO0031",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json"
+            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_path": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -2199,7 +2443,11 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0034",
             "reference_id": "SchlPubRul:인천시설공단공무직관리규정#JO0030",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json"
+            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_path": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -2247,7 +2495,12 @@
             "target_unit": "BYL0006",
             "reference_id": "SchlPubRul:인천시설공단공무직관리규정#BYL0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json"
+            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_path": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_file_path": "인천시설공단 공무직 관리규정/별표/별표6_공무직 봉급 기준표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -2295,7 +2548,12 @@
             "target_unit": "BYL0006",
             "reference_id": "SchlPubRul:인천시설공단공무직관리규정#BYL0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json"
+            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_path": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_file_path": "인천시설공단 공무직 관리규정/별표/별표6_공무직 봉급 기준표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -2338,7 +2596,11 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0035_05",
             "reference_id": "SchlPubRul:인천시설공단공무직관리규정#JO0035_04",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json"
+            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_path": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -2358,7 +2620,11 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0035_05",
             "reference_id": "SchlPubRul:인천시설공단공무직관리규정#JO0035_03",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json"
+            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_path": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -2378,7 +2644,11 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0035_05",
             "reference_id": "SchlPubRul:인천시설공단공무직관리규정#JO0035_04",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json"
+            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_path": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -2398,7 +2668,11 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0035_05",
             "reference_id": "SchlPubRul:인천시설공단공무직관리규정#JO0033",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json"
+            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_path": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -2446,7 +2720,12 @@
             "target_unit": "BYL0004",
             "reference_id": "SchlPubRul:인천시설공단공무직관리규정#BYL0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json"
+            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_path": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_file_path": "인천시설공단 공무직 관리규정/별표/별표4_수당 및 퇴직급여금 지급기준표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -2483,7 +2762,12 @@
             "target_unit": "BYL0004",
             "reference_id": "SchlPubRul:인천시설공단공무직관리규정#BYL0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json"
+            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_path": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_file_path": "인천시설공단 공무직 관리규정/별표/별표4_수당 및 퇴직급여금 지급기준표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -2520,7 +2804,12 @@
             "target_unit": "BYL0004",
             "reference_id": "SchlPubRul:인천시설공단공무직관리규정#BYL0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json"
+            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_path": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_file_path": "인천시설공단 공무직 관리규정/별표/별표4_수당 및 퇴직급여금 지급기준표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -2601,7 +2890,12 @@
             "target_unit": "BYL0004",
             "reference_id": "SchlPubRul:인천시설공단공무직관리규정#BYL0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json"
+            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_path": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_file_path": "인천시설공단 공무직 관리규정/별표/별표4_수당 및 퇴직급여금 지급기준표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -2638,7 +2932,12 @@
             "target_unit": "BYL0004",
             "reference_id": "SchlPubRul:인천시설공단공무직관리규정#BYL0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json"
+            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_path": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_file_path": "인천시설공단 공무직 관리규정/별표/별표4_수당 및 퇴직급여금 지급기준표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -2675,7 +2974,12 @@
             "target_unit": "BYL0004",
             "reference_id": "SchlPubRul:인천시설공단공무직관리규정#BYL0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json"
+            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_path": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_file_path": "인천시설공단 공무직 관리규정/별표/별표4_수당 및 퇴직급여금 지급기준표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -2712,7 +3016,12 @@
             "target_unit": "BYL0004",
             "reference_id": "SchlPubRul:인천시설공단공무직관리규정#BYL0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json"
+            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_path": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_file_path": "인천시설공단 공무직 관리규정/별표/별표4_수당 및 퇴직급여금 지급기준표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -2760,7 +3069,12 @@
             "target_unit": "BYL0004",
             "reference_id": "SchlPubRul:인천시설공단공무직관리규정#BYL0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json"
+            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_path": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_file_path": "인천시설공단 공무직 관리규정/별표/별표4_수당 및 퇴직급여금 지급기준표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -2792,7 +3106,11 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0049_02",
             "reference_id": "SchlPubRul:인천시설공단공무직관리규정#JO0030",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json"
+            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_path": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -2840,7 +3158,12 @@
             "target_unit": "BYL0004",
             "reference_id": "SchlPubRul:인천시설공단공무직관리규정#BYL0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json"
+            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_path": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_file_path": "인천시설공단 공무직 관리규정/별표/별표4_수당 및 퇴직급여금 지급기준표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -2888,7 +3211,12 @@
             "target_unit": "BYL0004",
             "reference_id": "SchlPubRul:인천시설공단공무직관리규정#BYL0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json"
+            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_path": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_file_path": "인천시설공단 공무직 관리규정/별표/별표4_수당 및 퇴직급여금 지급기준표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -2908,7 +3236,11 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0049_06",
             "reference_id": "SchlPubRul:인천시설공단공무직관리규정#JO0042",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json"
+            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_path": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -2928,7 +3260,11 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0049_06",
             "reference_id": "SchlPubRul:인천시설공단공무직관리규정#JO0021",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json"
+            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_path": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -2948,7 +3284,11 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0049_06",
             "reference_id": "SchlPubRul:인천시설공단공무직관리규정#JO0018",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json"
+            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_path": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -2968,7 +3308,11 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0049_06",
             "reference_id": "SchlPubRul:인천시설공단공무직관리규정#JO0024",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json"
+            "target_git_path_guess": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_git_path": "인천시설공단 공무직 관리규정/인천시설공단 공무직 관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -2988,7 +3332,9 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0049_06",
             "reference_id": "law:성폭력범죄의처벌등에관한특례법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json"
+            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
+            "target_git_path": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3008,7 +3354,9 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0049_06",
             "reference_id": "law:성매매알선등행위의처벌에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "성매매알선 등 행위의 처벌에 관한 법률/법률/성매매알선 등 행위의 처벌에 관한 법률.json"
+            "target_git_path_guess": "성매매알선 등 행위의 처벌에 관한 법률/법률/성매매알선 등 행위의 처벌에 관한 법률.json",
+            "target_git_path": "성매매알선 등 행위의 처벌에 관한 법률/법률/성매매알선 등 행위의 처벌에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3028,7 +3376,9 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0049_06",
             "reference_id": "law:도로교통법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "도로교통법/법률/도로교통법.json"
+            "target_git_path_guess": "도로교통법/법률/도로교통법.json",
+            "target_git_path": "도로교통법/법률/도로교통법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3048,7 +3398,9 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0049_06",
             "reference_id": "law:도로교통법#JO0044",
             "target_repo": "LAW",
-            "target_git_path_guess": "도로교통법/법률/도로교통법.json"
+            "target_git_path_guess": "도로교통법/법률/도로교통법.json",
+            "target_git_path": "도로교통법/법률/도로교통법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -3102,7 +3454,9 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0052",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3122,7 +3476,9 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0052",
             "reference_id": "law:남녀고용평등과일가정양립지원에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "남녀고용평등과 일·가정 양립 지원에 관한 법률/법률/남녀고용평등과 일·가정 양립 지원에 관한 법률.json"
+            "target_git_path_guess": "남녀고용평등과 일·가정 양립 지원에 관한 법률/법률/남녀고용평등과 일·가정 양립 지원에 관한 법률.json",
+            "target_git_path": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3142,7 +3498,9 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0052",
             "reference_id": "law:근로자퇴직급여보장법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로자퇴직급여 보장법/법률/근로자퇴직급여 보장법.json"
+            "target_git_path_guess": "근로자퇴직급여 보장법/법률/근로자퇴직급여 보장법.json",
+            "target_git_path": "근로자퇴직급여 보장법/법률/근로자퇴직급여 보장법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3162,7 +3520,9 @@
             "source_provision_id": "SchlPubRul:인천시설공단공무직관리규정#JO0052",
             "reference_id": "law:고용보험법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고용보험법/법률/고용보험법.json"
+            "target_git_path_guess": "고용보험법/법률/고용보험법.json",
+            "target_git_path": "고용보험법/법률/고용보험법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

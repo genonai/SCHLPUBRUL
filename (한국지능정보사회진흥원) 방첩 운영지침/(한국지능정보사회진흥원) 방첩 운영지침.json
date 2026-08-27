@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:(한국지능정보사회진흥원)방첩운영지침#JO0001",
             "reference_id": "law:국가정보원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가정보원법/법률/국가정보원법.json"
+            "target_git_path_guess": "국가정보원법/법률/국가정보원법.json",
+            "target_git_path": "국가정보원법/법률/국가정보원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -85,7 +87,9 @@
             "source_provision_id": "SchlPubRul:(한국지능정보사회진흥원)방첩운영지침#JO0001",
             "reference_id": "law:국가정보원법#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가정보원법/법률/국가정보원법.json"
+            "target_git_path_guess": "국가정보원법/법률/국가정보원법.json",
+            "target_git_path": "국가정보원법/법률/국가정보원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -105,7 +109,11 @@
             "source_provision_id": "SchlPubRul:(한국지능정보사회진흥원)방첩운영지침#JO0001",
             "reference_id": "admrul:방첩업무규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "방첩업무 규정/방첩업무 규정.json"
+            "target_git_path_guess": "방첩업무 규정/방첩업무 규정.json",
+            "target_git_path": "방첩업무 규정/방첩업무 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -175,7 +183,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(한국지능정보사회진흥원)방첩운영지침#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국지능정보사회진흥원) 방첩 운영지침/(한국지능정보사회진흥원) 방첩 운영지침.json"
+            "target_git_path_guess": "(한국지능정보사회진흥원) 방첩 운영지침/(한국지능정보사회진흥원) 방첩 운영지침.json",
+            "target_git_path": "(한국지능정보사회진흥원) 방첩 운영지침/(한국지능정보사회진흥원) 방첩 운영지침.json",
+            "target_git_file_path": "(한국지능정보사회진흥원) 방첩 운영지침/별지/별지1_외국인 접촉 신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -200,7 +213,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(한국지능정보사회진흥원)방첩운영지침#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국지능정보사회진흥원) 방첩 운영지침/(한국지능정보사회진흥원) 방첩 운영지침.json"
+            "target_git_path_guess": "(한국지능정보사회진흥원) 방첩 운영지침/(한국지능정보사회진흥원) 방첩 운영지침.json",
+            "target_git_path": "(한국지능정보사회진흥원) 방첩 운영지침/(한국지능정보사회진흥원) 방첩 운영지침.json",
+            "target_git_file_path": "(한국지능정보사회진흥원) 방첩 운영지침/별지/별지2_외국인(외국정보요원) 접촉결과 보고서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -237,7 +255,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:(한국지능정보사회진흥원)방첩운영지침#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국지능정보사회진흥원) 방첩 운영지침/(한국지능정보사회진흥원) 방첩 운영지침.json"
+            "target_git_path_guess": "(한국지능정보사회진흥원) 방첩 운영지침/(한국지능정보사회진흥원) 방첩 운영지침.json",
+            "target_git_path": "(한국지능정보사회진흥원) 방첩 운영지침/(한국지능정보사회진흥원) 방첩 운영지침.json",
+            "target_git_file_path": "(한국지능정보사회진흥원) 방첩 운영지침/별지/별지3_외국인 등 접촉 시 특이사항 보고.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -274,7 +297,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:(한국지능정보사회진흥원)방첩운영지침#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국지능정보사회진흥원) 방첩 운영지침/(한국지능정보사회진흥원) 방첩 운영지침.json"
+            "target_git_path_guess": "(한국지능정보사회진흥원) 방첩 운영지침/(한국지능정보사회진흥원) 방첩 운영지침.json",
+            "target_git_path": "(한국지능정보사회진흥원) 방첩 운영지침/(한국지능정보사회진흥원) 방첩 운영지침.json",
+            "target_git_file_path": "(한국지능정보사회진흥원) 방첩 운영지침/별지/별지4_외국인 정보요원 접촉 신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -299,7 +327,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(한국지능정보사회진흥원)방첩운영지침#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국지능정보사회진흥원) 방첩 운영지침/(한국지능정보사회진흥원) 방첩 운영지침.json"
+            "target_git_path_guess": "(한국지능정보사회진흥원) 방첩 운영지침/(한국지능정보사회진흥원) 방첩 운영지침.json",
+            "target_git_path": "(한국지능정보사회진흥원) 방첩 운영지침/(한국지능정보사회진흥원) 방첩 운영지침.json",
+            "target_git_file_path": "(한국지능정보사회진흥원) 방첩 운영지침/별지/별지2_외국인(외국정보요원) 접촉결과 보고서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -353,7 +386,9 @@
             "source_provision_id": "SchlPubRul:(한국지능정보사회진흥원)방첩운영지침#JO0010",
             "reference_id": "law:공공기록물관리에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물관리에 관한 법률/시행령/공공기록물관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기록물관리에 관한 법률/시행령/공공기록물관리에 관한 법률 시행령.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -373,7 +408,9 @@
             "source_provision_id": "SchlPubRul:(한국지능정보사회진흥원)방첩운영지침#JO0010",
             "reference_id": "law:공공기록물관리에관한법률시행령#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물관리에 관한 법률/시행령/공공기록물관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기록물관리에 관한 법률/시행령/공공기록물관리에 관한 법률 시행령.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -398,7 +435,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(한국지능정보사회진흥원)방첩운영지침#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국지능정보사회진흥원) 방첩 운영지침/(한국지능정보사회진흥원) 방첩 운영지침.json"
+            "target_git_path_guess": "(한국지능정보사회진흥원) 방첩 운영지침/(한국지능정보사회진흥원) 방첩 운영지침.json",
+            "target_git_path": "(한국지능정보사회진흥원) 방첩 운영지침/(한국지능정보사회진흥원) 방첩 운영지침.json",
+            "target_git_file_path": "(한국지능정보사회진흥원) 방첩 운영지침/별지/별지1_외국인 접촉 신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

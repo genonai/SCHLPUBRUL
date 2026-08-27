@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:이천시시설관리공단행정정보공동이용운영내규#JO0001",
             "reference_id": "law:전자정부법#JO0037",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -85,7 +87,9 @@
             "source_provision_id": "SchlPubRul:이천시시설관리공단행정정보공동이용운영내규#JO0001",
             "reference_id": "law:전자정부법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/시행령/전자정부법 시행령.json"
+            "target_git_path_guess": "전자정부법/시행령/전자정부법 시행령.json",
+            "target_git_path": "전자정부법/시행령/전자정부법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -105,7 +109,9 @@
             "source_provision_id": "SchlPubRul:이천시시설관리공단행정정보공동이용운영내규#JO0001",
             "reference_id": "law:전자정부법시행령#JO0042",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/시행령/전자정부법 시행령.json"
+            "target_git_path_guess": "전자정부법/시행령/전자정부법 시행령.json",
+            "target_git_path": "전자정부법/시행령/전자정부법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -137,7 +143,9 @@
             "source_provision_id": "SchlPubRul:이천시시설관리공단행정정보공동이용운영내규#JO0002",
             "reference_id": "law:전자정부법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/시행령/전자정부법 시행령.json"
+            "target_git_path_guess": "전자정부법/시행령/전자정부법 시행령.json",
+            "target_git_path": "전자정부법/시행령/전자정부법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -157,7 +165,11 @@
             "source_provision_id": "SchlPubRul:이천시시설관리공단행정정보공동이용운영내규#JO0002",
             "reference_id": "admrul:행정정보공동이용지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "행정정보공동이용지침/행정정보공동이용지침.json"
+            "target_git_path_guess": "행정정보공동이용지침/행정정보공동이용지침.json",
+            "target_git_path": "행정정보 공동이용 지침/행정정보 공동이용 지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -200,7 +212,9 @@
             "source_provision_id": "SchlPubRul:이천시시설관리공단행정정보공동이용운영내규#JO0004",
             "reference_id": "law:전자정부법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -220,7 +234,9 @@
             "source_provision_id": "SchlPubRul:이천시시설관리공단행정정보공동이용운영내규#JO0004",
             "reference_id": "law:전자정부법#JO0043",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -257,7 +273,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:이천시시설관리공단행정정보공동이용운영내규#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "이천시시설관리공단 행정정보 공동이용 운영내규/이천시시설관리공단 행정정보 공동이용 운영내규.json"
+            "target_git_path_guess": "이천시시설관리공단 행정정보 공동이용 운영내규/이천시시설관리공단 행정정보 공동이용 운영내규.json",
+            "target_git_path": "이천시시설관리공단 행정정보 공동이용 운영내규/이천시시설관리공단 행정정보 공동이용 운영내규.json",
+            "target_git_file_path": "이천시시설관리공단 행정정보 공동이용 운영내규/별지/별지1_행정정보공동이용 신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -305,7 +326,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:이천시시설관리공단행정정보공동이용운영내규#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "이천시시설관리공단 행정정보 공동이용 운영내규/이천시시설관리공단 행정정보 공동이용 운영내규.json"
+            "target_git_path_guess": "이천시시설관리공단 행정정보 공동이용 운영내규/이천시시설관리공단 행정정보 공동이용 운영내규.json",
+            "target_git_path": "이천시시설관리공단 행정정보 공동이용 운영내규/이천시시설관리공단 행정정보 공동이용 운영내규.json",
+            "target_git_file_path": "이천시시설관리공단 행정정보 공동이용 운영내규/별지/별지2_행정정보공동이용 접근권한 신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -337,7 +363,11 @@
             "source_provision_id": "SchlPubRul:이천시시설관리공단행정정보공동이용운영내규#JO0008",
             "reference_id": "SchlPubRul:이천시시설관리공단행정정보공동이용운영내규#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "이천시시설관리공단 행정정보 공동이용 운영내규/이천시시설관리공단 행정정보 공동이용 운영내규.json"
+            "target_git_path_guess": "이천시시설관리공단 행정정보 공동이용 운영내규/이천시시설관리공단 행정정보 공동이용 운영내규.json",
+            "target_git_path": "이천시시설관리공단 행정정보 공동이용 운영내규/이천시시설관리공단 행정정보 공동이용 운영내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -369,7 +399,11 @@
             "source_provision_id": "SchlPubRul:이천시시설관리공단행정정보공동이용운영내규#JO0009",
             "reference_id": "SchlPubRul:이천시시설관리공단행정정보공동이용운영내규#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "이천시시설관리공단 행정정보 공동이용 운영내규/이천시시설관리공단 행정정보 공동이용 운영내규.json"
+            "target_git_path_guess": "이천시시설관리공단 행정정보 공동이용 운영내규/이천시시설관리공단 행정정보 공동이용 운영내규.json",
+            "target_git_path": "이천시시설관리공단 행정정보 공동이용 운영내규/이천시시설관리공단 행정정보 공동이용 운영내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -389,7 +423,11 @@
             "source_provision_id": "SchlPubRul:이천시시설관리공단행정정보공동이용운영내규#JO0009",
             "reference_id": "SchlPubRul:이천시시설관리공단행정정보공동이용운영내규#JO0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "이천시시설관리공단 행정정보 공동이용 운영내규/이천시시설관리공단 행정정보 공동이용 운영내규.json"
+            "target_git_path_guess": "이천시시설관리공단 행정정보 공동이용 운영내규/이천시시설관리공단 행정정보 공동이용 운영내규.json",
+            "target_git_path": "이천시시설관리공단 행정정보 공동이용 운영내규/이천시시설관리공단 행정정보 공동이용 운영내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -426,7 +464,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:이천시시설관리공단행정정보공동이용운영내규#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "이천시시설관리공단 행정정보 공동이용 운영내규/이천시시설관리공단 행정정보 공동이용 운영내규.json"
+            "target_git_path_guess": "이천시시설관리공단 행정정보 공동이용 운영내규/이천시시설관리공단 행정정보 공동이용 운영내규.json",
+            "target_git_path": "이천시시설관리공단 행정정보 공동이용 운영내규/이천시시설관리공단 행정정보 공동이용 운영내규.json",
+            "target_git_file_path": "이천시시설관리공단 행정정보 공동이용 운영내규/별지/별지3_행정정보공동이용 서약서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -446,7 +489,11 @@
             "source_provision_id": "SchlPubRul:이천시시설관리공단행정정보공동이용운영내규#JO0010",
             "reference_id": "SchlPubRul:이천시시설관리공단행정정보공동이용운영내규#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "이천시시설관리공단 행정정보 공동이용 운영내규/이천시시설관리공단 행정정보 공동이용 운영내규.json"
+            "target_git_path_guess": "이천시시설관리공단 행정정보 공동이용 운영내규/이천시시설관리공단 행정정보 공동이용 운영내규.json",
+            "target_git_path": "이천시시설관리공단 행정정보 공동이용 운영내규/이천시시설관리공단 행정정보 공동이용 운영내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -489,7 +536,9 @@
             "source_provision_id": "SchlPubRul:이천시시설관리공단행정정보공동이용운영내규#JO0012",
             "reference_id": "law:상업등기법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "상업등기법/법률/상업등기법.json"
+            "target_git_path_guess": "상업등기법/법률/상업등기법.json",
+            "target_git_path": "상업등기법/법률/상업등기법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -509,7 +558,9 @@
             "source_provision_id": "SchlPubRul:이천시시설관리공단행정정보공동이용운영내규#JO0012",
             "reference_id": "law:상업등기법#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "상업등기법/법률/상업등기법.json"
+            "target_git_path_guess": "상업등기법/법률/상업등기법.json",
+            "target_git_path": "상업등기법/법률/상업등기법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -529,7 +580,9 @@
             "source_provision_id": "SchlPubRul:이천시시설관리공단행정정보공동이용운영내규#JO0012",
             "reference_id": "law:부동산등기법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부동산등기법/법률/부동산등기법.json"
+            "target_git_path_guess": "부동산등기법/법률/부동산등기법.json",
+            "target_git_path": "부동산등기법/법률/부동산등기법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -549,7 +602,9 @@
             "source_provision_id": "SchlPubRul:이천시시설관리공단행정정보공동이용운영내규#JO0012",
             "reference_id": "law:부동산등기법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "부동산등기법/법률/부동산등기법.json"
+            "target_git_path_guess": "부동산등기법/법률/부동산등기법.json",
+            "target_git_path": "부동산등기법/법률/부동산등기법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -569,7 +624,9 @@
             "source_provision_id": "SchlPubRul:이천시시설관리공단행정정보공동이용운영내규#JO0012",
             "reference_id": "law:공간정보의구축및관리등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공간정보의 구축 및 관리 등에 관한 법률/법률/공간정보의 구축 및 관리 등에 관한 법률.json"
+            "target_git_path_guess": "공간정보의 구축 및 관리 등에 관한 법률/법률/공간정보의 구축 및 관리 등에 관한 법률.json",
+            "target_git_path": "공간정보의 구축 및 관리 등에 관한 법률/법률/공간정보의 구축 및 관리 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -589,7 +646,9 @@
             "source_provision_id": "SchlPubRul:이천시시설관리공단행정정보공동이용운영내규#JO0012",
             "reference_id": "law:공간정보의구축및관리등에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "공간정보의 구축 및 관리 등에 관한 법률/법률/공간정보의 구축 및 관리 등에 관한 법률.json"
+            "target_git_path_guess": "공간정보의 구축 및 관리 등에 관한 법률/법률/공간정보의 구축 및 관리 등에 관한 법률.json",
+            "target_git_path": "공간정보의 구축 및 관리 등에 관한 법률/법률/공간정보의 구축 및 관리 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -609,7 +668,9 @@
             "source_provision_id": "SchlPubRul:이천시시설관리공단행정정보공동이용운영내규#JO0012",
             "reference_id": "law:건축법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건축법/법률/건축법.json"
+            "target_git_path_guess": "건축법/법률/건축법.json",
+            "target_git_path": "건축법/법률/건축법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -629,7 +690,9 @@
             "source_provision_id": "SchlPubRul:이천시시설관리공단행정정보공동이용운영내규#JO0012",
             "reference_id": "law:건축법#JO0038",
             "target_repo": "LAW",
-            "target_git_path_guess": "건축법/법률/건축법.json"
+            "target_git_path_guess": "건축법/법률/건축법.json",
+            "target_git_path": "건축법/법률/건축법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -649,7 +712,9 @@
             "source_provision_id": "SchlPubRul:이천시시설관리공단행정정보공동이용운영내규#JO0012",
             "reference_id": "law:토지이용규제기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "토지이용규제 기본법/법률/토지이용규제 기본법.json"
+            "target_git_path_guess": "토지이용규제 기본법/법률/토지이용규제 기본법.json",
+            "target_git_path": "토지이용규제 기본법/법률/토지이용규제 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -669,7 +734,9 @@
             "source_provision_id": "SchlPubRul:이천시시설관리공단행정정보공동이용운영내규#JO0012",
             "reference_id": "law:토지이용규제기본법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "토지이용규제 기본법/법률/토지이용규제 기본법.json"
+            "target_git_path_guess": "토지이용규제 기본법/법률/토지이용규제 기본법.json",
+            "target_git_path": "토지이용규제 기본법/법률/토지이용규제 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -689,7 +756,9 @@
             "source_provision_id": "SchlPubRul:이천시시설관리공단행정정보공동이용운영내규#JO0012",
             "reference_id": "law:부동산가격공시에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부동산 가격공시에 관한 법률/법률/부동산 가격공시에 관한 법률.json"
+            "target_git_path_guess": "부동산 가격공시에 관한 법률/법률/부동산 가격공시에 관한 법률.json",
+            "target_git_path": "부동산 가격공시에 관한 법률/법률/부동산 가격공시에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -709,7 +778,9 @@
             "source_provision_id": "SchlPubRul:이천시시설관리공단행정정보공동이용운영내규#JO0012",
             "reference_id": "law:부동산가격공시에관한법률#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "부동산 가격공시에 관한 법률/법률/부동산 가격공시에 관한 법률.json"
+            "target_git_path_guess": "부동산 가격공시에 관한 법률/법률/부동산 가격공시에 관한 법률.json",
+            "target_git_path": "부동산 가격공시에 관한 법률/법률/부동산 가격공시에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -729,7 +800,9 @@
             "source_provision_id": "SchlPubRul:이천시시설관리공단행정정보공동이용운영내규#JO0012",
             "reference_id": "law:부동산가격공시에관한법률#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "부동산 가격공시에 관한 법률/법률/부동산 가격공시에 관한 법률.json"
+            "target_git_path_guess": "부동산 가격공시에 관한 법률/법률/부동산 가격공시에 관한 법률.json",
+            "target_git_path": "부동산 가격공시에 관한 법률/법률/부동산 가격공시에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -749,7 +822,11 @@
             "source_provision_id": "SchlPubRul:이천시시설관리공단행정정보공동이용운영내규#JO0012",
             "reference_id": "SchlPubRul:이천시시설관리공단행정정보공동이용운영내규#JO0018",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "이천시시설관리공단 행정정보 공동이용 운영내규/이천시시설관리공단 행정정보 공동이용 운영내규.json"
+            "target_git_path_guess": "이천시시설관리공단 행정정보 공동이용 운영내규/이천시시설관리공단 행정정보 공동이용 운영내규.json",
+            "target_git_path": "이천시시설관리공단 행정정보 공동이용 운영내규/이천시시설관리공단 행정정보 공동이용 운영내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -774,7 +851,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:이천시시설관리공단행정정보공동이용운영내규#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "이천시시설관리공단 행정정보 공동이용 운영내규/이천시시설관리공단 행정정보 공동이용 운영내규.json"
+            "target_git_path_guess": "이천시시설관리공단 행정정보 공동이용 운영내규/이천시시설관리공단 행정정보 공동이용 운영내규.json",
+            "target_git_path": "이천시시설관리공단 행정정보 공동이용 운영내규/이천시시설관리공단 행정정보 공동이용 운영내규.json",
+            "target_git_file_path": "이천시시설관리공단 행정정보 공동이용 운영내규/별지/별지4_행정정보 공동이용 사전동의서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -794,7 +876,9 @@
             "source_provision_id": "SchlPubRul:이천시시설관리공단행정정보공동이용운영내규#JO0012",
             "reference_id": "law:전자서명법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자서명법/법률/전자서명법.json"
+            "target_git_path_guess": "전자서명법/법률/전자서명법.json",
+            "target_git_path": "전자서명법/법률/전자서명법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -814,7 +898,9 @@
             "source_provision_id": "SchlPubRul:이천시시설관리공단행정정보공동이용운영내규#JO0012",
             "reference_id": "law:전자서명법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자서명법/법률/전자서명법.json"
+            "target_git_path_guess": "전자서명법/법률/전자서명법.json",
+            "target_git_path": "전자서명법/법률/전자서명법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -946,7 +1032,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:이천시시설관리공단행정정보공동이용운영내규#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "이천시시설관리공단 행정정보 공동이용 운영내규/이천시시설관리공단 행정정보 공동이용 운영내규.json"
+            "target_git_path_guess": "이천시시설관리공단 행정정보 공동이용 운영내규/이천시시설관리공단 행정정보 공동이용 운영내규.json",
+            "target_git_path": "이천시시설관리공단 행정정보 공동이용 운영내규/이천시시설관리공단 행정정보 공동이용 운영내규.json",
+            "target_git_file_path": "이천시시설관리공단 행정정보 공동이용 운영내규/별지/별지5_행정정보공동이용대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -983,7 +1074,12 @@
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:이천시시설관리공단행정정보공동이용운영내규#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "이천시시설관리공단 행정정보 공동이용 운영내규/이천시시설관리공단 행정정보 공동이용 운영내규.json"
+            "target_git_path_guess": "이천시시설관리공단 행정정보 공동이용 운영내규/이천시시설관리공단 행정정보 공동이용 운영내규.json",
+            "target_git_path": "이천시시설관리공단 행정정보 공동이용 운영내규/이천시시설관리공단 행정정보 공동이용 운영내규.json",
+            "target_git_file_path": "이천시시설관리공단 행정정보 공동이용 운영내규/별지/별지6_행정정보 유통서비스 개인정보 보호관리 점검표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],

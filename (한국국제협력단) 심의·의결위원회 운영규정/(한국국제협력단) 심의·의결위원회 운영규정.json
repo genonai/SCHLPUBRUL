@@ -65,7 +65,11 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)심의의결위원회운영규정#JO0001",
             "reference_id": "admrul:한국국제협력단사업시행지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "한국국제협력단사업시행지침/한국국제협력단사업시행지침.json"
+            "target_git_path_guess": "한국국제협력단사업시행지침/한국국제협력단사업시행지침.json",
+            "target_git_path": "한국국제협력단사업시행지침/한국국제협력단사업시행지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -85,7 +89,11 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)심의의결위원회운영규정#JO0001",
             "reference_id": "admrul:한국국제협력단사업시행지침#JO0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "한국국제협력단사업시행지침/한국국제협력단사업시행지침.json"
+            "target_git_path_guess": "한국국제협력단사업시행지침/한국국제협력단사업시행지침.json",
+            "target_git_path": "한국국제협력단사업시행지침/한국국제협력단사업시행지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -139,7 +147,9 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)심의의결위원회운영규정#JO0004",
             "reference_id": "law:부패방지및국민권익위원회의설치와운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json"
+            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
+            "target_git_path": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -159,7 +169,9 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)심의의결위원회운영규정#JO0004",
             "reference_id": "law:부패방지및국민권익위원회의설치와운영에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json"
+            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
+            "target_git_path": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -184,7 +196,8 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(한국국제협력단)심의의결위원회운영규정#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국제협력단) 심의·의결위원회 운영규정/(한국국제협력단) 심의·의결위원회 운영규정.json"
+            "target_git_path_guess": "(한국국제협력단) 심의·의결위원회 운영규정/(한국국제협력단) 심의·의결위원회 운영규정.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "appendix_ref",
@@ -209,7 +222,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:(한국국제협력단)심의의결위원회운영규정#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국제협력단) 심의·의결위원회 운영규정/(한국국제협력단) 심의·의결위원회 운영규정.json"
+            "target_git_path_guess": "(한국국제협력단) 심의·의결위원회 운영규정/(한국국제협력단) 심의·의결위원회 운영규정.json",
+            "target_git_path": "(한국국제협력단) 심의·의결위원회 운영규정/(한국국제협력단) 심의·의결위원회 운영규정.json",
+            "target_git_file_path": "(한국국제협력단) 심의·의결위원회 운영규정/별지/별지3_직무윤리 사전진단서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -241,7 +259,9 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)심의의결위원회운영규정#JO0005",
             "reference_id": "law:공직자의이해충돌방지법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공직자의 이해충돌 방지법/법률/공직자의 이해충돌 방지법.json"
+            "target_git_path_guess": "공직자의 이해충돌 방지법/법률/공직자의 이해충돌 방지법.json",
+            "target_git_path": "공직자의 이해충돌 방지법/법률/공직자의 이해충돌 방지법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -261,7 +281,9 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)심의의결위원회운영규정#JO0005",
             "reference_id": "law:공직자의이해충돌방지법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "공직자의 이해충돌 방지법/법률/공직자의 이해충돌 방지법.json"
+            "target_git_path_guess": "공직자의 이해충돌 방지법/법률/공직자의 이해충돌 방지법.json",
+            "target_git_path": "공직자의 이해충돌 방지법/법률/공직자의 이해충돌 방지법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -286,7 +308,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:(한국국제협력단)심의의결위원회운영규정#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국제협력단) 심의·의결위원회 운영규정/(한국국제협력단) 심의·의결위원회 운영규정.json"
+            "target_git_path_guess": "(한국국제협력단) 심의·의결위원회 운영규정/(한국국제협력단) 심의·의결위원회 운영규정.json",
+            "target_git_path": "(한국국제협력단) 심의·의결위원회 운영규정/(한국국제협력단) 심의·의결위원회 운영규정.json",
+            "target_git_file_path": "(한국국제협력단) 심의·의결위원회 운영규정/별지/별지5_위원회 위원 기피ㆍ회피 신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -329,7 +356,11 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)심의의결위원회운영규정#JO0006_02",
             "reference_id": "SchlPubRul:(한국국제협력단)심의의결위원회운영규정#JO0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국제협력단) 심의·의결위원회 운영규정/(한국국제협력단) 심의·의결위원회 운영규정.json"
+            "target_git_path_guess": "(한국국제협력단) 심의·의결위원회 운영규정/(한국국제협력단) 심의·의결위원회 운영규정.json",
+            "target_git_path": "(한국국제협력단) 심의·의결위원회 운영규정/(한국국제협력단) 심의·의결위원회 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -388,7 +419,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(한국국제협력단)심의의결위원회운영규정#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국제협력단) 심의·의결위원회 운영규정/(한국국제협력단) 심의·의결위원회 운영규정.json"
+            "target_git_path_guess": "(한국국제협력단) 심의·의결위원회 운영규정/(한국국제협력단) 심의·의결위원회 운영규정.json",
+            "target_git_path": "(한국국제협력단) 심의·의결위원회 운영규정/(한국국제협력단) 심의·의결위원회 운영규정.json",
+            "target_git_file_path": "(한국국제협력단) 심의·의결위원회 운영규정/별지/별지2_위임장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -442,7 +478,11 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)심의의결위원회운영규정#JO0012",
             "reference_id": "SchlPubRul:(한국국제협력단)심의의결위원회운영규정#JO0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국제협력단) 심의·의결위원회 운영규정/(한국국제협력단) 심의·의결위원회 운영규정.json"
+            "target_git_path_guess": "(한국국제협력단) 심의·의결위원회 운영규정/(한국국제협력단) 심의·의결위원회 운영규정.json",
+            "target_git_path": "(한국국제협력단) 심의·의결위원회 운영규정/(한국국제협력단) 심의·의결위원회 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -462,7 +502,11 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)심의의결위원회운영규정#JO0012",
             "reference_id": "SchlPubRul:(한국국제협력단)심의의결위원회운영규정#JO0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국제협력단) 심의·의결위원회 운영규정/(한국국제협력단) 심의·의결위원회 운영규정.json"
+            "target_git_path_guess": "(한국국제협력단) 심의·의결위원회 운영규정/(한국국제협력단) 심의·의결위원회 운영규정.json",
+            "target_git_path": "(한국국제협력단) 심의·의결위원회 운영규정/(한국국제협력단) 심의·의결위원회 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -482,7 +526,9 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)심의의결위원회운영규정#JO0012",
             "reference_id": "law:공직자의이해충돌방지법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공직자의 이해충돌 방지법/법률/공직자의 이해충돌 방지법.json"
+            "target_git_path_guess": "공직자의 이해충돌 방지법/법률/공직자의 이해충돌 방지법.json",
+            "target_git_path": "공직자의 이해충돌 방지법/법률/공직자의 이해충돌 방지법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -502,7 +548,9 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)심의의결위원회운영규정#JO0012",
             "reference_id": "law:공직자의이해충돌방지법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "공직자의 이해충돌 방지법/법률/공직자의 이해충돌 방지법.json"
+            "target_git_path_guess": "공직자의 이해충돌 방지법/법률/공직자의 이해충돌 방지법.json",
+            "target_git_path": "공직자의 이해충돌 방지법/법률/공직자의 이해충돌 방지법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -556,7 +604,9 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)심의의결위원회운영규정#JO0015",
             "reference_id": "law:국제개발협력기본법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국제개발협력기본법/시행령/국제개발협력기본법 시행령.json"
+            "target_git_path_guess": "국제개발협력기본법/시행령/국제개발협력기본법 시행령.json",
+            "target_git_path": "국제개발협력기본법/시행령/국제개발협력기본법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -576,7 +626,9 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)심의의결위원회운영규정#JO0015",
             "reference_id": "law:국제개발협력기본법시행령#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "국제개발협력기본법/시행령/국제개발협력기본법 시행령.json"
+            "target_git_path_guess": "국제개발협력기본법/시행령/국제개발협력기본법 시행령.json",
+            "target_git_path": "국제개발협력기본법/시행령/국제개발협력기본법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -596,7 +648,9 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)심의의결위원회운영규정#JO0015",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -616,7 +670,9 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)심의의결위원회운영규정#JO0015",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

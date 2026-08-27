@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:(한국에너지공단)효율관리기자재관리업무운영규정#JO0001",
             "reference_id": "law:에너지이용합리화법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "에너지이용합리화법/법률/에너지이용합리화법.json"
+            "target_git_path_guess": "에너지이용합리화법/법률/에너지이용합리화법.json",
+            "target_git_path": "에너지이용 합리화법/법률/에너지이용 합리화법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -85,7 +87,9 @@
             "source_provision_id": "SchlPubRul:(한국에너지공단)효율관리기자재관리업무운영규정#JO0001",
             "reference_id": "law:에너지이용합리화법#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "에너지이용합리화법/법률/에너지이용합리화법.json"
+            "target_git_path_guess": "에너지이용합리화법/법률/에너지이용합리화법.json",
+            "target_git_path": "에너지이용 합리화법/법률/에너지이용 합리화법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -105,7 +109,9 @@
             "source_provision_id": "SchlPubRul:(한국에너지공단)효율관리기자재관리업무운영규정#JO0001",
             "reference_id": "law:에너지이용합리화법#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "에너지이용합리화법/법률/에너지이용합리화법.json"
+            "target_git_path_guess": "에너지이용합리화법/법률/에너지이용합리화법.json",
+            "target_git_path": "에너지이용 합리화법/법률/에너지이용 합리화법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -125,7 +131,11 @@
             "source_provision_id": "SchlPubRul:(한국에너지공단)효율관리기자재관리업무운영규정#JO0001",
             "reference_id": "admrul:효율관리기자재운용규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "효율관리기자재 운용규정/효율관리기자재 운용규정.json"
+            "target_git_path_guess": "효율관리기자재 운용규정/효율관리기자재 운용규정.json",
+            "target_git_path": "효율관리기자재 운용규정/효율관리기자재 운용규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -173,7 +183,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(한국에너지공단)효율관리기자재관리업무운영규정#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국에너지공단) 효율관리기자재관리업무 운영규정/(한국에너지공단) 효율관리기자재관리업무 운영규정.json"
+            "target_git_path_guess": "(한국에너지공단) 효율관리기자재관리업무 운영규정/(한국에너지공단) 효율관리기자재관리업무 운영규정.json",
+            "target_git_path": "(한국에너지공단) 효율관리기자재관리업무 운영규정/(한국에너지공단) 효율관리기자재관리업무 운영규정.json",
+            "target_git_file_path": "(한국에너지공단) 효율관리기자재관리업무 운영규정/별지/별지1_효율관리기자재등록대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -238,7 +253,11 @@
             "source_provision_id": "SchlPubRul:(한국에너지공단)효율관리기자재관리업무운영규정#JO0007",
             "reference_id": "SchlPubRul:(한국에너지공단)효율관리기자재관리업무운영규정#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국에너지공단) 효율관리기자재관리업무 운영규정/(한국에너지공단) 효율관리기자재관리업무 운영규정.json"
+            "target_git_path_guess": "(한국에너지공단) 효율관리기자재관리업무 운영규정/(한국에너지공단) 효율관리기자재관리업무 운영규정.json",
+            "target_git_path": "(한국에너지공단) 효율관리기자재관리업무 운영규정/(한국에너지공단) 효율관리기자재관리업무 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -263,7 +282,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(한국에너지공단)효율관리기자재관리업무운영규정#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국에너지공단) 효율관리기자재관리업무 운영규정/(한국에너지공단) 효율관리기자재관리업무 운영규정.json"
+            "target_git_path_guess": "(한국에너지공단) 효율관리기자재관리업무 운영규정/(한국에너지공단) 효율관리기자재관리업무 운영규정.json",
+            "target_git_path": "(한국에너지공단) 효율관리기자재관리업무 운영규정/(한국에너지공단) 효율관리기자재관리업무 운영규정.json",
+            "target_git_file_path": "(한국에너지공단) 효율관리기자재관리업무 운영규정/별지/별지2_사후관리현장점검표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -283,7 +307,11 @@
             "source_provision_id": "SchlPubRul:(한국에너지공단)효율관리기자재관리업무운영규정#JO0007",
             "reference_id": "SchlPubRul:(한국에너지공단)효율관리기자재관리업무운영규정#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국에너지공단) 효율관리기자재관리업무 운영규정/(한국에너지공단) 효율관리기자재관리업무 운영규정.json"
+            "target_git_path_guess": "(한국에너지공단) 효율관리기자재관리업무 운영규정/(한국에너지공단) 효율관리기자재관리업무 운영규정.json",
+            "target_git_path": "(한국에너지공단) 효율관리기자재관리업무 운영규정/(한국에너지공단) 효율관리기자재관리업무 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

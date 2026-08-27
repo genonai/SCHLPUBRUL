@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:시흥도시공사정보공개운영내규#JO0001",
             "reference_id": "law:공공기관의정보공개에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -97,7 +99,9 @@
             "source_provision_id": "SchlPubRul:시흥도시공사정보공개운영내규#JO0002",
             "reference_id": "law:전자정부법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -129,7 +133,9 @@
             "source_provision_id": "SchlPubRul:시흥도시공사정보공개운영내규#JO0003",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -210,7 +216,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:시흥도시공사정보공개운영내규#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json"
+            "target_git_path_guess": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json",
+            "target_git_path": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json",
+            "target_git_file_path": "시흥도시공사 정보공개 운영내규/별지/별지1_정보공개청구서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -235,7 +246,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:시흥도시공사정보공개운영내규#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json"
+            "target_git_path_guess": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json",
+            "target_git_path": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json",
+            "target_git_file_path": "시흥도시공사 정보공개 운영내규/별지/별지2_정보공개구술청구서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -272,7 +288,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:시흥도시공사정보공개운영내규#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json"
+            "target_git_path_guess": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json",
+            "target_git_path": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json",
+            "target_git_file_path": "시흥도시공사 정보공개 운영내규/별지/별지3_정보공개 위임장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -309,7 +330,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:시흥도시공사정보공개운영내규#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json"
+            "target_git_path_guess": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json",
+            "target_git_path": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json",
+            "target_git_file_path": "시흥도시공사 정보공개 운영내규/별지/별지4_결정통지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -334,7 +360,12 @@
             "target_unit": "BJ0004_02",
             "reference_id": "SchlPubRul:시흥도시공사정보공개운영내규#BJ0004_02",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json"
+            "target_git_path_guess": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json",
+            "target_git_path": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json",
+            "target_git_file_path": "시흥도시공사 정보공개 운영내규/별지/별지4의2_공개 여부 결정기간 연장통지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -359,7 +390,12 @@
             "target_unit": "BJ0004_03",
             "reference_id": "SchlPubRul:시흥도시공사정보공개운영내규#BJ0004_03",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json"
+            "target_git_path_guess": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json",
+            "target_git_path": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json",
+            "target_git_file_path": "시흥도시공사 정보공개 운영내규/별지/별지4의3_정보공개 청구외 통지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -379,7 +415,9 @@
             "source_provision_id": "SchlPubRul:시흥도시공사정보공개운영내규#JO0009",
             "reference_id": "law:공공기관의정보공개에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -399,7 +437,9 @@
             "source_provision_id": "SchlPubRul:시흥도시공사정보공개운영내규#JO0009",
             "reference_id": "law:민원처리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민원 처리에 관한 법률/법률/민원 처리에 관한 법률.json"
+            "target_git_path_guess": "민원 처리에 관한 법률/법률/민원 처리에 관한 법률.json",
+            "target_git_path": "민원 처리에 관한 법률/법률/민원 처리에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -442,7 +482,11 @@
             "source_provision_id": "SchlPubRul:시흥도시공사정보공개운영내규#JO0011",
             "reference_id": "SchlPubRul:시흥도시공사정보공개운영내규#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json"
+            "target_git_path_guess": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json",
+            "target_git_path": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -467,7 +511,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:시흥도시공사정보공개운영내규#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json"
+            "target_git_path_guess": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json",
+            "target_git_path": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json",
+            "target_git_file_path": "시흥도시공사 정보공개 운영내규/별지/별지5_정보공개처리대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -504,7 +553,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:시흥도시공사정보공개운영내규#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json"
+            "target_git_path_guess": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json",
+            "target_git_path": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json",
+            "target_git_file_path": "시흥도시공사 정보공개 운영내규/별표/별표1_비공개 기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -529,7 +583,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:시흥도시공사정보공개운영내규#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json"
+            "target_git_path_guess": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json",
+            "target_git_path": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json",
+            "target_git_file_path": "시흥도시공사 정보공개 운영내규/별표/별표1_비공개 기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -554,7 +613,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:시흥도시공사정보공개운영내규#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json"
+            "target_git_path_guess": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json",
+            "target_git_path": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json",
+            "target_git_file_path": "시흥도시공사 정보공개 운영내규/별표/별표1_비공개 기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -579,7 +643,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:시흥도시공사정보공개운영내규#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json"
+            "target_git_path_guess": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json",
+            "target_git_path": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json",
+            "target_git_file_path": "시흥도시공사 정보공개 운영내규/별표/별표1_비공개 기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -611,7 +680,9 @@
             "source_provision_id": "SchlPubRul:시흥도시공사정보공개운영내규#JO0013",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -631,7 +702,9 @@
             "source_provision_id": "SchlPubRul:시흥도시공사정보공개운영내규#JO0013",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -656,7 +729,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:시흥도시공사정보공개운영내규#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json"
+            "target_git_path_guess": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json",
+            "target_git_path": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json",
+            "target_git_file_path": "시흥도시공사 정보공개 운영내규/별표/별표2_정보공개 수수료.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -676,7 +754,11 @@
             "source_provision_id": "SchlPubRul:시흥도시공사정보공개운영내규#JO0013",
             "reference_id": "SchlPubRul:시흥도시공사정보공개운영내규#JO0019",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json"
+            "target_git_path_guess": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json",
+            "target_git_path": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -696,7 +778,11 @@
             "source_provision_id": "SchlPubRul:시흥도시공사정보공개운영내규#JO0013",
             "reference_id": "SchlPubRul:시흥도시공사정보공개운영내규#JO0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json"
+            "target_git_path_guess": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json",
+            "target_git_path": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -728,7 +814,9 @@
             "source_provision_id": "SchlPubRul:시흥도시공사정보공개운영내규#JO0014",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -748,7 +836,9 @@
             "source_provision_id": "SchlPubRul:시흥도시공사정보공개운영내규#JO0014",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -768,7 +858,11 @@
             "source_provision_id": "SchlPubRul:시흥도시공사정보공개운영내규#JO0014",
             "reference_id": "SchlPubRul:시흥도시공사정보공개운영내규#JO0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json"
+            "target_git_path_guess": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json",
+            "target_git_path": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -793,7 +887,12 @@
             "target_unit": "BJ0006_03",
             "reference_id": "SchlPubRul:시흥도시공사정보공개운영내규#BJ0006_03",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json"
+            "target_git_path_guess": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json",
+            "target_git_path": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json",
+            "target_git_file_path": "시흥도시공사 정보공개 운영내규/별지/별지6의3_정보공개심의회 서면의결서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -818,7 +917,12 @@
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:시흥도시공사정보공개운영내규#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json"
+            "target_git_path_guess": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json",
+            "target_git_path": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json",
+            "target_git_file_path": "시흥도시공사 정보공개 운영내규/별지/별지6_정보공개심의회 회의록.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -843,7 +947,12 @@
             "target_unit": "BJ0006_02",
             "reference_id": "SchlPubRul:시흥도시공사정보공개운영내규#BJ0006_02",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json"
+            "target_git_path_guess": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json",
+            "target_git_path": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json",
+            "target_git_file_path": "시흥도시공사 정보공개 운영내규/별지/별지6의2_정보공개심의회 의결서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -863,7 +972,11 @@
             "source_provision_id": "SchlPubRul:시흥도시공사정보공개운영내규#JO0014",
             "reference_id": "SchlPubRul:시흥도시공사정보공개운영내규#JO0018",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json"
+            "target_git_path_guess": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json",
+            "target_git_path": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -906,7 +1019,9 @@
             "source_provision_id": "SchlPubRul:시흥도시공사정보공개운영내규#JO0016",
             "reference_id": "law:민법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -926,7 +1041,9 @@
             "source_provision_id": "SchlPubRul:시흥도시공사정보공개운영내규#JO0016",
             "reference_id": "law:민법#JO0777",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -946,7 +1063,11 @@
             "source_provision_id": "SchlPubRul:시흥도시공사정보공개운영내규#JO0016",
             "reference_id": "SchlPubRul:시흥도시공사정보공개운영내규#JO0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json"
+            "target_git_path_guess": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json",
+            "target_git_path": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1005,7 +1126,12 @@
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:시흥도시공사정보공개운영내규#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json"
+            "target_git_path_guess": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json",
+            "target_git_path": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json",
+            "target_git_file_path": "시흥도시공사 정보공개 운영내규/별지/별지7_정보공개 결정 등 이의신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1030,7 +1156,12 @@
             "target_unit": "BJ0007_02",
             "reference_id": "SchlPubRul:시흥도시공사정보공개운영내규#BJ0007_02",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json"
+            "target_git_path_guess": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json",
+            "target_git_path": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json",
+            "target_git_file_path": "시흥도시공사 정보공개 운영내규/별지/별지7의2_이의신청 결정 통지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1055,7 +1186,12 @@
             "target_unit": "BJ0007_03",
             "reference_id": "SchlPubRul:시흥도시공사정보공개운영내규#BJ0007_03",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json"
+            "target_git_path_guess": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json",
+            "target_git_path": "시흥도시공사 정보공개 운영내규/시흥도시공사 정보공개 운영내규.json",
+            "target_git_file_path": "시흥도시공사 정보공개 운영내규/별지/별지7의3_이의신청 결정기간 연장통지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],

@@ -87,7 +87,9 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)회계규정#JO0002_02",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +109,9 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)회계규정#JO0002_02",
             "reference_id": "law:공기업준정부기관회계사무규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공기업ㆍ준정부기관 회계사무규칙/법률/공기업ㆍ준정부기관 회계사무규칙.json"
+            "target_git_path_guess": "공기업ㆍ준정부기관 회계사무규칙/법률/공기업ㆍ준정부기관 회계사무규칙.json",
+            "target_git_path": "공기업ㆍ준정부기관 회계사무규칙/법률/공기업ㆍ준정부기관 회계사무규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -127,7 +131,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)회계규정#JO0002_02",
             "reference_id": "admrul:공기업준정부기관회계기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공기업ㆍ준정부기관 회계기준/공기업ㆍ준정부기관 회계기준.json"
+            "target_git_path_guess": "공기업ㆍ준정부기관 회계기준/공기업ㆍ준정부기관 회계기준.json",
+            "target_git_path": "공기업·준정부기관 회계기준/공기업·준정부기관 회계기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -232,7 +240,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)회계규정#JO0006",
             "reference_id": "SchlPubRul:(건강보험심사평가원)회계규정#JO0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 회계규정/(건강보험심사평가원) 회계규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 회계규정/(건강보험심사평가원) 회계규정.json",
+            "target_git_path": "(건강보험심사평가원) 회계규정/(건강보험심사평가원) 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -286,7 +298,9 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)회계규정#JO0009",
             "reference_id": "law:회계관계직원등의책임에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json"
+            "target_git_path_guess": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json",
+            "target_git_path": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -340,7 +354,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)회계규정#JO0012",
             "reference_id": "admrul:기록물관리규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "기록물관리규정/기록물관리규정.json"
+            "target_git_path_guess": "기록물관리규정/기록물관리규정.json",
+            "target_git_path": "기록물 관리 규정/기록물 관리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -482,7 +500,9 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)회계규정#JO0022",
             "reference_id": "law:법인세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "법인세법/법률/법인세법.json"
+            "target_git_path_guess": "법인세법/법률/법인세법.json",
+            "target_git_path": "법인세법/법률/법인세법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -525,7 +545,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)회계규정#JO0024",
             "reference_id": "SchlPubRul:(건강보험심사평가원)회계규정#JO0026",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 회계규정/(건강보험심사평가원) 회계규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 회계규정/(건강보험심사평가원) 회계규정.json",
+            "target_git_path": "(건강보험심사평가원) 회계규정/(건강보험심사평가원) 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -601,7 +625,9 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)회계규정#JO0029",
             "reference_id": "law:자본시장과금융투자업에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json"
+            "target_git_path_guess": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json",
+            "target_git_path": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -633,7 +659,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)회계규정#JO0030",
             "reference_id": "SchlPubRul:(건강보험심사평가원)회계규정#JO0055",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 회계규정/(건강보험심사평가원) 회계규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 회계규정/(건강보험심사평가원) 회계규정.json",
+            "target_git_path": "(건강보험심사평가원) 회계규정/(건강보험심사평가원) 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -653,7 +683,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)회계규정#JO0030",
             "reference_id": "SchlPubRul:(건강보험심사평가원)회계규정#JO0029",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 회계규정/(건강보험심사평가원) 회계규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 회계규정/(건강보험심사평가원) 회계규정.json",
+            "target_git_path": "(건강보험심사평가원) 회계규정/(건강보험심사평가원) 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -685,7 +719,9 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)회계규정#JO0031",
             "reference_id": "law:국민건강보험법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json"
+            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json",
+            "target_git_path": "국민건강보험법/법률/국민건강보험법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -705,7 +741,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)회계규정#JO0031",
             "reference_id": "SchlPubRul:(건강보험심사평가원)회계규정#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 회계규정/(건강보험심사평가원) 회계규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 회계규정/(건강보험심사평가원) 회계규정.json",
+            "target_git_path": "(건강보험심사평가원) 회계규정/(건강보험심사평가원) 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1034,7 +1074,9 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)회계규정#JO0058",
             "reference_id": "law:국민건강보험법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json"
+            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json",
+            "target_git_path": "국민건강보험법/법률/국민건강보험법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1054,7 +1096,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)회계규정#JO0058",
             "reference_id": "SchlPubRul:(건강보험심사평가원)회계규정#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 회계규정/(건강보험심사평가원) 회계규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 회계규정/(건강보험심사평가원) 회계규정.json",
+            "target_git_path": "(건강보험심사평가원) 회계규정/(건강보험심사평가원) 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1119,7 +1165,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)회계규정#JO0062",
             "reference_id": "SchlPubRul:(건강보험심사평가원)회계규정#JO0061",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 회계규정/(건강보험심사평가원) 회계규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 회계규정/(건강보험심사평가원) 회계규정.json",
+            "target_git_path": "(건강보험심사평가원) 회계규정/(건강보험심사평가원) 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1239,7 +1289,9 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)회계규정#JO0071",
             "reference_id": "law:공공기관의회계감사및결산감사에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 회계감사 및 결산감사에 관한 규칙/법률/공공기관의 회계감사 및 결산감사에 관한 규칙.json"
+            "target_git_path_guess": "공공기관의 회계감사 및 결산감사에 관한 규칙/법률/공공기관의 회계감사 및 결산감사에 관한 규칙.json",
+            "target_git_path": "공공기관의 회계감사 및 결산감사에 관한 규칙/법률/공공기관의 회계감사 및 결산감사에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1259,7 +1311,9 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)회계규정#JO0071",
             "reference_id": "law:공인회계사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공인회계사법/법률/공인회계사법.json"
+            "target_git_path_guess": "공인회계사법/법률/공인회계사법.json",
+            "target_git_path": "공인회계사법/법률/공인회계사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1279,7 +1333,9 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)회계규정#JO0071",
             "reference_id": "law:공인회계사법#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "공인회계사법/법률/공인회계사법.json"
+            "target_git_path_guess": "공인회계사법/법률/공인회계사법.json",
+            "target_git_path": "공인회계사법/법률/공인회계사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1299,7 +1355,9 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)회계규정#JO0071",
             "reference_id": "law:공공기관의회계감사및결산감사에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 회계감사 및 결산감사에 관한 규칙/법률/공공기관의 회계감사 및 결산감사에 관한 규칙.json"
+            "target_git_path_guess": "공공기관의 회계감사 및 결산감사에 관한 규칙/법률/공공기관의 회계감사 및 결산감사에 관한 규칙.json",
+            "target_git_path": "공공기관의 회계감사 및 결산감사에 관한 규칙/법률/공공기관의 회계감사 및 결산감사에 관한 규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1375,7 +1433,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)회계규정#JO0076",
             "reference_id": "SchlPubRul:(건강보험심사평가원)회계규정#JO0052",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 회계규정/(건강보험심사평가원) 회계규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 회계규정/(건강보험심사평가원) 회계규정.json",
+            "target_git_path": "(건강보험심사평가원) 회계규정/(건강보험심사평가원) 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1407,7 +1469,9 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)회계규정#JO0077",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1427,7 +1491,9 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)회계규정#JO0077",
             "reference_id": "law:공공기관의운영에관한법률#JO0043",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1447,7 +1513,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)회계규정#JO0077",
             "reference_id": "SchlPubRul:(건강보험심사평가원)회계규정#JO0071",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 회계규정/(건강보험심사평가원) 회계규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 회계규정/(건강보험심사평가원) 회계규정.json",
+            "target_git_path": "(건강보험심사평가원) 회계규정/(건강보험심사평가원) 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1479,7 +1549,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)회계규정#JO0078",
             "reference_id": "SchlPubRul:(건강보험심사평가원)회계규정#JO0077",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 회계규정/(건강보험심사평가원) 회계규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 회계규정/(건강보험심사평가원) 회계규정.json",
+            "target_git_path": "(건강보험심사평가원) 회계규정/(건강보험심사평가원) 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -1499,7 +1573,9 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)회계규정#JO0078",
             "reference_id": "law:신문등의진흥에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "신문 등의 진흥에 관한 법률/법률/신문 등의 진흥에 관한 법률.json"
+            "target_git_path_guess": "신문 등의 진흥에 관한 법률/법률/신문 등의 진흥에 관한 법률.json",
+            "target_git_path": "신문 등의 진흥에 관한 법률/법률/신문 등의 진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1519,7 +1595,9 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)회계규정#JO0078",
             "reference_id": "law:신문등의진흥에관한법률#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "신문 등의 진흥에 관한 법률/법률/신문 등의 진흥에 관한 법률.json"
+            "target_git_path_guess": "신문 등의 진흥에 관한 법률/법률/신문 등의 진흥에 관한 법률.json",
+            "target_git_path": "신문 등의 진흥에 관한 법률/법률/신문 등의 진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1562,7 +1640,9 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)회계규정#JO0080",
             "reference_id": "law:공기업준정부기관계약사무규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json"
+            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_git_path": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

@@ -65,7 +65,11 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)방첩업무시행세칙#JO0001",
             "reference_id": "admrul:국토교통부방첩업무시행지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국토교통부 방첩업무 시행지침/국토교통부 방첩업무 시행지침.json"
+            "target_git_path_guess": "국토교통부 방첩업무 시행지침/국토교통부 방첩업무 시행지침.json",
+            "target_git_path": "국토교통부 방첩업무시행지침/국토교통부 방첩업무시행지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -119,7 +123,11 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)방첩업무시행세칙#JO0004",
             "reference_id": "SchlPubRul:(한국철도공사)방첩업무시행세칙#JO0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 방첩업무 시행세칙/(한국철도공사) 방첩업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 방첩업무 시행세칙/(한국철도공사) 방첩업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 방첩업무 시행세칙/(한국철도공사) 방첩업무 시행세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -139,7 +147,11 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)방첩업무시행세칙#JO0004",
             "reference_id": "SchlPubRul:(한국철도공사)방첩업무시행세칙#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 방첩업무 시행세칙/(한국철도공사) 방첩업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 방첩업무 시행세칙/(한국철도공사) 방첩업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 방첩업무 시행세칙/(한국철도공사) 방첩업무 시행세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -176,7 +188,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(한국철도공사)방첩업무시행세칙#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 방첩업무 시행세칙/(한국철도공사) 방첩업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 방첩업무 시행세칙/(한국철도공사) 방첩업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 방첩업무 시행세칙/(한국철도공사) 방첩업무 시행세칙.json",
+            "target_git_file_path": "(한국철도공사) 방첩업무 시행세칙/별지/별지1_외국인 접촉 신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -201,7 +218,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(한국철도공사)방첩업무시행세칙#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 방첩업무 시행세칙/(한국철도공사) 방첩업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 방첩업무 시행세칙/(한국철도공사) 방첩업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 방첩업무 시행세칙/(한국철도공사) 방첩업무 시행세칙.json",
+            "target_git_file_path": "(한국철도공사) 방첩업무 시행세칙/별지/별지2_외국인(외국 정보요원) 접촉결과 보고서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -238,7 +260,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:(한국철도공사)방첩업무시행세칙#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 방첩업무 시행세칙/(한국철도공사) 방첩업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 방첩업무 시행세칙/(한국철도공사) 방첩업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 방첩업무 시행세칙/(한국철도공사) 방첩업무 시행세칙.json",
+            "target_git_file_path": "(한국철도공사) 방첩업무 시행세칙/별지/별지3_외국인 등 접촉시 특이사항 보고.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -275,7 +302,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:(한국철도공사)방첩업무시행세칙#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 방첩업무 시행세칙/(한국철도공사) 방첩업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 방첩업무 시행세칙/(한국철도공사) 방첩업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 방첩업무 시행세칙/(한국철도공사) 방첩업무 시행세칙.json",
+            "target_git_file_path": "(한국철도공사) 방첩업무 시행세칙/별지/별지4_외국 정보요원 접촉 신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -300,7 +332,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(한국철도공사)방첩업무시행세칙#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 방첩업무 시행세칙/(한국철도공사) 방첩업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 방첩업무 시행세칙/(한국철도공사) 방첩업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 방첩업무 시행세칙/(한국철도공사) 방첩업무 시행세칙.json",
+            "target_git_file_path": "(한국철도공사) 방첩업무 시행세칙/별지/별지2_외국인(외국 정보요원) 접촉결과 보고서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -354,7 +391,9 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)방첩업무시행세칙#JO0010",
             "reference_id": "law:공공기록물관리에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -374,7 +413,9 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)방첩업무시행세칙#JO0010",
             "reference_id": "law:공공기록물관리에관한법률시행령#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -399,7 +440,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(한국철도공사)방첩업무시행세칙#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 방첩업무 시행세칙/(한국철도공사) 방첩업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 방첩업무 시행세칙/(한국철도공사) 방첩업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 방첩업무 시행세칙/(한국철도공사) 방첩업무 시행세칙.json",
+            "target_git_file_path": "(한국철도공사) 방첩업무 시행세칙/별지/별지1_외국인 접촉 신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -424,7 +470,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:(한국철도공사)방첩업무시행세칙#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 방첩업무 시행세칙/(한국철도공사) 방첩업무 시행세칙.json"
+            "target_git_path_guess": "(한국철도공사) 방첩업무 시행세칙/(한국철도공사) 방첩업무 시행세칙.json",
+            "target_git_path": "(한국철도공사) 방첩업무 시행세칙/(한국철도공사) 방첩업무 시행세칙.json",
+            "target_git_file_path": "(한국철도공사) 방첩업무 시행세칙/별지/별지5_외국인 접촉기록 관리대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

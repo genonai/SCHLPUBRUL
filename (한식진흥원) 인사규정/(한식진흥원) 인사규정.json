@@ -87,7 +87,11 @@
             "source_provision_id": "SchlPubRul:(한식진흥원)인사규정#JO0003",
             "reference_id": "SchlPubRul:(한식진흥원)인사규정#JO0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한식진흥원) 인사규정/(한식진흥원) 인사규정.json"
+            "target_git_path_guess": "(한식진흥원) 인사규정/(한식진흥원) 인사규정.json",
+            "target_git_path": "(한식진흥원) 인사규정/(한식진흥원) 인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -112,7 +116,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(한식진흥원)인사규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한식진흥원) 인사규정/(한식진흥원) 인사규정.json"
+            "target_git_path_guess": "(한식진흥원) 인사규정/(한식진흥원) 인사규정.json",
+            "target_git_path": "(한식진흥원) 인사규정/(한식진흥원) 인사규정.json",
+            "target_git_file_path": "(한식진흥원) 인사규정/별표/별표1_사유별 휴직 기간.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -171,7 +180,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:(한식진흥원)인사규정#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한식진흥원) 인사규정/(한식진흥원) 인사규정.json"
+            "target_git_path_guess": "(한식진흥원) 인사규정/(한식진흥원) 인사규정.json",
+            "target_git_path": "(한식진흥원) 인사규정/(한식진흥원) 인사규정.json",
+            "target_git_file_path": "(한식진흥원) 인사규정/별표/별표2_직급별 채용 기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -214,7 +228,11 @@
             "source_provision_id": "SchlPubRul:(한식진흥원)인사규정#JO0008",
             "reference_id": "SchlPubRul:(한식진흥원)인사규정#JO0020",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한식진흥원) 인사규정/(한식진흥원) 인사규정.json"
+            "target_git_path_guess": "(한식진흥원) 인사규정/(한식진흥원) 인사규정.json",
+            "target_git_path": "(한식진흥원) 인사규정/(한식진흥원) 인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -234,7 +252,11 @@
             "source_provision_id": "SchlPubRul:(한식진흥원)인사규정#JO0008",
             "reference_id": "SchlPubRul:(한식진흥원)인사규정#JO0031",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한식진흥원) 인사규정/(한식진흥원) 인사규정.json"
+            "target_git_path_guess": "(한식진흥원) 인사규정/(한식진흥원) 인사규정.json",
+            "target_git_path": "(한식진흥원) 인사규정/(한식진흥원) 인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -277,7 +299,9 @@
             "source_provision_id": "SchlPubRul:(한식진흥원)인사규정#JO0010",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -297,7 +321,9 @@
             "source_provision_id": "SchlPubRul:(한식진흥원)인사규정#JO0010",
             "reference_id": "law:국가공무원법#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -317,7 +343,9 @@
             "source_provision_id": "SchlPubRul:(한식진흥원)인사규정#JO0010",
             "reference_id": "law:병역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "병역법/법률/병역법.json"
+            "target_git_path_guess": "병역법/법률/병역법.json",
+            "target_git_path": "병역법/법률/병역법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -337,7 +365,9 @@
             "source_provision_id": "SchlPubRul:(한식진흥원)인사규정#JO0010",
             "reference_id": "law:병역법#JO0076",
             "target_repo": "LAW",
-            "target_git_path_guess": "병역법/법률/병역법.json"
+            "target_git_path_guess": "병역법/법률/병역법.json",
+            "target_git_path": "병역법/법률/병역법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -357,7 +387,9 @@
             "source_provision_id": "SchlPubRul:(한식진흥원)인사규정#JO0010",
             "reference_id": "law:부패방지및국민권익위원회의설치와운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json"
+            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
+            "target_git_path": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -377,7 +409,9 @@
             "source_provision_id": "SchlPubRul:(한식진흥원)인사규정#JO0010",
             "reference_id": "law:부패방지및국민권익위원회의설치와운영에관한법률#JO0082",
             "target_repo": "LAW",
-            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json"
+            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
+            "target_git_path": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -513,7 +547,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(한식진흥원)인사규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한식진흥원) 인사규정/(한식진흥원) 인사규정.json"
+            "target_git_path_guess": "(한식진흥원) 인사규정/(한식진흥원) 인사규정.json",
+            "target_git_path": "(한식진흥원) 인사규정/(한식진흥원) 인사규정.json",
+            "target_git_file_path": "(한식진흥원) 인사규정/별표/별표1_사유별 휴직 기간.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -545,7 +584,11 @@
             "source_provision_id": "SchlPubRul:(한식진흥원)인사규정#JO0021",
             "reference_id": "SchlPubRul:(한식진흥원)인사규정#JO0026",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한식진흥원) 인사규정/(한식진흥원) 인사규정.json"
+            "target_git_path_guess": "(한식진흥원) 인사규정/(한식진흥원) 인사규정.json",
+            "target_git_path": "(한식진흥원) 인사규정/(한식진흥원) 인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -621,7 +664,11 @@
             "source_provision_id": "SchlPubRul:(한식진흥원)인사규정#JO0026",
             "reference_id": "SchlPubRul:(한식진흥원)인사규정#JO0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한식진흥원) 인사규정/(한식진흥원) 인사규정.json"
+            "target_git_path_guess": "(한식진흥원) 인사규정/(한식진흥원) 인사규정.json",
+            "target_git_path": "(한식진흥원) 인사규정/(한식진흥원) 인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -641,7 +688,11 @@
             "source_provision_id": "SchlPubRul:(한식진흥원)인사규정#JO0026",
             "reference_id": "SchlPubRul:(한식진흥원)인사규정#JO0030",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한식진흥원) 인사규정/(한식진흥원) 인사규정.json"
+            "target_git_path_guess": "(한식진흥원) 인사규정/(한식진흥원) 인사규정.json",
+            "target_git_path": "(한식진흥원) 인사규정/(한식진흥원) 인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -777,7 +828,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(한식진흥원)인사규정#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한식진흥원) 인사규정/(한식진흥원) 인사규정.json"
+            "target_git_path_guess": "(한식진흥원) 인사규정/(한식진흥원) 인사규정.json",
+            "target_git_path": "(한식진흥원) 인사규정/(한식진흥원) 인사규정.json",
+            "target_git_file_path": "(한식진흥원) 인사규정/별지/별지1_직급별 승진후보자명부(제36조제1항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -802,7 +858,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(한식진흥원)인사규정#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한식진흥원) 인사규정/(한식진흥원) 인사규정.json"
+            "target_git_path_guess": "(한식진흥원) 인사규정/(한식진흥원) 인사규정.json",
+            "target_git_path": "(한식진흥원) 인사규정/(한식진흥원) 인사규정.json",
+            "target_git_file_path": "(한식진흥원) 인사규정/별지/별지2_근무성적평정서(제36조제2항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -827,7 +888,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:(한식진흥원)인사규정#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한식진흥원) 인사규정/(한식진흥원) 인사규정.json"
+            "target_git_path_guess": "(한식진흥원) 인사규정/(한식진흥원) 인사규정.json",
+            "target_git_path": "(한식진흥원) 인사규정/(한식진흥원) 인사규정.json",
+            "target_git_file_path": "(한식진흥원) 인사규정/별지/별지3_교육훈련평정서(제36조제2항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -852,7 +918,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:(한식진흥원)인사규정#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한식진흥원) 인사규정/(한식진흥원) 인사규정.json"
+            "target_git_path_guess": "(한식진흥원) 인사규정/(한식진흥원) 인사규정.json",
+            "target_git_path": "(한식진흥원) 인사규정/(한식진흥원) 인사규정.json",
+            "target_git_file_path": "(한식진흥원) 인사규정/별지/별지4_경력평정서(제36조제2항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -877,7 +948,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:(한식진흥원)인사규정#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한식진흥원) 인사규정/(한식진흥원) 인사규정.json"
+            "target_git_path_guess": "(한식진흥원) 인사규정/(한식진흥원) 인사규정.json",
+            "target_git_path": "(한식진흥원) 인사규정/(한식진흥원) 인사규정.json",
+            "target_git_file_path": "(한식진흥원) 인사규정/별지/별지5_포상평정서(제36조제2항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -897,7 +973,11 @@
             "source_provision_id": "SchlPubRul:(한식진흥원)인사규정#JO0036",
             "reference_id": "SchlPubRul:(한식진흥원)인사규정#JO0039",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한식진흥원) 인사규정/(한식진흥원) 인사규정.json"
+            "target_git_path_guess": "(한식진흥원) 인사규정/(한식진흥원) 인사규정.json",
+            "target_git_path": "(한식진흥원) 인사규정/(한식진흥원) 인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -929,7 +1009,11 @@
             "source_provision_id": "SchlPubRul:(한식진흥원)인사규정#JO0037",
             "reference_id": "SchlPubRul:(한식진흥원)인사규정#JO0035",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한식진흥원) 인사규정/(한식진흥원) 인사규정.json"
+            "target_git_path_guess": "(한식진흥원) 인사규정/(한식진흥원) 인사규정.json",
+            "target_git_path": "(한식진흥원) 인사규정/(한식진흥원) 인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -949,7 +1033,11 @@
             "source_provision_id": "SchlPubRul:(한식진흥원)인사규정#JO0037",
             "reference_id": "SchlPubRul:(한식진흥원)인사규정#JO0038",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한식진흥원) 인사규정/(한식진흥원) 인사규정.json"
+            "target_git_path_guess": "(한식진흥원) 인사규정/(한식진흥원) 인사규정.json",
+            "target_git_path": "(한식진흥원) 인사규정/(한식진흥원) 인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -969,7 +1057,11 @@
             "source_provision_id": "SchlPubRul:(한식진흥원)인사규정#JO0037",
             "reference_id": "SchlPubRul:(한식진흥원)인사규정#JO0048",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한식진흥원) 인사규정/(한식진흥원) 인사규정.json"
+            "target_git_path_guess": "(한식진흥원) 인사규정/(한식진흥원) 인사규정.json",
+            "target_git_path": "(한식진흥원) 인사규정/(한식진흥원) 인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -989,7 +1081,11 @@
             "source_provision_id": "SchlPubRul:(한식진흥원)인사규정#JO0037",
             "reference_id": "SchlPubRul:(한식진흥원)인사규정#JO0038",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한식진흥원) 인사규정/(한식진흥원) 인사규정.json"
+            "target_git_path_guess": "(한식진흥원) 인사규정/(한식진흥원) 인사규정.json",
+            "target_git_path": "(한식진흥원) 인사규정/(한식진흥원) 인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1065,7 +1161,11 @@
             "source_provision_id": "SchlPubRul:(한식진흥원)인사규정#JO0041",
             "reference_id": "SchlPubRul:(한식진흥원)인사규정#JO0038",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한식진흥원) 인사규정/(한식진흥원) 인사규정.json"
+            "target_git_path_guess": "(한식진흥원) 인사규정/(한식진흥원) 인사규정.json",
+            "target_git_path": "(한식진흥원) 인사규정/(한식진흥원) 인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1085,7 +1185,11 @@
             "source_provision_id": "SchlPubRul:(한식진흥원)인사규정#JO0041",
             "reference_id": "SchlPubRul:(한식진흥원)인사규정#JO0038",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한식진흥원) 인사규정/(한식진흥원) 인사규정.json"
+            "target_git_path_guess": "(한식진흥원) 인사규정/(한식진흥원) 인사규정.json",
+            "target_git_path": "(한식진흥원) 인사규정/(한식진흥원) 인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1249,7 +1353,9 @@
             "source_provision_id": "SchlPubRul:(한식진흥원)인사규정#JO0054",
             "reference_id": "law:민법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1269,7 +1375,9 @@
             "source_provision_id": "SchlPubRul:(한식진흥원)인사규정#JO0054",
             "reference_id": "law:민법#JO0777",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

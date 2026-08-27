@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0001",
             "reference_id": "law:재난및안전관리기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json"
+            "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+            "target_git_path": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -85,7 +87,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0001",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -105,7 +109,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0001",
             "reference_id": "law:중대재해처벌등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중대재해처벌 등에 관한 법률/법률/중대재해처벌 등에 관한 법률.json"
+            "target_git_path_guess": "중대재해처벌 등에 관한 법률/법률/중대재해처벌 등에 관한 법률.json",
+            "target_git_path": "중대재해 처벌 등에 관한 법률/법률/중대재해 처벌 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -137,7 +143,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0002",
             "reference_id": "law:산업안전보건법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -157,7 +165,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0002",
             "reference_id": "law:산업안전보건법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -177,7 +187,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0002",
             "reference_id": "law:산업안전보건기준에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -209,7 +221,11 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0003",
             "reference_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산림복지진흥원) 안전보건관리규정/(한국산림복지진흥원) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국산림복지진흥원) 안전보건관리규정/(한국산림복지진흥원) 안전보건관리규정.json",
+            "target_git_path": "(한국산림복지진흥원) 안전보건관리규정/(한국산림복지진흥원) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -229,7 +245,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0003",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -249,7 +267,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0003",
             "reference_id": "law:산림복지진흥에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산림복지 진흥에 관한 법률/법률/산림복지 진흥에 관한 법률.json"
+            "target_git_path_guess": "산림복지 진흥에 관한 법률/법률/산림복지 진흥에 관한 법률.json",
+            "target_git_path": "산림복지 진흥에 관한 법률/법률/산림복지 진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -269,7 +289,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0003",
             "reference_id": "law:산림복지진흥에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "산림복지 진흥에 관한 법률/법률/산림복지 진흥에 관한 법률.json"
+            "target_git_path_guess": "산림복지 진흥에 관한 법률/법률/산림복지 진흥에 관한 법률.json",
+            "target_git_path": "산림복지 진흥에 관한 법률/법률/산림복지 진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -289,7 +311,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0003",
             "reference_id": "law:시설물의안전및유지관리에관한특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "시설물의 안전 및 유지관리에 관한 특별법/법률/시설물의 안전 및 유지관리에 관한 특별법.json"
+            "target_git_path_guess": "시설물의 안전 및 유지관리에 관한 특별법/법률/시설물의 안전 및 유지관리에 관한 특별법.json",
+            "target_git_path": "시설물의 안전 및 유지관리에 관한 특별법/법률/시설물의 안전 및 유지관리에 관한 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -309,7 +333,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0003",
             "reference_id": "law:중대재해처벌등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중대재해처벌 등에 관한 법률/법률/중대재해처벌 등에 관한 법률.json"
+            "target_git_path_guess": "중대재해처벌 등에 관한 법률/법률/중대재해처벌 등에 관한 법률.json",
+            "target_git_path": "중대재해 처벌 등에 관한 법률/법률/중대재해 처벌 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -329,7 +355,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0003",
             "reference_id": "law:건설산업기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설산업기본법/법률/건설산업기본법.json"
+            "target_git_path_guess": "건설산업기본법/법률/건설산업기본법.json",
+            "target_git_path": "건설산업기본법/법률/건설산업기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -349,7 +377,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0003",
             "reference_id": "law:건설산업기본법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설산업기본법/법률/건설산업기본법.json"
+            "target_git_path_guess": "건설산업기본법/법률/건설산업기본법.json",
+            "target_git_path": "건설산업기본법/법률/건설산업기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -369,7 +399,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0003",
             "reference_id": "law:전기공사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기공사업법/법률/전기공사업법.json"
+            "target_git_path_guess": "전기공사업법/법률/전기공사업법.json",
+            "target_git_path": "전기공사업법/법률/전기공사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -389,7 +421,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0003",
             "reference_id": "law:전기공사업법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기공사업법/법률/전기공사업법.json"
+            "target_git_path_guess": "전기공사업법/법률/전기공사업법.json",
+            "target_git_path": "전기공사업법/법률/전기공사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -409,7 +443,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0003",
             "reference_id": "law:정보통신공사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보통신공사업법/법률/정보통신공사업법.json"
+            "target_git_path_guess": "정보통신공사업법/법률/정보통신공사업법.json",
+            "target_git_path": "정보통신공사업법/법률/정보통신공사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -429,7 +465,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0003",
             "reference_id": "law:정보통신공사업법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보통신공사업법/법률/정보통신공사업법.json"
+            "target_git_path_guess": "정보통신공사업법/법률/정보통신공사업법.json",
+            "target_git_path": "정보통신공사업법/법률/정보통신공사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -449,7 +487,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0003",
             "reference_id": "law:소방시설공사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방시설공사업법/법률/소방시설공사업법.json"
+            "target_git_path_guess": "소방시설공사업법/법률/소방시설공사업법.json",
+            "target_git_path": "소방시설공사업법/법률/소방시설공사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -489,7 +529,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0003",
             "reference_id": "law:산업안전보건법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -509,7 +551,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0003",
             "reference_id": "law:산업안전보건법시행령#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -529,7 +573,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0003",
             "reference_id": "law:산업안전보건법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -549,7 +595,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0003",
             "reference_id": "law:산업안전보건법시행령#JO0052",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -569,7 +617,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0003",
             "reference_id": "law:산업안전보건법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -589,7 +639,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0003",
             "reference_id": "law:산업안전보건법시행령#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -609,7 +661,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0003",
             "reference_id": "law:산업안전보건법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -629,7 +683,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0003",
             "reference_id": "law:산업안전보건법시행령#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -649,7 +705,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0003",
             "reference_id": "law:산업안전보건법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -669,7 +727,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0003",
             "reference_id": "law:산업안전보건법시행령#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -689,7 +749,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0003",
             "reference_id": "law:재난및안전관리기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json"
+            "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+            "target_git_path": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -743,7 +805,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0006",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -763,7 +827,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0006",
             "reference_id": "law:산업안전보건법#JO0063",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -783,7 +849,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0006",
             "reference_id": "law:산업안전보건법#JO0064",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -842,7 +910,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산림복지진흥원) 안전보건관리규정/(한국산림복지진흥원) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국산림복지진흥원) 안전보건관리규정/(한국산림복지진흥원) 안전보건관리규정.json",
+            "target_git_path": "(한국산림복지진흥원) 안전보건관리규정/(한국산림복지진흥원) 안전보건관리규정.json",
+            "target_git_file_path": "(한국산림복지진흥원) 안전보건관리규정/별표/별표1_재난 및 안전보건관리 조직 체계.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -862,7 +935,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0009",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -882,7 +957,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0009",
             "reference_id": "law:산업안전보건법#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -902,7 +979,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0009",
             "reference_id": "law:산업안전보건법#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -934,7 +1013,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0010",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -954,7 +1035,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0010",
             "reference_id": "law:산업안전보건법#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -986,7 +1069,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0011",
             "reference_id": "law:산업안전보건법#JO0062",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1006,7 +1091,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0011",
             "reference_id": "law:산업안전보건법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1026,7 +1113,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0011",
             "reference_id": "law:산업안전보건법시행령#JO0052",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1046,7 +1135,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0011",
             "reference_id": "law:산업안전보건법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1066,7 +1157,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0011",
             "reference_id": "law:산업안전보건법시행령#JO0053",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1098,7 +1191,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0012",
             "reference_id": "law:산업안전보건법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1118,7 +1213,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0012",
             "reference_id": "law:산업안전보건법시행령#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1138,7 +1235,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0012",
             "reference_id": "law:산업안전보건기준에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1163,7 +1262,10 @@
             "target_unit": "BYL0003",
             "reference_id": "law:산업안전보건기준에관한규칙#BYL0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_file_path": "산업안전보건기준에 관한 규칙/법률/별표/별표3_작업시작 전 점검사항(제35조제2항 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1195,7 +1297,11 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0013",
             "reference_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산림복지진흥원) 안전보건관리규정/(한국산림복지진흥원) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국산림복지진흥원) 안전보건관리규정/(한국산림복지진흥원) 안전보건관리규정.json",
+            "target_git_path": "(한국산림복지진흥원) 안전보건관리규정/(한국산림복지진흥원) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -1215,7 +1321,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0013",
             "reference_id": "law:산업안전보건법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1235,7 +1343,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0013",
             "reference_id": "law:산업안전보건법시행령#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1255,7 +1365,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0013",
             "reference_id": "law:산업안전보건법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1280,7 +1392,10 @@
             "target_unit": "BYL0004",
             "reference_id": "law:산업안전보건법시행령#BYL0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_file_path": "산업안전보건법/시행령/별표/별표4_안전관리자의 자격(제17조 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1312,7 +1427,11 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0014",
             "reference_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산림복지진흥원) 안전보건관리규정/(한국산림복지진흥원) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국산림복지진흥원) 안전보건관리규정/(한국산림복지진흥원) 안전보건관리규정.json",
+            "target_git_path": "(한국산림복지진흥원) 안전보건관리규정/(한국산림복지진흥원) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -1332,7 +1451,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0014",
             "reference_id": "law:산업안전보건법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1352,7 +1473,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0014",
             "reference_id": "law:산업안전보건법시행령#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1372,7 +1495,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0014",
             "reference_id": "law:산업안전보건법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1397,7 +1522,10 @@
             "target_unit": "BYL0006",
             "reference_id": "law:산업안전보건법시행령#BYL0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_file_path": "산업안전보건법/시행령/별표/별표6_보건관리자의 자격(제21조 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1440,7 +1568,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0016",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1460,7 +1590,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0016",
             "reference_id": "law:산업안전보건법#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1547,7 +1679,11 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0022",
             "reference_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0018",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산림복지진흥원) 안전보건관리규정/(한국산림복지진흥원) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국산림복지진흥원) 안전보건관리규정/(한국산림복지진흥원) 안전보건관리규정.json",
+            "target_git_path": "(한국산림복지진흥원) 안전보건관리규정/(한국산림복지진흥원) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1623,7 +1759,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0027",
             "reference_id": "law:산업안전보건법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1643,7 +1781,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0027",
             "reference_id": "law:산업안전보건법시행규칙#JO0050",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1686,7 +1826,11 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0029",
             "reference_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0030",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산림복지진흥원) 안전보건관리규정/(한국산림복지진흥원) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국산림복지진흥원) 안전보건관리규정/(한국산림복지진흥원) 안전보건관리규정.json",
+            "target_git_path": "(한국산림복지진흥원) 안전보건관리규정/(한국산림복지진흥원) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1706,7 +1850,11 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0029",
             "reference_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0031",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산림복지진흥원) 안전보건관리규정/(한국산림복지진흥원) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국산림복지진흥원) 안전보건관리규정/(한국산림복지진흥원) 안전보건관리규정.json",
+            "target_git_path": "(한국산림복지진흥원) 안전보건관리규정/(한국산림복지진흥원) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1726,7 +1874,11 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0029",
             "reference_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0032",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산림복지진흥원) 안전보건관리규정/(한국산림복지진흥원) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국산림복지진흥원) 안전보건관리규정/(한국산림복지진흥원) 안전보건관리규정.json",
+            "target_git_path": "(한국산림복지진흥원) 안전보건관리규정/(한국산림복지진흥원) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1746,7 +1898,11 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0029",
             "reference_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0033",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산림복지진흥원) 안전보건관리규정/(한국산림복지진흥원) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국산림복지진흥원) 안전보건관리규정/(한국산림복지진흥원) 안전보건관리규정.json",
+            "target_git_path": "(한국산림복지진흥원) 안전보건관리규정/(한국산림복지진흥원) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1766,7 +1922,11 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0029",
             "reference_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0034",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산림복지진흥원) 안전보건관리규정/(한국산림복지진흥원) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국산림복지진흥원) 안전보건관리규정/(한국산림복지진흥원) 안전보건관리규정.json",
+            "target_git_path": "(한국산림복지진흥원) 안전보건관리규정/(한국산림복지진흥원) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1786,7 +1946,11 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0029",
             "reference_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0035",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산림복지진흥원) 안전보건관리규정/(한국산림복지진흥원) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국산림복지진흥원) 안전보건관리규정/(한국산림복지진흥원) 안전보건관리규정.json",
+            "target_git_path": "(한국산림복지진흥원) 안전보건관리규정/(한국산림복지진흥원) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -1806,7 +1970,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0029",
             "reference_id": "law:산업안전보건법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1826,7 +1992,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0029",
             "reference_id": "law:산업안전보건법시행규칙#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1858,7 +2026,11 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0030",
             "reference_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0029",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산림복지진흥원) 안전보건관리규정/(한국산림복지진흥원) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국산림복지진흥원) 안전보건관리규정/(한국산림복지진흥원) 안전보건관리규정.json",
+            "target_git_path": "(한국산림복지진흥원) 안전보건관리규정/(한국산림복지진흥원) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1890,7 +2062,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0031",
             "reference_id": "law:산업안전보건법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1915,7 +2089,10 @@
             "target_unit": "BYL0005",
             "reference_id": "law:산업안전보건법시행규칙#BYL0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_file_path": "산업안전보건법/시행규칙/별표/별표5_안전보건교육 교육대상별 교육내용(제26조제1항 등 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1947,7 +2124,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0032",
             "reference_id": "law:산업안전보건법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1972,7 +2151,10 @@
             "target_unit": "BYL0005",
             "reference_id": "law:산업안전보건법시행규칙#BYL0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_file_path": "산업안전보건법/시행규칙/별표/별표5_안전보건교육 교육대상별 교육내용(제26조제1항 등 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2004,7 +2186,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0033",
             "reference_id": "law:산업안전보건법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2029,7 +2213,10 @@
             "target_unit": "BYL0005",
             "reference_id": "law:산업안전보건법시행규칙#BYL0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_file_path": "산업안전보건법/시행규칙/별표/별표5_안전보건교육 교육대상별 교육내용(제26조제1항 등 관련).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2049,7 +2236,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0033",
             "reference_id": "law:산업안전보건법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2074,7 +2263,10 @@
             "target_unit": "BYL0005",
             "reference_id": "law:산업안전보건법시행규칙#BYL0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_file_path": "산업안전보건법/시행규칙/별표/별표5_안전보건교육 교육대상별 교육내용(제26조제1항 등 관련).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2094,7 +2286,11 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0033",
             "reference_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0030",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산림복지진흥원) 안전보건관리규정/(한국산림복지진흥원) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국산림복지진흥원) 안전보건관리규정/(한국산림복지진흥원) 안전보건관리규정.json",
+            "target_git_path": "(한국산림복지진흥원) 안전보건관리규정/(한국산림복지진흥원) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -2114,7 +2310,11 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0033",
             "reference_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0031",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산림복지진흥원) 안전보건관리규정/(한국산림복지진흥원) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국산림복지진흥원) 안전보건관리규정/(한국산림복지진흥원) 안전보건관리규정.json",
+            "target_git_path": "(한국산림복지진흥원) 안전보건관리규정/(한국산림복지진흥원) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2146,7 +2346,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0034",
             "reference_id": "law:산업안전보건법#JO0110",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2166,7 +2368,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0034",
             "reference_id": "law:산업안전보건법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2191,7 +2395,10 @@
             "target_unit": "BYL0005",
             "reference_id": "law:산업안전보건법시행규칙#BYL0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_file_path": "산업안전보건법/시행규칙/별표/별표5_안전보건교육 교육대상별 교육내용(제26조제1항 등 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2278,7 +2485,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0040",
             "reference_id": "law:산업안전보건기준에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2298,7 +2507,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0040",
             "reference_id": "law:산업안전보건기준에관한규칙#JO0039",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2330,7 +2541,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0041",
             "reference_id": "law:전기사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기사업법/법률/전기사업법.json"
+            "target_git_path_guess": "전기사업법/법률/전기사업법.json",
+            "target_git_path": "전기사업법/법률/전기사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2350,7 +2563,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0041",
             "reference_id": "law:에너지이용합리화법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "에너지이용 합리화법/법률/에너지이용 합리화법.json"
+            "target_git_path_guess": "에너지이용 합리화법/법률/에너지이용 합리화법.json",
+            "target_git_path": "에너지이용 합리화법/법률/에너지이용 합리화법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2393,7 +2608,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0043",
             "reference_id": "law:산업안전보건기준에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2418,7 +2635,10 @@
             "target_unit": "BYL0001",
             "reference_id": "law:산업안전보건기준에관한규칙#BYL0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_file_path": "산업안전보건기준에 관한 규칙/법률/별표/별표1_위험물질의 종류(제16조ㆍ제17조 및 제225조 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2483,7 +2703,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0047",
             "reference_id": "law:도로교통법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "도로교통법/법률/도로교통법.json"
+            "target_git_path_guess": "도로교통법/법률/도로교통법.json",
+            "target_git_path": "도로교통법/법률/도로교통법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2526,7 +2748,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0049",
             "reference_id": "law:산업안전보건법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2546,7 +2770,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0049",
             "reference_id": "law:산업안전보건법시행규칙#JO0201",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2566,7 +2792,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0049",
             "reference_id": "law:산업안전보건법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2586,7 +2814,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0049",
             "reference_id": "law:산업안전보건법시행규칙#JO0202",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2606,7 +2836,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0049",
             "reference_id": "law:산업안전보건법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2626,7 +2858,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0049",
             "reference_id": "law:산업안전보건법시행규칙#JO0210",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2680,7 +2914,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0052",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2700,7 +2936,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0052",
             "reference_id": "law:산업안전보건법#JO0110",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2743,7 +2981,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0054",
             "reference_id": "law:산업안전보건법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2763,7 +3003,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0054",
             "reference_id": "law:산업안전보건법시행령#JO0041",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2806,7 +3048,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0056",
             "reference_id": "law:산업안전보건기준에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2826,7 +3070,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0056",
             "reference_id": "law:산업안전보건기준에관한규칙#JO0669",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2858,7 +3104,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0057",
             "reference_id": "law:산업안전보건법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2878,7 +3126,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0057",
             "reference_id": "law:산업안전보건법시행령#JO0096_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2898,7 +3148,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0057",
             "reference_id": "law:산업안전보건법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2918,7 +3170,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0057",
             "reference_id": "law:산업안전보건법시행규칙#JO0194_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2950,7 +3204,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0058",
             "reference_id": "law:산업안전보건법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2970,7 +3226,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0058",
             "reference_id": "law:산업안전보건법시행규칙#JO0220",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2990,7 +3248,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0058",
             "reference_id": "law:의료법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "의료법/법률/의료법.json"
+            "target_git_path_guess": "의료법/법률/의료법.json",
+            "target_git_path": "의료법/법률/의료법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3010,7 +3270,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0058",
             "reference_id": "law:의료법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "의료법/법률/의료법.json"
+            "target_git_path_guess": "의료법/법률/의료법.json",
+            "target_git_path": "의료법/법률/의료법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -3047,7 +3309,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산림복지진흥원) 안전보건관리규정/(한국산림복지진흥원) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국산림복지진흥원) 안전보건관리규정/(한국산림복지진흥원) 안전보건관리규정.json",
+            "target_git_path": "(한국산림복지진흥원) 안전보건관리규정/(한국산림복지진흥원) 안전보건관리규정.json",
+            "target_git_file_path": "(한국산림복지진흥원) 안전보건관리규정/별지/별지1_안전사고 발생 보고서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -3067,7 +3334,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0059",
             "reference_id": "law:산업재해보상보험법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업재해보상보험법/법률/산업재해보상보험법.json"
+            "target_git_path_guess": "산업재해보상보험법/법률/산업재해보상보험법.json",
+            "target_git_path": "산업재해보상보험법/법률/산업재해보상보험법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -3099,7 +3368,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0060",
             "reference_id": "law:산업안전보건법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3119,7 +3390,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0060",
             "reference_id": "law:산업안전보건법시행규칙#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -3144,7 +3417,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산림복지진흥원) 안전보건관리규정/(한국산림복지진흥원) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국산림복지진흥원) 안전보건관리규정/(한국산림복지진흥원) 안전보건관리규정.json",
+            "target_git_path": "(한국산림복지진흥원) 안전보건관리규정/(한국산림복지진흥원) 안전보건관리규정.json",
+            "target_git_file_path": "(한국산림복지진흥원) 안전보건관리규정/별지/별지2_안전관리 강화조치 회의 및 재발방지 계획서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -3187,7 +3465,11 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0062",
             "reference_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0067",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산림복지진흥원) 안전보건관리규정/(한국산림복지진흥원) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국산림복지진흥원) 안전보건관리규정/(한국산림복지진흥원) 안전보건관리규정.json",
+            "target_git_path": "(한국산림복지진흥원) 안전보건관리규정/(한국산림복지진흥원) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -3207,7 +3489,11 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0062",
             "reference_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0068",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산림복지진흥원) 안전보건관리규정/(한국산림복지진흥원) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국산림복지진흥원) 안전보건관리규정/(한국산림복지진흥원) 안전보건관리규정.json",
+            "target_git_path": "(한국산림복지진흥원) 안전보건관리규정/(한국산림복지진흥원) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -3239,7 +3525,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0063",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3259,7 +3547,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0063",
             "reference_id": "law:산업안전보건법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -3291,7 +3581,11 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0064",
             "reference_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0036",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산림복지진흥원) 안전보건관리규정/(한국산림복지진흥원) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국산림복지진흥원) 안전보건관리규정/(한국산림복지진흥원) 안전보건관리규정.json",
+            "target_git_path": "(한국산림복지진흥원) 안전보건관리규정/(한국산림복지진흥원) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -3334,7 +3628,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0066",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3354,7 +3650,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0066",
             "reference_id": "law:산업안전보건법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -3386,7 +3684,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0067",
             "reference_id": "law:산업안전보건법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3406,7 +3706,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0067",
             "reference_id": "law:산업안전보건법시행규칙#JO0037",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -3493,7 +3795,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0073",
             "reference_id": "law:건축법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건축법/법률/건축법.json"
+            "target_git_path_guess": "건축법/법률/건축법.json",
+            "target_git_path": "건축법/법률/건축법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3513,7 +3817,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0073",
             "reference_id": "law:건축법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "건축법/법률/건축법.json"
+            "target_git_path_guess": "건축법/법률/건축법.json",
+            "target_git_path": "건축법/법률/건축법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3533,7 +3839,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0073",
             "reference_id": "law:산업안전보건법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3553,7 +3861,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0073",
             "reference_id": "law:산업안전보건법시행령#JO0059",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -3607,7 +3917,11 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0076",
             "reference_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0066",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산림복지진흥원) 안전보건관리규정/(한국산림복지진흥원) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국산림복지진흥원) 안전보건관리규정/(한국산림복지진흥원) 안전보건관리규정.json",
+            "target_git_path": "(한국산림복지진흥원) 안전보건관리규정/(한국산림복지진흥원) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -3627,7 +3941,11 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0076",
             "reference_id": "SchlPubRul:(한국산림복지진흥원)안전보건관리규정#JO0067",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산림복지진흥원) 안전보건관리규정/(한국산림복지진흥원) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국산림복지진흥원) 안전보건관리규정/(한국산림복지진흥원) 안전보건관리규정.json",
+            "target_git_path": "(한국산림복지진흥원) 안전보건관리규정/(한국산림복지진흥원) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

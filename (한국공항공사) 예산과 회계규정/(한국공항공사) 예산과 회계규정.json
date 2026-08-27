@@ -87,7 +87,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)예산과회계규정#JO0002_02",
             "reference_id": "SchlPubRul:(한국공항공사)예산과회계규정#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 예산과 회계규정/(한국공항공사) 예산과 회계규정.json"
+            "target_git_path_guess": "(한국공항공사) 예산과 회계규정/(한국공항공사) 예산과 회계규정.json",
+            "target_git_path": "(한국공항공사) 예산과 회계규정/(한국공항공사) 예산과 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -196,7 +200,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)예산과회계규정#JO0009",
             "reference_id": "law:회계관계직원등의책임에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json"
+            "target_git_path_guess": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json",
+            "target_git_path": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -228,7 +234,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)예산과회계규정#JO0010",
             "reference_id": "admrul:공기업준정부기관회계기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공기업ㆍ준정부기관 회계기준/공기업ㆍ준정부기관 회계기준.json"
+            "target_git_path_guess": "공기업ㆍ준정부기관 회계기준/공기업ㆍ준정부기관 회계기준.json",
+            "target_git_path": "공기업·준정부기관 회계기준/공기업·준정부기관 회계기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -248,7 +258,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)예산과회계규정#JO0010",
             "reference_id": "admrul:공기업준정부기관회계기준#JO0007",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공기업ㆍ준정부기관 회계기준/공기업ㆍ준정부기관 회계기준.json"
+            "target_git_path_guess": "공기업ㆍ준정부기관 회계기준/공기업ㆍ준정부기관 회계기준.json",
+            "target_git_path": "공기업·준정부기관 회계기준/공기업·준정부기관 회계기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -345,7 +359,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)예산과회계규정#JO0015",
             "reference_id": "SchlPubRul:(한국공항공사)예산과회계규정#JO0016",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 예산과 회계규정/(한국공항공사) 예산과 회계규정.json"
+            "target_git_path_guess": "(한국공항공사) 예산과 회계규정/(한국공항공사) 예산과 회계규정.json",
+            "target_git_path": "(한국공항공사) 예산과 회계규정/(한국공항공사) 예산과 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -399,7 +417,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)예산과회계규정#JO0018",
             "reference_id": "SchlPubRul:(한국공항공사)예산과회계규정#JO0026",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 예산과 회계규정/(한국공항공사) 예산과 회계규정.json"
+            "target_git_path_guess": "(한국공항공사) 예산과 회계규정/(한국공항공사) 예산과 회계규정.json",
+            "target_git_path": "(한국공항공사) 예산과 회계규정/(한국공항공사) 예산과 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -431,7 +453,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)예산과회계규정#JO0019",
             "reference_id": "law:보조금관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json"
+            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_git_path": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -463,7 +487,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)예산과회계규정#JO0020",
             "reference_id": "SchlPubRul:(한국공항공사)예산과회계규정#JO0019",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 예산과 회계규정/(한국공항공사) 예산과 회계규정.json"
+            "target_git_path_guess": "(한국공항공사) 예산과 회계규정/(한국공항공사) 예산과 회계규정.json",
+            "target_git_path": "(한국공항공사) 예산과 회계규정/(한국공항공사) 예산과 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -726,7 +754,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)예산과회계규정#JO0042",
             "reference_id": "SchlPubRul:(한국공항공사)예산과회계규정#JO0044",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 예산과 회계규정/(한국공항공사) 예산과 회계규정.json"
+            "target_git_path_guess": "(한국공항공사) 예산과 회계규정/(한국공항공사) 예산과 회계규정.json",
+            "target_git_path": "(한국공항공사) 예산과 회계규정/(한국공항공사) 예산과 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -769,7 +801,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)예산과회계규정#JO0044",
             "reference_id": "law:부가가치세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json"
+            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json",
+            "target_git_path": "부가가치세법/법률/부가가치세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -789,7 +823,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)예산과회계규정#JO0044",
             "reference_id": "law:부가가치세법#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json"
+            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json",
+            "target_git_path": "부가가치세법/법률/부가가치세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -809,7 +845,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)예산과회계규정#JO0044",
             "reference_id": "law:소득세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소득세법/법률/소득세법.json"
+            "target_git_path_guess": "소득세법/법률/소득세법.json",
+            "target_git_path": "소득세법/법률/소득세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -829,7 +867,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)예산과회계규정#JO0044",
             "reference_id": "law:소득세법#JO0163",
             "target_repo": "LAW",
-            "target_git_path_guess": "소득세법/법률/소득세법.json"
+            "target_git_path_guess": "소득세법/법률/소득세법.json",
+            "target_git_path": "소득세법/법률/소득세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -849,7 +889,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)예산과회계규정#JO0044",
             "reference_id": "law:여신전문금융업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "여신전문금융업법/법률/여신전문금융업법.json"
+            "target_git_path_guess": "여신전문금융업법/법률/여신전문금융업법.json",
+            "target_git_path": "여신전문금융업법/법률/여신전문금융업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -903,7 +945,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)예산과회계규정#JO0047",
             "reference_id": "SchlPubRul:(한국공항공사)예산과회계규정#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 예산과 회계규정/(한국공항공사) 예산과 회계규정.json"
+            "target_git_path_guess": "(한국공항공사) 예산과 회계규정/(한국공항공사) 예산과 회계규정.json",
+            "target_git_path": "(한국공항공사) 예산과 회계규정/(한국공항공사) 예산과 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1023,7 +1069,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)예산과회계규정#JO0056",
             "reference_id": "SchlPubRul:(한국공항공사)예산과회계규정#JO0028",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 예산과 회계규정/(한국공항공사) 예산과 회계규정.json"
+            "target_git_path_guess": "(한국공항공사) 예산과 회계규정/(한국공항공사) 예산과 회계규정.json",
+            "target_git_path": "(한국공항공사) 예산과 회계규정/(한국공항공사) 예산과 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1121,7 +1171,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)예산과회계규정#JO0063",
             "reference_id": "SchlPubRul:(한국공항공사)예산과회계규정#JO0077",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 예산과 회계규정/(한국공항공사) 예산과 회계규정.json"
+            "target_git_path_guess": "(한국공항공사) 예산과 회계규정/(한국공항공사) 예산과 회계규정.json",
+            "target_git_path": "(한국공항공사) 예산과 회계규정/(한국공항공사) 예산과 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1153,7 +1207,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)예산과회계규정#JO0064",
             "reference_id": "law:여신전문금융업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "여신전문금융업법/법률/여신전문금융업법.json"
+            "target_git_path_guess": "여신전문금융업법/법률/여신전문금융업법.json",
+            "target_git_path": "여신전문금융업법/법률/여신전문금융업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1185,7 +1241,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)예산과회계규정#JO0065",
             "reference_id": "SchlPubRul:(한국공항공사)예산과회계규정#JO0044",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 예산과 회계규정/(한국공항공사) 예산과 회계규정.json"
+            "target_git_path_guess": "(한국공항공사) 예산과 회계규정/(한국공항공사) 예산과 회계규정.json",
+            "target_git_path": "(한국공항공사) 예산과 회계규정/(한국공항공사) 예산과 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1250,7 +1310,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)예산과회계규정#JO0069",
             "reference_id": "SchlPubRul:(한국공항공사)예산과회계규정#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 예산과 회계규정/(한국공항공사) 예산과 회계규정.json"
+            "target_git_path_guess": "(한국공항공사) 예산과 회계규정/(한국공항공사) 예산과 회계규정.json",
+            "target_git_path": "(한국공항공사) 예산과 회계규정/(한국공항공사) 예산과 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1348,7 +1412,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)예산과회계규정#JO0076",
             "reference_id": "SchlPubRul:(한국공항공사)예산과회계규정#JO0049",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 예산과 회계규정/(한국공항공사) 예산과 회계규정.json"
+            "target_git_path_guess": "(한국공항공사) 예산과 회계규정/(한국공항공사) 예산과 회계규정.json",
+            "target_git_path": "(한국공항공사) 예산과 회계규정/(한국공항공사) 예산과 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1380,7 +1448,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)예산과회계규정#JO0077",
             "reference_id": "law:채무자회생및파산에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "채무자 회생 및 파산에 관한 법률/법률/채무자 회생 및 파산에 관한 법률.json"
+            "target_git_path_guess": "채무자 회생 및 파산에 관한 법률/법률/채무자 회생 및 파산에 관한 법률.json",
+            "target_git_path": "채무자 회생 및 파산에 관한 법률/법률/채무자 회생 및 파산에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1445,7 +1515,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)예산과회계규정#JO0081",
             "reference_id": "SchlPubRul:(한국공항공사)예산과회계규정#JO0034",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 예산과 회계규정/(한국공항공사) 예산과 회계규정.json"
+            "target_git_path_guess": "(한국공항공사) 예산과 회계규정/(한국공항공사) 예산과 회계규정.json",
+            "target_git_path": "(한국공항공사) 예산과 회계규정/(한국공항공사) 예산과 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1521,7 +1595,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)예산과회계규정#JO0086",
             "reference_id": "SchlPubRul:(한국공항공사)예산과회계규정#JO0088",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 예산과 회계규정/(한국공항공사) 예산과 회계규정.json"
+            "target_git_path_guess": "(한국공항공사) 예산과 회계규정/(한국공항공사) 예산과 회계규정.json",
+            "target_git_path": "(한국공항공사) 예산과 회계규정/(한국공항공사) 예산과 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1553,7 +1631,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)예산과회계규정#JO0087",
             "reference_id": "SchlPubRul:(한국공항공사)예산과회계규정#JO0086",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 예산과 회계규정/(한국공항공사) 예산과 회계규정.json"
+            "target_git_path_guess": "(한국공항공사) 예산과 회계규정/(한국공항공사) 예산과 회계규정.json",
+            "target_git_path": "(한국공항공사) 예산과 회계규정/(한국공항공사) 예산과 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1651,7 +1733,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)예산과회계규정#JO0094",
             "reference_id": "SchlPubRul:(한국공항공사)예산과회계규정#JO0093",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 예산과 회계규정/(한국공항공사) 예산과 회계규정.json"
+            "target_git_path_guess": "(한국공항공사) 예산과 회계규정/(한국공항공사) 예산과 회계규정.json",
+            "target_git_path": "(한국공항공사) 예산과 회계규정/(한국공항공사) 예산과 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1705,7 +1791,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)예산과회계규정#JO0097",
             "reference_id": "SchlPubRul:(한국공항공사)예산과회계규정#JO0081",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 예산과 회계규정/(한국공항공사) 예산과 회계규정.json"
+            "target_git_path_guess": "(한국공항공사) 예산과 회계규정/(한국공항공사) 예산과 회계규정.json",
+            "target_git_path": "(한국공항공사) 예산과 회계규정/(한국공항공사) 예산과 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

@@ -120,7 +120,9 @@
             "source_provision_id": "SchlPubRul:(한국수산자원공단)임원보수규정#JO0006",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -157,7 +159,8 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(한국수산자원공단)임원보수규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국수산자원공단) 임원 보수규정/(한국수산자원공단) 임원 보수규정.json"
+            "target_git_path_guess": "(한국수산자원공단) 임원 보수규정/(한국수산자원공단) 임원 보수규정.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],

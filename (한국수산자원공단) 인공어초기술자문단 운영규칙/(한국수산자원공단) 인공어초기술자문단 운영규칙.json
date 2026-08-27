@@ -65,7 +65,11 @@
             "source_provision_id": "SchlPubRul:(한국수산자원공단)인공어초기술자문단운영규칙#JO0001",
             "reference_id": "admrul:인공어초시설사업집행및관리규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "인공어초시설사업집행 및 관리규정/인공어초시설사업집행 및 관리규정.json"
+            "target_git_path_guess": "인공어초시설사업집행 및 관리규정/인공어초시설사업집행 및 관리규정.json",
+            "target_git_path": "인공어초시설사업집행 및 관리규정/인공어초시설사업집행 및 관리규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -85,7 +89,8 @@
             "source_provision_id": "SchlPubRul:(한국수산자원공단)인공어초기술자문단운영규칙#JO0001",
             "reference_id": "admrul:인공어초시설사업집행및관리규정#JO0008_02",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "인공어초시설사업집행 및 관리규정/인공어초시설사업집행 및 관리규정.json"
+            "target_git_path_guess": "인공어초시설사업집행 및 관리규정/인공어초시설사업집행 및 관리규정.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -122,7 +127,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(한국수산자원공단)인공어초기술자문단운영규칙#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국수산자원공단) 인공어초기술자문단 운영규칙/(한국수산자원공단) 인공어초기술자문단 운영규칙.json"
+            "target_git_path_guess": "(한국수산자원공단) 인공어초기술자문단 운영규칙/(한국수산자원공단) 인공어초기술자문단 운영규칙.json",
+            "target_git_path": "(한국수산자원공단) 인공어초기술자문단 운영규칙/(한국수산자원공단) 인공어초기술자문단 운영규칙.json",
+            "target_git_file_path": "(한국수산자원공단) 인공어초기술자문단 운영규칙/별지/별지1_자문위원 위촉 동의서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -147,7 +157,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(한국수산자원공단)인공어초기술자문단운영규칙#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국수산자원공단) 인공어초기술자문단 운영규칙/(한국수산자원공단) 인공어초기술자문단 운영규칙.json"
+            "target_git_path_guess": "(한국수산자원공단) 인공어초기술자문단 운영규칙/(한국수산자원공단) 인공어초기술자문단 운영규칙.json",
+            "target_git_path": "(한국수산자원공단) 인공어초기술자문단 운영규칙/(한국수산자원공단) 인공어초기술자문단 운영규칙.json",
+            "target_git_file_path": "(한국수산자원공단) 인공어초기술자문단 운영규칙/별지/별지2_자문위원 위촉장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -195,7 +210,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:(한국수산자원공단)인공어초기술자문단운영규칙#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국수산자원공단) 인공어초기술자문단 운영규칙/(한국수산자원공단) 인공어초기술자문단 운영규칙.json"
+            "target_git_path_guess": "(한국수산자원공단) 인공어초기술자문단 운영규칙/(한국수산자원공단) 인공어초기술자문단 운영규칙.json",
+            "target_git_path": "(한국수산자원공단) 인공어초기술자문단 운영규칙/(한국수산자원공단) 인공어초기술자문단 운영규칙.json",
+            "target_git_file_path": "(한국수산자원공단) 인공어초기술자문단 운영규칙/별지/별지3_시험어초 선정 검토기술서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

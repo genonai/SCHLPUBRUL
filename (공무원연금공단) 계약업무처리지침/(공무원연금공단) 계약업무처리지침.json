@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0001",
             "reference_id": "law:공기업준정부기관계약사무규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json"
+            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_git_path": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -124,7 +126,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json"
+            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_path": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_file_path": "(공무원연금공단) 계약업무처리지침/별지/별지1_계약의뢰검토서(제4조제1항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -144,7 +151,9 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0004",
             "reference_id": "law:국가를당사자로하는계약에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -164,7 +173,11 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0004",
             "reference_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0030",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json"
+            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_path": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -184,7 +197,11 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0004",
             "reference_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0030",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json"
+            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_path": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -209,7 +226,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json"
+            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_path": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_file_path": "(공무원연금공단) 계약업무처리지침/별지/별지2_변경계약의뢰 검토서(제4조제3항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -241,7 +263,9 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0005",
             "reference_id": "law:소프트웨어진흥법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소프트웨어 진흥법/법률/소프트웨어 진흥법.json"
+            "target_git_path_guess": "소프트웨어 진흥법/법률/소프트웨어 진흥법.json",
+            "target_git_path": "소프트웨어 진흥법/법률/소프트웨어 진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -261,7 +285,9 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0005",
             "reference_id": "law:소프트웨어진흥법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "소프트웨어 진흥법/법률/소프트웨어 진흥법.json"
+            "target_git_path_guess": "소프트웨어 진흥법/법률/소프트웨어 진흥법.json",
+            "target_git_path": "소프트웨어 진흥법/법률/소프트웨어 진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -281,7 +307,11 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0005",
             "reference_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json"
+            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_path": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -313,7 +343,11 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0006",
             "reference_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json"
+            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_path": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -345,7 +379,9 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0007",
             "reference_id": "law:녹색제품구매촉진에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "녹색제품 구매촉진에 관한 법률/법률/녹색제품 구매촉진에 관한 법률.json"
+            "target_git_path_guess": "녹색제품 구매촉진에 관한 법률/법률/녹색제품 구매촉진에 관한 법률.json",
+            "target_git_path": "녹색제품 구매촉진에 관한 법률/법률/녹색제품 구매촉진에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -365,7 +401,9 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0007",
             "reference_id": "law:중소기업제품구매촉진및판로지원에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json"
+            "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json",
+            "target_git_path": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -385,7 +423,9 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0007",
             "reference_id": "law:여성기업지원에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "여성기업지원에 관한 법률/법률/여성기업지원에 관한 법률.json"
+            "target_git_path_guess": "여성기업지원에 관한 법률/법률/여성기업지원에 관한 법률.json",
+            "target_git_path": "여성기업지원에 관한 법률/법률/여성기업지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -405,7 +445,9 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0007",
             "reference_id": "law:중증장애인생산품우선구매특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중증장애인생산품 우선구매 특별법/법률/중증장애인생산품 우선구매 특별법.json"
+            "target_git_path_guess": "중증장애인생산품 우선구매 특별법/법률/중증장애인생산품 우선구매 특별법.json",
+            "target_git_path": "중증장애인생산품 우선구매 특별법/법률/중증장애인생산품 우선구매 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -425,7 +467,9 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0007",
             "reference_id": "law:장애인기업활동촉진법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "장애인기업활동 촉진법/법률/장애인기업활동 촉진법.json"
+            "target_git_path_guess": "장애인기업활동 촉진법/법률/장애인기업활동 촉진법.json",
+            "target_git_path": "장애인기업활동 촉진법/법률/장애인기업활동 촉진법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -445,7 +489,9 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0007",
             "reference_id": "law:장애인고용촉진및직업재활법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "장애인고용촉진 및 직업재활법/법률/장애인고용촉진 및 직업재활법.json"
+            "target_git_path_guess": "장애인고용촉진 및 직업재활법/법률/장애인고용촉진 및 직업재활법.json",
+            "target_git_path": "장애인고용촉진 및 직업재활법/법률/장애인고용촉진 및 직업재활법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -465,7 +511,9 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0007",
             "reference_id": "law:사회적기업육성법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "사회적기업 육성법/법률/사회적기업 육성법.json"
+            "target_git_path_guess": "사회적기업 육성법/법률/사회적기업 육성법.json",
+            "target_git_path": "사회적기업 육성법/법률/사회적기업 육성법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -485,7 +533,9 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0007",
             "reference_id": "law:협동조합기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "협동조합 기본법/법률/협동조합 기본법.json"
+            "target_git_path_guess": "협동조합 기본법/법률/협동조합 기본법.json",
+            "target_git_path": "협동조합 기본법/법률/협동조합 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -505,7 +555,11 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0007",
             "reference_id": "admrul:한국보훈복지의료공단수익사업지원및국가유공자자활용사촌자립지원에관한훈령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "한국보훈복지의료공단 수익사업 지원 및 국가유공자 자활용사촌 자립 지원에 관한 훈령/한국보훈복지의료공단 수익사업 지원 및 국가유공자 자활용사촌 자립 지원에 관한 훈령.json"
+            "target_git_path_guess": "한국보훈복지의료공단 수익사업 지원 및 국가유공자 자활용사촌 자립 지원에 관한 훈령/한국보훈복지의료공단 수익사업 지원 및 국가유공자 자활용사촌 자립 지원에 관한 훈령.json",
+            "target_git_path": "한국보훈복지의료공단 수익사업 지원 및 국가유공자 자활용사촌 자립 지원에 관한 훈령/한국보훈복지의료공단 수익사업 지원 및 국가유공자 자활용사촌 자립 지원에 관한 훈령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -525,7 +579,9 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0007",
             "reference_id": "law:중소기업창업지원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업창업 지원법/법률/중소기업창업 지원법.json"
+            "target_git_path_guess": "중소기업창업 지원법/법률/중소기업창업 지원법.json",
+            "target_git_path": "중소기업창업 지원법/법률/중소기업창업 지원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -550,7 +606,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json"
+            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_path": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_file_path": "(공무원연금공단) 계약업무처리지침/별지/별지3_정부권장정책이행 구매 검토서(제7조제3항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -582,7 +643,9 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0008",
             "reference_id": "law:대중소기업상생협력촉진에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json"
+            "target_git_path_guess": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json",
+            "target_git_path": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -602,7 +665,9 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0008",
             "reference_id": "law:대중소기업상생협력촉진에관한법률#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json"
+            "target_git_path_guess": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json",
+            "target_git_path": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -639,7 +704,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json"
+            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_path": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_file_path": "(공무원연금공단) 계약업무처리지침/별지/별지4_표준비밀유지계약서 (본문).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -709,7 +779,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json"
+            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_path": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_file_path": "(공무원연금공단) 계약업무처리지침/별지/별지5_청렴계약서(서약서).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -734,7 +809,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json"
+            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_path": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_file_path": "(공무원연금공단) 계약업무처리지침/별지/별지5_청렴계약서(서약서).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -759,7 +839,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json"
+            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_path": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_file_path": "(공무원연금공단) 계약업무처리지침/별지/별지5_청렴계약서(서약서).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -784,7 +869,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json"
+            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_path": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_file_path": "(공무원연금공단) 계약업무처리지침/별지/별지5_청렴계약서(서약서).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -809,7 +899,12 @@
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json"
+            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_path": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_file_path": "(공무원연금공단) 계약업무처리지침/별지/별지7_계약이행 통합 서약서(제15조의3 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -834,7 +929,12 @@
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json"
+            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_path": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_file_path": "(공무원연금공단) 계약업무처리지침/별지/별지6_공정계약 서약서(제13조제3항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -888,7 +988,11 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0015_02",
             "reference_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0015",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json"
+            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_path": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -925,7 +1029,12 @@
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json"
+            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_path": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_file_path": "(공무원연금공단) 계약업무처리지침/별지/별지7_계약이행 통합 서약서(제15조의3 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -957,7 +1066,11 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0015_04",
             "reference_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0015_02",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json"
+            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_path": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -982,7 +1095,12 @@
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json"
+            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_path": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_file_path": "(공무원연금공단) 계약업무처리지침/별지/별지7_계약이행 통합 서약서(제15조의3 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1014,7 +1132,9 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0015_05",
             "reference_id": "law:공기업준정부기관계약사무규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공기업ㆍ 준정부기관 계약사무규칙/법률/공기업ㆍ 준정부기관 계약사무규칙.json"
+            "target_git_path_guess": "공기업ㆍ 준정부기관 계약사무규칙/법률/공기업ㆍ 준정부기관 계약사무규칙.json",
+            "target_git_path": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1034,7 +1154,9 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0015_05",
             "reference_id": "law:공기업준정부기관계약사무규칙#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "공기업ㆍ 준정부기관 계약사무규칙/법률/공기업ㆍ 준정부기관 계약사무규칙.json"
+            "target_git_path_guess": "공기업ㆍ 준정부기관 계약사무규칙/법률/공기업ㆍ 준정부기관 계약사무규칙.json",
+            "target_git_path": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1054,7 +1176,9 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0015_05",
             "reference_id": "law:공기업준정부기관계약사무규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공기업ㆍ 준정부기관 계약사무규칙/법률/공기업ㆍ 준정부기관 계약사무규칙.json"
+            "target_git_path_guess": "공기업ㆍ 준정부기관 계약사무규칙/법률/공기업ㆍ 준정부기관 계약사무규칙.json",
+            "target_git_path": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1074,7 +1198,9 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0015_05",
             "reference_id": "law:공기업준정부기관계약사무규칙#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "공기업ㆍ 준정부기관 계약사무규칙/법률/공기업ㆍ 준정부기관 계약사무규칙.json"
+            "target_git_path_guess": "공기업ㆍ 준정부기관 계약사무규칙/법률/공기업ㆍ 준정부기관 계약사무규칙.json",
+            "target_git_path": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1117,7 +1243,9 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0017",
             "reference_id": "law:공기업준정부기관계약사무규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공기업 준정부기관 계약사무규칙/법률/공기업 준정부기관 계약사무규칙.json"
+            "target_git_path_guess": "공기업 준정부기관 계약사무규칙/법률/공기업 준정부기관 계약사무규칙.json",
+            "target_git_path": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1137,7 +1265,9 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0017",
             "reference_id": "law:회계관계직원등의책임에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json"
+            "target_git_path_guess": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json",
+            "target_git_path": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1157,7 +1287,9 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0017",
             "reference_id": "law:회계관계직원등의책임에관한법률#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json"
+            "target_git_path_guess": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json",
+            "target_git_path": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1177,7 +1309,11 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0017",
             "reference_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0014",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json"
+            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_path": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1209,7 +1345,11 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0018",
             "reference_id": "admrul:조달청물품구매적격심사세부기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "조달청 물품구매 적격심사 세부기준/조달청 물품구매 적격심사 세부기준.json"
+            "target_git_path_guess": "조달청 물품구매 적격심사 세부기준/조달청 물품구매 적격심사 세부기준.json",
+            "target_git_path": "조달청 물품구매적격심사 세부기준/조달청 물품구매적격심사 세부기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1249,7 +1389,11 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0018",
             "reference_id": "admrul:조달청일반용역적격심사세부기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "조달청 일반용역 적격심사 세부기준/조달청 일반용역 적격심사 세부기준.json"
+            "target_git_path_guess": "조달청 일반용역 적격심사 세부기준/조달청 일반용역 적격심사 세부기준.json",
+            "target_git_path": "조달청 일반용역 적격심사 세부기준/조달청 일반용역 적격심사 세부기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1269,7 +1413,11 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0018",
             "reference_id": "admrul:조달청기술용역적격심사세부기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "조달청 기술용역 적격심사 세부기준/조달청 기술용역 적격심사 세부기준.json"
+            "target_git_path_guess": "조달청 기술용역 적격심사 세부기준/조달청 기술용역 적격심사 세부기준.json",
+            "target_git_path": "조달청 기술용역 적격심사 세부기준/조달청 기술용역 적격심사 세부기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1289,7 +1437,11 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0018",
             "reference_id": "admrul:건설폐기물처리용역적격업체평가기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "건설폐기물처리용역 적격업체 평가기준/건설폐기물처리용역 적격업체 평가기준.json"
+            "target_git_path_guess": "건설폐기물처리용역 적격업체 평가기준/건설폐기물처리용역 적격업체 평가기준.json",
+            "target_git_path": "건설폐기물처리용역 적격업체 평가기준/건설폐기물처리용역 적격업체 평가기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1309,7 +1461,11 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0018",
             "reference_id": "admrul:조달청시설공사적격심사세부기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "조달청 시설공사 적격심사 세부기준/조달청 시설공사 적격심사 세부기준.json"
+            "target_git_path_guess": "조달청 시설공사 적격심사 세부기준/조달청 시설공사 적격심사 세부기준.json",
+            "target_git_path": "조달청 시설공사 적격심사세부기준/조달청 시설공사 적격심사세부기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1329,7 +1485,11 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0018",
             "reference_id": "admrul:주택관리업자및사업자선정지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "주택관리업자 및 사업자 선정지침/주택관리업자 및 사업자 선정지침.json"
+            "target_git_path_guess": "주택관리업자 및 사업자 선정지침/주택관리업자 및 사업자 선정지침.json",
+            "target_git_path": "주택관리업자 및 사업자 선정지침/주택관리업자 및 사업자 선정지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1393,7 +1553,9 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0020",
             "reference_id": "law:건축서비스산업진흥법#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "건축서비스산업 진흥법/법률/건축서비스산업 진흥법.json"
+            "target_git_path_guess": "건축서비스산업 진흥법/법률/건축서비스산업 진흥법.json",
+            "target_git_path": "건축서비스산업 진흥법/법률/건축서비스산업 진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1413,7 +1575,9 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0020",
             "reference_id": "law:건축서비스산업진흥법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건축서비스산업 진흥법/시행령/건축서비스산업 진흥법 시행령.json"
+            "target_git_path_guess": "건축서비스산업 진흥법/시행령/건축서비스산업 진흥법 시행령.json",
+            "target_git_path": "건축서비스산업 진흥법/시행령/건축서비스산업 진흥법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1433,7 +1597,9 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0020",
             "reference_id": "law:건축서비스산업진흥법시행령#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "건축서비스산업 진흥법/시행령/건축서비스산업 진흥법 시행령.json"
+            "target_git_path_guess": "건축서비스산업 진흥법/시행령/건축서비스산업 진흥법 시행령.json",
+            "target_git_path": "건축서비스산업 진흥법/시행령/건축서비스산업 진흥법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1453,7 +1619,11 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0020",
             "reference_id": "admrul:건축설계공모운영지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "건축 설계공모 운영지침/건축 설계공모 운영지침.json"
+            "target_git_path_guess": "건축 설계공모 운영지침/건축 설계공모 운영지침.json",
+            "target_git_path": "건축 설계공모 운영지침/건축 설계공모 운영지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1473,7 +1643,11 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0020",
             "reference_id": "admrul:건축설계공모운영지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "건축 설계공모 운영지침/건축 설계공모 운영지침.json"
+            "target_git_path_guess": "건축 설계공모 운영지침/건축 설계공모 운영지침.json",
+            "target_git_path": "건축 설계공모 운영지침/건축 설계공모 운영지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1510,7 +1684,12 @@
             "target_unit": "BJ0008",
             "reference_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#BJ0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json"
+            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_path": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_file_path": "(공무원연금공단) 계약업무처리지침/별지/별지8_감독조서(제21조제3항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1547,7 +1726,12 @@
             "target_unit": "BJ0009",
             "reference_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#BJ0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json"
+            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_path": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_file_path": "(공무원연금공단) 계약업무처리지침/별지/별지9_검사조서(제22조제2항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1643,7 +1827,9 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0025",
             "reference_id": "law:조달사업에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "조달사업에 관한 법률/법률/조달사업에 관한 법률.json"
+            "target_git_path_guess": "조달사업에 관한 법률/법률/조달사업에 관한 법률.json",
+            "target_git_path": "조달사업에 관한 법률/법률/조달사업에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1708,7 +1894,11 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0029",
             "reference_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0028",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json"
+            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_path": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1756,7 +1946,12 @@
             "target_unit": "BJ0010",
             "reference_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#BJ0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json"
+            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_path": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_file_path": "(공무원연금공단) 계약업무처리지침/별지/별지10_계약심의위원회 심의요청서(제31조제1항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1781,7 +1976,12 @@
             "target_unit": "BJ0010",
             "reference_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#BJ0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json"
+            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_path": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_file_path": "(공무원연금공단) 계약업무처리지침/별지/별지10_계약심의위원회 심의요청서(제31조제1항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1806,7 +2006,12 @@
             "target_unit": "BJ0011",
             "reference_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#BJ0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json"
+            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_path": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_file_path": "(공무원연금공단) 계약업무처리지침/별지/별지11_계약심의위원회 심의결과서(제31조제3항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1838,7 +2043,11 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0032",
             "reference_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0044",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json"
+            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_path": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -1858,7 +2067,11 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0032",
             "reference_id": "admrul:인사혁신처계약심의위원회규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "인사혁신처 계약심의위원회 규정/인사혁신처 계약심의위원회 규정.json"
+            "target_git_path_guess": "인사혁신처 계약심의위원회 규정/인사혁신처 계약심의위원회 규정.json",
+            "target_git_path": "인사혁신처 계약심의위원회 규정/인사혁신처 계약심의위원회 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1890,7 +2103,11 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0033",
             "reference_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0035",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json"
+            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_path": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1915,7 +2132,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json"
+            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_path": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_file_path": "(공무원연금공단) 계약업무처리지침/별표/별표1_제안서 평가위원수 산정기준(제33조제3항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1947,7 +2169,11 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0034",
             "reference_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json"
+            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_path": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -1967,7 +2193,9 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0034",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1987,7 +2215,9 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0034",
             "reference_id": "law:지방공기업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2007,7 +2237,9 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0034",
             "reference_id": "law:지방공기업법#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2027,7 +2259,9 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0034",
             "reference_id": "law:국가기술자격법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가기술자격법/법률/국가기술자격법.json"
+            "target_git_path_guess": "국가기술자격법/법률/국가기술자격법.json",
+            "target_git_path": "국가기술자격법/법률/국가기술자격법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2047,7 +2281,9 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0034",
             "reference_id": "law:국가기술자격법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가기술자격법/법률/국가기술자격법.json"
+            "target_git_path_guess": "국가기술자격법/법률/국가기술자격법.json",
+            "target_git_path": "국가기술자격법/법률/국가기술자격법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2067,7 +2303,9 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0034",
             "reference_id": "law:고등교육법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고등교육법/법률/고등교육법.json"
+            "target_git_path_guess": "고등교육법/법률/고등교육법.json",
+            "target_git_path": "고등교육법/법률/고등교육법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2087,7 +2325,9 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0034",
             "reference_id": "law:고등교육법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "고등교육법/법률/고등교육법.json"
+            "target_git_path_guess": "고등교육법/법률/고등교육법.json",
+            "target_git_path": "고등교육법/법률/고등교육법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2119,7 +2359,11 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0035",
             "reference_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0034",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json"
+            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_path": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2156,7 +2400,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json"
+            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_path": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_file_path": "(공무원연금공단) 계약업무처리지침/별표/별표2_제안서 평가위원 유의사항(제36조제1항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2181,7 +2430,12 @@
             "target_unit": "BJ0012",
             "reference_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#BJ0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json"
+            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_path": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_file_path": "(공무원연금공단) 계약업무처리지침/별지/별지12_평가위원 평가지침 준수각서(제36조제1항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2206,7 +2460,12 @@
             "target_unit": "BJ0012",
             "reference_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#BJ0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json"
+            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_path": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_file_path": "(공무원연금공단) 계약업무처리지침/별지/별지12_평가위원 평가지침 준수각서(제36조제1항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2290,7 +2549,11 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0038",
             "reference_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0036",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json"
+            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_path": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -2310,7 +2573,9 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0038",
             "reference_id": "law:개인정보보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json"
+            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2342,7 +2607,11 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0039",
             "reference_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0038",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json"
+            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_path": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2379,7 +2648,12 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json"
+            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_path": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_file_path": "(공무원연금공단) 계약업무처리지침/별표/별표3_제안서 평가수당 기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2416,7 +2690,12 @@
             "target_unit": "BYL0004",
             "reference_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#BYL0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json"
+            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_path": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_file_path": "(공무원연금공단) 계약업무처리지침/별표/별표4_입찰자 수에 따른 평가등급 배정기준(제34조제2호 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -2436,7 +2715,11 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0041",
             "reference_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0019",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json"
+            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_path": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2461,7 +2744,12 @@
             "target_unit": "BYL0005",
             "reference_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#BYL0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json"
+            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_path": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_file_path": "(공무원연금공단) 계약업무처리지침/별표/별표5_차등점수제 적용 방식(제41조제3항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2509,7 +2797,12 @@
             "target_unit": "BJ0013",
             "reference_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#BJ0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json"
+            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_path": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_file_path": "(공무원연금공단) 계약업무처리지침/별지/별지13_제안서 협상결과 (성립).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2534,7 +2827,12 @@
             "target_unit": "BJ0014",
             "reference_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#BJ0014",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json"
+            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_path": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_file_path": "(공무원연금공단) 계약업무처리지침/별지/별지14_제안서 협상결과 (불성립).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2571,7 +2869,12 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json"
+            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_path": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_file_path": "(공무원연금공단) 계약업무처리지침/별표/별표3_제안서 평가수당 기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -2591,7 +2894,11 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0044",
             "reference_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0036",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json"
+            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_path": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2616,7 +2923,12 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json"
+            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_path": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_file_path": "(공무원연금공단) 계약업무처리지침/별표/별표3_제안서 평가수당 기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2700,7 +3012,9 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0046",
             "reference_id": "law:건축서비스산업진흥법#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "건축서비스산업 진흥법/법률/건축서비스산업 진흥법.json"
+            "target_git_path_guess": "건축서비스산업 진흥법/법률/건축서비스산업 진흥법.json",
+            "target_git_path": "건축서비스산업 진흥법/법률/건축서비스산업 진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2720,7 +3034,9 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0046",
             "reference_id": "law:건축서비스산업진흥법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건축서비스산업 진흥법/시행령/건축서비스산업 진흥법 시행령.json"
+            "target_git_path_guess": "건축서비스산업 진흥법/시행령/건축서비스산업 진흥법 시행령.json",
+            "target_git_path": "건축서비스산업 진흥법/시행령/건축서비스산업 진흥법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2740,7 +3056,9 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0046",
             "reference_id": "law:건축서비스산업진흥법시행령#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "건축서비스산업 진흥법/시행령/건축서비스산업 진흥법 시행령.json"
+            "target_git_path_guess": "건축서비스산업 진흥법/시행령/건축서비스산업 진흥법 시행령.json",
+            "target_git_path": "건축서비스산업 진흥법/시행령/건축서비스산업 진흥법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2772,7 +3090,11 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0047",
             "reference_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0044",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json"
+            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_path": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -2792,7 +3114,11 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0047",
             "reference_id": "admrul:건축설계공모운영지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "건축 설계공모 운영지침/건축 설계공모 운영지침.json"
+            "target_git_path_guess": "건축 설계공모 운영지침/건축 설계공모 운영지침.json",
+            "target_git_path": "건축 설계공모 운영지침/건축 설계공모 운영지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -2824,7 +3150,9 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0048",
             "reference_id": "law:소프트웨어진흥법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소프트웨어 진흥법/법률/소프트웨어 진흥법.json"
+            "target_git_path_guess": "소프트웨어 진흥법/법률/소프트웨어 진흥법.json",
+            "target_git_path": "소프트웨어 진흥법/법률/소프트웨어 진흥법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2856,7 +3184,11 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0049",
             "reference_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0044",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json"
+            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_path": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -2876,7 +3208,9 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0049",
             "reference_id": "law:소프트웨어진흥법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소프트웨어 진흥법/법률/소프트웨어 진흥법.json"
+            "target_git_path_guess": "소프트웨어 진흥법/법률/소프트웨어 진흥법.json",
+            "target_git_path": "소프트웨어 진흥법/법률/소프트웨어 진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2896,7 +3230,11 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0049",
             "reference_id": "admrul:소프트웨어사업계약및관리감독에관한지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "소프트웨어사업 계약 및 관리감독에 관한 지침/소프트웨어사업 계약 및 관리감독에 관한 지침.json"
+            "target_git_path_guess": "소프트웨어사업 계약 및 관리감독에 관한 지침/소프트웨어사업 계약 및 관리감독에 관한 지침.json",
+            "target_git_path": "소프트웨어사업 계약 및 관리감독에 관한 지침/소프트웨어사업 계약 및 관리감독에 관한 지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -2939,7 +3277,11 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0051",
             "reference_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0028",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json"
+            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_path": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -2959,7 +3301,9 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0051",
             "reference_id": "law:민법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2979,7 +3323,9 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0051",
             "reference_id": "law:민법#JO0777",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -3011,7 +3357,11 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0052",
             "reference_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0044",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json"
+            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_path": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -3048,7 +3398,12 @@
             "target_unit": "BJ0015",
             "reference_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#BJ0015",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json"
+            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_path": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_file_path": "(공무원연금공단) 계약업무처리지침/별지/별지15_연구용역 과제 심의신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -3073,7 +3428,12 @@
             "target_unit": "BJ0015",
             "reference_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#BJ0015",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json"
+            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_path": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_file_path": "(공무원연금공단) 계약업무처리지침/별지/별지15_연구용역 과제 심의신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -3110,7 +3470,12 @@
             "target_unit": "BJ0016",
             "reference_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#BJ0016",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json"
+            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_path": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_file_path": "(공무원연금공단) 계약업무처리지침/별지/별지16_연구용역 과제 심의평가서(제54조제1항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -3142,7 +3507,9 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0055",
             "reference_id": "law:행정업무의운영및혁신에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정업무의 운영 및 혁신에 관한 규정/법률/행정업무의 운영 및 혁신에 관한 규정.json"
+            "target_git_path_guess": "행정업무의 운영 및 혁신에 관한 규정/법률/행정업무의 운영 및 혁신에 관한 규정.json",
+            "target_git_path": "행정업무의 운영 및 혁신에 관한 규정/법률/행정업무의 운영 및 혁신에 관한 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -3174,7 +3541,9 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0056",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3194,7 +3563,9 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0056",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -3226,7 +3597,9 @@
             "source_provision_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#JO0057",
             "reference_id": "law:공기업준정부기관계약사무규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json"
+            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_git_path": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

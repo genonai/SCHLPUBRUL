@@ -76,7 +76,9 @@
             "source_provision_id": "SchlPubRul:(한국어촌어항공단)회계규정#JO0002",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -96,7 +98,9 @@
             "source_provision_id": "SchlPubRul:(한국어촌어항공단)회계규정#JO0002",
             "reference_id": "law:공공기관의운영에관한법률#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -116,7 +120,9 @@
             "source_provision_id": "SchlPubRul:(한국어촌어항공단)회계규정#JO0002",
             "reference_id": "law:공기업준정부기관회계사무규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공기업ㆍ준정부기관 회계사무규칙/법률/공기업ㆍ준정부기관 회계사무규칙.json"
+            "target_git_path_guess": "공기업ㆍ준정부기관 회계사무규칙/법률/공기업ㆍ준정부기관 회계사무규칙.json",
+            "target_git_path": "공기업ㆍ준정부기관 회계사무규칙/법률/공기업ㆍ준정부기관 회계사무규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -136,7 +142,11 @@
             "source_provision_id": "SchlPubRul:(한국어촌어항공단)회계규정#JO0002",
             "reference_id": "admrul:공기업준정부기관회계기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공기업ㆍ준정부기관 회계기준/공기업ㆍ준정부기관 회계기준.json"
+            "target_git_path_guess": "공기업ㆍ준정부기관 회계기준/공기업ㆍ준정부기관 회계기준.json",
+            "target_git_path": "공기업·준정부기관 회계기준/공기업·준정부기관 회계기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -377,7 +387,11 @@
             "source_provision_id": "SchlPubRul:(한국어촌어항공단)회계규정#JO0022",
             "reference_id": "SchlPubRul:(한국어촌어항공단)회계규정#JO0024",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국어촌어항공단) 회계규정/(한국어촌어항공단) 회계규정.json"
+            "target_git_path_guess": "(한국어촌어항공단) 회계규정/(한국어촌어항공단) 회계규정.json",
+            "target_git_path": "(한국어촌어항공단) 회계규정/(한국어촌어항공단) 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -497,7 +511,11 @@
             "source_provision_id": "SchlPubRul:(한국어촌어항공단)회계규정#JO0031",
             "reference_id": "SchlPubRul:(한국어촌어항공단)회계규정#JO0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국어촌어항공단) 회계규정/(한국어촌어항공단) 회계규정.json"
+            "target_git_path_guess": "(한국어촌어항공단) 회계규정/(한국어촌어항공단) 회계규정.json",
+            "target_git_path": "(한국어촌어항공단) 회계규정/(한국어촌어항공단) 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -551,7 +569,11 @@
             "source_provision_id": "SchlPubRul:(한국어촌어항공단)회계규정#JO0035",
             "reference_id": "SchlPubRul:(한국어촌어항공단)회계규정#JO0036",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국어촌어항공단) 회계규정/(한국어촌어항공단) 회계규정.json"
+            "target_git_path_guess": "(한국어촌어항공단) 회계규정/(한국어촌어항공단) 회계규정.json",
+            "target_git_path": "(한국어촌어항공단) 회계규정/(한국어촌어항공단) 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -638,7 +660,11 @@
             "source_provision_id": "SchlPubRul:(한국어촌어항공단)회계규정#JO0041",
             "reference_id": "SchlPubRul:(한국어촌어항공단)회계규정#JO0040",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국어촌어항공단) 회계규정/(한국어촌어항공단) 회계규정.json"
+            "target_git_path_guess": "(한국어촌어항공단) 회계규정/(한국어촌어항공단) 회계규정.json",
+            "target_git_path": "(한국어촌어항공단) 회계규정/(한국어촌어항공단) 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -670,7 +696,11 @@
             "source_provision_id": "SchlPubRul:(한국어촌어항공단)회계규정#JO0042",
             "reference_id": "SchlPubRul:(한국어촌어항공단)회계규정#JO0041",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국어촌어항공단) 회계규정/(한국어촌어항공단) 회계규정.json"
+            "target_git_path_guess": "(한국어촌어항공단) 회계규정/(한국어촌어항공단) 회계규정.json",
+            "target_git_path": "(한국어촌어항공단) 회계규정/(한국어촌어항공단) 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1021,7 +1051,11 @@
             "source_provision_id": "SchlPubRul:(한국어촌어항공단)회계규정#JO0072",
             "reference_id": "SchlPubRul:(한국어촌어항공단)회계규정#JO0065",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국어촌어항공단) 회계규정/(한국어촌어항공단) 회계규정.json"
+            "target_git_path_guess": "(한국어촌어항공단) 회계규정/(한국어촌어항공단) 회계규정.json",
+            "target_git_path": "(한국어촌어항공단) 회계규정/(한국어촌어항공단) 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1053,7 +1087,11 @@
             "source_provision_id": "SchlPubRul:(한국어촌어항공단)회계규정#JO0073",
             "reference_id": "SchlPubRul:(한국어촌어항공단)회계규정#JO0072",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국어촌어항공단) 회계규정/(한국어촌어항공단) 회계규정.json"
+            "target_git_path_guess": "(한국어촌어항공단) 회계규정/(한국어촌어항공단) 회계규정.json",
+            "target_git_path": "(한국어촌어항공단) 회계규정/(한국어촌어항공단) 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1173,7 +1211,9 @@
             "source_provision_id": "SchlPubRul:(한국어촌어항공단)회계규정#JO0082",
             "reference_id": "law:국가재정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가재정법/법률/국가재정법.json"
+            "target_git_path_guess": "국가재정법/법률/국가재정법.json",
+            "target_git_path": "국가재정법/법률/국가재정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1193,7 +1233,9 @@
             "source_provision_id": "SchlPubRul:(한국어촌어항공단)회계규정#JO0082",
             "reference_id": "law:국고금관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국고금관리법/법률/국고금관리법.json"
+            "target_git_path_guess": "국고금관리법/법률/국고금관리법.json",
+            "target_git_path": "국고금 관리법/법률/국고금 관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1233,7 +1275,9 @@
             "source_provision_id": "SchlPubRul:(한국어촌어항공단)회계규정#JO0082",
             "reference_id": "law:어촌어항법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "어촌ㆍ어항법/법률/어촌ㆍ어항법.json"
+            "target_git_path_guess": "어촌ㆍ어항법/법률/어촌ㆍ어항법.json",
+            "target_git_path": "어촌ㆍ어항법/법률/어촌ㆍ어항법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1270,7 +1314,11 @@
         "source_provision_id": "SchlPubRul:(한국어촌어항공단)회계규정#DOC",
         "reference_id": "SchlPubRul:(한국어촌어항공단)회계규정#JO0068",
         "target_repo": "SCHLPUBRUL",
-        "target_git_path_guess": "(한국어촌어항공단) 회계규정/(한국어촌어항공단) 회계규정.json"
+        "target_git_path_guess": "(한국어촌어항공단) 회계규정/(한국어촌어항공단) 회계규정.json",
+        "target_git_path": "(한국어촌어항공단) 회계규정/(한국어촌어항공단) 회계규정.json",
+        "target_source_repository": "SCHLPUBRUL",
+        "target_doc_target": "pi",
+        "target_doc_kind": "공단정관"
       }
     ]
   },

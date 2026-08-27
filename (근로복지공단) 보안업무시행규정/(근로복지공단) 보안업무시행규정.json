@@ -65,7 +65,11 @@
             "source_provision_id": "SchlPubRul:(근로복지공단)보안업무시행규정#JO0001",
             "reference_id": "admrul:고용노동부보안업무규정시행세칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고용노동부 보안업무규정 시행세칙/고용노동부 보안업무규정 시행세칙.json"
+            "target_git_path_guess": "고용노동부 보안업무규정 시행세칙/고용노동부 보안업무규정 시행세칙.json",
+            "target_git_path": "고용노동부 보안업무규정 시행세칙/고용노동부 보안업무규정 시행세칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -85,7 +89,11 @@
             "source_provision_id": "SchlPubRul:(근로복지공단)보안업무시행규정#JO0001",
             "reference_id": "admrul:고용노동부보안업무규정시행세칙#JO0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고용노동부 보안업무규정 시행세칙/고용노동부 보안업무규정 시행세칙.json"
+            "target_git_path_guess": "고용노동부 보안업무규정 시행세칙/고용노동부 보안업무규정 시행세칙.json",
+            "target_git_path": "고용노동부 보안업무규정 시행세칙/고용노동부 보안업무규정 시행세칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -128,7 +136,9 @@
             "source_provision_id": "SchlPubRul:(근로복지공단)보안업무시행규정#JO0003",
             "reference_id": "law:국가정보원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가정보원법/법률/국가정보원법.json"
+            "target_git_path_guess": "국가정보원법/법률/국가정보원법.json",
+            "target_git_path": "국가정보원법/법률/국가정보원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -148,7 +158,9 @@
             "source_provision_id": "SchlPubRul:(근로복지공단)보안업무시행규정#JO0003",
             "reference_id": "law:국가정보원법#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가정보원법/법률/국가정보원법.json"
+            "target_git_path_guess": "국가정보원법/법률/국가정보원법.json",
+            "target_git_path": "국가정보원법/법률/국가정보원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -168,7 +180,9 @@
             "source_provision_id": "SchlPubRul:(근로복지공단)보안업무시행규정#JO0003",
             "reference_id": "law:보안업무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -200,7 +214,9 @@
             "source_provision_id": "SchlPubRul:(근로복지공단)보안업무시행규정#JO0004",
             "reference_id": "law:보안업무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -220,7 +236,9 @@
             "source_provision_id": "SchlPubRul:(근로복지공단)보안업무시행규정#JO0004",
             "reference_id": "law:보안업무규정#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -268,7 +286,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(근로복지공단)보안업무시행규정#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json"
+            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_path": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_file_path": "(근로복지공단) 보안업무시행규정/별지/별지1_보안심사위원회 회의록.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -293,7 +316,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(근로복지공단)보안업무시행규정#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json"
+            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_path": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_file_path": "(근로복지공단) 보안업무시행규정/별지/별지2_보안심사위원회 의견서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -347,7 +375,11 @@
             "source_provision_id": "SchlPubRul:(근로복지공단)보안업무시행규정#JO0009",
             "reference_id": "admrul:고용노동부보안업무규정시행세칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고용노동부 보안업무규정 시행세칙/고용노동부 보안업무규정 시행세칙.json"
+            "target_git_path_guess": "고용노동부 보안업무규정 시행세칙/고용노동부 보안업무규정 시행세칙.json",
+            "target_git_path": "고용노동부 보안업무규정 시행세칙/고용노동부 보안업무규정 시행세칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -367,7 +399,11 @@
             "source_provision_id": "SchlPubRul:(근로복지공단)보안업무시행규정#JO0009",
             "reference_id": "admrul:고용노동부보안업무규정시행세칙#JO0010",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고용노동부 보안업무규정 시행세칙/고용노동부 보안업무규정 시행세칙.json"
+            "target_git_path_guess": "고용노동부 보안업무규정 시행세칙/고용노동부 보안업무규정 시행세칙.json",
+            "target_git_path": "고용노동부 보안업무규정 시행세칙/고용노동부 보안업무규정 시행세칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -399,7 +435,11 @@
             "source_provision_id": "SchlPubRul:(근로복지공단)보안업무시행규정#JO0010",
             "reference_id": "SchlPubRul:(근로복지공단)보안업무시행규정#JO0015",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json"
+            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_path": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -424,7 +464,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:(근로복지공단)보안업무시행규정#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json"
+            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_path": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_file_path": "(근로복지공단) 보안업무시행규정/별지/별지3_비밀·암호자재취급 인가(해제)신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -449,7 +494,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:(근로복지공단)보안업무시행규정#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json"
+            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_path": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_file_path": "(근로복지공단) 보안업무시행규정/별지/별지3_비밀·암호자재취급 인가(해제)신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -481,7 +531,11 @@
             "source_provision_id": "SchlPubRul:(근로복지공단)보안업무시행규정#JO0011",
             "reference_id": "SchlPubRul:(근로복지공단)보안업무시행규정#JO0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json"
+            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_path": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -529,7 +583,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:(근로복지공단)보안업무시행규정#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json"
+            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_path": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_file_path": "(근로복지공단) 보안업무시행규정/별지/별지4_비밀·암호자재취급 인가자명부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -566,7 +625,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:(근로복지공단)보안업무시행규정#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json"
+            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_path": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_file_path": "(근로복지공단) 보안업무시행규정/별지/별지5_비밀·암호자재 취급 인가증.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -591,7 +655,12 @@
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:(근로복지공단)보안업무시행규정#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json"
+            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_path": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_file_path": "(근로복지공단) 보안업무시행규정/별지/별지6_비밀·암호자재취급 인가증 발급대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -639,7 +708,12 @@
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:(근로복지공단)보안업무시행규정#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json"
+            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_path": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_file_path": "(근로복지공단) 보안업무시행규정/별지/별지7_서약서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -671,7 +745,9 @@
             "source_provision_id": "SchlPubRul:(근로복지공단)보안업무시행규정#JO0017",
             "reference_id": "law:보안업무규정#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -691,7 +767,11 @@
             "source_provision_id": "SchlPubRul:(근로복지공단)보안업무시행규정#JO0017",
             "reference_id": "admrul:보안업무규정시행규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json"
+            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json",
+            "target_git_path": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -711,7 +791,11 @@
             "source_provision_id": "SchlPubRul:(근로복지공단)보안업무시행규정#JO0017",
             "reference_id": "admrul:보안업무규정시행규칙#JO0056",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json"
+            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json",
+            "target_git_path": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -731,7 +815,9 @@
             "source_provision_id": "SchlPubRul:(근로복지공단)보안업무시행규정#JO0017",
             "reference_id": "law:보안업무규정#JO0046",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -751,7 +837,9 @@
             "source_provision_id": "SchlPubRul:(근로복지공단)보안업무시행규정#JO0017",
             "reference_id": "law:개인정보보호법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/시행령/개인정보 보호법 시행령.json"
+            "target_git_path_guess": "개인정보 보호법/시행령/개인정보 보호법 시행령.json",
+            "target_git_path": "개인정보 보호법/시행령/개인정보 보호법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -771,7 +859,9 @@
             "source_provision_id": "SchlPubRul:(근로복지공단)보안업무시행규정#JO0017",
             "reference_id": "law:개인정보보호법시행령#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/시행령/개인정보 보호법 시행령.json"
+            "target_git_path_guess": "개인정보 보호법/시행령/개인정보 보호법 시행령.json",
+            "target_git_path": "개인정보 보호법/시행령/개인정보 보호법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -808,7 +898,12 @@
             "target_unit": "BJ0009",
             "reference_id": "SchlPubRul:(근로복지공단)보안업무시행규정#BJ0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json"
+            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_path": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_file_path": "(근로복지공단) 보안업무시행규정/별지/별지9_신원조사대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -840,7 +935,9 @@
             "source_provision_id": "SchlPubRul:(근로복지공단)보안업무시행규정#JO0019",
             "reference_id": "law:공익신고자보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공익신고자보호법/법률/공익신고자보호법.json"
+            "target_git_path_guess": "공익신고자보호법/법률/공익신고자보호법.json",
+            "target_git_path": "공익신고자 보호법/법률/공익신고자 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -860,7 +957,9 @@
             "source_provision_id": "SchlPubRul:(근로복지공단)보안업무시행규정#JO0019",
             "reference_id": "law:공익신고자보호법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "공익신고자보호법/법률/공익신고자보호법.json"
+            "target_git_path_guess": "공익신고자보호법/법률/공익신고자보호법.json",
+            "target_git_path": "공익신고자 보호법/법률/공익신고자 보호법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -897,7 +996,12 @@
             "target_unit": "BJ0010",
             "reference_id": "SchlPubRul:(근로복지공단)보안업무시행규정#BJ0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json"
+            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_path": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_file_path": "(근로복지공단) 보안업무시행규정/별지/별지10_신원특이자명부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -940,7 +1044,11 @@
             "source_provision_id": "SchlPubRul:(근로복지공단)보안업무시행규정#JO0022",
             "reference_id": "admrul:고용노동부보안업무규정시행세칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고용노동부 보안업무규정 시행세칙/고용노동부 보안업무규정 시행세칙.json"
+            "target_git_path_guess": "고용노동부 보안업무규정 시행세칙/고용노동부 보안업무규정 시행세칙.json",
+            "target_git_path": "고용노동부 보안업무규정 시행세칙/고용노동부 보안업무규정 시행세칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -960,7 +1068,11 @@
             "source_provision_id": "SchlPubRul:(근로복지공단)보안업무시행규정#JO0022",
             "reference_id": "admrul:고용노동부보안업무규정시행세칙#JO0018",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고용노동부 보안업무규정 시행세칙/고용노동부 보안업무규정 시행세칙.json"
+            "target_git_path_guess": "고용노동부 보안업무규정 시행세칙/고용노동부 보안업무규정 시행세칙.json",
+            "target_git_path": "고용노동부 보안업무규정 시행세칙/고용노동부 보안업무규정 시행세칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1008,7 +1120,12 @@
             "target_unit": "BJ0026",
             "reference_id": "SchlPubRul:(근로복지공단)보안업무시행규정#BJ0026",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json"
+            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_path": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_file_path": "(근로복지공단) 보안업무시행규정/별지/별지26_보안진단서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1083,7 +1200,9 @@
             "source_provision_id": "SchlPubRul:(근로복지공단)보안업무시행규정#JO0027",
             "reference_id": "law:공공기록물관리에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물관리에관한법률/시행령/공공기록물관리에관한법률시행령.json"
+            "target_git_path_guess": "공공기록물관리에관한법률/시행령/공공기록물관리에관한법률시행령.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1103,7 +1222,9 @@
             "source_provision_id": "SchlPubRul:(근로복지공단)보안업무시행규정#JO0027",
             "reference_id": "law:공공기록물관리에관한법률시행령#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물관리에관한법률/시행령/공공기록물관리에관한법률시행령.json"
+            "target_git_path_guess": "공공기록물관리에관한법률/시행령/공공기록물관리에관한법률시행령.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1128,7 +1249,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(근로복지공단)보안업무시행규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json"
+            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_path": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_file_path": "(근로복지공단) 보안업무시행규정/별표/별표1_안전반출 및 파기계획.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1153,7 +1279,12 @@
             "target_unit": "BJ0014",
             "reference_id": "SchlPubRul:(근로복지공단)보안업무시행규정#BJ0014",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json"
+            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_path": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_file_path": "(근로복지공단) 보안업무시행규정/별지/별지14_접수증.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [
@@ -1224,7 +1355,9 @@
             "source_provision_id": "SchlPubRul:(근로복지공단)보안업무시행규정#JO0029",
             "reference_id": "law:보안업무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1244,7 +1377,9 @@
             "source_provision_id": "SchlPubRul:(근로복지공단)보안업무시행규정#JO0029",
             "reference_id": "law:보안업무규정#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1264,7 +1399,9 @@
             "source_provision_id": "SchlPubRul:(근로복지공단)보안업무시행규정#JO0029",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1284,7 +1421,9 @@
             "source_provision_id": "SchlPubRul:(근로복지공단)보안업무시행규정#JO0029",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1309,7 +1448,12 @@
             "target_unit": "BJ0012",
             "reference_id": "SchlPubRul:(근로복지공단)보안업무시행규정#BJ0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json"
+            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_path": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_file_path": "(근로복지공단) 보안업무시행규정/별지/별지12_대외비 관리기록부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -1329,7 +1473,9 @@
             "source_provision_id": "SchlPubRul:(근로복지공단)보안업무시행규정#JO0029",
             "reference_id": "law:공공기록물관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [
@@ -1398,7 +1544,12 @@
             "target_unit": "BJ0013",
             "reference_id": "SchlPubRul:(근로복지공단)보안업무시행규정#BJ0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json"
+            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_path": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_file_path": "(근로복지공단) 보안업무시행규정/별지/별지13_봉투서식.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1468,7 +1619,12 @@
             "target_unit": "BJ0014",
             "reference_id": "SchlPubRul:(근로복지공단)보안업무시행규정#BJ0014",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json"
+            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_path": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_file_path": "(근로복지공단) 보안업무시행규정/별지/별지14_접수증.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1537,7 +1693,12 @@
             "target_unit": "BJ0015",
             "reference_id": "SchlPubRul:(근로복지공단)보안업무시행규정#BJ0015",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json"
+            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_path": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_file_path": "(근로복지공단) 보안업무시행규정/별지/별지15_비밀(대외비) 문서복제복사승인대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1574,7 +1735,12 @@
             "target_unit": "BJ0016",
             "reference_id": "SchlPubRul:(근로복지공단)보안업무시행규정#BJ0016",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json"
+            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_path": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_file_path": "(근로복지공단) 보안업무시행규정/별지/별지16_비밀(대외비)문서발간의뢰서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1599,7 +1765,12 @@
             "target_unit": "BJ0017",
             "reference_id": "SchlPubRul:(근로복지공단)보안업무시행규정#BJ0017",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json"
+            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_path": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_file_path": "(근로복지공단) 보안업무시행규정/별지/별지17_비밀(대외비)문서발간승인서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1624,7 +1795,12 @@
             "target_unit": "BJ0018",
             "reference_id": "SchlPubRul:(근로복지공단)보안업무시행규정#BJ0018",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json"
+            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_path": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_file_path": "(근로복지공단) 보안업무시행규정/별지/별지18_비밀 (대외비) 문서발간통제대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1649,7 +1825,12 @@
             "target_unit": "BJ0019",
             "reference_id": "SchlPubRul:(근로복지공단)보안업무시행규정#BJ0019",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json"
+            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_path": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_file_path": "(근로복지공단) 보안업무시행규정/별지/별지19_비밀 (대외비) 문서발간일지.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [
@@ -1700,7 +1881,9 @@
             "source_provision_id": "SchlPubRul:(근로복지공단)보안업무시행규정#JO0041",
             "reference_id": "law:공공기록물관리에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1821,7 +2004,12 @@
             "target_unit": "BJ0011",
             "reference_id": "SchlPubRul:(근로복지공단)보안업무시행규정#BJ0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json"
+            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_path": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_file_path": "(근로복지공단) 보안업무시행규정/별지/별지11_비밀관리기록부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1846,7 +2034,12 @@
             "target_unit": "BJ0020",
             "reference_id": "SchlPubRul:(근로복지공단)보안업무시행규정#BJ0020",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json"
+            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_path": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_file_path": "(근로복지공단) 보안업무시행규정/별지/별지20_비밀(대외비) 접수 및 발송대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [
@@ -1977,7 +2170,12 @@
             "target_unit": "BJ0021",
             "reference_id": "SchlPubRul:(근로복지공단)보안업무시행규정#BJ0021",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json"
+            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_path": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_file_path": "(근로복지공단) 보안업무시행규정/별지/별지21_비밀대출부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2002,7 +2200,12 @@
             "target_unit": "BJ0022",
             "reference_id": "SchlPubRul:(근로복지공단)보안업무시행규정#BJ0022",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json"
+            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_path": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_file_path": "(근로복지공단) 보안업무시행규정/별지/별지22_비밀열람기록전.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2039,7 +2242,12 @@
             "target_unit": "BJ0023",
             "reference_id": "SchlPubRul:(근로복지공단)보안업무시행규정#BJ0023",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json"
+            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_path": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_file_path": "(근로복지공단) 보안업무시행규정/별지/별지23_비밀반출승인서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2071,7 +2279,9 @@
             "source_provision_id": "SchlPubRul:(근로복지공단)보안업무시행규정#JO0054",
             "reference_id": "law:공공기록물관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2091,7 +2301,9 @@
             "source_provision_id": "SchlPubRul:(근로복지공단)보안업무시행규정#JO0054",
             "reference_id": "law:공공기록물관리에관한법률#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2128,7 +2340,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(근로복지공단)보안업무시행규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json"
+            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_path": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_file_path": "(근로복지공단) 보안업무시행규정/별표/별표1_안전반출 및 파기계획.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2160,7 +2377,11 @@
             "source_provision_id": "SchlPubRul:(근로복지공단)보안업무시행규정#JO0056",
             "reference_id": "admrul:보안업무규정시행규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json"
+            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json",
+            "target_git_path": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -2183,9 +2404,14 @@
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(근로복지공단)보안업무시행규정#JO0056",
             "target_unit": "BJ0018",
-            "reference_id": "admrul:보안업무규정시행규칙#BJ0018",
+            "reference_id": "admrul:보안업무규정시행규칙#FORM0018",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json"
+            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json",
+            "target_git_path": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_git_file_path": "보안업무규정 시행규칙/서식/서식18_비밀소유현황.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -2205,7 +2431,11 @@
             "source_provision_id": "SchlPubRul:(근로복지공단)보안업무시행규정#JO0056",
             "reference_id": "admrul:보안업무규정시행규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json"
+            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json",
+            "target_git_path": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -2228,9 +2458,14 @@
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(근로복지공단)보안업무시행규정#JO0056",
             "target_unit": "BJ0018_02",
-            "reference_id": "admrul:보안업무규정시행규칙#BJ0018_02",
+            "reference_id": "admrul:보안업무규정시행규칙#FORM0018_02",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json"
+            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json",
+            "target_git_path": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_git_file_path": "보안업무규정 시행규칙/서식/서식18의2_비밀취급 인가자 현황.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -2262,7 +2497,9 @@
             "source_provision_id": "SchlPubRul:(근로복지공단)보안업무시행규정#JO0057",
             "reference_id": "law:공공기록물관리에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2310,7 +2547,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:(근로복지공단)보안업무시행규정#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json"
+            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_path": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_file_path": "(근로복지공단) 보안업무시행규정/별표/별표2_보호지역 설정기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2335,7 +2577,12 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:(근로복지공단)보안업무시행규정#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json"
+            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_path": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_file_path": "(근로복지공단) 보안업무시행규정/별표/별표3_보호지역 표지.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2372,7 +2619,12 @@
             "target_unit": "BJ0024",
             "reference_id": "SchlPubRul:(근로복지공단)보안업무시행규정#BJ0024",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json"
+            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_path": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_file_path": "(근로복지공단) 보안업무시행규정/별지/별지24_출입대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2409,7 +2661,12 @@
             "target_unit": "BJ0025",
             "reference_id": "SchlPubRul:(근로복지공단)보안업무시행규정#BJ0025",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json"
+            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_path": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_file_path": "(근로복지공단) 보안업무시행규정/별지/별지25_보호지역 출입자 명부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2452,7 +2709,11 @@
             "source_provision_id": "SchlPubRul:(근로복지공단)보안업무시행규정#JO0063",
             "reference_id": "admrul:고용노동부보안업무규정시행세칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고용노동부 보안업무규정 시행세칙/고용노동부 보안업무규정 시행세칙.json"
+            "target_git_path_guess": "고용노동부 보안업무규정 시행세칙/고용노동부 보안업무규정 시행세칙.json",
+            "target_git_path": "고용노동부 보안업무규정 시행세칙/고용노동부 보안업무규정 시행세칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -2472,7 +2733,11 @@
             "source_provision_id": "SchlPubRul:(근로복지공단)보안업무시행규정#JO0063",
             "reference_id": "admrul:고용노동부보안업무규정시행세칙#JO0055",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고용노동부 보안업무규정 시행세칙/고용노동부 보안업무규정 시행세칙.json"
+            "target_git_path_guess": "고용노동부 보안업무규정 시행세칙/고용노동부 보안업무규정 시행세칙.json",
+            "target_git_path": "고용노동부 보안업무규정 시행세칙/고용노동부 보안업무규정 시행세칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -2492,7 +2757,9 @@
             "source_provision_id": "SchlPubRul:(근로복지공단)보안업무시행규정#JO0063",
             "reference_id": "law:보안업무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2512,7 +2779,9 @@
             "source_provision_id": "SchlPubRul:(근로복지공단)보안업무시행규정#JO0063",
             "reference_id": "law:보안업무규정#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2532,7 +2801,9 @@
             "source_provision_id": "SchlPubRul:(근로복지공단)보안업무시행규정#JO0063",
             "reference_id": "law:보안업무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2552,7 +2823,9 @@
             "source_provision_id": "SchlPubRul:(근로복지공단)보안업무시행규정#JO0063",
             "reference_id": "law:보안업무규정#JO0038",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2584,7 +2857,11 @@
             "source_provision_id": "SchlPubRul:(근로복지공단)보안업무시행규정#JO0064",
             "reference_id": "SchlPubRul:(근로복지공단)보안업무시행규정#JO0063",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json"
+            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_path": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2616,7 +2893,9 @@
             "source_provision_id": "SchlPubRul:(근로복지공단)보안업무시행규정#JO0065",
             "reference_id": "law:보안업무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2636,7 +2915,9 @@
             "source_provision_id": "SchlPubRul:(근로복지공단)보안업무시행규정#JO0065",
             "reference_id": "law:보안업무규정#JO0041",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2656,7 +2937,11 @@
             "source_provision_id": "SchlPubRul:(근로복지공단)보안업무시행규정#JO0065",
             "reference_id": "admrul:고용노동부보안업무규정시행세칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고용노동부 보안업무규정 시행세칙/고용노동부 보안업무규정 시행세칙.json"
+            "target_git_path_guess": "고용노동부 보안업무규정 시행세칙/고용노동부 보안업무규정 시행세칙.json",
+            "target_git_path": "고용노동부 보안업무규정 시행세칙/고용노동부 보안업무규정 시행세칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -2676,7 +2961,11 @@
             "source_provision_id": "SchlPubRul:(근로복지공단)보안업무시행규정#JO0065",
             "reference_id": "admrul:고용노동부보안업무규정시행세칙#JO0056",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고용노동부 보안업무규정 시행세칙/고용노동부 보안업무규정 시행세칙.json"
+            "target_git_path_guess": "고용노동부 보안업무규정 시행세칙/고용노동부 보안업무규정 시행세칙.json",
+            "target_git_path": "고용노동부 보안업무규정 시행세칙/고용노동부 보안업무규정 시행세칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -2713,7 +3002,12 @@
             "target_unit": "BJ0026",
             "reference_id": "SchlPubRul:(근로복지공단)보안업무시행규정#BJ0026",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json"
+            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_path": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_file_path": "(근로복지공단) 보안업무시행규정/별지/별지26_보안진단서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2750,7 +3044,12 @@
             "target_unit": "BJ0026",
             "reference_id": "SchlPubRul:(근로복지공단)보안업무시행규정#BJ0026",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json"
+            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_path": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_file_path": "(근로복지공단) 보안업무시행규정/별지/별지26_보안진단서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2848,7 +3147,11 @@
             "source_provision_id": "SchlPubRul:(근로복지공단)보안업무시행규정#JO0074",
             "reference_id": "admrul:보안업무규정시행규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json"
+            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json",
+            "target_git_path": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -2871,9 +3174,14 @@
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(근로복지공단)보안업무시행규정#JO0074",
             "target_unit": "BJ0002",
-            "reference_id": "admrul:보안업무규정시행규칙#BJ0002",
+            "reference_id": "admrul:보안업무규정시행규칙#FORM0002",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json"
+            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json",
+            "target_git_path": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_git_file_path": "보안업무규정 시행규칙/서식/서식2_암호자재 증명서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -2893,7 +3201,11 @@
             "source_provision_id": "SchlPubRul:(근로복지공단)보안업무시행규정#JO0074",
             "reference_id": "admrul:보안업무규정시행규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json"
+            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json",
+            "target_git_path": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -2916,9 +3228,14 @@
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(근로복지공단)보안업무시행규정#JO0074",
             "target_unit": "BJ0003",
-            "reference_id": "admrul:보안업무규정시행규칙#BJ0003",
+            "reference_id": "admrul:보안업무규정시행규칙#FORM0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json"
+            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json",
+            "target_git_path": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_git_file_path": "보안업무규정 시행규칙/서식/서식3_암호자재 관리기록부.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -2938,7 +3255,11 @@
             "source_provision_id": "SchlPubRul:(근로복지공단)보안업무시행규정#JO0074",
             "reference_id": "SchlPubRul:(근로복지공단)보안업무시행규정#JO0046",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json"
+            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_path": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -2958,7 +3279,11 @@
             "source_provision_id": "SchlPubRul:(근로복지공단)보안업무시행규정#JO0074",
             "reference_id": "admrul:보안업무규정시행규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json"
+            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json",
+            "target_git_path": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -2981,9 +3306,14 @@
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(근로복지공단)보안업무시행규정#JO0074",
             "target_unit": "BJ0004",
-            "reference_id": "admrul:보안업무규정시행규칙#BJ0004",
+            "reference_id": "admrul:보안업무규정시행규칙#FORM0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json"
+            "target_git_path_guess": "보안업무규정시행규칙/보안업무규정시행규칙.json",
+            "target_git_path": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_git_file_path": "보안업무규정 시행규칙/서식/서식4_암호자재 점검기록부.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -3118,7 +3448,12 @@
             "target_unit": "BJ0018",
             "reference_id": "SchlPubRul:(근로복지공단)보안업무시행규정#BJ0018",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json"
+            "target_git_path_guess": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_path": "(근로복지공단) 보안업무시행규정/(근로복지공단) 보안업무시행규정.json",
+            "target_git_file_path": "(근로복지공단) 보안업무시행규정/별지/별지18_비밀 (대외비) 문서발간통제대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -3183,7 +3518,9 @@
             "source_provision_id": "SchlPubRul:(근로복지공단)보안업무시행규정#JO0087",
             "reference_id": "law:공공기록물관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

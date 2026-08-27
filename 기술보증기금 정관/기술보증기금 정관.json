@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:기술보증기금정관#JO0001",
             "reference_id": "law:기술보증기금법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "기술보증기금법/법률/기술보증기금법.json"
+            "target_git_path_guess": "기술보증기금법/법률/기술보증기금법.json",
+            "target_git_path": "기술보증기금법/법률/기술보증기금법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -174,7 +176,9 @@
             "source_provision_id": "SchlPubRul:기술보증기금정관#JO0009",
             "reference_id": "law:중소기업은행법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업은행법/법률/중소기업은행법.json"
+            "target_git_path_guess": "중소기업은행법/법률/중소기업은행법.json",
+            "target_git_path": "중소기업은행법/법률/중소기업은행법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -194,7 +198,9 @@
             "source_provision_id": "SchlPubRul:기술보증기금정관#JO0009",
             "reference_id": "law:상공회의소법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "상공회의소법/법률/상공회의소법.json"
+            "target_git_path_guess": "상공회의소법/법률/상공회의소법.json",
+            "target_git_path": "상공회의소법/법률/상공회의소법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -214,7 +220,9 @@
             "source_provision_id": "SchlPubRul:기술보증기금정관#JO0009",
             "reference_id": "law:중소기업협동조합법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업협동조합법/법률/중소기업협동조합법.json"
+            "target_git_path_guess": "중소기업협동조합법/법률/중소기업협동조합법.json",
+            "target_git_path": "중소기업협동조합법/법률/중소기업협동조합법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -334,7 +342,9 @@
             "source_provision_id": "SchlPubRul:기술보증기금정관#JO0018",
             "reference_id": "law:상법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "상법/법률/상법.json"
+            "target_git_path_guess": "상법/법률/상법.json",
+            "target_git_path": "상법/법률/상법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -354,7 +364,9 @@
             "source_provision_id": "SchlPubRul:기술보증기금정관#JO0018",
             "reference_id": "law:상법#JO0391",
             "target_repo": "LAW",
-            "target_git_path_guess": "상법/법률/상법.json"
+            "target_git_path_guess": "상법/법률/상법.json",
+            "target_git_path": "상법/법률/상법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -374,7 +386,9 @@
             "source_provision_id": "SchlPubRul:기술보증기금정관#JO0018",
             "reference_id": "law:상법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "상법/법률/상법.json"
+            "target_git_path_guess": "상법/법률/상법.json",
+            "target_git_path": "상법/법률/상법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -394,7 +408,9 @@
             "source_provision_id": "SchlPubRul:기술보증기금정관#JO0018",
             "reference_id": "law:상법#JO0391_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "상법/법률/상법.json"
+            "target_git_path_guess": "상법/법률/상법.json",
+            "target_git_path": "상법/법률/상법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -459,7 +475,11 @@
             "source_provision_id": "SchlPubRul:기술보증기금정관#JO0021_02",
             "reference_id": "SchlPubRul:기술보증기금정관#JO0021",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "기술보증기금 정관/기술보증기금 정관.json"
+            "target_git_path_guess": "기술보증기금 정관/기술보증기금 정관.json",
+            "target_git_path": "기술보증기금 정관/기술보증기금 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -479,7 +499,9 @@
             "source_provision_id": "SchlPubRul:기술보증기금정관#JO0021_02",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -499,7 +521,9 @@
             "source_provision_id": "SchlPubRul:기술보증기금정관#JO0021_02",
             "reference_id": "law:공공기관의운영에관한법률#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -531,7 +555,11 @@
             "source_provision_id": "SchlPubRul:기술보증기금정관#JO0022",
             "reference_id": "SchlPubRul:기술보증기금정관#JO0017",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "기술보증기금 정관/기술보증기금 정관.json"
+            "target_git_path_guess": "기술보증기금 정관/기술보증기금 정관.json",
+            "target_git_path": "기술보증기금 정관/기술보증기금 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -629,7 +657,9 @@
             "source_provision_id": "SchlPubRul:기술보증기금정관#JO0029",
             "reference_id": "law:기술의이전및사업화촉진에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "기술의 이전 및 사업화 촉진에 관한 법률/법률/기술의 이전 및 사업화 촉진에 관한 법률.json"
+            "target_git_path_guess": "기술의 이전 및 사업화 촉진에 관한 법률/법률/기술의 이전 및 사업화 촉진에 관한 법률.json",
+            "target_git_path": "기술의 이전 및 사업화 촉진에 관한 법률/법률/기술의 이전 및 사업화 촉진에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -661,7 +691,9 @@
             "source_provision_id": "SchlPubRul:기술보증기금정관#JO0030",
             "reference_id": "law:기술보증기금법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "기술보증기금법/법률/기술보증기금법.json"
+            "target_git_path_guess": "기술보증기금법/법률/기술보증기금법.json",
+            "target_git_path": "기술보증기금법/법률/기술보증기금법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -681,7 +713,9 @@
             "source_provision_id": "SchlPubRul:기술보증기금정관#JO0030",
             "reference_id": "law:기술보증기금법#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "기술보증기금법/법률/기술보증기금법.json"
+            "target_git_path_guess": "기술보증기금법/법률/기술보증기금법.json",
+            "target_git_path": "기술보증기금법/법률/기술보증기금법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -701,7 +735,9 @@
             "source_provision_id": "SchlPubRul:기술보증기금정관#JO0030",
             "reference_id": "law:기술보증기금법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "기술보증기금법/법률/기술보증기금법.json"
+            "target_git_path_guess": "기술보증기금법/법률/기술보증기금법.json",
+            "target_git_path": "기술보증기금법/법률/기술보증기금법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -721,7 +757,9 @@
             "source_provision_id": "SchlPubRul:기술보증기금정관#JO0030",
             "reference_id": "law:기술보증기금법#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "기술보증기금법/법률/기술보증기금법.json"
+            "target_git_path_guess": "기술보증기금법/법률/기술보증기금법.json",
+            "target_git_path": "기술보증기금법/법률/기술보증기금법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -741,7 +779,9 @@
             "source_provision_id": "SchlPubRul:기술보증기금정관#JO0030",
             "reference_id": "law:기술보증기금법#JO0033_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "기술보증기금법/법률/기술보증기금법.json"
+            "target_git_path_guess": "기술보증기금법/법률/기술보증기금법.json",
+            "target_git_path": "기술보증기금법/법률/기술보증기금법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -761,7 +801,9 @@
             "source_provision_id": "SchlPubRul:기술보증기금정관#JO0030",
             "reference_id": "law:기술보증기금법#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "기술보증기금법/법률/기술보증기금법.json"
+            "target_git_path_guess": "기술보증기금법/법률/기술보증기금법.json",
+            "target_git_path": "기술보증기금법/법률/기술보증기금법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -781,7 +823,9 @@
             "source_provision_id": "SchlPubRul:기술보증기금정관#JO0030",
             "reference_id": "law:기술보증기금법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "기술보증기금법/법률/기술보증기금법.json"
+            "target_git_path_guess": "기술보증기금법/법률/기술보증기금법.json",
+            "target_git_path": "기술보증기금법/법률/기술보증기금법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -801,7 +845,9 @@
             "source_provision_id": "SchlPubRul:기술보증기금정관#JO0030",
             "reference_id": "law:기술보증기금법#JO0028_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "기술보증기금법/법률/기술보증기금법.json"
+            "target_git_path_guess": "기술보증기금법/법률/기술보증기금법.json",
+            "target_git_path": "기술보증기금법/법률/기술보증기금법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -821,7 +867,9 @@
             "source_provision_id": "SchlPubRul:기술보증기금정관#JO0030",
             "reference_id": "law:기술보증기금법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "기술보증기금법/법률/기술보증기금법.json"
+            "target_git_path_guess": "기술보증기금법/법률/기술보증기금법.json",
+            "target_git_path": "기술보증기금법/법률/기술보증기금법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -841,7 +889,9 @@
             "source_provision_id": "SchlPubRul:기술보증기금정관#JO0030",
             "reference_id": "law:기술보증기금법#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "기술보증기금법/법률/기술보증기금법.json"
+            "target_git_path_guess": "기술보증기금법/법률/기술보증기금법.json",
+            "target_git_path": "기술보증기금법/법률/기술보증기금법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -873,7 +923,9 @@
             "source_provision_id": "SchlPubRul:기술보증기금정관#JO0031",
             "reference_id": "law:자산유동화에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "자산유동화에 관한 법률/법률/자산유동화에 관한 법률.json"
+            "target_git_path_guess": "자산유동화에 관한 법률/법률/자산유동화에 관한 법률.json",
+            "target_git_path": "자산유동화에 관한 법률/법률/자산유동화에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -893,7 +945,9 @@
             "source_provision_id": "SchlPubRul:기술보증기금정관#JO0031",
             "reference_id": "law:자산유동화에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "자산유동화에 관한 법률/법률/자산유동화에 관한 법률.json"
+            "target_git_path_guess": "자산유동화에 관한 법률/법률/자산유동화에 관한 법률.json",
+            "target_git_path": "자산유동화에 관한 법률/법률/자산유동화에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -936,7 +990,11 @@
             "source_provision_id": "SchlPubRul:기술보증기금정관#JO0032_02",
             "reference_id": "SchlPubRul:기술보증기금정관#JO0029",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "기술보증기금 정관/기술보증기금 정관.json"
+            "target_git_path_guess": "기술보증기금 정관/기술보증기금 정관.json",
+            "target_git_path": "기술보증기금 정관/기술보증기금 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -956,7 +1014,11 @@
             "source_provision_id": "SchlPubRul:기술보증기금정관#JO0032_02",
             "reference_id": "SchlPubRul:기술보증기금정관#JO0029",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "기술보증기금 정관/기술보증기금 정관.json"
+            "target_git_path_guess": "기술보증기금 정관/기술보증기금 정관.json",
+            "target_git_path": "기술보증기금 정관/기술보증기금 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -976,7 +1038,9 @@
             "source_provision_id": "SchlPubRul:기술보증기금정관#JO0032_02",
             "reference_id": "law:한국자산관리공사설립등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국자산관리공사 설립 등에 관한 법률/법률/한국자산관리공사 설립 등에 관한 법률.json"
+            "target_git_path_guess": "한국자산관리공사 설립 등에 관한 법률/법률/한국자산관리공사 설립 등에 관한 법률.json",
+            "target_git_path": "한국자산관리공사 설립 등에 관한 법률/법률/한국자산관리공사 설립 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -996,7 +1060,11 @@
             "source_provision_id": "SchlPubRul:기술보증기금정관#JO0032_02",
             "reference_id": "SchlPubRul:기술보증기금정관#JO0029",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "기술보증기금 정관/기술보증기금 정관.json"
+            "target_git_path_guess": "기술보증기금 정관/기술보증기금 정관.json",
+            "target_git_path": "기술보증기금 정관/기술보증기금 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -1016,7 +1084,9 @@
             "source_provision_id": "SchlPubRul:기술보증기금정관#JO0032_02",
             "reference_id": "law:신용정보의이용및보호에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "신용정보의 이용 및 보호에 관한 법률/법률/신용정보의 이용 및 보호에 관한 법률.json"
+            "target_git_path_guess": "신용정보의 이용 및 보호에 관한 법률/법률/신용정보의 이용 및 보호에 관한 법률.json",
+            "target_git_path": "신용정보의 이용 및 보호에 관한 법률/법률/신용정보의 이용 및 보호에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1036,7 +1106,9 @@
             "source_provision_id": "SchlPubRul:기술보증기금정관#JO0032_02",
             "reference_id": "law:신용정보의이용및보호에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "신용정보의 이용 및 보호에 관한 법률/법률/신용정보의 이용 및 보호에 관한 법률.json"
+            "target_git_path_guess": "신용정보의 이용 및 보호에 관한 법률/법률/신용정보의 이용 및 보호에 관한 법률.json",
+            "target_git_path": "신용정보의 이용 및 보호에 관한 법률/법률/신용정보의 이용 및 보호에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1056,7 +1128,11 @@
             "source_provision_id": "SchlPubRul:기술보증기금정관#JO0032_02",
             "reference_id": "SchlPubRul:기술보증기금정관#JO0029",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "기술보증기금 정관/기술보증기금 정관.json"
+            "target_git_path_guess": "기술보증기금 정관/기술보증기금 정관.json",
+            "target_git_path": "기술보증기금 정관/기술보증기금 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1121,7 +1197,9 @@
             "source_provision_id": "SchlPubRul:기술보증기금정관#JO0035",
             "reference_id": "law:국가재정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가재정법/법률/국가재정법.json"
+            "target_git_path_guess": "국가재정법/법률/국가재정법.json",
+            "target_git_path": "국가재정법/법률/국가재정법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1219,7 +1297,11 @@
             "source_provision_id": "SchlPubRul:기술보증기금정관#JO0042",
             "reference_id": "SchlPubRul:기술보증기금정관#JO0040",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "기술보증기금 정관/기술보증기금 정관.json"
+            "target_git_path_guess": "기술보증기금 정관/기술보증기금 정관.json",
+            "target_git_path": "기술보증기금 정관/기술보증기금 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

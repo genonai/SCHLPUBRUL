@@ -76,7 +76,9 @@
             "source_provision_id": "SchlPubRul:복리후생규정:public_2128229#JO0002",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -96,7 +98,9 @@
             "source_provision_id": "SchlPubRul:복리후생규정:public_2128229#JO0002",
             "reference_id": "law:산업재해보상보험법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업재해보상보험법/법률/산업재해보상보험법.json"
+            "target_git_path_guess": "산업재해보상보험법/법률/산업재해보상보험법.json",
+            "target_git_path": "산업재해보상보험법/법률/산업재해보상보험법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -177,7 +181,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:복리후생규정:public_2128229#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "복리후생규정/복리후생규정.json"
+            "target_git_path_guess": "복리후생규정/복리후생규정.json",
+            "target_git_path": "복리후생규정/public_2128229/복리후생규정.json",
+            "target_git_file_path": "복리후생규정/public_2128229/별표/별표1_복리후생비 지급구분표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -264,7 +273,11 @@
             "source_provision_id": "SchlPubRul:복리후생규정:public_2128229#JO0013",
             "reference_id": "SchlPubRul:복리후생규정:public_2128229#JO0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "복리후생규정/복리후생규정.json"
+            "target_git_path_guess": "복리후생규정/복리후생규정.json",
+            "target_git_path": "복리후생규정/public_2128229/복리후생규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -282,9 +295,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/보수규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:복리후생규정:public_2128229#JO0013",
-            "reference_id": "SchlPubRul:보수규정#DOC",
+            "reference_id": "SchlPubRul:보수규정:public_2128339#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "보수규정/보수규정.json"
+            "target_git_path_guess": "보수규정/보수규정.json",
+            "target_candidates": 3,
+            "target_git_path": "보수규정/public_2128339/보수규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -302,9 +320,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/보수규정/제9조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:복리후생규정:public_2128229#JO0013",
-            "reference_id": "SchlPubRul:보수규정#JO0009",
+            "reference_id": "SchlPubRul:보수규정:public_2128339#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "보수규정/보수규정.json"
+            "target_git_path_guess": "보수규정/보수규정.json",
+            "target_candidates": 3,
+            "target_git_path": "보수규정/public_2128339/보수규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -336,7 +359,9 @@
             "source_provision_id": "SchlPubRul:복리후생규정:public_2128229#JO0014",
             "reference_id": "law:산업재해보상보험법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업재해보상보험법/법률/산업재해보상보험법.json"
+            "target_git_path_guess": "산업재해보상보험법/법률/산업재해보상보험법.json",
+            "target_git_path": "산업재해보상보험법/법률/산업재해보상보험법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -356,7 +381,9 @@
             "source_provision_id": "SchlPubRul:복리후생규정:public_2128229#JO0014",
             "reference_id": "law:산업재해보상보험법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업재해보상보험법/법률/산업재해보상보험법.json"
+            "target_git_path_guess": "산업재해보상보험법/법률/산업재해보상보험법.json",
+            "target_git_path": "산업재해보상보험법/법률/산업재해보상보험법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -388,7 +415,9 @@
             "source_provision_id": "SchlPubRul:복리후생규정:public_2128229#JO0015",
             "reference_id": "law:산업재해보상보험법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업재해보상보험법/법률/산업재해보상보험법.json"
+            "target_git_path_guess": "산업재해보상보험법/법률/산업재해보상보험법.json",
+            "target_git_path": "산업재해보상보험법/법률/산업재해보상보험법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -420,7 +449,9 @@
             "source_provision_id": "SchlPubRul:복리후생규정:public_2128229#JO0016",
             "reference_id": "law:산업재해보상보험법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업재해보상보험법/법률/산업재해보상보험법.json"
+            "target_git_path_guess": "산업재해보상보험법/법률/산업재해보상보험법.json",
+            "target_git_path": "산업재해보상보험법/법률/산업재해보상보험법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -452,7 +483,11 @@
             "source_provision_id": "SchlPubRul:복리후생규정:public_2128229#JO0017",
             "reference_id": "SchlPubRul:복리후생규정:public_2128229#JO0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "복리후생규정/복리후생규정.json"
+            "target_git_path_guess": "복리후생규정/복리후생규정.json",
+            "target_git_path": "복리후생규정/public_2128229/복리후생규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -484,7 +519,9 @@
             "source_provision_id": "SchlPubRul:복리후생규정:public_2128229#JO0018",
             "reference_id": "law:민법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -504,7 +541,9 @@
             "source_provision_id": "SchlPubRul:복리후생규정:public_2128229#JO0018",
             "reference_id": "law:산업재해보상보험법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업재해 보상보험법/법률/산업재해 보상보험법.json"
+            "target_git_path_guess": "산업재해 보상보험법/법률/산업재해 보상보험법.json",
+            "target_git_path": "산업재해보상보험법/법률/산업재해보상보험법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -547,7 +586,9 @@
             "source_provision_id": "SchlPubRul:복리후생규정:public_2128229#JO0020",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -567,7 +608,9 @@
             "source_provision_id": "SchlPubRul:복리후생규정:public_2128229#JO0020",
             "reference_id": "law:산업재해보상보험법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업재해보상보험법/법률/산업재해보상보험법.json"
+            "target_git_path_guess": "산업재해보상보험법/법률/산업재해보상보험법.json",
+            "target_git_path": "산업재해보상보험법/법률/산업재해보상보험법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -702,5 +745,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "복리후생규정/public_2128229/복리후생규정.json"
+  "git_path": "복리후생규정/public_2128229/복리후생규정.json",
+  "_schlpub_id_suffix": "public_2128229"
 }

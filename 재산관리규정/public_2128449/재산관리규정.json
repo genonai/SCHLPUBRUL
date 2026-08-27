@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:재산관리규정:public_2128449#JO0001",
             "reference_id": "law:지방공기업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -192,7 +194,11 @@
             "source_provision_id": "SchlPubRul:재산관리규정:public_2128449#JO0009",
             "reference_id": "SchlPubRul:재산관리규정:public_2128449#JO0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "재산관리규정/재산관리규정.json"
+            "target_git_path_guess": "재산관리규정/재산관리규정.json",
+            "target_git_path": "재산관리규정/public_2128449/재산관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -360,7 +366,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:재산관리규정:public_2128449#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "재산관리규정/재산관리규정.json"
+            "target_git_path_guess": "재산관리규정/재산관리규정.json",
+            "target_git_path": "재산관리규정/public_2128449/재산관리규정.json",
+            "target_git_file_path": "재산관리규정/public_2128449/별지/별지1_교환계약서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -392,7 +403,11 @@
             "source_provision_id": "SchlPubRul:재산관리규정:public_2128449#JO0022",
             "reference_id": "SchlPubRul:재산관리규정:public_2128449#JO0021",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "재산관리규정/재산관리규정.json"
+            "target_git_path_guess": "재산관리규정/재산관리규정.json",
+            "target_git_path": "재산관리규정/public_2128449/재산관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -429,7 +444,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:재산관리규정:public_2128449#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "재산관리규정/재산관리규정.json"
+            "target_git_path_guess": "재산관리규정/재산관리규정.json",
+            "target_git_path": "재산관리규정/public_2128449/재산관리규정.json",
+            "target_git_file_path": "재산관리규정/public_2128449/별지/별지2_재산가격평정조서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -454,7 +474,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:재산관리규정:public_2128449#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "재산관리규정/재산관리규정.json"
+            "target_git_path_guess": "재산관리규정/재산관리규정.json",
+            "target_git_path": "재산관리규정/public_2128449/재산관리규정.json",
+            "target_git_file_path": "재산관리규정/public_2128449/별지/별지3_매매실례조서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -474,7 +499,9 @@
             "source_provision_id": "SchlPubRul:재산관리규정:public_2128449#JO0023",
             "reference_id": "law:공유재산및물품관리법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공유재산 및 물품 관리법/시행령/공유재산 및 물품 관리법 시행령.json"
+            "target_git_path_guess": "공유재산 및 물품 관리법/시행령/공유재산 및 물품 관리법 시행령.json",
+            "target_git_path": "공유재산 및 물품 관리법/시행령/공유재산 및 물품 관리법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -494,7 +521,9 @@
             "source_provision_id": "SchlPubRul:재산관리규정:public_2128449#JO0023",
             "reference_id": "law:공유재산및물품관리법시행령#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "공유재산 및 물품 관리법/시행령/공유재산 및 물품 관리법 시행령.json"
+            "target_git_path_guess": "공유재산 및 물품 관리법/시행령/공유재산 및 물품 관리법 시행령.json",
+            "target_git_path": "공유재산 및 물품 관리법/시행령/공유재산 및 물품 관리법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -526,7 +555,9 @@
             "source_provision_id": "SchlPubRul:재산관리규정:public_2128449#JO0024",
             "reference_id": "law:건축법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건축법/법률/건축법.json"
+            "target_git_path_guess": "건축법/법률/건축법.json",
+            "target_git_path": "건축법/법률/건축법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -546,7 +577,9 @@
             "source_provision_id": "SchlPubRul:재산관리규정:public_2128449#JO0024",
             "reference_id": "law:국민기초생활보장법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민기초생활보장법/법률/국민기초생활보장법.json"
+            "target_git_path_guess": "국민기초생활보장법/법률/국민기초생활보장법.json",
+            "target_git_path": "국민기초생활 보장법/법률/국민기초생활 보장법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -566,7 +599,9 @@
             "source_provision_id": "SchlPubRul:재산관리규정:public_2128449#JO0024",
             "reference_id": "law:국민기초생활보장법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민기초생활보장법/법률/국민기초생활보장법.json"
+            "target_git_path_guess": "국민기초생활보장법/법률/국민기초생활보장법.json",
+            "target_git_path": "국민기초생활 보장법/법률/국민기초생활 보장법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -598,7 +633,9 @@
             "source_provision_id": "SchlPubRul:재산관리규정:public_2128449#JO0025",
             "reference_id": "law:국유재산법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국유재산법/법률/국유재산법.json"
+            "target_git_path_guess": "국유재산법/법률/국유재산법.json",
+            "target_git_path": "국유재산법/법률/국유재산법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -618,7 +655,9 @@
             "source_provision_id": "SchlPubRul:재산관리규정:public_2128449#JO0025",
             "reference_id": "law:공유재산및물품관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공유재산 및 물품관리법/법률/공유재산 및 물품관리법.json"
+            "target_git_path_guess": "공유재산 및 물품관리법/법률/공유재산 및 물품관리법.json",
+            "target_git_path": "공유재산 및 물품 관리법/법률/공유재산 및 물품 관리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -655,7 +694,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:재산관리규정:public_2128449#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "재산관리규정/재산관리규정.json"
+            "target_git_path_guess": "재산관리규정/재산관리규정.json",
+            "target_git_path": "재산관리규정/public_2128449/재산관리규정.json",
+            "target_git_file_path": "재산관리규정/public_2128449/별지/별지4_대부(사용허가) 신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -680,7 +724,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:재산관리규정:public_2128449#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "재산관리규정/재산관리규정.json"
+            "target_git_path_guess": "재산관리규정/재산관리규정.json",
+            "target_git_path": "재산관리규정/public_2128449/재산관리규정.json",
+            "target_git_file_path": "재산관리규정/public_2128449/별지/별지5_재산(유상, 무상) 사용허가서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -705,7 +754,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:재산관리규정:public_2128449#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "재산관리규정/재산관리규정.json"
+            "target_git_path_guess": "재산관리규정/재산관리규정.json",
+            "target_git_path": "재산관리규정/public_2128449/재산관리규정.json",
+            "target_git_file_path": "재산관리규정/public_2128449/별지/별지5_재산(유상, 무상) 사용허가서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -730,7 +784,12 @@
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:재산관리규정:public_2128449#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "재산관리규정/재산관리규정.json"
+            "target_git_path_guess": "재산관리규정/재산관리규정.json",
+            "target_git_path": "재산관리규정/public_2128449/재산관리규정.json",
+            "target_git_file_path": "재산관리규정/public_2128449/별지/별지6_재산대부계약서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -784,7 +843,9 @@
             "source_provision_id": "SchlPubRul:재산관리규정:public_2128449#JO0029",
             "reference_id": "law:건축법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건축법/법률/건축법.json"
+            "target_git_path_guess": "건축법/법률/건축법.json",
+            "target_git_path": "건축법/법률/건축법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -804,7 +865,9 @@
             "source_provision_id": "SchlPubRul:재산관리규정:public_2128449#JO0029",
             "reference_id": "law:외국인투자촉진법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "외국인투자 촉진법/법률/외국인투자 촉진법.json"
+            "target_git_path_guess": "외국인투자 촉진법/법률/외국인투자 촉진법.json",
+            "target_git_path": "외국인투자 촉진법/법률/외국인투자 촉진법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -824,7 +887,9 @@
             "source_provision_id": "SchlPubRul:재산관리규정:public_2128449#JO0029",
             "reference_id": "law:외국인투자촉진법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "외국인투자 촉진법/법률/외국인투자 촉진법.json"
+            "target_git_path_guess": "외국인투자 촉진법/법률/외국인투자 촉진법.json",
+            "target_git_path": "외국인투자 촉진법/법률/외국인투자 촉진법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -849,7 +914,12 @@
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:재산관리규정:public_2128449#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "재산관리규정/재산관리규정.json"
+            "target_git_path_guess": "재산관리규정/재산관리규정.json",
+            "target_git_path": "재산관리규정/public_2128449/재산관리규정.json",
+            "target_git_file_path": "재산관리규정/public_2128449/별지/별지7_재산매매계약서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -874,7 +944,12 @@
             "target_unit": "BJ0012",
             "reference_id": "SchlPubRul:재산관리규정:public_2128449#BJ0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "재산관리규정/재산관리규정.json"
+            "target_git_path_guess": "재산관리규정/재산관리규정.json",
+            "target_git_path": "재산관리규정/public_2128449/재산관리규정.json",
+            "target_git_file_path": "재산관리규정/public_2128449/별지/별지12_주식양도·양수계약서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -906,7 +981,11 @@
             "source_provision_id": "SchlPubRul:재산관리규정:public_2128449#JO0030",
             "reference_id": "SchlPubRul:재산관리규정:public_2128449#JO0029",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "재산관리규정/재산관리규정.json"
+            "target_git_path_guess": "재산관리규정/재산관리규정.json",
+            "target_git_path": "재산관리규정/public_2128449/재산관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -954,7 +1033,12 @@
             "target_unit": "BJ0008",
             "reference_id": "SchlPubRul:재산관리규정:public_2128449#BJ0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "재산관리규정/재산관리규정.json"
+            "target_git_path_guess": "재산관리규정/재산관리규정.json",
+            "target_git_path": "재산관리규정/public_2128449/재산관리규정.json",
+            "target_git_file_path": "재산관리규정/public_2128449/별지/별지8_재산대부 및 사용정리부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -991,7 +1075,12 @@
             "target_unit": "BJ0009",
             "reference_id": "SchlPubRul:재산관리규정:public_2128449#BJ0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "재산관리규정/재산관리규정.json"
+            "target_git_path_guess": "재산관리규정/재산관리규정.json",
+            "target_git_path": "재산관리규정/public_2128449/재산관리규정.json",
+            "target_git_file_path": "재산관리규정/public_2128449/별지/별지9_재산관리대장(토지).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1028,7 +1117,12 @@
             "target_unit": "BJ0010",
             "reference_id": "SchlPubRul:재산관리규정:public_2128449#BJ0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "재산관리규정/재산관리규정.json"
+            "target_git_path_guess": "재산관리규정/재산관리규정.json",
+            "target_git_path": "재산관리규정/public_2128449/재산관리규정.json",
+            "target_git_file_path": "재산관리규정/public_2128449/별지/별지10_재산증감 이동 보고서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1065,7 +1159,12 @@
             "target_unit": "BJ0011",
             "reference_id": "SchlPubRul:재산관리규정:public_2128449#BJ0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "재산관리규정/재산관리규정.json"
+            "target_git_path_guess": "재산관리규정/재산관리규정.json",
+            "target_git_path": "재산관리규정/public_2128449/재산관리규정.json",
+            "target_git_file_path": "재산관리규정/public_2128449/별지/별지11_임차재산대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1097,7 +1196,11 @@
             "source_provision_id": "SchlPubRul:재산관리규정:public_2128449#JO0036",
             "reference_id": "SchlPubRul:재산관리규정:public_2128449#JO0024",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "재산관리규정/재산관리규정.json"
+            "target_git_path_guess": "재산관리규정/재산관리규정.json",
+            "target_git_path": "재산관리규정/public_2128449/재산관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1134,7 +1237,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:재산관리규정:public_2128449#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "재산관리규정/재산관리규정.json"
+            "target_git_path_guess": "재산관리규정/재산관리규정.json",
+            "target_git_path": "재산관리규정/public_2128449/재산관리규정.json",
+            "target_git_file_path": "재산관리규정/public_2128449/별표/별표1_매각수수료의 지급 기준표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1166,7 +1274,9 @@
             "source_provision_id": "SchlPubRul:재산관리규정:public_2128449#JO0038",
             "reference_id": "law:공유재산및물품관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공유재산 및 물품관리법/법률/공유재산 및 물품관리법.json"
+            "target_git_path_guess": "공유재산 및 물품관리법/법률/공유재산 및 물품관리법.json",
+            "target_git_path": "공유재산 및 물품 관리법/법률/공유재산 및 물품 관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1186,7 +1296,9 @@
             "source_provision_id": "SchlPubRul:재산관리규정:public_2128449#JO0038",
             "reference_id": "law:지방자치단체를당사자로하는계약에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방자치단체를 당사자로 하는 계약에 관한 법률/법률/지방자치단체를 당사자로 하는 계약에 관한 법률.json"
+            "target_git_path_guess": "지방자치단체를 당사자로 하는 계약에 관한 법률/법률/지방자치단체를 당사자로 하는 계약에 관한 법률.json",
+            "target_git_path": "지방자치단체를 당사자로 하는 계약에 관한 법률/법률/지방자치단체를 당사자로 하는 계약에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1758,5 +1870,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "재산관리규정/public_2128449/재산관리규정.json"
+  "git_path": "재산관리규정/public_2128449/재산관리규정.json",
+  "_schlpub_id_suffix": "public_2128449"
 }

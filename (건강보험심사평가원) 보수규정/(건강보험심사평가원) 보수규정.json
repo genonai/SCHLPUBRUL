@@ -87,7 +87,9 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)보수규정#JO0003",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +109,9 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)보수규정#JO0003",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -127,7 +131,9 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)보수규정#JO0003",
             "reference_id": "law:근로기준법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -147,7 +153,9 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)보수규정#JO0003",
             "reference_id": "law:근로자퇴직급여보장법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로자퇴직급여 보장법/법률/근로자퇴직급여 보장법.json"
+            "target_git_path_guess": "근로자퇴직급여 보장법/법률/근로자퇴직급여 보장법.json",
+            "target_git_path": "근로자퇴직급여 보장법/법률/근로자퇴직급여 보장법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -167,7 +175,9 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)보수규정#JO0003",
             "reference_id": "law:근로자퇴직급여보장법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로자퇴직급여 보장법/법률/근로자퇴직급여 보장법.json"
+            "target_git_path_guess": "근로자퇴직급여 보장법/법률/근로자퇴직급여 보장법.json",
+            "target_git_path": "근로자퇴직급여 보장법/법률/근로자퇴직급여 보장법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -187,7 +197,9 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)보수규정#JO0003",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -207,7 +219,9 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)보수규정#JO0003",
             "reference_id": "law:근로기준법#JO0050",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -227,7 +241,9 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)보수규정#JO0003",
             "reference_id": "law:근로기준법#JO0069",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -245,9 +261,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/직제규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)보수규정#JO0003",
-            "reference_id": "SchlPubRul:직제규정#DOC",
+            "reference_id": "SchlPubRul:직제규정:public_2127825#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "직제규정/직제규정.json"
+            "target_git_path_guess": "직제규정/직제규정.json",
+            "target_candidates": 5,
+            "target_git_path": "직제규정/public_2127825/직제규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -265,9 +286,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/직제규정/제4조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)보수규정#JO0003",
-            "reference_id": "SchlPubRul:직제규정#JO0004",
+            "reference_id": "SchlPubRul:직제규정:public_2127825#JO0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "직제규정/직제규정.json"
+            "target_git_path_guess": "직제규정/직제규정.json",
+            "target_candidates": 5,
+            "target_git_path": "직제규정/public_2127825/직제규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -304,7 +330,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(건강보험심사평가원)보수규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 보수규정/(건강보험심사평가원) 보수규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 보수규정/(건강보험심사평가원) 보수규정.json",
+            "target_git_path": "(건강보험심사평가원) 보수규정/(건강보험심사평가원) 보수규정.json",
+            "target_git_file_path": "(건강보험심사평가원) 보수규정/별표/별표1_직원의 기본급표(제4조 및 제30조제3항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -367,9 +398,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)보수규정#JO0008",
-            "reference_id": "SchlPubRul:인사규정#DOC",
+            "reference_id": "SchlPubRul:인사규정:public_2130247#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json"
+            "target_git_path_guess": "인사규정/인사규정.json",
+            "target_candidates": 4,
+            "target_git_path": "인사규정/public_2130247/인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -389,7 +425,8 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)보수규정#JO0008",
             "reference_id": "SchlPubRul:인사규정#JO0068",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json"
+            "target_git_path_guess": "인사규정/인사규정.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -419,9 +456,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)보수규정#JO0009",
-            "reference_id": "SchlPubRul:인사규정#DOC",
+            "reference_id": "SchlPubRul:인사규정:public_2130247#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json"
+            "target_git_path_guess": "인사규정/인사규정.json",
+            "target_candidates": 4,
+            "target_git_path": "인사규정/public_2130247/인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -441,7 +483,8 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)보수규정#JO0009",
             "reference_id": "SchlPubRul:인사규정#JO0070",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json"
+            "target_git_path_guess": "인사규정/인사규정.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "citation",
@@ -459,9 +502,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)보수규정#JO0009",
-            "reference_id": "SchlPubRul:인사규정#DOC",
+            "reference_id": "SchlPubRul:인사규정:public_2130247#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json"
+            "target_git_path_guess": "인사규정/인사규정.json",
+            "target_candidates": 4,
+            "target_git_path": "인사규정/public_2130247/인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -481,7 +529,8 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)보수규정#JO0009",
             "reference_id": "SchlPubRul:인사규정#JO0070",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json"
+            "target_git_path_guess": "인사규정/인사규정.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -513,7 +562,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)보수규정#JO0010",
             "reference_id": "SchlPubRul:(건강보험심사평가원)보수규정#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 보수규정/(건강보험심사평가원) 보수규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 보수규정/(건강보험심사평가원) 보수규정.json",
+            "target_git_path": "(건강보험심사평가원) 보수규정/(건강보험심사평가원) 보수규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -561,7 +614,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:(건강보험심사평가원)보수규정#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 보수규정/(건강보험심사평가원) 보수규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 보수규정/(건강보험심사평가원) 보수규정.json",
+            "target_git_path": "(건강보험심사평가원) 보수규정/(건강보험심사평가원) 보수규정.json",
+            "target_git_file_path": "(건강보험심사평가원) 보수규정/별표/별표2_수당 지급기준(제12조제1항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -615,7 +673,9 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)보수규정#JO0015",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -674,7 +734,12 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:(건강보험심사평가원)보수규정#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 보수규정/(건강보험심사평가원) 보수규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 보수규정/(건강보험심사평가원) 보수규정.json",
+            "target_git_path": "(건강보험심사평가원) 보수규정/(건강보험심사평가원) 보수규정.json",
+            "target_git_file_path": "(건강보험심사평가원) 보수규정/별표/별표3_임원 기본연봉표(제18조제1항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -699,7 +764,12 @@
             "target_unit": "BYL0004",
             "reference_id": "SchlPubRul:(건강보험심사평가원)보수규정#BYL0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 보수규정/(건강보험심사평가원) 보수규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 보수규정/(건강보험심사평가원) 보수규정.json",
+            "target_git_path": "(건강보험심사평가원) 보수규정/(건강보험심사평가원) 보수규정.json",
+            "target_git_file_path": "(건강보험심사평가원) 보수규정/별표/별표4_기본연봉 한계액표(제18조제2항 및 제32조제1항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -724,7 +794,12 @@
             "target_unit": "BYL0005",
             "reference_id": "SchlPubRul:(건강보험심사평가원)보수규정#BYL0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 보수규정/(건강보험심사평가원) 보수규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 보수규정/(건강보험심사평가원) 보수규정.json",
+            "target_git_path": "(건강보험심사평가원) 보수규정/(건강보험심사평가원) 보수규정.json",
+            "target_git_file_path": "(건강보험심사평가원) 보수규정/별표/별표5_기본연봉 인상률표(제18조제2항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -822,7 +897,9 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)보수규정#JO0025",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -842,7 +919,9 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)보수규정#JO0025",
             "reference_id": "law:근로자퇴직급여보장법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로자퇴직급여 보장법/법률/근로자퇴직급여 보장법.json"
+            "target_git_path_guess": "근로자퇴직급여 보장법/법률/근로자퇴직급여 보장법.json",
+            "target_git_path": "근로자퇴직급여 보장법/법률/근로자퇴직급여 보장법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -862,7 +941,9 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)보수규정#JO0025",
             "reference_id": "law:국민연금법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민연금법/법률/국민연금법.json"
+            "target_git_path_guess": "국민연금법/법률/국민연금법.json",
+            "target_git_path": "국민연금법/법률/국민연금법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -894,7 +975,9 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)보수규정#JO0026",
             "reference_id": "law:근로자퇴직급여보장법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로자퇴직급여 보장법/시행령/근로자퇴직급여 보장법 시행령.json"
+            "target_git_path_guess": "근로자퇴직급여 보장법/시행령/근로자퇴직급여 보장법 시행령.json",
+            "target_git_path": "근로자퇴직급여 보장법/시행령/근로자퇴직급여 보장법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -914,7 +997,9 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)보수규정#JO0026",
             "reference_id": "law:근로자퇴직급여보장법시행령#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로자퇴직급여 보장법/시행령/근로자퇴직급여 보장법 시행령.json"
+            "target_git_path_guess": "근로자퇴직급여 보장법/시행령/근로자퇴직급여 보장법 시행령.json",
+            "target_git_path": "근로자퇴직급여 보장법/시행령/근로자퇴직급여 보장법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -946,7 +1031,9 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)보수규정#JO0027",
             "reference_id": "law:남녀고용평등과일가정양립지원에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json"
+            "target_git_path_guess": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json",
+            "target_git_path": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -966,7 +1053,9 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)보수규정#JO0027",
             "reference_id": "law:한부모가족지원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "한부모가족지원법/법률/한부모가족지원법.json"
+            "target_git_path_guess": "한부모가족지원법/법률/한부모가족지원법.json",
+            "target_git_path": "한부모가족지원법/법률/한부모가족지원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -986,7 +1075,9 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)보수규정#JO0027",
             "reference_id": "law:한부모가족지원법#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "한부모가족지원법/법률/한부모가족지원법.json"
+            "target_git_path_guess": "한부모가족지원법/법률/한부모가족지원법.json",
+            "target_git_path": "한부모가족지원법/법률/한부모가족지원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1004,9 +1095,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)보수규정#JO0027",
-            "reference_id": "SchlPubRul:인사규정#DOC",
+            "reference_id": "SchlPubRul:인사규정:public_2130247#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json"
+            "target_git_path_guess": "인사규정/인사규정.json",
+            "target_candidates": 4,
+            "target_git_path": "인사규정/public_2130247/인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -1026,7 +1122,8 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)보수규정#JO0027",
             "reference_id": "SchlPubRul:인사규정#JO0068",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json"
+            "target_git_path_guess": "인사규정/인사규정.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -1058,7 +1155,9 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)보수규정#JO0028",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1078,7 +1177,9 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)보수규정#JO0028",
             "reference_id": "law:공공기관의운영에관한법률#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1098,7 +1199,9 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)보수규정#JO0028",
             "reference_id": "law:공공기관의운영에관한법률#JO0052_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1130,7 +1233,9 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)보수규정#JO0029",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1160,9 +1265,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)보수규정#JO0030",
-            "reference_id": "SchlPubRul:인사규정#DOC",
+            "reference_id": "SchlPubRul:인사규정:public_2130247#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json"
+            "target_git_path_guess": "인사규정/인사규정.json",
+            "target_candidates": 4,
+            "target_git_path": "인사규정/public_2130247/인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -1182,7 +1292,8 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)보수규정#JO0030",
             "reference_id": "SchlPubRul:인사규정#JO0066",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json"
+            "target_git_path_guess": "인사규정/인사규정.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "appendix_ref",
@@ -1207,7 +1318,12 @@
             "target_unit": "BYL0006",
             "reference_id": "SchlPubRul:(건강보험심사평가원)보수규정#BYL0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 보수규정/(건강보험심사평가원) 보수규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 보수규정/(건강보험심사평가원) 보수규정.json",
+            "target_git_path": "(건강보험심사평가원) 보수규정/(건강보험심사평가원) 보수규정.json",
+            "target_git_file_path": "(건강보험심사평가원) 보수규정/별표/별표6_명예퇴직수당 지급기준(제30조제2항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -1225,9 +1341,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)보수규정#JO0030",
-            "reference_id": "SchlPubRul:인사규정#DOC",
+            "reference_id": "SchlPubRul:인사규정:public_2130247#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json"
+            "target_git_path_guess": "인사규정/인사규정.json",
+            "target_candidates": 4,
+            "target_git_path": "인사규정/public_2130247/인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -1247,7 +1368,8 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)보수규정#JO0030",
             "reference_id": "SchlPubRul:인사규정#JO0066",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json"
+            "target_git_path_guess": "인사규정/인사규정.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "citation",
@@ -1265,9 +1387,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)보수규정#JO0030",
-            "reference_id": "SchlPubRul:인사규정#DOC",
+            "reference_id": "SchlPubRul:인사규정:public_2130247#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json"
+            "target_git_path_guess": "인사규정/인사규정.json",
+            "target_candidates": 4,
+            "target_git_path": "인사규정/public_2130247/인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -1287,7 +1414,8 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)보수규정#JO0030",
             "reference_id": "SchlPubRul:인사규정#JO0066",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json"
+            "target_git_path_guess": "인사규정/인사규정.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "appendix_ref",
@@ -1312,7 +1440,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(건강보험심사평가원)보수규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 보수규정/(건강보험심사평가원) 보수규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 보수규정/(건강보험심사평가원) 보수규정.json",
+            "target_git_path": "(건강보험심사평가원) 보수규정/(건강보험심사평가원) 보수규정.json",
+            "target_git_file_path": "(건강보험심사평가원) 보수규정/별표/별표1_직원의 기본급표(제4조 및 제30조제3항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1342,9 +1475,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)보수규정#JO0031",
-            "reference_id": "SchlPubRul:인사규정#DOC",
+            "reference_id": "SchlPubRul:인사규정:public_2130247#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json"
+            "target_git_path_guess": "인사규정/인사규정.json",
+            "target_candidates": 4,
+            "target_git_path": "인사규정/public_2130247/인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -1364,7 +1502,8 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)보수규정#JO0031",
             "reference_id": "SchlPubRul:인사규정#JO0072",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json"
+            "target_git_path_guess": "인사규정/인사규정.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "internal_ref",
@@ -1384,7 +1523,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)보수규정#JO0031",
             "reference_id": "SchlPubRul:(건강보험심사평가원)보수규정#JO0021",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 보수규정/(건강보험심사평가원) 보수규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 보수규정/(건강보험심사평가원) 보수규정.json",
+            "target_git_path": "(건강보험심사평가원) 보수규정/(건강보험심사평가원) 보수규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -1402,9 +1545,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)보수규정#JO0031",
-            "reference_id": "SchlPubRul:인사규정#DOC",
+            "reference_id": "SchlPubRul:인사규정:public_2130247#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json"
+            "target_git_path_guess": "인사규정/인사규정.json",
+            "target_candidates": 4,
+            "target_git_path": "인사규정/public_2130247/인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -1422,9 +1570,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정/제4조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)보수규정#JO0031",
-            "reference_id": "SchlPubRul:인사규정#JO0004",
+            "reference_id": "SchlPubRul:인사규정:public_2130247#JO0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json"
+            "target_git_path_guess": "인사규정/인사규정.json",
+            "target_candidates": 4,
+            "target_git_path": "인사규정/public_2130247/인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1454,9 +1607,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/직제규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)보수규정#JO0032",
-            "reference_id": "SchlPubRul:직제규정#DOC",
+            "reference_id": "SchlPubRul:직제규정:public_2127825#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "직제규정/직제규정.json"
+            "target_git_path_guess": "직제규정/직제규정.json",
+            "target_candidates": 5,
+            "target_git_path": "직제규정/public_2127825/직제규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -1474,9 +1632,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/직제규정/제11조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)보수규정#JO0032",
-            "reference_id": "SchlPubRul:직제규정#JO0011",
+            "reference_id": "SchlPubRul:직제규정:public_2127825#JO0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "직제규정/직제규정.json"
+            "target_git_path_guess": "직제규정/직제규정.json",
+            "target_candidates": 5,
+            "target_git_path": "직제규정/public_2127825/직제규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1501,7 +1664,12 @@
             "target_unit": "BYL0004",
             "reference_id": "SchlPubRul:(건강보험심사평가원)보수규정#BYL0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 보수규정/(건강보험심사평가원) 보수규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 보수규정/(건강보험심사평가원) 보수규정.json",
+            "target_git_path": "(건강보험심사평가원) 보수규정/(건강보험심사평가원) 보수규정.json",
+            "target_git_file_path": "(건강보험심사평가원) 보수규정/별표/별표4_기본연봉 한계액표(제18조제2항 및 제32조제1항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

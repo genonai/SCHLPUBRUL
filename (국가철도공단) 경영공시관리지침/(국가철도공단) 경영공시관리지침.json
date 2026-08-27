@@ -76,7 +76,9 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)경영공시관리지침#JO0002",
             "reference_id": "law:공공기관의운영에관한법률#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -96,7 +98,9 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)경영공시관리지침#JO0002",
             "reference_id": "law:공공기관의운영에관한법률#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -116,7 +120,9 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)경영공시관리지침#JO0002",
             "reference_id": "law:공공기관의운영에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/시행령/공공기관의 운영에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/시행령/공공기관의 운영에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/시행령/공공기관의 운영에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -136,7 +142,9 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)경영공시관리지침#JO0002",
             "reference_id": "law:공공기관의운영에관한법률시행령#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/시행령/공공기관의 운영에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/시행령/공공기관의 운영에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/시행령/공공기관의 운영에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -168,7 +176,11 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)경영공시관리지침#JO0003",
             "reference_id": "SchlPubRul:(국가철도공단)경영공시관리지침#JO0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 경영공시관리지침/(국가철도공단) 경영공시관리지침.json"
+            "target_git_path_guess": "(국가철도공단) 경영공시관리지침/(국가철도공단) 경영공시관리지침.json",
+            "target_git_path": "(국가철도공단) 경영공시관리지침/(국가철도공단) 경영공시관리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -188,7 +200,11 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)경영공시관리지침#JO0003",
             "reference_id": "SchlPubRul:(국가철도공단)경영공시관리지침#JO0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 경영공시관리지침/(국가철도공단) 경영공시관리지침.json"
+            "target_git_path_guess": "(국가철도공단) 경영공시관리지침/(국가철도공단) 경영공시관리지침.json",
+            "target_git_path": "(국가철도공단) 경영공시관리지침/(국가철도공단) 경영공시관리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -242,7 +258,11 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)경영공시관리지침#JO0006",
             "reference_id": "SchlPubRul:(국가철도공단)경영공시관리지침#JO0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 경영공시관리지침/(국가철도공단) 경영공시관리지침.json"
+            "target_git_path_guess": "(국가철도공단) 경영공시관리지침/(국가철도공단) 경영공시관리지침.json",
+            "target_git_path": "(국가철도공단) 경영공시관리지침/(국가철도공단) 경영공시관리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -290,7 +310,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(국가철도공단)경영공시관리지침#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 경영공시관리지침/(국가철도공단) 경영공시관리지침.json"
+            "target_git_path_guess": "(국가철도공단) 경영공시관리지침/(국가철도공단) 경영공시관리지침.json",
+            "target_git_path": "(국가철도공단) 경영공시관리지침/(국가철도공단) 경영공시관리지침.json",
+            "target_git_file_path": "(국가철도공단) 경영공시관리지침/별표/별표1_경영공시 벌점부과 및 제재 기준(제8조제2항 및 제11조제3항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -349,7 +374,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(국가철도공단)경영공시관리지침#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 경영공시관리지침/(국가철도공단) 경영공시관리지침.json"
+            "target_git_path_guess": "(국가철도공단) 경영공시관리지침/(국가철도공단) 경영공시관리지침.json",
+            "target_git_path": "(국가철도공단) 경영공시관리지침/(국가철도공단) 경영공시관리지침.json",
+            "target_git_file_path": "(국가철도공단) 경영공시관리지침/별표/별표1_경영공시 벌점부과 및 제재 기준(제8조제2항 및 제11조제3항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -386,7 +416,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(국가철도공단)경영공시관리지침#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 경영공시관리지침/(국가철도공단) 경영공시관리지침.json"
+            "target_git_path_guess": "(국가철도공단) 경영공시관리지침/(국가철도공단) 경영공시관리지침.json",
+            "target_git_path": "(국가철도공단) 경영공시관리지침/(국가철도공단) 경영공시관리지침.json",
+            "target_git_file_path": "(국가철도공단) 경영공시관리지침/별지/별지1_불성실공시예방을 위한 개선계획서(제12조제1항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

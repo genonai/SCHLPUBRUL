@@ -175,7 +175,9 @@
             "source_provision_id": "SchlPubRul:연천군시설관리공단전자문서시스템운영관리지침#JO0011",
             "reference_id": "law:공공기록물관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -195,7 +197,11 @@
             "source_provision_id": "SchlPubRul:연천군시설관리공단전자문서시스템운영관리지침#JO0011",
             "reference_id": "SchlPubRul:연천군시설관리공단기록관리규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "연천군시설관리공단 기록관리 규정/연천군시설관리공단 기록관리 규정.json"
+            "target_git_path_guess": "연천군시설관리공단 기록관리 규정/연천군시설관리공단 기록관리 규정.json",
+            "target_git_path": "연천군시설관리공단 기록관리 규정/연천군시설관리공단 기록관리 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -326,7 +332,11 @@
             "source_provision_id": "SchlPubRul:연천군시설관리공단전자문서시스템운영관리지침#JO0021",
             "reference_id": "SchlPubRul:연천군시설관리공단전자문서시스템운영관리지침#JO0023",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "연천군시설관리공단 전자문서시스템 운영·관리지침/연천군시설관리공단 전자문서시스템 운영·관리지침.json"
+            "target_git_path_guess": "연천군시설관리공단 전자문서시스템 운영·관리지침/연천군시설관리공단 전자문서시스템 운영·관리지침.json",
+            "target_git_path": "연천군시설관리공단 전자문서시스템 운영·관리지침/연천군시설관리공단 전자문서시스템 운영·관리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -363,7 +373,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:연천군시설관리공단전자문서시스템운영관리지침#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "연천군시설관리공단 전자문서시스템 운영·관리지침/연천군시설관리공단 전자문서시스템 운영·관리지침.json"
+            "target_git_path_guess": "연천군시설관리공단 전자문서시스템 운영·관리지침/연천군시설관리공단 전자문서시스템 운영·관리지침.json",
+            "target_git_path": "연천군시설관리공단 전자문서시스템 운영·관리지침/연천군시설관리공단 전자문서시스템 운영·관리지침.json",
+            "target_git_file_path": "연천군시설관리공단 전자문서시스템 운영·관리지침/별지/별지1_게시판 개설신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -388,7 +403,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:연천군시설관리공단전자문서시스템운영관리지침#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "연천군시설관리공단 전자문서시스템 운영·관리지침/연천군시설관리공단 전자문서시스템 운영·관리지침.json"
+            "target_git_path_guess": "연천군시설관리공단 전자문서시스템 운영·관리지침/연천군시설관리공단 전자문서시스템 운영·관리지침.json",
+            "target_git_path": "연천군시설관리공단 전자문서시스템 운영·관리지침/연천군시설관리공단 전자문서시스템 운영·관리지침.json",
+            "target_git_file_path": "연천군시설관리공단 전자문서시스템 운영·관리지침/별지/별지2_게시판 폐지신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],

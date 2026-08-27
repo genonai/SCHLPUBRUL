@@ -76,7 +76,11 @@
             "source_provision_id": "SchlPubRul:광주환경공단복리후생규정시행내규#JO0002",
             "reference_id": "SchlPubRul:광주환경공단복리후생규정시행내규#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "광주환경공단 복리후생규정시행내규/광주환경공단 복리후생규정시행내규.json"
+            "target_git_path_guess": "광주환경공단 복리후생규정시행내규/광주환경공단 복리후생규정시행내규.json",
+            "target_git_path": "광주환경공단 복리후생규정시행내규/광주환경공단 복리후생규정시행내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -141,7 +145,9 @@
             "source_provision_id": "SchlPubRul:광주환경공단복리후생규정시행내규#JO0006",
             "reference_id": "law:근로기준법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/시행령/근로기준법시행령.json"
+            "target_git_path_guess": "근로기준법/시행령/근로기준법시행령.json",
+            "target_git_path": "근로기준법/시행령/근로기준법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -161,7 +167,9 @@
             "source_provision_id": "SchlPubRul:광주환경공단복리후생규정시행내규#JO0006",
             "reference_id": "law:근로기준법시행령#JO0047",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/시행령/근로기준법시행령.json"
+            "target_git_path_guess": "근로기준법/시행령/근로기준법시행령.json",
+            "target_git_path": "근로기준법/시행령/근로기준법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -193,7 +201,9 @@
             "source_provision_id": "SchlPubRul:광주환경공단복리후생규정시행내규#JO0007",
             "reference_id": "law:근로기준법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/시행령/근로기준법시행령.json"
+            "target_git_path_guess": "근로기준법/시행령/근로기준법시행령.json",
+            "target_git_path": "근로기준법/시행령/근로기준법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -213,7 +223,9 @@
             "source_provision_id": "SchlPubRul:광주환경공단복리후생규정시행내규#JO0007",
             "reference_id": "law:근로기준법시행령#JO0044",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/시행령/근로기준법시행령.json"
+            "target_git_path_guess": "근로기준법/시행령/근로기준법시행령.json",
+            "target_git_path": "근로기준법/시행령/근로기준법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

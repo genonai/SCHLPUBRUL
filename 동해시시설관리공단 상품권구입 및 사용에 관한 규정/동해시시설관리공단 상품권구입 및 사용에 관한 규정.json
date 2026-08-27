@@ -109,7 +109,9 @@
             "source_provision_id": "SchlPubRul:동해시시설관리공단상품권구입및사용에관한규정#JO0005",
             "reference_id": "law:지방자치단체업무추진비집행에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방자치단체 업무추진비 집행에 관한 규칙/법률/지방자치단체 업무추진비 집행에 관한 규칙.json"
+            "target_git_path_guess": "지방자치단체 업무추진비 집행에 관한 규칙/법률/지방자치단체 업무추진비 집행에 관한 규칙.json",
+            "target_git_path": "지방자치단체 업무추진비 집행에 관한 규칙/법률/지방자치단체 업무추진비 집행에 관한 규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -146,7 +148,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:동해시시설관리공단상품권구입및사용에관한규정#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "동해시시설관리공단 상품권구입 및 사용에 관한 규정/동해시시설관리공단 상품권구입 및 사용에 관한 규정.json"
+            "target_git_path_guess": "동해시시설관리공단 상품권구입 및 사용에 관한 규정/동해시시설관리공단 상품권구입 및 사용에 관한 규정.json",
+            "target_git_path": "동해시시설관리공단 상품권구입 및 사용에 관한 규정/동해시시설관리공단 상품권구입 및 사용에 관한 규정.json",
+            "target_git_file_path": "동해시시설관리공단 상품권구입 및 사용에 관한 규정/별지/별지1_상품권 수불대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -171,7 +178,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:동해시시설관리공단상품권구입및사용에관한규정#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "동해시시설관리공단 상품권구입 및 사용에 관한 규정/동해시시설관리공단 상품권구입 및 사용에 관한 규정.json"
+            "target_git_path_guess": "동해시시설관리공단 상품권구입 및 사용에 관한 규정/동해시시설관리공단 상품권구입 및 사용에 관한 규정.json",
+            "target_git_path": "동해시시설관리공단 상품권구입 및 사용에 관한 규정/동해시시설관리공단 상품권구입 및 사용에 관한 규정.json",
+            "target_git_file_path": "동해시시설관리공단 상품권구입 및 사용에 관한 규정/별지/별지2_상품권 개인별 지급대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],

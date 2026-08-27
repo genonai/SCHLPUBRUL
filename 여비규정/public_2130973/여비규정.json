@@ -109,7 +109,9 @@
             "source_provision_id": "SchlPubRul:여비규정:public_2130973#JO0005",
             "reference_id": "law:공무원여비규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 여비 규정/법률/공무원 여비 규정.json"
+            "target_git_path_guess": "공무원 여비 규정/법률/공무원 여비 규정.json",
+            "target_git_path": "공무원 여비 규정/법률/공무원 여비 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -163,7 +165,9 @@
             "source_provision_id": "SchlPubRul:여비규정:public_2130973#JO0008",
             "reference_id": "law:공무원여비규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 여비 규정/법률/공무원 여비 규정.json"
+            "target_git_path_guess": "공무원 여비 규정/법률/공무원 여비 규정.json",
+            "target_git_path": "공무원 여비 규정/법률/공무원 여비 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -183,7 +187,11 @@
             "source_provision_id": "SchlPubRul:여비규정:public_2130973#JO0008",
             "reference_id": "admrul:지방공무원교육훈련운영지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "지방공무원 교육훈련 운영지침/지방공무원 교육훈련 운영지침.json"
+            "target_git_path_guess": "지방공무원 교육훈련 운영지침/지방공무원 교육훈련 운영지침.json",
+            "target_git_path": "지방공무원 교육훈련 운영지침/지방공무원 교육훈련 운영지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -215,7 +223,11 @@
             "source_provision_id": "SchlPubRul:여비규정:public_2130973#JO0008_02",
             "reference_id": "SchlPubRul:여비규정:public_2130973#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "여비규정/여비규정.json"
+            "target_git_path_guess": "여비규정/여비규정.json",
+            "target_git_path": "여비규정/public_2130973/여비규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -258,7 +270,11 @@
             "source_provision_id": "SchlPubRul:여비규정:public_2130973#JO0010",
             "reference_id": "SchlPubRul:여비규정:public_2130973#JO0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "여비규정/여비규정.json"
+            "target_git_path_guess": "여비규정/여비규정.json",
+            "target_git_path": "여비규정/public_2130973/여비규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -301,7 +317,9 @@
             "source_provision_id": "SchlPubRul:여비규정:public_2130973#JO0012",
             "reference_id": "law:공무원여비규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 여비 규정/법률/공무원 여비 규정.json"
+            "target_git_path_guess": "공무원 여비 규정/법률/공무원 여비 규정.json",
+            "target_git_path": "공무원 여비 규정/법률/공무원 여비 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -392,5 +410,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "여비규정/public_2130973/여비규정.json"
+  "git_path": "여비규정/public_2130973/여비규정.json",
+  "_schlpub_id_suffix": "public_2130973"
 }

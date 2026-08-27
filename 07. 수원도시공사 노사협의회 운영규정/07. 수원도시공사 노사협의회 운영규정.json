@@ -373,7 +373,11 @@
             "source_provision_id": "SchlPubRul:07.수원도시공사노사협의회운영규정#JO0029",
             "reference_id": "SchlPubRul:07.수원도시공사노사협의회운영규정#JO0025",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "07. 수원도시공사 노사협의회 운영규정/07. 수원도시공사 노사협의회 운영규정.json"
+            "target_git_path_guess": "07. 수원도시공사 노사협의회 운영규정/07. 수원도시공사 노사협의회 운영규정.json",
+            "target_git_path": "07. 수원도시공사 노사협의회 운영규정/07. 수원도시공사 노사협의회 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -449,7 +453,9 @@
             "source_provision_id": "SchlPubRul:07.수원도시공사노사협의회운영규정#JO0034",
             "reference_id": "law:근로자참여및협력증진에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로자참여및협력증진에관한법률/법률/근로자참여및협력증진에관한법률.json"
+            "target_git_path_guess": "근로자참여및협력증진에관한법률/법률/근로자참여및협력증진에관한법률.json",
+            "target_git_path": "근로자참여 및 협력증진에 관한 법률/법률/근로자참여 및 협력증진에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -469,7 +475,9 @@
             "source_provision_id": "SchlPubRul:07.수원도시공사노사협의회운영규정#JO0034",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

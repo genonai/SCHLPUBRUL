@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:의료기관평가인증원정관#JO0001",
             "reference_id": "law:의료법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "의료법/법률/의료법.json"
+            "target_git_path_guess": "의료법/법률/의료법.json",
+            "target_git_path": "의료법/법률/의료법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -85,7 +87,9 @@
             "source_provision_id": "SchlPubRul:의료기관평가인증원정관#JO0001",
             "reference_id": "law:환자안전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "환자안전법/법률/환자안전법.json"
+            "target_git_path_guess": "환자안전법/법률/환자안전법.json",
+            "target_git_path": "환자안전법/법률/환자안전법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -150,7 +154,9 @@
             "source_provision_id": "SchlPubRul:의료기관평가인증원정관#JO0005",
             "reference_id": "law:의료법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "의료법/법률/의료법.json"
+            "target_git_path_guess": "의료법/법률/의료법.json",
+            "target_git_path": "의료법/법률/의료법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -182,7 +188,9 @@
             "source_provision_id": "SchlPubRul:의료기관평가인증원정관#JO0006",
             "reference_id": "law:비영리민간단체지원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "비영리민간단체지원법/법률/비영리민간단체지원법.json"
+            "target_git_path_guess": "비영리민간단체지원법/법률/비영리민간단체지원법.json",
+            "target_git_path": "비영리민간단체 지원법/법률/비영리민간단체 지원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -202,7 +210,9 @@
             "source_provision_id": "SchlPubRul:의료기관평가인증원정관#JO0006",
             "reference_id": "law:비영리민간단체지원법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "비영리민간단체지원법/법률/비영리민간단체지원법.json"
+            "target_git_path_guess": "비영리민간단체지원법/법률/비영리민간단체지원법.json",
+            "target_git_path": "비영리민간단체 지원법/법률/비영리민간단체 지원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -234,7 +244,11 @@
             "source_provision_id": "SchlPubRul:의료기관평가인증원정관#JO0007",
             "reference_id": "SchlPubRul:의료기관평가인증원정관#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "의료기관평가인증원 정관/의료기관평가인증원 정관.json"
+            "target_git_path_guess": "의료기관평가인증원 정관/의료기관평가인증원 정관.json",
+            "target_git_path": "의료기관평가인증원 정관/의료기관평가인증원 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -321,7 +335,9 @@
             "source_provision_id": "SchlPubRul:의료기관평가인증원정관#JO0013",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -341,7 +357,9 @@
             "source_provision_id": "SchlPubRul:의료기관평가인증원정관#JO0013",
             "reference_id": "law:국가공무원법#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -361,7 +379,9 @@
             "source_provision_id": "SchlPubRul:의료기관평가인증원정관#JO0013",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -381,7 +401,9 @@
             "source_provision_id": "SchlPubRul:의료기관평가인증원정관#JO0013",
             "reference_id": "law:공공기관의운영에관한법률#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -401,7 +423,9 @@
             "source_provision_id": "SchlPubRul:의료기관평가인증원정관#JO0013",
             "reference_id": "law:공공기관의운영에관한법률#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -421,7 +445,9 @@
             "source_provision_id": "SchlPubRul:의료기관평가인증원정관#JO0013",
             "reference_id": "law:공공기관의운영에관한법률#JO0035",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -441,7 +467,9 @@
             "source_provision_id": "SchlPubRul:의료기관평가인증원정관#JO0013",
             "reference_id": "law:공공기관의운영에관한법률#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -461,7 +489,9 @@
             "source_provision_id": "SchlPubRul:의료기관평가인증원정관#JO0013",
             "reference_id": "law:공공기관의운영에관한법률#JO0048",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -493,7 +523,9 @@
             "source_provision_id": "SchlPubRul:의료기관평가인증원정관#JO0014",
             "reference_id": "law:민법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -513,7 +545,9 @@
             "source_provision_id": "SchlPubRul:의료기관평가인증원정관#JO0014",
             "reference_id": "law:보건복지부및질병관리청소관비영리법인의설립및감독에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보건복지부 및 질병관리청 소관 비영리법인의 설립 및 감독에 관한 규칙/법률/보건복지부 및 질병관리청 소관 비영리법인의 설립 및 감독에 관한 규칙.json"
+            "target_git_path_guess": "보건복지부 및 질병관리청 소관 비영리법인의 설립 및 감독에 관한 규칙/법률/보건복지부 및 질병관리청 소관 비영리법인의 설립 및 감독에 관한 규칙.json",
+            "target_git_path": "보건복지부 및 질병관리청 소관 비영리법인의 설립 및 감독에 관한 규칙/법률/보건복지부 및 질병관리청 소관 비영리법인의 설립 및 감독에 관한 규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -567,7 +601,9 @@
             "source_provision_id": "SchlPubRul:의료기관평가인증원정관#JO0017",
             "reference_id": "law:공공기관의운영에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/시행령/공공기관의 운영에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/시행령/공공기관의 운영에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/시행령/공공기관의 운영에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -587,7 +623,9 @@
             "source_provision_id": "SchlPubRul:의료기관평가인증원정관#JO0017",
             "reference_id": "law:공공기관의운영에관한법률시행령#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/시행령/공공기관의 운영에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/시행령/공공기관의 운영에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/시행령/공공기관의 운영에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -795,7 +833,11 @@
             "source_provision_id": "SchlPubRul:의료기관평가인증원정관#JO0034",
             "reference_id": "SchlPubRul:의료기관평가인증원정관#JO0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "의료기관평가인증원 정관/의료기관평가인증원 정관.json"
+            "target_git_path_guess": "의료기관평가인증원 정관/의료기관평가인증원 정관.json",
+            "target_git_path": "의료기관평가인증원 정관/의료기관평가인증원 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -815,7 +857,9 @@
             "source_provision_id": "SchlPubRul:의료기관평가인증원정관#JO0034",
             "reference_id": "law:환자안전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "환자안전법/법률/환자안전법.json"
+            "target_git_path_guess": "환자안전법/법률/환자안전법.json",
+            "target_git_path": "환자안전법/법률/환자안전법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -852,7 +896,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:의료기관평가인증원정관#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "의료기관평가인증원 정관/의료기관평가인증원 정관.json"
+            "target_git_path_guess": "의료기관평가인증원 정관/의료기관평가인증원 정관.json",
+            "target_git_path": "의료기관평가인증원 정관/의료기관평가인증원 정관.json",
+            "target_git_file_path": "의료기관평가인증원 정관/별지/별지1_기본재산목록.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1005,7 +1054,9 @@
             "source_provision_id": "SchlPubRul:의료기관평가인증원정관#JO0047",
             "reference_id": "law:민법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1025,7 +1076,9 @@
             "source_provision_id": "SchlPubRul:의료기관평가인증원정관#JO0047",
             "reference_id": "law:민법#JO0094",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

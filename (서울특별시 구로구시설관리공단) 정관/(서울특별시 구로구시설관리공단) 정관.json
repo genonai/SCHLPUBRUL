@@ -120,7 +120,11 @@
             "source_provision_id": "SchlPubRul:(서울특별시구로구시설관리공단)정관#JO0006",
             "reference_id": "SchlPubRul:(서울특별시구로구시설관리공단)정관#JO0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(서울특별시 구로구시설관리공단) 정관/(서울특별시 구로구시설관리공단) 정관.json"
+            "target_git_path_guess": "(서울특별시 구로구시설관리공단) 정관/(서울특별시 구로구시설관리공단) 정관.json",
+            "target_git_path": "(서울특별시 구로구시설관리공단) 정관/(서울특별시 구로구시설관리공단) 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -240,7 +244,9 @@
             "source_provision_id": "SchlPubRul:(서울특별시구로구시설관리공단)정관#JO0015",
             "reference_id": "law:지방공기업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -260,7 +266,9 @@
             "source_provision_id": "SchlPubRul:(서울특별시구로구시설관리공단)정관#JO0015",
             "reference_id": "law:지방공기업법#JO0060",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

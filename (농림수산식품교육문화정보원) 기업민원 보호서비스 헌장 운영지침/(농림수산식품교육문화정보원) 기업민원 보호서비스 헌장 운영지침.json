@@ -146,7 +146,8 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(농림수산식품교육문화정보원)기업민원보호서비스헌장운영지침#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(농림수산식품교육문화정보원) 기업민원 보호서비스 헌장 운영지침/(농림수산식품교육문화정보원) 기업민원 보호서비스 헌장 운영지침.json"
+            "target_git_path_guess": "(농림수산식품교육문화정보원) 기업민원 보호서비스 헌장 운영지침/(농림수산식품교육문화정보원) 기업민원 보호서비스 헌장 운영지침.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -211,7 +212,9 @@
             "source_provision_id": "SchlPubRul:(농림수산식품교육문화정보원)기업민원보호서비스헌장운영지침#JO0010",
             "reference_id": "law:중소기업기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업기본법/법률/중소기업기본법.json"
+            "target_git_path_guess": "중소기업기본법/법률/중소기업기본법.json",
+            "target_git_path": "중소기업기본법/법률/중소기업기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -231,7 +234,9 @@
             "source_provision_id": "SchlPubRul:(농림수산식품교육문화정보원)기업민원보호서비스헌장운영지침#JO0010",
             "reference_id": "law:중소기업기본법#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업기본법/법률/중소기업기본법.json"
+            "target_git_path_guess": "중소기업기본법/법률/중소기업기본법.json",
+            "target_git_path": "중소기업기본법/법률/중소기업기본법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

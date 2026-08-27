@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0001",
             "reference_id": "law:게임산업진흥에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "게임산업진흥에 관한 법률/시행령/게임산업진흥에 관한 법률 시행령.json"
+            "target_git_path_guess": "게임산업진흥에 관한 법률/시행령/게임산업진흥에 관한 법률 시행령.json",
+            "target_git_path": "게임산업진흥에 관한 법률/시행령/게임산업진흥에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -97,7 +99,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0002",
             "reference_id": "law:게임산업진흥에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json"
+            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_git_path": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -117,7 +121,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0002",
             "reference_id": "law:게임산업진흥에관한법률#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json"
+            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_git_path": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -160,7 +166,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0004",
             "reference_id": "law:게임산업진흥에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json"
+            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_git_path": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -180,7 +188,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0004",
             "reference_id": "law:게임산업진흥에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json"
+            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_git_path": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -212,7 +222,11 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0004_02",
             "reference_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json"
+            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_git_path": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -237,7 +251,12 @@
             "target_unit": "BYL0006",
             "reference_id": "SchlPubRul:게임물관리위원회등급분류규정#BYL0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json"
+            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_git_path": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_git_file_path": "게임물관리위원회 등급분류규정/별표/별표6_등급분류효력 유지기준(제4조의2관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -291,7 +310,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0007",
             "reference_id": "law:게임산업진흥에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json"
+            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_git_path": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -311,7 +332,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0007",
             "reference_id": "law:게임산업진흥에관한법률#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json"
+            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_git_path": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -398,7 +421,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0013",
             "reference_id": "law:게임산업진흥에관한법률#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json"
+            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_git_path": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -418,7 +443,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0013",
             "reference_id": "law:게임산업진흥에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "게임산업진흥에 관한 법률/시행령/게임산업진흥에 관한 법률 시행령.json"
+            "target_git_path_guess": "게임산업진흥에 관한 법률/시행령/게임산업진흥에 관한 법률 시행령.json",
+            "target_git_path": "게임산업진흥에 관한 법률/시행령/게임산업진흥에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -438,7 +465,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0013",
             "reference_id": "law:게임산업진흥에관한법률시행령#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "게임산업진흥에 관한 법률/시행령/게임산업진흥에 관한 법률 시행령.json"
+            "target_git_path_guess": "게임산업진흥에 관한 법률/시행령/게임산업진흥에 관한 법률 시행령.json",
+            "target_git_path": "게임산업진흥에 관한 법률/시행령/게임산업진흥에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -481,7 +510,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0015",
             "reference_id": "law:게임산업진흥에관한법률#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json"
+            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_git_path": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -501,7 +532,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0015",
             "reference_id": "law:게임산업진흥에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "게임산업진흥에 관한 법률/시행령/게임산업진흥에 관한 법률 시행령.json"
+            "target_git_path_guess": "게임산업진흥에 관한 법률/시행령/게임산업진흥에 관한 법률 시행령.json",
+            "target_git_path": "게임산업진흥에 관한 법률/시행령/게임산업진흥에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -521,7 +554,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0015",
             "reference_id": "law:게임산업진흥에관한법률시행령#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "게임산업진흥에 관한 법률/시행령/게임산업진흥에 관한 법률 시행령.json"
+            "target_git_path_guess": "게임산업진흥에 관한 법률/시행령/게임산업진흥에 관한 법률 시행령.json",
+            "target_git_path": "게임산업진흥에 관한 법률/시행령/게임산업진흥에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -546,7 +581,10 @@
             "target_unit": "BYL0003",
             "reference_id": "law:게임산업진흥에관한법률시행령#BYL0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "게임산업진흥에 관한 법률/시행령/게임산업진흥에 관한 법률 시행령.json"
+            "target_git_path_guess": "게임산업진흥에 관한 법률/시행령/게임산업진흥에 관한 법률 시행령.json",
+            "target_git_path": "게임산업진흥에 관한 법률/시행령/게임산업진흥에 관한 법률 시행령.json",
+            "target_git_file_path": "게임산업진흥에 관한 법률/시행령/별표/별표3_상호, 등급, 게임물내용정보표시 및 운영정보표시장치의 표시방법(제19조 관련).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -571,7 +609,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:게임물관리위원회등급분류규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json"
+            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_git_path": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_git_file_path": "게임물관리위원회 등급분류규정/별표/별표1_이용등급표시의 등급별 배경 및 서체 색상(제15조제1항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -603,7 +646,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0016",
             "reference_id": "law:게임산업진흥에관한법률#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json"
+            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_git_path": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -623,7 +668,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0016",
             "reference_id": "law:게임산업진흥에관한법률시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "게임산업진흥에 관한 법률/시행규칙/게임산업진흥에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "게임산업진흥에 관한 법률/시행규칙/게임산업진흥에 관한 법률 시행규칙.json",
+            "target_git_path": "게임산업진흥에 관한 법률/시행규칙/게임산업진흥에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -643,7 +690,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0016",
             "reference_id": "law:게임산업진흥에관한법률시행규칙#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "게임산업진흥에 관한 법률/시행규칙/게임산업진흥에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "게임산업진흥에 관한 법률/시행규칙/게임산업진흥에 관한 법률 시행규칙.json",
+            "target_git_path": "게임산업진흥에 관한 법률/시행규칙/게임산업진흥에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -663,7 +712,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0016",
             "reference_id": "law:게임산업진흥에관한법률#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json"
+            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_git_path": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -695,7 +746,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0017",
             "reference_id": "law:게임산업진흥에관한법률#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json"
+            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_git_path": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -715,7 +768,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0017",
             "reference_id": "law:게임산업진흥에관한법률시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "게임산업진흥에 관한 법률/시행규칙/게임산업진흥에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "게임산업진흥에 관한 법률/시행규칙/게임산업진흥에 관한 법률 시행규칙.json",
+            "target_git_path": "게임산업진흥에 관한 법률/시행규칙/게임산업진흥에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -735,7 +790,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0017",
             "reference_id": "law:게임산업진흥에관한법률시행규칙#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "게임산업진흥에 관한 법률/시행규칙/게임산업진흥에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "게임산업진흥에 관한 법률/시행규칙/게임산업진흥에 관한 법률 시행규칙.json",
+            "target_git_path": "게임산업진흥에 관한 법률/시행규칙/게임산업진흥에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -755,7 +812,11 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0017",
             "reference_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0016",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json"
+            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_git_path": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -775,7 +836,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0017",
             "reference_id": "law:게임산업진흥에관한법률#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json"
+            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_git_path": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -795,7 +858,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0017",
             "reference_id": "law:관광진흥법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "관광진흥법/법률/관광진흥법.json"
+            "target_git_path_guess": "관광진흥법/법률/관광진흥법.json",
+            "target_git_path": "관광진흥법/법률/관광진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -815,7 +880,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0017",
             "reference_id": "law:정보통신망이용촉진및정보보호등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보통신망 이용촉진 및 정보보호 등에 관한 법률/법률/정보통신망 이용촉진 및 정보보호 등에 관한 법률.json"
+            "target_git_path_guess": "정보통신망 이용촉진 및 정보보호 등에 관한 법률/법률/정보통신망 이용촉진 및 정보보호 등에 관한 법률.json",
+            "target_git_path": "정보통신망 이용촉진 및 정보보호 등에 관한 법률/법률/정보통신망 이용촉진 및 정보보호 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -835,7 +902,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0017",
             "reference_id": "law:정보통신망이용촉진및정보보호등에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보통신망 이용촉진 및 정보보호 등에 관한 법률/법률/정보통신망 이용촉진 및 정보보호 등에 관한 법률.json"
+            "target_git_path_guess": "정보통신망 이용촉진 및 정보보호 등에 관한 법률/법률/정보통신망 이용촉진 및 정보보호 등에 관한 법률.json",
+            "target_git_path": "정보통신망 이용촉진 및 정보보호 등에 관한 법률/법률/정보통신망 이용촉진 및 정보보호 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -867,7 +936,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0018",
             "reference_id": "law:게임산업진흥에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json"
+            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_git_path": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -887,7 +958,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0018",
             "reference_id": "law:게임산업진흥에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json"
+            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_git_path": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -919,7 +992,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0019",
             "reference_id": "law:게임산업진흥에관한법률#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json"
+            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_git_path": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -939,7 +1014,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0019",
             "reference_id": "law:게임산업진흥에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "게임산업진흥에 관한 법률/시행령/게임산업진흥에 관한 법률 시행령.json"
+            "target_git_path_guess": "게임산업진흥에 관한 법률/시행령/게임산업진흥에 관한 법률 시행령.json",
+            "target_git_path": "게임산업진흥에 관한 법률/시행령/게임산업진흥에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -959,7 +1036,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0019",
             "reference_id": "law:게임산업진흥에관한법률시행령#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "게임산업진흥에 관한 법률/시행령/게임산업진흥에 관한 법률 시행령.json"
+            "target_git_path_guess": "게임산업진흥에 관한 법률/시행령/게임산업진흥에 관한 법률 시행령.json",
+            "target_git_path": "게임산업진흥에 관한 법률/시행령/게임산업진흥에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1002,7 +1081,11 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0021",
             "reference_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0023",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json"
+            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_git_path": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1045,7 +1128,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0023",
             "reference_id": "law:게임산업진흥에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json"
+            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_git_path": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1065,7 +1150,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0023",
             "reference_id": "law:게임산업진흥에관한법률#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json"
+            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_git_path": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1090,7 +1177,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:게임물관리위원회등급분류규정#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json"
+            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_git_path": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_git_file_path": "게임물관리위원회 등급분류규정/별지/별지1_게임물 등급분류 신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1115,7 +1207,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:게임물관리위원회등급분류규정#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json"
+            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_git_path": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_git_file_path": "게임물관리위원회 등급분류규정/별지/별지2_게임물 내용정보 기술서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -1185,7 +1282,12 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:게임물관리위원회등급분류규정#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json"
+            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_git_path": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_git_file_path": "게임물관리위원회 등급분류규정/별표/별표3_게임제공업소용 게임물 등급분류 신청 준수 사항(제23조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -1205,7 +1307,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0023",
             "reference_id": "law:게임산업진흥에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json"
+            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_git_path": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1225,7 +1329,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0023",
             "reference_id": "law:게임산업진흥에관한법률#JO0021_10",
             "target_repo": "LAW",
-            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json"
+            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_git_path": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1257,7 +1363,11 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0023_02",
             "reference_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0025",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json"
+            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_git_path": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1282,7 +1392,12 @@
             "target_unit": "BJ0018",
             "reference_id": "SchlPubRul:게임물관리위원회등급분류규정#BJ0018",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json"
+            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_git_path": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_git_file_path": "게임물관리위원회 등급분류규정/별지/별지18_게임물 입·출고 준수사항 확인 및 미출고 게임물 폐기 동의서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1325,7 +1440,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0025",
             "reference_id": "law:게임산업진흥에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json"
+            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_git_path": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1345,7 +1462,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0025",
             "reference_id": "law:게임산업진흥에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json"
+            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_git_path": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1365,7 +1484,11 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0025",
             "reference_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json"
+            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_git_path": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1402,7 +1525,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:게임물관리위원회등급분류규정#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json"
+            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_git_path": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_git_file_path": "게임물관리위원회 등급분류규정/별지/별지3_출장검토 신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1450,7 +1578,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:게임물관리위원회등급분류규정#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json"
+            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_git_path": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_git_file_path": "게임물관리위원회 등급분류규정/별지/별지4_게임물 내용수정 신고서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1475,7 +1608,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:게임물관리위원회등급분류규정#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json"
+            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_git_path": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_git_file_path": "게임물관리위원회 등급분류규정/별지/별지5_게임물 내용수정 기술서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -1495,7 +1633,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0028",
             "reference_id": "law:게임산업진흥에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json"
+            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_git_path": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1515,7 +1655,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0028",
             "reference_id": "law:게임산업진흥에관한법률#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json"
+            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_git_path": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1535,7 +1677,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0028",
             "reference_id": "law:게임산업진흥에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json"
+            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_git_path": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1555,7 +1699,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0028",
             "reference_id": "law:게임산업진흥에관한법률#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json"
+            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_git_path": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1575,7 +1721,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0028",
             "reference_id": "law:게임산업진흥에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json"
+            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_git_path": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1595,7 +1743,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0028",
             "reference_id": "law:게임산업진흥에관한법률#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json"
+            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_git_path": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1615,7 +1765,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0028",
             "reference_id": "law:게임산업진흥에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json"
+            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_git_path": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1635,7 +1787,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0028",
             "reference_id": "law:게임산업진흥에관한법률#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json"
+            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_git_path": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1667,7 +1821,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0028_02",
             "reference_id": "law:게임산업진흥에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json"
+            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_git_path": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1687,7 +1843,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0028_02",
             "reference_id": "law:게임산업진흥에관한법률#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json"
+            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_git_path": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1719,7 +1877,11 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0028_03",
             "reference_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0028",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json"
+            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_git_path": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1739,7 +1901,11 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0028_03",
             "reference_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json"
+            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_git_path": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1776,7 +1942,12 @@
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:게임물관리위원회등급분류규정#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json"
+            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_git_path": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_git_file_path": "게임물관리위원회 등급분류규정/별지/별지6_시험용 게임물 확인신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1801,7 +1972,12 @@
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:게임물관리위원회등급분류규정#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json"
+            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_git_path": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_git_file_path": "게임물관리위원회 등급분류규정/별지/별지7_시험용 게임물 확인증.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1826,7 +2002,12 @@
             "target_unit": "BJ0008",
             "reference_id": "SchlPubRul:게임물관리위원회등급분류규정#BJ0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json"
+            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_git_path": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_git_file_path": "게임물관리위원회 등급분류규정/별지/별지8_시험용 게임물 연장신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1863,7 +2044,12 @@
             "target_unit": "BJ0015",
             "reference_id": "SchlPubRul:게임물관리위원회등급분류규정#BJ0015",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json"
+            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_git_path": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_git_file_path": "게임물관리위원회 등급분류규정/별지/별지15_등급분류를 받지 아니하는 게임물 확인신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -1883,7 +2069,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0030",
             "reference_id": "law:게임산업진흥에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json"
+            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_git_path": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1903,7 +2091,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0030",
             "reference_id": "law:게임산업진흥에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json"
+            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_git_path": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1928,7 +2118,12 @@
             "target_unit": "BJ0016",
             "reference_id": "SchlPubRul:게임물관리위원회등급분류규정#BJ0016",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json"
+            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_git_path": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_git_file_path": "게임물관리위원회 등급분류규정/별지/별지16_등급분류를 받지 아니하는 게임물 확인증.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1953,7 +2148,12 @@
             "target_unit": "BYL0005",
             "reference_id": "SchlPubRul:게임물관리위원회등급분류규정#BYL0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json"
+            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_git_path": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_git_file_path": "게임물관리위원회 등급분류규정/별표/별표5_등급분류를 받지 아니하는 게임물 이용등급 표시(제30조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1985,7 +2185,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0031",
             "reference_id": "law:게임산업진흥에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json"
+            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_git_path": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2005,7 +2207,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0031",
             "reference_id": "law:게임산업진흥에관한법률#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json"
+            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_git_path": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2025,7 +2229,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0031",
             "reference_id": "law:게임산업진흥에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json"
+            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_git_path": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2045,7 +2251,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0031",
             "reference_id": "law:게임산업진흥에관한법률#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json"
+            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_git_path": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2065,7 +2273,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0031",
             "reference_id": "law:게임산업진흥에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json"
+            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_git_path": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2085,7 +2295,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0031",
             "reference_id": "law:게임산업진흥에관한법률#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json"
+            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_git_path": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2110,7 +2322,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:게임물관리위원회등급분류규정#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json"
+            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_git_path": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_git_file_path": "게임물관리위원회 등급분류규정/별표/별표2_등급분류 수수료 조견표(제38조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -2130,7 +2347,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0031",
             "reference_id": "law:게임산업진흥에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json"
+            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_git_path": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2150,7 +2369,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0031",
             "reference_id": "law:게임산업진흥에관한법률#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json"
+            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_git_path": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2170,7 +2391,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0031",
             "reference_id": "law:사행행위등규제및처벌특례법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "사행행위 등 규제 및 처벌특례법/법률/사행행위 등 규제 및 처벌특례법.json"
+            "target_git_path_guess": "사행행위 등 규제 및 처벌특례법/법률/사행행위 등 규제 및 처벌특례법.json",
+            "target_git_path": "사행행위 등 규제 및 처벌 특례법/법률/사행행위 등 규제 및 처벌 특례법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2190,7 +2413,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0031",
             "reference_id": "law:형법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2210,7 +2435,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0031",
             "reference_id": "law:저작권법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "저작권법/법률/저작권법.json"
+            "target_git_path_guess": "저작권법/법률/저작권법.json",
+            "target_git_path": "저작권법/법률/저작권법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2230,7 +2457,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0031",
             "reference_id": "law:정보통신망이용촉진및정보보호등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보통신망 이용촉진 및 정보보호 등에 관한 법률/법률/정보통신망 이용촉진 및 정보보호 등에 관한 법률.json"
+            "target_git_path_guess": "정보통신망 이용촉진 및 정보보호 등에 관한 법률/법률/정보통신망 이용촉진 및 정보보호 등에 관한 법률.json",
+            "target_git_path": "정보통신망 이용촉진 및 정보보호 등에 관한 법률/법률/정보통신망 이용촉진 및 정보보호 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2250,7 +2479,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0031",
             "reference_id": "law:전자금융거래법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자금융거래법/법률/전자금융거래법.json"
+            "target_git_path_guess": "전자금융거래법/법률/전자금융거래법.json",
+            "target_git_path": "전자금융거래법/법률/전자금융거래법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2270,7 +2501,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0031",
             "reference_id": "law:주민등록법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "주민등록법/법률/주민등록법.json"
+            "target_git_path_guess": "주민등록법/법률/주민등록법.json",
+            "target_git_path": "주민등록법/법률/주민등록법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2290,7 +2523,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0031",
             "reference_id": "law:전자서명법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자서명법/법률/전자서명법.json"
+            "target_git_path_guess": "전자서명법/법률/전자서명법.json",
+            "target_git_path": "전자서명법/법률/전자서명법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2310,7 +2545,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0031",
             "reference_id": "law:전자상거래등에서의소비자보호에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자상거래 등에서의 소비자보호에 관한 법률/법률/전자상거래 등에서의 소비자보호에 관한 법률.json"
+            "target_git_path_guess": "전자상거래 등에서의 소비자보호에 관한 법률/법률/전자상거래 등에서의 소비자보호에 관한 법률.json",
+            "target_git_path": "전자상거래 등에서의 소비자보호에 관한 법률/법률/전자상거래 등에서의 소비자보호에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2330,7 +2567,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0031",
             "reference_id": "law:청소년보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "청소년보호법/법률/청소년보호법.json"
+            "target_git_path_guess": "청소년보호법/법률/청소년보호법.json",
+            "target_git_path": "청소년 보호법/법률/청소년 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2350,7 +2589,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0031",
             "reference_id": "law:아동청소년의성보호에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "아동ㆍ청소년의 성보호에 관한 법률/법률/아동ㆍ청소년의 성보호에 관한 법률.json"
+            "target_git_path_guess": "아동ㆍ청소년의 성보호에 관한 법률/법률/아동ㆍ청소년의 성보호에 관한 법률.json",
+            "target_git_path": "아동ㆍ청소년의 성보호에 관한 법률/법률/아동ㆍ청소년의 성보호에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2370,7 +2611,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0031",
             "reference_id": "law:게임산업진흥에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json"
+            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_git_path": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2390,7 +2633,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0031",
             "reference_id": "law:게임산업진흥에관한법률#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json"
+            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_git_path": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2422,7 +2667,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0032",
             "reference_id": "law:게임산업진흥에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json"
+            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_git_path": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2442,7 +2689,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0032",
             "reference_id": "law:게임산업진흥에관한법률#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json"
+            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_git_path": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2474,7 +2723,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0033",
             "reference_id": "law:게임산업진흥에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json"
+            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_git_path": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2494,7 +2745,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0033",
             "reference_id": "law:게임산업진흥에관한법률#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json"
+            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_git_path": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2519,7 +2772,12 @@
             "target_unit": "BJ0009",
             "reference_id": "SchlPubRul:게임물관리위원회등급분류규정#BJ0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json"
+            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_git_path": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_git_file_path": "게임물관리위원회 등급분류규정/별지/별지9_등급분류 이의신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -2539,7 +2797,11 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0033",
             "reference_id": "SchlPubRul:게임물관리위원회규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "게임물관리위원회 규정/게임물관리위원회 규정.json"
+            "target_git_path_guess": "게임물관리위원회 규정/게임물관리위원회 규정.json",
+            "target_git_path": "게임물관리위원회 규정/게임물관리위원회 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -2559,7 +2821,11 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0033",
             "reference_id": "SchlPubRul:게임물관리위원회규정#JO0022",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "게임물관리위원회 규정/게임물관리위원회 규정.json"
+            "target_git_path_guess": "게임물관리위원회 규정/게임물관리위원회 규정.json",
+            "target_git_path": "게임물관리위원회 규정/게임물관리위원회 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2596,7 +2862,12 @@
             "target_unit": "BJ0010",
             "reference_id": "SchlPubRul:게임물관리위원회등급분류규정#BJ0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json"
+            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_git_path": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_git_file_path": "게임물관리위원회 등급분류규정/별지/별지10_게임물 등급분류증명서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2621,7 +2892,12 @@
             "target_unit": "BJ0011",
             "reference_id": "SchlPubRul:게임물관리위원회등급분류규정#BJ0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json"
+            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_git_path": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_git_file_path": "게임물관리위원회 등급분류규정/별지/별지11_게임물 등급분류 결정서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2653,7 +2929,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0035",
             "reference_id": "law:게임산업진흥에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json"
+            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_git_path": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2673,7 +2951,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0035",
             "reference_id": "law:게임산업진흥에관한법률#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json"
+            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_git_path": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2698,7 +2978,12 @@
             "target_unit": "BJ0012",
             "reference_id": "SchlPubRul:게임물관리위원회등급분류규정#BJ0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json"
+            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_git_path": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_git_file_path": "게임물관리위원회 등급분류규정/별지/별지12_등급분류증명서 재교부신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2723,7 +3008,12 @@
             "target_unit": "BJ0013",
             "reference_id": "SchlPubRul:게임물관리위원회등급분류규정#BJ0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json"
+            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_git_path": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_git_file_path": "게임물관리위원회 등급분류규정/별지/별지13_명의변경 신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2755,7 +3045,11 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0036",
             "reference_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0004_02",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json"
+            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_git_path": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2798,7 +3092,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0038",
             "reference_id": "law:게임산업진흥에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json"
+            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_git_path": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2818,7 +3114,9 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0038",
             "reference_id": "law:게임산업진흥에관한법률#JO0041",
             "target_repo": "LAW",
-            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json"
+            "target_git_path_guess": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_git_path": "게임산업진흥에 관한 법률/법률/게임산업진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2843,7 +3141,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:게임물관리위원회등급분류규정#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json"
+            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_git_path": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_git_file_path": "게임물관리위원회 등급분류규정/별표/별표2_등급분류 수수료 조견표(제38조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -2863,7 +3166,11 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0038",
             "reference_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0023",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json"
+            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_git_path": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2900,7 +3207,12 @@
             "target_unit": "BJ0017",
             "reference_id": "SchlPubRul:게임물관리위원회등급분류규정#BJ0017",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json"
+            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_git_path": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_git_file_path": "게임물관리위원회 등급분류규정/별지/별지17_제명 변경 신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2932,7 +3244,11 @@
             "source_provision_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0040",
             "reference_id": "SchlPubRul:게임물관리위원회등급분류규정#JO0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json"
+            "target_git_path_guess": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_git_path": "게임물관리위원회 등급분류규정/게임물관리위원회 등급분류규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

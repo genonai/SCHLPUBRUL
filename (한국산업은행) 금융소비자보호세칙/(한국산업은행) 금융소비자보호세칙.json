@@ -76,7 +76,11 @@
             "source_provision_id": "SchlPubRul:(한국산업은행)금융소비자보호세칙#JO0002",
             "reference_id": "SchlPubRul:(한국산업은행)금융소비자보호세칙#JO0016",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산업은행) 금융소비자보호세칙/(한국산업은행) 금융소비자보호세칙.json"
+            "target_git_path_guess": "(한국산업은행) 금융소비자보호세칙/(한국산업은행) 금융소비자보호세칙.json",
+            "target_git_path": "(한국산업은행) 금융소비자보호세칙/(한국산업은행) 금융소비자보호세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -96,7 +100,11 @@
             "source_provision_id": "SchlPubRul:(한국산업은행)금융소비자보호세칙#JO0002",
             "reference_id": "admrul:금융소비자보호에관한감독규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "금융소비자보호에 관한 감독규정/금융소비자보호에 관한 감독규정.json"
+            "target_git_path_guess": "금융소비자보호에 관한 감독규정/금융소비자보호에 관한 감독규정.json",
+            "target_git_path": "금융소비자 보호에 관한 감독규정/금융소비자 보호에 관한 감독규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -121,7 +129,8 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:(한국산업은행)금융소비자보호세칙#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산업은행) 금융소비자보호세칙/(한국산업은행) 금융소비자보호세칙.json"
+            "target_git_path_guess": "(한국산업은행) 금융소비자보호세칙/(한국산업은행) 금융소비자보호세칙.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "appendix_ref",
@@ -146,7 +155,8 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:(한국산업은행)금융소비자보호세칙#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산업은행) 금융소비자보호세칙/(한국산업은행) 금융소비자보호세칙.json"
+            "target_git_path_guess": "(한국산업은행) 금융소비자보호세칙/(한국산업은행) 금융소비자보호세칙.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "citation",
@@ -166,7 +176,9 @@
             "source_provision_id": "SchlPubRul:(한국산업은행)금융소비자보호세칙#JO0002",
             "reference_id": "law:금융소비자보호에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "금융소비자보호에 관한 법률/시행령/금융소비자보호에 관한 법률 시행령.json"
+            "target_git_path_guess": "금융소비자보호에 관한 법률/시행령/금융소비자보호에 관한 법률 시행령.json",
+            "target_git_path": "금융소비자 보호에 관한 법률/시행령/금융소비자 보호에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -186,7 +198,11 @@
             "source_provision_id": "SchlPubRul:(한국산업은행)금융소비자보호세칙#JO0002",
             "reference_id": "admrul:금융소비자보호에관한감독규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "금융소비자보호에 관한 감독규정/금융소비자보호에 관한 감독규정.json"
+            "target_git_path_guess": "금융소비자보호에 관한 감독규정/금융소비자보호에 관한 감독규정.json",
+            "target_git_path": "금융소비자 보호에 관한 감독규정/금융소비자 보호에 관한 감독규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -416,7 +432,9 @@
             "source_provision_id": "SchlPubRul:(한국산업은행)금융소비자보호세칙#JO0021",
             "reference_id": "law:부정경쟁방지및영업비밀보호에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부정경쟁방지 및 영업비밀보호에 관한 법률/법률/부정경쟁방지 및 영업비밀보호에 관한 법률.json"
+            "target_git_path_guess": "부정경쟁방지 및 영업비밀보호에 관한 법률/법률/부정경쟁방지 및 영업비밀보호에 관한 법률.json",
+            "target_git_path": "부정경쟁방지 및 영업비밀보호에 관한 법률/법률/부정경쟁방지 및 영업비밀보호에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -436,7 +454,9 @@
             "source_provision_id": "SchlPubRul:(한국산업은행)금융소비자보호세칙#JO0021",
             "reference_id": "law:부정경쟁방지및영업비밀보호에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "부정경쟁방지 및 영업비밀보호에 관한 법률/법률/부정경쟁방지 및 영업비밀보호에 관한 법률.json"
+            "target_git_path_guess": "부정경쟁방지 및 영업비밀보호에 관한 법률/법률/부정경쟁방지 및 영업비밀보호에 관한 법률.json",
+            "target_git_path": "부정경쟁방지 및 영업비밀보호에 관한 법률/법률/부정경쟁방지 및 영업비밀보호에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -501,7 +521,9 @@
             "source_provision_id": "SchlPubRul:(한국산업은행)금융소비자보호세칙#JO0025",
             "reference_id": "law:상법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "상법/법률/상법.json"
+            "target_git_path_guess": "상법/법률/상법.json",
+            "target_git_path": "상법/법률/상법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -521,7 +543,9 @@
             "source_provision_id": "SchlPubRul:(한국산업은행)금융소비자보호세칙#JO0025",
             "reference_id": "law:상법#JO0640",
             "target_repo": "LAW",
-            "target_git_path_guess": "상법/법률/상법.json"
+            "target_git_path_guess": "상법/법률/상법.json",
+            "target_git_path": "상법/법률/상법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

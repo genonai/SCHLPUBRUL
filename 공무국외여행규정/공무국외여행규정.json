@@ -120,7 +120,11 @@
             "source_provision_id": "SchlPubRul:공무국외여행규정#JO0006",
             "reference_id": "SchlPubRul:공무국외여행규정#JO0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "공무국외여행규정/공무국외여행규정.json"
+            "target_git_path_guess": "공무국외여행규정/공무국외여행규정.json",
+            "target_git_path": "공무국외여행규정/공무국외여행규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -145,7 +149,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:공무국외여행규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "공무국외여행규정/공무국외여행규정.json"
+            "target_git_path_guess": "공무국외여행규정/공무국외여행규정.json",
+            "target_git_path": "공무국외여행규정/공무국외여행규정.json",
+            "target_git_file_path": "공무국외여행규정/별표/별표1_공무 국외여행 세부심사 기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -252,9 +261,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/여비규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:공무국외여행규정#JO0013",
-            "reference_id": "SchlPubRul:여비규정#DOC",
+            "reference_id": "SchlPubRul:여비규정:public_2130973#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "여비규정/여비규정.json"
+            "target_git_path_guess": "여비규정/여비규정.json",
+            "target_candidates": 4,
+            "target_git_path": "여비규정/public_2130973/여비규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -274,7 +288,9 @@
             "source_provision_id": "SchlPubRul:공무국외여행규정#JO0013",
             "reference_id": "law:지방자치단체를당사자로하는계약에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방자치단체를 당사자로 하는 계약에 관한 법률/법률/지방자치단체를 당사자로 하는 계약에 관한 법률.json"
+            "target_git_path_guess": "지방자치단체를 당사자로 하는 계약에 관한 법률/법률/지방자치단체를 당사자로 하는 계약에 관한 법률.json",
+            "target_git_path": "지방자치단체를 당사자로 하는 계약에 관한 법률/법률/지방자치단체를 당사자로 하는 계약에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

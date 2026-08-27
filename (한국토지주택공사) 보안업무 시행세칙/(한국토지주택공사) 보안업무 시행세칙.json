@@ -76,7 +76,9 @@
             "source_provision_id": "SchlPubRul:(한국토지주택공사)보안업무시행세칙#JO0002",
             "reference_id": "law:보안업무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -163,7 +165,11 @@
             "source_provision_id": "SchlPubRul:(한국토지주택공사)보안업무시행세칙#JO0008",
             "reference_id": "admrul:보안업무규정시행규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json"
+            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_git_path": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -188,7 +194,8 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(한국토지주택공사)보안업무시행세칙#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국토지주택공사) 보안업무 시행세칙/(한국토지주택공사) 보안업무 시행세칙.json"
+            "target_git_path_guess": "(한국토지주택공사) 보안업무 시행세칙/(한국토지주택공사) 보안업무 시행세칙.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],

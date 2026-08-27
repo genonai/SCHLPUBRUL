@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:(대한석탄공사)정보공개지침#JO0001",
             "reference_id": "law:공공기관의정보공개에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -97,7 +99,9 @@
             "source_provision_id": "SchlPubRul:(대한석탄공사)정보공개지침#JO0002",
             "reference_id": "law:전자정부법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -117,7 +121,9 @@
             "source_provision_id": "SchlPubRul:(대한석탄공사)정보공개지침#JO0002",
             "reference_id": "law:전자정부법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -193,7 +199,9 @@
             "source_provision_id": "SchlPubRul:(대한석탄공사)정보공개지침#JO0007",
             "reference_id": "law:공공기록물관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -213,7 +221,9 @@
             "source_provision_id": "SchlPubRul:(대한석탄공사)정보공개지침#JO0007",
             "reference_id": "law:공공기관의정보공개에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -233,7 +243,9 @@
             "source_provision_id": "SchlPubRul:(대한석탄공사)정보공개지침#JO0007",
             "reference_id": "law:공공기관의정보공개에관한법률시행령#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -253,7 +265,11 @@
             "source_provision_id": "SchlPubRul:(대한석탄공사)정보공개지침#JO0007",
             "reference_id": "SchlPubRul:(대한석탄공사)정보공개지침#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(대한석탄공사) 정보공개지침/(대한석탄공사) 정보공개지침.json"
+            "target_git_path_guess": "(대한석탄공사) 정보공개지침/(대한석탄공사) 정보공개지침.json",
+            "target_git_path": "(대한석탄공사) 정보공개지침/(대한석탄공사) 정보공개지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -285,7 +301,11 @@
             "source_provision_id": "SchlPubRul:(대한석탄공사)정보공개지침#JO0008",
             "reference_id": "SchlPubRul:(대한석탄공사)정보공개지침#JO0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(대한석탄공사) 정보공개지침/(대한석탄공사) 정보공개지침.json"
+            "target_git_path_guess": "(대한석탄공사) 정보공개지침/(대한석탄공사) 정보공개지침.json",
+            "target_git_path": "(대한석탄공사) 정보공개지침/(대한석탄공사) 정보공개지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -305,7 +325,11 @@
             "source_provision_id": "SchlPubRul:(대한석탄공사)정보공개지침#JO0008",
             "reference_id": "SchlPubRul:(대한석탄공사)정보공개지침#JO0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(대한석탄공사) 정보공개지침/(대한석탄공사) 정보공개지침.json"
+            "target_git_path_guess": "(대한석탄공사) 정보공개지침/(대한석탄공사) 정보공개지침.json",
+            "target_git_path": "(대한석탄공사) 정보공개지침/(대한석탄공사) 정보공개지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -359,7 +383,9 @@
             "source_provision_id": "SchlPubRul:(대한석탄공사)정보공개지침#JO0011",
             "reference_id": "law:공공기관의정보공개에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -379,7 +405,9 @@
             "source_provision_id": "SchlPubRul:(대한석탄공사)정보공개지침#JO0011",
             "reference_id": "law:공공기관의정보공개에관한법률시행령#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -399,7 +427,9 @@
             "source_provision_id": "SchlPubRul:(대한석탄공사)정보공개지침#JO0011",
             "reference_id": "law:공공기관의정보공개에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -419,7 +449,9 @@
             "source_provision_id": "SchlPubRul:(대한석탄공사)정보공개지침#JO0011",
             "reference_id": "law:공공기관의정보공개에관한법률시행령#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -444,7 +476,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:(대한석탄공사)정보공개지침#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(대한석탄공사) 정보공개지침/(대한석탄공사) 정보공개지침.json"
+            "target_git_path_guess": "(대한석탄공사) 정보공개지침/(대한석탄공사) 정보공개지침.json",
+            "target_git_path": "(대한석탄공사) 정보공개지침/(대한석탄공사) 정보공개지침.json",
+            "target_git_file_path": "(대한석탄공사) 정보공개지침/별표/별표2_비공개정보 세부분류기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -481,7 +518,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(대한석탄공사)정보공개지침#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(대한석탄공사) 정보공개지침/(대한석탄공사) 정보공개지침.json"
+            "target_git_path_guess": "(대한석탄공사) 정보공개지침/(대한석탄공사) 정보공개지침.json",
+            "target_git_path": "(대한석탄공사) 정보공개지침/(대한석탄공사) 정보공개지침.json",
+            "target_git_file_path": "(대한석탄공사) 정보공개지침/별지/별지1_정보공개심의회 심의서약서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -506,7 +548,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(대한석탄공사)정보공개지침#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(대한석탄공사) 정보공개지침/(대한석탄공사) 정보공개지침.json"
+            "target_git_path_guess": "(대한석탄공사) 정보공개지침/(대한석탄공사) 정보공개지침.json",
+            "target_git_path": "(대한석탄공사) 정보공개지침/(대한석탄공사) 정보공개지침.json",
+            "target_git_file_path": "(대한석탄공사) 정보공개지침/별지/별지2_정보공개심의회 심의의결서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -531,7 +578,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:(대한석탄공사)정보공개지침#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(대한석탄공사) 정보공개지침/(대한석탄공사) 정보공개지침.json"
+            "target_git_path_guess": "(대한석탄공사) 정보공개지침/(대한석탄공사) 정보공개지침.json",
+            "target_git_path": "(대한석탄공사) 정보공개지침/(대한석탄공사) 정보공개지침.json",
+            "target_git_file_path": "(대한석탄공사) 정보공개지침/별지/별지3_정보공개심의회 회의록.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -563,7 +615,9 @@
             "source_provision_id": "SchlPubRul:(대한석탄공사)정보공개지침#JO0013",
             "reference_id": "law:공공기관의정보공개에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -583,7 +637,9 @@
             "source_provision_id": "SchlPubRul:(대한석탄공사)정보공개지침#JO0013",
             "reference_id": "law:공공기관의정보공개에관한법률시행령#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -603,7 +659,9 @@
             "source_provision_id": "SchlPubRul:(대한석탄공사)정보공개지침#JO0013",
             "reference_id": "law:공공기관의정보공개에관한법률시행령#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -623,7 +681,9 @@
             "source_provision_id": "SchlPubRul:(대한석탄공사)정보공개지침#JO0013",
             "reference_id": "law:공공기관의정보공개에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -643,7 +703,9 @@
             "source_provision_id": "SchlPubRul:(대한석탄공사)정보공개지침#JO0013",
             "reference_id": "law:공공기관의정보공개에관한법률시행령#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -663,7 +725,9 @@
             "source_provision_id": "SchlPubRul:(대한석탄공사)정보공개지침#JO0013",
             "reference_id": "law:공공기관의정보공개에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -683,7 +747,9 @@
             "source_provision_id": "SchlPubRul:(대한석탄공사)정보공개지침#JO0013",
             "reference_id": "law:공공기관의정보공개에관한법률시행령#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -811,7 +877,9 @@
             "source_provision_id": "SchlPubRul:(대한석탄공사)정보공개지침#JO0019",
             "reference_id": "law:행정심판법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정심판법/법률/행정심판법.json"
+            "target_git_path_guess": "행정심판법/법률/행정심판법.json",
+            "target_git_path": "행정심판법/법률/행정심판법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -831,7 +899,9 @@
             "source_provision_id": "SchlPubRul:(대한석탄공사)정보공개지침#JO0019",
             "reference_id": "law:행정소송법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정소송법/법률/행정소송법.json"
+            "target_git_path_guess": "행정소송법/법률/행정소송법.json",
+            "target_git_path": "행정소송법/법률/행정소송법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -851,7 +921,11 @@
             "source_provision_id": "SchlPubRul:(대한석탄공사)정보공개지침#JO0019",
             "reference_id": "SchlPubRul:(대한석탄공사)정보공개지침#JO0018",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(대한석탄공사) 정보공개지침/(대한석탄공사) 정보공개지침.json"
+            "target_git_path_guess": "(대한석탄공사) 정보공개지침/(대한석탄공사) 정보공개지침.json",
+            "target_git_path": "(대한석탄공사) 정보공개지침/(대한석탄공사) 정보공개지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -883,7 +957,11 @@
             "source_provision_id": "SchlPubRul:(대한석탄공사)정보공개지침#JO0020",
             "reference_id": "SchlPubRul:(대한석탄공사)정보공개지침#JO0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(대한석탄공사) 정보공개지침/(대한석탄공사) 정보공개지침.json"
+            "target_git_path_guess": "(대한석탄공사) 정보공개지침/(대한석탄공사) 정보공개지침.json",
+            "target_git_path": "(대한석탄공사) 정보공개지침/(대한석탄공사) 정보공개지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -903,7 +981,11 @@
             "source_provision_id": "SchlPubRul:(대한석탄공사)정보공개지침#JO0020",
             "reference_id": "SchlPubRul:(대한석탄공사)정보공개지침#JO0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(대한석탄공사) 정보공개지침/(대한석탄공사) 정보공개지침.json"
+            "target_git_path_guess": "(대한석탄공사) 정보공개지침/(대한석탄공사) 정보공개지침.json",
+            "target_git_path": "(대한석탄공사) 정보공개지침/(대한석탄공사) 정보공개지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

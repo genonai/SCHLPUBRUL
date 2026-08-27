@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:울주군시설관리공단정관#JO0001",
             "reference_id": "law:지방공기업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -181,7 +183,11 @@
             "source_provision_id": "SchlPubRul:울주군시설관리공단정관#JO0008",
             "reference_id": "SchlPubRul:울주군시설관리공단정관#JO0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "울주군시설관리공단 정관/울주군시설관리공단 정관.json"
+            "target_git_path_guess": "울주군시설관리공단 정관/울주군시설관리공단 정관.json",
+            "target_git_path": "울주군시설관리공단 정관/울주군시설관리공단 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -206,7 +212,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:울주군시설관리공단정관#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "울주군시설관리공단 정관/울주군시설관리공단 정관.json"
+            "target_git_path_guess": "울주군시설관리공단 정관/울주군시설관리공단 정관.json",
+            "target_git_path": "울주군시설관리공단 정관/울주군시설관리공단 정관.json",
+            "target_git_file_path": "울주군시설관리공단 정관/별표/별표1_체육시설물(제8조관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -231,7 +242,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:울주군시설관리공단정관#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "울주군시설관리공단 정관/울주군시설관리공단 정관.json"
+            "target_git_path_guess": "울주군시설관리공단 정관/울주군시설관리공단 정관.json",
+            "target_git_path": "울주군시설관리공단 정관/울주군시설관리공단 정관.json",
+            "target_git_file_path": "울주군시설관리공단 정관/별표/별표2_사회복지시설(제8조관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -256,7 +272,12 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:울주군시설관리공단정관#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "울주군시설관리공단 정관/울주군시설관리공단 정관.json"
+            "target_git_path_guess": "울주군시설관리공단 정관/울주군시설관리공단 정관.json",
+            "target_git_path": "울주군시설관리공단 정관/울주군시설관리공단 정관.json",
+            "target_git_file_path": "울주군시설관리공단 정관/별표/별표3_청소년수련시설(제8조관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -281,7 +302,12 @@
             "target_unit": "BYL0004",
             "reference_id": "SchlPubRul:울주군시설관리공단정관#BYL0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "울주군시설관리공단 정관/울주군시설관리공단 정관.json"
+            "target_git_path_guess": "울주군시설관리공단 정관/울주군시설관리공단 정관.json",
+            "target_git_path": "울주군시설관리공단 정관/울주군시설관리공단 정관.json",
+            "target_git_file_path": "울주군시설관리공단 정관/별표/별표4_주차장시설(제8조관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -335,7 +361,9 @@
             "source_provision_id": "SchlPubRul:울주군시설관리공단정관#JO0011",
             "reference_id": "law:지방공기업법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/시행령/지방공기업법 시행령.json"
+            "target_git_path_guess": "지방공기업법/시행령/지방공기업법 시행령.json",
+            "target_git_path": "지방공기업법/시행령/지방공기업법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -355,7 +383,9 @@
             "source_provision_id": "SchlPubRul:울주군시설관리공단정관#JO0011",
             "reference_id": "law:지방공기업법시행령#JO0063",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/시행령/지방공기업법 시행령.json"
+            "target_git_path_guess": "지방공기업법/시행령/지방공기업법 시행령.json",
+            "target_git_path": "지방공기업법/시행령/지방공기업법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -398,7 +428,11 @@
             "source_provision_id": "SchlPubRul:울주군시설관리공단정관#JO0013",
             "reference_id": "SchlPubRul:울주군시설관리공단정관#JO0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "울주군시설관리공단 정관/울주군시설관리공단 정관.json"
+            "target_git_path_guess": "울주군시설관리공단 정관/울주군시설관리공단 정관.json",
+            "target_git_path": "울주군시설관리공단 정관/울주군시설관리공단 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -452,7 +486,11 @@
             "source_provision_id": "SchlPubRul:울주군시설관리공단정관#JO0016",
             "reference_id": "SchlPubRul:울주군시설관리공단정관#JO0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "울주군시설관리공단 정관/울주군시설관리공단 정관.json"
+            "target_git_path_guess": "울주군시설관리공단 정관/울주군시설관리공단 정관.json",
+            "target_git_path": "울주군시설관리공단 정관/울주군시설관리공단 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -489,7 +527,12 @@
             "target_unit": "BYL0005",
             "reference_id": "SchlPubRul:울주군시설관리공단정관#BYL0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "울주군시설관리공단 정관/울주군시설관리공단 정관.json"
+            "target_git_path_guess": "울주군시설관리공단 정관/울주군시설관리공단 정관.json",
+            "target_git_path": "울주군시설관리공단 정관/울주군시설관리공단 정관.json",
+            "target_git_file_path": "울주군시설관리공단 정관/별표/별표5_조 직(제17조관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -514,7 +557,12 @@
             "target_unit": "BYL0006",
             "reference_id": "SchlPubRul:울주군시설관리공단정관#BYL0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "울주군시설관리공단 정관/울주군시설관리공단 정관.json"
+            "target_git_path_guess": "울주군시설관리공단 정관/울주군시설관리공단 정관.json",
+            "target_git_path": "울주군시설관리공단 정관/울주군시설관리공단 정관.json",
+            "target_git_file_path": "울주군시설관리공단 정관/별표/별표6_정 원(제17조관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -557,7 +605,9 @@
             "source_provision_id": "SchlPubRul:울주군시설관리공단정관#JO0019",
             "reference_id": "law:지방공기업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -577,7 +627,11 @@
             "source_provision_id": "SchlPubRul:울주군시설관리공단정관#JO0019",
             "reference_id": "SchlPubRul:울주군시설관리공단정관#JO0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "울주군시설관리공단 정관/울주군시설관리공단 정관.json"
+            "target_git_path_guess": "울주군시설관리공단 정관/울주군시설관리공단 정관.json",
+            "target_git_path": "울주군시설관리공단 정관/울주군시설관리공단 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -597,7 +651,11 @@
             "source_provision_id": "SchlPubRul:울주군시설관리공단정관#JO0019",
             "reference_id": "SchlPubRul:울주군시설관리공단정관#JO0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "울주군시설관리공단 정관/울주군시설관리공단 정관.json"
+            "target_git_path_guess": "울주군시설관리공단 정관/울주군시설관리공단 정관.json",
+            "target_git_path": "울주군시설관리공단 정관/울주군시설관리공단 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -617,7 +675,11 @@
             "source_provision_id": "SchlPubRul:울주군시설관리공단정관#JO0019",
             "reference_id": "SchlPubRul:울주군시설관리공단정관#JO0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "울주군시설관리공단 정관/울주군시설관리공단 정관.json"
+            "target_git_path_guess": "울주군시설관리공단 정관/울주군시설관리공단 정관.json",
+            "target_git_path": "울주군시설관리공단 정관/울주군시설관리공단 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -737,7 +799,11 @@
             "source_provision_id": "SchlPubRul:울주군시설관리공단정관#JO0028",
             "reference_id": "SchlPubRul:울주군시설관리공단이사회운영규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "울주군시설관리공단 이사회운영규정/울주군시설관리공단 이사회운영규정.json"
+            "target_git_path_guess": "울주군시설관리공단 이사회운영규정/울주군시설관리공단 이사회운영규정.json",
+            "target_git_path": "울주군시설관리공단 이사회운영규정/울주군시설관리공단 이사회운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -868,7 +934,9 @@
             "source_provision_id": "SchlPubRul:울주군시설관리공단정관#JO0038",
             "reference_id": "law:지방공기업법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/시행령/지방공기업법 시행령.json"
+            "target_git_path_guess": "지방공기업법/시행령/지방공기업법 시행령.json",
+            "target_git_path": "지방공기업법/시행령/지방공기업법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -888,7 +956,9 @@
             "source_provision_id": "SchlPubRul:울주군시설관리공단정관#JO0038",
             "reference_id": "law:지방공기업법시행령#JO0059",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/시행령/지방공기업법 시행령.json"
+            "target_git_path_guess": "지방공기업법/시행령/지방공기업법 시행령.json",
+            "target_git_path": "지방공기업법/시행령/지방공기업법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -942,7 +1012,11 @@
             "source_provision_id": "SchlPubRul:울주군시설관리공단정관#JO0041",
             "reference_id": "SchlPubRul:울주군시설관리공단정관#JO0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "울주군시설관리공단 정관/울주군시설관리공단 정관.json"
+            "target_git_path_guess": "울주군시설관리공단 정관/울주군시설관리공단 정관.json",
+            "target_git_path": "울주군시설관리공단 정관/울주군시설관리공단 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -985,7 +1059,9 @@
             "source_provision_id": "SchlPubRul:울주군시설관리공단정관#JO0043",
             "reference_id": "law:지방공기업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1005,7 +1081,9 @@
             "source_provision_id": "SchlPubRul:울주군시설관리공단정관#JO0043",
             "reference_id": "law:지방공기업법#JO0046",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

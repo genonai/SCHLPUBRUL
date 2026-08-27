@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0001",
             "reference_id": "law:국민건강보험요양급여의기준에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강보험 요양급여의 기준에 관한 규칙/법률/국민건강보험 요양급여의 기준에 관한 규칙.json"
+            "target_git_path_guess": "국민건강보험 요양급여의 기준에 관한 규칙/법률/국민건강보험 요양급여의 기준에 관한 규칙.json",
+            "target_git_path": "국민건강보험 요양급여의 기준에 관한 규칙/법률/국민건강보험 요양급여의 기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -85,7 +87,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0001",
             "reference_id": "admrul:행위치료재료등의결정및조정기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "행위ㆍ치료재료 등의 결정 및 조정기준/행위ㆍ치료재료 등의 결정 및 조정기준.json"
+            "target_git_path_guess": "행위ㆍ치료재료 등의 결정 및 조정기준/행위ㆍ치료재료 등의 결정 및 조정기준.json",
+            "target_git_path": "행위 치료재료 등의 결정 및 조정기준/행위 치료재료 등의 결정 및 조정기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -105,7 +111,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0001",
             "reference_id": "admrul:요양급여대상비급여대상여부확인의절차와방법등에관한기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "요양급여대상ㆍ비급여대상 여부 확인의 절차와 방법 등에 관한 기준/요양급여대상ㆍ비급여대상 여부 확인의 절차와 방법 등에 관한 기준.json"
+            "target_git_path_guess": "요양급여대상ㆍ비급여대상 여부 확인의 절차와 방법 등에 관한 기준/요양급여대상ㆍ비급여대상 여부 확인의 절차와 방법 등에 관한 기준.json",
+            "target_git_path": "요양급여대상·비급여대상 여부 확인의 절차와 방법 등에 관한 기준/요양급여대상·비급여대상 여부 확인의 절차와 방법 등에 관한 기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -125,7 +135,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0001",
             "reference_id": "admrul:치료재료의허가신고또는인정범위초과사용에관한절차및방법등에관한기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "치료재료의 허가ㆍ신고 또는 인정범위 초과 사용에 관한 절차 및 방법 등에 관한 기준/치료재료의 허가ㆍ신고 또는 인정범위 초과 사용에 관한 절차 및 방법 등에 관한 기준.json"
+            "target_git_path_guess": "치료재료의 허가ㆍ신고 또는 인정범위 초과 사용에 관한 절차 및 방법 등에 관한 기준/치료재료의 허가ㆍ신고 또는 인정범위 초과 사용에 관한 절차 및 방법 등에 관한 기준.json",
+            "target_git_path": "치료재료의 허가·신고 또는 인정범위 초과 사용에 관한 절차 및 방법 등에 관한 기준/치료재료의 허가·신고 또는 인정범위 초과 사용에 관한 절차 및 방법 등에 관한 기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -157,7 +171,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0002",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -177,7 +195,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0002",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -197,7 +219,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0002",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -217,7 +243,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0002",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -237,7 +267,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0002",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -257,7 +291,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0002",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -282,7 +320,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_file_path": "(건강보험심사평가원) 전문평가위원회 운영규정/별표/별표1_학회가 추천하는 임상전문가(제3조제3항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -314,7 +357,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0003",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -334,7 +381,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0003",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -359,7 +410,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_file_path": "(건강보험심사평가원) 전문평가위원회 운영규정/별표/별표2_장관이 필요하다고 인정하는 기관에서 추천하는 전문가(제3조제1항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -384,7 +440,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_file_path": "(건강보험심사평가원) 전문평가위원회 운영규정/별표/별표1_학회가 추천하는 임상전문가(제3조제3항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -409,7 +470,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_file_path": "(건강보험심사평가원) 전문평가위원회 운영규정/별표/별표1_학회가 추천하는 임상전문가(제3조제3항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -429,7 +495,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0003",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -449,7 +519,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0003",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -469,7 +543,9 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0003",
             "reference_id": "law:전자정부법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -489,7 +565,9 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0003",
             "reference_id": "law:전자정부법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -521,7 +599,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0004",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -546,7 +628,12 @@
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_file_path": "(건강보험심사평가원) 전문평가위원회 운영규정/별지/별지6_전문평가위원회 서면 결의서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -566,7 +653,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0004",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -591,7 +682,12 @@
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_file_path": "(건강보험심사평가원) 전문평가위원회 운영규정/별지/별지7_전문평가위원회 서면 의결서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -616,7 +712,12 @@
             "target_unit": "BJ0008",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#BJ0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_file_path": "(건강보험심사평가원) 전문평가위원회 운영규정/별지/별지8_전문평가위원회 서면 의결결과.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -636,7 +737,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0004",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -661,7 +766,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_file_path": "(건강보험심사평가원) 전문평가위원회 운영규정/별지/별지4_대리인선임서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -693,7 +803,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0004_02",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -713,7 +827,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0004_02",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -733,7 +851,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0004_02",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -765,7 +887,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0005",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -785,7 +911,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0005",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0005_02",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -810,7 +940,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_file_path": "(건강보험심사평가원) 전문평가위원회 운영규정/별표/별표1_학회가 추천하는 임상전문가(제3조제3항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -830,7 +965,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0005",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0005_03",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -850,7 +989,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0005",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -870,7 +1013,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0005",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0005_04",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -890,7 +1037,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0005",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -922,7 +1073,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0005_02",
             "reference_id": "admrul:요양급여대상비급여대상여부확인의절차와방법등에관한기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "요양급여대상ㆍ비급여대상 여부 확인의 절차와 방법 등에 관한 기준/요양급여대상ㆍ비급여대상 여부 확인의 절차와 방법 등에 관한 기준.json"
+            "target_git_path_guess": "요양급여대상ㆍ비급여대상 여부 확인의 절차와 방법 등에 관한 기준/요양급여대상ㆍ비급여대상 여부 확인의 절차와 방법 등에 관한 기준.json",
+            "target_git_path": "요양급여대상·비급여대상 여부 확인의 절차와 방법 등에 관한 기준/요양급여대상·비급여대상 여부 확인의 절차와 방법 등에 관한 기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -942,7 +1097,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0005_02",
             "reference_id": "admrul:요양급여대상비급여대상여부확인의절차와방법등에관한기준#JO0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "요양급여대상ㆍ비급여대상 여부 확인의 절차와 방법 등에 관한 기준/요양급여대상ㆍ비급여대상 여부 확인의 절차와 방법 등에 관한 기준.json"
+            "target_git_path_guess": "요양급여대상ㆍ비급여대상 여부 확인의 절차와 방법 등에 관한 기준/요양급여대상ㆍ비급여대상 여부 확인의 절차와 방법 등에 관한 기준.json",
+            "target_git_path": "요양급여대상·비급여대상 여부 확인의 절차와 방법 등에 관한 기준/요양급여대상·비급여대상 여부 확인의 절차와 방법 등에 관한 기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -967,7 +1126,12 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_file_path": "(건강보험심사평가원) 전문평가위원회 운영규정/별표/별표3_요양급여대상·비급여대상 여부 확인 소위원회 임상전문가 및 전문가(제5조의2제4항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -992,7 +1156,12 @@
             "target_unit": "BJ0009",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#BJ0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_file_path": "(건강보험심사평가원) 전문평가위원회 운영규정/별지/별지9_급여·비급여확인소위원회 서면 검토확인서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1017,7 +1186,12 @@
             "target_unit": "BJ0010",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#BJ0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_file_path": "(건강보험심사평가원) 전문평가위원회 운영규정/별지/별지10_급여·비급여확인소위원회 서면 검토결과.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1049,7 +1223,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0005_03",
             "reference_id": "admrul:치료재료의허가신고또는인정범위초과사용에관한절차및방법등에관한기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "치료재료의 허가ㆍ신고 또는 인정 범위 초과 사용에 관한 절차 및 방법 등에 관한 기준/치료재료의 허가ㆍ신고 또는 인정 범위 초과 사용에 관한 절차 및 방법 등에 관한 기준.json"
+            "target_git_path_guess": "치료재료의 허가ㆍ신고 또는 인정 범위 초과 사용에 관한 절차 및 방법 등에 관한 기준/치료재료의 허가ㆍ신고 또는 인정 범위 초과 사용에 관한 절차 및 방법 등에 관한 기준.json",
+            "target_git_path": "치료재료의 허가·신고 또는 인정범위 초과 사용에 관한 절차 및 방법 등에 관한 기준/치료재료의 허가·신고 또는 인정범위 초과 사용에 관한 절차 및 방법 등에 관한 기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1069,7 +1247,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0005_03",
             "reference_id": "admrul:치료재료의허가신고또는인정범위초과사용에관한절차및방법등에관한기준#JO0006",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "치료재료의 허가ㆍ신고 또는 인정 범위 초과 사용에 관한 절차 및 방법 등에 관한 기준/치료재료의 허가ㆍ신고 또는 인정 범위 초과 사용에 관한 절차 및 방법 등에 관한 기준.json"
+            "target_git_path_guess": "치료재료의 허가ㆍ신고 또는 인정 범위 초과 사용에 관한 절차 및 방법 등에 관한 기준/치료재료의 허가ㆍ신고 또는 인정 범위 초과 사용에 관한 절차 및 방법 등에 관한 기준.json",
+            "target_git_path": "치료재료의 허가·신고 또는 인정범위 초과 사용에 관한 절차 및 방법 등에 관한 기준/치료재료의 허가·신고 또는 인정범위 초과 사용에 관한 절차 및 방법 등에 관한 기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1094,7 +1276,12 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_file_path": "(건강보험심사평가원) 전문평가위원회 운영규정/별표/별표3_요양급여대상·비급여대상 여부 확인 소위원회 임상전문가 및 전문가(제5조의2제4항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1119,7 +1306,12 @@
             "target_unit": "BJ0011",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#BJ0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_file_path": "(건강보험심사평가원) 전문평가위원회 운영규정/별지/별지11_치료재료 허가범위 초과 사용 평가 소위원회 서면 검토 확인서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1144,7 +1336,12 @@
             "target_unit": "BJ0012",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#BJ0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_file_path": "(건강보험심사평가원) 전문평가위원회 운영규정/별지/별지12_치료재료 허가범위 초과 사용 평가 소위원회 서면 검토 및 평가 결과.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1176,7 +1373,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0005_04",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1196,7 +1397,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0005_04",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1221,7 +1426,12 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_file_path": "(건강보험심사평가원) 전문평가위원회 운영규정/별표/별표3_요양급여대상·비급여대상 여부 확인 소위원회 임상전문가 및 전문가(제5조의2제4항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1246,7 +1456,12 @@
             "target_unit": "BJ0013",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#BJ0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_file_path": "(건강보험심사평가원) 전문평가위원회 운영규정/별지/별지13_요양급여여부 평가 소위원회.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1271,7 +1486,12 @@
             "target_unit": "BJ0014",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#BJ0014",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_file_path": "(건강보험심사평가원) 전문평가위원회 운영규정/별지/별지14_요양급여여부 평가 소위원회.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1303,7 +1523,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0006",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1323,7 +1547,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0006",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1343,7 +1571,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0006",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1363,7 +1595,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0006",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0005_02",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1383,7 +1619,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0006",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0005_03",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1403,7 +1643,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0006",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0005_04",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1435,7 +1679,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0007",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1455,7 +1703,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0007",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1475,7 +1727,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0007",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0005_02",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1495,7 +1751,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0007",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0005_03",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1515,7 +1775,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0007",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0005_04",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1535,7 +1799,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0007",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1555,7 +1823,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0007",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0005_02",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1575,7 +1847,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0007",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0005_03",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1595,7 +1871,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0007",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0005_04",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1615,7 +1895,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0007",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0004_02",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1635,7 +1919,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0007",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1667,7 +1955,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0008",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1721,7 +2013,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0011",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1746,7 +2042,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_file_path": "(건강보험심사평가원) 전문평가위원회 운영규정/별지/별지2_청렴서약서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1771,7 +2072,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_file_path": "(건강보험심사평가원) 전문평가위원회 운영규정/별지/별지3_전문평가위원회 위원 활동 관련 개인정보 수집·이용 및 제3자 제공 동의서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1791,7 +2097,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0011",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1811,7 +2121,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0011",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1831,7 +2145,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0011",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1856,7 +2174,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_file_path": "(건강보험심사평가원) 전문평가위원회 운영규정/별지/별지1_제척·기피·회피 사유가 있기에 신청(확인)서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1881,7 +2204,12 @@
             "target_unit": "BYL0004",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#BYL0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_file_path": "(건강보험심사평가원) 전문평가위원회 운영규정/별표/별표4_제척·기피·회피 등 세부사항 (제11조제5항관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1929,7 +2257,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 전문평가위원회 운영규정/(건강보험심사평가원) 전문평가위원회 운영규정.json",
+            "target_git_file_path": "(건강보험심사평가원) 전문평가위원회 운영규정/별지/별지5_부당 청탁사실 보고(신고)서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1961,7 +2294,9 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0014",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1981,7 +2316,9 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)전문평가위원회운영규정#JO0014",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

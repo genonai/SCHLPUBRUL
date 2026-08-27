@@ -142,7 +142,9 @@
             "source_provision_id": "SchlPubRul:인천관광기업지원센터운영규정#JO0008",
             "reference_id": "law:보조금관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json"
+            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_git_path": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -162,7 +164,11 @@
             "source_provision_id": "SchlPubRul:인천관광기업지원센터운영규정#JO0008",
             "reference_id": "admrul:국고보조금통합관리지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국고보조금통합관리지침/국고보조금통합관리지침.json"
+            "target_git_path_guess": "국고보조금통합관리지침/국고보조금통합관리지침.json",
+            "target_git_path": "국고보조금 통합관리지침/국고보조금 통합관리지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -182,7 +188,9 @@
             "source_provision_id": "SchlPubRul:인천관광기업지원센터운영규정#JO0008",
             "reference_id": "law:지방재정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방재정법/법률/지방재정법.json"
+            "target_git_path_guess": "지방재정법/법률/지방재정법.json",
+            "target_git_path": "지방재정법/법률/지방재정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",

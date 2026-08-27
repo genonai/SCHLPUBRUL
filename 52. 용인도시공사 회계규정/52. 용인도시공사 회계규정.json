@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:52.용인도시공사회계규정#JO0001",
             "reference_id": "law:지방공기업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -97,7 +99,9 @@
             "source_provision_id": "SchlPubRul:52.용인도시공사회계규정#JO0002",
             "reference_id": "law:지방공기업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -117,7 +121,9 @@
             "source_provision_id": "SchlPubRul:52.용인도시공사회계규정#JO0002",
             "reference_id": "law:지방회계법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방회계법/법률/지방회계법.json"
+            "target_git_path_guess": "지방회계법/법률/지방회계법.json",
+            "target_git_path": "지방회계법/법률/지방회계법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -137,7 +143,9 @@
             "source_provision_id": "SchlPubRul:52.용인도시공사회계규정#JO0002",
             "reference_id": "law:지방재정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방재정법/법률/지방재정법.json"
+            "target_git_path_guess": "지방재정법/법률/지방재정법.json",
+            "target_git_path": "지방재정법/법률/지방재정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -157,7 +165,9 @@
             "source_provision_id": "SchlPubRul:52.용인도시공사회계규정#JO0002",
             "reference_id": "law:지방자치단체를당사자로하는계약에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방자치단체를 당사자로 하는 계약에 관한 법률/법률/지방자치단체를 당사자로 하는 계약에 관한 법률.json"
+            "target_git_path_guess": "지방자치단체를 당사자로 하는 계약에 관한 법률/법률/지방자치단체를 당사자로 하는 계약에 관한 법률.json",
+            "target_git_path": "지방자치단체를 당사자로 하는 계약에 관한 법률/법률/지방자치단체를 당사자로 하는 계약에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -304,7 +314,9 @@
             "source_provision_id": "SchlPubRul:52.용인도시공사회계규정#JO0010",
             "reference_id": "law:회계관계직원등의책임에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json"
+            "target_git_path_guess": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json",
+            "target_git_path": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -336,7 +348,11 @@
             "source_provision_id": "SchlPubRul:52.용인도시공사회계규정#JO0011",
             "reference_id": "SchlPubRul:52.용인도시공사회계규정#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json"
+            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_path": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -368,7 +384,11 @@
             "source_provision_id": "SchlPubRul:52.용인도시공사회계규정#JO0012",
             "reference_id": "SchlPubRul:52.용인도시공사회계규정#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json"
+            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_path": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -398,9 +418,14 @@
             "target_url": "https://www.law.go.kr/법령/사무관리규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:52.용인도시공사회계규정#JO0013",
-            "reference_id": "law:사무관리규정#DOC",
+            "reference_id": "SchlPubRul:사무관리규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "사무관리규정/법률/사무관리규정.json"
+            "target_git_path_guess": "사무관리규정/법률/사무관리규정.json",
+            "target_git_path": "사무관리규정/public_2139481/사무관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관",
+            "target_candidates": 3
           }
         ],
         "images": [],
@@ -465,7 +490,11 @@
             "source_provision_id": "SchlPubRul:52.용인도시공사회계규정#JO0017",
             "reference_id": "SchlPubRul:52.용인도시공사회계규정#JO0015",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json"
+            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_path": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -485,7 +514,11 @@
             "source_provision_id": "SchlPubRul:52.용인도시공사회계규정#JO0017",
             "reference_id": "SchlPubRul:52.용인도시공사회계규정#JO0016",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json"
+            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_path": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -583,7 +616,9 @@
             "source_provision_id": "SchlPubRul:52.용인도시공사회계규정#JO0024",
             "reference_id": "law:법인세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "법인세법/법률/법인세법.json"
+            "target_git_path_guess": "법인세법/법률/법인세법.json",
+            "target_git_path": "법인세법/법률/법인세법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -719,7 +754,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:52.용인도시공사회계규정#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json"
+            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_path": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_file_path": "52. 용인도시공사 회계규정/별지/별지1_총계정원장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -744,7 +784,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:52.용인도시공사회계규정#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json"
+            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_path": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_file_path": "52. 용인도시공사 회계규정/별지/별지2_자금수입기록.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -769,7 +814,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:52.용인도시공사회계규정#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json"
+            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_path": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_file_path": "52. 용인도시공사 회계규정/별지/별지3_자금지출기록부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -794,7 +844,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:52.용인도시공사회계규정#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json"
+            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_path": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_file_path": "52. 용인도시공사 회계규정/별지/별지4_수입예산정리부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -819,7 +874,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:52.용인도시공사회계규정#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json"
+            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_path": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_file_path": "52. 용인도시공사 회계규정/별지/별지5_지출예산통제원장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -844,7 +904,12 @@
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:52.용인도시공사회계규정#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json"
+            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_path": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_file_path": "52. 용인도시공사 회계규정/별지/별지6_일반분개전.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -869,7 +934,12 @@
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:52.용인도시공사회계규정#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json"
+            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_path": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_file_path": "52. 용인도시공사 회계규정/별지/별지7_재고회계분류원장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -894,7 +964,12 @@
             "target_unit": "BJ0008",
             "reference_id": "SchlPubRul:52.용인도시공사회계규정#BJ0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json"
+            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_path": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_file_path": "52. 용인도시공사 회계규정/별지/별지8_저장품대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -919,7 +994,12 @@
             "target_unit": "BJ0009",
             "reference_id": "SchlPubRul:52.용인도시공사회계규정#BJ0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json"
+            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_path": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_file_path": "52. 용인도시공사 회계규정/별지/별지9_임대주택대.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -944,7 +1024,12 @@
             "target_unit": "BJ0010",
             "reference_id": "SchlPubRul:52.용인도시공사회계규정#BJ0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json"
+            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_path": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_file_path": "52. 용인도시공사 회계규정/별지/별지10_토지대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -969,7 +1054,12 @@
             "target_unit": "BJ0011",
             "reference_id": "SchlPubRul:52.용인도시공사회계규정#BJ0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json"
+            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_path": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_file_path": "52. 용인도시공사 회계규정/별지/별지11_건물대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -994,7 +1084,12 @@
             "target_unit": "BJ0012",
             "reference_id": "SchlPubRul:52.용인도시공사회계규정#BJ0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json"
+            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_path": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_file_path": "52. 용인도시공사 회계규정/별지/별지12_기계장치대장 구축물대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1019,7 +1114,12 @@
             "target_unit": "BJ0013",
             "reference_id": "SchlPubRul:52.용인도시공사회계규정#BJ0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json"
+            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_path": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_file_path": "52. 용인도시공사 회계규정/별지/별지13_공구기구및비품대장 차량운반구대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1044,7 +1144,12 @@
             "target_unit": "BJ0014",
             "reference_id": "SchlPubRul:52.용인도시공사회계규정#BJ0014",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json"
+            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_path": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_file_path": "52. 용인도시공사 회계규정/별지/별지14_기채 상환대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1069,7 +1174,12 @@
             "target_unit": "BJ0015",
             "reference_id": "SchlPubRul:52.용인도시공사회계규정#BJ0015",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json"
+            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_path": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_file_path": "52. 용인도시공사 회계규정/별지/별지15_수입지출외 현금출납부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1094,7 +1204,12 @@
             "target_unit": "BJ0016",
             "reference_id": "SchlPubRul:52.용인도시공사회계규정#BJ0016",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json"
+            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_path": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_file_path": "52. 용인도시공사 회계규정/별지/별지16_유가증권수급부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1236,7 +1351,9 @@
             "source_provision_id": "SchlPubRul:52.용인도시공사회계규정#JO0045",
             "reference_id": "law:지방자치단체를당사자로하는계약에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방자치단체를 당사자로 하는 계약에 관한 법률/법률/지방자치단체를 당사자로 하는 계약에 관한 법률.json"
+            "target_git_path_guess": "지방자치단체를 당사자로 하는 계약에 관한 법률/법률/지방자치단체를 당사자로 하는 계약에 관한 법률.json",
+            "target_git_path": "지방자치단체를 당사자로 하는 계약에 관한 법률/법률/지방자치단체를 당사자로 하는 계약에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1256,7 +1373,11 @@
             "source_provision_id": "SchlPubRul:52.용인도시공사회계규정#JO0045",
             "reference_id": "SchlPubRul:52.용인도시공사회계규정#JO0065",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json"
+            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_path": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1414,7 +1535,12 @@
             "target_unit": "BJ0017",
             "reference_id": "SchlPubRul:52.용인도시공사회계규정#BJ0017",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json"
+            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_path": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_file_path": "52. 용인도시공사 회계규정/별지/별지17_수입결의.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1479,7 +1605,11 @@
             "source_provision_id": "SchlPubRul:52.용인도시공사회계규정#JO0061",
             "reference_id": "SchlPubRul:52.용인도시공사회계규정#JO0057",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json"
+            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_path": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1511,7 +1641,11 @@
             "source_provision_id": "SchlPubRul:52.용인도시공사회계규정#JO0062",
             "reference_id": "SchlPubRul:52.용인도시공사회계규정#JO0057",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json"
+            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_path": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -1531,7 +1665,11 @@
             "source_provision_id": "SchlPubRul:52.용인도시공사회계규정#JO0062",
             "reference_id": "SchlPubRul:52.용인도시공사회계규정#JO0061",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json"
+            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_path": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1556,7 +1694,12 @@
             "target_unit": "BJ0018",
             "reference_id": "SchlPubRul:52.용인도시공사회계규정#BJ0018",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json"
+            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_path": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_file_path": "52. 용인도시공사 회계규정/별지/별지18_영수증 납입통지서 영수필통지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1648,7 +1791,12 @@
             "target_unit": "BJ0019",
             "reference_id": "SchlPubRul:52.용인도시공사회계규정#BJ0019",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json"
+            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_path": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_file_path": "52. 용인도시공사 회계규정/별지/별지19_과오납금반환청구.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1673,7 +1821,12 @@
             "target_unit": "BJ0020",
             "reference_id": "SchlPubRul:52.용인도시공사회계규정#BJ0020",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json"
+            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_path": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_file_path": "52. 용인도시공사 회계규정/별지/별지20_과오납금반환결의서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1698,7 +1851,12 @@
             "target_unit": "BJ0021",
             "reference_id": "SchlPubRul:52.용인도시공사회계규정#BJ0021",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json"
+            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_path": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_file_path": "52. 용인도시공사 회계규정/별지/별지21_과오납금반환통지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1812,7 +1970,12 @@
             "target_unit": "BJ0022",
             "reference_id": "SchlPubRul:52.용인도시공사회계규정#BJ0022",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json"
+            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_path": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_file_path": "52. 용인도시공사 회계규정/별지/별지22_일반 지출결의.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1860,7 +2023,12 @@
             "target_unit": "BJ0023",
             "reference_id": "SchlPubRul:52.용인도시공사회계규정#BJ0023",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json"
+            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_path": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_file_path": "52. 용인도시공사 회계규정/별지/별지23_통상지급통지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1892,7 +2060,9 @@
             "source_provision_id": "SchlPubRul:52.용인도시공사회계규정#JO0079",
             "reference_id": "law:지방회계법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방회계법/법률/지방회계법.json"
+            "target_git_path_guess": "지방회계법/법률/지방회계법.json",
+            "target_git_path": "지방회계법/법률/지방회계법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1912,7 +2082,9 @@
             "source_provision_id": "SchlPubRul:52.용인도시공사회계규정#JO0079",
             "reference_id": "law:지방회계법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방회계법/법률/지방회계법.json"
+            "target_git_path_guess": "지방회계법/법률/지방회계법.json",
+            "target_git_path": "지방회계법/법률/지방회계법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1932,7 +2104,9 @@
             "source_provision_id": "SchlPubRul:52.용인도시공사회계규정#JO0079",
             "reference_id": "law:지방회계법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방회계법/법률/지방회계법.json"
+            "target_git_path_guess": "지방회계법/법률/지방회계법.json",
+            "target_git_path": "지방회계법/법률/지방회계법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2013,7 +2187,12 @@
             "target_unit": "BJ0024",
             "reference_id": "SchlPubRul:52.용인도시공사회계규정#BJ0024",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json"
+            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_path": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_file_path": "52. 용인도시공사 회계규정/별지/별지24_계좌대체의뢰.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -2061,7 +2240,12 @@
             "target_unit": "BJ0025",
             "reference_id": "SchlPubRul:52.용인도시공사회계규정#BJ0025",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json"
+            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_path": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_file_path": "52. 용인도시공사 회계규정/별지/별지25_여입결의.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2086,7 +2270,12 @@
             "target_unit": "BJ0026",
             "reference_id": "SchlPubRul:52.용인도시공사회계규정#BJ0026",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json"
+            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_path": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_file_path": "52. 용인도시공사 회계규정/별지/별지26_반납고지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -2210,7 +2399,12 @@
             "target_unit": "BJ0027",
             "reference_id": "SchlPubRul:52.용인도시공사회계규정#BJ0027",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json"
+            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_path": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_file_path": "52. 용인도시공사 회계규정/별지/별지27_수입지출외 현금 일시보관유가증권 납부서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2235,7 +2429,12 @@
             "target_unit": "BJ0028",
             "reference_id": "SchlPubRul:52.용인도시공사회계규정#BJ0028",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json"
+            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_path": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_file_path": "52. 용인도시공사 회계규정/별지/별지28_수입지출외현금 일시보관유가증권 반환청구.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -2316,7 +2515,12 @@
             "target_unit": "BJ0027",
             "reference_id": "SchlPubRul:52.용인도시공사회계규정#BJ0027",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json"
+            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_path": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_file_path": "52. 용인도시공사 회계규정/별지/별지27_수입지출외 현금 일시보관유가증권 납부서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2341,7 +2545,12 @@
             "target_unit": "BJ0028",
             "reference_id": "SchlPubRul:52.용인도시공사회계규정#BJ0028",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json"
+            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_path": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_file_path": "52. 용인도시공사 회계규정/별지/별지28_수입지출외현금 일시보관유가증권 반환청구.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -2395,7 +2604,9 @@
             "source_provision_id": "SchlPubRul:52.용인도시공사회계규정#JO0101",
             "reference_id": "law:지방공기업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2415,7 +2626,9 @@
             "source_provision_id": "SchlPubRul:52.용인도시공사회계규정#JO0101",
             "reference_id": "law:지방공기업법#JO0048",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2496,7 +2709,12 @@
             "target_unit": "BJ0029",
             "reference_id": "SchlPubRul:52.용인도시공사회계규정#BJ0029",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json"
+            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_path": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_file_path": "52. 용인도시공사 회계규정/별지/별지29_수입지출원장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2521,7 +2739,12 @@
             "target_unit": "BJ0030",
             "reference_id": "SchlPubRul:52.용인도시공사회계규정#BJ0030",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json"
+            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_path": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_file_path": "52. 용인도시공사 회계규정/별지/별지30_수입금내역.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2546,7 +2769,12 @@
             "target_unit": "BJ0031",
             "reference_id": "SchlPubRul:52.용인도시공사회계규정#BJ0031",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json"
+            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_path": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_file_path": "52. 용인도시공사 회계규정/별지/별지31_지출금내역.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2571,7 +2799,12 @@
             "target_unit": "BJ0032",
             "reference_id": "SchlPubRul:52.용인도시공사회계규정#BJ0032",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json"
+            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_path": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_file_path": "52. 용인도시공사 회계규정/별지/별지32_수입지출외현금출납장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2596,7 +2829,12 @@
             "target_unit": "BJ0033",
             "reference_id": "SchlPubRul:52.용인도시공사회계규정#BJ0033",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json"
+            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_path": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_file_path": "52. 용인도시공사 회계규정/별지/별지33_유가증권수급.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2621,7 +2859,12 @@
             "target_unit": "BJ0029",
             "reference_id": "SchlPubRul:52.용인도시공사회계규정#BJ0029",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json"
+            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_path": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_file_path": "52. 용인도시공사 회계규정/별지/별지29_수입지출원장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2646,7 +2889,12 @@
             "target_unit": "BJ0030",
             "reference_id": "SchlPubRul:52.용인도시공사회계규정#BJ0030",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json"
+            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_path": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_file_path": "52. 용인도시공사 회계규정/별지/별지30_수입금내역.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2671,7 +2919,12 @@
             "target_unit": "BJ0031",
             "reference_id": "SchlPubRul:52.용인도시공사회계규정#BJ0031",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json"
+            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_path": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_file_path": "52. 용인도시공사 회계규정/별지/별지31_지출금내역.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2696,7 +2949,12 @@
             "target_unit": "BJ0032",
             "reference_id": "SchlPubRul:52.용인도시공사회계규정#BJ0032",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json"
+            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_path": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_file_path": "52. 용인도시공사 회계규정/별지/별지32_수입지출외현금출납장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2721,7 +2979,12 @@
             "target_unit": "BJ0033",
             "reference_id": "SchlPubRul:52.용인도시공사회계규정#BJ0033",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json"
+            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_path": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_file_path": "52. 용인도시공사 회계규정/별지/별지33_유가증권수급.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -2863,7 +3126,9 @@
             "source_provision_id": "SchlPubRul:52.용인도시공사회계규정#JO0117",
             "reference_id": "law:자산재평가법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "자산재평가법/법률/자산재평가법.json"
+            "target_git_path_guess": "자산재평가법/법률/자산재평가법.json",
+            "target_git_path": "자산재평가법/법률/자산재평가법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2915,7 +3180,11 @@
             "source_provision_id": "SchlPubRul:52.용인도시공사회계규정#JO0118",
             "reference_id": "SchlPubRul:52.용인도시공사회계규정#JO0117",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json"
+            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_path": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -3277,7 +3546,9 @@
             "source_provision_id": "SchlPubRul:52.용인도시공사회계규정#JO0149",
             "reference_id": "law:자산재평가법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "자산재평가법/법률/자산재평가법.json"
+            "target_git_path_guess": "자산재평가법/법률/자산재평가법.json",
+            "target_git_path": "자산재평가법/법률/자산재평가법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -3331,7 +3602,9 @@
             "source_provision_id": "SchlPubRul:52.용인도시공사회계규정#JO0152",
             "reference_id": "law:법인세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "법인세법/법률/법인세법.json"
+            "target_git_path_guess": "법인세법/법률/법인세법.json",
+            "target_git_path": "법인세법/법률/법인세법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -3396,7 +3669,9 @@
             "source_provision_id": "SchlPubRul:52.용인도시공사회계규정#JO0156",
             "reference_id": "law:법인세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "법인세법/법률/법인세법.json"
+            "target_git_path_guess": "법인세법/법률/법인세법.json",
+            "target_git_path": "법인세법/법률/법인세법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -3516,7 +3791,9 @@
             "source_provision_id": "SchlPubRul:52.용인도시공사회계규정#JO0165",
             "reference_id": "law:법인세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "법인세법/법률/법인세법.json"
+            "target_git_path_guess": "법인세법/법률/법인세법.json",
+            "target_git_path": "법인세법/법률/법인세법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -3625,7 +3902,9 @@
             "source_provision_id": "SchlPubRul:52.용인도시공사회계규정#JO0173",
             "reference_id": "law:법인세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "법인세법/법률/법인세법.json"
+            "target_git_path_guess": "법인세법/법률/법인세법.json",
+            "target_git_path": "법인세법/법률/법인세법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -3871,7 +4150,12 @@
             "target_unit": "BJ0034",
             "reference_id": "SchlPubRul:52.용인도시공사회계규정#BJ0034",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json"
+            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_path": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_file_path": "52. 용인도시공사 회계규정/별지/별지34_계속비이월요구서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -3896,7 +4180,12 @@
             "target_unit": "BJ0035",
             "reference_id": "SchlPubRul:52.용인도시공사회계규정#BJ0035",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json"
+            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_path": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_file_path": "52. 용인도시공사 회계규정/별지/별지35_계속비정산보고.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -3933,7 +4222,12 @@
             "target_unit": "BJ0036",
             "reference_id": "SchlPubRul:52.용인도시공사회계규정#BJ0036",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json"
+            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_path": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_file_path": "52. 용인도시공사 회계규정/별지/별지36_예비비지출요구서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -3987,7 +4281,11 @@
             "source_provision_id": "SchlPubRul:52.용인도시공사회계규정#JO0196_02",
             "reference_id": "SchlPubRul:52.용인도시공사회계규정#JO0196",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json"
+            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_path": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -4151,7 +4449,9 @@
             "source_provision_id": "SchlPubRul:52.용인도시공사회계규정#JO0208",
             "reference_id": "law:지방공기업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -4381,7 +4681,9 @@
             "source_provision_id": "SchlPubRul:52.용인도시공사회계규정#JO0227",
             "reference_id": "law:지방재정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방재정법/법률/지방재정법.json"
+            "target_git_path_guess": "지방재정법/법률/지방재정법.json",
+            "target_git_path": "지방재정법/법률/지방재정법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -4468,7 +4770,11 @@
             "source_provision_id": "SchlPubRul:52.용인도시공사회계규정#JO0233",
             "reference_id": "SchlPubRul:52.용인도시공사회계규정#JO0217",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json"
+            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_path": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -4500,7 +4806,11 @@
             "source_provision_id": "SchlPubRul:52.용인도시공사회계규정#JO0234",
             "reference_id": "SchlPubRul:52.용인도시공사회계규정#JO0233",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json"
+            "target_git_path_guess": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_git_path": "52. 용인도시공사 회계규정/52. 용인도시공사 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -4565,7 +4875,9 @@
             "source_provision_id": "SchlPubRul:52.용인도시공사회계규정#JO0238",
             "reference_id": "law:지방자치단체를당사자로하는계약에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방자치단체를 당사자로 하는 계약에 관한 법률/법률/지방자치단체를 당사자로 하는 계약에 관한 법률.json"
+            "target_git_path_guess": "지방자치단체를 당사자로 하는 계약에 관한 법률/법률/지방자치단체를 당사자로 하는 계약에 관한 법률.json",
+            "target_git_path": "지방자치단체를 당사자로 하는 계약에 관한 법률/법률/지방자치단체를 당사자로 하는 계약에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

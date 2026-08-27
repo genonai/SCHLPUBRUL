@@ -76,7 +76,9 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))안전보건관리규정#JO0002",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -96,7 +98,9 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))안전보건관리규정#JO0002",
             "reference_id": "law:근로기준법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -116,7 +120,9 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))안전보건관리규정#JO0002",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -136,7 +142,9 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))안전보건관리규정#JO0002",
             "reference_id": "law:산업안전보건법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -156,7 +164,9 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))안전보건관리규정#JO0002",
             "reference_id": "law:산업안전보건법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -176,7 +186,9 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))안전보건관리규정#JO0002",
             "reference_id": "law:산업안전보건기준에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -196,7 +208,11 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))안전보건관리규정#JO0002",
             "reference_id": "SchlPubRul:(코레일로지스(주))안전보건관리규정#JO0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(코레일로지스(주)) 안전보건관리 규정/(코레일로지스(주)) 안전보건관리 규정.json"
+            "target_git_path_guess": "(코레일로지스(주)) 안전보건관리 규정/(코레일로지스(주)) 안전보건관리 규정.json",
+            "target_git_path": "(코레일로지스(주)) 안전보건관리 규정/(코레일로지스(주)) 안전보건관리 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -288,7 +304,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(코레일로지스(주))안전보건관리규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(코레일로지스(주)) 안전보건관리 규정/(코레일로지스(주)) 안전보건관리 규정.json"
+            "target_git_path_guess": "(코레일로지스(주)) 안전보건관리 규정/(코레일로지스(주)) 안전보건관리 규정.json",
+            "target_git_path": "(코레일로지스(주)) 안전보건관리 규정/(코레일로지스(주)) 안전보건관리 규정.json",
+            "target_git_file_path": "(코레일로지스(주)) 안전보건관리 규정/별표/별표1_안전보건관리 조직도.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -308,7 +329,9 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))안전보건관리규정#JO0006",
             "reference_id": "law:중대재해처벌등에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중대재해 처벌 등에 관한 법률/시행령/중대재해 처벌 등에 관한 법률 시행령.json"
+            "target_git_path_guess": "중대재해 처벌 등에 관한 법률/시행령/중대재해 처벌 등에 관한 법률 시행령.json",
+            "target_git_path": "중대재해 처벌 등에 관한 법률/시행령/중대재해 처벌 등에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -340,7 +363,9 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))안전보건관리규정#JO0006_02",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -360,7 +385,9 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))안전보건관리규정#JO0006_02",
             "reference_id": "law:산업안전보건법#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -380,7 +407,9 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))안전보건관리규정#JO0006_02",
             "reference_id": "law:산업안전보건법#JO0064",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -400,7 +429,11 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))안전보건관리규정#JO0006_02",
             "reference_id": "SchlPubRul:(코레일로지스(주))안전보건관리규정#JO0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(코레일로지스(주)) 안전보건관리 규정/(코레일로지스(주)) 안전보건관리 규정.json"
+            "target_git_path_guess": "(코레일로지스(주)) 안전보건관리 규정/(코레일로지스(주)) 안전보건관리 규정.json",
+            "target_git_path": "(코레일로지스(주)) 안전보건관리 규정/(코레일로지스(주)) 안전보건관리 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -420,7 +453,11 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))안전보건관리규정#JO0006_02",
             "reference_id": "SchlPubRul:(코레일로지스(주))안전보건관리규정#JO0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(코레일로지스(주)) 안전보건관리 규정/(코레일로지스(주)) 안전보건관리 규정.json"
+            "target_git_path_guess": "(코레일로지스(주)) 안전보건관리 규정/(코레일로지스(주)) 안전보건관리 규정.json",
+            "target_git_path": "(코레일로지스(주)) 안전보건관리 규정/(코레일로지스(주)) 안전보건관리 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -440,7 +477,9 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))안전보건관리규정#JO0006_02",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -460,7 +499,9 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))안전보건관리규정#JO0006_02",
             "reference_id": "law:산업안전보건법#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -613,7 +654,9 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))안전보건관리규정#JO0012_03",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -633,7 +676,9 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))안전보건관리규정#JO0012_03",
             "reference_id": "law:산업안전보건법#JO0029",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -653,7 +698,9 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))안전보건관리규정#JO0012_03",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -673,7 +720,9 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))안전보건관리규정#JO0012_03",
             "reference_id": "law:산업안전보건법#JO0029",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -693,7 +742,9 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))안전보건관리규정#JO0012_03",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -713,7 +764,9 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))안전보건관리규정#JO0012_03",
             "reference_id": "law:산업안전보건법#JO0029",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -733,7 +786,9 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))안전보건관리규정#JO0012_03",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -753,7 +808,9 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))안전보건관리규정#JO0012_03",
             "reference_id": "law:산업안전보건법#JO0029",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -785,7 +842,11 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))안전보건관리규정#JO0012_04",
             "reference_id": "admrul:안전보건교육규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "안전보건교육규정/안전보건교육규정.json"
+            "target_git_path_guess": "안전보건교육규정/안전보건교육규정.json",
+            "target_git_path": "안전보건교육규정/안전보건교육규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -861,7 +922,11 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))안전보건관리규정#JO0016",
             "reference_id": "admrul:사업장위험성평가에관한지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "사업장 위험성평가에 관한 지침/사업장 위험성평가에 관한 지침.json"
+            "target_git_path_guess": "사업장 위험성평가에 관한 지침/사업장 위험성평가에 관한 지침.json",
+            "target_git_path": "사업장 위험성평가에 관한 지침/사업장 위험성평가에 관한 지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -926,7 +991,11 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))안전보건관리규정#JO0020",
             "reference_id": "SchlPubRul:(코레일로지스(주))안전보건관리규정#JO0018",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(코레일로지스(주)) 안전보건관리 규정/(코레일로지스(주)) 안전보건관리 규정.json"
+            "target_git_path_guess": "(코레일로지스(주)) 안전보건관리 규정/(코레일로지스(주)) 안전보건관리 규정.json",
+            "target_git_path": "(코레일로지스(주)) 안전보건관리 규정/(코레일로지스(주)) 안전보건관리 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -946,7 +1015,11 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))안전보건관리규정#JO0020",
             "reference_id": "SchlPubRul:(코레일로지스(주))안전보건관리규정#JO0019",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(코레일로지스(주)) 안전보건관리 규정/(코레일로지스(주)) 안전보건관리 규정.json"
+            "target_git_path_guess": "(코레일로지스(주)) 안전보건관리 규정/(코레일로지스(주)) 안전보건관리 규정.json",
+            "target_git_path": "(코레일로지스(주)) 안전보건관리 규정/(코레일로지스(주)) 안전보건관리 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1000,7 +1073,9 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))안전보건관리규정#JO0022_02",
             "reference_id": "law:산업안전보건법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1020,7 +1095,9 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))안전보건관리규정#JO0022_02",
             "reference_id": "law:산업안전보건법시행규칙#JO0039",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1074,7 +1151,9 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))안전보건관리규정#JO0025",
             "reference_id": "law:국민건강보험법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json"
+            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json",
+            "target_git_path": "국민건강보험법/법률/국민건강보험법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1155,7 +1234,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:(코레일로지스(주))안전보건관리규정#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(코레일로지스(주)) 안전보건관리 규정/(코레일로지스(주)) 안전보건관리 규정.json"
+            "target_git_path_guess": "(코레일로지스(주)) 안전보건관리 규정/(코레일로지스(주)) 안전보건관리 규정.json",
+            "target_git_path": "(코레일로지스(주)) 안전보건관리 규정/(코레일로지스(주)) 안전보건관리 규정.json",
+            "target_git_file_path": "(코레일로지스(주)) 안전보건관리 규정/별표/별표2_사고보고체계 및 보고기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1180,7 +1264,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:(코레일로지스(주))안전보건관리규정#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(코레일로지스(주)) 안전보건관리 규정/(코레일로지스(주)) 안전보건관리 규정.json"
+            "target_git_path_guess": "(코레일로지스(주)) 안전보건관리 규정/(코레일로지스(주)) 안전보건관리 규정.json",
+            "target_git_path": "(코레일로지스(주)) 안전보건관리 규정/(코레일로지스(주)) 안전보건관리 규정.json",
+            "target_git_file_path": "(코레일로지스(주)) 안전보건관리 규정/별표/별표2_사고보고체계 및 보고기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1228,7 +1317,12 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:(코레일로지스(주))안전보건관리규정#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(코레일로지스(주)) 안전보건관리 규정/(코레일로지스(주)) 안전보건관리 규정.json"
+            "target_git_path_guess": "(코레일로지스(주)) 안전보건관리 규정/(코레일로지스(주)) 안전보건관리 규정.json",
+            "target_git_path": "(코레일로지스(주)) 안전보건관리 규정/(코레일로지스(주)) 안전보건관리 규정.json",
+            "target_git_file_path": "(코레일로지스(주)) 안전보건관리 규정/별표/별표3_사고발생시 업무처리 절차(제5장 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

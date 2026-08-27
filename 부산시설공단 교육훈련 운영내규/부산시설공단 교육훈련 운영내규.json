@@ -74,9 +74,13 @@
             "target_url": "https://www.law.go.kr/법령/제안규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:부산시설공단교육훈련운영내규#JO0002",
-            "reference_id": "law:제안규정#DOC",
+            "reference_id": "SchlPubRul:제안규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "제안규정/법률/제안규정.json"
+            "target_git_path_guess": "제안규정/법률/제안규정.json",
+            "target_git_path": "제안규정/제안규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -179,7 +183,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:부산시설공단교육훈련운영내규#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산시설공단 교육훈련 운영내규/부산시설공단 교육훈련 운영내규.json"
+            "target_git_path_guess": "부산시설공단 교육훈련 운영내규/부산시설공단 교육훈련 운영내규.json",
+            "target_git_path": "부산시설공단 교육훈련 운영내규/부산시설공단 교육훈련 운영내규.json",
+            "target_git_file_path": "부산시설공단 교육훈련 운영내규/별표/별표1_교육·학습 유형별 인정시간 기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],

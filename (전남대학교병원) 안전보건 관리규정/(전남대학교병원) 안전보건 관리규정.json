@@ -274,7 +274,9 @@
             "source_provision_id": "SchlPubRul:(전남대학교병원)안전보건관리규정#JO0014_01",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -294,7 +296,9 @@
             "source_provision_id": "SchlPubRul:(전남대학교병원)안전보건관리규정#JO0014_01",
             "reference_id": "law:근로기준법#JO0101",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -337,7 +341,11 @@
             "source_provision_id": "SchlPubRul:(전남대학교병원)안전보건관리규정#JO0016",
             "reference_id": "SchlPubRul:(전남대학교병원)안전보건관리규정#JO0015",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(전남대학교병원) 안전보건 관리규정/(전남대학교병원) 안전보건 관리규정.json"
+            "target_git_path_guess": "(전남대학교병원) 안전보건 관리규정/(전남대학교병원) 안전보건 관리규정.json",
+            "target_git_path": "(전남대학교병원) 안전보건 관리규정/(전남대학교병원) 안전보건 관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -407,7 +415,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(전남대학교병원)안전보건관리규정#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(전남대학교병원) 안전보건 관리규정/(전남대학교병원) 안전보건 관리규정.json"
+            "target_git_path_guess": "(전남대학교병원) 안전보건 관리규정/(전남대학교병원) 안전보건 관리규정.json",
+            "target_git_path": "(전남대학교병원) 안전보건 관리규정/(전남대학교병원) 안전보건 관리규정.json",
+            "target_git_file_path": "(전남대학교병원) 안전보건 관리규정/별지/별지1_안전보건교육실시 결과보고서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -565,7 +578,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(전남대학교병원)안전보건관리규정#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(전남대학교병원) 안전보건 관리규정/(전남대학교병원) 안전보건 관리규정.json"
+            "target_git_path_guess": "(전남대학교병원) 안전보건 관리규정/(전남대학교병원) 안전보건 관리규정.json",
+            "target_git_path": "(전남대학교병원) 안전보건 관리규정/(전남대학교병원) 안전보건 관리규정.json",
+            "target_git_file_path": "(전남대학교병원) 안전보건 관리규정/별지/별지2_안전사고 보고서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

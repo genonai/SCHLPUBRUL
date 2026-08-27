@@ -208,7 +208,11 @@
             "source_provision_id": "SchlPubRul:인천환경공단임원복무규정#JO0014",
             "reference_id": "SchlPubRul:인천환경공단보수규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천환경공단 보수규정/인천환경공단 보수규정.json"
+            "target_git_path_guess": "인천환경공단 보수규정/인천환경공단 보수규정.json",
+            "target_git_path": "인천환경공단 보수규정/인천환경공단 보수규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -233,7 +237,8 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:인천환경공단임원복무규정#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천환경공단 임원복무규정/인천환경공단 임원복무규정.json"
+            "target_git_path_guess": "인천환경공단 임원복무규정/인천환경공단 임원복무규정.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -287,7 +292,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단임원복무규정#JO0014_04",
             "reference_id": "law:지방공기업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -307,7 +314,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단임원복무규정#JO0014_04",
             "reference_id": "law:지방공기업법#JO0058",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -327,7 +336,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단임원복무규정#JO0014_04",
             "reference_id": "law:지방공기업법#JO0063_07",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -347,7 +358,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단임원복무규정#JO0014_04",
             "reference_id": "law:지방공기업법#JO0078_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -367,7 +380,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단임원복무규정#JO0014_04",
             "reference_id": "law:민법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -387,7 +402,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단임원복무규정#JO0014_04",
             "reference_id": "law:민법#JO0379",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -407,7 +424,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단임원복무규정#JO0014_04",
             "reference_id": "law:민법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -427,7 +446,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단임원복무규정#JO0014_04",
             "reference_id": "law:민법#JO0379",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

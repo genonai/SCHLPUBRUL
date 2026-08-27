@@ -131,7 +131,9 @@
             "source_provision_id": "SchlPubRul:06-02.인천광역시서해구시설관리공단보수규정시행내규#JO0007",
             "reference_id": "law:지방공무원수당등에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공무원 수당 등에 관한 규정/법률/지방공무원 수당 등에 관한 규정.json"
+            "target_git_path_guess": "지방공무원 수당 등에 관한 규정/법률/지방공무원 수당 등에 관한 규정.json",
+            "target_git_path": "지방공무원 수당 등에 관한 규정/법률/지방공무원 수당 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -151,7 +153,11 @@
             "source_provision_id": "SchlPubRul:06-02.인천광역시서해구시설관리공단보수규정시행내규#JO0007",
             "reference_id": "admrul:지방공무원보수업무등처리지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "지방공무원보수업무 등 처리지침/지방공무원보수업무 등 처리지침.json"
+            "target_git_path_guess": "지방공무원보수업무 등 처리지침/지방공무원보수업무 등 처리지침.json",
+            "target_git_path": "지방공무원보수업무 등 처리지침/지방공무원보수업무 등 처리지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],

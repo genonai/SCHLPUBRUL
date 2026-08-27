@@ -76,7 +76,9 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))위험성평가실시규정#JO0002",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -96,7 +98,9 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))위험성평가실시규정#JO0002",
             "reference_id": "law:산업안전보건법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -116,7 +120,11 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))위험성평가실시규정#JO0002",
             "reference_id": "admrul:사업장위험성평가에관한지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "사업장 위험성평가에 관한 지침/사업장 위험성평가에 관한 지침.json"
+            "target_git_path_guess": "사업장 위험성평가에 관한 지침/사업장 위험성평가에 관한 지침.json",
+            "target_git_path": "사업장 위험성평가에 관한 지침/사업장 위험성평가에 관한 지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -136,7 +144,9 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))위험성평가실시규정#JO0002",
             "reference_id": "law:중대재해처벌등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중대재해 처벌 등에 관한 법률/법률/중대재해 처벌 등에 관한 법률.json"
+            "target_git_path_guess": "중대재해 처벌 등에 관한 법률/법률/중대재해 처벌 등에 관한 법률.json",
+            "target_git_path": "중대재해 처벌 등에 관한 법률/법률/중대재해 처벌 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -154,9 +164,11 @@
             "target_url": "https://www.law.go.kr/법령/중대재해처벌법/제4조",
             "resolve_method": "text_supplement",
             "source_provision_id": "SchlPubRul:(코레일로지스(주))위험성평가실시규정#JO0002",
-            "reference_id": "law:중대재해처벌법#JO0004",
+            "reference_id": "law:중대재해처벌등에관한법률#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "중대재해처벌법/법률/중대재해처벌법.json"
+            "target_git_path_guess": "중대재해처벌법/법률/중대재해처벌법.json",
+            "target_git_path": "중대재해 처벌 등에 관한 법률/법률/중대재해 처벌 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -188,7 +200,9 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))위험성평가실시규정#JO0002_02",
             "reference_id": "law:산업안전보건법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -208,7 +222,9 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))위험성평가실시규정#JO0002_02",
             "reference_id": "law:산업안전보건기준에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건 기준에 관한 규칙/법률/산업안전보건 기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건 기준에 관한 규칙/법률/산업안전보건 기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -245,7 +261,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(코레일로지스(주))위험성평가실시규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(코레일로지스(주)) 위험성평가 실시규정/(코레일로지스(주)) 위험성평가 실시규정.json"
+            "target_git_path_guess": "(코레일로지스(주)) 위험성평가 실시규정/(코레일로지스(주)) 위험성평가 실시규정.json",
+            "target_git_path": "(코레일로지스(주)) 위험성평가 실시규정/(코레일로지스(주)) 위험성평가 실시규정.json",
+            "target_git_file_path": "(코레일로지스(주)) 위험성평가 실시규정/별표/별표1_위험성평가 조직 (제4조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -282,7 +303,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:(코레일로지스(주))위험성평가실시규정#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(코레일로지스(주)) 위험성평가 실시규정/(코레일로지스(주)) 위험성평가 실시규정.json"
+            "target_git_path_guess": "(코레일로지스(주)) 위험성평가 실시규정/(코레일로지스(주)) 위험성평가 실시규정.json",
+            "target_git_path": "(코레일로지스(주)) 위험성평가 실시규정/(코레일로지스(주)) 위험성평가 실시규정.json",
+            "target_git_file_path": "(코레일로지스(주)) 위험성평가 실시규정/별표/별표2_조직의 역할과 책임 (제5조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -352,7 +378,12 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:(코레일로지스(주))위험성평가실시규정#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(코레일로지스(주)) 위험성평가 실시규정/(코레일로지스(주)) 위험성평가 실시규정.json"
+            "target_git_path_guess": "(코레일로지스(주)) 위험성평가 실시규정/(코레일로지스(주)) 위험성평가 실시규정.json",
+            "target_git_path": "(코레일로지스(주)) 위험성평가 실시규정/(코레일로지스(주)) 위험성평가 실시규정.json",
+            "target_git_file_path": "(코레일로지스(주)) 위험성평가 실시규정/별표/별표3_위험성평가 추진절차 (제9조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -400,7 +431,12 @@
             "target_unit": "BYL0004",
             "reference_id": "SchlPubRul:(코레일로지스(주))위험성평가실시규정#BYL0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(코레일로지스(주)) 위험성평가 실시규정/(코레일로지스(주)) 위험성평가 실시규정.json"
+            "target_git_path_guess": "(코레일로지스(주)) 위험성평가 실시규정/(코레일로지스(주)) 위험성평가 실시규정.json",
+            "target_git_path": "(코레일로지스(주)) 위험성평가 실시규정/(코레일로지스(주)) 위험성평가 실시규정.json",
+            "target_git_file_path": "(코레일로지스(주)) 위험성평가 실시규정/별표/별표4_감소대책 수립 시 주의사항(제10조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -425,7 +461,12 @@
             "target_unit": "BYL0005",
             "reference_id": "SchlPubRul:(코레일로지스(주))위험성평가실시규정#BYL0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(코레일로지스(주)) 위험성평가 실시규정/(코레일로지스(주)) 위험성평가 실시규정.json"
+            "target_git_path_guess": "(코레일로지스(주)) 위험성평가 실시규정/(코레일로지스(주)) 위험성평가 실시규정.json",
+            "target_git_path": "(코레일로지스(주)) 위험성평가 실시규정/(코레일로지스(주)) 위험성평가 실시규정.json",
+            "target_git_file_path": "(코레일로지스(주)) 위험성평가 실시규정/별표/별표5_주요착안사항(제10조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -462,7 +503,12 @@
             "target_unit": "BYL0004",
             "reference_id": "SchlPubRul:(코레일로지스(주))위험성평가실시규정#BYL0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(코레일로지스(주)) 위험성평가 실시규정/(코레일로지스(주)) 위험성평가 실시규정.json"
+            "target_git_path_guess": "(코레일로지스(주)) 위험성평가 실시규정/(코레일로지스(주)) 위험성평가 실시규정.json",
+            "target_git_path": "(코레일로지스(주)) 위험성평가 실시규정/(코레일로지스(주)) 위험성평가 실시규정.json",
+            "target_git_file_path": "(코레일로지스(주)) 위험성평가 실시규정/별표/별표4_감소대책 수립 시 주의사항(제10조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -505,7 +551,9 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))위험성평가실시규정#JO0012",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -525,7 +573,9 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))위험성평가실시규정#JO0012",
             "reference_id": "law:산업안전보건법#JO0063",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

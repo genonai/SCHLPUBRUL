@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:(국민연금공단)국민연금심사위원회운영규정#JO0001",
             "reference_id": "law:국민연금법#JO0109",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민연금법/법률/국민연금법.json"
+            "target_git_path_guess": "국민연금법/법률/국민연금법.json",
+            "target_git_path": "국민연금법/법률/국민연금법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -85,7 +87,9 @@
             "source_provision_id": "SchlPubRul:(국민연금공단)국민연금심사위원회운영규정#JO0001",
             "reference_id": "law:국민연금법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민연금법/시행령/국민연금법 시행령.json"
+            "target_git_path_guess": "국민연금법/시행령/국민연금법 시행령.json",
+            "target_git_path": "국민연금법/시행령/국민연금법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -105,7 +109,9 @@
             "source_provision_id": "SchlPubRul:(국민연금공단)국민연금심사위원회운영규정#JO0001",
             "reference_id": "law:국민연금법시행령#JO0102",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민연금법/시행령/국민연금법 시행령.json"
+            "target_git_path_guess": "국민연금법/시행령/국민연금법 시행령.json",
+            "target_git_path": "국민연금법/시행령/국민연금법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -137,7 +143,9 @@
             "source_provision_id": "SchlPubRul:(국민연금공단)국민연금심사위원회운영규정#JO0002",
             "reference_id": "law:국민연금법#JO0108",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민연금법/법률/국민연금법.json"
+            "target_git_path_guess": "국민연금법/법률/국민연금법.json",
+            "target_git_path": "국민연금법/법률/국민연금법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -157,7 +165,9 @@
             "source_provision_id": "SchlPubRul:(국민연금공단)국민연금심사위원회운영규정#JO0002",
             "reference_id": "law:국민연금법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민연금법/시행령/국민연금법 시행령.json"
+            "target_git_path_guess": "국민연금법/시행령/국민연금법 시행령.json",
+            "target_git_path": "국민연금법/시행령/국민연금법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -177,7 +187,9 @@
             "source_provision_id": "SchlPubRul:(국민연금공단)국민연금심사위원회운영규정#JO0002",
             "reference_id": "law:국민연금법시행령#JO0088",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민연금법/시행령/국민연금법 시행령.json"
+            "target_git_path_guess": "국민연금법/시행령/국민연금법 시행령.json",
+            "target_git_path": "국민연금법/시행령/국민연금법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -202,7 +214,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(국민연금공단)국민연금심사위원회운영규정#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국민연금공단) 국민연금심사위원회운영규정/(국민연금공단) 국민연금심사위원회운영규정.json"
+            "target_git_path_guess": "(국민연금공단) 국민연금심사위원회운영규정/(국민연금공단) 국민연금심사위원회운영규정.json",
+            "target_git_path": "(국민연금공단) 국민연금심사위원회운영규정/(국민연금공단) 국민연금심사위원회운영규정.json",
+            "target_git_file_path": "(국민연금공단) 국민연금심사위원회운영규정/별지/별지1_의견서(제2조제3항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -239,7 +256,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(국민연금공단)국민연금심사위원회운영규정#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국민연금공단) 국민연금심사위원회운영규정/(국민연금공단) 국민연금심사위원회운영규정.json"
+            "target_git_path_guess": "(국민연금공단) 국민연금심사위원회운영규정/(국민연금공단) 국민연금심사위원회운영규정.json",
+            "target_git_path": "(국민연금공단) 국민연금심사위원회운영규정/(국민연금공단) 국민연금심사위원회운영규정.json",
+            "target_git_file_path": "(국민연금공단) 국민연금심사위원회운영규정/별지/별지2_위임장(제3조제1항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -264,7 +286,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:(국민연금공단)국민연금심사위원회운영규정#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국민연금공단) 국민연금심사위원회운영규정/(국민연금공단) 국민연금심사위원회운영규정.json"
+            "target_git_path_guess": "(국민연금공단) 국민연금심사위원회운영규정/(국민연금공단) 국민연금심사위원회운영규정.json",
+            "target_git_path": "(국민연금공단) 국민연금심사위원회운영규정/(국민연금공단) 국민연금심사위원회운영규정.json",
+            "target_git_file_path": "(국민연금공단) 국민연금심사위원회운영규정/별지/별지3_대표자선정서(제3조제2항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -296,7 +323,9 @@
             "source_provision_id": "SchlPubRul:(국민연금공단)국민연금심사위원회운영규정#JO0004",
             "reference_id": "law:국민연금법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민연금법/시행령/국민연금법 시행령.json"
+            "target_git_path_guess": "국민연금법/시행령/국민연금법 시행령.json",
+            "target_git_path": "국민연금법/시행령/국민연금법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -316,7 +345,9 @@
             "source_provision_id": "SchlPubRul:(국민연금공단)국민연금심사위원회운영규정#JO0004",
             "reference_id": "law:국민연금법시행령#JO0092",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민연금법/시행령/국민연금법 시행령.json"
+            "target_git_path_guess": "국민연금법/시행령/국민연금법 시행령.json",
+            "target_git_path": "국민연금법/시행령/국민연금법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -348,7 +379,11 @@
             "source_provision_id": "SchlPubRul:(국민연금공단)국민연금심사위원회운영규정#JO0005",
             "reference_id": "SchlPubRul:(국민연금공단)국민연금심사위원회운영규정#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국민연금공단) 국민연금심사위원회운영규정/(국민연금공단) 국민연금심사위원회운영규정.json"
+            "target_git_path_guess": "(국민연금공단) 국민연금심사위원회운영규정/(국민연금공단) 국민연금심사위원회운영규정.json",
+            "target_git_path": "(국민연금공단) 국민연금심사위원회운영규정/(국민연금공단) 국민연금심사위원회운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -368,7 +403,11 @@
             "source_provision_id": "SchlPubRul:(국민연금공단)국민연금심사위원회운영규정#JO0005",
             "reference_id": "SchlPubRul:(국민연금공단)국민연금심사위원회운영규정#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국민연금공단) 국민연금심사위원회운영규정/(국민연금공단) 국민연금심사위원회운영규정.json"
+            "target_git_path_guess": "(국민연금공단) 국민연금심사위원회운영규정/(국민연금공단) 국민연금심사위원회운영규정.json",
+            "target_git_path": "(국민연금공단) 국민연금심사위원회운영규정/(국민연금공단) 국민연금심사위원회운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -405,7 +444,12 @@
             "target_unit": "BJ0010",
             "reference_id": "SchlPubRul:(국민연금공단)국민연금심사위원회운영규정#BJ0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국민연금공단) 국민연금심사위원회운영규정/(국민연금공단) 국민연금심사위원회운영규정.json"
+            "target_git_path_guess": "(국민연금공단) 국민연금심사위원회운영규정/(국민연금공단) 국민연금심사위원회운영규정.json",
+            "target_git_path": "(국민연금공단) 국민연금심사위원회운영규정/(국민연금공단) 국민연금심사위원회운영규정.json",
+            "target_git_file_path": "(국민연금공단) 국민연금심사위원회운영규정/별지/별지10_청렴서약서(제6조제2항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -437,7 +481,9 @@
             "source_provision_id": "SchlPubRul:(국민연금공단)국민연금심사위원회운영규정#JO0007",
             "reference_id": "law:행정심판법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정심판법/법률/행정심판법.json"
+            "target_git_path_guess": "행정심판법/법률/행정심판법.json",
+            "target_git_path": "행정심판법/법률/행정심판법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -457,7 +503,9 @@
             "source_provision_id": "SchlPubRul:(국민연금공단)국민연금심사위원회운영규정#JO0007",
             "reference_id": "law:행정심판법#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정심판법/법률/행정심판법.json"
+            "target_git_path_guess": "행정심판법/법률/행정심판법.json",
+            "target_git_path": "행정심판법/법률/행정심판법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -477,7 +525,9 @@
             "source_provision_id": "SchlPubRul:(국민연금공단)국민연금심사위원회운영규정#JO0007",
             "reference_id": "law:공직자의이해충돌방지법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공직자의 이해충돌 방지법/법률/공직자의 이해충돌 방지법.json"
+            "target_git_path_guess": "공직자의 이해충돌 방지법/법률/공직자의 이해충돌 방지법.json",
+            "target_git_path": "공직자의 이해충돌 방지법/법률/공직자의 이해충돌 방지법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -497,7 +547,9 @@
             "source_provision_id": "SchlPubRul:(국민연금공단)국민연금심사위원회운영규정#JO0007",
             "reference_id": "law:공직자의이해충돌방지법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "공직자의 이해충돌 방지법/법률/공직자의 이해충돌 방지법.json"
+            "target_git_path_guess": "공직자의 이해충돌 방지법/법률/공직자의 이해충돌 방지법.json",
+            "target_git_path": "공직자의 이해충돌 방지법/법률/공직자의 이해충돌 방지법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -551,7 +603,9 @@
             "source_provision_id": "SchlPubRul:(국민연금공단)국민연금심사위원회운영규정#JO0010",
             "reference_id": "law:국민연금법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민연금법/시행령/국민연금법 시행령.json"
+            "target_git_path_guess": "국민연금법/시행령/국민연금법 시행령.json",
+            "target_git_path": "국민연금법/시행령/국민연금법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -571,7 +625,9 @@
             "source_provision_id": "SchlPubRul:(국민연금공단)국민연금심사위원회운영규정#JO0010",
             "reference_id": "law:국민연금법시행령#JO0092",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민연금법/시행령/국민연금법 시행령.json"
+            "target_git_path_guess": "국민연금법/시행령/국민연금법 시행령.json",
+            "target_git_path": "국민연금법/시행령/국민연금법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -596,7 +652,12 @@
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:(국민연금공단)국민연금심사위원회운영규정#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국민연금공단) 국민연금심사위원회운영규정/(국민연금공단) 국민연금심사위원회운영규정.json"
+            "target_git_path_guess": "(국민연금공단) 국민연금심사위원회운영규정/(국민연금공단) 국민연금심사위원회운영규정.json",
+            "target_git_path": "(국민연금공단) 국민연금심사위원회운영규정/(국민연금공단) 국민연금심사위원회운영규정.json",
+            "target_git_file_path": "(국민연금공단) 국민연금심사위원회운영규정/별지/별지6_국민연금심사위원회 의안(제10조제2항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -616,7 +677,9 @@
             "source_provision_id": "SchlPubRul:(국민연금공단)국민연금심사위원회운영규정#JO0010",
             "reference_id": "law:전자정부법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -636,7 +699,9 @@
             "source_provision_id": "SchlPubRul:(국민연금공단)국민연금심사위원회운영규정#JO0010",
             "reference_id": "law:전자정부법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -668,7 +733,9 @@
             "source_provision_id": "SchlPubRul:(국민연금공단)국민연금심사위원회운영규정#JO0011",
             "reference_id": "law:국민연금법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민연금법/시행령/국민연금법 시행령.json"
+            "target_git_path_guess": "국민연금법/시행령/국민연금법 시행령.json",
+            "target_git_path": "국민연금법/시행령/국민연금법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -688,7 +755,9 @@
             "source_provision_id": "SchlPubRul:(국민연금공단)국민연금심사위원회운영규정#JO0011",
             "reference_id": "law:국민연금법시행령#JO0092",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민연금법/시행령/국민연금법 시행령.json"
+            "target_git_path_guess": "국민연금법/시행령/국민연금법 시행령.json",
+            "target_git_path": "국민연금법/시행령/국민연금법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -708,7 +777,9 @@
             "source_provision_id": "SchlPubRul:(국민연금공단)국민연금심사위원회운영규정#JO0011",
             "reference_id": "law:국민연금법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민연금법/시행령/국민연금법 시행령.json"
+            "target_git_path_guess": "국민연금법/시행령/국민연금법 시행령.json",
+            "target_git_path": "국민연금법/시행령/국민연금법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -728,7 +799,9 @@
             "source_provision_id": "SchlPubRul:(국민연금공단)국민연금심사위원회운영규정#JO0011",
             "reference_id": "law:국민연금법시행령#JO0092",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민연금법/시행령/국민연금법 시행령.json"
+            "target_git_path_guess": "국민연금법/시행령/국민연금법 시행령.json",
+            "target_git_path": "국민연금법/시행령/국민연금법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -765,7 +838,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:(국민연금공단)국민연금심사위원회운영규정#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국민연금공단) 국민연금심사위원회운영규정/(국민연금공단) 국민연금심사위원회운영규정.json"
+            "target_git_path_guess": "(국민연금공단) 국민연금심사위원회운영규정/(국민연금공단) 국민연금심사위원회운영규정.json",
+            "target_git_path": "(국민연금공단) 국민연금심사위원회운영규정/(국민연금공단) 국민연금심사위원회운영규정.json",
+            "target_git_file_path": "(국민연금공단) 국민연금심사위원회운영규정/별지/별지4_심사서(제12조제1항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -790,7 +868,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:(국민연금공단)국민연금심사위원회운영규정#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국민연금공단) 국민연금심사위원회운영규정/(국민연금공단) 국민연금심사위원회운영규정.json"
+            "target_git_path_guess": "(국민연금공단) 국민연금심사위원회운영규정/(국민연금공단) 국민연금심사위원회운영규정.json",
+            "target_git_path": "(국민연금공단) 국민연금심사위원회운영규정/(국민연금공단) 국민연금심사위원회운영규정.json",
+            "target_git_file_path": "(국민연금공단) 국민연금심사위원회운영규정/별지/별지5_국민연금심사위원회 회의록(제12조제1항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -815,7 +898,12 @@
             "target_unit": "BJ0011",
             "reference_id": "SchlPubRul:(국민연금공단)국민연금심사위원회운영규정#BJ0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국민연금공단) 국민연금심사위원회운영규정/(국민연금공단) 국민연금심사위원회운영규정.json"
+            "target_git_path_guess": "(국민연금공단) 국민연금심사위원회운영규정/(국민연금공단) 국민연금심사위원회운영규정.json",
+            "target_git_path": "(국민연금공단) 국민연금심사위원회운영규정/(국민연금공단) 국민연금심사위원회운영규정.json",
+            "target_git_file_path": "(국민연금공단) 국민연금심사위원회운영규정/별지/별지11_심사청구결정서(제12조제1항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -840,7 +928,12 @@
             "target_unit": "BJ0004_02",
             "reference_id": "SchlPubRul:(국민연금공단)국민연금심사위원회운영규정#BJ0004_02",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국민연금공단) 국민연금심사위원회운영규정/(국민연금공단) 국민연금심사위원회운영규정.json"
+            "target_git_path_guess": "(국민연금공단) 국민연금심사위원회운영규정/(국민연금공단) 국민연금심사위원회운영규정.json",
+            "target_git_path": "(국민연금공단) 국민연금심사위원회운영규정/(국민연금공단) 국민연금심사위원회운영규정.json",
+            "target_git_file_path": "(국민연금공단) 국민연금심사위원회운영규정/별지/별지4의2_심사내역서(제12조제2항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -872,7 +965,9 @@
             "source_provision_id": "SchlPubRul:(국민연금공단)국민연금심사위원회운영규정#JO0013",
             "reference_id": "law:국민연금법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민연금법/시행령/국민연금법 시행령.json"
+            "target_git_path_guess": "국민연금법/시행령/국민연금법 시행령.json",
+            "target_git_path": "국민연금법/시행령/국민연금법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -892,7 +987,9 @@
             "source_provision_id": "SchlPubRul:(국민연금공단)국민연금심사위원회운영규정#JO0013",
             "reference_id": "law:국민연금법시행령#JO0097",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민연금법/시행령/국민연금법 시행령.json"
+            "target_git_path_guess": "국민연금법/시행령/국민연금법 시행령.json",
+            "target_git_path": "국민연금법/시행령/국민연금법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -929,7 +1026,12 @@
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:(국민연금공단)국민연금심사위원회운영규정#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국민연금공단) 국민연금심사위원회운영규정/(국민연금공단) 국민연금심사위원회운영규정.json"
+            "target_git_path_guess": "(국민연금공단) 국민연금심사위원회운영규정/(국민연금공단) 국민연금심사위원회운영규정.json",
+            "target_git_path": "(국민연금공단) 국민연금심사위원회운영규정/(국민연금공단) 국민연금심사위원회운영규정.json",
+            "target_git_file_path": "(국민연금공단) 국민연금심사위원회운영규정/별지/별지7_증거자료 제출요구서(제14조제1항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -954,7 +1056,12 @@
             "target_unit": "BJ0008",
             "reference_id": "SchlPubRul:(국민연금공단)국민연금심사위원회운영규정#BJ0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국민연금공단) 국민연금심사위원회운영규정/(국민연금공단) 국민연금심사위원회운영규정.json"
+            "target_git_path_guess": "(국민연금공단) 국민연금심사위원회운영규정/(국민연금공단) 국민연금심사위원회운영규정.json",
+            "target_git_path": "(국민연금공단) 국민연금심사위원회운영규정/(국민연금공단) 국민연금심사위원회운영규정.json",
+            "target_git_file_path": "(국민연금공단) 국민연금심사위원회운영규정/별지/별지8_출석요구서(제14조제1항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -979,7 +1086,12 @@
             "target_unit": "BJ0009",
             "reference_id": "SchlPubRul:(국민연금공단)국민연금심사위원회운영규정#BJ0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국민연금공단) 국민연금심사위원회운영규정/(국민연금공단) 국민연금심사위원회운영규정.json"
+            "target_git_path_guess": "(국민연금공단) 국민연금심사위원회운영규정/(국민연금공단) 국민연금심사위원회운영규정.json",
+            "target_git_path": "(국민연금공단) 국민연금심사위원회운영규정/(국민연금공단) 국민연금심사위원회운영규정.json",
+            "target_git_file_path": "(국민연금공단) 국민연금심사위원회운영규정/별지/별지9_증거자료 반환신청서(제14조제4항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1011,7 +1123,9 @@
             "source_provision_id": "SchlPubRul:(국민연금공단)국민연금심사위원회운영규정#JO0015",
             "reference_id": "law:국민연금법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민연금법/시행령/국민연금법 시행령.json"
+            "target_git_path_guess": "국민연금법/시행령/국민연금법 시행령.json",
+            "target_git_path": "국민연금법/시행령/국민연금법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1031,7 +1145,9 @@
             "source_provision_id": "SchlPubRul:(국민연금공단)국민연금심사위원회운영규정#JO0015",
             "reference_id": "law:국민연금법시행령#JO0097",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민연금법/시행령/국민연금법 시행령.json"
+            "target_git_path_guess": "국민연금법/시행령/국민연금법 시행령.json",
+            "target_git_path": "국민연금법/시행령/국민연금법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1051,7 +1167,11 @@
             "source_provision_id": "SchlPubRul:(국민연금공단)국민연금심사위원회운영규정#JO0015",
             "reference_id": "admrul:국민연금장애심사규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국민연금 장애심사규정/국민연금 장애심사규정.json"
+            "target_git_path_guess": "국민연금 장애심사규정/국민연금 장애심사규정.json",
+            "target_git_path": "국민연금 장애심사규정/국민연금 장애심사규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1071,7 +1191,11 @@
             "source_provision_id": "SchlPubRul:(국민연금공단)국민연금심사위원회운영규정#JO0015",
             "reference_id": "admrul:국민연금장애심사규정#JO0007",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국민연금 장애심사규정/국민연금 장애심사규정.json"
+            "target_git_path_guess": "국민연금 장애심사규정/국민연금 장애심사규정.json",
+            "target_git_path": "국민연금 장애심사규정/국민연금 장애심사규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -1091,7 +1215,11 @@
             "source_provision_id": "SchlPubRul:(국민연금공단)국민연금심사위원회운영규정#JO0015",
             "reference_id": "SchlPubRul:(국민연금공단)국민연금심사위원회운영규정#JO0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국민연금공단) 국민연금심사위원회운영규정/(국민연금공단) 국민연금심사위원회운영규정.json"
+            "target_git_path_guess": "(국민연금공단) 국민연금심사위원회운영규정/(국민연금공단) 국민연금심사위원회운영규정.json",
+            "target_git_path": "(국민연금공단) 국민연금심사위원회운영규정/(국민연금공단) 국민연금심사위원회운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1123,7 +1251,9 @@
             "source_provision_id": "SchlPubRul:(국민연금공단)국민연금심사위원회운영규정#JO0016",
             "reference_id": "law:국민연금법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민연금법/시행령/국민연금법 시행령.json"
+            "target_git_path_guess": "국민연금법/시행령/국민연금법 시행령.json",
+            "target_git_path": "국민연금법/시행령/국민연금법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1143,7 +1273,9 @@
             "source_provision_id": "SchlPubRul:(국민연금공단)국민연금심사위원회운영규정#JO0016",
             "reference_id": "law:국민연금법시행령#JO0099",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민연금법/시행령/국민연금법 시행령.json"
+            "target_git_path_guess": "국민연금법/시행령/국민연금법 시행령.json",
+            "target_git_path": "국민연금법/시행령/국민연금법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1175,7 +1307,9 @@
             "source_provision_id": "SchlPubRul:(국민연금공단)국민연금심사위원회운영규정#JO0017",
             "reference_id": "law:국민연금법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민연금법/시행령/국민연금법 시행령.json"
+            "target_git_path_guess": "국민연금법/시행령/국민연금법 시행령.json",
+            "target_git_path": "국민연금법/시행령/국민연금법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1195,7 +1329,9 @@
             "source_provision_id": "SchlPubRul:(국민연금공단)국민연금심사위원회운영규정#JO0017",
             "reference_id": "law:국민연금법시행령#JO0099",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민연금법/시행령/국민연금법 시행령.json"
+            "target_git_path_guess": "국민연금법/시행령/국민연금법 시행령.json",
+            "target_git_path": "국민연금법/시행령/국민연금법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1227,7 +1363,9 @@
             "source_provision_id": "SchlPubRul:(국민연금공단)국민연금심사위원회운영규정#JO0018",
             "reference_id": "law:행정심판법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정심판법/법률/행정심판법.json"
+            "target_git_path_guess": "행정심판법/법률/행정심판법.json",
+            "target_git_path": "행정심판법/법률/행정심판법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1247,7 +1385,9 @@
             "source_provision_id": "SchlPubRul:(국민연금공단)국민연금심사위원회운영규정#JO0018",
             "reference_id": "law:행정심판법#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정심판법/법률/행정심판법.json"
+            "target_git_path_guess": "행정심판법/법률/행정심판법.json",
+            "target_git_path": "행정심판법/법률/행정심판법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1267,7 +1407,9 @@
             "source_provision_id": "SchlPubRul:(국민연금공단)국민연금심사위원회운영규정#JO0018",
             "reference_id": "law:행정심판법#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정심판법/법률/행정심판법.json"
+            "target_git_path_guess": "행정심판법/법률/행정심판법.json",
+            "target_git_path": "행정심판법/법률/행정심판법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1287,7 +1429,9 @@
             "source_provision_id": "SchlPubRul:(국민연금공단)국민연금심사위원회운영규정#JO0018",
             "reference_id": "law:행정심판법#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정심판법/법률/행정심판법.json"
+            "target_git_path_guess": "행정심판법/법률/행정심판법.json",
+            "target_git_path": "행정심판법/법률/행정심판법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1307,7 +1451,9 @@
             "source_provision_id": "SchlPubRul:(국민연금공단)국민연금심사위원회운영규정#JO0018",
             "reference_id": "law:행정심판법#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정심판법/법률/행정심판법.json"
+            "target_git_path_guess": "행정심판법/법률/행정심판법.json",
+            "target_git_path": "행정심판법/법률/행정심판법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1327,7 +1473,9 @@
             "source_provision_id": "SchlPubRul:(국민연금공단)국민연금심사위원회운영규정#JO0018",
             "reference_id": "law:행정심판법#JO0027",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정심판법/법률/행정심판법.json"
+            "target_git_path_guess": "행정심판법/법률/행정심판법.json",
+            "target_git_path": "행정심판법/법률/행정심판법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1347,7 +1495,9 @@
             "source_provision_id": "SchlPubRul:(국민연금공단)국민연금심사위원회운영규정#JO0018",
             "reference_id": "law:행정심판법#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정심판법/법률/행정심판법.json"
+            "target_git_path_guess": "행정심판법/법률/행정심판법.json",
+            "target_git_path": "행정심판법/법률/행정심판법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1367,7 +1517,9 @@
             "source_provision_id": "SchlPubRul:(국민연금공단)국민연금심사위원회운영규정#JO0018",
             "reference_id": "law:행정심판법#JO0037",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정심판법/법률/행정심판법.json"
+            "target_git_path_guess": "행정심판법/법률/행정심판법.json",
+            "target_git_path": "행정심판법/법률/행정심판법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1387,7 +1539,9 @@
             "source_provision_id": "SchlPubRul:(국민연금공단)국민연금심사위원회운영규정#JO0018",
             "reference_id": "law:행정심판법#JO0041",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정심판법/법률/행정심판법.json"
+            "target_git_path_guess": "행정심판법/법률/행정심판법.json",
+            "target_git_path": "행정심판법/법률/행정심판법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1407,7 +1561,9 @@
             "source_provision_id": "SchlPubRul:(국민연금공단)국민연금심사위원회운영규정#JO0018",
             "reference_id": "law:행정심판법#JO0045",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정심판법/법률/행정심판법.json"
+            "target_git_path_guess": "행정심판법/법률/행정심판법.json",
+            "target_git_path": "행정심판법/법률/행정심판법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1427,7 +1583,9 @@
             "source_provision_id": "SchlPubRul:(국민연금공단)국민연금심사위원회운영규정#JO0018",
             "reference_id": "law:행정심판법#JO0047",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정심판법/법률/행정심판법.json"
+            "target_git_path_guess": "행정심판법/법률/행정심판법.json",
+            "target_git_path": "행정심판법/법률/행정심판법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1447,7 +1605,9 @@
             "source_provision_id": "SchlPubRul:(국민연금공단)국민연금심사위원회운영규정#JO0018",
             "reference_id": "law:행정심판법#JO0057",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정심판법/법률/행정심판법.json"
+            "target_git_path_guess": "행정심판법/법률/행정심판법.json",
+            "target_git_path": "행정심판법/법률/행정심판법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

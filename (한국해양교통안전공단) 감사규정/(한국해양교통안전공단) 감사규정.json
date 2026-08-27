@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:(한국해양교통안전공단)감사규정#JO0001",
             "reference_id": "law:공공감사에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json"
+            "target_git_path_guess": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json",
+            "target_git_path": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -163,7 +165,9 @@
             "source_provision_id": "SchlPubRul:(한국해양교통안전공단)감사규정#JO0008",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -183,7 +187,9 @@
             "source_provision_id": "SchlPubRul:(한국해양교통안전공단)감사규정#JO0008",
             "reference_id": "law:공공기관의운영에관한법률#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -363,7 +369,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(한국해양교통안전공단)감사규정#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양교통안전공단) 감사규정/(한국해양교통안전공단) 감사규정.json"
+            "target_git_path_guess": "(한국해양교통안전공단) 감사규정/(한국해양교통안전공단) 감사규정.json",
+            "target_git_path": "(한국해양교통안전공단) 감사규정/(한국해양교통안전공단) 감사규정.json",
+            "target_git_file_path": "(한국해양교통안전공단) 감사규정/별지/별지1_확인서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -388,7 +399,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:(한국해양교통안전공단)감사규정#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양교통안전공단) 감사규정/(한국해양교통안전공단) 감사규정.json"
+            "target_git_path_guess": "(한국해양교통안전공단) 감사규정/(한국해양교통안전공단) 감사규정.json",
+            "target_git_path": "(한국해양교통안전공단) 감사규정/(한국해양교통안전공단) 감사규정.json",
+            "target_git_file_path": "(한국해양교통안전공단) 감사규정/별지/별지3_진술(경위)서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -413,7 +429,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:(한국해양교통안전공단)감사규정#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양교통안전공단) 감사규정/(한국해양교통안전공단) 감사규정.json"
+            "target_git_path_guess": "(한국해양교통안전공단) 감사규정/(한국해양교통안전공단) 감사규정.json",
+            "target_git_path": "(한국해양교통안전공단) 감사규정/(한국해양교통안전공단) 감사규정.json",
+            "target_git_file_path": "(한국해양교통안전공단) 감사규정/별지/별지4_질 의 서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -438,7 +459,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:(한국해양교통안전공단)감사규정#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양교통안전공단) 감사규정/(한국해양교통안전공단) 감사규정.json"
+            "target_git_path_guess": "(한국해양교통안전공단) 감사규정/(한국해양교통안전공단) 감사규정.json",
+            "target_git_path": "(한국해양교통안전공단) 감사규정/(한국해양교통안전공단) 감사규정.json",
+            "target_git_file_path": "(한국해양교통안전공단) 감사규정/별지/별지5_답 변 서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -503,7 +529,9 @@
             "source_provision_id": "SchlPubRul:(한국해양교통안전공단)감사규정#JO0026",
             "reference_id": "law:회계관계직원등의책임에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "회계관계 직원 등의 책임에 관한 법률/법률/회계관계 직원 등의 책임에 관한 법률.json"
+            "target_git_path_guess": "회계관계 직원 등의 책임에 관한 법률/법률/회계관계 직원 등의 책임에 관한 법률.json",
+            "target_git_path": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -535,7 +563,11 @@
             "source_provision_id": "SchlPubRul:(한국해양교통안전공단)감사규정#JO0027",
             "reference_id": "SchlPubRul:(한국해양교통안전공단)감사규정#JO0026",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양교통안전공단) 감사규정/(한국해양교통안전공단) 감사규정.json"
+            "target_git_path_guess": "(한국해양교통안전공단) 감사규정/(한국해양교통안전공단) 감사규정.json",
+            "target_git_path": "(한국해양교통안전공단) 감사규정/(한국해양교통안전공단) 감사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -560,7 +592,12 @@
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:(한국해양교통안전공단)감사규정#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양교통안전공단) 감사규정/(한국해양교통안전공단) 감사규정.json"
+            "target_git_path_guess": "(한국해양교통안전공단) 감사규정/(한국해양교통안전공단) 감사규정.json",
+            "target_git_path": "(한국해양교통안전공단) 감사규정/(한국해양교통안전공단) 감사규정.json",
+            "target_git_file_path": "(한국해양교통안전공단) 감사규정/별지/별지6_현지조치 사항.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -630,7 +667,12 @@
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:(한국해양교통안전공단)감사규정#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양교통안전공단) 감사규정/(한국해양교통안전공단) 감사규정.json"
+            "target_git_path_guess": "(한국해양교통안전공단) 감사규정/(한국해양교통안전공단) 감사규정.json",
+            "target_git_path": "(한국해양교통안전공단) 감사규정/(한국해양교통안전공단) 감사규정.json",
+            "target_git_file_path": "(한국해양교통안전공단) 감사규정/별지/별지7_감사결과 조치(요구)서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -650,7 +692,9 @@
             "source_provision_id": "SchlPubRul:(한국해양교통안전공단)감사규정#JO0031",
             "reference_id": "law:회계관계직원등의책임에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json"
+            "target_git_path_guess": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json",
+            "target_git_path": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -670,7 +714,9 @@
             "source_provision_id": "SchlPubRul:(한국해양교통안전공단)감사규정#JO0031",
             "reference_id": "law:회계관계직원등의책임에관한법률#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json"
+            "target_git_path_guess": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json",
+            "target_git_path": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -690,7 +736,11 @@
             "source_provision_id": "SchlPubRul:(한국해양교통안전공단)감사규정#JO0031",
             "reference_id": "SchlPubRul:(한국해양교통안전공단)감사규정#JO0032",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양교통안전공단) 감사규정/(한국해양교통안전공단) 감사규정.json"
+            "target_git_path_guess": "(한국해양교통안전공단) 감사규정/(한국해양교통안전공단) 감사규정.json",
+            "target_git_path": "(한국해양교통안전공단) 감사규정/(한국해양교통안전공단) 감사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -722,7 +772,11 @@
             "source_provision_id": "SchlPubRul:(한국해양교통안전공단)감사규정#JO0032",
             "reference_id": "SchlPubRul:(한국해양교통안전공단)감사규정#JO0031",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양교통안전공단) 감사규정/(한국해양교통안전공단) 감사규정.json"
+            "target_git_path_guess": "(한국해양교통안전공단) 감사규정/(한국해양교통안전공단) 감사규정.json",
+            "target_git_path": "(한국해양교통안전공단) 감사규정/(한국해양교통안전공단) 감사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -747,7 +801,12 @@
             "target_unit": "BJ0008",
             "reference_id": "SchlPubRul:(한국해양교통안전공단)감사규정#BJ0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양교통안전공단) 감사규정/(한국해양교통안전공단) 감사규정.json"
+            "target_git_path_guess": "(한국해양교통안전공단) 감사규정/(한국해양교통안전공단) 감사규정.json",
+            "target_git_path": "(한국해양교통안전공단) 감사규정/(한국해양교통안전공단) 감사규정.json",
+            "target_git_file_path": "(한국해양교통안전공단) 감사규정/별지/별지8_감사결과 조치요구사항 처리결과.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -779,7 +838,11 @@
             "source_provision_id": "SchlPubRul:(한국해양교통안전공단)감사규정#JO0033",
             "reference_id": "SchlPubRul:(한국해양교통안전공단)감사규정#JO0031",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양교통안전공단) 감사규정/(한국해양교통안전공단) 감사규정.json"
+            "target_git_path_guess": "(한국해양교통안전공단) 감사규정/(한국해양교통안전공단) 감사규정.json",
+            "target_git_path": "(한국해양교통안전공단) 감사규정/(한국해양교통안전공단) 감사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -799,7 +862,11 @@
             "source_provision_id": "SchlPubRul:(한국해양교통안전공단)감사규정#JO0033",
             "reference_id": "SchlPubRul:(한국해양교통안전공단)감사규정#JO0032",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양교통안전공단) 감사규정/(한국해양교통안전공단) 감사규정.json"
+            "target_git_path_guess": "(한국해양교통안전공단) 감사규정/(한국해양교통안전공단) 감사규정.json",
+            "target_git_path": "(한국해양교통안전공단) 감사규정/(한국해양교통안전공단) 감사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -831,7 +898,11 @@
             "source_provision_id": "SchlPubRul:(한국해양교통안전공단)감사규정#JO0034",
             "reference_id": "SchlPubRul:(한국해양교통안전공단)감사규정#JO0031",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양교통안전공단) 감사규정/(한국해양교통안전공단) 감사규정.json"
+            "target_git_path_guess": "(한국해양교통안전공단) 감사규정/(한국해양교통안전공단) 감사규정.json",
+            "target_git_path": "(한국해양교통안전공단) 감사규정/(한국해양교통안전공단) 감사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -863,7 +934,11 @@
             "source_provision_id": "SchlPubRul:(한국해양교통안전공단)감사규정#JO0035",
             "reference_id": "SchlPubRul:(한국해양교통안전공단)감사규정#JO0032",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양교통안전공단) 감사규정/(한국해양교통안전공단) 감사규정.json"
+            "target_git_path_guess": "(한국해양교통안전공단) 감사규정/(한국해양교통안전공단) 감사규정.json",
+            "target_git_path": "(한국해양교통안전공단) 감사규정/(한국해양교통안전공단) 감사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -906,7 +981,9 @@
             "source_provision_id": "SchlPubRul:(한국해양교통안전공단)감사규정#JO0037",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -926,7 +1003,9 @@
             "source_provision_id": "SchlPubRul:(한국해양교통안전공단)감사규정#JO0037",
             "reference_id": "law:공공기관의운영에관한법률#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -946,7 +1025,9 @@
             "source_provision_id": "SchlPubRul:(한국해양교통안전공단)감사규정#JO0037",
             "reference_id": "law:공공기관의운영에관한법률#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1005,7 +1086,12 @@
             "target_unit": "BJ0009",
             "reference_id": "SchlPubRul:(한국해양교통안전공단)감사규정#BJ0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양교통안전공단) 감사규정/(한국해양교통안전공단) 감사규정.json"
+            "target_git_path_guess": "(한국해양교통안전공단) 감사규정/(한국해양교통안전공단) 감사규정.json",
+            "target_git_path": "(한국해양교통안전공단) 감사규정/(한국해양교통안전공단) 감사규정.json",
+            "target_git_file_path": "(한국해양교통안전공단) 감사규정/별지/별지9_사 고 보 고 서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1037,7 +1123,9 @@
             "source_provision_id": "SchlPubRul:(한국해양교통안전공단)감사규정#JO0041",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1057,7 +1145,9 @@
             "source_provision_id": "SchlPubRul:(한국해양교통안전공단)감사규정#JO0041",
             "reference_id": "law:공공기관의운영에관한법률#JO0050",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1100,7 +1190,11 @@
             "source_provision_id": "SchlPubRul:(한국해양교통안전공단)감사규정#JO0043",
             "reference_id": "SchlPubRul:(한국해양교통안전공단)감사규정#JO0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양교통안전공단) 감사규정/(한국해양교통안전공단) 감사규정.json"
+            "target_git_path_guess": "(한국해양교통안전공단) 감사규정/(한국해양교통안전공단) 감사규정.json",
+            "target_git_path": "(한국해양교통안전공단) 감사규정/(한국해양교통안전공단) 감사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1125,7 +1219,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:(한국해양교통안전공단)감사규정#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양교통안전공단) 감사규정/(한국해양교통안전공단) 감사규정.json"
+            "target_git_path_guess": "(한국해양교통안전공단) 감사규정/(한국해양교통안전공단) 감사규정.json",
+            "target_git_path": "(한국해양교통안전공단) 감사규정/(한국해양교통안전공단) 감사규정.json",
+            "target_git_file_path": "(한국해양교통안전공단) 감사규정/별표/별표2_감사 직무권한 위임사항(제43조제2항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1157,7 +1256,9 @@
             "source_provision_id": "SchlPubRul:(한국해양교통안전공단)감사규정#JO0044",
             "reference_id": "law:공공감사에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json"
+            "target_git_path_guess": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json",
+            "target_git_path": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1177,7 +1278,9 @@
             "source_provision_id": "SchlPubRul:(한국해양교통안전공단)감사규정#JO0044",
             "reference_id": "law:공공감사에관한법률#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json"
+            "target_git_path_guess": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json",
+            "target_git_path": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1214,7 +1317,12 @@
             "target_unit": "BJ0010",
             "reference_id": "SchlPubRul:(한국해양교통안전공단)감사규정#BJ0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국해양교통안전공단) 감사규정/(한국해양교통안전공단) 감사규정.json"
+            "target_git_path_guess": "(한국해양교통안전공단) 감사규정/(한국해양교통안전공단) 감사규정.json",
+            "target_git_path": "(한국해양교통안전공단) 감사규정/(한국해양교통안전공단) 감사규정.json",
+            "target_git_file_path": "(한국해양교통안전공단) 감사규정/별지/별지10_수 감 일 보.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

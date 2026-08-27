@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:고양도시관리공사회계규정#JO0001",
             "reference_id": "law:지방공기업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -97,7 +99,9 @@
             "source_provision_id": "SchlPubRul:고양도시관리공사회계규정#JO0002",
             "reference_id": "law:지방공기업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -117,7 +121,9 @@
             "source_provision_id": "SchlPubRul:고양도시관리공사회계규정#JO0002",
             "reference_id": "law:지방재정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방재정법/법률/지방재정법.json"
+            "target_git_path_guess": "지방재정법/법률/지방재정법.json",
+            "target_git_path": "지방재정법/법률/지방재정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -137,7 +143,9 @@
             "source_provision_id": "SchlPubRul:고양도시관리공사회계규정#JO0002",
             "reference_id": "law:지방회계법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방회계법/법률/지방회계법.json"
+            "target_git_path_guess": "지방회계법/법률/지방회계법.json",
+            "target_git_path": "지방회계법/법률/지방회계법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -157,7 +165,9 @@
             "source_provision_id": "SchlPubRul:고양도시관리공사회계규정#JO0002",
             "reference_id": "law:국가재정법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가재정법/시행령/국가재정법 시행령.json"
+            "target_git_path_guess": "국가재정법/시행령/국가재정법 시행령.json",
+            "target_git_path": "국가재정법/시행령/국가재정법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -177,7 +187,9 @@
             "source_provision_id": "SchlPubRul:고양도시관리공사회계규정#JO0002",
             "reference_id": "law:지방자치단체를당사자로하는계약에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방자치단체를당사자로하는계약에 관한 법률/법률/지방자치단체를당사자로하는계약에 관한 법률.json"
+            "target_git_path_guess": "지방자치단체를당사자로하는계약에 관한 법률/법률/지방자치단체를당사자로하는계약에 관한 법률.json",
+            "target_git_path": "지방자치단체를 당사자로 하는 계약에 관한 법률/법률/지방자치단체를 당사자로 하는 계약에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -331,7 +343,9 @@
             "source_provision_id": "SchlPubRul:고양도시관리공사회계규정#JO0009",
             "reference_id": "law:회계관계직원등의책임에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "회계관계직원등의책임에관한법률/법률/회계관계직원등의책임에관한법률.json"
+            "target_git_path_guess": "회계관계직원등의책임에관한법률/법률/회계관계직원등의책임에관한법률.json",
+            "target_git_path": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -363,7 +377,11 @@
             "source_provision_id": "SchlPubRul:고양도시관리공사회계규정#JO0010",
             "reference_id": "SchlPubRul:고양도시관리공사회계규정#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json"
+            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_path": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -395,7 +413,11 @@
             "source_provision_id": "SchlPubRul:고양도시관리공사회계규정#JO0011",
             "reference_id": "SchlPubRul:고양도시관리공사회계규정#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json"
+            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_path": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -460,7 +482,11 @@
             "source_provision_id": "SchlPubRul:고양도시관리공사회계규정#JO0015",
             "reference_id": "SchlPubRul:고양도시관리공사회계규정#JO0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json"
+            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_path": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -480,7 +506,11 @@
             "source_provision_id": "SchlPubRul:고양도시관리공사회계규정#JO0015",
             "reference_id": "SchlPubRul:고양도시관리공사회계규정#JO0014",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json"
+            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_path": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -594,7 +624,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:고양도시관리공사회계규정#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json"
+            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_path": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_file_path": "고양도시관리공사 회계규정/별지/별지1_총계정원장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -619,7 +654,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:고양도시관리공사회계규정#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json"
+            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_path": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_file_path": "고양도시관리공사 회계규정/별지/별지2_자금수입기록부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -644,7 +684,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:고양도시관리공사회계규정#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json"
+            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_path": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_file_path": "고양도시관리공사 회계규정/별지/별지3_자금지출기록부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -669,7 +714,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:고양도시관리공사회계규정#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json"
+            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_path": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_file_path": "고양도시관리공사 회계규정/별지/별지4_수입예산정리부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -694,7 +744,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:고양도시관리공사회계규정#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json"
+            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_path": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_file_path": "고양도시관리공사 회계규정/별지/별지5_지출예산통제원장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -719,7 +774,12 @@
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:고양도시관리공사회계규정#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json"
+            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_path": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_file_path": "고양도시관리공사 회계규정/별지/별지6_분개전표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -744,7 +804,12 @@
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:고양도시관리공사회계규정#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json"
+            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_path": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_file_path": "고양도시관리공사 회계규정/별지/별지7_재고회계분류원장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -769,7 +834,12 @@
             "target_unit": "BJ0008",
             "reference_id": "SchlPubRul:고양도시관리공사회계규정#BJ0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json"
+            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_path": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_file_path": "고양도시관리공사 회계규정/별지/별지8_저장품대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -794,7 +864,12 @@
             "target_unit": "BJ0009",
             "reference_id": "SchlPubRul:고양도시관리공사회계규정#BJ0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json"
+            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_path": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_file_path": "고양도시관리공사 회계규정/별지/별지9_임대주택대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -819,7 +894,12 @@
             "target_unit": "BJ0010",
             "reference_id": "SchlPubRul:고양도시관리공사회계규정#BJ0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json"
+            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_path": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_file_path": "고양도시관리공사 회계규정/별지/별지10_토지대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -844,7 +924,12 @@
             "target_unit": "BJ0011",
             "reference_id": "SchlPubRul:고양도시관리공사회계규정#BJ0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json"
+            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_path": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_file_path": "고양도시관리공사 회계규정/별지/별지11_건물대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -869,7 +954,12 @@
             "target_unit": "BJ0012",
             "reference_id": "SchlPubRul:고양도시관리공사회계규정#BJ0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json"
+            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_path": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_file_path": "고양도시관리공사 회계규정/별지/별지12_기계장치대장, 구축물대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -894,7 +984,12 @@
             "target_unit": "BJ0013",
             "reference_id": "SchlPubRul:고양도시관리공사회계규정#BJ0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json"
+            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_path": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_file_path": "고양도시관리공사 회계규정/별지/별지13_공구기구 및 비품대장, 차량운반구대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -919,7 +1014,12 @@
             "target_unit": "BJ0014",
             "reference_id": "SchlPubRul:고양도시관리공사회계규정#BJ0014",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json"
+            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_path": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_file_path": "고양도시관리공사 회계규정/별지/별지14_기채상환대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -944,7 +1044,12 @@
             "target_unit": "BJ0015",
             "reference_id": "SchlPubRul:고양도시관리공사회계규정#BJ0015",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json"
+            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_path": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_file_path": "고양도시관리공사 회계규정/별지/별지15_수입지출외 현금출납부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -969,7 +1074,12 @@
             "target_unit": "BJ0016",
             "reference_id": "SchlPubRul:고양도시관리공사회계규정#BJ0016",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json"
+            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_path": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_file_path": "고양도시관리공사 회계규정/별지/별지16_유가증권수급부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1215,7 +1325,12 @@
             "target_unit": "BJ0017",
             "reference_id": "SchlPubRul:고양도시관리공사회계규정#BJ0017",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json"
+            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_path": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_file_path": "고양도시관리공사 회계규정/별지/별지17_수입결의서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1258,7 +1373,11 @@
             "source_provision_id": "SchlPubRul:고양도시관리공사회계규정#JO0045",
             "reference_id": "SchlPubRul:고양도시관리공사회계규정#JO0043",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json"
+            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_path": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1290,7 +1409,11 @@
             "source_provision_id": "SchlPubRul:고양도시관리공사회계규정#JO0046",
             "reference_id": "SchlPubRul:고양도시관리공사회계규정#JO0043",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json"
+            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_path": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -1310,7 +1433,11 @@
             "source_provision_id": "SchlPubRul:고양도시관리공사회계규정#JO0046",
             "reference_id": "SchlPubRul:고양도시관리공사회계규정#JO0045",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json"
+            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_path": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1335,7 +1462,12 @@
             "target_unit": "BJ0018",
             "reference_id": "SchlPubRul:고양도시관리공사회계규정#BJ0018",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json"
+            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_path": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_file_path": "고양도시관리공사 회계규정/별지/별지18_납입통지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1394,7 +1526,12 @@
             "target_unit": "BJ0019",
             "reference_id": "SchlPubRul:고양도시관리공사회계규정#BJ0019",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json"
+            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_path": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_file_path": "고양도시관리공사 회계규정/별지/별지19_수입일계표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1453,7 +1590,12 @@
             "target_unit": "BJ0020",
             "reference_id": "SchlPubRul:고양도시관리공사회계규정#BJ0020",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json"
+            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_path": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_file_path": "고양도시관리공사 회계규정/별지/별지20_과오납금반환청구서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1478,7 +1620,12 @@
             "target_unit": "BJ0021",
             "reference_id": "SchlPubRul:고양도시관리공사회계규정#BJ0021",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json"
+            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_path": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_file_path": "고양도시관리공사 회계규정/별지/별지21_과오납금반환결의서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1503,7 +1650,12 @@
             "target_unit": "BJ0022",
             "reference_id": "SchlPubRul:고양도시관리공사회계규정#BJ0022",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json"
+            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_path": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_file_path": "고양도시관리공사 회계규정/별지/별지22_과오납금반환통지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1606,7 +1758,12 @@
             "target_unit": "BJ0023",
             "reference_id": "SchlPubRul:고양도시관리공사회계규정#BJ0023",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json"
+            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_path": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_file_path": "고양도시관리공사 회계규정/별지/별지23_지출결의서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1654,7 +1811,12 @@
             "target_unit": "BJ0024",
             "reference_id": "SchlPubRul:고양도시관리공사회계규정#BJ0024",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json"
+            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_path": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_file_path": "고양도시관리공사 회계규정/별지/별지24_일상경비교부요구서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1679,7 +1841,12 @@
             "target_unit": "BJ0025",
             "reference_id": "SchlPubRul:고양도시관리공사회계규정#BJ0025",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json"
+            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_path": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_file_path": "고양도시관리공사 회계규정/별지/별지25_일상경비교부통지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1704,7 +1871,12 @@
             "target_unit": "BJ0026",
             "reference_id": "SchlPubRul:고양도시관리공사회계규정#BJ0026",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json"
+            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_path": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_file_path": "고양도시관리공사 회계규정/별지/별지26_일상경비정리부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1729,7 +1901,12 @@
             "target_unit": "BJ0027",
             "reference_id": "SchlPubRul:고양도시관리공사회계규정#BJ0027",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json"
+            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_path": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_file_path": "고양도시관리공사 회계규정/별지/별지27_일상경비집행현황.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1754,7 +1931,12 @@
             "target_unit": "BJ0028",
             "reference_id": "SchlPubRul:고양도시관리공사회계규정#BJ0028",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json"
+            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_path": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_file_path": "고양도시관리공사 회계규정/별지/별지28_일상경비목별집행내역.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1786,7 +1968,11 @@
             "source_provision_id": "SchlPubRul:고양도시관리공사회계규정#JO0062",
             "reference_id": "SchlPubRul:고양도시관리공사회계규정#JO0061",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json"
+            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_path": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1818,7 +2004,11 @@
             "source_provision_id": "SchlPubRul:고양도시관리공사회계규정#JO0063",
             "reference_id": "SchlPubRul:고양도시관리공사회계규정#JO0062",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json"
+            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_path": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1855,7 +2045,12 @@
             "target_unit": "BJ0029",
             "reference_id": "SchlPubRul:고양도시관리공사회계규정#BJ0029",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json"
+            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_path": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_file_path": "고양도시관리공사 회계규정/별지/별지29_통상지급통지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1914,7 +2109,12 @@
             "target_unit": "BJ0030",
             "reference_id": "SchlPubRul:고양도시관리공사회계규정#BJ0030",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json"
+            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_path": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_file_path": "고양도시관리공사 회계규정/별지/별지30_계좌대체의뢰서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1962,7 +2162,12 @@
             "target_unit": "BJ0031",
             "reference_id": "SchlPubRul:고양도시관리공사회계규정#BJ0031",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json"
+            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_path": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_file_path": "고양도시관리공사 회계규정/별지/별지31_여입결의서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1987,7 +2192,12 @@
             "target_unit": "BJ0032",
             "reference_id": "SchlPubRul:고양도시관리공사회계규정#BJ0032",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json"
+            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_path": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_file_path": "고양도시관리공사 회계규정/별지/별지32_반납고지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -2079,7 +2289,12 @@
             "target_unit": "BJ0033",
             "reference_id": "SchlPubRul:고양도시관리공사회계규정#BJ0033",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json"
+            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_path": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_file_path": "고양도시관리공사 회계규정/별지/별지33_수입지출외현급납부서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2104,7 +2319,12 @@
             "target_unit": "BJ0034",
             "reference_id": "SchlPubRul:고양도시관리공사회계규정#BJ0034",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json"
+            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_path": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_file_path": "고양도시관리공사 회계규정/별지/별지34_수입지출외현금반환청구서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -2174,7 +2394,12 @@
             "target_unit": "BJ0033",
             "reference_id": "SchlPubRul:고양도시관리공사회계규정#BJ0033",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json"
+            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_path": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_file_path": "고양도시관리공사 회계규정/별지/별지33_수입지출외현급납부서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2199,7 +2424,12 @@
             "target_unit": "BJ0034",
             "reference_id": "SchlPubRul:고양도시관리공사회계규정#BJ0034",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json"
+            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_path": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_file_path": "고양도시관리공사 회계규정/별지/별지34_수입지출외현금반환청구서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -2253,7 +2483,9 @@
             "source_provision_id": "SchlPubRul:고양도시관리공사회계규정#JO0082",
             "reference_id": "law:지방공기업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2273,7 +2505,9 @@
             "source_provision_id": "SchlPubRul:고양도시관리공사회계규정#JO0082",
             "reference_id": "law:지방공기업법#JO0048",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2316,7 +2550,11 @@
             "source_provision_id": "SchlPubRul:고양도시관리공사회계규정#JO0084",
             "reference_id": "SchlPubRul:고양도시관리공사회계규정#JO0083",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json"
+            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_path": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -2359,7 +2597,11 @@
             "source_provision_id": "SchlPubRul:고양도시관리공사회계규정#JO0086",
             "reference_id": "SchlPubRul:고양도시관리공사회계규정#JO0083",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json"
+            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_path": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -2379,7 +2621,11 @@
             "source_provision_id": "SchlPubRul:고양도시관리공사회계규정#JO0086",
             "reference_id": "SchlPubRul:고양도시관리공사회계규정#JO0084",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json"
+            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_path": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -2399,7 +2645,11 @@
             "source_provision_id": "SchlPubRul:고양도시관리공사회계규정#JO0086",
             "reference_id": "SchlPubRul:고양도시관리공사회계규정#JO0085",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json"
+            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_path": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -2431,7 +2681,9 @@
             "source_provision_id": "SchlPubRul:고양도시관리공사회계규정#JO0087",
             "reference_id": "law:지방공기업법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/시행령/지방공기업법 시행령.json"
+            "target_git_path_guess": "지방공기업법/시행령/지방공기업법 시행령.json",
+            "target_git_path": "지방공기업법/시행령/지방공기업법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2451,7 +2703,9 @@
             "source_provision_id": "SchlPubRul:고양도시관리공사회계규정#JO0087",
             "reference_id": "law:지방공기업법시행령#JO0027",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/시행령/지방공기업법 시행령.json"
+            "target_git_path_guess": "지방공기업법/시행령/지방공기업법 시행령.json",
+            "target_git_path": "지방공기업법/시행령/지방공기업법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2669,7 +2923,11 @@
             "source_provision_id": "SchlPubRul:고양도시관리공사회계규정#JO0103",
             "reference_id": "SchlPubRul:고양도시관리공사회계규정#JO0102",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json"
+            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_path": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -2899,7 +3157,9 @@
             "source_provision_id": "SchlPubRul:고양도시관리공사회계규정#JO0122",
             "reference_id": "law:법인세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "법인세법/법률/법인세법.json"
+            "target_git_path_guess": "법인세법/법률/법인세법.json",
+            "target_git_path": "법인세법/법률/법인세법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2986,7 +3246,9 @@
             "source_provision_id": "SchlPubRul:고양도시관리공사회계규정#JO0128",
             "reference_id": "law:법인세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "법인세법/법률/법인세법.json"
+            "target_git_path_guess": "법인세법/법률/법인세법.json",
+            "target_git_path": "법인세법/법률/법인세법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -3106,7 +3368,9 @@
             "source_provision_id": "SchlPubRul:고양도시관리공사회계규정#JO0137",
             "reference_id": "law:법인세법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "법인세법/시행령/법인세법시행령.json"
+            "target_git_path_guess": "법인세법/시행령/법인세법시행령.json",
+            "target_git_path": "법인세법/시행령/법인세법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -3297,7 +3561,12 @@
             "target_unit": "BJ0040",
             "reference_id": "SchlPubRul:고양도시관리공사회계규정#BJ0040",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json"
+            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_path": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_file_path": "고양도시관리공사 회계규정/별지/별지40_계속비이월요구서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -3322,7 +3591,12 @@
             "target_unit": "BJ0041",
             "reference_id": "SchlPubRul:고양도시관리공사회계규정#BJ0041",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json"
+            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_path": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_file_path": "고양도시관리공사 회계규정/별지/별지41_계속비정산보고서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -3359,7 +3633,12 @@
             "target_unit": "BJ0042",
             "reference_id": "SchlPubRul:고양도시관리공사회계규정#BJ0042",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json"
+            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_path": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_file_path": "고양도시관리공사 회계규정/별지/별지42_예비비지출요구서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -3501,7 +3780,9 @@
             "source_provision_id": "SchlPubRul:고양도시관리공사회계규정#JO0164",
             "reference_id": "law:지방공기업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -3544,7 +3825,9 @@
             "source_provision_id": "SchlPubRul:고양도시관리공사회계규정#JO0166",
             "reference_id": "law:법인세법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "법인세법/시행령/법인세법 시행령.json"
+            "target_git_path_guess": "법인세법/시행령/법인세법 시행령.json",
+            "target_git_path": "법인세법/시행령/법인세법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3564,7 +3847,9 @@
             "source_provision_id": "SchlPubRul:고양도시관리공사회계규정#JO0166",
             "reference_id": "law:법인세법시행령#JO0076",
             "target_repo": "LAW",
-            "target_git_path_guess": "법인세법/시행령/법인세법 시행령.json"
+            "target_git_path_guess": "법인세법/시행령/법인세법 시행령.json",
+            "target_git_path": "법인세법/시행령/법인세법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -3623,7 +3908,12 @@
             "target_unit": "BJ0043",
             "reference_id": "SchlPubRul:고양도시관리공사회계규정#BJ0043",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json"
+            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_path": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_file_path": "고양도시관리공사 회계규정/별지/별지43_재고증가집계표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -3648,7 +3938,12 @@
             "target_unit": "BJ0044",
             "reference_id": "SchlPubRul:고양도시관리공사회계규정#BJ0044",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json"
+            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_path": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_file_path": "고양도시관리공사 회계규정/별지/별지44_재고감소분개장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -3673,7 +3968,12 @@
             "target_unit": "BJ0045",
             "reference_id": "SchlPubRul:고양도시관리공사회계규정#BJ0045",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json"
+            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_path": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_file_path": "고양도시관리공사 회계규정/별지/별지45_일반분개정산표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -3698,7 +3998,12 @@
             "target_unit": "BJ0046",
             "reference_id": "SchlPubRul:고양도시관리공사회계규정#BJ0046",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json"
+            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_path": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_file_path": "고양도시관리공사 회계규정/별지/별지46_시산표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -3829,7 +4134,9 @@
             "source_provision_id": "SchlPubRul:고양도시관리공사회계규정#JO0179",
             "reference_id": "law:지방재정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방재정법/법률/지방재정법.json"
+            "target_git_path_guess": "지방재정법/법률/지방재정법.json",
+            "target_git_path": "지방재정법/법률/지방재정법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -3916,7 +4223,11 @@
             "source_provision_id": "SchlPubRul:고양도시관리공사회계규정#JO0185",
             "reference_id": "SchlPubRul:고양도시관리공사회계규정#JO0173",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json"
+            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_path": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -3948,7 +4259,11 @@
             "source_provision_id": "SchlPubRul:고양도시관리공사회계규정#JO0186",
             "reference_id": "SchlPubRul:고양도시관리공사회계규정#JO0187",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json"
+            "target_git_path_guess": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_git_path": "고양도시관리공사 회계규정/고양도시관리공사 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],

@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:창원시설공단회계규정#JO0001",
             "reference_id": "law:지방공기업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -170,7 +172,11 @@
             "source_provision_id": "SchlPubRul:창원시설공단회계규정#JO0007",
             "reference_id": "SchlPubRul:창원시설공단회계규정#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json"
+            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json",
+            "target_git_path": "창원시설공단 회계규정/창원시설공단 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -235,7 +241,11 @@
             "source_provision_id": "SchlPubRul:창원시설공단회계규정#JO0011",
             "reference_id": "SchlPubRul:창원시설공단회계규정#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json"
+            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json",
+            "target_git_path": "창원시설공단 회계규정/창원시설공단 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -267,7 +277,11 @@
             "source_provision_id": "SchlPubRul:창원시설공단회계규정#JO0012",
             "reference_id": "SchlPubRul:창원시설공단회계규정#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json"
+            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json",
+            "target_git_path": "창원시설공단 회계규정/창원시설공단 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -285,9 +299,14 @@
             "target_url": "https://www.law.go.kr/법령/사무 관리 규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:창원시설공단회계규정#JO0012",
-            "reference_id": "law:사무관리규정#DOC",
+            "reference_id": "SchlPubRul:사무관리규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "사무 관리 규정/법률/사무 관리 규정.json"
+            "target_git_path_guess": "사무 관리 규정/법률/사무 관리 규정.json",
+            "target_git_path": "사무관리규정/public_2139481/사무관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관",
+            "target_candidates": 3
           }
         ],
         "images": [],
@@ -317,9 +336,14 @@
             "target_url": "https://www.law.go.kr/법령/사무 관리 규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:창원시설공단회계규정#JO0013",
-            "reference_id": "law:사무관리규정#DOC",
+            "reference_id": "SchlPubRul:사무관리규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "사무 관리 규정/법률/사무 관리 규정.json"
+            "target_git_path_guess": "사무 관리 규정/법률/사무 관리 규정.json",
+            "target_git_path": "사무관리규정/public_2139481/사무관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관",
+            "target_candidates": 3
           }
         ],
         "images": [],
@@ -373,7 +397,11 @@
             "source_provision_id": "SchlPubRul:창원시설공단회계규정#JO0016",
             "reference_id": "SchlPubRul:창원시설공단회계규정#JO0014",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json"
+            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json",
+            "target_git_path": "창원시설공단 회계규정/창원시설공단 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -393,7 +421,11 @@
             "source_provision_id": "SchlPubRul:창원시설공단회계규정#JO0016",
             "reference_id": "SchlPubRul:창원시설공단회계규정#JO0015",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json"
+            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json",
+            "target_git_path": "창원시설공단 회계규정/창원시설공단 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -507,7 +539,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:창원시설공단회계규정#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json"
+            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json",
+            "target_git_path": "창원시설공단 회계규정/창원시설공단 회계규정.json",
+            "target_git_file_path": "창원시설공단 회계규정/별지/별지1_총계정원장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -532,7 +569,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:창원시설공단회계규정#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json"
+            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json",
+            "target_git_path": "창원시설공단 회계규정/창원시설공단 회계규정.json",
+            "target_git_file_path": "창원시설공단 회계규정/별지/별지2_일일수입금처리내역서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -557,7 +599,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:창원시설공단회계규정#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json"
+            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json",
+            "target_git_path": "창원시설공단 회계규정/창원시설공단 회계규정.json",
+            "target_git_file_path": "창원시설공단 회계규정/별지/별지3_자금지출기록부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -582,7 +629,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:창원시설공단회계규정#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json"
+            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json",
+            "target_git_path": "창원시설공단 회계규정/창원시설공단 회계규정.json",
+            "target_git_file_path": "창원시설공단 회계규정/별지/별지4_대체입금표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -607,7 +659,12 @@
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:창원시설공단회계규정#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json"
+            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json",
+            "target_git_path": "창원시설공단 회계규정/창원시설공단 회계규정.json",
+            "target_git_file_path": "창원시설공단 회계규정/별지/별지6_지출예산통제원장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -632,7 +689,12 @@
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:창원시설공단회계규정#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json"
+            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json",
+            "target_git_path": "창원시설공단 회계규정/창원시설공단 회계규정.json",
+            "target_git_file_path": "창원시설공단 회계규정/별지/별지7_저장품대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -657,7 +719,12 @@
             "target_unit": "BJ0008",
             "reference_id": "SchlPubRul:창원시설공단회계규정#BJ0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json"
+            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json",
+            "target_git_path": "창원시설공단 회계규정/창원시설공단 회계규정.json",
+            "target_git_file_path": "창원시설공단 회계규정/별지/별지8_토지대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -682,7 +749,12 @@
             "target_unit": "BJ0009",
             "reference_id": "SchlPubRul:창원시설공단회계규정#BJ0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json"
+            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json",
+            "target_git_path": "창원시설공단 회계규정/창원시설공단 회계규정.json",
+            "target_git_file_path": "창원시설공단 회계규정/별지/별지9_건물대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -707,7 +779,12 @@
             "target_unit": "BJ0010",
             "reference_id": "SchlPubRul:창원시설공단회계규정#BJ0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json"
+            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json",
+            "target_git_path": "창원시설공단 회계규정/창원시설공단 회계규정.json",
+            "target_git_file_path": "창원시설공단 회계규정/별지/별지10_기계장치 및 구축물 대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -732,7 +809,12 @@
             "target_unit": "BJ0011",
             "reference_id": "SchlPubRul:창원시설공단회계규정#BJ0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json"
+            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json",
+            "target_git_path": "창원시설공단 회계규정/창원시설공단 회계규정.json",
+            "target_git_file_path": "창원시설공단 회계규정/별지/별지11_공기구 및 비품대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -757,7 +839,12 @@
             "target_unit": "BJ0012",
             "reference_id": "SchlPubRul:창원시설공단회계규정#BJ0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json"
+            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json",
+            "target_git_path": "창원시설공단 회계규정/창원시설공단 회계규정.json",
+            "target_git_file_path": "창원시설공단 회계규정/별지/별지12_기채상환 대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -782,7 +869,12 @@
             "target_unit": "BJ0013",
             "reference_id": "SchlPubRul:창원시설공단회계규정#BJ0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json"
+            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json",
+            "target_git_path": "창원시설공단 회계규정/창원시설공단 회계규정.json",
+            "target_git_file_path": "창원시설공단 회계규정/별지/별지13_세입세출외 현금 출납부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1034,7 +1126,11 @@
             "source_provision_id": "SchlPubRul:창원시설공단회계규정#JO0045",
             "reference_id": "SchlPubRul:창원시설공단회계규정#JO0043",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json"
+            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json",
+            "target_git_path": "창원시설공단 회계규정/창원시설공단 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -1054,7 +1150,11 @@
             "source_provision_id": "SchlPubRul:창원시설공단회계규정#JO0045",
             "reference_id": "SchlPubRul:창원시설공단회계규정#JO0049",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json"
+            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json",
+            "target_git_path": "창원시설공단 회계규정/창원시설공단 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1306,7 +1406,11 @@
             "source_provision_id": "SchlPubRul:창원시설공단회계규정#JO0063_04",
             "reference_id": "SchlPubRul:창원시설공단회계규정#JO0063",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json"
+            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json",
+            "target_git_path": "창원시설공단 회계규정/창원시설공단 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1536,7 +1640,11 @@
             "source_provision_id": "SchlPubRul:창원시설공단회계규정#JO0082",
             "reference_id": "SchlPubRul:창원시설공단회계규정#JO0048",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json"
+            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json",
+            "target_git_path": "창원시설공단 회계규정/창원시설공단 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1579,7 +1687,11 @@
             "source_provision_id": "SchlPubRul:창원시설공단회계규정#JO0084",
             "reference_id": "SchlPubRul:창원시설공단회계규정#JO0083",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json"
+            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json",
+            "target_git_path": "창원시설공단 회계규정/창원시설공단 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1622,7 +1734,11 @@
             "source_provision_id": "SchlPubRul:창원시설공단회계규정#JO0086",
             "reference_id": "SchlPubRul:창원시설공단회계규정#JO0083",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json"
+            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json",
+            "target_git_path": "창원시설공단 회계규정/창원시설공단 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -1642,7 +1758,11 @@
             "source_provision_id": "SchlPubRul:창원시설공단회계규정#JO0086",
             "reference_id": "SchlPubRul:창원시설공단회계규정#JO0084",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json"
+            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json",
+            "target_git_path": "창원시설공단 회계규정/창원시설공단 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -1662,7 +1782,11 @@
             "source_provision_id": "SchlPubRul:창원시설공단회계규정#JO0086",
             "reference_id": "SchlPubRul:창원시설공단회계규정#JO0085",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json"
+            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json",
+            "target_git_path": "창원시설공단 회계규정/창원시설공단 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1694,7 +1818,11 @@
             "source_provision_id": "SchlPubRul:창원시설공단회계규정#JO0087",
             "reference_id": "SchlPubRul:창원시설공단회계규정#JO0039",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json"
+            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json",
+            "target_git_path": "창원시설공단 회계규정/창원시설공단 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1902,7 +2030,11 @@
             "source_provision_id": "SchlPubRul:창원시설공단회계규정#JO0104",
             "reference_id": "SchlPubRul:창원시설공단회계규정#JO0103",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json"
+            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json",
+            "target_git_path": "창원시설공단 회계규정/창원시설공단 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -2550,7 +2682,9 @@
             "source_provision_id": "SchlPubRul:창원시설공단회계규정#JO0161",
             "reference_id": "law:지방공기업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2813,7 +2947,9 @@
             "source_provision_id": "SchlPubRul:창원시설공단회계규정#JO0183",
             "reference_id": "law:지방공기업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2833,7 +2969,9 @@
             "source_provision_id": "SchlPubRul:창원시설공단회계규정#JO0183",
             "reference_id": "law:지방재정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방재정법/법률/지방재정법.json"
+            "target_git_path_guess": "지방재정법/법률/지방재정법.json",
+            "target_git_path": "지방재정법/법률/지방재정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",

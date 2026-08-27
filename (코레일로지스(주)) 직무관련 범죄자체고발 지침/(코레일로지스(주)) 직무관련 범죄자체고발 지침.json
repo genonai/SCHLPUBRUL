@@ -76,7 +76,9 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))직무관련범죄자체고발지침#JO0002",
             "reference_id": "law:형법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -96,7 +98,9 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))직무관련범죄자체고발지침#JO0002",
             "reference_id": "law:특정범죄가중처벌등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "특정범죄 가중처벌 등에 관한 법률/법률/특정범죄 가중처벌 등에 관한 법률.json"
+            "target_git_path_guess": "특정범죄 가중처벌 등에 관한 법률/법률/특정범죄 가중처벌 등에 관한 법률.json",
+            "target_git_path": "특정범죄 가중처벌 등에 관한 법률/법률/특정범죄 가중처벌 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -116,7 +120,9 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))직무관련범죄자체고발지침#JO0002",
             "reference_id": "law:공직자윤리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공직자윤리법/법률/공직자윤리법.json"
+            "target_git_path_guess": "공직자윤리법/법률/공직자윤리법.json",
+            "target_git_path": "공직자윤리법/법률/공직자윤리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [
@@ -158,7 +164,11 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))직무관련범죄자체고발지침#JO0003",
             "reference_id": "SchlPubRul:(코레일로지스(주))직무관련범죄자체고발지침#JO0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(코레일로지스(주)) 직무관련 범죄자체고발 지침/(코레일로지스(주)) 직무관련 범죄자체고발 지침.json"
+            "target_git_path_guess": "(코레일로지스(주)) 직무관련 범죄자체고발 지침/(코레일로지스(주)) 직무관련 범죄자체고발 지침.json",
+            "target_git_path": "(코레일로지스(주)) 직무관련 범죄자체고발 지침/(코레일로지스(주)) 직무관련 범죄자체고발 지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -183,7 +193,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(코레일로지스(주))직무관련범죄자체고발지침#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(코레일로지스(주)) 직무관련 범죄자체고발 지침/(코레일로지스(주)) 직무관련 범죄자체고발 지침.json"
+            "target_git_path_guess": "(코레일로지스(주)) 직무관련 범죄자체고발 지침/(코레일로지스(주)) 직무관련 범죄자체고발 지침.json",
+            "target_git_path": "(코레일로지스(주)) 직무관련 범죄자체고발 지침/(코레일로지스(주)) 직무관련 범죄자체고발 지침.json",
+            "target_git_file_path": "(코레일로지스(주)) 직무관련 범죄자체고발 지침/별지/별지1_고발대상사건보고.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -231,7 +246,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(코레일로지스(주))직무관련범죄자체고발지침#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(코레일로지스(주)) 직무관련 범죄자체고발 지침/(코레일로지스(주)) 직무관련 범죄자체고발 지침.json"
+            "target_git_path_guess": "(코레일로지스(주)) 직무관련 범죄자체고발 지침/(코레일로지스(주)) 직무관련 범죄자체고발 지침.json",
+            "target_git_path": "(코레일로지스(주)) 직무관련 범죄자체고발 지침/(코레일로지스(주)) 직무관련 범죄자체고발 지침.json",
+            "target_git_file_path": "(코레일로지스(주)) 직무관련 범죄자체고발 지침/별지/별지2_직무관련범죄 고발처리 상황부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

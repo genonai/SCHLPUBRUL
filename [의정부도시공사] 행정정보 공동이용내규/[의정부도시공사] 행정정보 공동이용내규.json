@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]행정정보공동이용내규#JO0001",
             "reference_id": "law:전자정부법#JO0037",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -85,7 +87,9 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]행정정보공동이용내규#JO0001",
             "reference_id": "law:전자정부법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/시행령/전자정부법 시행령.json"
+            "target_git_path_guess": "전자정부법/시행령/전자정부법 시행령.json",
+            "target_git_path": "전자정부법/시행령/전자정부법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -105,7 +109,9 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]행정정보공동이용내규#JO0001",
             "reference_id": "law:전자정부법시행령#JO0042",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/시행령/전자정부법 시행령.json"
+            "target_git_path_guess": "전자정부법/시행령/전자정부법 시행령.json",
+            "target_git_path": "전자정부법/시행령/전자정부법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -164,7 +170,8 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:[의정부도시공사]행정정보공동이용내규#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "[의정부도시공사] 행정정보 공동이용내규/[의정부도시공사] 행정정보 공동이용내규.json"
+            "target_git_path_guess": "[의정부도시공사] 행정정보 공동이용내규/[의정부도시공사] 행정정보 공동이용내규.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -207,7 +214,11 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]행정정보공동이용내규#JO0006",
             "reference_id": "SchlPubRul:[의정부도시공사]행정정보공동이용내규#JO0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "[의정부도시공사] 행정정보 공동이용내규/[의정부도시공사] 행정정보 공동이용내규.json"
+            "target_git_path_guess": "[의정부도시공사] 행정정보 공동이용내규/[의정부도시공사] 행정정보 공동이용내규.json",
+            "target_git_path": "[의정부도시공사] 행정정보 공동이용내규/[의정부도시공사] 행정정보 공동이용내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -227,7 +238,9 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]행정정보공동이용내규#JO0006",
             "reference_id": "law:전자정부법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -247,7 +260,9 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]행정정보공동이용내규#JO0006",
             "reference_id": "law:전자정부법#JO0043",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -279,7 +294,11 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]행정정보공동이용내규#JO0007",
             "reference_id": "SchlPubRul:[의정부도시공사]행정정보공동이용내규#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "[의정부도시공사] 행정정보 공동이용내규/[의정부도시공사] 행정정보 공동이용내규.json"
+            "target_git_path_guess": "[의정부도시공사] 행정정보 공동이용내규/[의정부도시공사] 행정정보 공동이용내규.json",
+            "target_git_path": "[의정부도시공사] 행정정보 공동이용내규/[의정부도시공사] 행정정보 공동이용내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -316,7 +335,8 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:[의정부도시공사]행정정보공동이용내규#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "[의정부도시공사] 행정정보 공동이용내규/[의정부도시공사] 행정정보 공동이용내규.json"
+            "target_git_path_guess": "[의정부도시공사] 행정정보 공동이용내규/[의정부도시공사] 행정정보 공동이용내규.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -348,7 +368,11 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]행정정보공동이용내규#JO0009",
             "reference_id": "SchlPubRul:[의정부도시공사]행정정보공동이용내규#JO0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "[의정부도시공사] 행정정보 공동이용내규/[의정부도시공사] 행정정보 공동이용내규.json"
+            "target_git_path_guess": "[의정부도시공사] 행정정보 공동이용내규/[의정부도시공사] 행정정보 공동이용내규.json",
+            "target_git_path": "[의정부도시공사] 행정정보 공동이용내규/[의정부도시공사] 행정정보 공동이용내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -380,7 +404,11 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]행정정보공동이용내규#JO0010",
             "reference_id": "SchlPubRul:[의정부도시공사]행정정보공동이용내규#JO0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "[의정부도시공사] 행정정보 공동이용내규/[의정부도시공사] 행정정보 공동이용내규.json"
+            "target_git_path_guess": "[의정부도시공사] 행정정보 공동이용내규/[의정부도시공사] 행정정보 공동이용내규.json",
+            "target_git_path": "[의정부도시공사] 행정정보 공동이용내규/[의정부도시공사] 행정정보 공동이용내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -400,7 +428,11 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]행정정보공동이용내규#JO0010",
             "reference_id": "SchlPubRul:[의정부도시공사]행정정보공동이용내규#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "[의정부도시공사] 행정정보 공동이용내규/[의정부도시공사] 행정정보 공동이용내규.json"
+            "target_git_path_guess": "[의정부도시공사] 행정정보 공동이용내규/[의정부도시공사] 행정정보 공동이용내규.json",
+            "target_git_path": "[의정부도시공사] 행정정보 공동이용내규/[의정부도시공사] 행정정보 공동이용내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -437,7 +469,8 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:[의정부도시공사]행정정보공동이용내규#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "[의정부도시공사] 행정정보 공동이용내규/[의정부도시공사] 행정정보 공동이용내규.json"
+            "target_git_path_guess": "[의정부도시공사] 행정정보 공동이용내규/[의정부도시공사] 행정정보 공동이용내규.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "internal_ref",
@@ -457,7 +490,11 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]행정정보공동이용내규#JO0011",
             "reference_id": "SchlPubRul:[의정부도시공사]행정정보공동이용내규#JO0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "[의정부도시공사] 행정정보 공동이용내규/[의정부도시공사] 행정정보 공동이용내규.json"
+            "target_git_path_guess": "[의정부도시공사] 행정정보 공동이용내규/[의정부도시공사] 행정정보 공동이용내규.json",
+            "target_git_path": "[의정부도시공사] 행정정보 공동이용내규/[의정부도시공사] 행정정보 공동이용내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -500,7 +537,11 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]행정정보공동이용내규#JO0013",
             "reference_id": "SchlPubRul:[의정부도시공사]행정정보공동이용내규#JO0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "[의정부도시공사] 행정정보 공동이용내규/[의정부도시공사] 행정정보 공동이용내규.json"
+            "target_git_path_guess": "[의정부도시공사] 행정정보 공동이용내규/[의정부도시공사] 행정정보 공동이용내규.json",
+            "target_git_path": "[의정부도시공사] 행정정보 공동이용내규/[의정부도시공사] 행정정보 공동이용내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -520,7 +561,9 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]행정정보공동이용내규#JO0013",
             "reference_id": "law:전자정부법#JO0042",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -540,7 +583,9 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]행정정보공동이용내규#JO0013",
             "reference_id": "law:전자정부법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/시행령/전자정부법 시행령.json"
+            "target_git_path_guess": "전자정부법/시행령/전자정부법 시행령.json",
+            "target_git_path": "전자정부법/시행령/전자정부법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -560,7 +605,9 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]행정정보공동이용내규#JO0013",
             "reference_id": "law:전자정부법시행령#JO0049",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/시행령/전자정부법 시행령.json"
+            "target_git_path_guess": "전자정부법/시행령/전자정부법 시행령.json",
+            "target_git_path": "전자정부법/시행령/전자정부법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -580,7 +627,9 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]행정정보공동이용내규#JO0013",
             "reference_id": "law:전자정부법#JO0042",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -605,7 +654,8 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:[의정부도시공사]행정정보공동이용내규#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "[의정부도시공사] 행정정보 공동이용내규/[의정부도시공사] 행정정보 공동이용내규.json"
+            "target_git_path_guess": "[의정부도시공사] 행정정보 공동이용내규/[의정부도시공사] 행정정보 공동이용내규.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "citation",
@@ -625,7 +675,9 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]행정정보공동이용내규#JO0013",
             "reference_id": "law:전자서명법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자서명법/법률/전자서명법.json"
+            "target_git_path_guess": "전자서명법/법률/전자서명법.json",
+            "target_git_path": "전자서명법/법률/전자서명법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -645,7 +697,9 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]행정정보공동이용내규#JO0013",
             "reference_id": "law:전자서명법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자서명법/법률/전자서명법.json"
+            "target_git_path_guess": "전자서명법/법률/전자서명법.json",
+            "target_git_path": "전자서명법/법률/전자서명법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -665,7 +719,9 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]행정정보공동이용내규#JO0013",
             "reference_id": "law:전자문서및전자거래기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자문서 및 전자거래 기본법/법률/전자문서 및 전자거래 기본법.json"
+            "target_git_path_guess": "전자문서 및 전자거래 기본법/법률/전자문서 및 전자거래 기본법.json",
+            "target_git_path": "전자문서 및 전자거래 기본법/법률/전자문서 및 전자거래 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -685,7 +741,9 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]행정정보공동이용내규#JO0013",
             "reference_id": "law:전자문서및전자거래기본법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자문서 및 전자거래 기본법/법률/전자문서 및 전자거래 기본법.json"
+            "target_git_path_guess": "전자문서 및 전자거래 기본법/법률/전자문서 및 전자거래 기본법.json",
+            "target_git_path": "전자문서 및 전자거래 기본법/법률/전자문서 및 전자거래 기본법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -717,7 +775,9 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]행정정보공동이용내규#JO0014",
             "reference_id": "law:전자정부법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -737,7 +797,9 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]행정정보공동이용내규#JO0014",
             "reference_id": "law:전자정부법#JO0042",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -769,7 +831,11 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]행정정보공동이용내규#JO0015",
             "reference_id": "SchlPubRul:[의정부도시공사]행정정보공동이용내규#JO0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "[의정부도시공사] 행정정보 공동이용내규/[의정부도시공사] 행정정보 공동이용내규.json"
+            "target_git_path_guess": "[의정부도시공사] 행정정보 공동이용내규/[의정부도시공사] 행정정보 공동이용내규.json",
+            "target_git_path": "[의정부도시공사] 행정정보 공동이용내규/[의정부도시공사] 행정정보 공동이용내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -801,7 +867,9 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]행정정보공동이용내규#JO0016",
             "reference_id": "law:전자정부법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -821,7 +889,9 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]행정정보공동이용내규#JO0016",
             "reference_id": "law:전자정부법#JO0043",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -841,7 +911,9 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]행정정보공동이용내규#JO0016",
             "reference_id": "law:전자정부법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -861,7 +933,9 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]행정정보공동이용내규#JO0016",
             "reference_id": "law:전자정부법#JO0043",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -926,7 +1000,11 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]행정정보공동이용내규#JO0020",
             "reference_id": "SchlPubRul:[의정부도시공사]행정정보공동이용내규#JO0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "[의정부도시공사] 행정정보 공동이용내규/[의정부도시공사] 행정정보 공동이용내규.json"
+            "target_git_path_guess": "[의정부도시공사] 행정정보 공동이용내규/[의정부도시공사] 행정정보 공동이용내규.json",
+            "target_git_path": "[의정부도시공사] 행정정보 공동이용내규/[의정부도시공사] 행정정보 공동이용내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -951,7 +1029,8 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:[의정부도시공사]행정정보공동이용내규#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "[의정부도시공사] 행정정보 공동이용내규/[의정부도시공사] 행정정보 공동이용내규.json"
+            "target_git_path_guess": "[의정부도시공사] 행정정보 공동이용내규/[의정부도시공사] 행정정보 공동이용내규.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -1005,7 +1084,11 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]행정정보공동이용내규#JO0023",
             "reference_id": "admrul:행정정보공동이용지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "행정정보 공동이용지침/행정정보 공동이용지침.json"
+            "target_git_path_guess": "행정정보 공동이용지침/행정정보 공동이용지침.json",
+            "target_git_path": "행정정보 공동이용 지침/행정정보 공동이용 지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],

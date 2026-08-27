@@ -76,7 +76,9 @@
             "source_provision_id": "SchlPubRul:(한국농어촌공사)재해보상규정#JO0002",
             "reference_id": "law:산업재해보상보험법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업재해보상보험법/법률/산업재해보상보험법.json"
+            "target_git_path_guess": "산업재해보상보험법/법률/산업재해보상보험법.json",
+            "target_git_path": "산업재해보상보험법/법률/산업재해보상보험법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -96,7 +98,11 @@
             "source_provision_id": "SchlPubRul:(한국농어촌공사)재해보상규정#JO0002",
             "reference_id": "SchlPubRul:(한국농어촌공사)재해보상규정#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국농어촌공사) 재해보상규정/(한국농어촌공사) 재해보상규정.json"
+            "target_git_path_guess": "(한국농어촌공사) 재해보상규정/(한국농어촌공사) 재해보상규정.json",
+            "target_git_path": "(한국농어촌공사) 재해보상규정/(한국농어촌공사) 재해보상규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -114,9 +120,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)재해보상규정#JO0002",
-            "reference_id": "SchlPubRul:인사규정#DOC",
+            "reference_id": "SchlPubRul:인사규정:public_2130247#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json"
+            "target_git_path_guess": "인사규정/인사규정.json",
+            "target_candidates": 4,
+            "target_git_path": "인사규정/public_2130247/인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -134,9 +145,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정/제3조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)재해보상규정#JO0002",
-            "reference_id": "SchlPubRul:인사규정#JO0003",
+            "reference_id": "SchlPubRul:인사규정:public_2130247#JO0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json"
+            "target_git_path_guess": "인사규정/인사규정.json",
+            "target_candidates": 4,
+            "target_git_path": "인사규정/public_2130247/인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -239,7 +255,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:(한국농어촌공사)재해보상규정#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국농어촌공사) 재해보상규정/(한국농어촌공사) 재해보상규정.json"
+            "target_git_path_guess": "(한국농어촌공사) 재해보상규정/(한국농어촌공사) 재해보상규정.json",
+            "target_git_path": "(한국농어촌공사) 재해보상규정/(한국농어촌공사) 재해보상규정.json",
+            "target_git_file_path": "(한국농어촌공사) 재해보상규정/별지/별지5_자부담 치료비 보조 신청서(제7조의2 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -282,7 +303,11 @@
             "source_provision_id": "SchlPubRul:(한국농어촌공사)재해보상규정#JO0007_04",
             "reference_id": "SchlPubRul:(한국농어촌공사)재해보상규정#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국농어촌공사) 재해보상규정/(한국농어촌공사) 재해보상규정.json"
+            "target_git_path_guess": "(한국농어촌공사) 재해보상규정/(한국농어촌공사) 재해보상규정.json",
+            "target_git_path": "(한국농어촌공사) 재해보상규정/(한국농어촌공사) 재해보상규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -302,7 +327,11 @@
             "source_provision_id": "SchlPubRul:(한국농어촌공사)재해보상규정#JO0007_04",
             "reference_id": "SchlPubRul:(한국농어촌공사)재해보상규정#JO0007_02",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국농어촌공사) 재해보상규정/(한국농어촌공사) 재해보상규정.json"
+            "target_git_path_guess": "(한국농어촌공사) 재해보상규정/(한국농어촌공사) 재해보상규정.json",
+            "target_git_path": "(한국농어촌공사) 재해보상규정/(한국농어촌공사) 재해보상규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -322,7 +351,11 @@
             "source_provision_id": "SchlPubRul:(한국농어촌공사)재해보상규정#JO0007_04",
             "reference_id": "SchlPubRul:(한국농어촌공사)재해보상규정#JO0007_03",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국농어촌공사) 재해보상규정/(한국농어촌공사) 재해보상규정.json"
+            "target_git_path_guess": "(한국농어촌공사) 재해보상규정/(한국농어촌공사) 재해보상규정.json",
+            "target_git_path": "(한국농어촌공사) 재해보상규정/(한국농어촌공사) 재해보상규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -376,7 +409,11 @@
             "source_provision_id": "SchlPubRul:(한국농어촌공사)재해보상규정#JO0009_02",
             "reference_id": "SchlPubRul:(한국농어촌공사)재해보상규정#JO0010_02",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국농어촌공사) 재해보상규정/(한국농어촌공사) 재해보상규정.json"
+            "target_git_path_guess": "(한국농어촌공사) 재해보상규정/(한국농어촌공사) 재해보상규정.json",
+            "target_git_path": "(한국농어촌공사) 재해보상규정/(한국농어촌공사) 재해보상규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -408,7 +445,11 @@
             "source_provision_id": "SchlPubRul:(한국농어촌공사)재해보상규정#JO0009_03",
             "reference_id": "SchlPubRul:(한국농어촌공사)재해보상규정#JO0010_05",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국농어촌공사) 재해보상규정/(한국농어촌공사) 재해보상규정.json"
+            "target_git_path_guess": "(한국농어촌공사) 재해보상규정/(한국농어촌공사) 재해보상규정.json",
+            "target_git_path": "(한국농어촌공사) 재해보상규정/(한국농어촌공사) 재해보상규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -440,7 +481,11 @@
             "source_provision_id": "SchlPubRul:(한국농어촌공사)재해보상규정#JO0010",
             "reference_id": "SchlPubRul:(한국농어촌공사)재해보상규정#JO0011_02",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국농어촌공사) 재해보상규정/(한국농어촌공사) 재해보상규정.json"
+            "target_git_path_guess": "(한국농어촌공사) 재해보상규정/(한국농어촌공사) 재해보상규정.json",
+            "target_git_path": "(한국농어촌공사) 재해보상규정/(한국농어촌공사) 재해보상규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -483,7 +528,11 @@
             "source_provision_id": "SchlPubRul:(한국농어촌공사)재해보상규정#JO0010_03",
             "reference_id": "SchlPubRul:(한국농어촌공사)재해보상규정#JO0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국농어촌공사) 재해보상규정/(한국농어촌공사) 재해보상규정.json"
+            "target_git_path_guess": "(한국농어촌공사) 재해보상규정/(한국농어촌공사) 재해보상규정.json",
+            "target_git_path": "(한국농어촌공사) 재해보상규정/(한국농어촌공사) 재해보상규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -577,7 +626,11 @@
             "source_provision_id": "SchlPubRul:(한국농어촌공사)재해보상규정#JO0011",
             "reference_id": "SchlPubRul:(한국농어촌공사)재해보상규정#JO0011_03",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국농어촌공사) 재해보상규정/(한국농어촌공사) 재해보상규정.json"
+            "target_git_path_guess": "(한국농어촌공사) 재해보상규정/(한국농어촌공사) 재해보상규정.json",
+            "target_git_path": "(한국농어촌공사) 재해보상규정/(한국농어촌공사) 재해보상규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -620,7 +673,9 @@
             "source_provision_id": "SchlPubRul:(한국농어촌공사)재해보상규정#JO0011_03",
             "reference_id": "law:국가배상법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가배상법/법률/국가배상법.json"
+            "target_git_path_guess": "국가배상법/법률/국가배상법.json",
+            "target_git_path": "국가배상법/법률/국가배상법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -657,7 +712,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(한국농어촌공사)재해보상규정#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국농어촌공사) 재해보상규정/(한국농어촌공사) 재해보상규정.json"
+            "target_git_path_guess": "(한국농어촌공사) 재해보상규정/(한국농어촌공사) 재해보상규정.json",
+            "target_git_path": "(한국농어촌공사) 재해보상규정/(한국농어촌공사) 재해보상규정.json",
+            "target_git_file_path": "(한국농어촌공사) 재해보상규정/별지/별지1_배상사고발생보고.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -709,9 +769,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)재해보상규정#JO0015",
-            "reference_id": "SchlPubRul:인사규정#DOC",
+            "reference_id": "SchlPubRul:인사규정:public_2130247#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json"
+            "target_git_path_guess": "인사규정/인사규정.json",
+            "target_candidates": 4,
+            "target_git_path": "인사규정/public_2130247/인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -729,9 +794,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정/제28조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)재해보상규정#JO0015",
-            "reference_id": "SchlPubRul:인사규정#JO0028",
+            "reference_id": "SchlPubRul:인사규정:public_2130247#JO0028",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json"
+            "target_git_path_guess": "인사규정/인사규정.json",
+            "target_candidates": 4,
+            "target_git_path": "인사규정/public_2130247/인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -749,9 +819,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정/제29조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)재해보상규정#JO0015",
-            "reference_id": "SchlPubRul:인사규정#JO0029",
+            "reference_id": "SchlPubRul:인사규정:public_2130247#JO0029",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json"
+            "target_git_path_guess": "인사규정/인사규정.json",
+            "target_candidates": 4,
+            "target_git_path": "인사규정/public_2130247/인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -769,9 +844,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정/제30조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)재해보상규정#JO0015",
-            "reference_id": "SchlPubRul:인사규정#JO0030",
+            "reference_id": "SchlPubRul:인사규정:public_2130247#JO0030",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json"
+            "target_git_path_guess": "인사규정/인사규정.json",
+            "target_candidates": 4,
+            "target_git_path": "인사규정/public_2130247/인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -789,9 +869,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정/제28조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)재해보상규정#JO0015",
-            "reference_id": "SchlPubRul:인사규정#JO0028",
+            "reference_id": "SchlPubRul:인사규정:public_2130247#JO0028",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json"
+            "target_git_path_guess": "인사규정/인사규정.json",
+            "target_candidates": 4,
+            "target_git_path": "인사규정/public_2130247/인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -809,9 +894,13 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정/제28조의2",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)재해보상규정#JO0015",
-            "reference_id": "SchlPubRul:인사규정#JO0028_02",
+            "reference_id": "SchlPubRul:인사규정:public_2127985#JO0028_02",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json"
+            "target_git_path_guess": "인사규정/인사규정.json",
+            "target_git_path": "인사규정/public_2127985/인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -829,9 +918,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정/제29조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)재해보상규정#JO0015",
-            "reference_id": "SchlPubRul:인사규정#JO0029",
+            "reference_id": "SchlPubRul:인사규정:public_2130247#JO0029",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json"
+            "target_git_path_guess": "인사규정/인사규정.json",
+            "target_candidates": 4,
+            "target_git_path": "인사규정/public_2130247/인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -849,9 +943,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정/제30조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)재해보상규정#JO0015",
-            "reference_id": "SchlPubRul:인사규정#JO0030",
+            "reference_id": "SchlPubRul:인사규정:public_2130247#JO0030",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json"
+            "target_git_path_guess": "인사규정/인사규정.json",
+            "target_candidates": 4,
+            "target_git_path": "인사규정/public_2130247/인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -869,9 +968,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정/제28조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)재해보상규정#JO0015",
-            "reference_id": "SchlPubRul:인사규정#JO0028",
+            "reference_id": "SchlPubRul:인사규정:public_2130247#JO0028",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json"
+            "target_git_path_guess": "인사규정/인사규정.json",
+            "target_candidates": 4,
+            "target_git_path": "인사규정/public_2130247/인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -889,9 +993,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정/제29조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)재해보상규정#JO0015",
-            "reference_id": "SchlPubRul:인사규정#JO0029",
+            "reference_id": "SchlPubRul:인사규정:public_2130247#JO0029",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json"
+            "target_git_path_guess": "인사규정/인사규정.json",
+            "target_candidates": 4,
+            "target_git_path": "인사규정/public_2130247/인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -909,9 +1018,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정/제30조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)재해보상규정#JO0015",
-            "reference_id": "SchlPubRul:인사규정#JO0030",
+            "reference_id": "SchlPubRul:인사규정:public_2130247#JO0030",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json"
+            "target_git_path_guess": "인사규정/인사규정.json",
+            "target_candidates": 4,
+            "target_git_path": "인사규정/public_2130247/인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -965,7 +1079,11 @@
             "source_provision_id": "SchlPubRul:(한국농어촌공사)재해보상규정#JO0018",
             "reference_id": "SchlPubRul:(한국농어촌공사)재해보상규정#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국농어촌공사) 재해보상규정/(한국농어촌공사) 재해보상규정.json"
+            "target_git_path_guess": "(한국농어촌공사) 재해보상규정/(한국농어촌공사) 재해보상규정.json",
+            "target_git_path": "(한국농어촌공사) 재해보상규정/(한국농어촌공사) 재해보상규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -985,7 +1103,11 @@
             "source_provision_id": "SchlPubRul:(한국농어촌공사)재해보상규정#JO0018",
             "reference_id": "SchlPubRul:(한국농어촌공사)재해보상규정#JO0007_03",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국농어촌공사) 재해보상규정/(한국농어촌공사) 재해보상규정.json"
+            "target_git_path_guess": "(한국농어촌공사) 재해보상규정/(한국농어촌공사) 재해보상규정.json",
+            "target_git_path": "(한국농어촌공사) 재해보상규정/(한국농어촌공사) 재해보상규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1010,7 +1132,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(한국농어촌공사)재해보상규정#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국농어촌공사) 재해보상규정/(한국농어촌공사) 재해보상규정.json"
+            "target_git_path_guess": "(한국농어촌공사) 재해보상규정/(한국농어촌공사) 재해보상규정.json",
+            "target_git_path": "(한국농어촌공사) 재해보상규정/(한국농어촌공사) 재해보상규정.json",
+            "target_git_file_path": "(한국농어촌공사) 재해보상규정/별지/별지2_재해보상청구서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1035,7 +1162,8 @@
             "target_unit": "BJ0008",
             "reference_id": "SchlPubRul:(한국농어촌공사)재해보상규정#BJ0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국농어촌공사) 재해보상규정/(한국농어촌공사) 재해보상규정.json"
+            "target_git_path_guess": "(한국농어촌공사) 재해보상규정/(한국농어촌공사) 재해보상규정.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -1067,7 +1195,11 @@
             "source_provision_id": "SchlPubRul:(한국농어촌공사)재해보상규정#JO0019",
             "reference_id": "SchlPubRul:(한국농어촌공사)재해보상규정#JO0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국농어촌공사) 재해보상규정/(한국농어촌공사) 재해보상규정.json"
+            "target_git_path_guess": "(한국농어촌공사) 재해보상규정/(한국농어촌공사) 재해보상규정.json",
+            "target_git_path": "(한국농어촌공사) 재해보상규정/(한국농어촌공사) 재해보상규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1092,7 +1224,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:(한국농어촌공사)재해보상규정#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국농어촌공사) 재해보상규정/(한국농어촌공사) 재해보상규정.json"
+            "target_git_path_guess": "(한국농어촌공사) 재해보상규정/(한국농어촌공사) 재해보상규정.json",
+            "target_git_path": "(한국농어촌공사) 재해보상규정/(한국농어촌공사) 재해보상규정.json",
+            "target_git_file_path": "(한국농어촌공사) 재해보상규정/별지/별지3_배상금지급신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1117,7 +1254,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:(한국농어촌공사)재해보상규정#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국농어촌공사) 재해보상규정/(한국농어촌공사) 재해보상규정.json"
+            "target_git_path_guess": "(한국농어촌공사) 재해보상규정/(한국농어촌공사) 재해보상규정.json",
+            "target_git_path": "(한국농어촌공사) 재해보상규정/(한국농어촌공사) 재해보상규정.json",
+            "target_git_file_path": "(한국농어촌공사) 재해보상규정/별지/별지4_합의서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1149,7 +1291,11 @@
             "source_provision_id": "SchlPubRul:(한국농어촌공사)재해보상규정#JO0019_02",
             "reference_id": "SchlPubRul:(한국농어촌공사)재해보상규정#JO0010_02",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국농어촌공사) 재해보상규정/(한국농어촌공사) 재해보상규정.json"
+            "target_git_path_guess": "(한국농어촌공사) 재해보상규정/(한국농어촌공사) 재해보상규정.json",
+            "target_git_path": "(한국농어촌공사) 재해보상규정/(한국농어촌공사) 재해보상규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1174,7 +1320,12 @@
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:(한국농어촌공사)재해보상규정#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국농어촌공사) 재해보상규정/(한국농어촌공사) 재해보상규정.json"
+            "target_git_path_guess": "(한국농어촌공사) 재해보상규정/(한국농어촌공사) 재해보상규정.json",
+            "target_git_path": "(한국농어촌공사) 재해보상규정/(한국농어촌공사) 재해보상규정.json",
+            "target_git_file_path": "(한국농어촌공사) 재해보상규정/별지/별지6_사고보고서(제19조의2 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1199,7 +1350,12 @@
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:(한국농어촌공사)재해보상규정#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국농어촌공사) 재해보상규정/(한국농어촌공사) 재해보상규정.json"
+            "target_git_path_guess": "(한국농어촌공사) 재해보상규정/(한국농어촌공사) 재해보상규정.json",
+            "target_git_path": "(한국농어촌공사) 재해보상규정/(한국농어촌공사) 재해보상규정.json",
+            "target_git_file_path": "(한국농어촌공사) 재해보상규정/별지/별지7_관계자 조사 보고서(제19조의2 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1242,7 +1398,9 @@
             "source_provision_id": "SchlPubRul:(한국농어촌공사)재해보상규정#JO0021",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

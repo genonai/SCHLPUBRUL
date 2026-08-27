@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0001",
             "reference_id": "law:항공안전법#JO0135",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/법률/항공안전법.json"
+            "target_git_path_guess": "항공안전법/법률/항공안전법.json",
+            "target_git_path": "항공안전법/법률/항공안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -85,7 +87,9 @@
             "source_provision_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0001",
             "reference_id": "law:항공안전법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행령/항공안전법 시행령.json"
+            "target_git_path_guess": "항공안전법/시행령/항공안전법 시행령.json",
+            "target_git_path": "항공안전법/시행령/항공안전법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -105,7 +109,9 @@
             "source_provision_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0001",
             "reference_id": "law:항공안전법시행령#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행령/항공안전법 시행령.json"
+            "target_git_path_guess": "항공안전법/시행령/항공안전법 시행령.json",
+            "target_git_path": "항공안전법/시행령/항공안전법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -125,7 +131,11 @@
             "source_provision_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0001",
             "reference_id": "admrul:항공영어구술능력증명시험실시요령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json"
+            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_git_path": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -157,7 +167,11 @@
             "source_provision_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0002",
             "reference_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json"
+            "target_git_path_guess": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json",
+            "target_git_path": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -189,7 +203,9 @@
             "source_provision_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0003",
             "reference_id": "law:항공안전법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행령/항공안전법 시행령.json"
+            "target_git_path_guess": "항공안전법/시행령/항공안전법 시행령.json",
+            "target_git_path": "항공안전법/시행령/항공안전법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -209,7 +225,9 @@
             "source_provision_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0003",
             "reference_id": "law:항공안전법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json"
+            "target_git_path_guess": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_git_path": "항공안전법/시행규칙/항공안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -229,7 +247,11 @@
             "source_provision_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0003",
             "reference_id": "admrul:항공영어구술능력증명시험실시요령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json"
+            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_git_path": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -283,7 +305,11 @@
             "source_provision_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0006",
             "reference_id": "admrul:항공영어구술능력증명시험실시요령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json"
+            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_git_path": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -303,7 +329,11 @@
             "source_provision_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0006",
             "reference_id": "admrul:항공영어구술능력증명시험실시요령#JO0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json"
+            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_git_path": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -335,7 +365,11 @@
             "source_provision_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0007",
             "reference_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json"
+            "target_git_path_guess": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json",
+            "target_git_path": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -367,7 +401,11 @@
             "source_provision_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0008",
             "reference_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json"
+            "target_git_path_guess": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json",
+            "target_git_path": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -399,7 +437,11 @@
             "source_provision_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0009",
             "reference_id": "admrul:항공영어구술능력증명시험실시요령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json"
+            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_git_path": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -419,7 +461,11 @@
             "source_provision_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0009",
             "reference_id": "admrul:항공영어구술능력증명시험실시요령#JO0011",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json"
+            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_git_path": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -439,7 +485,11 @@
             "source_provision_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0009",
             "reference_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json"
+            "target_git_path_guess": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json",
+            "target_git_path": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -464,7 +514,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json"
+            "target_git_path_guess": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json",
+            "target_git_path": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json",
+            "target_git_file_path": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/별지/별지1_수험자 서약서 (제9조제5항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -501,7 +556,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json"
+            "target_git_path_guess": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json",
+            "target_git_path": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json",
+            "target_git_file_path": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/별표/별표1_시험관리종사자의 임무와 지정기준 (제10조제2항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -526,7 +586,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json"
+            "target_git_path_guess": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json",
+            "target_git_path": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json",
+            "target_git_file_path": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/별지/별지2_시험관리종사자 명단 (제10조제3항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -546,7 +611,11 @@
             "source_provision_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0010",
             "reference_id": "admrul:항공영어구술능력증명시험실시요령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json"
+            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_git_path": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -566,7 +635,11 @@
             "source_provision_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0010",
             "reference_id": "admrul:항공영어구술능력증명시험실시요령#JO0014",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json"
+            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_git_path": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -598,7 +671,11 @@
             "source_provision_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0011",
             "reference_id": "admrul:항공영어구술능력증명시험실시요령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json"
+            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_git_path": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -618,7 +695,11 @@
             "source_provision_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0011",
             "reference_id": "admrul:항공영어구술능력증명시험실시요령#JO0015",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json"
+            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_git_path": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -650,7 +731,11 @@
             "source_provision_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0012",
             "reference_id": "admrul:항공영어구술능력증명시험실시요령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json"
+            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_git_path": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -670,7 +755,11 @@
             "source_provision_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0012",
             "reference_id": "admrul:항공영어구술능력증명시험실시요령#JO0016",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json"
+            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_git_path": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -695,7 +784,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json"
+            "target_git_path_guess": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json",
+            "target_git_path": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json",
+            "target_git_file_path": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/별지/별지3_항공영어구술능력증명시험 채점표 (5등급 이하) (제12조제2항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -720,7 +814,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json"
+            "target_git_path_guess": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json",
+            "target_git_path": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json",
+            "target_git_file_path": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/별지/별지4_항공영어구술능력증명시험 채점표 (6등급) (제12조제2항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -752,7 +851,11 @@
             "source_provision_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0013",
             "reference_id": "admrul:항공영어구술능력증명시험실시요령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json"
+            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_git_path": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -772,7 +875,11 @@
             "source_provision_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0013",
             "reference_id": "admrul:항공영어구술능력증명시험실시요령#JO0017",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json"
+            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_git_path": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -797,7 +904,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json"
+            "target_git_path_guess": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json",
+            "target_git_path": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json",
+            "target_git_file_path": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/별지/별지5_ENGLISH PROFICIENCY TEST FOR AVIATION (제12조제2항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -829,7 +941,11 @@
             "source_provision_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0014",
             "reference_id": "admrul:항공영어구술능력증명시험실시요령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json"
+            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_git_path": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -849,7 +965,11 @@
             "source_provision_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0014",
             "reference_id": "admrul:항공영어구술능력증명시험실시요령#JO0018",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json"
+            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_git_path": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -881,7 +1001,11 @@
             "source_provision_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0015",
             "reference_id": "admrul:항공영어구술능력증명시험실시요령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json"
+            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_git_path": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -901,7 +1025,11 @@
             "source_provision_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0015",
             "reference_id": "admrul:항공영어구술능력증명시험실시요령#JO0019",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json"
+            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_git_path": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -926,7 +1054,12 @@
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json"
+            "target_git_path_guess": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json",
+            "target_git_path": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json",
+            "target_git_file_path": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/별지/별지6_항공영어구술증명시험 결과에 관한 이의신청서 (제15조제2항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -980,7 +1113,11 @@
             "source_provision_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0018",
             "reference_id": "admrul:항공영어구술능력증명시험실시요령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json"
+            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_git_path": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1000,7 +1137,11 @@
             "source_provision_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0018",
             "reference_id": "admrul:항공영어구술능력증명시험실시요령#JO0013",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json"
+            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_git_path": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1032,7 +1173,11 @@
             "source_provision_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0019",
             "reference_id": "admrul:항공영어구술능력증명시험실시요령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json"
+            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_git_path": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1052,7 +1197,11 @@
             "source_provision_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0019",
             "reference_id": "admrul:항공영어구술능력증명시험실시요령#JO0007",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json"
+            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_git_path": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1084,7 +1233,11 @@
             "source_provision_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0020",
             "reference_id": "admrul:항공영어구술능력증명시험실시요령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json"
+            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_git_path": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1104,7 +1257,11 @@
             "source_provision_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0020",
             "reference_id": "admrul:항공영어구술능력증명시험실시요령#JO0012",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json"
+            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_git_path": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1124,7 +1281,11 @@
             "source_provision_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0020",
             "reference_id": "admrul:항공영어구술능력증명시험실시요령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json"
+            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_git_path": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1144,7 +1305,11 @@
             "source_provision_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0020",
             "reference_id": "admrul:항공영어구술능력증명시험실시요령#JO0012",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json"
+            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_git_path": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1169,7 +1334,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json"
+            "target_git_path_guess": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json",
+            "target_git_path": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json",
+            "target_git_file_path": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/별표/별표2_문제 출제 유의사항 (제20조제3항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1201,7 +1371,11 @@
             "source_provision_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0021",
             "reference_id": "admrul:항공영어구술능력증명시험실시요령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json"
+            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_git_path": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1221,7 +1395,11 @@
             "source_provision_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0021",
             "reference_id": "admrul:항공영어구술능력증명시험실시요령#JO0012",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json"
+            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_git_path": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1241,7 +1419,11 @@
             "source_provision_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0021",
             "reference_id": "admrul:항공영어구술능력증명시험실시요령#JO0013",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json"
+            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_git_path": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1273,7 +1455,11 @@
             "source_provision_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0022",
             "reference_id": "admrul:항공영어구술능력증명시험실시요령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json"
+            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_git_path": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1293,7 +1479,11 @@
             "source_provision_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0022",
             "reference_id": "admrul:항공영어구술능력증명시험실시요령#JO0015",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json"
+            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_git_path": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1325,7 +1515,11 @@
             "source_provision_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0023",
             "reference_id": "admrul:항공영어구술능력증명시험실시요령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json"
+            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_git_path": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1345,7 +1539,11 @@
             "source_provision_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0023",
             "reference_id": "admrul:항공영어구술능력증명시험실시요령#JO0013",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json"
+            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_git_path": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1377,7 +1575,11 @@
             "source_provision_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0024",
             "reference_id": "admrul:항공영어구술능력증명시험실시요령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json"
+            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_git_path": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1397,7 +1599,11 @@
             "source_provision_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0024",
             "reference_id": "admrul:항공영어구술능력증명시험실시요령#JO0007",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json"
+            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_git_path": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1422,7 +1628,12 @@
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json"
+            "target_git_path_guess": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json",
+            "target_git_path": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json",
+            "target_git_file_path": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/별지/별지7_항공영어구술능력증명시험 평가_면접 위원 위촉 신청서 (제24조제3항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -1442,7 +1653,11 @@
             "source_provision_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0024",
             "reference_id": "admrul:항공영어구술능력증명시험실시요령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json"
+            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_git_path": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1462,7 +1677,11 @@
             "source_provision_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0024",
             "reference_id": "admrul:항공영어구술능력증명시험실시요령#JO0007",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json"
+            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_git_path": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1482,7 +1701,11 @@
             "source_provision_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0024",
             "reference_id": "admrul:항공영어구술능력증명시험실시요령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json"
+            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_git_path": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1502,7 +1725,11 @@
             "source_provision_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0024",
             "reference_id": "admrul:항공영어구술능력증명시험실시요령#JO0007",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json"
+            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_git_path": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1527,7 +1754,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json"
+            "target_git_path_guess": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json",
+            "target_git_path": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json",
+            "target_git_file_path": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/별지/별지1_수험자 서약서 (제9조제5항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1552,7 +1784,12 @@
             "target_unit": "BJ0008",
             "reference_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#BJ0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json"
+            "target_git_path_guess": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json",
+            "target_git_path": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json",
+            "target_git_file_path": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/별지/별지8_항공영어구술능력증명시험 평가_면접 위원 청렴서약서 (제24조제5항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1584,7 +1821,11 @@
             "source_provision_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0025",
             "reference_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0024",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json"
+            "target_git_path_guess": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json",
+            "target_git_path": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1609,7 +1850,12 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json"
+            "target_git_path_guess": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json",
+            "target_git_path": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json",
+            "target_git_file_path": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/별표/별표3_평가 및 면접 위원 초기 교육훈련 계획(제25조제2항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1634,7 +1880,12 @@
             "target_unit": "BYL0004",
             "reference_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#BYL0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json"
+            "target_git_path_guess": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json",
+            "target_git_path": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json",
+            "target_git_file_path": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/별표/별표4_평가 및 면접 위원 정기 교육훈련 계획 (제25조제2항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1659,7 +1910,12 @@
             "target_unit": "BJ0009",
             "reference_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#BJ0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json"
+            "target_git_path_guess": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json",
+            "target_git_path": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json",
+            "target_git_file_path": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/별지/별지9_직무교육 수료증 (제25조제3항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1684,7 +1940,12 @@
             "target_unit": "BJ0010",
             "reference_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#BJ0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json"
+            "target_git_path_guess": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json",
+            "target_git_path": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json",
+            "target_git_file_path": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/별지/별지10_항공영어구술능력증명시험 평가_면접 위원 위촉 및 교육 기록부 (제25조제4항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1716,7 +1977,11 @@
             "source_provision_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0026",
             "reference_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0025",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json"
+            "target_git_path_guess": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json",
+            "target_git_path": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1759,7 +2024,11 @@
             "source_provision_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0028",
             "reference_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0019",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json"
+            "target_git_path_guess": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json",
+            "target_git_path": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1784,7 +2053,12 @@
             "target_unit": "BJ0011",
             "reference_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#BJ0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json"
+            "target_git_path_guess": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json",
+            "target_git_path": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json",
+            "target_git_file_path": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/별지/별지11_항공영어구술능력증명시험 평가_면접 위원 위촉 취소 신청서 (제28조제3항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1804,7 +2078,11 @@
             "source_provision_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0028",
             "reference_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0025",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json"
+            "target_git_path_guess": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json",
+            "target_git_path": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1836,7 +2114,11 @@
             "source_provision_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0029",
             "reference_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0028",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json"
+            "target_git_path_guess": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json",
+            "target_git_path": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1861,7 +2143,12 @@
             "target_unit": "BJ0012",
             "reference_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#BJ0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json"
+            "target_git_path_guess": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json",
+            "target_git_path": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json",
+            "target_git_file_path": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/별지/별지12_항공영어구술능력증명시험 평가_면접 위원 위촉 취소에 관한 이의신청서 (제29조제1항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1909,7 +2196,12 @@
             "target_unit": "BYL0005",
             "reference_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#BYL0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json"
+            "target_git_path_guess": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json",
+            "target_git_path": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침.json",
+            "target_git_file_path": "(한국교통안전공단) 항공영어구술능력증명시험 업무처리 지침/별표/별표5_시험업무종사자 청렴행동수칙 (제31조제2항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1963,7 +2255,9 @@
             "source_provision_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0034",
             "reference_id": "law:항공안전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/법률/항공안전법.json"
+            "target_git_path_guess": "항공안전법/법률/항공안전법.json",
+            "target_git_path": "항공안전법/법률/항공안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1983,7 +2277,9 @@
             "source_provision_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0034",
             "reference_id": "law:항공안전법#JO0136",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/법률/항공안전법.json"
+            "target_git_path_guess": "항공안전법/법률/항공안전법.json",
+            "target_git_path": "항공안전법/법률/항공안전법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2026,7 +2322,11 @@
             "source_provision_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0036",
             "reference_id": "admrul:항공영어구술능력증명시험실시요령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json"
+            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_git_path": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -2046,7 +2346,8 @@
             "source_provision_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0036",
             "reference_id": "admrul:항공영어구술능력증명시험실시요령#JO0034",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json"
+            "target_git_path_guess": "항공영어구술능력증명시험 실시요령/항공영어구술능력증명시험 실시요령.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -2078,7 +2379,9 @@
             "source_provision_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0037",
             "reference_id": "law:항공안전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/법률/항공안전법.json"
+            "target_git_path_guess": "항공안전법/법률/항공안전법.json",
+            "target_git_path": "항공안전법/법률/항공안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2098,7 +2401,9 @@
             "source_provision_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0037",
             "reference_id": "law:항공안전법#JO0045",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/법률/항공안전법.json"
+            "target_git_path_guess": "항공안전법/법률/항공안전법.json",
+            "target_git_path": "항공안전법/법률/항공안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2118,7 +2423,9 @@
             "source_provision_id": "SchlPubRul:(한국교통안전공단)항공영어구술능력증명시험업무처리지침#JO0037",
             "reference_id": "law:항공안전법#JO0043",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/법률/항공안전법.json"
+            "target_git_path_guess": "항공안전법/법률/항공안전법.json",
+            "target_git_path": "항공안전법/법률/항공안전법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

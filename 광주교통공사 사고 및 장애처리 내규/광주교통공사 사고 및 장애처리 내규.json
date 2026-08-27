@@ -76,7 +76,11 @@
             "source_provision_id": "SchlPubRul:광주교통공사사고및장애처리내규#JO0002",
             "reference_id": "admrul:철도사고장애,철도차량고장등에따른의무보고및철도안전자율보고에관한지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "철도사고·장애, 철도차량고장 등에 따른 의무보고 및 철도안전 자율보고에 관한 지침/철도사고·장애, 철도차량고장 등에 따른 의무보고 및 철도안전 자율보고에 관한 지침.json"
+            "target_git_path_guess": "철도사고·장애, 철도차량고장 등에 따른 의무보고 및 철도안전 자율보고에 관한 지침/철도사고·장애, 철도차량고장 등에 따른 의무보고 및 철도안전 자율보고에 관한 지침.json",
+            "target_git_path": "철도사고·장애, 철도차량고장 등에 따른 의무보고 및 철도안전 자율보고에 관한 지침/철도사고·장애, 철도차량고장 등에 따른 의무보고 및 철도안전 자율보고에 관한 지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -113,7 +117,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:광주교통공사사고및장애처리내규#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json"
+            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_path": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_file_path": "광주교통공사 사고 및 장애처리 내규/별표/별표1_철도사고 등의 분류기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -133,7 +142,11 @@
             "source_provision_id": "SchlPubRul:광주교통공사사고및장애처리내규#JO0003",
             "reference_id": "SchlPubRul:광주교통공사사고및장애처리내규#JO0045",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json"
+            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_path": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -153,7 +166,9 @@
             "source_provision_id": "SchlPubRul:광주교통공사사고및장애처리내규#JO0003",
             "reference_id": "law:건널목개량촉진법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건널목개량촉진법/법률/건널목개량촉진법.json"
+            "target_git_path_guess": "건널목개량촉진법/법률/건널목개량촉진법.json",
+            "target_git_path": "건널목 개량촉진법/법률/건널목 개량촉진법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -173,7 +188,9 @@
             "source_provision_id": "SchlPubRul:광주교통공사사고및장애처리내규#JO0003",
             "reference_id": "law:건널목개량촉진법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "건널목개량촉진법/법률/건널목개량촉진법.json"
+            "target_git_path_guess": "건널목개량촉진법/법률/건널목개량촉진법.json",
+            "target_git_path": "건널목 개량촉진법/법률/건널목 개량촉진법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -193,7 +210,9 @@
             "source_provision_id": "SchlPubRul:광주교통공사사고및장애처리내규#JO0003",
             "reference_id": "law:도로교통법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "도로교통법/법률/도로교통법.json"
+            "target_git_path_guess": "도로교통법/법률/도로교통법.json",
+            "target_git_path": "도로교통법/법률/도로교통법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -213,7 +232,9 @@
             "source_provision_id": "SchlPubRul:광주교통공사사고및장애처리내규#JO0003",
             "reference_id": "law:도로교통법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "도로교통법/법률/도로교통법.json"
+            "target_git_path_guess": "도로교통법/법률/도로교통법.json",
+            "target_git_path": "도로교통법/법률/도로교통법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -233,7 +254,9 @@
             "source_provision_id": "SchlPubRul:광주교통공사사고및장애처리내규#JO0003",
             "reference_id": "law:재난및안전관리기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json"
+            "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+            "target_git_path": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -253,7 +276,9 @@
             "source_provision_id": "SchlPubRul:광주교통공사사고및장애처리내규#JO0003",
             "reference_id": "law:재난및안전관리기본법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json"
+            "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+            "target_git_path": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -273,7 +298,9 @@
             "source_provision_id": "SchlPubRul:광주교통공사사고및장애처리내규#JO0003",
             "reference_id": "law:철도안전법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도안전법/시행령/철도안전법 시행령.json"
+            "target_git_path_guess": "철도안전법/시행령/철도안전법 시행령.json",
+            "target_git_path": "철도안전법/시행령/철도안전법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -293,7 +320,9 @@
             "source_provision_id": "SchlPubRul:광주교통공사사고및장애처리내규#JO0003",
             "reference_id": "law:철도안전법시행령#JO0045",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도안전법/시행령/철도안전법 시행령.json"
+            "target_git_path_guess": "철도안전법/시행령/철도안전법 시행령.json",
+            "target_git_path": "철도안전법/시행령/철도안전법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -330,7 +359,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:광주교통공사사고및장애처리내규#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json"
+            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_path": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_file_path": "광주교통공사 사고 및 장애처리 내규/별표/별표2_사고보고계통도(즉시보고).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -350,7 +384,11 @@
             "source_provision_id": "SchlPubRul:광주교통공사사고및장애처리내규#JO0004",
             "reference_id": "SchlPubRul:광주교통공사사고및장애처리내규#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json"
+            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_path": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -382,7 +420,11 @@
             "source_provision_id": "SchlPubRul:광주교통공사사고및장애처리내규#JO0005",
             "reference_id": "SchlPubRul:광주교통공사사고및장애처리내규#JO0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json"
+            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_path": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -407,7 +449,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:광주교통공사사고및장애처리내규#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json"
+            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_path": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_file_path": "광주교통공사 사고 및 장애처리 내규/별지/별지1_철도사고 즉시(급보)보고서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -427,7 +474,11 @@
             "source_provision_id": "SchlPubRul:광주교통공사사고및장애처리내규#JO0005",
             "reference_id": "SchlPubRul:광주교통공사사고및장애처리내규#JO0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json"
+            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_path": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -452,7 +503,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:광주교통공사사고및장애처리내규#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json"
+            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_path": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_file_path": "광주교통공사 사고 및 장애처리 내규/별지/별지2_철 도 사 고 보 고 서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -477,7 +533,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:광주교통공사사고및장애처리내규#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json"
+            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_path": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_file_path": "광주교통공사 사고 및 장애처리 내규/별지/별지3_사고관계자 신상조사서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -497,7 +558,11 @@
             "source_provision_id": "SchlPubRul:광주교통공사사고및장애처리내규#JO0005",
             "reference_id": "SchlPubRul:광주교통공사사고및장애처리내규#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json"
+            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_path": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -529,7 +594,11 @@
             "source_provision_id": "SchlPubRul:광주교통공사사고및장애처리내규#JO0006",
             "reference_id": "SchlPubRul:광주교통공사사고및장애처리내규#JO0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json"
+            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_path": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -554,7 +623,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:광주교통공사사고및장애처리내규#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json"
+            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_path": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_file_path": "광주교통공사 사고 및 장애처리 내규/별표/별표2_사고보고계통도(즉시보고).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -574,7 +648,11 @@
             "source_provision_id": "SchlPubRul:광주교통공사사고및장애처리내규#JO0006",
             "reference_id": "SchlPubRul:광주교통공사사고및장애처리내규#JO0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json"
+            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_path": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -594,7 +672,11 @@
             "source_provision_id": "SchlPubRul:광주교통공사사고및장애처리내규#JO0006",
             "reference_id": "SchlPubRul:광주교통공사사고및장애처리내규#JO0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json"
+            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_path": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -614,7 +696,11 @@
             "source_provision_id": "SchlPubRul:광주교통공사사고및장애처리내규#JO0006",
             "reference_id": "SchlPubRul:광주교통공사사고및장애처리내규#JO0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json"
+            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_path": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -639,7 +725,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:광주교통공사사고및장애처리내규#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json"
+            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_path": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_file_path": "광주교통공사 사고 및 장애처리 내규/별표/별표1_철도사고 등의 분류기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -664,7 +755,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:광주교통공사사고및장애처리내규#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json"
+            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_path": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_file_path": "광주교통공사 사고 및 장애처리 내규/별지/별지2_철 도 사 고 보 고 서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -689,7 +785,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:광주교통공사사고및장애처리내규#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json"
+            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_path": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_file_path": "광주교통공사 사고 및 장애처리 내규/별표/별표2_사고보고계통도(즉시보고).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -709,7 +810,9 @@
             "source_provision_id": "SchlPubRul:광주교통공사사고및장애처리내규#JO0006",
             "reference_id": "law:재난및안전관리기본법#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json"
+            "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+            "target_git_path": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -729,7 +832,9 @@
             "source_provision_id": "SchlPubRul:광주교통공사사고및장애처리내규#JO0006",
             "reference_id": "law:재난및안전관리기본법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "재난 및 안전관리 기본법/시행규칙/재난 및 안전관리 기본법 시행규칙.json"
+            "target_git_path_guess": "재난 및 안전관리 기본법/시행규칙/재난 및 안전관리 기본법 시행규칙.json",
+            "target_git_path": "재난 및 안전관리 기본법/시행규칙/재난 및 안전관리 기본법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -752,9 +857,12 @@
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:광주교통공사사고및장애처리내규#JO0006",
             "target_unit": "BJ0001",
-            "reference_id": "law:재난및안전관리기본법시행규칙#BJ0001",
+            "reference_id": "law:재난및안전관리기본법시행규칙#FORM0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "재난 및 안전관리 기본법/시행규칙/재난 및 안전관리 기본법 시행규칙.json"
+            "target_git_path_guess": "재난 및 안전관리 기본법/시행규칙/재난 및 안전관리 기본법 시행규칙.json",
+            "target_git_path": "재난 및 안전관리 기본법/시행규칙/재난 및 안전관리 기본법 시행규칙.json",
+            "target_git_file_path": "재난 및 안전관리 기본법/시행규칙/서식/서식1_재난상황 보고서.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -791,7 +899,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:광주교통공사사고및장애처리내규#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json"
+            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_path": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_file_path": "광주교통공사 사고 및 장애처리 내규/별표/별표1_철도사고 등의 분류기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -816,7 +929,12 @@
             "target_unit": "BJ0012",
             "reference_id": "SchlPubRul:광주교통공사사고및장애처리내규#BJ0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json"
+            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_path": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_file_path": "광주교통공사 사고 및 장애처리 내규/별지/별지12_철도사고 통계보고.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -836,7 +954,11 @@
             "source_provision_id": "SchlPubRul:광주교통공사사고및장애처리내규#JO0007",
             "reference_id": "SchlPubRul:광주교통공사사고및장애처리내규#JO0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json"
+            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_path": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -856,7 +978,11 @@
             "source_provision_id": "SchlPubRul:광주교통공사사고및장애처리내규#JO0007",
             "reference_id": "SchlPubRul:광주교통공사사고및장애처리내규#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json"
+            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_path": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -876,7 +1002,11 @@
             "source_provision_id": "SchlPubRul:광주교통공사사고및장애처리내규#JO0007",
             "reference_id": "SchlPubRul:광주교통공사사고및장애처리내규#JO0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json"
+            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_path": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -896,7 +1026,11 @@
             "source_provision_id": "SchlPubRul:광주교통공사사고및장애처리내규#JO0007",
             "reference_id": "SchlPubRul:광주교통공사사고및장애처리내규#JO0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json"
+            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_path": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -916,7 +1050,11 @@
             "source_provision_id": "SchlPubRul:광주교통공사사고및장애처리내규#JO0007",
             "reference_id": "SchlPubRul:광주교통공사사고및장애처리내규#JO0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json"
+            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_path": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1030,7 +1168,12 @@
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:광주교통공사사고및장애처리내규#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json"
+            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_path": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_file_path": "광주교통공사 사고 및 장애처리 내규/별지/별지6_출석 통지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1055,7 +1198,12 @@
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:광주교통공사사고및장애처리내규#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json"
+            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_path": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_file_path": "광주교통공사 사고 및 장애처리 내규/별지/별지7_사 고 진 술 서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1080,7 +1228,12 @@
             "target_unit": "BJ0008",
             "reference_id": "SchlPubRul:광주교통공사사고및장애처리내규#BJ0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json"
+            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_path": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_file_path": "광주교통공사 사고 및 장애처리 내규/별지/별지8_질 문 서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1105,7 +1258,12 @@
             "target_unit": "BJ0009",
             "reference_id": "SchlPubRul:광주교통공사사고및장애처리내규#BJ0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json"
+            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_path": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_file_path": "광주교통공사 사고 및 장애처리 내규/별지/별지9_답 변 서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1130,7 +1288,12 @@
             "target_unit": "BJ0010",
             "reference_id": "SchlPubRul:광주교통공사사고및장애처리내규#BJ0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json"
+            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_path": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_file_path": "광주교통공사 사고 및 장애처리 내규/별지/별지10_확 인 서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1167,7 +1330,12 @@
             "target_unit": "BYL0010",
             "reference_id": "SchlPubRul:광주교통공사사고및장애처리내규#BYL0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json"
+            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_path": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_file_path": "광주교통공사 사고 및 장애처리 내규/별표/별표10_철도사고 등 피해구상 및 장비사용료 산정기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1215,7 +1383,12 @@
             "target_unit": "BYL0006",
             "reference_id": "SchlPubRul:광주교통공사사고및장애처리내규#BYL0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json"
+            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_path": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_file_path": "광주교통공사 사고 및 장애처리 내규/별표/별표6_조사착안사항 및 판단자료.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1258,7 +1431,11 @@
             "source_provision_id": "SchlPubRul:광주교통공사사고및장애처리내규#JO0020",
             "reference_id": "SchlPubRul:광주교통공사사고및장애처리내규#JO0015",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json"
+            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_path": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1416,7 +1593,12 @@
             "target_unit": "BJ0011",
             "reference_id": "SchlPubRul:광주교통공사사고및장애처리내규#BJ0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json"
+            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_path": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_file_path": "광주교통공사 사고 및 장애처리 내규/별지/별지11_사상자 이송서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1448,7 +1630,11 @@
             "source_provision_id": "SchlPubRul:광주교통공사사고및장애처리내규#JO0033",
             "reference_id": "SchlPubRul:광주교통공사사고및장애처리내규#JO0032",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json"
+            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_path": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -1468,7 +1654,11 @@
             "source_provision_id": "SchlPubRul:광주교통공사사고및장애처리내규#JO0033",
             "reference_id": "SchlPubRul:광주교통공사사고및장애처리내규#JO0032",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json"
+            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_path": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -1488,7 +1678,11 @@
             "source_provision_id": "SchlPubRul:광주교통공사사고및장애처리내규#JO0033",
             "reference_id": "SchlPubRul:광주교통공사사고및장애처리내규#JO0032",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json"
+            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_path": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -1508,7 +1702,11 @@
             "source_provision_id": "SchlPubRul:광주교통공사사고및장애처리내규#JO0033",
             "reference_id": "SchlPubRul:광주교통공사사고및장애처리내규#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json"
+            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_path": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1540,7 +1738,11 @@
             "source_provision_id": "SchlPubRul:광주교통공사사고및장애처리내규#JO0034",
             "reference_id": "SchlPubRul:광주교통공사사고및장애처리내규#JO0032",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json"
+            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_path": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1588,7 +1790,12 @@
             "target_unit": "BYL0009",
             "reference_id": "SchlPubRul:광주교통공사사고및장애처리내규#BYL0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json"
+            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_path": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_file_path": "광주교통공사 사고 및 장애처리 내규/별표/별표9_사상사고 책임판정 기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1620,7 +1827,11 @@
             "source_provision_id": "SchlPubRul:광주교통공사사고및장애처리내규#JO0037",
             "reference_id": "SchlPubRul:광주교통공사사고및장애처리내규#JO0036",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json"
+            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_path": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1734,7 +1945,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:광주교통공사사고및장애처리내규#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json"
+            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_path": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_file_path": "광주교통공사 사고 및 장애처리 내규/별지/별지5_사고조사처리 상황부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1759,7 +1975,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:광주교통공사사고및장애처리내규#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json"
+            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_path": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_file_path": "광주교통공사 사고 및 장애처리 내규/별표/별표1_철도사고 등의 분류기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1784,7 +2005,12 @@
             "target_unit": "BJ0012",
             "reference_id": "SchlPubRul:광주교통공사사고및장애처리내규#BJ0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json"
+            "target_git_path_guess": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_path": "광주교통공사 사고 및 장애처리 내규/광주교통공사 사고 및 장애처리 내규.json",
+            "target_git_file_path": "광주교통공사 사고 및 장애처리 내규/별지/별지12_철도사고 통계보고.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],

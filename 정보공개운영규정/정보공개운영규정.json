@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:정보공개운영규정#JO0001",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -97,7 +99,9 @@
             "source_provision_id": "SchlPubRul:정보공개운영규정#JO0002",
             "reference_id": "law:전자정부법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -117,7 +121,9 @@
             "source_provision_id": "SchlPubRul:정보공개운영규정#JO0002",
             "reference_id": "law:전자정부법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -187,7 +193,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:정보공개운영규정#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "정보공개운영규정/정보공개운영규정.json"
+            "target_git_path_guess": "정보공개운영규정/정보공개운영규정.json",
+            "target_git_path": "정보공개운영규정/정보공개운영규정.json",
+            "target_git_file_path": "정보공개운영규정/별지/별지1_정보공개 청구서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -224,7 +235,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:정보공개운영규정#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "정보공개운영규정/정보공개운영규정.json"
+            "target_git_path_guess": "정보공개운영규정/정보공개운영규정.json",
+            "target_git_path": "정보공개운영규정/정보공개운영규정.json",
+            "target_git_file_path": "정보공개운영규정/별지/별지2_정보공개 처리대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -256,7 +272,11 @@
             "source_provision_id": "SchlPubRul:정보공개운영규정#JO0008",
             "reference_id": "SchlPubRul:정보공개운영규정#JO0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "정보공개운영규정/정보공개운영규정.json"
+            "target_git_path_guess": "정보공개운영규정/정보공개운영규정.json",
+            "target_git_path": "정보공개운영규정/정보공개운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -288,7 +308,11 @@
             "source_provision_id": "SchlPubRul:정보공개운영규정#JO0009",
             "reference_id": "SchlPubRul:정보공개운영규정#JO0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "정보공개운영규정/정보공개운영규정.json"
+            "target_git_path_guess": "정보공개운영규정/정보공개운영규정.json",
+            "target_git_path": "정보공개운영규정/정보공개운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -320,7 +344,11 @@
             "source_provision_id": "SchlPubRul:정보공개운영규정#JO0010",
             "reference_id": "SchlPubRul:정보공개운영규정#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "정보공개운영규정/정보공개운영규정.json"
+            "target_git_path_guess": "정보공개운영규정/정보공개운영규정.json",
+            "target_git_path": "정보공개운영규정/정보공개운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -345,7 +373,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:정보공개운영규정#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "정보공개운영규정/정보공개운영규정.json"
+            "target_git_path_guess": "정보공개운영규정/정보공개운영규정.json",
+            "target_git_path": "정보공개운영규정/정보공개운영규정.json",
+            "target_git_file_path": "정보공개운영규정/별지/별지1_정보공개 청구서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -365,7 +398,9 @@
             "source_provision_id": "SchlPubRul:정보공개운영규정#JO0010",
             "reference_id": "law:개인정보보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json"
+            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -385,7 +420,9 @@
             "source_provision_id": "SchlPubRul:정보공개운영규정#JO0010",
             "reference_id": "law:개인정보보호법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json"
+            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -410,7 +447,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:정보공개운영규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "정보공개운영규정/정보공개운영규정.json"
+            "target_git_path_guess": "정보공개운영규정/정보공개운영규정.json",
+            "target_git_path": "정보공개운영규정/정보공개운영규정.json",
+            "target_git_file_path": "정보공개운영규정/별표/별표1_비공개 대상 정보 세부기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -442,7 +484,11 @@
             "source_provision_id": "SchlPubRul:정보공개운영규정#JO0011",
             "reference_id": "SchlPubRul:정보공개운영규정#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "정보공개운영규정/정보공개운영규정.json"
+            "target_git_path_guess": "정보공개운영규정/정보공개운영규정.json",
+            "target_git_path": "정보공개운영규정/정보공개운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -467,7 +513,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:정보공개운영규정#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "정보공개운영규정/정보공개운영규정.json"
+            "target_git_path_guess": "정보공개운영규정/정보공개운영규정.json",
+            "target_git_path": "정보공개운영규정/정보공개운영규정.json",
+            "target_git_file_path": "정보공개운영규정/별지/별지3_공개 여부 결정기간 연장 통지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -510,7 +561,11 @@
             "source_provision_id": "SchlPubRul:정보공개운영규정#JO0013",
             "reference_id": "SchlPubRul:정보공개운영규정#JO0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "정보공개운영규정/정보공개운영규정.json"
+            "target_git_path_guess": "정보공개운영규정/정보공개운영규정.json",
+            "target_git_path": "정보공개운영규정/정보공개운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -553,7 +608,11 @@
             "source_provision_id": "SchlPubRul:정보공개운영규정#JO0015",
             "reference_id": "SchlPubRul:정보공개운영규정#JO0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "정보공개운영규정/정보공개운영규정.json"
+            "target_git_path_guess": "정보공개운영규정/정보공개운영규정.json",
+            "target_git_path": "정보공개운영규정/정보공개운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -578,7 +637,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:정보공개운영규정#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "정보공개운영규정/정보공개운영규정.json"
+            "target_git_path_guess": "정보공개운영규정/정보공개운영규정.json",
+            "target_git_path": "정보공개운영규정/정보공개운영규정.json",
+            "target_git_file_path": "정보공개운영규정/별지/별지4_정보 ([ ]공개 [ ]부분 공개 [ ]비공개) 결정 통지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -610,7 +674,11 @@
             "source_provision_id": "SchlPubRul:정보공개운영규정#JO0016",
             "reference_id": "SchlPubRul:정보공개운영규정#JO0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "정보공개운영규정/정보공개운영규정.json"
+            "target_git_path_guess": "정보공개운영규정/정보공개운영규정.json",
+            "target_git_path": "정보공개운영규정/정보공개운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -630,7 +698,11 @@
             "source_provision_id": "SchlPubRul:정보공개운영규정#JO0016",
             "reference_id": "SchlPubRul:정보공개운영규정#JO0015",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "정보공개운영규정/정보공개운영규정.json"
+            "target_git_path_guess": "정보공개운영규정/정보공개운영규정.json",
+            "target_git_path": "정보공개운영규정/정보공개운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -662,7 +734,11 @@
             "source_provision_id": "SchlPubRul:정보공개운영규정#JO0017",
             "reference_id": "SchlPubRul:정보공개운영규정#JO0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "정보공개운영규정/정보공개운영규정.json"
+            "target_git_path_guess": "정보공개운영규정/정보공개운영규정.json",
+            "target_git_path": "정보공개운영규정/정보공개운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -682,7 +758,11 @@
             "source_provision_id": "SchlPubRul:정보공개운영규정#JO0017",
             "reference_id": "SchlPubRul:정보공개운영규정#JO0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "정보공개운영규정/정보공개운영규정.json"
+            "target_git_path_guess": "정보공개운영규정/정보공개운영규정.json",
+            "target_git_path": "정보공개운영규정/정보공개운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -725,7 +805,11 @@
             "source_provision_id": "SchlPubRul:정보공개운영규정#JO0019",
             "reference_id": "SchlPubRul:정보공개운영규정#JO0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "정보공개운영규정/정보공개운영규정.json"
+            "target_git_path_guess": "정보공개운영규정/정보공개운영규정.json",
+            "target_git_path": "정보공개운영규정/정보공개운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -762,7 +846,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:정보공개운영규정#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "정보공개운영규정/정보공개운영규정.json"
+            "target_git_path_guess": "정보공개운영규정/정보공개운영규정.json",
+            "target_git_path": "정보공개운영규정/정보공개운영규정.json",
+            "target_git_file_path": "정보공개운영규정/별지/별지5_정보공개 위임장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -827,7 +916,11 @@
             "source_provision_id": "SchlPubRul:정보공개운영규정#JO0023",
             "reference_id": "SchlPubRul:정보공개운영규정#JO0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "정보공개운영규정/정보공개운영규정.json"
+            "target_git_path_guess": "정보공개운영규정/정보공개운영규정.json",
+            "target_git_path": "정보공개운영규정/정보공개운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -847,7 +940,11 @@
             "source_provision_id": "SchlPubRul:정보공개운영규정#JO0023",
             "reference_id": "SchlPubRul:정보공개운영규정#JO0025",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "정보공개운영규정/정보공개운영규정.json"
+            "target_git_path_guess": "정보공개운영규정/정보공개운영규정.json",
+            "target_git_path": "정보공개운영규정/정보공개운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -879,7 +976,11 @@
             "source_provision_id": "SchlPubRul:정보공개운영규정#JO0024",
             "reference_id": "SchlPubRul:정보공개운영규정#JO0023",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "정보공개운영규정/정보공개운영규정.json"
+            "target_git_path_guess": "정보공개운영규정/정보공개운영규정.json",
+            "target_git_path": "정보공개운영규정/정보공개운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -904,7 +1005,12 @@
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:정보공개운영규정#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "정보공개운영규정/정보공개운영규정.json"
+            "target_git_path_guess": "정보공개운영규정/정보공개운영규정.json",
+            "target_git_path": "정보공개운영규정/정보공개운영규정.json",
+            "target_git_file_path": "정보공개운영규정/별지/별지6_정보공개(이의신청) 심의요청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -929,7 +1035,12 @@
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:정보공개운영규정#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "정보공개운영규정/정보공개운영규정.json"
+            "target_git_path_guess": "정보공개운영규정/정보공개운영규정.json",
+            "target_git_path": "정보공개운영규정/정보공개운영규정.json",
+            "target_git_file_path": "정보공개운영규정/별지/별지7_정보공개심의회 심의안 관리대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -954,7 +1065,12 @@
             "target_unit": "BJ0008",
             "reference_id": "SchlPubRul:정보공개운영규정#BJ0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "정보공개운영규정/정보공개운영규정.json"
+            "target_git_path_guess": "정보공개운영규정/정보공개운영규정.json",
+            "target_git_path": "정보공개운영규정/정보공개운영규정.json",
+            "target_git_file_path": "정보공개운영규정/별지/별지8_정보공개심의회 회의록.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -979,7 +1095,12 @@
             "target_unit": "BJ0009",
             "reference_id": "SchlPubRul:정보공개운영규정#BJ0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "정보공개운영규정/정보공개운영규정.json"
+            "target_git_path_guess": "정보공개운영규정/정보공개운영규정.json",
+            "target_git_path": "정보공개운영규정/정보공개운영규정.json",
+            "target_git_file_path": "정보공개운영규정/별지/별지9_정보공개심의회 의결서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1011,7 +1132,11 @@
             "source_provision_id": "SchlPubRul:정보공개운영규정#JO0025",
             "reference_id": "SchlPubRul:정보공개운영규정#JO0023",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "정보공개운영규정/정보공개운영규정.json"
+            "target_git_path_guess": "정보공개운영규정/정보공개운영규정.json",
+            "target_git_path": "정보공개운영규정/정보공개운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1036,7 +1161,12 @@
             "target_unit": "BJ0010",
             "reference_id": "SchlPubRul:정보공개운영규정#BJ0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "정보공개운영규정/정보공개운영규정.json"
+            "target_git_path_guess": "정보공개운영규정/정보공개운영규정.json",
+            "target_git_path": "정보공개운영규정/정보공개운영규정.json",
+            "target_git_file_path": "정보공개운영규정/별지/별지10_이의신청 ([ ]인용 [ ]부분 인용 [ ]기각 [ ]각하) 결정 통지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1061,7 +1191,12 @@
             "target_unit": "BJ0011",
             "reference_id": "SchlPubRul:정보공개운영규정#BJ0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "정보공개운영규정/정보공개운영규정.json"
+            "target_git_path_guess": "정보공개운영규정/정보공개운영규정.json",
+            "target_git_path": "정보공개운영규정/정보공개운영규정.json",
+            "target_git_file_path": "정보공개운영규정/별지/별지11_이의신청 처리대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],

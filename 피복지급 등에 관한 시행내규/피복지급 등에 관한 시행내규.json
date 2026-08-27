@@ -63,9 +63,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/복리후생규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:피복지급등에관한시행내규#JO0001",
-            "reference_id": "SchlPubRul:복리후생규정#DOC",
+            "reference_id": "SchlPubRul:복리후생규정:public_2141165#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "복리후생규정/복리후생규정.json"
+            "target_git_path_guess": "복리후생규정/복리후생규정.json",
+            "target_candidates": 3,
+            "target_git_path": "복리후생규정/public_2141165/복리후생규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -83,9 +88,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/복리후생규정/제10조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:피복지급등에관한시행내규#JO0001",
-            "reference_id": "SchlPubRul:복리후생규정#JO0010",
+            "reference_id": "SchlPubRul:복리후생규정:public_2141165#JO0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "복리후생규정/복리후생규정.json"
+            "target_git_path_guess": "복리후생규정/복리후생규정.json",
+            "target_candidates": 3,
+            "target_git_path": "복리후생규정/public_2141165/복리후생규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -166,7 +176,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:피복지급등에관한시행내규#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "피복지급 등에 관한 시행내규/피복지급 등에 관한 시행내규.json"
+            "target_git_path_guess": "피복지급 등에 관한 시행내규/피복지급 등에 관한 시행내규.json",
+            "target_git_path": "피복지급 등에 관한 시행내규/피복지급 등에 관한 시행내규.json",
+            "target_git_file_path": "피복지급 등에 관한 시행내규/별지/별지1_피복지급대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],

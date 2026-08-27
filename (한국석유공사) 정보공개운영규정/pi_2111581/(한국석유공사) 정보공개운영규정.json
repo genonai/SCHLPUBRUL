@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:(한국석유공사)정보공개운영규정:pi_2111581#JO0001",
             "reference_id": "law:공공기관의정보공개에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -97,7 +99,9 @@
             "source_provision_id": "SchlPubRul:(한국석유공사)정보공개운영규정:pi_2111581#JO0002",
             "reference_id": "law:전자정부법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -162,7 +166,11 @@
             "source_provision_id": "SchlPubRul:(한국석유공사)정보공개운영규정:pi_2111581#JO0006",
             "reference_id": "SchlPubRul:(한국석유공사)정보공개운영규정:pi_2111581#JO0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국석유공사) 정보공개운영규정/(한국석유공사) 정보공개운영규정.json"
+            "target_git_path_guess": "(한국석유공사) 정보공개운영규정/(한국석유공사) 정보공개운영규정.json",
+            "target_git_path": "(한국석유공사) 정보공개운영규정/pi_2111581/(한국석유공사) 정보공개운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -243,7 +251,8 @@
             "target_unit": "BJ0015",
             "reference_id": "SchlPubRul:(한국석유공사)정보공개운영규정:pi_2111581#BJ0015",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국석유공사) 정보공개운영규정/(한국석유공사) 정보공개운영규정.json"
+            "target_git_path_guess": "(한국석유공사) 정보공개운영규정/(한국석유공사) 정보공개운영규정.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -275,7 +284,9 @@
             "source_provision_id": "SchlPubRul:(한국석유공사)정보공개운영규정:pi_2111581#JO0012",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -295,7 +306,9 @@
             "source_provision_id": "SchlPubRul:(한국석유공사)정보공개운영규정:pi_2111581#JO0012",
             "reference_id": "law:공공기관의정보공개에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -315,7 +328,9 @@
             "source_provision_id": "SchlPubRul:(한국석유공사)정보공개운영규정:pi_2111581#JO0012",
             "reference_id": "law:공공기관의정보공개에관한법률시행령#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -335,7 +350,9 @@
             "source_provision_id": "SchlPubRul:(한국석유공사)정보공개운영규정:pi_2111581#JO0012",
             "reference_id": "law:부패방지및국민권익위원회의설치와운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json"
+            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
+            "target_git_path": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -355,7 +372,9 @@
             "source_provision_id": "SchlPubRul:(한국석유공사)정보공개운영규정:pi_2111581#JO0012",
             "reference_id": "law:부패방지및국민권익위원회의설치와운영에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json"
+            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
+            "target_git_path": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -375,7 +394,11 @@
             "source_provision_id": "SchlPubRul:(한국석유공사)정보공개운영규정:pi_2111581#JO0012",
             "reference_id": "SchlPubRul:(한국석유공사)정보공개운영규정:pi_2111581#JO0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국석유공사) 정보공개운영규정/(한국석유공사) 정보공개운영규정.json"
+            "target_git_path_guess": "(한국석유공사) 정보공개운영규정/(한국석유공사) 정보공개운영규정.json",
+            "target_git_path": "(한국석유공사) 정보공개운영규정/pi_2111581/(한국석유공사) 정보공개운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -412,7 +435,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(한국석유공사)정보공개운영규정:pi_2111581#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국석유공사) 정보공개운영규정/(한국석유공사) 정보공개운영규정.json"
+            "target_git_path_guess": "(한국석유공사) 정보공개운영규정/(한국석유공사) 정보공개운영규정.json",
+            "target_git_path": "(한국석유공사) 정보공개운영규정/pi_2111581/(한국석유공사) 정보공개운영규정.json",
+            "target_git_file_path": "(한국석유공사) 정보공개운영규정/pi_2111581/별지/별지1_정보공개심의 서약서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -455,7 +483,9 @@
             "source_provision_id": "SchlPubRul:(한국석유공사)정보공개운영규정:pi_2111581#JO0015",
             "reference_id": "law:민법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -475,7 +505,9 @@
             "source_provision_id": "SchlPubRul:(한국석유공사)정보공개운영규정:pi_2111581#JO0015",
             "reference_id": "law:민법#JO0777",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -507,7 +539,9 @@
             "source_provision_id": "SchlPubRul:(한국석유공사)정보공개운영규정:pi_2111581#JO0016",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -527,7 +561,9 @@
             "source_provision_id": "SchlPubRul:(한국석유공사)정보공개운영규정:pi_2111581#JO0016",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -547,7 +583,9 @@
             "source_provision_id": "SchlPubRul:(한국석유공사)정보공개운영규정:pi_2111581#JO0016",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -567,7 +605,9 @@
             "source_provision_id": "SchlPubRul:(한국석유공사)정보공개운영규정:pi_2111581#JO0016",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -587,7 +627,9 @@
             "source_provision_id": "SchlPubRul:(한국석유공사)정보공개운영규정:pi_2111581#JO0016",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -607,7 +649,9 @@
             "source_provision_id": "SchlPubRul:(한국석유공사)정보공개운영규정:pi_2111581#JO0016",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -627,7 +671,9 @@
             "source_provision_id": "SchlPubRul:(한국석유공사)정보공개운영규정:pi_2111581#JO0016",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -664,7 +710,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(한국석유공사)정보공개운영규정:pi_2111581#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국석유공사) 정보공개운영규정/(한국석유공사) 정보공개운영규정.json"
+            "target_git_path_guess": "(한국석유공사) 정보공개운영규정/(한국석유공사) 정보공개운영규정.json",
+            "target_git_path": "(한국석유공사) 정보공개운영규정/pi_2111581/(한국석유공사) 정보공개운영규정.json",
+            "target_git_file_path": "(한국석유공사) 정보공개운영규정/pi_2111581/별지/별지2_안건상정요청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -684,7 +735,11 @@
             "source_provision_id": "SchlPubRul:(한국석유공사)정보공개운영규정:pi_2111581#JO0017",
             "reference_id": "SchlPubRul:(한국석유공사)정보공개운영규정:pi_2111581#JO0016",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국석유공사) 정보공개운영규정/(한국석유공사) 정보공개운영규정.json"
+            "target_git_path_guess": "(한국석유공사) 정보공개운영규정/(한국석유공사) 정보공개운영규정.json",
+            "target_git_path": "(한국석유공사) 정보공개운영규정/pi_2111581/(한국석유공사) 정보공개운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -704,7 +759,11 @@
             "source_provision_id": "SchlPubRul:(한국석유공사)정보공개운영규정:pi_2111581#JO0017",
             "reference_id": "SchlPubRul:(한국석유공사)정보공개운영규정:pi_2111581#JO0016",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국석유공사) 정보공개운영규정/(한국석유공사) 정보공개운영규정.json"
+            "target_git_path_guess": "(한국석유공사) 정보공개운영규정/(한국석유공사) 정보공개운영규정.json",
+            "target_git_path": "(한국석유공사) 정보공개운영규정/pi_2111581/(한국석유공사) 정보공개운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -729,7 +788,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:(한국석유공사)정보공개운영규정:pi_2111581#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국석유공사) 정보공개운영규정/(한국석유공사) 정보공개운영규정.json"
+            "target_git_path_guess": "(한국석유공사) 정보공개운영규정/(한국석유공사) 정보공개운영규정.json",
+            "target_git_path": "(한국석유공사) 정보공개운영규정/pi_2111581/(한국석유공사) 정보공개운영규정.json",
+            "target_git_file_path": "(한국석유공사) 정보공개운영규정/pi_2111581/별지/별지3_정보공개심의회 부의안.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -777,7 +841,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:(한국석유공사)정보공개운영규정:pi_2111581#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국석유공사) 정보공개운영규정/(한국석유공사) 정보공개운영규정.json"
+            "target_git_path_guess": "(한국석유공사) 정보공개운영규정/(한국석유공사) 정보공개운영규정.json",
+            "target_git_path": "(한국석유공사) 정보공개운영규정/pi_2111581/(한국석유공사) 정보공개운영규정.json",
+            "target_git_file_path": "(한국석유공사) 정보공개운영규정/pi_2111581/별지/별지4_정보공개심의회 의결서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -802,7 +871,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:(한국석유공사)정보공개운영규정:pi_2111581#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국석유공사) 정보공개운영규정/(한국석유공사) 정보공개운영규정.json"
+            "target_git_path_guess": "(한국석유공사) 정보공개운영규정/(한국석유공사) 정보공개운영규정.json",
+            "target_git_path": "(한국석유공사) 정보공개운영규정/pi_2111581/(한국석유공사) 정보공개운영규정.json",
+            "target_git_file_path": "(한국석유공사) 정보공개운영규정/pi_2111581/별지/별지5_정보공개심의회 회의록.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -834,7 +908,11 @@
             "source_provision_id": "SchlPubRul:(한국석유공사)정보공개운영규정:pi_2111581#JO0020",
             "reference_id": "SchlPubRul:(한국석유공사)정보공개운영규정:pi_2111581#JO0016",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국석유공사) 정보공개운영규정/(한국석유공사) 정보공개운영규정.json"
+            "target_git_path_guess": "(한국석유공사) 정보공개운영규정/(한국석유공사) 정보공개운영규정.json",
+            "target_git_path": "(한국석유공사) 정보공개운영규정/pi_2111581/(한국석유공사) 정보공개운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -882,7 +960,12 @@
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:(한국석유공사)정보공개운영규정:pi_2111581#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국석유공사) 정보공개운영규정/(한국석유공사) 정보공개운영규정.json"
+            "target_git_path_guess": "(한국석유공사) 정보공개운영규정/(한국석유공사) 정보공개운영규정.json",
+            "target_git_path": "(한국석유공사) 정보공개운영규정/pi_2111581/(한국석유공사) 정보공개운영규정.json",
+            "target_git_file_path": "(한국석유공사) 정보공개운영규정/pi_2111581/별지/별지6_정보공개 청구서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -922,7 +1005,11 @@
             "source_provision_id": "SchlPubRul:(한국석유공사)정보공개운영규정:pi_2111581#JO0022",
             "reference_id": "SchlPubRul:(한국석유공사)정보공개운영규정:pi_2111581#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국석유공사) 정보공개운영규정/(한국석유공사) 정보공개운영규정.json"
+            "target_git_path_guess": "(한국석유공사) 정보공개운영규정/(한국석유공사) 정보공개운영규정.json",
+            "target_git_path": "(한국석유공사) 정보공개운영규정/pi_2111581/(한국석유공사) 정보공개운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -959,7 +1046,12 @@
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:(한국석유공사)정보공개운영규정:pi_2111581#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국석유공사) 정보공개운영규정/(한국석유공사) 정보공개운영규정.json"
+            "target_git_path_guess": "(한국석유공사) 정보공개운영규정/(한국석유공사) 정보공개운영규정.json",
+            "target_git_path": "(한국석유공사) 정보공개운영규정/pi_2111581/(한국석유공사) 정보공개운영규정.json",
+            "target_git_file_path": "(한국석유공사) 정보공개운영규정/pi_2111581/별지/별지7_정보결정(공개, 부분공개, 비공개) 통지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -984,7 +1076,12 @@
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:(한국석유공사)정보공개운영규정:pi_2111581#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국석유공사) 정보공개운영규정/(한국석유공사) 정보공개운영규정.json"
+            "target_git_path_guess": "(한국석유공사) 정보공개운영규정/(한국석유공사) 정보공개운영규정.json",
+            "target_git_path": "(한국석유공사) 정보공개운영규정/pi_2111581/(한국석유공사) 정보공개운영규정.json",
+            "target_git_file_path": "(한국석유공사) 정보공개운영규정/pi_2111581/별지/별지7_정보결정(공개, 부분공개, 비공개) 통지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1009,7 +1106,12 @@
             "target_unit": "BJ0008",
             "reference_id": "SchlPubRul:(한국석유공사)정보공개운영규정:pi_2111581#BJ0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국석유공사) 정보공개운영규정/(한국석유공사) 정보공개운영규정.json"
+            "target_git_path_guess": "(한국석유공사) 정보공개운영규정/(한국석유공사) 정보공개운영규정.json",
+            "target_git_path": "(한국석유공사) 정보공개운영규정/pi_2111581/(한국석유공사) 정보공개운영규정.json",
+            "target_git_file_path": "(한국석유공사) 정보공개운영규정/pi_2111581/별지/별지8_공개 여부 결정기간 연장 통지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1034,7 +1136,12 @@
             "target_unit": "BJ0009",
             "reference_id": "SchlPubRul:(한국석유공사)정보공개운영규정:pi_2111581#BJ0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국석유공사) 정보공개운영규정/(한국석유공사) 정보공개운영규정.json"
+            "target_git_path_guess": "(한국석유공사) 정보공개운영규정/(한국석유공사) 정보공개운영규정.json",
+            "target_git_path": "(한국석유공사) 정보공개운영규정/pi_2111581/(한국석유공사) 정보공개운영규정.json",
+            "target_git_file_path": "(한국석유공사) 정보공개운영규정/pi_2111581/별지/별지9_제3자 의견서(비공개 요청서).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1059,7 +1166,12 @@
             "target_unit": "BJ0010",
             "reference_id": "SchlPubRul:(한국석유공사)정보공개운영규정:pi_2111581#BJ0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국석유공사) 정보공개운영규정/(한국석유공사) 정보공개운영규정.json"
+            "target_git_path_guess": "(한국석유공사) 정보공개운영규정/(한국석유공사) 정보공개운영규정.json",
+            "target_git_path": "(한국석유공사) 정보공개운영규정/pi_2111581/(한국석유공사) 정보공개운영규정.json",
+            "target_git_file_path": "(한국석유공사) 정보공개운영규정/pi_2111581/별지/별지10_제3자 의견청취서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1118,7 +1230,12 @@
             "target_unit": "BJ0011",
             "reference_id": "SchlPubRul:(한국석유공사)정보공개운영규정:pi_2111581#BJ0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국석유공사) 정보공개운영규정/(한국석유공사) 정보공개운영규정.json"
+            "target_git_path_guess": "(한국석유공사) 정보공개운영규정/(한국석유공사) 정보공개운영규정.json",
+            "target_git_path": "(한국석유공사) 정보공개운영규정/pi_2111581/(한국석유공사) 정보공개운영규정.json",
+            "target_git_file_path": "(한국석유공사) 정보공개운영규정/pi_2111581/별지/별지11_정보공개 결정 등 이의신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1143,7 +1260,12 @@
             "target_unit": "BJ0012",
             "reference_id": "SchlPubRul:(한국석유공사)정보공개운영규정:pi_2111581#BJ0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국석유공사) 정보공개운영규정/(한국석유공사) 정보공개운영규정.json"
+            "target_git_path_guess": "(한국석유공사) 정보공개운영규정/(한국석유공사) 정보공개운영규정.json",
+            "target_git_path": "(한국석유공사) 정보공개운영규정/pi_2111581/(한국석유공사) 정보공개운영규정.json",
+            "target_git_file_path": "(한국석유공사) 정보공개운영규정/pi_2111581/별지/별지12_이의신청 결정통지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1168,7 +1290,12 @@
             "target_unit": "BJ0013",
             "reference_id": "SchlPubRul:(한국석유공사)정보공개운영규정:pi_2111581#BJ0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국석유공사) 정보공개운영규정/(한국석유공사) 정보공개운영규정.json"
+            "target_git_path_guess": "(한국석유공사) 정보공개운영규정/(한국석유공사) 정보공개운영규정.json",
+            "target_git_path": "(한국석유공사) 정보공개운영규정/pi_2111581/(한국석유공사) 정보공개운영규정.json",
+            "target_git_file_path": "(한국석유공사) 정보공개운영규정/pi_2111581/별지/별지13_이의신청 결정기간 연장 통지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1200,7 +1327,11 @@
             "source_provision_id": "SchlPubRul:(한국석유공사)정보공개운영규정:pi_2111581#JO0027",
             "reference_id": "SchlPubRul:(한국석유공사)정보공개운영규정:pi_2111581#JO0023",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국석유공사) 정보공개운영규정/(한국석유공사) 정보공개운영규정.json"
+            "target_git_path_guess": "(한국석유공사) 정보공개운영규정/(한국석유공사) 정보공개운영규정.json",
+            "target_git_path": "(한국석유공사) 정보공개운영규정/pi_2111581/(한국석유공사) 정보공개운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1225,7 +1356,12 @@
             "target_unit": "BJ0014",
             "reference_id": "SchlPubRul:(한국석유공사)정보공개운영규정:pi_2111581#BJ0014",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국석유공사) 정보공개운영규정/(한국석유공사) 정보공개운영규정.json"
+            "target_git_path_guess": "(한국석유공사) 정보공개운영규정/(한국석유공사) 정보공개운영규정.json",
+            "target_git_path": "(한국석유공사) 정보공개운영규정/pi_2111581/(한국석유공사) 정보공개운영규정.json",
+            "target_git_file_path": "(한국석유공사) 정보공개운영규정/pi_2111581/별지/별지14_제3자에 대한 정보공개 결정 통지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1257,7 +1393,11 @@
             "source_provision_id": "SchlPubRul:(한국석유공사)정보공개운영규정:pi_2111581#JO0028",
             "reference_id": "SchlPubRul:(한국석유공사)정보공개운영규정:pi_2111581#JO0022",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국석유공사) 정보공개운영규정/(한국석유공사) 정보공개운영규정.json"
+            "target_git_path_guess": "(한국석유공사) 정보공개운영규정/(한국석유공사) 정보공개운영규정.json",
+            "target_git_path": "(한국석유공사) 정보공개운영규정/pi_2111581/(한국석유공사) 정보공개운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1277,7 +1417,11 @@
             "source_provision_id": "SchlPubRul:(한국석유공사)정보공개운영규정:pi_2111581#JO0028",
             "reference_id": "SchlPubRul:(한국석유공사)정보공개운영규정:pi_2111581#JO0026",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국석유공사) 정보공개운영규정/(한국석유공사) 정보공개운영규정.json"
+            "target_git_path_guess": "(한국석유공사) 정보공개운영규정/(한국석유공사) 정보공개운영규정.json",
+            "target_git_path": "(한국석유공사) 정보공개운영규정/pi_2111581/(한국석유공사) 정보공개운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1309,7 +1453,9 @@
             "source_provision_id": "SchlPubRul:(한국석유공사)정보공개운영규정:pi_2111581#JO0029",
             "reference_id": "law:민법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1329,7 +1475,11 @@
             "source_provision_id": "SchlPubRul:(한국석유공사)정보공개운영규정:pi_2111581#JO0029",
             "reference_id": "SchlPubRul:(한국석유공사)정보공개운영규정:pi_2111581#JO0023",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국석유공사) 정보공개운영규정/(한국석유공사) 정보공개운영규정.json"
+            "target_git_path_guess": "(한국석유공사) 정보공개운영규정/(한국석유공사) 정보공개운영규정.json",
+            "target_git_path": "(한국석유공사) 정보공개운영규정/pi_2111581/(한국석유공사) 정보공개운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1349,7 +1499,11 @@
             "source_provision_id": "SchlPubRul:(한국석유공사)정보공개운영규정:pi_2111581#JO0029",
             "reference_id": "SchlPubRul:(한국석유공사)정보공개운영규정:pi_2111581#JO0026",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국석유공사) 정보공개운영규정/(한국석유공사) 정보공개운영규정.json"
+            "target_git_path_guess": "(한국석유공사) 정보공개운영규정/(한국석유공사) 정보공개운영규정.json",
+            "target_git_path": "(한국석유공사) 정보공개운영규정/pi_2111581/(한국석유공사) 정보공개운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1369,7 +1523,11 @@
             "source_provision_id": "SchlPubRul:(한국석유공사)정보공개운영규정:pi_2111581#JO0029",
             "reference_id": "SchlPubRul:(한국석유공사)정보공개운영규정:pi_2111581#JO0026",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국석유공사) 정보공개운영규정/(한국석유공사) 정보공개운영규정.json"
+            "target_git_path_guess": "(한국석유공사) 정보공개운영규정/(한국석유공사) 정보공개운영규정.json",
+            "target_git_path": "(한국석유공사) 정보공개운영규정/pi_2111581/(한국석유공사) 정보공개운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1810,5 +1968,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "(한국석유공사) 정보공개운영규정/pi_2111581/(한국석유공사) 정보공개운영규정.json"
+  "git_path": "(한국석유공사) 정보공개운영규정/pi_2111581/(한국석유공사) 정보공개운영규정.json",
+  "_schlpub_id_suffix": "pi_2111581"
 }

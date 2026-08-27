@@ -87,7 +87,9 @@
             "source_provision_id": "SchlPubRul:(인천국제공항공사)차량관리지침#JO0003",
             "reference_id": "law:자동차관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "자동차관리법/법률/자동차관리법.json"
+            "target_git_path_guess": "자동차관리법/법률/자동차관리법.json",
+            "target_git_path": "자동차관리법/법률/자동차관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +109,9 @@
             "source_provision_id": "SchlPubRul:(인천국제공항공사)차량관리지침#JO0003",
             "reference_id": "law:자동차관리법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "자동차관리법/법률/자동차관리법.json"
+            "target_git_path_guess": "자동차관리법/법률/자동차관리법.json",
+            "target_git_path": "자동차관리법/법률/자동차관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -127,7 +131,9 @@
             "source_provision_id": "SchlPubRul:(인천국제공항공사)차량관리지침#JO0003",
             "reference_id": "law:여객자동차운수사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "여객자동차 운수사업법/법률/여객자동차 운수사업법.json"
+            "target_git_path_guess": "여객자동차 운수사업법/법률/여객자동차 운수사업법.json",
+            "target_git_path": "여객자동차 운수사업법/법률/여객자동차 운수사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -147,7 +153,9 @@
             "source_provision_id": "SchlPubRul:(인천국제공항공사)차량관리지침#JO0003",
             "reference_id": "law:여객자동차운수사업법#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "여객자동차 운수사업법/법률/여객자동차 운수사업법.json"
+            "target_git_path_guess": "여객자동차 운수사업법/법률/여객자동차 운수사업법.json",
+            "target_git_path": "여객자동차 운수사업법/법률/여객자동차 운수사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -167,7 +175,9 @@
             "source_provision_id": "SchlPubRul:(인천국제공항공사)차량관리지침#JO0003",
             "reference_id": "law:대기환경보전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "대기환경보전법/법률/대기환경보전법.json"
+            "target_git_path_guess": "대기환경보전법/법률/대기환경보전법.json",
+            "target_git_path": "대기환경보전법/법률/대기환경보전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -187,7 +197,9 @@
             "source_provision_id": "SchlPubRul:(인천국제공항공사)차량관리지침#JO0003",
             "reference_id": "law:환경친화적자동차의개발및보급촉진에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "환경친화적 자동차의 개발 및 보급 촉진에 관한 법률/법률/환경친화적 자동차의 개발 및 보급 촉진에 관한 법률.json"
+            "target_git_path_guess": "환경친화적 자동차의 개발 및 보급 촉진에 관한 법률/법률/환경친화적 자동차의 개발 및 보급 촉진에 관한 법률.json",
+            "target_git_path": "환경친화적 자동차의 개발 및 보급 촉진에 관한 법률/법률/환경친화적 자동차의 개발 및 보급 촉진에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -207,7 +219,9 @@
             "source_provision_id": "SchlPubRul:(인천국제공항공사)차량관리지침#JO0003",
             "reference_id": "law:물품관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "물품관리법/법률/물품관리법.json"
+            "target_git_path_guess": "물품관리법/법률/물품관리법.json",
+            "target_git_path": "물품관리법/법률/물품관리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -244,7 +258,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(인천국제공항공사)차량관리지침#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 차량관리지침/(인천국제공항공사) 차량관리지침.json"
+            "target_git_path_guess": "(인천국제공항공사) 차량관리지침/(인천국제공항공사) 차량관리지침.json",
+            "target_git_path": "(인천국제공항공사) 차량관리지침/(인천국제공항공사) 차량관리지침.json",
+            "target_git_file_path": "(인천국제공항공사) 차량관리지침/별표/별표1_차량의 용도, 규모, 배정대상, 차량관리 및 운행기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -269,7 +288,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(인천국제공항공사)차량관리지침#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 차량관리지침/(인천국제공항공사) 차량관리지침.json"
+            "target_git_path_guess": "(인천국제공항공사) 차량관리지침/(인천국제공항공사) 차량관리지침.json",
+            "target_git_path": "(인천국제공항공사) 차량관리지침/(인천국제공항공사) 차량관리지침.json",
+            "target_git_file_path": "(인천국제공항공사) 차량관리지침/별표/별표1_차량의 용도, 규모, 배정대상, 차량관리 및 운행기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -289,7 +313,9 @@
             "source_provision_id": "SchlPubRul:(인천국제공항공사)차량관리지침#JO0004",
             "reference_id": "law:공무용차량관리규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무용차량 관리규정/법률/공무용차량 관리규정.json"
+            "target_git_path_guess": "공무용차량 관리규정/법률/공무용차량 관리규정.json",
+            "target_git_path": "공무용 차량 관리 규정/법률/공무용 차량 관리 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -365,7 +391,11 @@
             "source_provision_id": "SchlPubRul:(인천국제공항공사)차량관리지침#JO0009",
             "reference_id": "SchlPubRul:(인천국제공항공사)차량관리지침#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 차량관리지침/(인천국제공항공사) 차량관리지침.json"
+            "target_git_path_guess": "(인천국제공항공사) 차량관리지침/(인천국제공항공사) 차량관리지침.json",
+            "target_git_path": "(인천국제공항공사) 차량관리지침/(인천국제공항공사) 차량관리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -385,7 +415,11 @@
             "source_provision_id": "SchlPubRul:(인천국제공항공사)차량관리지침#JO0009",
             "reference_id": "SchlPubRul:(인천국제공항공사)차량관리지침#JO0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 차량관리지침/(인천국제공항공사) 차량관리지침.json"
+            "target_git_path_guess": "(인천국제공항공사) 차량관리지침/(인천국제공항공사) 차량관리지침.json",
+            "target_git_path": "(인천국제공항공사) 차량관리지침/(인천국제공항공사) 차량관리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -417,7 +451,9 @@
             "source_provision_id": "SchlPubRul:(인천국제공항공사)차량관리지침#JO0010",
             "reference_id": "law:대기환경보전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "대기환경보전법/법률/대기환경보전법.json"
+            "target_git_path_guess": "대기환경보전법/법률/대기환경보전법.json",
+            "target_git_path": "대기환경보전법/법률/대기환경보전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -437,7 +473,9 @@
             "source_provision_id": "SchlPubRul:(인천국제공항공사)차량관리지침#JO0010",
             "reference_id": "law:환경친화적자동차의개발및보급촉진에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "환경친화적 자동차의 개발 및 보급 촉진에 관한 법률/법률/환경친화적 자동차의 개발 및 보급 촉진에 관한 법률.json"
+            "target_git_path_guess": "환경친화적 자동차의 개발 및 보급 촉진에 관한 법률/법률/환경친화적 자동차의 개발 및 보급 촉진에 관한 법률.json",
+            "target_git_path": "환경친화적 자동차의 개발 및 보급 촉진에 관한 법률/법률/환경친화적 자동차의 개발 및 보급 촉진에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -474,7 +512,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(인천국제공항공사)차량관리지침#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 차량관리지침/(인천국제공항공사) 차량관리지침.json"
+            "target_git_path_guess": "(인천국제공항공사) 차량관리지침/(인천국제공항공사) 차량관리지침.json",
+            "target_git_path": "(인천국제공항공사) 차량관리지침/(인천국제공항공사) 차량관리지침.json",
+            "target_git_file_path": "(인천국제공항공사) 차량관리지침/별표/별표1_차량의 용도, 규모, 배정대상, 차량관리 및 운행기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -494,7 +537,9 @@
             "source_provision_id": "SchlPubRul:(인천국제공항공사)차량관리지침#JO0011",
             "reference_id": "law:공기업준정부기관계약사무규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json"
+            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_git_path": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -531,7 +576,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(인천국제공항공사)차량관리지침#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 차량관리지침/(인천국제공항공사) 차량관리지침.json"
+            "target_git_path_guess": "(인천국제공항공사) 차량관리지침/(인천국제공항공사) 차량관리지침.json",
+            "target_git_path": "(인천국제공항공사) 차량관리지침/(인천국제공항공사) 차량관리지침.json",
+            "target_git_file_path": "(인천국제공항공사) 차량관리지침/별표/별표1_차량의 용도, 규모, 배정대상, 차량관리 및 운행기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -579,7 +629,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(인천국제공항공사)차량관리지침#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 차량관리지침/(인천국제공항공사) 차량관리지침.json"
+            "target_git_path_guess": "(인천국제공항공사) 차량관리지침/(인천국제공항공사) 차량관리지침.json",
+            "target_git_path": "(인천국제공항공사) 차량관리지침/(인천국제공항공사) 차량관리지침.json",
+            "target_git_file_path": "(인천국제공항공사) 차량관리지침/별표/별표1_차량의 용도, 규모, 배정대상, 차량관리 및 운행기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -616,7 +671,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(인천국제공항공사)차량관리지침#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 차량관리지침/(인천국제공항공사) 차량관리지침.json"
+            "target_git_path_guess": "(인천국제공항공사) 차량관리지침/(인천국제공항공사) 차량관리지침.json",
+            "target_git_path": "(인천국제공항공사) 차량관리지침/(인천국제공항공사) 차량관리지침.json",
+            "target_git_file_path": "(인천국제공항공사) 차량관리지침/별지/별지2_주유 요청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -641,7 +701,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(인천국제공항공사)차량관리지침#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 차량관리지침/(인천국제공항공사) 차량관리지침.json"
+            "target_git_path_guess": "(인천국제공항공사) 차량관리지침/(인천국제공항공사) 차량관리지침.json",
+            "target_git_path": "(인천국제공항공사) 차량관리지침/(인천국제공항공사) 차량관리지침.json",
+            "target_git_file_path": "(인천국제공항공사) 차량관리지침/별표/별표1_차량의 용도, 규모, 배정대상, 차량관리 및 운행기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -689,7 +754,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:(인천국제공항공사)차량관리지침#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 차량관리지침/(인천국제공항공사) 차량관리지침.json"
+            "target_git_path_guess": "(인천국제공항공사) 차량관리지침/(인천국제공항공사) 차량관리지침.json",
+            "target_git_path": "(인천국제공항공사) 차량관리지침/(인천국제공항공사) 차량관리지침.json",
+            "target_git_file_path": "(인천국제공항공사) 차량관리지침/별지/별지5_사고 경위서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -748,7 +818,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:(인천국제공항공사)차량관리지침#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 차량관리지침/(인천국제공항공사) 차량관리지침.json"
+            "target_git_path_guess": "(인천국제공항공사) 차량관리지침/(인천국제공항공사) 차량관리지침.json",
+            "target_git_path": "(인천국제공항공사) 차량관리지침/(인천국제공항공사) 차량관리지침.json",
+            "target_git_file_path": "(인천국제공항공사) 차량관리지침/별지/별지4_차량운영현황.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -785,7 +860,12 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:(인천국제공항공사)차량관리지침#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 차량관리지침/(인천국제공항공사) 차량관리지침.json"
+            "target_git_path_guess": "(인천국제공항공사) 차량관리지침/(인천국제공항공사) 차량관리지침.json",
+            "target_git_path": "(인천국제공항공사) 차량관리지침/(인천국제공항공사) 차량관리지침.json",
+            "target_git_file_path": "(인천국제공항공사) 차량관리지침/별표/별표3_소모성 부품 및 유류 교체기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -822,7 +902,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(인천국제공항공사)차량관리지침#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 차량관리지침/(인천국제공항공사) 차량관리지침.json"
+            "target_git_path_guess": "(인천국제공항공사) 차량관리지침/(인천국제공항공사) 차량관리지침.json",
+            "target_git_path": "(인천국제공항공사) 차량관리지침/(인천국제공항공사) 차량관리지침.json",
+            "target_git_file_path": "(인천국제공항공사) 차량관리지침/별지/별지1_정비 요청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -859,7 +944,12 @@
             "target_unit": "BYL0004",
             "reference_id": "SchlPubRul:(인천국제공항공사)차량관리지침#BYL0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 차량관리지침/(인천국제공항공사) 차량관리지침.json"
+            "target_git_path_guess": "(인천국제공항공사) 차량관리지침/(인천국제공항공사) 차량관리지침.json",
+            "target_git_path": "(인천국제공항공사) 차량관리지침/(인천국제공항공사) 차량관리지침.json",
+            "target_git_file_path": "(인천국제공항공사) 차량관리지침/별표/별표4_차량 세차 기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -884,7 +974,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:(인천국제공항공사)차량관리지침#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 차량관리지침/(인천국제공항공사) 차량관리지침.json"
+            "target_git_path_guess": "(인천국제공항공사) 차량관리지침/(인천국제공항공사) 차량관리지침.json",
+            "target_git_path": "(인천국제공항공사) 차량관리지침/(인천국제공항공사) 차량관리지침.json",
+            "target_git_file_path": "(인천국제공항공사) 차량관리지침/별지/별지3_세차 요청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

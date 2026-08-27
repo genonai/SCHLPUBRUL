@@ -98,7 +98,11 @@
             "source_provision_id": "SchlPubRul:(한국지능정보사회진흥원)참여기관선정평가세부운영지침#JO0004",
             "reference_id": "admrul:정보통신진흥기금운용관리규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "정보통신진흥기금 운용ㆍ관리규정/정보통신진흥기금 운용ㆍ관리규정.json"
+            "target_git_path_guess": "정보통신진흥기금 운용ㆍ관리규정/정보통신진흥기금 운용ㆍ관리규정.json",
+            "target_git_path": "정보통신진흥기금 운용·관리규정/정보통신진흥기금 운용·관리규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -118,7 +122,9 @@
             "source_provision_id": "SchlPubRul:(한국지능정보사회진흥원)참여기관선정평가세부운영지침#JO0004",
             "reference_id": "law:국가연구개발혁신법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
+            "target_git_path_guess": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_git_path": "국가연구개발혁신법/법률/국가연구개발혁신법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -138,7 +144,11 @@
             "source_provision_id": "SchlPubRul:(한국지능정보사회진흥원)참여기관선정평가세부운영지침#JO0004",
             "reference_id": "admrul:정보통신방송연구개발관리규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "정보통신ㆍ방송 연구개발 관리규정/정보통신ㆍ방송 연구개발 관리규정.json"
+            "target_git_path_guess": "정보통신ㆍ방송 연구개발 관리규정/정보통신ㆍ방송 연구개발 관리규정.json",
+            "target_git_path": "정보통신·방송 연구개발 관리규정/정보통신·방송 연구개발 관리규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -197,7 +207,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(한국지능정보사회진흥원)참여기관선정평가세부운영지침#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침.json"
+            "target_git_path_guess": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침.json",
+            "target_git_path": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침.json",
+            "target_git_file_path": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/별표/별표1_평가항목 및 배점.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -222,7 +237,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(한국지능정보사회진흥원)참여기관선정평가세부운영지침#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침.json"
+            "target_git_path_guess": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침.json",
+            "target_git_path": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침.json",
+            "target_git_file_path": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/별표/별표1_평가항목 및 배점.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -242,7 +262,9 @@
             "source_provision_id": "SchlPubRul:(한국지능정보사회진흥원)참여기관선정평가세부운영지침#JO0007",
             "reference_id": "law:중증장애인생산품우선구매특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중증장애인생산품 우선구매 특별법/법률/중증장애인생산품 우선구매 특별법.json"
+            "target_git_path_guess": "중증장애인생산품 우선구매 특별법/법률/중증장애인생산품 우선구매 특별법.json",
+            "target_git_path": "중증장애인생산품 우선구매 특별법/법률/중증장애인생산품 우선구매 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -262,7 +284,9 @@
             "source_provision_id": "SchlPubRul:(한국지능정보사회진흥원)참여기관선정평가세부운영지침#JO0007",
             "reference_id": "law:녹색제품구매촉진에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "녹색제품 구매촉진에 관한 법률/법률/녹색제품 구매촉진에 관한 법률.json"
+            "target_git_path_guess": "녹색제품 구매촉진에 관한 법률/법률/녹색제품 구매촉진에 관한 법률.json",
+            "target_git_path": "녹색제품 구매촉진에 관한 법률/법률/녹색제품 구매촉진에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -282,7 +306,9 @@
             "source_provision_id": "SchlPubRul:(한국지능정보사회진흥원)참여기관선정평가세부운영지침#JO0007",
             "reference_id": "law:중소기업제품구매촉진및판로지원에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json"
+            "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json",
+            "target_git_path": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -302,7 +328,9 @@
             "source_provision_id": "SchlPubRul:(한국지능정보사회진흥원)참여기관선정평가세부운영지침#JO0007",
             "reference_id": "law:국가유공자등예우및지원에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가유공자 등 예우 및 지원에 관한 법률/시행령/국가유공자 등 예우 및 지원에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가유공자 등 예우 및 지원에 관한 법률/시행령/국가유공자 등 예우 및 지원에 관한 법률 시행령.json",
+            "target_git_path": "국가유공자 등 예우 및 지원에 관한 법률/시행령/국가유공자 등 예우 및 지원에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -322,7 +350,9 @@
             "source_provision_id": "SchlPubRul:(한국지능정보사회진흥원)참여기관선정평가세부운영지침#JO0007",
             "reference_id": "law:여성기업지원에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "여성기업지원에 관한 법률/법률/여성기업지원에 관한 법률.json"
+            "target_git_path_guess": "여성기업지원에 관한 법률/법률/여성기업지원에 관한 법률.json",
+            "target_git_path": "여성기업지원에 관한 법률/법률/여성기업지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -342,7 +372,9 @@
             "source_provision_id": "SchlPubRul:(한국지능정보사회진흥원)참여기관선정평가세부운영지침#JO0007",
             "reference_id": "law:사회적기업육성법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "사회적기업 육성법/법률/사회적기업 육성법.json"
+            "target_git_path_guess": "사회적기업 육성법/법률/사회적기업 육성법.json",
+            "target_git_path": "사회적기업 육성법/법률/사회적기업 육성법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -362,7 +394,9 @@
             "source_provision_id": "SchlPubRul:(한국지능정보사회진흥원)참여기관선정평가세부운영지침#JO0007",
             "reference_id": "law:장애인기업활동촉진법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "장애인기업활동 촉진법/법률/장애인기업활동 촉진법.json"
+            "target_git_path_guess": "장애인기업활동 촉진법/법률/장애인기업활동 촉진법.json",
+            "target_git_path": "장애인기업활동 촉진법/법률/장애인기업활동 촉진법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -382,7 +416,9 @@
             "source_provision_id": "SchlPubRul:(한국지능정보사회진흥원)참여기관선정평가세부운영지침#JO0007",
             "reference_id": "law:장애인고용촉진및직업재활법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "장애인고용촉진 및 직업재활법/법률/장애인고용촉진 및 직업재활법.json"
+            "target_git_path_guess": "장애인고용촉진 및 직업재활법/법률/장애인고용촉진 및 직업재활법.json",
+            "target_git_path": "장애인고용촉진 및 직업재활법/법률/장애인고용촉진 및 직업재활법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -402,7 +438,9 @@
             "source_provision_id": "SchlPubRul:(한국지능정보사회진흥원)참여기관선정평가세부운영지침#JO0007",
             "reference_id": "law:혁신도시조성및발전에관한특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "혁신도시 조성 및 발전에 관한 특별법/법률/혁신도시 조성 및 발전에 관한 특별법.json"
+            "target_git_path_guess": "혁신도시 조성 및 발전에 관한 특별법/법률/혁신도시 조성 및 발전에 관한 특별법.json",
+            "target_git_path": "혁신도시 조성 및 발전에 관한 특별법/법률/혁신도시 조성 및 발전에 관한 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -427,7 +465,12 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:(한국지능정보사회진흥원)참여기관선정평가세부운영지침#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침.json"
+            "target_git_path_guess": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침.json",
+            "target_git_path": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침.json",
+            "target_git_file_path": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/별표/별표3_경영상태 평가기준(제7조제6항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -464,7 +507,12 @@
             "target_unit": "BYL0004",
             "reference_id": "SchlPubRul:(한국지능정보사회진흥원)참여기관선정평가세부운영지침#BYL0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침.json"
+            "target_git_path_guess": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침.json",
+            "target_git_path": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침.json",
+            "target_git_file_path": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/별표/별표4_평가위원명부 등재기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -523,7 +571,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:(한국지능정보사회진흥원)참여기관선정평가세부운영지침#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침.json"
+            "target_git_path_guess": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침.json",
+            "target_git_path": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침.json",
+            "target_git_file_path": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/별표/별표2_사업금액별 평가위원회 구성기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -548,7 +601,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:(한국지능정보사회진흥원)참여기관선정평가세부운영지침#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침.json"
+            "target_git_path_guess": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침.json",
+            "target_git_path": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침.json",
+            "target_git_file_path": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/별표/별표2_사업금액별 평가위원회 구성기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -573,7 +631,12 @@
             "target_unit": "BJ0008",
             "reference_id": "SchlPubRul:(한국지능정보사회진흥원)참여기관선정평가세부운영지침#BJ0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침.json"
+            "target_git_path_guess": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침.json",
+            "target_git_path": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침.json",
+            "target_git_file_path": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/별지/별지8_서약서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -621,7 +684,12 @@
             "target_unit": "BJ0009",
             "reference_id": "SchlPubRul:(한국지능정보사회진흥원)참여기관선정평가세부운영지침#BJ0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침.json"
+            "target_git_path_guess": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침.json",
+            "target_git_path": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침.json",
+            "target_git_file_path": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/별지/별지9_과제조정위원회 위원 섭외명단.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -669,7 +737,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(한국지능정보사회진흥원)참여기관선정평가세부운영지침#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침.json"
+            "target_git_path_guess": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침.json",
+            "target_git_path": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침.json",
+            "target_git_file_path": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/별지/별지1_업체별 제안서 평가표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -689,7 +762,11 @@
             "source_provision_id": "SchlPubRul:(한국지능정보사회진흥원)참여기관선정평가세부운영지침#JO0010",
             "reference_id": "SchlPubRul:(한국지능정보사회진흥원)참여기관선정평가세부운영지침#JO0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침.json"
+            "target_git_path_guess": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침.json",
+            "target_git_path": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -714,7 +791,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(한국지능정보사회진흥원)참여기관선정평가세부운영지침#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침.json"
+            "target_git_path_guess": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침.json",
+            "target_git_path": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침.json",
+            "target_git_file_path": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/별지/별지2_위원별 제안서 평가집계표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -739,7 +821,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:(한국지능정보사회진흥원)참여기관선정평가세부운영지침#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침.json"
+            "target_git_path_guess": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침.json",
+            "target_git_path": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침.json",
+            "target_git_file_path": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/별지/별지3_업체별 제안서 평가집계표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -764,7 +851,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:(한국지능정보사회진흥원)참여기관선정평가세부운영지침#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침.json"
+            "target_git_path_guess": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침.json",
+            "target_git_path": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침.json",
+            "target_git_file_path": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/별지/별지4_제안서 평가 총괄표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -784,7 +876,9 @@
             "source_provision_id": "SchlPubRul:(한국지능정보사회진흥원)참여기관선정평가세부운영지침#JO0010",
             "reference_id": "law:개인정보보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보보호법/법률/개인정보보호법.json"
+            "target_git_path_guess": "개인정보보호법/법률/개인정보보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -809,7 +903,12 @@
             "target_unit": "BJ0010",
             "reference_id": "SchlPubRul:(한국지능정보사회진흥원)참여기관선정평가세부운영지침#BJ0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침.json"
+            "target_git_path_guess": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침.json",
+            "target_git_path": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침.json",
+            "target_git_file_path": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/별지/별지10_제안서 검토의견서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -863,7 +962,11 @@
             "source_provision_id": "SchlPubRul:(한국지능정보사회진흥원)참여기관선정평가세부운영지침#JO0012",
             "reference_id": "SchlPubRul:(한국지능정보사회진흥원)참여기관선정평가세부운영지침#JO0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침.json"
+            "target_git_path_guess": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침.json",
+            "target_git_path": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -888,7 +991,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:(한국지능정보사회진흥원)참여기관선정평가세부운영지침#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침.json"
+            "target_git_path_guess": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침.json",
+            "target_git_path": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침.json",
+            "target_git_file_path": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/별지/별지3_업체별 제안서 평가집계표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -913,7 +1021,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:(한국지능정보사회진흥원)참여기관선정평가세부운영지침#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침.json"
+            "target_git_path_guess": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침.json",
+            "target_git_path": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침.json",
+            "target_git_file_path": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/별지/별지3_업체별 제안서 평가집계표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [
@@ -986,7 +1099,11 @@
             "source_provision_id": "SchlPubRul:(한국지능정보사회진흥원)참여기관선정평가세부운영지침#JO0015",
             "reference_id": "SchlPubRul:(한국지능정보사회진흥원)참여기관선정평가세부운영지침#JO0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침.json"
+            "target_git_path_guess": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침.json",
+            "target_git_path": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1006,7 +1123,11 @@
             "source_provision_id": "SchlPubRul:(한국지능정보사회진흥원)참여기관선정평가세부운영지침#JO0015",
             "reference_id": "SchlPubRul:(한국지능정보사회진흥원)참여기관선정평가세부운영지침#JO0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침.json"
+            "target_git_path_guess": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침.json",
+            "target_git_path": "(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침/(한국지능정보사회진흥원) 참여기관 선정·평가 세부운영지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1060,7 +1181,9 @@
             "source_provision_id": "SchlPubRul:(한국지능정보사회진흥원)참여기관선정평가세부운영지침#JO0016",
             "reference_id": "law:국가를당사자로하는계약에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

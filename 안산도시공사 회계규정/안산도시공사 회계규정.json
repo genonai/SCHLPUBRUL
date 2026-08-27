@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:안산도시공사회계규정#JO0001",
             "reference_id": "law:지방공기업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -97,7 +99,9 @@
             "source_provision_id": "SchlPubRul:안산도시공사회계규정#JO0002",
             "reference_id": "law:지방재정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방재정법/법률/지방재정법.json"
+            "target_git_path_guess": "지방재정법/법률/지방재정법.json",
+            "target_git_path": "지방재정법/법률/지방재정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -117,7 +121,9 @@
             "source_provision_id": "SchlPubRul:안산도시공사회계규정#JO0002",
             "reference_id": "law:국가재정법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가재정법/시행령/국가재정법 시행령.json"
+            "target_git_path_guess": "국가재정법/시행령/국가재정법 시행령.json",
+            "target_git_path": "국가재정법/시행령/국가재정법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -137,7 +143,9 @@
             "source_provision_id": "SchlPubRul:안산도시공사회계규정#JO0002",
             "reference_id": "law:지방회계법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방회계법/시행령/지방회계법 시행령.json"
+            "target_git_path_guess": "지방회계법/시행령/지방회계법 시행령.json",
+            "target_git_path": "지방회계법/시행령/지방회계법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -266,7 +274,9 @@
             "source_provision_id": "SchlPubRul:안산도시공사회계규정#JO0010",
             "reference_id": "law:회계관계직원등의책임에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json"
+            "target_git_path_guess": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json",
+            "target_git_path": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -286,7 +296,11 @@
             "source_provision_id": "SchlPubRul:안산도시공사회계규정#JO0010",
             "reference_id": "admrul:지방자치단체회계관리에관한훈령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "지방자치단체 회계관리에 관한 훈령/지방자치단체 회계관리에 관한 훈령.json"
+            "target_git_path_guess": "지방자치단체 회계관리에 관한 훈령/지방자치단체 회계관리에 관한 훈령.json",
+            "target_git_path": "지방자치단체 회계관리에 관한 훈령/지방자치단체 회계관리에 관한 훈령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -306,7 +320,11 @@
             "source_provision_id": "SchlPubRul:안산도시공사회계규정#JO0010",
             "reference_id": "admrul:지방자치단체회계관리에관한훈령#JO0118",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "지방자치단체 회계관리에 관한 훈령/지방자치단체 회계관리에 관한 훈령.json"
+            "target_git_path_guess": "지방자치단체 회계관리에 관한 훈령/지방자치단체 회계관리에 관한 훈령.json",
+            "target_git_path": "지방자치단체 회계관리에 관한 훈령/지방자치단체 회계관리에 관한 훈령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -393,7 +411,11 @@
             "source_provision_id": "SchlPubRul:안산도시공사회계규정#JO0016",
             "reference_id": "SchlPubRul:안산도시공사회계규정#JO0015",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "안산도시공사 회계규정/안산도시공사 회계규정.json"
+            "target_git_path_guess": "안산도시공사 회계규정/안산도시공사 회계규정.json",
+            "target_git_path": "안산도시공사 회계규정/안산도시공사 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -524,7 +546,9 @@
             "source_provision_id": "SchlPubRul:안산도시공사회계규정#JO0026",
             "reference_id": "law:법인세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "법인세법/법률/법인세법.json"
+            "target_git_path_guess": "법인세법/법률/법인세법.json",
+            "target_git_path": "법인세법/법률/법인세법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -567,7 +591,9 @@
             "source_provision_id": "SchlPubRul:안산도시공사회계규정#JO0028",
             "reference_id": "law:부가가치세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json"
+            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json",
+            "target_git_path": "부가가치세법/법률/부가가치세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -587,7 +613,9 @@
             "source_provision_id": "SchlPubRul:안산도시공사회계규정#JO0028",
             "reference_id": "law:부가가치세법#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json"
+            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json",
+            "target_git_path": "부가가치세법/법률/부가가치세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -607,7 +635,9 @@
             "source_provision_id": "SchlPubRul:안산도시공사회계규정#JO0028",
             "reference_id": "law:소득세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소득세법/법률/소득세법.json"
+            "target_git_path_guess": "소득세법/법률/소득세법.json",
+            "target_git_path": "소득세법/법률/소득세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -627,7 +657,9 @@
             "source_provision_id": "SchlPubRul:안산도시공사회계규정#JO0028",
             "reference_id": "law:소득세법#JO0163",
             "target_repo": "LAW",
-            "target_git_path_guess": "소득세법/법률/소득세법.json"
+            "target_git_path_guess": "소득세법/법률/소득세법.json",
+            "target_git_path": "소득세법/법률/소득세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -647,7 +679,9 @@
             "source_provision_id": "SchlPubRul:안산도시공사회계규정#JO0028",
             "reference_id": "law:법인세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "법인세법/법률/법인세법.json"
+            "target_git_path_guess": "법인세법/법률/법인세법.json",
+            "target_git_path": "법인세법/법률/법인세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -667,7 +701,9 @@
             "source_provision_id": "SchlPubRul:안산도시공사회계규정#JO0028",
             "reference_id": "law:법인세법#JO0121",
             "target_repo": "LAW",
-            "target_git_path_guess": "법인세법/법률/법인세법.json"
+            "target_git_path_guess": "법인세법/법률/법인세법.json",
+            "target_git_path": "법인세법/법률/법인세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -687,7 +723,9 @@
             "source_provision_id": "SchlPubRul:안산도시공사회계규정#JO0028",
             "reference_id": "law:여신전문금융업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "여신전문금융업법/법률/여신전문금융업법.json"
+            "target_git_path_guess": "여신전문금융업법/법률/여신전문금융업법.json",
+            "target_git_path": "여신전문금융업법/법률/여신전문금융업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -730,7 +768,9 @@
             "source_provision_id": "SchlPubRul:안산도시공사회계규정#JO0030",
             "reference_id": "law:전자정부법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -750,7 +790,9 @@
             "source_provision_id": "SchlPubRul:안산도시공사회계규정#JO0030",
             "reference_id": "law:전자정부법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -770,7 +812,9 @@
             "source_provision_id": "SchlPubRul:안산도시공사회계규정#JO0030",
             "reference_id": "law:전자서명법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자서명법/법률/전자서명법.json"
+            "target_git_path_guess": "전자서명법/법률/전자서명법.json",
+            "target_git_path": "전자서명법/법률/전자서명법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -790,7 +834,9 @@
             "source_provision_id": "SchlPubRul:안산도시공사회계규정#JO0030",
             "reference_id": "law:전자서명법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자서명법/법률/전자서명법.json"
+            "target_git_path_guess": "전자서명법/법률/전자서명법.json",
+            "target_git_path": "전자서명법/법률/전자서명법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -943,7 +989,11 @@
             "source_provision_id": "SchlPubRul:안산도시공사회계규정#JO0042",
             "reference_id": "SchlPubRul:안산도시공사회계규정#JO0041",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "안산도시공사 회계규정/안산도시공사 회계규정.json"
+            "target_git_path_guess": "안산도시공사 회계규정/안산도시공사 회계규정.json",
+            "target_git_path": "안산도시공사 회계규정/안산도시공사 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1019,7 +1069,11 @@
             "source_provision_id": "SchlPubRul:안산도시공사회계규정#JO0047",
             "reference_id": "SchlPubRul:안산도시공사회계규정#JO0042",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "안산도시공사 회계규정/안산도시공사 회계규정.json"
+            "target_git_path_guess": "안산도시공사 회계규정/안산도시공사 회계규정.json",
+            "target_git_path": "안산도시공사 회계규정/안산도시공사 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1139,7 +1193,11 @@
             "source_provision_id": "SchlPubRul:안산도시공사회계규정#JO0056",
             "reference_id": "SchlPubRul:안산도시공사회계규정#JO0058",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "안산도시공사 회계규정/안산도시공사 회계규정.json"
+            "target_git_path_guess": "안산도시공사 회계규정/안산도시공사 회계규정.json",
+            "target_git_path": "안산도시공사 회계규정/안산도시공사 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1209,7 +1267,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:안산도시공사회계규정#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "안산도시공사 회계규정/안산도시공사 회계규정.json"
+            "target_git_path_guess": "안산도시공사 회계규정/안산도시공사 회계규정.json",
+            "target_git_path": "안산도시공사 회계규정/안산도시공사 회계규정.json",
+            "target_git_file_path": "안산도시공사 회계규정/별지/별지1_계좌대체의뢰서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1285,7 +1348,9 @@
             "source_provision_id": "SchlPubRul:안산도시공사회계규정#JO0065",
             "reference_id": "law:지방회계법#JO0035",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방회계법/법률/지방회계법.json"
+            "target_git_path_guess": "지방회계법/법률/지방회계법.json",
+            "target_git_path": "지방회계법/법률/지방회계법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1305,7 +1370,9 @@
             "source_provision_id": "SchlPubRul:안산도시공사회계규정#JO0065",
             "reference_id": "law:지방회계법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방회계법/시행령/지방회계법 시행령.json"
+            "target_git_path_guess": "지방회계법/시행령/지방회계법 시행령.json",
+            "target_git_path": "지방회계법/시행령/지방회계법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1325,7 +1392,9 @@
             "source_provision_id": "SchlPubRul:안산도시공사회계규정#JO0065",
             "reference_id": "law:지방회계법시행령#JO0044",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방회계법/시행령/지방회계법 시행령.json"
+            "target_git_path_guess": "지방회계법/시행령/지방회계법 시행령.json",
+            "target_git_path": "지방회계법/시행령/지방회계법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1357,7 +1426,9 @@
             "source_provision_id": "SchlPubRul:안산도시공사회계규정#JO0066",
             "reference_id": "law:지방회계법#JO0035",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방회계법/법률/지방회계법.json"
+            "target_git_path_guess": "지방회계법/법률/지방회계법.json",
+            "target_git_path": "지방회계법/법률/지방회계법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1377,7 +1448,9 @@
             "source_provision_id": "SchlPubRul:안산도시공사회계규정#JO0066",
             "reference_id": "law:지방회계법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방회계법/시행령/지방회계법 시행령.json"
+            "target_git_path_guess": "지방회계법/시행령/지방회계법 시행령.json",
+            "target_git_path": "지방회계법/시행령/지방회계법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1397,7 +1470,9 @@
             "source_provision_id": "SchlPubRul:안산도시공사회계규정#JO0066",
             "reference_id": "law:지방회계법시행령#JO0045",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방회계법/시행령/지방회계법 시행령.json"
+            "target_git_path_guess": "지방회계법/시행령/지방회계법 시행령.json",
+            "target_git_path": "지방회계법/시행령/지방회계법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1484,7 +1559,11 @@
             "source_provision_id": "SchlPubRul:안산도시공사회계규정#JO0072",
             "reference_id": "SchlPubRul:안산도시공사회계규정#JO0070",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "안산도시공사 회계규정/안산도시공사 회계규정.json"
+            "target_git_path_guess": "안산도시공사 회계규정/안산도시공사 회계규정.json",
+            "target_git_path": "안산도시공사 회계규정/안산도시공사 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1527,7 +1606,9 @@
             "source_provision_id": "SchlPubRul:안산도시공사회계규정#JO0074",
             "reference_id": "law:지방공기업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1547,7 +1628,9 @@
             "source_provision_id": "SchlPubRul:안산도시공사회계규정#JO0074",
             "reference_id": "law:지방공기업법#JO0048",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1590,7 +1673,11 @@
             "source_provision_id": "SchlPubRul:안산도시공사회계규정#JO0076",
             "reference_id": "SchlPubRul:안산도시공사회계규정#JO0075",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "안산도시공사 회계규정/안산도시공사 회계규정.json"
+            "target_git_path_guess": "안산도시공사 회계규정/안산도시공사 회계규정.json",
+            "target_git_path": "안산도시공사 회계규정/안산도시공사 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1633,7 +1720,11 @@
             "source_provision_id": "SchlPubRul:안산도시공사회계규정#JO0078",
             "reference_id": "SchlPubRul:안산도시공사회계규정#JO0075",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "안산도시공사 회계규정/안산도시공사 회계규정.json"
+            "target_git_path_guess": "안산도시공사 회계규정/안산도시공사 회계규정.json",
+            "target_git_path": "안산도시공사 회계규정/안산도시공사 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -1653,7 +1744,11 @@
             "source_provision_id": "SchlPubRul:안산도시공사회계규정#JO0078",
             "reference_id": "SchlPubRul:안산도시공사회계규정#JO0076",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "안산도시공사 회계규정/안산도시공사 회계규정.json"
+            "target_git_path_guess": "안산도시공사 회계규정/안산도시공사 회계규정.json",
+            "target_git_path": "안산도시공사 회계규정/안산도시공사 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -1673,7 +1768,11 @@
             "source_provision_id": "SchlPubRul:안산도시공사회계규정#JO0078",
             "reference_id": "SchlPubRul:안산도시공사회계규정#JO0077",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "안산도시공사 회계규정/안산도시공사 회계규정.json"
+            "target_git_path_guess": "안산도시공사 회계규정/안산도시공사 회계규정.json",
+            "target_git_path": "안산도시공사 회계규정/안산도시공사 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1705,7 +1804,9 @@
             "source_provision_id": "SchlPubRul:안산도시공사회계규정#JO0079",
             "reference_id": "law:지방공기업법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/시행령/지방공기업법 시행령.json"
+            "target_git_path_guess": "지방공기업법/시행령/지방공기업법 시행령.json",
+            "target_git_path": "지방공기업법/시행령/지방공기업법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1725,7 +1826,9 @@
             "source_provision_id": "SchlPubRul:안산도시공사회계규정#JO0079",
             "reference_id": "law:지방공기업법시행령#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/시행령/지방공기업법 시행령.json"
+            "target_git_path_guess": "지방공기업법/시행령/지방공기업법 시행령.json",
+            "target_git_path": "지방공기업법/시행령/지방공기업법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1867,7 +1970,9 @@
             "source_provision_id": "SchlPubRul:안산도시공사회계규정#JO0090",
             "reference_id": "law:지방공기업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1887,7 +1992,9 @@
             "source_provision_id": "SchlPubRul:안산도시공사회계규정#JO0090",
             "reference_id": "law:부동산가격공시에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부동산 가격공시에 관한 법률/법률/부동산 가격공시에 관한 법률.json"
+            "target_git_path_guess": "부동산 가격공시에 관한 법률/법률/부동산 가격공시에 관한 법률.json",
+            "target_git_path": "부동산 가격공시에 관한 법률/법률/부동산 가격공시에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1919,7 +2026,11 @@
             "source_provision_id": "SchlPubRul:안산도시공사회계규정#JO0091",
             "reference_id": "SchlPubRul:안산도시공사회계규정#JO0090",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "안산도시공사 회계규정/안산도시공사 회계규정.json"
+            "target_git_path_guess": "안산도시공사 회계규정/안산도시공사 회계규정.json",
+            "target_git_path": "안산도시공사 회계규정/안산도시공사 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -2050,7 +2161,9 @@
             "source_provision_id": "SchlPubRul:안산도시공사회계규정#JO0101",
             "reference_id": "law:법인세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "법인세법/법률/법인세법.json"
+            "target_git_path_guess": "법인세법/법률/법인세법.json",
+            "target_git_path": "법인세법/법률/법인세법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2159,7 +2272,9 @@
             "source_provision_id": "SchlPubRul:안산도시공사회계규정#JO0109",
             "reference_id": "law:법인세법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "법인세법/시행령/법인세법시행령.json"
+            "target_git_path_guess": "법인세법/시행령/법인세법시행령.json",
+            "target_git_path": "법인세법/시행령/법인세법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2317,7 +2432,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:안산도시공사회계규정#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "안산도시공사 회계규정/안산도시공사 회계규정.json"
+            "target_git_path_guess": "안산도시공사 회계규정/안산도시공사 회계규정.json",
+            "target_git_path": "안산도시공사 회계규정/안산도시공사 회계규정.json",
+            "target_git_file_path": "안산도시공사 회계규정/별지/별지2_예비비지출요구서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -2459,7 +2579,9 @@
             "source_provision_id": "SchlPubRul:안산도시공사회계규정#JO0132",
             "reference_id": "law:법인세법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "법인세법/시행령/법인세법 시행령.json"
+            "target_git_path_guess": "법인세법/시행령/법인세법 시행령.json",
+            "target_git_path": "법인세법/시행령/법인세법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2479,7 +2601,9 @@
             "source_provision_id": "SchlPubRul:안산도시공사회계규정#JO0132",
             "reference_id": "law:법인세법시행령#JO0076",
             "target_repo": "LAW",
-            "target_git_path_guess": "법인세법/시행령/법인세법 시행령.json"
+            "target_git_path_guess": "법인세법/시행령/법인세법 시행령.json",
+            "target_git_path": "법인세법/시행령/법인세법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2566,7 +2690,9 @@
             "source_provision_id": "SchlPubRul:안산도시공사회계규정#JO0138",
             "reference_id": "law:지방재정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방재정법/법률/지방재정법.json"
+            "target_git_path_guess": "지방재정법/법률/지방재정법.json",
+            "target_git_path": "지방재정법/법률/지방재정법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

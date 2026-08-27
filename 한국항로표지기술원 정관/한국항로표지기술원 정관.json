@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:한국항로표지기술원정관#JO0001",
             "reference_id": "law:항로표지법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항로표지법/법률/항로표지법.json"
+            "target_git_path_guess": "항로표지법/법률/항로표지법.json",
+            "target_git_path": "항로표지법/법률/항로표지법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -85,7 +87,9 @@
             "source_provision_id": "SchlPubRul:한국항로표지기술원정관#JO0001",
             "reference_id": "law:항로표지법#JO0041",
             "target_repo": "LAW",
-            "target_git_path_guess": "항로표지법/법률/항로표지법.json"
+            "target_git_path_guess": "항로표지법/법률/항로표지법.json",
+            "target_git_path": "항로표지법/법률/항로표지법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -139,7 +143,9 @@
             "source_provision_id": "SchlPubRul:한국항로표지기술원정관#JO0004",
             "reference_id": "law:항로표지법#JO0041",
             "target_repo": "LAW",
-            "target_git_path_guess": "항로표지법/법률/항로표지법.json"
+            "target_git_path_guess": "항로표지법/법률/항로표지법.json",
+            "target_git_path": "항로표지법/법률/항로표지법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -159,7 +165,9 @@
             "source_provision_id": "SchlPubRul:한국항로표지기술원정관#JO0004",
             "reference_id": "law:항로표지법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항로표지법/시행령/항로표지법 시행령.json"
+            "target_git_path_guess": "항로표지법/시행령/항로표지법 시행령.json",
+            "target_git_path": "항로표지법/시행령/항로표지법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -179,7 +187,9 @@
             "source_provision_id": "SchlPubRul:한국항로표지기술원정관#JO0004",
             "reference_id": "law:항로표지법시행령#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "항로표지법/시행령/항로표지법 시행령.json"
+            "target_git_path_guess": "항로표지법/시행령/항로표지법 시행령.json",
+            "target_git_path": "항로표지법/시행령/항로표지법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -199,7 +209,11 @@
             "source_provision_id": "SchlPubRul:한국항로표지기술원정관#JO0004",
             "reference_id": "SchlPubRul:한국항로표지기술원정관#JO0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국항로표지기술원 정관/한국항로표지기술원 정관.json"
+            "target_git_path_guess": "한국항로표지기술원 정관/한국항로표지기술원 정관.json",
+            "target_git_path": "한국항로표지기술원 정관/한국항로표지기술원 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -253,7 +267,11 @@
             "source_provision_id": "SchlPubRul:한국항로표지기술원정관#JO0007",
             "reference_id": "SchlPubRul:한국항로표지기술원정관#JO0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국항로표지기술원 정관/한국항로표지기술원 정관.json"
+            "target_git_path_guess": "한국항로표지기술원 정관/한국항로표지기술원 정관.json",
+            "target_git_path": "한국항로표지기술원 정관/한국항로표지기술원 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -285,7 +303,11 @@
             "source_provision_id": "SchlPubRul:한국항로표지기술원정관#JO0008",
             "reference_id": "SchlPubRul:임원추천위원회운영규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "임원 추천위원회 운영 규정/임원 추천위원회 운영 규정.json"
+            "target_git_path_guess": "임원 추천위원회 운영 규정/임원 추천위원회 운영 규정.json",
+            "target_git_path": "임원추천위원회 운영규정/임원추천위원회 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -339,7 +361,9 @@
             "source_provision_id": "SchlPubRul:한국항로표지기술원정관#JO0011",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -359,7 +383,9 @@
             "source_provision_id": "SchlPubRul:한국항로표지기술원정관#JO0011",
             "reference_id": "law:국가공무원법#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -402,7 +428,9 @@
             "source_provision_id": "SchlPubRul:한국항로표지기술원정관#JO0012_02",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -422,7 +450,9 @@
             "source_provision_id": "SchlPubRul:한국항로표지기술원정관#JO0012_02",
             "reference_id": "law:국가공무원법#JO0079",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -454,7 +484,11 @@
             "source_provision_id": "SchlPubRul:한국항로표지기술원정관#JO0013",
             "reference_id": "SchlPubRul:한국항로표지기술원정관#JO0015",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국항로표지기술원 정관/한국항로표지기술원 정관.json"
+            "target_git_path_guess": "한국항로표지기술원 정관/한국항로표지기술원 정관.json",
+            "target_git_path": "한국항로표지기술원 정관/한국항로표지기술원 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -495,9 +529,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/보수규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:한국항로표지기술원정관#JO0015",
-            "reference_id": "SchlPubRul:보수규정#DOC",
+            "reference_id": "SchlPubRul:보수규정:public_2128339#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "보수규정/보수규정.json"
+            "target_git_path_guess": "보수규정/보수규정.json",
+            "target_candidates": 3,
+            "target_git_path": "보수규정/public_2128339/보수규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -538,9 +577,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/보수규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:한국항로표지기술원정관#JO0017",
-            "reference_id": "SchlPubRul:보수규정#DOC",
+            "reference_id": "SchlPubRul:보수규정:public_2128339#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "보수규정/보수규정.json"
+            "target_git_path_guess": "보수규정/보수규정.json",
+            "target_candidates": 3,
+            "target_git_path": "보수규정/public_2128339/보수규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -572,7 +616,9 @@
             "source_provision_id": "SchlPubRul:한국항로표지기술원정관#JO0018",
             "reference_id": "law:국가공무원복무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json"
+            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_git_path": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -592,7 +638,9 @@
             "source_provision_id": "SchlPubRul:한국항로표지기술원정관#JO0018",
             "reference_id": "law:국가공무원복무규정#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json"
+            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_git_path": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -712,7 +760,9 @@
             "source_provision_id": "SchlPubRul:한국항로표지기술원정관#JO0027",
             "reference_id": "law:항로표지법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항로표지법/법률/항로표지법.json"
+            "target_git_path_guess": "항로표지법/법률/항로표지법.json",
+            "target_git_path": "항로표지법/법률/항로표지법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -732,7 +782,9 @@
             "source_provision_id": "SchlPubRul:한국항로표지기술원정관#JO0027",
             "reference_id": "law:항로표지법#JO0041",
             "target_repo": "LAW",
-            "target_git_path_guess": "항로표지법/법률/항로표지법.json"
+            "target_git_path_guess": "항로표지법/법률/항로표지법.json",
+            "target_git_path": "항로표지법/법률/항로표지법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -841,7 +893,9 @@
             "source_provision_id": "SchlPubRul:한국항로표지기술원정관#JO0035",
             "reference_id": "law:공공기관의운영에관한법률#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -861,7 +915,9 @@
             "source_provision_id": "SchlPubRul:한국항로표지기술원정관#JO0035",
             "reference_id": "law:공공기관의운영에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/시행령/공공기관의 운영에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/시행령/공공기관의 운영에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/시행령/공공기관의 운영에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -881,7 +937,9 @@
             "source_provision_id": "SchlPubRul:한국항로표지기술원정관#JO0035",
             "reference_id": "law:공공기관의운영에관한법률시행령#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/시행령/공공기관의 운영에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/시행령/공공기관의 운영에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/시행령/공공기관의 운영에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -946,7 +1004,9 @@
             "source_provision_id": "SchlPubRul:한국항로표지기술원정관#JO0039",
             "reference_id": "law:민법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

@@ -120,7 +120,11 @@
             "source_provision_id": "SchlPubRul:(폐지)대구교통공사임금피크제운영내규#JO0006",
             "reference_id": "SchlPubRul:(폐지)대구교통공사임금피크제운영내규#JO0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(폐지)대구교통공사 임금피크제 운영내규/(폐지)대구교통공사 임금피크제 운영내규.json"
+            "target_git_path_guess": "(폐지)대구교통공사 임금피크제 운영내규/(폐지)대구교통공사 임금피크제 운영내규.json",
+            "target_git_path": "(폐지)대구교통공사  임금피크제 운영내규/(폐지)대구교통공사  임금피크제 운영내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -140,7 +144,9 @@
             "source_provision_id": "SchlPubRul:(폐지)대구교통공사임금피크제운영내규#JO0006",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -160,7 +166,9 @@
             "source_provision_id": "SchlPubRul:(폐지)대구교통공사임금피크제운영내규#JO0006",
             "reference_id": "law:근로기준법#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -241,7 +249,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(폐지)대구교통공사임금피크제운영내규#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(폐지)대구교통공사 임금피크제 운영내규/(폐지)대구교통공사 임금피크제 운영내규.json"
+            "target_git_path_guess": "(폐지)대구교통공사 임금피크제 운영내규/(폐지)대구교통공사 임금피크제 운영내규.json",
+            "target_git_path": "(폐지)대구교통공사  임금피크제 운영내규/(폐지)대구교통공사  임금피크제 운영내규.json",
+            "target_git_file_path": "(폐지)대구교통공사  임금피크제 운영내규/별표/별표1_임금피크제 채용인원 보수항목.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],

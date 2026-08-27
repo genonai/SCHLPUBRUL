@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#JO0001",
             "reference_id": "law:건설기계관리법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설기계관리법/법률/건설기계관리법.json"
+            "target_git_path_guess": "건설기계관리법/법률/건설기계관리법.json",
+            "target_git_path": "건설기계관리법/법률/건설기계관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -85,7 +87,9 @@
             "source_provision_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#JO0001",
             "reference_id": "law:건설기계관리법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설기계관리법/시행규칙/건설기계관리법 시행규칙.json"
+            "target_git_path_guess": "건설기계관리법/시행규칙/건설기계관리법 시행규칙.json",
+            "target_git_path": "건설기계관리법/시행규칙/건설기계관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -105,7 +109,9 @@
             "source_provision_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#JO0001",
             "reference_id": "law:건설기계관리법시행규칙#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설기계관리법/시행규칙/건설기계관리법 시행규칙.json"
+            "target_git_path_guess": "건설기계관리법/시행규칙/건설기계관리법 시행규칙.json",
+            "target_git_path": "건설기계관리법/시행규칙/건설기계관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -137,7 +143,9 @@
             "source_provision_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#JO0002",
             "reference_id": "law:건설기계관리법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설기계관리법/시행령/건설기계관리법 시행령.json"
+            "target_git_path_guess": "건설기계관리법/시행령/건설기계관리법 시행령.json",
+            "target_git_path": "건설기계관리법/시행령/건설기계관리법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -157,7 +165,9 @@
             "source_provision_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#JO0002",
             "reference_id": "law:건설기계관리법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설기계관리법/시행규칙/건설기계관리법 시행규칙.json"
+            "target_git_path_guess": "건설기계관리법/시행규칙/건설기계관리법 시행규칙.json",
+            "target_git_path": "건설기계관리법/시행규칙/건설기계관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -177,7 +187,9 @@
             "source_provision_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#JO0002",
             "reference_id": "law:건설기계안전기준에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설기계안전기준에 관한 규칙/법률/건설기계안전기준에 관한 규칙.json"
+            "target_git_path_guess": "건설기계안전기준에 관한 규칙/법률/건설기계안전기준에 관한 규칙.json",
+            "target_git_path": "건설기계 안전기준에 관한 규칙/법률/건설기계 안전기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -197,7 +209,11 @@
             "source_provision_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#JO0002",
             "reference_id": "admrul:건설기계관리업무처리규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "건설기계관리업무처리규정/건설기계관리업무처리규정.json"
+            "target_git_path_guess": "건설기계관리업무처리규정/건설기계관리업무처리규정.json",
+            "target_git_path": "건설기계관리업무처리규정/건설기계관리업무처리규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -217,7 +233,9 @@
             "source_provision_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#JO0002",
             "reference_id": "law:대기환경보전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "대기환경보전법/법률/대기환경보전법.json"
+            "target_git_path_guess": "대기환경보전법/법률/대기환경보전법.json",
+            "target_git_path": "대기환경보전법/법률/대기환경보전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -237,7 +255,9 @@
             "source_provision_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#JO0002",
             "reference_id": "law:소음진동관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소음진동관리법/법률/소음진동관리법.json"
+            "target_git_path_guess": "소음진동관리법/법률/소음진동관리법.json",
+            "target_git_path": "소음ㆍ진동관리법/법률/소음ㆍ진동관리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -269,7 +289,9 @@
             "source_provision_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#JO0003",
             "reference_id": "law:건설기계관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설기계관리법/법률/건설기계관리법.json"
+            "target_git_path_guess": "건설기계관리법/법률/건설기계관리법.json",
+            "target_git_path": "건설기계관리법/법률/건설기계관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -289,7 +311,9 @@
             "source_provision_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#JO0003",
             "reference_id": "law:건설기계관리법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설기계관리법/법률/건설기계관리법.json"
+            "target_git_path_guess": "건설기계관리법/법률/건설기계관리법.json",
+            "target_git_path": "건설기계관리법/법률/건설기계관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -309,7 +333,9 @@
             "source_provision_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#JO0003",
             "reference_id": "law:건설기계관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설기계관리법/법률/건설기계관리법.json"
+            "target_git_path_guess": "건설기계관리법/법률/건설기계관리법.json",
+            "target_git_path": "건설기계관리법/법률/건설기계관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -329,7 +355,9 @@
             "source_provision_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#JO0003",
             "reference_id": "law:건설기계관리법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설기계관리법/법률/건설기계관리법.json"
+            "target_git_path_guess": "건설기계관리법/법률/건설기계관리법.json",
+            "target_git_path": "건설기계관리법/법률/건설기계관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -349,7 +377,9 @@
             "source_provision_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#JO0003",
             "reference_id": "law:건설기계관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설기계관리법/법률/건설기계관리법.json"
+            "target_git_path_guess": "건설기계관리법/법률/건설기계관리법.json",
+            "target_git_path": "건설기계관리법/법률/건설기계관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -369,7 +399,9 @@
             "source_provision_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#JO0003",
             "reference_id": "law:건설기계관리법#JO0039_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설기계관리법/법률/건설기계관리법.json"
+            "target_git_path_guess": "건설기계관리법/법률/건설기계관리법.json",
+            "target_git_path": "건설기계관리법/법률/건설기계관리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -445,7 +477,9 @@
             "source_provision_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#JO0008",
             "reference_id": "law:전자금융거래법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자금융거래법/법률/전자금융거래법.json"
+            "target_git_path_guess": "전자금융거래법/법률/전자금융거래법.json",
+            "target_git_path": "전자금융거래법/법률/전자금융거래법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -470,7 +504,8 @@
             "target_unit": "BYL0023",
             "reference_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#BYL0023",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json"
+            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -502,7 +537,9 @@
             "source_provision_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#JO0008_02",
             "reference_id": "law:민원처리에관한법률#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "민원 처리에 관한 법률/법률/민원 처리에 관한 법률.json"
+            "target_git_path_guess": "민원 처리에 관한 법률/법률/민원 처리에 관한 법률.json",
+            "target_git_path": "민원 처리에 관한 법률/법률/민원 처리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -522,7 +559,9 @@
             "source_provision_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#JO0008_02",
             "reference_id": "law:민원처리에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민원 처리에 관한 법률/시행령/민원 처리에 관한 법률 시행령.json"
+            "target_git_path_guess": "민원 처리에 관한 법률/시행령/민원 처리에 관한 법률 시행령.json",
+            "target_git_path": "민원 처리에 관한 법률/시행령/민원 처리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -542,7 +581,9 @@
             "source_provision_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#JO0008_02",
             "reference_id": "law:민원처리에관한법률시행령#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "민원 처리에 관한 법률/시행령/민원 처리에 관한 법률 시행령.json"
+            "target_git_path_guess": "민원 처리에 관한 법률/시행령/민원 처리에 관한 법률 시행령.json",
+            "target_git_path": "민원 처리에 관한 법률/시행령/민원 처리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -562,7 +603,9 @@
             "source_provision_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#JO0008_02",
             "reference_id": "law:민원처리에관한법률시행령#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "민원 처리에 관한 법률/시행령/민원 처리에 관한 법률 시행령.json"
+            "target_git_path_guess": "민원 처리에 관한 법률/시행령/민원 처리에 관한 법률 시행령.json",
+            "target_git_path": "민원 처리에 관한 법률/시행령/민원 처리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -594,7 +637,11 @@
             "source_provision_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#JO0009",
             "reference_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#JO0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json"
+            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json",
+            "target_git_path": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -619,7 +666,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json"
+            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json",
+            "target_git_path": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json",
+            "target_git_file_path": "((재)대한건설기계안전관리원) 건설기계검사업무규정/별표/별표1_부적합 판정 및 시정권고 분류 기준 (제9조제6항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -651,7 +703,11 @@
             "source_provision_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#JO0009_02",
             "reference_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json"
+            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json",
+            "target_git_path": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -671,7 +727,9 @@
             "source_provision_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#JO0009_02",
             "reference_id": "law:대기환경보전법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "대기환경보전법/시행규칙/대기환경보전법 시행규칙.json"
+            "target_git_path_guess": "대기환경보전법/시행규칙/대기환경보전법 시행규칙.json",
+            "target_git_path": "대기환경보전법/시행규칙/대기환경보전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -691,7 +749,9 @@
             "source_provision_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#JO0009_02",
             "reference_id": "law:대기환경보전법시행규칙#JO0067_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "대기환경보전법/시행규칙/대기환경보전법 시행규칙.json"
+            "target_git_path_guess": "대기환경보전법/시행규칙/대기환경보전법 시행규칙.json",
+            "target_git_path": "대기환경보전법/시행규칙/대기환경보전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -711,7 +771,11 @@
             "source_provision_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#JO0009_02",
             "reference_id": "admrul:건설기계원동기인증및검사방법과절차등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json"
+            "target_git_path_guess": "건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_git_path": "건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -736,7 +800,12 @@
             "target_unit": "BJ0005",
             "reference_id": "admrul:건설기계원동기인증및검사방법과절차등에관한규정#BJ0005",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json"
+            "target_git_path_guess": "건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_git_path": "건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_git_file_path": "건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/별지/별지5_검사인력 및 장비보유 현황.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -756,7 +825,11 @@
             "source_provision_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#JO0009_02",
             "reference_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json"
+            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json",
+            "target_git_path": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -788,7 +861,11 @@
             "source_provision_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#JO0010",
             "reference_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json"
+            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json",
+            "target_git_path": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -820,7 +897,11 @@
             "source_provision_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#JO0011",
             "reference_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#JO0023",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json"
+            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json",
+            "target_git_path": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -852,7 +933,11 @@
             "source_provision_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#JO0012",
             "reference_id": "admrul:건설기계관리업무처리규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "건설기계관리업무처리규정/건설기계관리업무처리규정.json"
+            "target_git_path_guess": "건설기계관리업무처리규정/건설기계관리업무처리규정.json",
+            "target_git_path": "건설기계관리업무처리규정/건설기계관리업무처리규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -872,7 +957,11 @@
             "source_provision_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#JO0012",
             "reference_id": "admrul:건설기계관리업무처리규정#JO0007",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "건설기계관리업무처리규정/건설기계관리업무처리규정.json"
+            "target_git_path_guess": "건설기계관리업무처리규정/건설기계관리업무처리규정.json",
+            "target_git_path": "건설기계관리업무처리규정/건설기계관리업무처리규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -937,7 +1026,11 @@
             "source_provision_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#JO0015",
             "reference_id": "admrul:건설기계관리업무처리규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "건설기계관리업무처리규정/건설기계관리업무처리규정.json"
+            "target_git_path_guess": "건설기계관리업무처리규정/건설기계관리업무처리규정.json",
+            "target_git_path": "건설기계관리업무처리규정/건설기계관리업무처리규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -957,7 +1050,11 @@
             "source_provision_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#JO0015",
             "reference_id": "admrul:건설기계관리업무처리규정#JO0010",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "건설기계관리업무처리규정/건설기계관리업무처리규정.json"
+            "target_git_path_guess": "건설기계관리업무처리규정/건설기계관리업무처리규정.json",
+            "target_git_path": "건설기계관리업무처리규정/건설기계관리업무처리규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -982,7 +1079,12 @@
             "target_unit": "BJ0008",
             "reference_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#BJ0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json"
+            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json",
+            "target_git_path": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json",
+            "target_git_file_path": "((재)대한건설기계안전관리원) 건설기계검사업무규정/별지/별지8_삭제 _2026. 3. 24._.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -1002,7 +1104,9 @@
             "source_provision_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#JO0015",
             "reference_id": "law:건설기계관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설기계관리법/법률/건설기계관리법.json"
+            "target_git_path_guess": "건설기계관리법/법률/건설기계관리법.json",
+            "target_git_path": "건설기계관리법/법률/건설기계관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1022,7 +1126,9 @@
             "source_provision_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#JO0015",
             "reference_id": "law:건설기계관리법#JO0039_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설기계관리법/법률/건설기계관리법.json"
+            "target_git_path_guess": "건설기계관리법/법률/건설기계관리법.json",
+            "target_git_path": "건설기계관리법/법률/건설기계관리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1059,7 +1165,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json"
+            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json",
+            "target_git_path": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json",
+            "target_git_file_path": "((재)대한건설기계안전관리원) 건설기계검사업무규정/별표/별표2_감사원증(제16조제7호 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1113,7 +1224,11 @@
             "source_provision_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#JO0018_02",
             "reference_id": "admrul:건설기계관리업무처리규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "건설기계관리업무처리규정/건설기계관리업무처리규정.json"
+            "target_git_path_guess": "건설기계관리업무처리규정/건설기계관리업무처리규정.json",
+            "target_git_path": "건설기계관리업무처리규정/건설기계관리업무처리규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1133,7 +1248,11 @@
             "source_provision_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#JO0018_02",
             "reference_id": "admrul:건설기계관리업무처리규정#JO0007",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "건설기계관리업무처리규정/건설기계관리업무처리규정.json"
+            "target_git_path_guess": "건설기계관리업무처리규정/건설기계관리업무처리규정.json",
+            "target_git_path": "건설기계관리업무처리규정/건설기계관리업무처리규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1181,7 +1300,12 @@
             "target_unit": "BJ0009",
             "reference_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#BJ0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json"
+            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json",
+            "target_git_path": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json",
+            "target_git_file_path": "((재)대한건설기계안전관리원) 건설기계검사업무규정/별지/별지9_차대일련번호 새김압인기록부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1206,7 +1330,12 @@
             "target_unit": "BJ0010",
             "reference_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#BJ0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json"
+            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json",
+            "target_git_path": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json",
+            "target_git_file_path": "((재)대한건설기계안전관리원) 건설기계검사업무규정/별지/별지10_차대일련번호 새김압인 말소기록부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1231,7 +1360,12 @@
             "target_unit": "BJ0011",
             "reference_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#BJ0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json"
+            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json",
+            "target_git_path": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json",
+            "target_git_file_path": "((재)대한건설기계안전관리원) 건설기계검사업무규정/별지/별지11_검사시설 점검 및 고장 정비기록부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1256,7 +1390,12 @@
             "target_unit": "BJ0012",
             "reference_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#BJ0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json"
+            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json",
+            "target_git_path": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json",
+            "target_git_file_path": "((재)대한건설기계안전관리원) 건설기계검사업무규정/별지/별지12_검사기계·기구 관리대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1288,7 +1427,11 @@
             "source_provision_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#JO0021",
             "reference_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#JO0020",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json"
+            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json",
+            "target_git_path": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1353,7 +1496,11 @@
             "source_provision_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#JO0025",
             "reference_id": "admrul:건설기계관리업무처리규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "건설기계관리업무처리규정/건설기계관리업무처리규정.json"
+            "target_git_path_guess": "건설기계관리업무처리규정/건설기계관리업무처리규정.json",
+            "target_git_path": "건설기계관리업무처리규정/건설기계관리업무처리규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1373,7 +1520,11 @@
             "source_provision_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#JO0025",
             "reference_id": "admrul:건설기계관리업무처리규정#JO0007",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "건설기계관리업무처리규정/건설기계관리업무처리규정.json"
+            "target_git_path_guess": "건설기계관리업무처리규정/건설기계관리업무처리규정.json",
+            "target_git_path": "건설기계관리업무처리규정/건설기계관리업무처리규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1398,7 +1549,12 @@
             "target_unit": "BJ0009",
             "reference_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#BJ0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json"
+            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json",
+            "target_git_path": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json",
+            "target_git_file_path": "((재)대한건설기계안전관리원) 건설기계검사업무규정/별지/별지9_차대일련번호 새김압인기록부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -1418,7 +1574,9 @@
             "source_provision_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#JO0025",
             "reference_id": "law:건설기계관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설기계관리법/법률/건설기계관리법.json"
+            "target_git_path_guess": "건설기계관리법/법률/건설기계관리법.json",
+            "target_git_path": "건설기계관리법/법률/건설기계관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1438,7 +1596,9 @@
             "source_provision_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#JO0025",
             "reference_id": "law:건설기계관리법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설기계관리법/법률/건설기계관리법.json"
+            "target_git_path_guess": "건설기계관리법/법률/건설기계관리법.json",
+            "target_git_path": "건설기계관리법/법률/건설기계관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1463,7 +1623,12 @@
             "target_unit": "BJ0010",
             "reference_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#BJ0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json"
+            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json",
+            "target_git_path": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json",
+            "target_git_file_path": "((재)대한건설기계안전관리원) 건설기계검사업무규정/별지/별지10_차대일련번호 새김압인 말소기록부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1500,7 +1665,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json"
+            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json",
+            "target_git_path": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json",
+            "target_git_file_path": "((재)대한건설기계안전관리원) 건설기계검사업무규정/별지/별지3_건설기계검사표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1548,7 +1718,12 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json"
+            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json",
+            "target_git_path": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json",
+            "target_git_file_path": "((재)대한건설기계안전관리원) 건설기계검사업무규정/별표/별표3_관리책임자 지정표찰(제28조제1항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1573,7 +1748,12 @@
             "target_unit": "BJ0011",
             "reference_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#BJ0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json"
+            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json",
+            "target_git_path": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json",
+            "target_git_file_path": "((재)대한건설기계안전관리원) 건설기계검사업무규정/별지/별지11_검사시설 점검 및 고장 정비기록부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1649,7 +1829,9 @@
             "source_provision_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#JO0033",
             "reference_id": "law:자동차관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "자동차관리법/법률/자동차관리법.json"
+            "target_git_path_guess": "자동차관리법/법률/자동차관리법.json",
+            "target_git_path": "자동차관리법/법률/자동차관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1669,7 +1851,9 @@
             "source_provision_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#JO0033",
             "reference_id": "law:자동차관리법#JO0040",
             "target_repo": "LAW",
-            "target_git_path_guess": "자동차관리법/법률/자동차관리법.json"
+            "target_git_path_guess": "자동차관리법/법률/자동차관리법.json",
+            "target_git_path": "자동차관리법/법률/자동차관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1689,7 +1873,11 @@
             "source_provision_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#JO0033",
             "reference_id": "admrul:환경측정기기의형식승인정도검사등에관한고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "환경측정기기의 형식승인ㆍ정도검사 등에 관한 고시/환경측정기기의 형식승인ㆍ정도검사 등에 관한 고시.json"
+            "target_git_path_guess": "환경측정기기의 형식승인ㆍ정도검사 등에 관한 고시/환경측정기기의 형식승인ㆍ정도검사 등에 관한 고시.json",
+            "target_git_path": "환경측정기기의 형식승인ㆍ정도검사 등에 관한 고시/환경측정기기의 형식승인ㆍ정도검사 등에 관한 고시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -1714,7 +1902,12 @@
             "target_unit": "BYL0007",
             "reference_id": "admrul:환경측정기기의형식승인정도검사등에관한고시#BYL0007",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "환경측정기기의 형식승인ㆍ정도검사 등에 관한 고시/환경측정기기의 형식승인ㆍ정도검사 등에 관한 고시.json"
+            "target_git_path_guess": "환경측정기기의 형식승인ㆍ정도검사 등에 관한 고시/환경측정기기의 형식승인ㆍ정도검사 등에 관한 고시.json",
+            "target_git_path": "환경측정기기의 형식승인ㆍ정도검사 등에 관한 고시/환경측정기기의 형식승인ㆍ정도검사 등에 관한 고시.json",
+            "target_git_file_path": "환경측정기기의 형식승인ㆍ정도검사 등에 관한 고시/별표/별표7_환경측정기기 정도검사 주기.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1734,7 +1927,9 @@
             "source_provision_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#JO0033",
             "reference_id": "law:환경분야시험검사등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "환경분야 시험ㆍ검사 등에 관한 법률/법률/환경분야 시험ㆍ검사 등에 관한 법률.json"
+            "target_git_path_guess": "환경분야 시험ㆍ검사 등에 관한 법률/법률/환경분야 시험ㆍ검사 등에 관한 법률.json",
+            "target_git_path": "환경분야 시험ㆍ검사 등에 관한 법률/법률/환경분야 시험ㆍ검사 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1754,7 +1949,9 @@
             "source_provision_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#JO0033",
             "reference_id": "law:환경분야시험검사등에관한법률#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "환경분야 시험ㆍ검사 등에 관한 법률/법률/환경분야 시험ㆍ검사 등에 관한 법률.json"
+            "target_git_path_guess": "환경분야 시험ㆍ검사 등에 관한 법률/법률/환경분야 시험ㆍ검사 등에 관한 법률.json",
+            "target_git_path": "환경분야 시험ㆍ검사 등에 관한 법률/법률/환경분야 시험ㆍ검사 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1774,7 +1971,9 @@
             "source_provision_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#JO0033",
             "reference_id": "law:계량에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "계량에 관한 법률/법률/계량에 관한 법률.json"
+            "target_git_path_guess": "계량에 관한 법률/법률/계량에 관한 법률.json",
+            "target_git_path": "계량에 관한 법률/법률/계량에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1794,7 +1993,9 @@
             "source_provision_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#JO0033",
             "reference_id": "law:계량에관한법률#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "계량에 관한 법률/법률/계량에 관한 법률.json"
+            "target_git_path_guess": "계량에 관한 법률/법률/계량에 관한 법률.json",
+            "target_git_path": "계량에 관한 법률/법률/계량에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1814,7 +2015,9 @@
             "source_provision_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#JO0033",
             "reference_id": "law:국가표준기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가표준기본법/법률/국가표준기본법.json"
+            "target_git_path_guess": "국가표준기본법/법률/국가표준기본법.json",
+            "target_git_path": "국가표준기본법/법률/국가표준기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1834,7 +2037,9 @@
             "source_provision_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#JO0033",
             "reference_id": "law:국가표준기본법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가표준기본법/법률/국가표준기본법.json"
+            "target_git_path_guess": "국가표준기본법/법률/국가표준기본법.json",
+            "target_git_path": "국가표준기본법/법률/국가표준기본법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1877,7 +2082,11 @@
             "source_provision_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#JO0035",
             "reference_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#JO0034",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json"
+            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json",
+            "target_git_path": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1902,7 +2111,12 @@
             "target_unit": "BYL0004",
             "reference_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#BYL0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json"
+            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json",
+            "target_git_path": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json",
+            "target_git_file_path": "((재)대한건설기계안전관리원) 건설기계검사업무규정/별표/별표4_건설기계 검사기술자 교육기준(제35조제1항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1927,7 +2141,12 @@
             "target_unit": "BYL0005",
             "reference_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#BYL0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json"
+            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json",
+            "target_git_path": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json",
+            "target_git_file_path": "((재)대한건설기계안전관리원) 건설기계검사업무규정/별표/별표5_교육 운영·관리 및 강사기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1964,7 +2183,12 @@
             "target_unit": "BJ0014",
             "reference_id": "SchlPubRul:((재)대한건설기계안전관리원)건설기계검사업무규정#BJ0014",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json"
+            "target_git_path_guess": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json",
+            "target_git_path": "((재)대한건설기계안전관리원) 건설기계검사업무규정/((재)대한건설기계안전관리원) 건설기계검사업무규정.json",
+            "target_git_file_path": "((재)대한건설기계안전관리원) 건설기계검사업무규정/별지/별지14_출장명령부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

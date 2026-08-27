@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:(한국여성과학기술인육성재단)개인정보처리시스템접근권한관리지침#JO0001",
             "reference_id": "law:개인정보보호법#JO0029",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보보호법/법률/개인정보보호법.json"
+            "target_git_path_guess": "개인정보보호법/법률/개인정보보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -85,7 +87,9 @@
             "source_provision_id": "SchlPubRul:(한국여성과학기술인육성재단)개인정보처리시스템접근권한관리지침#JO0001",
             "reference_id": "law:개인정보보호법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보보호법/시행령/개인정보보호법 시행령.json"
+            "target_git_path_guess": "개인정보보호법/시행령/개인정보보호법 시행령.json",
+            "target_git_path": "개인정보 보호법/시행령/개인정보 보호법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -105,7 +109,9 @@
             "source_provision_id": "SchlPubRul:(한국여성과학기술인육성재단)개인정보처리시스템접근권한관리지침#JO0001",
             "reference_id": "law:개인정보보호법시행령#JO0030",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보보호법/시행령/개인정보보호법 시행령.json"
+            "target_git_path_guess": "개인정보보호법/시행령/개인정보보호법 시행령.json",
+            "target_git_path": "개인정보 보호법/시행령/개인정보 보호법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -175,7 +181,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(한국여성과학기술인육성재단)개인정보처리시스템접근권한관리지침#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국여성과학기술인육성재단) 개인정보처리시스템 접근권한 관리지침/(한국여성과학기술인육성재단) 개인정보처리시스템 접근권한 관리지침.json"
+            "target_git_path_guess": "(한국여성과학기술인육성재단) 개인정보처리시스템 접근권한 관리지침/(한국여성과학기술인육성재단) 개인정보처리시스템 접근권한 관리지침.json",
+            "target_git_path": "(한국여성과학기술인육성재단) 개인정보처리시스템 접근권한 관리지침/(한국여성과학기술인육성재단) 개인정보처리시스템 접근권한 관리지침.json",
+            "target_git_file_path": "(한국여성과학기술인육성재단) 개인정보처리시스템 접근권한 관리지침/별지/별지1_사용자 접근권한 생성_변경 신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [

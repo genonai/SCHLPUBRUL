@@ -147,7 +147,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:아산시시설관리공단복리후생규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "아산시시설관리공단 복리후생규정/아산시시설관리공단 복리후생규정.json"
+            "target_git_path_guess": "아산시시설관리공단 복리후생규정/아산시시설관리공단 복리후생규정.json",
+            "target_git_path": "아산시시설관리공단 복리후생규정/아산시시설관리공단 복리후생규정.json",
+            "target_git_file_path": "아산시시설관리공단 복리후생규정/별표/별표1_[별표] 복리후생규정 9차개정(2023.1.25.).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -167,7 +172,11 @@
             "source_provision_id": "SchlPubRul:아산시시설관리공단복리후생규정#JO0008",
             "reference_id": "SchlPubRul:아산시시설관리공단복리후생규정#JO0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "아산시시설관리공단 복리후생규정/아산시시설관리공단 복리후생규정.json"
+            "target_git_path_guess": "아산시시설관리공단 복리후생규정/아산시시설관리공단 복리후생규정.json",
+            "target_git_path": "아산시시설관리공단 복리후생규정/아산시시설관리공단 복리후생규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -232,7 +241,9 @@
             "source_provision_id": "SchlPubRul:아산시시설관리공단복리후생규정#JO0012",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -252,7 +263,9 @@
             "source_provision_id": "SchlPubRul:아산시시설관리공단복리후생규정#JO0012",
             "reference_id": "law:산업재해보상보험법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업재해보상보험법/법률/산업재해보상보험법.json"
+            "target_git_path_guess": "산업재해보상보험법/법률/산업재해보상보험법.json",
+            "target_git_path": "산업재해보상보험법/법률/산업재해보상보험법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

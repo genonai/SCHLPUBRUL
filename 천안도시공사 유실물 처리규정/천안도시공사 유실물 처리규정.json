@@ -98,7 +98,9 @@
             "source_provision_id": "SchlPubRul:천안도시공사유실물처리규정#JO0004",
             "reference_id": "law:유실물법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "유실물법/법률/유실물법.json"
+            "target_git_path_guess": "유실물법/법률/유실물법.json",
+            "target_git_path": "유실물법/법률/유실물법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -118,7 +120,9 @@
             "source_provision_id": "SchlPubRul:천안도시공사유실물처리규정#JO0004",
             "reference_id": "law:민법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -183,7 +187,11 @@
             "source_provision_id": "SchlPubRul:천안도시공사유실물처리규정#JO0008",
             "reference_id": "SchlPubRul:천안도시공사유실물처리규정#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "천안도시공사 유실물 처리규정/천안도시공사 유실물 처리규정.json"
+            "target_git_path_guess": "천안도시공사 유실물 처리규정/천안도시공사 유실물 처리규정.json",
+            "target_git_path": "천안도시공사 유실물 처리규정/천안도시공사 유실물 처리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],

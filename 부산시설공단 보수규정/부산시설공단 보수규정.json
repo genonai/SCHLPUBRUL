@@ -76,7 +76,9 @@
             "source_provision_id": "SchlPubRul:부산시설공단보수규정#JO0002",
             "reference_id": "law:지방공기업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -113,7 +115,12 @@
             "target_unit": "BYL0008",
             "reference_id": "SchlPubRul:부산시설공단보수규정#BYL0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산시설공단 보수규정/부산시설공단 보수규정.json"
+            "target_git_path_guess": "부산시설공단 보수규정/부산시설공단 보수규정.json",
+            "target_git_path": "부산시설공단 보수규정/부산시설공단 보수규정.json",
+            "target_git_file_path": "부산시설공단 보수규정/별표/별표8_퇴직 급여 지급율표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -138,7 +145,12 @@
             "target_unit": "BYL0013",
             "reference_id": "SchlPubRul:부산시설공단보수규정#BYL0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산시설공단 보수규정/부산시설공단 보수규정.json"
+            "target_git_path_guess": "부산시설공단 보수규정/부산시설공단 보수규정.json",
+            "target_git_path": "부산시설공단 보수규정/부산시설공단 보수규정.json",
+            "target_git_file_path": "부산시설공단 보수규정/별표/별표13_수당계산에 따른 직급별 기준호봉.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -190,9 +202,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/부산시설공단 취업규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:부산시설공단보수규정#JO0006",
-            "reference_id": "SchlPubRul:부산시설공단취업규정#DOC",
+            "reference_id": "SchlPubRul:부산시설공단취업규정:public_2124783#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산시설공단 취업규정/부산시설공단 취업규정.json"
+            "target_git_path_guess": "부산시설공단 취업규정/부산시설공단 취업규정.json",
+            "target_candidates": 2,
+            "target_git_path": "부산시설공단 취업규정/public_2124783/부산시설공단 취업규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -212,7 +229,11 @@
             "source_provision_id": "SchlPubRul:부산시설공단보수규정#JO0006",
             "reference_id": "SchlPubRul:부산시설공단인사규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산시설공단 인사규정/부산시설공단 인사규정.json"
+            "target_git_path_guess": "부산시설공단 인사규정/부산시설공단 인사규정.json",
+            "target_git_path": "부산시설공단 인사규정/부산시설공단 인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -232,7 +253,11 @@
             "source_provision_id": "SchlPubRul:부산시설공단보수규정#JO0006",
             "reference_id": "SchlPubRul:부산시설공단인사규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산시설공단 인사규정/부산시설공단 인사규정.json"
+            "target_git_path_guess": "부산시설공단 인사규정/부산시설공단 인사규정.json",
+            "target_git_path": "부산시설공단 인사규정/부산시설공단 인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -257,7 +282,12 @@
             "target_unit": "BYL0006",
             "reference_id": "SchlPubRul:부산시설공단보수규정#BYL0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산시설공단 보수규정/부산시설공단 보수규정.json"
+            "target_git_path_guess": "부산시설공단 보수규정/부산시설공단 보수규정.json",
+            "target_git_path": "부산시설공단 보수규정/부산시설공단 보수규정.json",
+            "target_git_file_path": "부산시설공단 보수규정/별표/별표6_장기근속수당, 운영수당, 가족수당, 대우수당, 자녀학비보조수당 감액지급 구분표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -327,7 +357,12 @@
             "target_unit": "BYL0006",
             "reference_id": "SchlPubRul:부산시설공단보수규정#BYL0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산시설공단 보수규정/부산시설공단 보수규정.json"
+            "target_git_path_guess": "부산시설공단 보수규정/부산시설공단 보수규정.json",
+            "target_git_path": "부산시설공단 보수규정/부산시설공단 보수규정.json",
+            "target_git_file_path": "부산시설공단 보수규정/별표/별표6_장기근속수당, 운영수당, 가족수당, 대우수당, 자녀학비보조수당 감액지급 구분표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -392,7 +427,11 @@
             "source_provision_id": "SchlPubRul:부산시설공단보수규정#JO0013_02",
             "reference_id": "SchlPubRul:부산시설공단인사규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산시설공단 인사규정/부산시설공단 인사규정.json"
+            "target_git_path_guess": "부산시설공단 인사규정/부산시설공단 인사규정.json",
+            "target_git_path": "부산시설공단 인사규정/부산시설공단 인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -412,7 +451,11 @@
             "source_provision_id": "SchlPubRul:부산시설공단보수규정#JO0013_02",
             "reference_id": "SchlPubRul:부산시설공단인사규정#JO0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산시설공단 인사규정/부산시설공단 인사규정.json"
+            "target_git_path_guess": "부산시설공단 인사규정/부산시설공단 인사규정.json",
+            "target_git_path": "부산시설공단 인사규정/부산시설공단 인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -432,7 +475,11 @@
             "source_provision_id": "SchlPubRul:부산시설공단보수규정#JO0013_02",
             "reference_id": "SchlPubRul:부산시설공단인사규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산시설공단 인사규정/부산시설공단 인사규정.json"
+            "target_git_path_guess": "부산시설공단 인사규정/부산시설공단 인사규정.json",
+            "target_git_path": "부산시설공단 인사규정/부산시설공단 인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -452,7 +499,11 @@
             "source_provision_id": "SchlPubRul:부산시설공단보수규정#JO0013_02",
             "reference_id": "SchlPubRul:부산시설공단인사규정#JO0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산시설공단 인사규정/부산시설공단 인사규정.json"
+            "target_git_path_guess": "부산시설공단 인사규정/부산시설공단 인사규정.json",
+            "target_git_path": "부산시설공단 인사규정/부산시설공단 인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -484,7 +535,11 @@
             "source_provision_id": "SchlPubRul:부산시설공단보수규정#JO0014",
             "reference_id": "SchlPubRul:부산시설공단연봉제시행규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산시설공단 연봉제시행규정/부산시설공단 연봉제시행규정.json"
+            "target_git_path_guess": "부산시설공단 연봉제시행규정/부산시설공단 연봉제시행규정.json",
+            "target_git_path": "부산시설공단 연봉제시행규정/부산시설공단 연봉제시행규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -509,7 +564,12 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:부산시설공단연봉제시행규정#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산시설공단 연봉제시행규정/부산시설공단 연봉제시행규정.json"
+            "target_git_path_guess": "부산시설공단 연봉제시행규정/부산시설공단 연봉제시행규정.json",
+            "target_git_path": "부산시설공단 연봉제시행규정/부산시설공단 연봉제시행규정.json",
+            "target_git_file_path": "부산시설공단 연봉제시행규정/별표/별표3_삭제.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -534,7 +594,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:부산시설공단보수규정#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산시설공단 보수규정/부산시설공단 보수규정.json"
+            "target_git_path_guess": "부산시설공단 보수규정/부산시설공단 보수규정.json",
+            "target_git_path": "부산시설공단 보수규정/부산시설공단 보수규정.json",
+            "target_git_file_path": "부산시설공단 보수규정/별표/별표2_일반직 기본급.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -559,7 +624,12 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:부산시설공단보수규정#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산시설공단 보수규정/부산시설공단 보수규정.json"
+            "target_git_path_guess": "부산시설공단 보수규정/부산시설공단 보수규정.json",
+            "target_git_path": "부산시설공단 보수규정/부산시설공단 보수규정.json",
+            "target_git_file_path": "부산시설공단 보수규정/별표/별표3_업무직 기본급.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -607,7 +677,12 @@
             "target_unit": "BYL0004",
             "reference_id": "SchlPubRul:부산시설공단보수규정#BYL0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산시설공단 보수규정/부산시설공단 보수규정.json"
+            "target_git_path_guess": "부산시설공단 보수규정/부산시설공단 보수규정.json",
+            "target_git_path": "부산시설공단 보수규정/부산시설공단 보수규정.json",
+            "target_git_file_path": "부산시설공단 보수규정/별표/별표4_경력환산표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -644,7 +719,12 @@
             "target_unit": "BYL0004",
             "reference_id": "SchlPubRul:부산시설공단보수규정#BYL0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산시설공단 보수규정/부산시설공단 보수규정.json"
+            "target_git_path_guess": "부산시설공단 보수규정/부산시설공단 보수규정.json",
+            "target_git_path": "부산시설공단 보수규정/부산시설공단 보수규정.json",
+            "target_git_file_path": "부산시설공단 보수규정/별표/별표4_경력환산표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -676,7 +756,11 @@
             "source_provision_id": "SchlPubRul:부산시설공단보수규정#JO0017",
             "reference_id": "SchlPubRul:부산시설공단인사규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산시설공단 인사규정/부산시설공단 인사규정.json"
+            "target_git_path_guess": "부산시설공단 인사규정/부산시설공단 인사규정.json",
+            "target_git_path": "부산시설공단 인사규정/부산시설공단 인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -719,7 +803,11 @@
             "source_provision_id": "SchlPubRul:부산시설공단보수규정#JO0019",
             "reference_id": "SchlPubRul:부산시설공단보수규정#JO0017",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산시설공단 보수규정/부산시설공단 보수규정.json"
+            "target_git_path_guess": "부산시설공단 보수규정/부산시설공단 보수규정.json",
+            "target_git_path": "부산시설공단 보수규정/부산시설공단 보수규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -789,7 +877,12 @@
             "target_unit": "BYL0007",
             "reference_id": "SchlPubRul:부산시설공단보수규정#BYL0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산시설공단 보수규정/부산시설공단 보수규정.json"
+            "target_git_path_guess": "부산시설공단 보수규정/부산시설공단 보수규정.json",
+            "target_git_path": "부산시설공단 보수규정/부산시설공단 보수규정.json",
+            "target_git_file_path": "부산시설공단 보수규정/별표/별표7_장기 근속 수당 지급 구분표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -814,7 +907,12 @@
             "target_unit": "BYL0004",
             "reference_id": "SchlPubRul:부산시설공단보수규정#BYL0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산시설공단 보수규정/부산시설공단 보수규정.json"
+            "target_git_path_guess": "부산시설공단 보수규정/부산시설공단 보수규정.json",
+            "target_git_path": "부산시설공단 보수규정/부산시설공단 보수규정.json",
+            "target_git_file_path": "부산시설공단 보수규정/별표/별표4_경력환산표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -846,7 +944,11 @@
             "source_provision_id": "SchlPubRul:부산시설공단보수규정#JO0023_02",
             "reference_id": "SchlPubRul:부산시설공단인사규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산시설공단 인사규정/부산시설공단 인사규정.json"
+            "target_git_path_guess": "부산시설공단 인사규정/부산시설공단 인사규정.json",
+            "target_git_path": "부산시설공단 인사규정/부산시설공단 인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -866,7 +968,11 @@
             "source_provision_id": "SchlPubRul:부산시설공단보수규정#JO0023_02",
             "reference_id": "SchlPubRul:부산시설공단인사규정#JO0026_02",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산시설공단 인사규정/부산시설공단 인사규정.json"
+            "target_git_path_guess": "부산시설공단 인사규정/부산시설공단 인사규정.json",
+            "target_git_path": "부산시설공단 인사규정/부산시설공단 인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -914,7 +1020,12 @@
             "target_unit": "BYL0008",
             "reference_id": "SchlPubRul:부산시설공단보수규정#BYL0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산시설공단 보수규정/부산시설공단 보수규정.json"
+            "target_git_path_guess": "부산시설공단 보수규정/부산시설공단 보수규정.json",
+            "target_git_path": "부산시설공단 보수규정/부산시설공단 보수규정.json",
+            "target_git_file_path": "부산시설공단 보수규정/별표/별표8_퇴직 급여 지급율표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -951,7 +1062,12 @@
             "target_unit": "BYL0008",
             "reference_id": "SchlPubRul:부산시설공단보수규정#BYL0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산시설공단 보수규정/부산시설공단 보수규정.json"
+            "target_git_path_guess": "부산시설공단 보수규정/부산시설공단 보수규정.json",
+            "target_git_path": "부산시설공단 보수규정/부산시설공단 보수규정.json",
+            "target_git_file_path": "부산시설공단 보수규정/별표/별표8_퇴직 급여 지급율표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -988,7 +1104,12 @@
             "target_unit": "BYL0008",
             "reference_id": "SchlPubRul:부산시설공단보수규정#BYL0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산시설공단 보수규정/부산시설공단 보수규정.json"
+            "target_git_path_guess": "부산시설공단 보수규정/부산시설공단 보수규정.json",
+            "target_git_path": "부산시설공단 보수규정/부산시설공단 보수규정.json",
+            "target_git_file_path": "부산시설공단 보수규정/별표/별표8_퇴직 급여 지급율표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1036,7 +1157,12 @@
             "target_unit": "BYL0008",
             "reference_id": "SchlPubRul:부산시설공단보수규정#BYL0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산시설공단 보수규정/부산시설공단 보수규정.json"
+            "target_git_path_guess": "부산시설공단 보수규정/부산시설공단 보수규정.json",
+            "target_git_path": "부산시설공단 보수규정/부산시설공단 보수규정.json",
+            "target_git_file_path": "부산시설공단 보수규정/별표/별표8_퇴직 급여 지급율표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1073,7 +1199,12 @@
             "target_unit": "BYL0008",
             "reference_id": "SchlPubRul:부산시설공단보수규정#BYL0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산시설공단 보수규정/부산시설공단 보수규정.json"
+            "target_git_path_guess": "부산시설공단 보수규정/부산시설공단 보수규정.json",
+            "target_git_path": "부산시설공단 보수규정/부산시설공단 보수규정.json",
+            "target_git_file_path": "부산시설공단 보수규정/별표/별표8_퇴직 급여 지급율표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1110,7 +1241,12 @@
             "target_unit": "BYL0008",
             "reference_id": "SchlPubRul:부산시설공단보수규정#BYL0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산시설공단 보수규정/부산시설공단 보수규정.json"
+            "target_git_path_guess": "부산시설공단 보수규정/부산시설공단 보수규정.json",
+            "target_git_path": "부산시설공단 보수규정/부산시설공단 보수규정.json",
+            "target_git_file_path": "부산시설공단 보수규정/별표/별표8_퇴직 급여 지급율표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1147,7 +1283,12 @@
             "target_unit": "BYL0008",
             "reference_id": "SchlPubRul:부산시설공단보수규정#BYL0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산시설공단 보수규정/부산시설공단 보수규정.json"
+            "target_git_path_guess": "부산시설공단 보수규정/부산시설공단 보수규정.json",
+            "target_git_path": "부산시설공단 보수규정/부산시설공단 보수규정.json",
+            "target_git_file_path": "부산시설공단 보수규정/별표/별표8_퇴직 급여 지급율표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1184,7 +1325,12 @@
             "target_unit": "BYL0008",
             "reference_id": "SchlPubRul:부산시설공단보수규정#BYL0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산시설공단 보수규정/부산시설공단 보수규정.json"
+            "target_git_path_guess": "부산시설공단 보수규정/부산시설공단 보수규정.json",
+            "target_git_path": "부산시설공단 보수규정/부산시설공단 보수규정.json",
+            "target_git_file_path": "부산시설공단 보수규정/별표/별표8_퇴직 급여 지급율표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1262,7 +1408,12 @@
             "target_unit": "BYL0015",
             "reference_id": "SchlPubRul:부산시설공단보수규정#BYL0015",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산시설공단 보수규정/부산시설공단 보수규정.json"
+            "target_git_path_guess": "부산시설공단 보수규정/부산시설공단 보수규정.json",
+            "target_git_path": "부산시설공단 보수규정/부산시설공단 보수규정.json",
+            "target_git_file_path": "부산시설공단 보수규정/별표/별표15_강사수당.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1299,7 +1450,12 @@
             "target_unit": "BYL0009",
             "reference_id": "SchlPubRul:부산시설공단보수규정#BYL0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산시설공단 보수규정/부산시설공단 보수규정.json"
+            "target_git_path_guess": "부산시설공단 보수규정/부산시설공단 보수규정.json",
+            "target_git_path": "부산시설공단 보수규정/부산시설공단 보수규정.json",
+            "target_git_file_path": "부산시설공단 보수규정/별표/별표9_퇴직 급여 지급율표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -1317,9 +1473,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/부산시설공단 취업규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:부산시설공단보수규정#JO0032",
-            "reference_id": "SchlPubRul:부산시설공단취업규정#DOC",
+            "reference_id": "SchlPubRul:부산시설공단취업규정:public_2124783#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산시설공단 취업규정/부산시설공단 취업규정.json"
+            "target_git_path_guess": "부산시설공단 취업규정/부산시설공단 취업규정.json",
+            "target_candidates": 2,
+            "target_git_path": "부산시설공단 취업규정/public_2124783/부산시설공단 취업규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -1337,9 +1498,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/부산시설공단 취업규정/제33조의2",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:부산시설공단보수규정#JO0032",
-            "reference_id": "SchlPubRul:부산시설공단취업규정#JO0033_02",
+            "reference_id": "SchlPubRul:부산시설공단취업규정:public_2124783#JO0033_02",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산시설공단 취업규정/부산시설공단 취업규정.json"
+            "target_git_path_guess": "부산시설공단 취업규정/부산시설공단 취업규정.json",
+            "target_candidates": 2,
+            "target_git_path": "부산시설공단 취업규정/public_2124783/부산시설공단 취업규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1376,7 +1542,12 @@
             "target_unit": "BYL0010",
             "reference_id": "SchlPubRul:부산시설공단보수규정#BYL0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산시설공단 보수규정/부산시설공단 보수규정.json"
+            "target_git_path_guess": "부산시설공단 보수규정/부산시설공단 보수규정.json",
+            "target_git_path": "부산시설공단 보수규정/부산시설공단 보수규정.json",
+            "target_git_file_path": "부산시설공단 보수규정/별표/별표10_명예퇴직 수당 지급 기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -1396,7 +1567,11 @@
             "source_provision_id": "SchlPubRul:부산시설공단보수규정#JO0032_02",
             "reference_id": "SchlPubRul:부산시설공단인사규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산시설공단 인사규정/부산시설공단 인사규정.json"
+            "target_git_path_guess": "부산시설공단 인사규정/부산시설공단 인사규정.json",
+            "target_git_path": "부산시설공단 인사규정/부산시설공단 인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -1416,7 +1591,11 @@
             "source_provision_id": "SchlPubRul:부산시설공단보수규정#JO0032_02",
             "reference_id": "SchlPubRul:부산시설공단인사규정#JO0030_02",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산시설공단 인사규정/부산시설공단 인사규정.json"
+            "target_git_path_guess": "부산시설공단 인사규정/부산시설공단 인사규정.json",
+            "target_git_path": "부산시설공단 인사규정/부산시설공단 인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -1436,7 +1615,11 @@
             "source_provision_id": "SchlPubRul:부산시설공단보수규정#JO0032_02",
             "reference_id": "SchlPubRul:부산시설공단인사규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산시설공단 인사규정/부산시설공단 인사규정.json"
+            "target_git_path_guess": "부산시설공단 인사규정/부산시설공단 인사규정.json",
+            "target_git_path": "부산시설공단 인사규정/부산시설공단 인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -1456,7 +1639,11 @@
             "source_provision_id": "SchlPubRul:부산시설공단보수규정#JO0032_02",
             "reference_id": "SchlPubRul:부산시설공단인사규정#JO0030_02",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산시설공단 인사규정/부산시설공단 인사규정.json"
+            "target_git_path_guess": "부산시설공단 인사규정/부산시설공단 인사규정.json",
+            "target_git_path": "부산시설공단 인사규정/부산시설공단 인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],

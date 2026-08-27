@@ -65,7 +65,11 @@
             "source_provision_id": "SchlPubRul:대전광역시시설관리공단임직원직무관련범죄고발내규#JO0001",
             "reference_id": "admrul:공무원의직무관련범죄고발지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공무원의 직무관련 범죄 고발지침/공무원의 직무관련 범죄 고발지침.json"
+            "target_git_path_guess": "공무원의 직무관련 범죄 고발지침/공무원의 직무관련 범죄 고발지침.json",
+            "target_git_path": "공무원의 직무관련범죄 고발지침/공무원의 직무관련범죄 고발지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -108,7 +112,9 @@
             "source_provision_id": "SchlPubRul:대전광역시시설관리공단임직원직무관련범죄고발내규#JO0003",
             "reference_id": "law:형법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -128,7 +134,9 @@
             "source_provision_id": "SchlPubRul:대전광역시시설관리공단임직원직무관련범죄고발내규#JO0003",
             "reference_id": "law:특정범죄가중처벌등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "특정범죄 가중처벌 등에 관한 법률/법률/특정범죄 가중처벌 등에 관한 법률.json"
+            "target_git_path_guess": "특정범죄 가중처벌 등에 관한 법률/법률/특정범죄 가중처벌 등에 관한 법률.json",
+            "target_git_path": "특정범죄 가중처벌 등에 관한 법률/법률/특정범죄 가중처벌 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -148,7 +156,9 @@
             "source_provision_id": "SchlPubRul:대전광역시시설관리공단임직원직무관련범죄고발내규#JO0003",
             "reference_id": "law:공직자윤리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공직자윤리법/법률/공직자윤리법.json"
+            "target_git_path_guess": "공직자윤리법/법률/공직자윤리법.json",
+            "target_git_path": "공직자윤리법/법률/공직자윤리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -246,7 +256,11 @@
             "source_provision_id": "SchlPubRul:대전광역시시설관리공단임직원직무관련범죄고발내규#JO0010",
             "reference_id": "SchlPubRul:대전광역시시설관리공단임직원직무관련범죄고발내규#JO0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "대전광역시시설관리공단 임직원 직무 관련 범죄 고발 내규/대전광역시시설관리공단 임직원 직무 관련 범죄 고발 내규.json"
+            "target_git_path_guess": "대전광역시시설관리공단 임직원 직무 관련 범죄 고발 내규/대전광역시시설관리공단 임직원 직무 관련 범죄 고발 내규.json",
+            "target_git_path": "대전광역시시설관리공단 임직원 직무 관련 범죄 고발 내규/대전광역시시설관리공단 임직원 직무 관련 범죄 고발 내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -283,7 +297,12 @@
             "target_unit": "FORM0001",
             "reference_id": "SchlPubRul:대전광역시시설관리공단임직원직무관련범죄고발내규#FORM0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "대전광역시시설관리공단 임직원 직무 관련 범죄 고발 내규/대전광역시시설관리공단 임직원 직무 관련 범죄 고발 내규.json"
+            "target_git_path_guess": "대전광역시시설관리공단 임직원 직무 관련 범죄 고발 내규/대전광역시시설관리공단 임직원 직무 관련 범죄 고발 내규.json",
+            "target_git_path": "대전광역시시설관리공단 임직원 직무 관련 범죄 고발 내규/대전광역시시설관리공단 임직원 직무 관련 범죄 고발 내규.json",
+            "target_git_file_path": "대전광역시시설관리공단 임직원 직무 관련 범죄 고발 내규/서식/서식1_고 발 장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -320,7 +339,12 @@
             "target_unit": "FORM0002",
             "reference_id": "SchlPubRul:대전광역시시설관리공단임직원직무관련범죄고발내규#FORM0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "대전광역시시설관리공단 임직원 직무 관련 범죄 고발 내규/대전광역시시설관리공단 임직원 직무 관련 범죄 고발 내규.json"
+            "target_git_path_guess": "대전광역시시설관리공단 임직원 직무 관련 범죄 고발 내규/대전광역시시설관리공단 임직원 직무 관련 범죄 고발 내규.json",
+            "target_git_path": "대전광역시시설관리공단 임직원 직무 관련 범죄 고발 내규/대전광역시시설관리공단 임직원 직무 관련 범죄 고발 내규.json",
+            "target_git_file_path": "대전광역시시설관리공단 임직원 직무 관련 범죄 고발 내규/서식/서식2_임직원 직무관련범죄 고발처리상황부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],

@@ -87,7 +87,9 @@
             "source_provision_id": "SchlPubRul:대구교통공사철도사고장애,철도차량고장등의보고및조사처리에관한규정#JO0003",
             "reference_id": "law:감염병의예방및관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json"
+            "target_git_path_guess": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json",
+            "target_git_path": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +109,9 @@
             "source_provision_id": "SchlPubRul:대구교통공사철도사고장애,철도차량고장등의보고및조사처리에관한규정#JO0003",
             "reference_id": "law:미세먼지저감및관리에관한특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "미세먼지 저감 및 관리에 관한 특별법/법률/미세먼지 저감 및 관리에 관한 특별법.json"
+            "target_git_path_guess": "미세먼지 저감 및 관리에 관한 특별법/법률/미세먼지 저감 및 관리에 관한 특별법.json",
+            "target_git_path": "미세먼지 저감 및 관리에 관한 특별법/법률/미세먼지 저감 및 관리에 관한 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -127,7 +131,11 @@
             "source_provision_id": "SchlPubRul:대구교통공사철도사고장애,철도차량고장등의보고및조사처리에관한규정#JO0003",
             "reference_id": "admrul:철도사고장애,철도차량고장등에따른의무보고및철도안전자율보고에관한지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "철도사고·장애, 철도차량고장 등에 따른 의무보고 및 철도안전 자율보고에 관한 지침/철도사고·장애, 철도차량고장 등에 따른 의무보고 및 철도안전 자율보고에 관한 지침.json"
+            "target_git_path_guess": "철도사고·장애, 철도차량고장 등에 따른 의무보고 및 철도안전 자율보고에 관한 지침/철도사고·장애, 철도차량고장 등에 따른 의무보고 및 철도안전 자율보고에 관한 지침.json",
+            "target_git_path": "철도사고·장애, 철도차량고장 등에 따른 의무보고 및 철도안전 자율보고에 관한 지침/철도사고·장애, 철도차량고장 등에 따른 의무보고 및 철도안전 자율보고에 관한 지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -258,7 +266,9 @@
             "source_provision_id": "SchlPubRul:대구교통공사철도사고장애,철도차량고장등의보고및조사처리에관한규정#JO0013",
             "reference_id": "law:재난및안전관리기본법#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json"
+            "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+            "target_git_path": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -278,7 +288,9 @@
             "source_provision_id": "SchlPubRul:대구교통공사철도사고장애,철도차량고장등의보고및조사처리에관한규정#JO0013",
             "reference_id": "law:재난및안전관리기본법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "재난 및 안전관리 기본법/시행규칙/재난 및 안전관리 기본법 시행규칙.json"
+            "target_git_path_guess": "재난 및 안전관리 기본법/시행규칙/재난 및 안전관리 기본법 시행규칙.json",
+            "target_git_path": "재난 및 안전관리 기본법/시행규칙/재난 및 안전관리 기본법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -301,9 +313,12 @@
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:대구교통공사철도사고장애,철도차량고장등의보고및조사처리에관한규정#JO0013",
             "target_unit": "BJ0001",
-            "reference_id": "law:재난및안전관리기본법시행규칙#BJ0001",
+            "reference_id": "law:재난및안전관리기본법시행규칙#FORM0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "재난 및 안전관리 기본법/시행규칙/재난 및 안전관리 기본법 시행규칙.json"
+            "target_git_path_guess": "재난 및 안전관리 기본법/시행규칙/재난 및 안전관리 기본법 시행규칙.json",
+            "target_git_path": "재난 및 안전관리 기본법/시행규칙/재난 및 안전관리 기본법 시행규칙.json",
+            "target_git_file_path": "재난 및 안전관리 기본법/시행규칙/서식/서식1_재난상황 보고서.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

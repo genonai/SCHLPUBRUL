@@ -65,7 +65,12 @@
             "source_provision_id": "SchlPubRul:안전보건경영위원회운영지침#JO0001",
             "reference_id": "SchlPubRul:안전보건관리규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "안전보건관리 규정/안전보건관리 규정.json"
+            "target_git_path_guess": "안전보건관리 규정/안전보건관리 규정.json",
+            "target_candidates": 2,
+            "target_git_path": "안전보건관리규정/안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -85,7 +90,12 @@
             "source_provision_id": "SchlPubRul:안전보건경영위원회운영지침#JO0001",
             "reference_id": "SchlPubRul:안전보건관리규정#JO0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "안전보건관리 규정/안전보건관리 규정.json"
+            "target_git_path_guess": "안전보건관리 규정/안전보건관리 규정.json",
+            "target_candidates": 2,
+            "target_git_path": "안전보건관리규정/안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -161,7 +171,9 @@
             "source_provision_id": "SchlPubRul:안전보건경영위원회운영지침#JO0006",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -242,7 +254,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:안전보건경영위원회운영지침#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "안전보건경영위원회 운영지침/안전보건경영위원회 운영지침.json"
+            "target_git_path_guess": "안전보건경영위원회 운영지침/안전보건경영위원회 운영지침.json",
+            "target_git_path": "안전보건경영위원회 운영지침/안전보건경영위원회 운영지침.json",
+            "target_git_file_path": "안전보건경영위원회 운영지침/별지/별지1_안건 제출서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -323,7 +340,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:안전보건경영위원회운영지침#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "안전보건경영위원회 운영지침/안전보건경영위원회 운영지침.json"
+            "target_git_path_guess": "안전보건경영위원회 운영지침/안전보건경영위원회 운영지침.json",
+            "target_git_path": "안전보건경영위원회 운영지침/안전보건경영위원회 운영지침.json",
+            "target_git_file_path": "안전보건경영위원회 운영지침/별지/별지2_제 회 안전보건경영위원회 회의록.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],

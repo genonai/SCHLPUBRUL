@@ -87,7 +87,11 @@
             "source_provision_id": "SchlPubRul:원주시시설관리공단공영버스운영규정#JO0003",
             "reference_id": "SchlPubRul:원주시시설관리공단직제규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "원주시시설관리공단 직제규정/원주시시설관리공단 직제규정.json"
+            "target_git_path_guess": "원주시시설관리공단 직제규정/원주시시설관리공단 직제규정.json",
+            "target_git_path": "원주시시설관리공단 직제규정/원주시시설관리공단 직제규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -119,7 +123,9 @@
             "source_provision_id": "SchlPubRul:원주시시설관리공단공영버스운영규정#JO0004",
             "reference_id": "law:여객자동차운수사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "여객자동차 운수사업법/법률/여객자동차 운수사업법.json"
+            "target_git_path_guess": "여객자동차 운수사업법/법률/여객자동차 운수사업법.json",
+            "target_git_path": "여객자동차 운수사업법/법률/여객자동차 운수사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -139,7 +145,9 @@
             "source_provision_id": "SchlPubRul:원주시시설관리공단공영버스운영규정#JO0004",
             "reference_id": "law:여객자동차운수사업법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "여객자동차 운수사업법/법률/여객자동차 운수사업법.json"
+            "target_git_path_guess": "여객자동차 운수사업법/법률/여객자동차 운수사업법.json",
+            "target_git_path": "여객자동차 운수사업법/법률/여객자동차 운수사업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -187,7 +195,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:원주시시설관리공단공영버스운영규정#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "원주시시설관리공단 공영버스 운영 규정/원주시시설관리공단 공영버스 운영 규정.json"
+            "target_git_path_guess": "원주시시설관리공단 공영버스 운영 규정/원주시시설관리공단 공영버스 운영 규정.json",
+            "target_git_path": "원주시시설관리공단 공영버스 운영 규정/원주시시설관리공단 공영버스 운영 규정.json",
+            "target_git_file_path": "원주시시설관리공단 공영버스 운영 규정/별지/별지1_차량이력카드.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -212,7 +225,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:원주시시설관리공단공영버스운영규정#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "원주시시설관리공단 공영버스 운영 규정/원주시시설관리공단 공영버스 운영 규정.json"
+            "target_git_path_guess": "원주시시설관리공단 공영버스 운영 규정/원주시시설관리공단 공영버스 운영 규정.json",
+            "target_git_path": "원주시시설관리공단 공영버스 운영 규정/원주시시설관리공단 공영버스 운영 규정.json",
+            "target_git_file_path": "원주시시설관리공단 공영버스 운영 규정/별지/별지2_차량정비대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -237,7 +255,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:원주시시설관리공단공영버스운영규정#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "원주시시설관리공단 공영버스 운영 규정/원주시시설관리공단 공영버스 운영 규정.json"
+            "target_git_path_guess": "원주시시설관리공단 공영버스 운영 규정/원주시시설관리공단 공영버스 운영 규정.json",
+            "target_git_path": "원주시시설관리공단 공영버스 운영 규정/원주시시설관리공단 공영버스 운영 규정.json",
+            "target_git_file_path": "원주시시설관리공단 공영버스 운영 규정/별지/별지3_업무용차량 운행일지 및 일일점검표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -262,7 +285,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:원주시시설관리공단공영버스운영규정#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "원주시시설관리공단 공영버스 운영 규정/원주시시설관리공단 공영버스 운영 규정.json"
+            "target_git_path_guess": "원주시시설관리공단 공영버스 운영 규정/원주시시설관리공단 공영버스 운영 규정.json",
+            "target_git_path": "원주시시설관리공단 공영버스 운영 규정/원주시시설관리공단 공영버스 운영 규정.json",
+            "target_git_file_path": "원주시시설관리공단 공영버스 운영 규정/별지/별지4_업무용차량 유류지급대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -287,7 +315,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:원주시시설관리공단공영버스운영규정#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "원주시시설관리공단 공영버스 운영 규정/원주시시설관리공단 공영버스 운영 규정.json"
+            "target_git_path_guess": "원주시시설관리공단 공영버스 운영 규정/원주시시설관리공단 공영버스 운영 규정.json",
+            "target_git_path": "원주시시설관리공단 공영버스 운영 규정/원주시시설관리공단 공영버스 운영 규정.json",
+            "target_git_file_path": "원주시시설관리공단 공영버스 운영 규정/별지/별지5_차량별 사고이력카드.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -324,7 +357,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:원주시시설관리공단공영버스운영규정#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "원주시시설관리공단 공영버스 운영 규정/원주시시설관리공단 공영버스 운영 규정.json"
+            "target_git_path_guess": "원주시시설관리공단 공영버스 운영 규정/원주시시설관리공단 공영버스 운영 규정.json",
+            "target_git_path": "원주시시설관리공단 공영버스 운영 규정/원주시시설관리공단 공영버스 운영 규정.json",
+            "target_git_file_path": "원주시시설관리공단 공영버스 운영 규정/별지/별지2_차량정비대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -349,7 +387,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:원주시시설관리공단공영버스운영규정#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "원주시시설관리공단 공영버스 운영 규정/원주시시설관리공단 공영버스 운영 규정.json"
+            "target_git_path_guess": "원주시시설관리공단 공영버스 운영 규정/원주시시설관리공단 공영버스 운영 규정.json",
+            "target_git_path": "원주시시설관리공단 공영버스 운영 규정/원주시시설관리공단 공영버스 운영 규정.json",
+            "target_git_file_path": "원주시시설관리공단 공영버스 운영 규정/별지/별지3_업무용차량 운행일지 및 일일점검표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -386,7 +429,12 @@
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:원주시시설관리공단공영버스운영규정#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "원주시시설관리공단 공영버스 운영 규정/원주시시설관리공단 공영버스 운영 규정.json"
+            "target_git_path_guess": "원주시시설관리공단 공영버스 운영 규정/원주시시설관리공단 공영버스 운영 규정.json",
+            "target_git_path": "원주시시설관리공단 공영버스 운영 규정/원주시시설관리공단 공영버스 운영 규정.json",
+            "target_git_file_path": "원주시시설관리공단 공영버스 운영 규정/별지/별지6_사고경위서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -440,7 +488,11 @@
             "source_provision_id": "SchlPubRul:원주시시설관리공단공영버스운영규정#JO0011",
             "reference_id": "SchlPubRul:원주시시설관리공단공영버스운영규정#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "원주시시설관리공단 공영버스 운영 규정/원주시시설관리공단 공영버스 운영 규정.json"
+            "target_git_path_guess": "원주시시설관리공단 공영버스 운영 규정/원주시시설관리공단 공영버스 운영 규정.json",
+            "target_git_path": "원주시시설관리공단 공영버스 운영 규정/원주시시설관리공단 공영버스 운영 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -465,7 +517,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:원주시시설관리공단공영버스운영규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "원주시시설관리공단 공영버스 운영 규정/원주시시설관리공단 공영버스 운영 규정.json"
+            "target_git_path_guess": "원주시시설관리공단 공영버스 운영 규정/원주시시설관리공단 공영버스 운영 규정.json",
+            "target_git_path": "원주시시설관리공단 공영버스 운영 규정/원주시시설관리공단 공영버스 운영 규정.json",
+            "target_git_file_path": "원주시시설관리공단 공영버스 운영 규정/별표/별표1_자기부담금 부담기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -530,7 +587,9 @@
             "source_provision_id": "SchlPubRul:원주시시설관리공단공영버스운영규정#JO0015",
             "reference_id": "law:도로교통법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "도로교통법/법률/도로교통법.json"
+            "target_git_path_guess": "도로교통법/법률/도로교통법.json",
+            "target_git_path": "도로교통법/법률/도로교통법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -555,7 +614,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:원주시시설관리공단공영버스운영규정#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "원주시시설관리공단 공영버스 운영 규정/원주시시설관리공단 공영버스 운영 규정.json"
+            "target_git_path_guess": "원주시시설관리공단 공영버스 운영 규정/원주시시설관리공단 공영버스 운영 규정.json",
+            "target_git_path": "원주시시설관리공단 공영버스 운영 규정/원주시시설관리공단 공영버스 운영 규정.json",
+            "target_git_file_path": "원주시시설관리공단 공영버스 운영 규정/별지/별지3_업무용차량 운행일지 및 일일점검표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -575,7 +639,9 @@
             "source_provision_id": "SchlPubRul:원주시시설관리공단공영버스운영규정#JO0015",
             "reference_id": "law:여객자동차운수사업법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "여객자동차 운수사업법/시행규칙/여객자동차 운수사업법시행규칙.json"
+            "target_git_path_guess": "여객자동차 운수사업법/시행규칙/여객자동차 운수사업법시행규칙.json",
+            "target_git_path": "여객자동차 운수사업법/시행규칙/여객자동차 운수사업법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -600,7 +666,10 @@
             "target_unit": "BYL0004",
             "reference_id": "law:여객자동차운수사업법시행규칙#BYL0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "여객자동차 운수사업법/시행규칙/여객자동차 운수사업법시행규칙.json"
+            "target_git_path_guess": "여객자동차 운수사업법/시행규칙/여객자동차 운수사업법시행규칙.json",
+            "target_git_path": "여객자동차 운수사업법/시행규칙/여객자동차 운수사업법 시행규칙.json",
+            "target_git_file_path": "여객자동차 운수사업법/시행규칙/별표/별표4_운송사업자 및 운수종사자의 준수사항(제44조 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -654,7 +723,11 @@
             "source_provision_id": "SchlPubRul:원주시시설관리공단공영버스운영규정#JO0018",
             "reference_id": "SchlPubRul:원주시시설관리공단인사규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "원주시시설관리공단 인사규정/원주시시설관리공단 인사규정.json"
+            "target_git_path_guess": "원주시시설관리공단 인사규정/원주시시설관리공단 인사규정.json",
+            "target_git_path": "원주시시설관리공단 인사규정/원주시시설관리공단 인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -674,7 +747,11 @@
             "source_provision_id": "SchlPubRul:원주시시설관리공단공영버스운영규정#JO0018",
             "reference_id": "SchlPubRul:원주시시설관리공단공영버스운영규정#JO0017",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "원주시시설관리공단 공영버스 운영 규정/원주시시설관리공단 공영버스 운영 규정.json"
+            "target_git_path_guess": "원주시시설관리공단 공영버스 운영 규정/원주시시설관리공단 공영버스 운영 규정.json",
+            "target_git_path": "원주시시설관리공단 공영버스 운영 규정/원주시시설관리공단 공영버스 운영 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -717,7 +794,11 @@
             "source_provision_id": "SchlPubRul:원주시시설관리공단공영버스운영규정#JO0020",
             "reference_id": "SchlPubRul:원주시시설관리공단공영버스운영규정#JO0019",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "원주시시설관리공단 공영버스 운영 규정/원주시시설관리공단 공영버스 운영 규정.json"
+            "target_git_path_guess": "원주시시설관리공단 공영버스 운영 규정/원주시시설관리공단 공영버스 운영 규정.json",
+            "target_git_path": "원주시시설관리공단 공영버스 운영 규정/원주시시설관리공단 공영버스 운영 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -749,7 +830,11 @@
             "source_provision_id": "SchlPubRul:원주시시설관리공단공영버스운영규정#JO0021",
             "reference_id": "SchlPubRul:원주시시설관리공단취업규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "원주시시설관리공단 취업규정/원주시시설관리공단 취업규정.json"
+            "target_git_path_guess": "원주시시설관리공단 취업규정/원주시시설관리공단 취업규정.json",
+            "target_git_path": "원주시시설관리공단 취업규정/원주시시설관리공단 취업규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -769,7 +854,11 @@
             "source_provision_id": "SchlPubRul:원주시시설관리공단공영버스운영규정#JO0021",
             "reference_id": "SchlPubRul:원주시시설관리공단인사규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "원주시시설관리공단 인사규정/원주시시설관리공단 인사규정.json"
+            "target_git_path_guess": "원주시시설관리공단 인사규정/원주시시설관리공단 인사규정.json",
+            "target_git_path": "원주시시설관리공단 인사규정/원주시시설관리공단 인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -789,7 +878,9 @@
             "source_provision_id": "SchlPubRul:원주시시설관리공단공영버스운영규정#JO0021",
             "reference_id": "law:민법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

@@ -153,7 +153,11 @@
             "source_provision_id": "SchlPubRul:인천환경공단재산관리규정#JO0009",
             "reference_id": "SchlPubRul:인천환경공단재산관리규정#JO0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천환경공단 재산관리규정/인천환경공단 재산관리규정.json"
+            "target_git_path_guess": "인천환경공단 재산관리규정/인천환경공단 재산관리규정.json",
+            "target_git_path": "인천환경공단 재산관리규정/인천환경공단 재산관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -311,7 +315,12 @@
             "target_unit": "BJ0011",
             "reference_id": "SchlPubRul:인천환경공단재산관리규정#BJ0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천환경공단 재산관리규정/인천환경공단 재산관리규정.json"
+            "target_git_path_guess": "인천환경공단 재산관리규정/인천환경공단 재산관리규정.json",
+            "target_git_path": "인천환경공단 재산관리규정/인천환경공단 재산관리규정.json",
+            "target_git_file_path": "인천환경공단 재산관리규정/별지/별지11_교환계약서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -348,7 +357,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:인천환경공단재산관리규정#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천환경공단 재산관리규정/인천환경공단 재산관리규정.json"
+            "target_git_path_guess": "인천환경공단 재산관리규정/인천환경공단 재산관리규정.json",
+            "target_git_path": "인천환경공단 재산관리규정/인천환경공단 재산관리규정.json",
+            "target_git_file_path": "인천환경공단 재산관리규정/별지/별지1_재산가격평정조서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -373,7 +387,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:인천환경공단재산관리규정#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천환경공단 재산관리규정/인천환경공단 재산관리규정.json"
+            "target_git_path_guess": "인천환경공단 재산관리규정/인천환경공단 재산관리규정.json",
+            "target_git_path": "인천환경공단 재산관리규정/인천환경공단 재산관리규정.json",
+            "target_git_file_path": "인천환경공단 재산관리규정/별지/별지2_매매실례조서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -410,7 +429,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:인천환경공단재산관리규정#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천환경공단 재산관리규정/인천환경공단 재산관리규정.json"
+            "target_git_path_guess": "인천환경공단 재산관리규정/인천환경공단 재산관리규정.json",
+            "target_git_path": "인천환경공단 재산관리규정/인천환경공단 재산관리규정.json",
+            "target_git_file_path": "인천환경공단 재산관리규정/별지/별지1_재산가격평정조서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -442,7 +466,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단재산관리규정#JO0024",
             "reference_id": "law:건축법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건축법/법률/건축법.json"
+            "target_git_path_guess": "건축법/법률/건축법.json",
+            "target_git_path": "건축법/법률/건축법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -462,7 +488,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단재산관리규정#JO0024",
             "reference_id": "law:국민기초생활보장법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민기초생활보장법/법률/국민기초생활보장법.json"
+            "target_git_path_guess": "국민기초생활보장법/법률/국민기초생활보장법.json",
+            "target_git_path": "국민기초생활 보장법/법률/국민기초생활 보장법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -482,7 +510,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단재산관리규정#JO0024",
             "reference_id": "law:국민기초생활보장법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민기초생활보장법/법률/국민기초생활보장법.json"
+            "target_git_path_guess": "국민기초생활보장법/법률/국민기초생활보장법.json",
+            "target_git_path": "국민기초생활 보장법/법률/국민기초생활 보장법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -502,7 +532,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단재산관리규정#JO0024",
             "reference_id": "law:건축법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건축법/법률/건축법.json"
+            "target_git_path_guess": "건축법/법률/건축법.json",
+            "target_git_path": "건축법/법률/건축법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -534,7 +566,11 @@
             "source_provision_id": "SchlPubRul:인천환경공단재산관리규정#JO0025",
             "reference_id": "SchlPubRul:인천환경공단회계규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천환경공단 회계규정/인천환경공단 회계규정.json"
+            "target_git_path_guess": "인천환경공단 회계규정/인천환경공단 회계규정.json",
+            "target_git_path": "인천환경공단 회계규정/인천환경공단 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -637,7 +673,12 @@
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:인천환경공단재산관리규정#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천환경공단 재산관리규정/인천환경공단 재산관리규정.json"
+            "target_git_path_guess": "인천환경공단 재산관리규정/인천환경공단 재산관리규정.json",
+            "target_git_path": "인천환경공단 재산관리규정/인천환경공단 재산관리규정.json",
+            "target_git_file_path": "인천환경공단 재산관리규정/별지/별지6_재산관리대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -674,7 +715,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:인천환경공단재산관리규정#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천환경공단 재산관리규정/인천환경공단 재산관리규정.json"
+            "target_git_path_guess": "인천환경공단 재산관리규정/인천환경공단 재산관리규정.json",
+            "target_git_path": "인천환경공단 재산관리규정/인천환경공단 재산관리규정.json",
+            "target_git_file_path": "인천환경공단 재산관리규정/별지/별지4_재산증·감이동보고서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -711,7 +757,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:인천환경공단재산관리규정#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천환경공단 재산관리규정/인천환경공단 재산관리규정.json"
+            "target_git_path_guess": "인천환경공단 재산관리규정/인천환경공단 재산관리규정.json",
+            "target_git_path": "인천환경공단 재산관리규정/인천환경공단 재산관리규정.json",
+            "target_git_file_path": "인천환경공단 재산관리규정/별지/별지5_임차재산대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -743,7 +794,11 @@
             "source_provision_id": "SchlPubRul:인천환경공단재산관리규정#JO0035",
             "reference_id": "SchlPubRul:인천환경공단재산관리규정#JO0025",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천환경공단 재산관리규정/인천환경공단 재산관리규정.json"
+            "target_git_path_guess": "인천환경공단 재산관리규정/인천환경공단 재산관리규정.json",
+            "target_git_path": "인천환경공단 재산관리규정/인천환경공단 재산관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],

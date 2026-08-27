@@ -76,7 +76,9 @@
             "source_provision_id": "SchlPubRul:도로관리내규#JO0002",
             "reference_id": "law:자동차관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "자동차관리법/법률/자동차관리법.json"
+            "target_git_path_guess": "자동차관리법/법률/자동차관리법.json",
+            "target_git_path": "자동차관리법/법률/자동차관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -96,7 +98,9 @@
             "source_provision_id": "SchlPubRul:도로관리내규#JO0002",
             "reference_id": "law:건설기계관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설기계관리법/법률/건설기계관리법.json"
+            "target_git_path_guess": "건설기계관리법/법률/건설기계관리법.json",
+            "target_git_path": "건설기계관리법/법률/건설기계관리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -144,7 +148,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:도로관리내규#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "도로 관리내규/도로 관리내규.json"
+            "target_git_path_guess": "도로 관리내규/도로 관리내규.json",
+            "target_git_path": "도로 관리내규/도로 관리내규.json",
+            "target_git_file_path": "도로 관리내규/별표/별표1_도로관리 범위.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -169,7 +178,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:도로관리내규#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "도로 관리내규/도로 관리내규.json"
+            "target_git_path_guess": "도로 관리내규/도로 관리내규.json",
+            "target_git_path": "도로 관리내규/도로 관리내규.json",
+            "target_git_file_path": "도로 관리내규/별표/별표2_풍수해관리 구간.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -194,7 +208,12 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:도로관리내규#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "도로 관리내규/도로 관리내규.json"
+            "target_git_path_guess": "도로 관리내규/도로 관리내규.json",
+            "target_git_path": "도로 관리내규/도로 관리내규.json",
+            "target_git_file_path": "도로 관리내규/별표/별표3_설해관리 구간.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -281,7 +300,9 @@
             "source_provision_id": "SchlPubRul:도로관리내규#JO0010",
             "reference_id": "law:전기안전관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기안전관리법/법률/전기안전관리법.json"
+            "target_git_path_guess": "전기안전관리법/법률/전기안전관리법.json",
+            "target_git_path": "전기안전관리법/법률/전기안전관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -301,7 +322,9 @@
             "source_provision_id": "SchlPubRul:도로관리내규#JO0010",
             "reference_id": "law:기계설비법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "기계설비법/법률/기계설비법.json"
+            "target_git_path_guess": "기계설비법/법률/기계설비법.json",
+            "target_git_path": "기계설비법/법률/기계설비법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -321,7 +344,9 @@
             "source_provision_id": "SchlPubRul:도로관리내규#JO0010",
             "reference_id": "law:화재의예방및안전관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -391,7 +416,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:도로관리내규#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "도로 관리내규/도로 관리내규.json"
+            "target_git_path_guess": "도로 관리내규/도로 관리내규.json",
+            "target_git_path": "도로 관리내규/도로 관리내규.json",
+            "target_git_file_path": "도로 관리내규/별지/별지1_도로순찰 대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -439,7 +469,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:도로관리내규#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "도로 관리내규/도로 관리내규.json"
+            "target_git_path_guess": "도로 관리내규/도로 관리내규.json",
+            "target_git_path": "도로 관리내규/도로 관리내규.json",
+            "target_git_file_path": "도로 관리내규/별지/별지2_장비점검 대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -487,7 +522,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:도로관리내규#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "도로 관리내규/도로 관리내규.json"
+            "target_git_path_guess": "도로 관리내규/도로 관리내규.json",
+            "target_git_path": "도로 관리내규/도로 관리내규.json",
+            "target_git_file_path": "도로 관리내규/별지/별지3_자재관리 대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -524,7 +564,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:도로관리내규#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "도로 관리내규/도로 관리내규.json"
+            "target_git_path_guess": "도로 관리내규/도로 관리내규.json",
+            "target_git_path": "도로 관리내규/도로 관리내규.json",
+            "target_git_file_path": "도로 관리내규/별지/별지4_포장점검 대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -549,7 +594,12 @@
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:도로관리내규#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "도로 관리내규/도로 관리내규.json"
+            "target_git_path_guess": "도로 관리내규/도로 관리내규.json",
+            "target_git_path": "도로 관리내규/도로 관리내규.json",
+            "target_git_file_path": "도로 관리내규/별지/별지6_포장보수 대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -586,7 +636,12 @@
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:도로관리내규#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "도로 관리내규/도로 관리내규.json"
+            "target_git_path_guess": "도로 관리내규/도로 관리내규.json",
+            "target_git_path": "도로 관리내규/도로 관리내규.json",
+            "target_git_file_path": "도로 관리내규/별지/별지7_도로안전시설물점검 대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -611,7 +666,12 @@
             "target_unit": "BJ0008",
             "reference_id": "SchlPubRul:도로관리내규#BJ0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "도로 관리내규/도로 관리내규.json"
+            "target_git_path_guess": "도로 관리내규/도로 관리내규.json",
+            "target_git_path": "도로 관리내규/도로 관리내규.json",
+            "target_git_file_path": "도로 관리내규/별지/별지8_교통관리시설물점검 대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -648,7 +708,12 @@
             "target_unit": "BJ0009",
             "reference_id": "SchlPubRul:도로관리내규#BJ0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "도로 관리내규/도로 관리내규.json"
+            "target_git_path_guess": "도로 관리내규/도로 관리내규.json",
+            "target_git_path": "도로 관리내규/도로 관리내규.json",
+            "target_git_file_path": "도로 관리내규/별지/별지9_시정홍보물점검 대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -685,7 +750,12 @@
             "target_unit": "BJ0010",
             "reference_id": "SchlPubRul:도로관리내규#BJ0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "도로 관리내규/도로 관리내규.json"
+            "target_git_path_guess": "도로 관리내규/도로 관리내규.json",
+            "target_git_path": "도로 관리내규/도로 관리내규.json",
+            "target_git_file_path": "도로 관리내규/별지/별지10_육교현판점검 대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -733,7 +803,12 @@
             "target_unit": "BJ0011",
             "reference_id": "SchlPubRul:도로관리내규#BJ0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "도로 관리내규/도로 관리내규.json"
+            "target_git_path_guess": "도로 관리내규/도로 관리내규.json",
+            "target_git_path": "도로 관리내규/도로 관리내규.json",
+            "target_git_file_path": "도로 관리내규/별지/별지11_클린로드점검 대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -770,7 +845,12 @@
             "target_unit": "BJ0012",
             "reference_id": "SchlPubRul:도로관리내규#BJ0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "도로 관리내규/도로 관리내규.json"
+            "target_git_path_guess": "도로 관리내규/도로 관리내규.json",
+            "target_git_path": "도로 관리내규/도로 관리내규.json",
+            "target_git_file_path": "도로 관리내규/별지/별지12_도로조명시설물점검 대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -795,7 +875,12 @@
             "target_unit": "BJ0013",
             "reference_id": "SchlPubRul:도로관리내규#BJ0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "도로 관리내규/도로 관리내규.json"
+            "target_git_path_guess": "도로 관리내규/도로 관리내규.json",
+            "target_git_path": "도로 관리내규/도로 관리내규.json",
+            "target_git_file_path": "도로 관리내규/별지/별지13_도로조명시설물보수 대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -854,7 +939,12 @@
             "target_unit": "BJ0014",
             "reference_id": "SchlPubRul:도로관리내규#BJ0014",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "도로 관리내규/도로 관리내규.json"
+            "target_git_path_guess": "도로 관리내규/도로 관리내규.json",
+            "target_git_path": "도로 관리내규/도로 관리내규.json",
+            "target_git_file_path": "도로 관리내규/별지/별지14_도로조명시설물 관리대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -879,7 +969,12 @@
             "target_unit": "BYL0004",
             "reference_id": "SchlPubRul:도로관리내규#BYL0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "도로 관리내규/도로 관리내규.json"
+            "target_git_path_guess": "도로 관리내규/도로 관리내규.json",
+            "target_git_path": "도로 관리내규/도로 관리내규.json",
+            "target_git_file_path": "도로 관리내규/별표/별표4_가로등 표찰.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -916,7 +1011,12 @@
             "target_unit": "BJ0015",
             "reference_id": "SchlPubRul:도로관리내규#BJ0015",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "도로 관리내규/도로 관리내규.json"
+            "target_git_path_guess": "도로 관리내규/도로 관리내규.json",
+            "target_git_path": "도로 관리내규/도로 관리내규.json",
+            "target_git_file_path": "도로 관리내규/별지/별지15_통합상황실근무 대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],

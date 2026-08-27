@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:한국연구재단정관#JO0001",
             "reference_id": "law:한국연구재단법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국연구재단법/법률/한국연구재단법.json"
+            "target_git_path_guess": "한국연구재단법/법률/한국연구재단법.json",
+            "target_git_path": "한국연구재단법/법률/한국연구재단법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -119,7 +121,11 @@
             "source_provision_id": "SchlPubRul:한국연구재단정관#JO0004",
             "reference_id": "SchlPubRul:한국연구재단정관#JO0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국연구재단 정관/한국연구재단 정관.json"
+            "target_git_path_guess": "한국연구재단 정관/한국연구재단 정관.json",
+            "target_git_path": "한국연구재단 정관/한국연구재단 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -139,7 +145,11 @@
             "source_provision_id": "SchlPubRul:한국연구재단정관#JO0004",
             "reference_id": "SchlPubRul:한국연구재단정관#JO0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국연구재단 정관/한국연구재단 정관.json"
+            "target_git_path_guess": "한국연구재단 정관/한국연구재단 정관.json",
+            "target_git_path": "한국연구재단 정관/한국연구재단 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -171,7 +181,9 @@
             "source_provision_id": "SchlPubRul:한국연구재단정관#JO0005",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -191,7 +203,9 @@
             "source_provision_id": "SchlPubRul:한국연구재단정관#JO0005",
             "reference_id": "law:공공기관의운영에관한법률#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -234,7 +248,9 @@
             "source_provision_id": "SchlPubRul:한국연구재단정관#JO0007",
             "reference_id": "law:공공기관의운영에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/시행령/공공기관의 운영에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/시행령/공공기관의 운영에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/시행령/공공기관의 운영에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -254,7 +270,9 @@
             "source_provision_id": "SchlPubRul:한국연구재단정관#JO0007",
             "reference_id": "law:공공기관의운영에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/시행령/공공기관의 운영에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/시행령/공공기관의 운영에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/시행령/공공기관의 운영에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -274,7 +292,9 @@
             "source_provision_id": "SchlPubRul:한국연구재단정관#JO0007",
             "reference_id": "law:한국연구재단법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국연구재단법/시행령/한국연구재단법 시행령.json"
+            "target_git_path_guess": "한국연구재단법/시행령/한국연구재단법 시행령.json",
+            "target_git_path": "한국연구재단법/시행령/한국연구재단법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -294,7 +314,9 @@
             "source_provision_id": "SchlPubRul:한국연구재단정관#JO0007",
             "reference_id": "law:공공기관의운영에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/시행령/공공기관의 운영에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/시행령/공공기관의 운영에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/시행령/공공기관의 운영에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -326,7 +348,9 @@
             "source_provision_id": "SchlPubRul:한국연구재단정관#JO0007_02",
             "reference_id": "law:노동조합및노동관계조정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "노동조합 및 노동관계조정법/법률/노동조합 및 노동관계조정법.json"
+            "target_git_path_guess": "노동조합 및 노동관계조정법/법률/노동조합 및 노동관계조정법.json",
+            "target_git_path": "노동조합 및 노동관계조정법/법률/노동조합 및 노동관계조정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -346,7 +370,9 @@
             "source_provision_id": "SchlPubRul:한국연구재단정관#JO0007_02",
             "reference_id": "law:근로자참여및협력증진에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로자참여 및 협력증진에 관한 법률/법률/근로자참여 및 협력증진에 관한 법률.json"
+            "target_git_path_guess": "근로자참여 및 협력증진에 관한 법률/법률/근로자참여 및 협력증진에 관한 법률.json",
+            "target_git_path": "근로자참여 및 협력증진에 관한 법률/법률/근로자참여 및 협력증진에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -366,7 +392,9 @@
             "source_provision_id": "SchlPubRul:한국연구재단정관#JO0007_02",
             "reference_id": "law:근로자참여및협력증진에관한법률#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로자참여 및 협력증진에 관한 법률/법률/근로자참여 및 협력증진에 관한 법률.json"
+            "target_git_path_guess": "근로자참여 및 협력증진에 관한 법률/법률/근로자참여 및 협력증진에 관한 법률.json",
+            "target_git_path": "근로자참여 및 협력증진에 관한 법률/법률/근로자참여 및 협력증진에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -386,7 +414,11 @@
             "source_provision_id": "SchlPubRul:한국연구재단정관#JO0007_02",
             "reference_id": "SchlPubRul:한국연구재단정관#JO0026",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국연구재단 정관/한국연구재단 정관.json"
+            "target_git_path_guess": "한국연구재단 정관/한국연구재단 정관.json",
+            "target_git_path": "한국연구재단 정관/한국연구재단 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -429,7 +461,11 @@
             "source_provision_id": "SchlPubRul:한국연구재단정관#JO0009",
             "reference_id": "SchlPubRul:한국연구재단정관#JO0021",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국연구재단 정관/한국연구재단 정관.json"
+            "target_git_path_guess": "한국연구재단 정관/한국연구재단 정관.json",
+            "target_git_path": "한국연구재단 정관/한국연구재단 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -472,7 +508,9 @@
             "source_provision_id": "SchlPubRul:한국연구재단정관#JO0010_02",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -492,7 +530,9 @@
             "source_provision_id": "SchlPubRul:한국연구재단정관#JO0010_02",
             "reference_id": "law:상법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "상법/법률/상법.json"
+            "target_git_path_guess": "상법/법률/상법.json",
+            "target_git_path": "상법/법률/상법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -524,7 +564,9 @@
             "source_provision_id": "SchlPubRul:한국연구재단정관#JO0010_03",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -544,7 +586,9 @@
             "source_provision_id": "SchlPubRul:한국연구재단정관#JO0010_03",
             "reference_id": "law:상법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "상법/법률/상법.json"
+            "target_git_path_guess": "상법/법률/상법.json",
+            "target_git_path": "상법/법률/상법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -587,7 +631,9 @@
             "source_provision_id": "SchlPubRul:한국연구재단정관#JO0012",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -607,7 +653,9 @@
             "source_provision_id": "SchlPubRul:한국연구재단정관#JO0012",
             "reference_id": "law:국가공무원법#JO0056",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -627,7 +675,9 @@
             "source_provision_id": "SchlPubRul:한국연구재단정관#JO0012",
             "reference_id": "law:국가공무원법#JO0057",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -647,7 +697,9 @@
             "source_provision_id": "SchlPubRul:한국연구재단정관#JO0012",
             "reference_id": "law:국가공무원법#JO0058",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -667,7 +719,9 @@
             "source_provision_id": "SchlPubRul:한국연구재단정관#JO0012",
             "reference_id": "law:국가공무원법#JO0059",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -687,7 +741,9 @@
             "source_provision_id": "SchlPubRul:한국연구재단정관#JO0012",
             "reference_id": "law:국가공무원법#JO0059_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -707,7 +763,9 @@
             "source_provision_id": "SchlPubRul:한국연구재단정관#JO0012",
             "reference_id": "law:국가공무원법#JO0060",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -727,7 +785,9 @@
             "source_provision_id": "SchlPubRul:한국연구재단정관#JO0012",
             "reference_id": "law:국가공무원법#JO0061",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -747,7 +807,9 @@
             "source_provision_id": "SchlPubRul:한국연구재단정관#JO0012",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -767,7 +829,9 @@
             "source_provision_id": "SchlPubRul:한국연구재단정관#JO0012",
             "reference_id": "law:국가공무원법#JO0063",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -787,7 +851,9 @@
             "source_provision_id": "SchlPubRul:한국연구재단정관#JO0012",
             "reference_id": "law:국가공무원법#JO0064",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -819,7 +885,9 @@
             "source_provision_id": "SchlPubRul:한국연구재단정관#JO0013",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -839,7 +907,9 @@
             "source_provision_id": "SchlPubRul:한국연구재단정관#JO0013",
             "reference_id": "law:국가공무원법#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -859,7 +929,9 @@
             "source_provision_id": "SchlPubRul:한국연구재단정관#JO0013",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -879,7 +951,9 @@
             "source_provision_id": "SchlPubRul:한국연구재단정관#JO0013",
             "reference_id": "law:공공기관의운영에관한법률#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -911,7 +985,11 @@
             "source_provision_id": "SchlPubRul:한국연구재단정관#JO0014",
             "reference_id": "SchlPubRul:한국연구재단정관#JO0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국연구재단 정관/한국연구재단 정관.json"
+            "target_git_path_guess": "한국연구재단 정관/한국연구재단 정관.json",
+            "target_git_path": "한국연구재단 정관/한국연구재단 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -954,7 +1032,11 @@
             "source_provision_id": "SchlPubRul:한국연구재단정관#JO0015",
             "reference_id": "SchlPubRul:한국연구재단정관#JO0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국연구재단 정관/한국연구재단 정관.json"
+            "target_git_path_guess": "한국연구재단 정관/한국연구재단 정관.json",
+            "target_git_path": "한국연구재단 정관/한국연구재단 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -986,7 +1068,9 @@
             "source_provision_id": "SchlPubRul:한국연구재단정관#JO0016",
             "reference_id": "law:국가공무원복무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json"
+            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_git_path": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1006,7 +1090,9 @@
             "source_provision_id": "SchlPubRul:한국연구재단정관#JO0016",
             "reference_id": "law:국가공무원복무규정#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json"
+            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_git_path": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1071,7 +1157,11 @@
             "source_provision_id": "SchlPubRul:한국연구재단정관#JO0018_03",
             "reference_id": "SchlPubRul:한국연구재단정관#JO0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국연구재단 정관/한국연구재단 정관.json"
+            "target_git_path_guess": "한국연구재단 정관/한국연구재단 정관.json",
+            "target_git_path": "한국연구재단 정관/한국연구재단 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1091,7 +1181,11 @@
             "source_provision_id": "SchlPubRul:한국연구재단정관#JO0018_03",
             "reference_id": "SchlPubRul:한국연구재단정관#JO0032",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국연구재단 정관/한국연구재단 정관.json"
+            "target_git_path_guess": "한국연구재단 정관/한국연구재단 정관.json",
+            "target_git_path": "한국연구재단 정관/한국연구재단 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1134,7 +1228,11 @@
             "source_provision_id": "SchlPubRul:한국연구재단정관#JO0020",
             "reference_id": "SchlPubRul:한국연구재단정관#JO0021",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국연구재단 정관/한국연구재단 정관.json"
+            "target_git_path_guess": "한국연구재단 정관/한국연구재단 정관.json",
+            "target_git_path": "한국연구재단 정관/한국연구재단 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1210,7 +1308,11 @@
             "source_provision_id": "SchlPubRul:한국연구재단정관#JO0024_02",
             "reference_id": "SchlPubRul:한국연구재단정관#JO0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국연구재단 정관/한국연구재단 정관.json"
+            "target_git_path_guess": "한국연구재단 정관/한국연구재단 정관.json",
+            "target_git_path": "한국연구재단 정관/한국연구재단 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1264,7 +1366,9 @@
             "source_provision_id": "SchlPubRul:한국연구재단정관#JO0027",
             "reference_id": "law:한국연구재단법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국연구재단법/법률/한국연구재단법.json"
+            "target_git_path_guess": "한국연구재단법/법률/한국연구재단법.json",
+            "target_git_path": "한국연구재단법/법률/한국연구재단법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1284,7 +1388,11 @@
             "source_provision_id": "SchlPubRul:한국연구재단정관#JO0027",
             "reference_id": "SchlPubRul:한국연구재단정관#JO0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국연구재단 정관/한국연구재단 정관.json"
+            "target_git_path_guess": "한국연구재단 정관/한국연구재단 정관.json",
+            "target_git_path": "한국연구재단 정관/한국연구재단 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1360,7 +1468,9 @@
             "source_provision_id": "SchlPubRul:한국연구재단정관#JO0032",
             "reference_id": "law:국가재정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가재정법/법률/국가재정법.json"
+            "target_git_path_guess": "국가재정법/법률/국가재정법.json",
+            "target_git_path": "국가재정법/법률/국가재정법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1436,7 +1546,9 @@
             "source_provision_id": "SchlPubRul:한국연구재단정관#JO0037",
             "reference_id": "law:공인회계사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공인회계사법/법률/공인회계사법.json"
+            "target_git_path_guess": "공인회계사법/법률/공인회계사법.json",
+            "target_git_path": "공인회계사법/법률/공인회계사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1456,7 +1568,9 @@
             "source_provision_id": "SchlPubRul:한국연구재단정관#JO0037",
             "reference_id": "law:공인회계사법#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "공인회계사법/법률/공인회계사법.json"
+            "target_git_path_guess": "공인회계사법/법률/공인회계사법.json",
+            "target_git_path": "공인회계사법/법률/공인회계사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1476,7 +1590,11 @@
             "source_provision_id": "SchlPubRul:한국연구재단정관#JO0037",
             "reference_id": "SchlPubRul:한국연구재단정관#JO0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국연구재단 정관/한국연구재단 정관.json"
+            "target_git_path_guess": "한국연구재단 정관/한국연구재단 정관.json",
+            "target_git_path": "한국연구재단 정관/한국연구재단 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1541,7 +1659,11 @@
             "source_provision_id": "SchlPubRul:한국연구재단정관#JO0041",
             "reference_id": "SchlPubRul:한국연구재단정관#JO0039",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국연구재단 정관/한국연구재단 정관.json"
+            "target_git_path_guess": "한국연구재단 정관/한국연구재단 정관.json",
+            "target_git_path": "한국연구재단 정관/한국연구재단 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1573,7 +1695,9 @@
             "source_provision_id": "SchlPubRul:한국연구재단정관#JO0042",
             "reference_id": "law:한국연구재단법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국연구재단법/법률/한국연구재단법.json"
+            "target_git_path_guess": "한국연구재단법/법률/한국연구재단법.json",
+            "target_git_path": "한국연구재단법/법률/한국연구재단법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1593,7 +1717,9 @@
             "source_provision_id": "SchlPubRul:한국연구재단정관#JO0042",
             "reference_id": "law:한국연구재단법#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국연구재단법/법률/한국연구재단법.json"
+            "target_git_path_guess": "한국연구재단법/법률/한국연구재단법.json",
+            "target_git_path": "한국연구재단법/법률/한국연구재단법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1613,7 +1739,9 @@
             "source_provision_id": "SchlPubRul:한국연구재단정관#JO0042",
             "reference_id": "law:한국연구재단법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국연구재단법/법률/한국연구재단법.json"
+            "target_git_path_guess": "한국연구재단법/법률/한국연구재단법.json",
+            "target_git_path": "한국연구재단법/법률/한국연구재단법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1633,7 +1761,9 @@
             "source_provision_id": "SchlPubRul:한국연구재단정관#JO0042",
             "reference_id": "law:한국연구재단법#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국연구재단법/법률/한국연구재단법.json"
+            "target_git_path_guess": "한국연구재단법/법률/한국연구재단법.json",
+            "target_git_path": "한국연구재단법/법률/한국연구재단법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1720,7 +1850,9 @@
             "source_provision_id": "SchlPubRul:한국연구재단정관#JO0048",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1740,7 +1872,9 @@
             "source_provision_id": "SchlPubRul:한국연구재단정관#JO0048",
             "reference_id": "law:공공기관의운영에관한법률#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1772,7 +1906,9 @@
             "source_provision_id": "SchlPubRul:한국연구재단정관#JO0049",
             "reference_id": "law:한국연구재단법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국연구재단법/법률/한국연구재단법.json"
+            "target_git_path_guess": "한국연구재단법/법률/한국연구재단법.json",
+            "target_git_path": "한국연구재단법/법률/한국연구재단법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

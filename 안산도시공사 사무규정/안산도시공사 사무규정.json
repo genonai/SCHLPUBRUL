@@ -87,7 +87,9 @@
             "source_provision_id": "SchlPubRul:안산도시공사사무규정#JO0003",
             "reference_id": "law:보안업무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +109,9 @@
             "source_provision_id": "SchlPubRul:안산도시공사사무규정#JO0003",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -127,7 +131,9 @@
             "source_provision_id": "SchlPubRul:안산도시공사사무규정#JO0003",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -147,7 +153,9 @@
             "source_provision_id": "SchlPubRul:안산도시공사사무규정#JO0003",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -195,7 +203,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:안산도시공사사무규정#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "안산도시공사 사무규정/안산도시공사 사무규정.json"
+            "target_git_path_guess": "안산도시공사 사무규정/안산도시공사 사무규정.json",
+            "target_git_path": "안산도시공사 사무규정/안산도시공사 사무규정.json",
+            "target_git_file_path": "안산도시공사 사무규정/별지/별지1_사무인수인계서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -386,7 +399,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:안산도시공사사무규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "안산도시공사 사무규정/안산도시공사 사무규정.json"
+            "target_git_path_guess": "안산도시공사 사무규정/안산도시공사 사무규정.json",
+            "target_git_path": "안산도시공사 사무규정/안산도시공사 사무규정.json",
+            "target_git_file_path": "안산도시공사 사무규정/별표/별표1_직인의 종류와 규격.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -411,7 +429,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:안산도시공사사무규정#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "안산도시공사 사무규정/안산도시공사 사무규정.json"
+            "target_git_path_guess": "안산도시공사 사무규정/안산도시공사 사무규정.json",
+            "target_git_path": "안산도시공사 사무규정/안산도시공사 사무규정.json",
+            "target_git_file_path": "안산도시공사 사무규정/별지/별지2_직인날인기록부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -459,7 +482,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:안산도시공사사무규정#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "안산도시공사 사무규정/안산도시공사 사무규정.json"
+            "target_git_path_guess": "안산도시공사 사무규정/안산도시공사 사무규정.json",
+            "target_git_path": "안산도시공사 사무규정/안산도시공사 사무규정.json",
+            "target_git_file_path": "안산도시공사 사무규정/별표/별표2_접수인.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -513,7 +541,9 @@
             "source_provision_id": "SchlPubRul:안산도시공사사무규정#JO0025",
             "reference_id": "law:전자정부법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/시행령/전자정부법시행령.json"
+            "target_git_path_guess": "전자정부법/시행령/전자정부법시행령.json",
+            "target_git_path": "전자정부법/시행령/전자정부법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -533,7 +563,9 @@
             "source_provision_id": "SchlPubRul:안산도시공사사무규정#JO0025",
             "reference_id": "law:전자정부법시행령#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/시행령/전자정부법시행령.json"
+            "target_git_path_guess": "전자정부법/시행령/전자정부법시행령.json",
+            "target_git_path": "전자정부법/시행령/전자정부법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -592,7 +624,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:안산도시공사사무규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "안산도시공사 사무규정/안산도시공사 사무규정.json"
+            "target_git_path_guess": "안산도시공사 사무규정/안산도시공사 사무규정.json",
+            "target_git_path": "안산도시공사 사무규정/안산도시공사 사무규정.json",
+            "target_git_file_path": "안산도시공사 사무규정/별표/별표1_직인의 종류와 규격.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -640,7 +677,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:안산도시공사사무규정#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "안산도시공사 사무규정/안산도시공사 사무규정.json"
+            "target_git_path_guess": "안산도시공사 사무규정/안산도시공사 사무규정.json",
+            "target_git_path": "안산도시공사 사무규정/안산도시공사 사무규정.json",
+            "target_git_file_path": "안산도시공사 사무규정/별지/별지3_직인교부신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -665,7 +707,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:안산도시공사사무규정#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "안산도시공사 사무규정/안산도시공사 사무규정.json"
+            "target_git_path_guess": "안산도시공사 사무규정/안산도시공사 사무규정.json",
+            "target_git_path": "안산도시공사 사무규정/안산도시공사 사무규정.json",
+            "target_git_file_path": "안산도시공사 사무규정/별지/별지4_직인대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -697,7 +744,11 @@
             "source_provision_id": "SchlPubRul:안산도시공사사무규정#JO0031",
             "reference_id": "SchlPubRul:안산도시공사사무규정#JO0030",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "안산도시공사 사무규정/안산도시공사 사무규정.json"
+            "target_git_path_guess": "안산도시공사 사무규정/안산도시공사 사무규정.json",
+            "target_git_path": "안산도시공사 사무규정/안산도시공사 사무규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -722,7 +773,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:안산도시공사사무규정#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "안산도시공사 사무규정/안산도시공사 사무규정.json"
+            "target_git_path_guess": "안산도시공사 사무규정/안산도시공사 사무규정.json",
+            "target_git_path": "안산도시공사 사무규정/안산도시공사 사무규정.json",
+            "target_git_file_path": "안산도시공사 사무규정/별지/별지2_직인날인기록부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -747,7 +803,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:안산도시공사사무규정#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "안산도시공사 사무규정/안산도시공사 사무규정.json"
+            "target_git_path_guess": "안산도시공사 사무규정/안산도시공사 사무규정.json",
+            "target_git_path": "안산도시공사 사무규정/안산도시공사 사무규정.json",
+            "target_git_file_path": "안산도시공사 사무규정/별지/별지3_직인교부신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -801,7 +862,11 @@
             "source_provision_id": "SchlPubRul:안산도시공사사무규정#JO0034",
             "reference_id": "admrul:행정안전부보안업무규정시행세칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "행정안전부 보안업무규정 시행세칙/행정안전부 보안업무규정 시행세칙.json"
+            "target_git_path_guess": "행정안전부 보안업무규정 시행세칙/행정안전부 보안업무규정 시행세칙.json",
+            "target_git_path": "행정안전부 보안업무규정 시행세칙/행정안전부 보안업무규정 시행세칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -860,7 +925,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:안산도시공사사무규정#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "안산도시공사 사무규정/안산도시공사 사무규정.json"
+            "target_git_path_guess": "안산도시공사 사무규정/안산도시공사 사무규정.json",
+            "target_git_path": "안산도시공사 사무규정/안산도시공사 사무규정.json",
+            "target_git_file_path": "안산도시공사 사무규정/별지/별지5_신원특이자명부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -974,7 +1044,12 @@
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:안산도시공사사무규정#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "안산도시공사 사무규정/안산도시공사 사무규정.json"
+            "target_git_path_guess": "안산도시공사 사무규정/안산도시공사 사무규정.json",
+            "target_git_path": "안산도시공사 사무규정/안산도시공사 사무규정.json",
+            "target_git_file_path": "안산도시공사 사무규정/별지/별지6_비밀문서수발대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1022,7 +1097,12 @@
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:안산도시공사사무규정#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "안산도시공사 사무규정/안산도시공사 사무규정.json"
+            "target_git_path_guess": "안산도시공사 사무규정/안산도시공사 사무규정.json",
+            "target_git_path": "안산도시공사 사무규정/안산도시공사 사무규정.json",
+            "target_git_file_path": "안산도시공사 사무규정/별지/별지7_보안점검표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1186,7 +1266,11 @@
             "source_provision_id": "SchlPubRul:안산도시공사사무규정#JO0060",
             "reference_id": "SchlPubRul:안산도시공사사무규정#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "안산도시공사 사무규정/안산도시공사 사무규정.json"
+            "target_git_path_guess": "안산도시공사 사무규정/안산도시공사 사무규정.json",
+            "target_git_path": "안산도시공사 사무규정/안산도시공사 사무규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1251,7 +1335,9 @@
             "source_provision_id": "SchlPubRul:안산도시공사사무규정#JO0064",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1271,7 +1357,9 @@
             "source_provision_id": "SchlPubRul:안산도시공사사무규정#JO0064",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1291,7 +1379,9 @@
             "source_provision_id": "SchlPubRul:안산도시공사사무규정#JO0064",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1311,7 +1401,11 @@
             "source_provision_id": "SchlPubRul:안산도시공사사무규정#JO0064",
             "reference_id": "SchlPubRul:안산도시공사사무규정#JO0018",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "안산도시공사 사무규정/안산도시공사 사무규정.json"
+            "target_git_path_guess": "안산도시공사 사무규정/안산도시공사 사무규정.json",
+            "target_git_path": "안산도시공사 사무규정/안산도시공사 사무규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -1331,7 +1425,11 @@
             "source_provision_id": "SchlPubRul:안산도시공사사무규정#JO0064",
             "reference_id": "SchlPubRul:안산도시공사사무규정#JO0021",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "안산도시공사 사무규정/안산도시공사 사무규정.json"
+            "target_git_path_guess": "안산도시공사 사무규정/안산도시공사 사무규정.json",
+            "target_git_path": "안산도시공사 사무규정/안산도시공사 사무규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1462,7 +1560,9 @@
             "source_provision_id": "SchlPubRul:안산도시공사사무규정#JO0074",
             "reference_id": "law:물품관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "물품관리법/법률/물품관리법.json"
+            "target_git_path_guess": "물품관리법/법률/물품관리법.json",
+            "target_git_path": "물품관리법/법률/물품관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1482,7 +1582,9 @@
             "source_provision_id": "SchlPubRul:안산도시공사사무규정#JO0074",
             "reference_id": "law:산업표준화법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업표준화법/법률/산업표준화법.json"
+            "target_git_path_guess": "산업표준화법/법률/산업표준화법.json",
+            "target_git_path": "산업표준화법/법률/산업표준화법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

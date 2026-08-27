@@ -109,7 +109,11 @@
             "source_provision_id": "SchlPubRul:(서울특별시구로구시설관리공단)연봉제규정#JO0005",
             "reference_id": "SchlPubRul:(서울특별시구로구시설관리공단)연봉제규정#JO0019",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(서울특별시 구로구시설관리공단) 연봉제 규정/(서울특별시 구로구시설관리공단) 연봉제 규정.json"
+            "target_git_path_guess": "(서울특별시 구로구시설관리공단) 연봉제 규정/(서울특별시 구로구시설관리공단) 연봉제 규정.json",
+            "target_git_path": "(서울특별시 구로구시설관리공단) 연봉제 규정/(서울특별시 구로구시설관리공단) 연봉제 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -134,7 +138,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(서울특별시구로구시설관리공단)연봉제규정#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(서울특별시 구로구시설관리공단) 연봉제 규정/(서울특별시 구로구시설관리공단) 연봉제 규정.json"
+            "target_git_path_guess": "(서울특별시 구로구시설관리공단) 연봉제 규정/(서울특별시 구로구시설관리공단) 연봉제 규정.json",
+            "target_git_path": "(서울특별시 구로구시설관리공단) 연봉제 규정/(서울특별시 구로구시설관리공단) 연봉제 규정.json",
+            "target_git_file_path": "(서울특별시 구로구시설관리공단) 연봉제 규정/별지/별지1_연봉계약서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -463,7 +472,9 @@
             "source_provision_id": "SchlPubRul:(서울특별시구로구시설관리공단)연봉제규정#JO0033",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

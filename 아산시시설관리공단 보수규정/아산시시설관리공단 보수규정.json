@@ -87,7 +87,9 @@
             "source_provision_id": "SchlPubRul:아산시시설관리공단보수규정#JO0003",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -234,7 +236,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:아산시시설관리공단보수규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "아산시시설관리공단 보수규정/아산시시설관리공단 보수규정.json"
+            "target_git_path_guess": "아산시시설관리공단 보수규정/아산시시설관리공단 보수규정.json",
+            "target_git_path": "아산시시설관리공단 보수규정/아산시시설관리공단 보수규정.json",
+            "target_git_file_path": "아산시시설관리공단 보수규정/별표/별표1_[별표1-9] 보수규정 29차 개정(2025.1.20.).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -271,7 +278,8 @@
             "target_unit": "BYL0009",
             "reference_id": "SchlPubRul:아산시시설관리공단보수규정#BYL0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "아산시시설관리공단 보수규정/아산시시설관리공단 보수규정.json"
+            "target_git_path_guess": "아산시시설관리공단 보수규정/아산시시설관리공단 보수규정.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "appendix_ref",
@@ -296,7 +304,8 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:아산시시설관리공단보수규정#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "아산시시설관리공단 보수규정/아산시시설관리공단 보수규정.json"
+            "target_git_path_guess": "아산시시설관리공단 보수규정/아산시시설관리공단 보수규정.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -333,7 +342,8 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:아산시시설관리공단보수규정#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "아산시시설관리공단 보수규정/아산시시설관리공단 보수규정.json"
+            "target_git_path_guess": "아산시시설관리공단 보수규정/아산시시설관리공단 보수규정.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "appendix_ref",
@@ -358,7 +368,8 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:아산시시설관리공단보수규정#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "아산시시설관리공단 보수규정/아산시시설관리공단 보수규정.json"
+            "target_git_path_guess": "아산시시설관리공단 보수규정/아산시시설관리공단 보수규정.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "appendix_ref",
@@ -383,7 +394,8 @@
             "target_unit": "BYL0009",
             "reference_id": "SchlPubRul:아산시시설관리공단보수규정#BYL0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "아산시시설관리공단 보수규정/아산시시설관리공단 보수규정.json"
+            "target_git_path_guess": "아산시시설관리공단 보수규정/아산시시설관리공단 보수규정.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -431,7 +443,8 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:아산시시설관리공단보수규정#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "아산시시설관리공단 보수규정/아산시시설관리공단 보수규정.json"
+            "target_git_path_guess": "아산시시설관리공단 보수규정/아산시시설관리공단 보수규정.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -474,7 +487,11 @@
             "source_provision_id": "SchlPubRul:아산시시설관리공단보수규정#JO0018",
             "reference_id": "SchlPubRul:아산시시설관리공단보수규정#JO0015",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "아산시시설관리공단 보수규정/아산시시설관리공단 보수규정.json"
+            "target_git_path_guess": "아산시시설관리공단 보수규정/아산시시설관리공단 보수규정.json",
+            "target_git_path": "아산시시설관리공단 보수규정/아산시시설관리공단 보수규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -494,7 +511,11 @@
             "source_provision_id": "SchlPubRul:아산시시설관리공단보수규정#JO0018",
             "reference_id": "SchlPubRul:아산시시설관리공단보수규정#JO0035",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "아산시시설관리공단 보수규정/아산시시설관리공단 보수규정.json"
+            "target_git_path_guess": "아산시시설관리공단 보수규정/아산시시설관리공단 보수규정.json",
+            "target_git_path": "아산시시설관리공단 보수규정/아산시시설관리공단 보수규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -542,7 +563,8 @@
             "target_unit": "BYL0005",
             "reference_id": "SchlPubRul:아산시시설관리공단보수규정#BYL0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "아산시시설관리공단 보수규정/아산시시설관리공단 보수규정.json"
+            "target_git_path_guess": "아산시시설관리공단 보수규정/아산시시설관리공단 보수규정.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "appendix_ref",
@@ -567,7 +589,8 @@
             "target_unit": "BYL0004",
             "reference_id": "SchlPubRul:아산시시설관리공단보수규정#BYL0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "아산시시설관리공단 보수규정/아산시시설관리공단 보수규정.json"
+            "target_git_path_guess": "아산시시설관리공단 보수규정/아산시시설관리공단 보수규정.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -604,7 +627,8 @@
             "target_unit": "BYL0006",
             "reference_id": "SchlPubRul:아산시시설관리공단보수규정#BYL0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "아산시시설관리공단 보수규정/아산시시설관리공단 보수규정.json"
+            "target_git_path_guess": "아산시시설관리공단 보수규정/아산시시설관리공단 보수규정.json",
+            "target_missing_unit": true
           }
         ],
         "images": [
@@ -684,7 +708,8 @@
             "target_unit": "BYL0007",
             "reference_id": "SchlPubRul:아산시시설관리공단보수규정#BYL0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "아산시시설관리공단 보수규정/아산시시설관리공단 보수규정.json"
+            "target_git_path_guess": "아산시시설관리공단 보수규정/아산시시설관리공단 보수규정.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "appendix_ref",
@@ -709,7 +734,8 @@
             "target_unit": "BYL0008",
             "reference_id": "SchlPubRul:아산시시설관리공단보수규정#BYL0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "아산시시설관리공단 보수규정/아산시시설관리공단 보수규정.json"
+            "target_git_path_guess": "아산시시설관리공단 보수규정/아산시시설관리공단 보수규정.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -741,7 +767,11 @@
             "source_provision_id": "SchlPubRul:아산시시설관리공단보수규정#JO0026",
             "reference_id": "SchlPubRul:아산시시설관리공단보수규정#JO0025",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "아산시시설관리공단 보수규정/아산시시설관리공단 보수규정.json"
+            "target_git_path_guess": "아산시시설관리공단 보수규정/아산시시설관리공단 보수규정.json",
+            "target_git_path": "아산시시설관리공단 보수규정/아산시시설관리공단 보수규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -773,7 +803,9 @@
             "source_provision_id": "SchlPubRul:아산시시설관리공단보수규정#JO0027",
             "reference_id": "law:지방공기업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -793,7 +825,9 @@
             "source_provision_id": "SchlPubRul:아산시시설관리공단보수규정#JO0027",
             "reference_id": "law:지방공기업법#JO0058",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -813,7 +847,9 @@
             "source_provision_id": "SchlPubRul:아산시시설관리공단보수규정#JO0027",
             "reference_id": "law:지방공기업법#JO0063_07",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -833,7 +869,9 @@
             "source_provision_id": "SchlPubRul:아산시시설관리공단보수규정#JO0027",
             "reference_id": "law:지방공기업법#JO0078_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -853,7 +891,9 @@
             "source_provision_id": "SchlPubRul:아산시시설관리공단보수규정#JO0027",
             "reference_id": "law:민법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -873,7 +913,9 @@
             "source_provision_id": "SchlPubRul:아산시시설관리공단보수규정#JO0027",
             "reference_id": "law:민법#JO0379",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -893,7 +935,9 @@
             "source_provision_id": "SchlPubRul:아산시시설관리공단보수규정#JO0027",
             "reference_id": "law:민법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -913,7 +957,9 @@
             "source_provision_id": "SchlPubRul:아산시시설관리공단보수규정#JO0027",
             "reference_id": "law:민법#JO0379",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -994,7 +1040,8 @@
             "target_unit": "BYL0005",
             "reference_id": "SchlPubRul:아산시시설관리공단보수규정#BYL0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "아산시시설관리공단 보수규정/아산시시설관리공단 보수규정.json"
+            "target_git_path_guess": "아산시시설관리공단 보수규정/아산시시설관리공단 보수규정.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -1048,7 +1095,9 @@
             "source_provision_id": "SchlPubRul:아산시시설관리공단보수규정#JO0035",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1068,7 +1117,9 @@
             "source_provision_id": "SchlPubRul:아산시시설관리공단보수규정#JO0035",
             "reference_id": "law:공무원보수규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 보수규정/법률/공무원 보수규정.json"
+            "target_git_path_guess": "공무원 보수규정/법률/공무원 보수규정.json",
+            "target_git_path": "공무원보수규정/법률/공무원보수규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

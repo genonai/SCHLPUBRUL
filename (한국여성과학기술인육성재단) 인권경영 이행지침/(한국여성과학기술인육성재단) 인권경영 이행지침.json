@@ -76,7 +76,9 @@
             "source_provision_id": "SchlPubRul:(한국여성과학기술인육성재단)인권경영이행지침#JO0002",
             "reference_id": "law:대한민국헌법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "대한민국 헌법/법률/대한민국 헌법.json"
+            "target_git_path_guess": "대한민국 헌법/법률/대한민국 헌법.json",
+            "target_git_path": "대한민국헌법/법률/대한민국헌법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -141,7 +143,9 @@
             "source_provision_id": "SchlPubRul:(한국여성과학기술인육성재단)인권경영이행지침#JO0006",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -382,7 +386,9 @@
             "source_provision_id": "SchlPubRul:(한국여성과학기술인육성재단)인권경영이행지침#JO0026",
             "reference_id": "law:형법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -402,7 +408,9 @@
             "source_provision_id": "SchlPubRul:(한국여성과학기술인육성재단)인권경영이행지침#JO0026",
             "reference_id": "law:형법#JO0123",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -422,7 +430,9 @@
             "source_provision_id": "SchlPubRul:(한국여성과학기술인육성재단)인권경영이행지침#JO0026",
             "reference_id": "law:형법#JO0123_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -442,7 +452,9 @@
             "source_provision_id": "SchlPubRul:(한국여성과학기술인육성재단)인권경영이행지침#JO0026",
             "reference_id": "law:형법#JO0124",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -462,7 +474,9 @@
             "source_provision_id": "SchlPubRul:(한국여성과학기술인육성재단)인권경영이행지침#JO0026",
             "reference_id": "law:형법#JO0125",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -516,7 +530,11 @@
             "source_provision_id": "SchlPubRul:(한국여성과학기술인육성재단)인권경영이행지침#JO0029",
             "reference_id": "SchlPubRul:(한국여성과학기술인육성재단)인권경영이행지침#JO0026",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국여성과학기술인육성재단) 인권경영 이행지침/(한국여성과학기술인육성재단) 인권경영 이행지침.json"
+            "target_git_path_guess": "(한국여성과학기술인육성재단) 인권경영 이행지침/(한국여성과학기술인육성재단) 인권경영 이행지침.json",
+            "target_git_path": "(한국여성과학기술인육성재단) 인권경영 이행지침/(한국여성과학기술인육성재단) 인권경영 이행지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

@@ -76,7 +76,9 @@
             "source_provision_id": "SchlPubRul:취업규정:public_2141121#JO0002",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -251,7 +253,11 @@
             "source_provision_id": "SchlPubRul:취업규정:public_2141121#JO0014_02",
             "reference_id": "SchlPubRul:취업규정:public_2141121#JO0014",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "취업규정/취업규정.json"
+            "target_git_path_guess": "취업규정/취업규정.json",
+            "target_git_path": "취업규정/public_2141121/취업규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -271,7 +277,11 @@
             "source_provision_id": "SchlPubRul:취업규정:public_2141121#JO0014_02",
             "reference_id": "SchlPubRul:취업규정:public_2141121#JO0014",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "취업규정/취업규정.json"
+            "target_git_path_guess": "취업규정/취업규정.json",
+            "target_git_path": "취업규정/public_2141121/취업규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -291,7 +301,11 @@
             "source_provision_id": "SchlPubRul:취업규정:public_2141121#JO0014_02",
             "reference_id": "SchlPubRul:취업규정:public_2141121#JO0014",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "취업규정/취업규정.json"
+            "target_git_path_guess": "취업규정/취업규정.json",
+            "target_git_path": "취업규정/public_2141121/취업규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -455,7 +469,9 @@
             "source_provision_id": "SchlPubRul:취업규정:public_2141121#JO0025",
             "reference_id": "law:관공서의공휴일에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "관공서의 공휴일에 관한 규정/법률/관공서의 공휴일에 관한 규정.json"
+            "target_git_path_guess": "관공서의 공휴일에 관한 규정/법률/관공서의 공휴일에 관한 규정.json",
+            "target_git_path": "관공서의 공휴일에 관한 규정/법률/관공서의 공휴일에 관한 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -487,7 +503,9 @@
             "source_provision_id": "SchlPubRul:취업규정:public_2141121#JO0026",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -512,7 +530,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:취업규정:public_2141121#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "취업규정/취업규정.json"
+            "target_git_path_guess": "취업규정/취업규정.json",
+            "target_git_path": "취업규정/public_2141121/취업규정.json",
+            "target_git_file_path": "취업규정/public_2141121/별표/별표2_출산전후휴가 및 육아휴직 신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -537,7 +560,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:취업규정:public_2141121#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "취업규정/취업규정.json"
+            "target_git_path_guess": "취업규정/취업규정.json",
+            "target_git_path": "취업규정/public_2141121/취업규정.json",
+            "target_git_file_path": "취업규정/public_2141121/별표/별표2_출산전후휴가 및 육아휴직 신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -569,7 +597,9 @@
             "source_provision_id": "SchlPubRul:취업규정:public_2141121#JO0027",
             "reference_id": "law:남녀고용평등과일가정양립지원에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json"
+            "target_git_path_guess": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json",
+            "target_git_path": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -589,7 +619,9 @@
             "source_provision_id": "SchlPubRul:취업규정:public_2141121#JO0027",
             "reference_id": "law:남녀고용평등과일가정양립지원에관한법률#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json"
+            "target_git_path_guess": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json",
+            "target_git_path": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -621,7 +653,9 @@
             "source_provision_id": "SchlPubRul:취업규정:public_2141121#JO0028",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -653,7 +687,9 @@
             "source_provision_id": "SchlPubRul:취업규정:public_2141121#JO0029",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -673,7 +709,9 @@
             "source_provision_id": "SchlPubRul:취업규정:public_2141121#JO0029",
             "reference_id": "law:산업안전보건법#JO0129",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -693,7 +731,9 @@
             "source_provision_id": "SchlPubRul:취업규정:public_2141121#JO0029",
             "reference_id": "law:산업안전보건법#JO0129",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -713,7 +753,9 @@
             "source_provision_id": "SchlPubRul:취업규정:public_2141121#JO0029",
             "reference_id": "law:산업안전보건법#JO0130",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -733,7 +775,9 @@
             "source_provision_id": "SchlPubRul:취업규정:public_2141121#JO0029",
             "reference_id": "law:산업안전보건법#JO0131",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -753,7 +797,9 @@
             "source_provision_id": "SchlPubRul:취업규정:public_2141121#JO0029",
             "reference_id": "law:국민건강보험법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강보험법/시행령/국민건강보험법시행령.json"
+            "target_git_path_guess": "국민건강보험법/시행령/국민건강보험법시행령.json",
+            "target_git_path": "국민건강보험법/시행령/국민건강보험법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -773,7 +819,9 @@
             "source_provision_id": "SchlPubRul:취업규정:public_2141121#JO0029",
             "reference_id": "law:국민건강보험법시행령#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강보험법/시행령/국민건강보험법시행령.json"
+            "target_git_path_guess": "국민건강보험법/시행령/국민건강보험법시행령.json",
+            "target_git_path": "국민건강보험법/시행령/국민건강보험법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -793,7 +841,9 @@
             "source_provision_id": "SchlPubRul:취업규정:public_2141121#JO0029",
             "reference_id": "law:결핵예방법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "결핵예방법/법률/결핵예방법.json"
+            "target_git_path_guess": "결핵예방법/법률/결핵예방법.json",
+            "target_git_path": "결핵예방법/법률/결핵예방법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -813,7 +863,9 @@
             "source_provision_id": "SchlPubRul:취업규정:public_2141121#JO0029",
             "reference_id": "law:결핵예방법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "결핵예방법/법률/결핵예방법.json"
+            "target_git_path_guess": "결핵예방법/법률/결핵예방법.json",
+            "target_git_path": "결핵예방법/법률/결핵예방법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -845,7 +897,9 @@
             "source_provision_id": "SchlPubRul:취업규정:public_2141121#JO0030",
             "reference_id": "law:의료법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "의료법/법률/의료법.json"
+            "target_git_path_guess": "의료법/법률/의료법.json",
+            "target_git_path": "의료법/법률/의료법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -865,7 +919,9 @@
             "source_provision_id": "SchlPubRul:취업규정:public_2141121#JO0030",
             "reference_id": "law:의료법#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "의료법/법률/의료법.json"
+            "target_git_path_guess": "의료법/법률/의료법.json",
+            "target_git_path": "의료법/법률/의료법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -913,7 +969,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:취업규정:public_2141121#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "취업규정/취업규정.json"
+            "target_git_path_guess": "취업규정/취업규정.json",
+            "target_git_path": "취업규정/public_2141121/취업규정.json",
+            "target_git_file_path": "취업규정/public_2141121/별표/별표1_경조사별 휴가일수표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -989,7 +1050,11 @@
             "source_provision_id": "SchlPubRul:취업규정:public_2141121#JO0035",
             "reference_id": "SchlPubRul:취업규정:public_2141121#JO0034",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "취업규정/취업규정.json"
+            "target_git_path_guess": "취업규정/취업규정.json",
+            "target_git_path": "취업규정/public_2141121/취업규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1153,7 +1218,11 @@
             "source_provision_id": "SchlPubRul:취업규정:public_2141121#JO0048",
             "reference_id": "SchlPubRul:취업규정:public_2141121#JO0046",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "취업규정/취업규정.json"
+            "target_git_path_guess": "취업규정/취업규정.json",
+            "target_git_path": "취업규정/public_2141121/취업규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -1173,7 +1242,9 @@
             "source_provision_id": "SchlPubRul:취업규정:public_2141121#JO0048",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1347,7 +1418,9 @@
             "source_provision_id": "SchlPubRul:취업규정:public_2141121#JO0060_02",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1367,7 +1440,9 @@
             "source_provision_id": "SchlPubRul:취업규정:public_2141121#JO0060_02",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1387,7 +1462,9 @@
             "source_provision_id": "SchlPubRul:취업규정:public_2141121#JO0060_02",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1441,7 +1518,11 @@
             "source_provision_id": "SchlPubRul:취업규정:public_2141121#JO0061_02",
             "reference_id": "SchlPubRul:취업규정:public_2141121#JO0061",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "취업규정/취업규정.json"
+            "target_git_path_guess": "취업규정/취업규정.json",
+            "target_git_path": "취업규정/public_2141121/취업규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -1461,7 +1542,9 @@
             "source_provision_id": "SchlPubRul:취업규정:public_2141121#JO0061_02",
             "reference_id": "law:남녀고용평등과일가정양립지원에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json"
+            "target_git_path_guess": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json",
+            "target_git_path": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1504,7 +1587,9 @@
             "source_provision_id": "SchlPubRul:취업규정:public_2141121#JO0063",
             "reference_id": "law:남녀고용평등과일가정양립지원에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json"
+            "target_git_path_guess": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json",
+            "target_git_path": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1829,5 +1914,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "취업규정/public_2141121/취업규정.json"
+  "git_path": "취업규정/public_2141121/취업규정.json",
+  "_schlpub_id_suffix": "public_2141121"
 }

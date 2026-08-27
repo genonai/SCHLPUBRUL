@@ -142,7 +142,9 @@
             "source_provision_id": "SchlPubRul:세종특별자치시시설관리공단지방자치회관시설물운영지침#JO0008",
             "reference_id": "law:지방자치법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방자치법/법률/지방자치법.json"
+            "target_git_path_guess": "지방자치법/법률/지방자치법.json",
+            "target_git_path": "지방자치법/법률/지방자치법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -162,7 +164,9 @@
             "source_provision_id": "SchlPubRul:세종특별자치시시설관리공단지방자치회관시설물운영지침#JO0008",
             "reference_id": "law:지방자치법#JO0165",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방자치법/법률/지방자치법.json"
+            "target_git_path_guess": "지방자치법/법률/지방자치법.json",
+            "target_git_path": "지방자치법/법률/지방자치법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -223,7 +227,8 @@
             "target_unit": "ATT0001",
             "reference_id": "SchlPubRul:세종특별자치시시설관리공단지방자치회관시설물운영지침#ATT0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "세종특별자치시시설관리공단 지방자치회관 시설물 운영지침/세종특별자치시시설관리공단 지방자치회관 시설물 운영지침.json"
+            "target_git_path_guess": "세종특별자치시시설관리공단 지방자치회관 시설물 운영지침/세종특별자치시시설관리공단 지방자치회관 시설물 운영지침.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "appendix_ref",
@@ -248,7 +253,12 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:세종특별자치시시설관리공단지방자치회관시설물운영지침#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "세종특별자치시시설관리공단 지방자치회관 시설물 운영지침/세종특별자치시시설관리공단 지방자치회관 시설물 운영지침.json"
+            "target_git_path_guess": "세종특별자치시시설관리공단 지방자치회관 시설물 운영지침/세종특별자치시시설관리공단 지방자치회관 시설물 운영지침.json",
+            "target_git_path": "세종특별자치시시설관리공단 지방자치회관 시설물 운영지침/세종특별자치시시설관리공단 지방자치회관 시설물 운영지침.json",
+            "target_git_file_path": "세종특별자치시시설관리공단 지방자치회관 시설물 운영지침/별표/별표3_지방자치회관 부대시설 이용료.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -291,7 +301,9 @@
             "source_provision_id": "SchlPubRul:세종특별자치시시설관리공단지방자치회관시설물운영지침#JO0010",
             "reference_id": "law:공유재산및물품관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공유재산 및 물품관리법/법률/공유재산 및 물품관리법.json"
+            "target_git_path_guess": "공유재산 및 물품관리법/법률/공유재산 및 물품관리법.json",
+            "target_git_path": "공유재산 및 물품 관리법/법률/공유재산 및 물품 관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -311,7 +323,9 @@
             "source_provision_id": "SchlPubRul:세종특별자치시시설관리공단지방자치회관시설물운영지침#JO0010",
             "reference_id": "law:공유재산및물품관리법#JO0080",
             "target_repo": "LAW",
-            "target_git_path_guess": "공유재산 및 물품관리법/법률/공유재산 및 물품관리법.json"
+            "target_git_path_guess": "공유재산 및 물품관리법/법률/공유재산 및 물품관리법.json",
+            "target_git_path": "공유재산 및 물품 관리법/법률/공유재산 및 물품 관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -331,7 +345,9 @@
             "source_provision_id": "SchlPubRul:세종특별자치시시설관리공단지방자치회관시설물운영지침#JO0010",
             "reference_id": "law:공유재산및물품관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공유재산 및 물품관리법/법률/공유재산 및 물품관리법.json"
+            "target_git_path_guess": "공유재산 및 물품관리법/법률/공유재산 및 물품관리법.json",
+            "target_git_path": "공유재산 및 물품 관리법/법률/공유재산 및 물품 관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -351,7 +367,9 @@
             "source_provision_id": "SchlPubRul:세종특별자치시시설관리공단지방자치회관시설물운영지침#JO0010",
             "reference_id": "law:공유재산및물품관리법#JO0080",
             "target_repo": "LAW",
-            "target_git_path_guess": "공유재산 및 물품관리법/법률/공유재산 및 물품관리법.json"
+            "target_git_path_guess": "공유재산 및 물품관리법/법률/공유재산 및 물품관리법.json",
+            "target_git_path": "공유재산 및 물품 관리법/법률/공유재산 및 물품 관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -371,7 +389,9 @@
             "source_provision_id": "SchlPubRul:세종특별자치시시설관리공단지방자치회관시설물운영지침#JO0010",
             "reference_id": "law:공유재산및물품관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공유재산및물품관리법/법률/공유재산및물품관리법.json"
+            "target_git_path_guess": "공유재산및물품관리법/법률/공유재산및물품관리법.json",
+            "target_git_path": "공유재산 및 물품 관리법/법률/공유재산 및 물품 관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -391,7 +411,9 @@
             "source_provision_id": "SchlPubRul:세종특별자치시시설관리공단지방자치회관시설물운영지침#JO0010",
             "reference_id": "law:공유재산및물품관리법#JO0080",
             "target_repo": "LAW",
-            "target_git_path_guess": "공유재산및물품관리법/법률/공유재산및물품관리법.json"
+            "target_git_path_guess": "공유재산및물품관리법/법률/공유재산및물품관리법.json",
+            "target_git_path": "공유재산 및 물품 관리법/법률/공유재산 및 물품 관리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -423,7 +445,11 @@
             "source_provision_id": "SchlPubRul:세종특별자치시시설관리공단지방자치회관시설물운영지침#JO0011",
             "reference_id": "SchlPubRul:세종특별자치시시설관리공단지방자치회관시설물운영지침#JO0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "세종특별자치시시설관리공단 지방자치회관 시설물 운영지침/세종특별자치시시설관리공단 지방자치회관 시설물 운영지침.json"
+            "target_git_path_guess": "세종특별자치시시설관리공단 지방자치회관 시설물 운영지침/세종특별자치시시설관리공단 지방자치회관 시설물 운영지침.json",
+            "target_git_path": "세종특별자치시시설관리공단 지방자치회관 시설물 운영지침/세종특별자치시시설관리공단 지방자치회관 시설물 운영지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -477,7 +503,11 @@
             "source_provision_id": "SchlPubRul:세종특별자치시시설관리공단지방자치회관시설물운영지침#JO0014",
             "reference_id": "SchlPubRul:세종특별자치시시설관리공단지방자치회관시설물운영지침#JO0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "세종특별자치시시설관리공단 지방자치회관 시설물 운영지침/세종특별자치시시설관리공단 지방자치회관 시설물 운영지침.json"
+            "target_git_path_guess": "세종특별자치시시설관리공단 지방자치회관 시설물 운영지침/세종특별자치시시설관리공단 지방자치회관 시설물 운영지침.json",
+            "target_git_path": "세종특별자치시시설관리공단 지방자치회관 시설물 운영지침/세종특별자치시시설관리공단 지방자치회관 시설물 운영지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -497,7 +527,11 @@
             "source_provision_id": "SchlPubRul:세종특별자치시시설관리공단지방자치회관시설물운영지침#JO0014",
             "reference_id": "SchlPubRul:세종특별자치시시설관리공단지방자치회관시설물운영지침#JO0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "세종특별자치시시설관리공단 지방자치회관 시설물 운영지침/세종특별자치시시설관리공단 지방자치회관 시설물 운영지침.json"
+            "target_git_path_guess": "세종특별자치시시설관리공단 지방자치회관 시설물 운영지침/세종특별자치시시설관리공단 지방자치회관 시설물 운영지침.json",
+            "target_git_path": "세종특별자치시시설관리공단 지방자치회관 시설물 운영지침/세종특별자치시시설관리공단 지방자치회관 시설물 운영지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -522,7 +556,12 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:세종특별자치시시설관리공단지방자치회관시설물운영지침#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "세종특별자치시시설관리공단 지방자치회관 시설물 운영지침/세종특별자치시시설관리공단 지방자치회관 시설물 운영지침.json"
+            "target_git_path_guess": "세종특별자치시시설관리공단 지방자치회관 시설물 운영지침/세종특별자치시시설관리공단 지방자치회관 시설물 운영지침.json",
+            "target_git_path": "세종특별자치시시설관리공단 지방자치회관 시설물 운영지침/세종특별자치시시설관리공단 지방자치회관 시설물 운영지침.json",
+            "target_git_file_path": "세종특별자치시시설관리공단 지방자치회관 시설물 운영지침/별표/별표3_지방자치회관 부대시설 이용료.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -547,7 +586,12 @@
             "target_unit": "BYL0004",
             "reference_id": "SchlPubRul:세종특별자치시시설관리공단지방자치회관시설물운영지침#BYL0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "세종특별자치시시설관리공단 지방자치회관 시설물 운영지침/세종특별자치시시설관리공단 지방자치회관 시설물 운영지침.json"
+            "target_git_path_guess": "세종특별자치시시설관리공단 지방자치회관 시설물 운영지침/세종특별자치시시설관리공단 지방자치회관 시설물 운영지침.json",
+            "target_git_path": "세종특별자치시시설관리공단 지방자치회관 시설물 운영지침/세종특별자치시시설관리공단 지방자치회관 시설물 운영지침.json",
+            "target_git_file_path": "세종특별자치시시설관리공단 지방자치회관 시설물 운영지침/별표/별표4_지방자치회관 부대시설 이용료 반환기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -645,7 +689,9 @@
             "source_provision_id": "SchlPubRul:세종특별자치시시설관리공단지방자치회관시설물운영지침#JO0021",
             "reference_id": "law:화재의예방및안전관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -665,7 +711,9 @@
             "source_provision_id": "SchlPubRul:세종특별자치시시설관리공단지방자치회관시설물운영지침#JO0021",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

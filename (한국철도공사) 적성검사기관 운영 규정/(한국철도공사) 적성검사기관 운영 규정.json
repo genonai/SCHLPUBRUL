@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)적성검사기관운영규정#JO0001",
             "reference_id": "law:철도안전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도안전법/법률/철도안전법.json"
+            "target_git_path_guess": "철도안전법/법률/철도안전법.json",
+            "target_git_path": "철도안전법/법률/철도안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -85,7 +87,9 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)적성검사기관운영규정#JO0001",
             "reference_id": "law:철도안전법#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도안전법/법률/철도안전법.json"
+            "target_git_path_guess": "철도안전법/법률/철도안전법.json",
+            "target_git_path": "철도안전법/법률/철도안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -105,7 +109,9 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)적성검사기관운영규정#JO0001",
             "reference_id": "law:철도안전법#JO0021_06",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도안전법/법률/철도안전법.json"
+            "target_git_path_guess": "철도안전법/법률/철도안전법.json",
+            "target_git_path": "철도안전법/법률/철도안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -125,7 +131,9 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)적성검사기관운영규정#JO0001",
             "reference_id": "law:철도안전법#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도안전법/법률/철도안전법.json"
+            "target_git_path_guess": "철도안전법/법률/철도안전법.json",
+            "target_git_path": "철도안전법/법률/철도안전법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -157,7 +165,9 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)적성검사기관운영규정#JO0002",
             "reference_id": "law:철도안전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도안전법/법률/철도안전법.json"
+            "target_git_path_guess": "철도안전법/법률/철도안전법.json",
+            "target_git_path": "철도안전법/법률/철도안전법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -189,7 +199,9 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)적성검사기관운영규정#JO0003",
             "reference_id": "law:철도안전법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도안전법/시행령/철도안전법 시행령.json"
+            "target_git_path_guess": "철도안전법/시행령/철도안전법 시행령.json",
+            "target_git_path": "철도안전법/시행령/철도안전법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -209,7 +221,9 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)적성검사기관운영규정#JO0003",
             "reference_id": "law:철도안전법시행령#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도안전법/시행령/철도안전법 시행령.json"
+            "target_git_path_guess": "철도안전법/시행령/철도안전법 시행령.json",
+            "target_git_path": "철도안전법/시행령/철도안전법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -229,7 +243,9 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)적성검사기관운영규정#JO0003",
             "reference_id": "law:철도안전법#JO0071",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도안전법/법률/철도안전법.json"
+            "target_git_path_guess": "철도안전법/법률/철도안전법.json",
+            "target_git_path": "철도안전법/법률/철도안전법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -266,7 +282,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(한국철도공사)적성검사기관운영규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json"
+            "target_git_path_guess": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json",
+            "target_git_path": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json",
+            "target_git_file_path": "(한국철도공사) 적성검사기관 운영 규정/별표/별표1_적성검사기관 및 출장적성검사장의 소재지(제4조제2항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -303,7 +324,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:(한국철도공사)적성검사기관운영규정#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json"
+            "target_git_path_guess": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json",
+            "target_git_path": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json",
+            "target_git_file_path": "(한국철도공사) 적성검사기관 운영 규정/별표/별표2_적성검사 조직(제5조제1항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -346,7 +372,9 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)적성검사기관운영규정#JO0007",
             "reference_id": "law:철도안전법#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도안전법/법률/철도안전법.json"
+            "target_git_path_guess": "철도안전법/법률/철도안전법.json",
+            "target_git_path": "철도안전법/법률/철도안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -366,7 +394,9 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)적성검사기관운영규정#JO0007",
             "reference_id": "law:철도안전법#JO0021_06",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도안전법/법률/철도안전법.json"
+            "target_git_path_guess": "철도안전법/법률/철도안전법.json",
+            "target_git_path": "철도안전법/법률/철도안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -386,7 +416,9 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)적성검사기관운영규정#JO0007",
             "reference_id": "law:철도안전법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도안전법/시행령/철도안전법 시행령.json"
+            "target_git_path_guess": "철도안전법/시행령/철도안전법 시행령.json",
+            "target_git_path": "철도안전법/시행령/철도안전법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -406,7 +438,9 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)적성검사기관운영규정#JO0007",
             "reference_id": "law:철도안전법시행령#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도안전법/시행령/철도안전법 시행령.json"
+            "target_git_path_guess": "철도안전법/시행령/철도안전법 시행령.json",
+            "target_git_path": "철도안전법/시행령/철도안전법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -426,7 +460,9 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)적성검사기관운영규정#JO0007",
             "reference_id": "law:철도안전법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도안전법/시행규칙/철도안전법 시행규칙.json"
+            "target_git_path_guess": "철도안전법/시행규칙/철도안전법 시행규칙.json",
+            "target_git_path": "철도안전법/시행규칙/철도안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -446,7 +482,9 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)적성검사기관운영규정#JO0007",
             "reference_id": "law:철도안전법시행규칙#JO0041",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도안전법/시행규칙/철도안전법 시행규칙.json"
+            "target_git_path_guess": "철도안전법/시행규칙/철도안전법 시행규칙.json",
+            "target_git_path": "철도안전법/시행규칙/철도안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -483,7 +521,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(한국철도공사)적성검사기관운영규정#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json"
+            "target_git_path_guess": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json",
+            "target_git_path": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json",
+            "target_git_file_path": "(한국철도공사) 적성검사기관 운영 규정/별지/별지1_검사계획(제8조 제1항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -508,7 +551,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(한국철도공사)적성검사기관운영규정#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json"
+            "target_git_path_guess": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json",
+            "target_git_path": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json",
+            "target_git_file_path": "(한국철도공사) 적성검사기관 운영 규정/별지/별지2_검사실적(제8조제5항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -545,7 +593,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:(한국철도공사)적성검사기관운영규정#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json"
+            "target_git_path_guess": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json",
+            "target_git_path": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json",
+            "target_git_file_path": "(한국철도공사) 적성검사기관 운영 규정/별지/별지3_적성검사 판정서(제9조제1항 및 제19조제1항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -577,7 +630,9 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)적성검사기관운영규정#JO0010",
             "reference_id": "law:철도안전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도안전법/법률/철도안전법.json"
+            "target_git_path_guess": "철도안전법/법률/철도안전법.json",
+            "target_git_path": "철도안전법/법률/철도안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -597,7 +652,9 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)적성검사기관운영규정#JO0010",
             "reference_id": "law:철도안전법#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도안전법/법률/철도안전법.json"
+            "target_git_path_guess": "철도안전법/법률/철도안전법.json",
+            "target_git_path": "철도안전법/법률/철도안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -617,7 +674,9 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)적성검사기관운영규정#JO0010",
             "reference_id": "law:철도안전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도안전법/법률/철도안전법.json"
+            "target_git_path_guess": "철도안전법/법률/철도안전법.json",
+            "target_git_path": "철도안전법/법률/철도안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -637,7 +696,9 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)적성검사기관운영규정#JO0010",
             "reference_id": "law:철도안전법#JO0021_06",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도안전법/법률/철도안전법.json"
+            "target_git_path_guess": "철도안전법/법률/철도안전법.json",
+            "target_git_path": "철도안전법/법률/철도안전법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -691,7 +752,11 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)적성검사기관운영규정#JO0013",
             "reference_id": "SchlPubRul:(한국철도공사)적성검사기관운영규정#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json"
+            "target_git_path_guess": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json",
+            "target_git_path": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -711,7 +776,11 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)적성검사기관운영규정#JO0013",
             "reference_id": "SchlPubRul:(한국철도공사)적성검사기관운영규정#JO0028",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json"
+            "target_git_path_guess": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json",
+            "target_git_path": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -748,7 +817,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(한국철도공사)적성검사기관운영규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json"
+            "target_git_path_guess": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json",
+            "target_git_path": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json",
+            "target_git_file_path": "(한국철도공사) 적성검사기관 운영 규정/별표/별표1_적성검사기관 및 출장적성검사장의 소재지(제4조제2항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -802,7 +876,9 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)적성검사기관운영규정#JO0017",
             "reference_id": "law:철도안전법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도안전법/시행규칙/철도안전법 시행규칙.json"
+            "target_git_path_guess": "철도안전법/시행규칙/철도안전법 시행규칙.json",
+            "target_git_path": "철도안전법/시행규칙/철도안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -822,7 +898,9 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)적성검사기관운영규정#JO0017",
             "reference_id": "law:철도안전법시행규칙#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도안전법/시행규칙/철도안전법 시행규칙.json"
+            "target_git_path_guess": "철도안전법/시행규칙/철도안전법 시행규칙.json",
+            "target_git_path": "철도안전법/시행규칙/철도안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -847,7 +925,12 @@
             "target_unit": "BYL0004",
             "reference_id": "SchlPubRul:(한국철도공사)적성검사기관운영규정#BYL0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json"
+            "target_git_path_guess": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json",
+            "target_git_path": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json",
+            "target_git_file_path": "(한국철도공사) 적성검사기관 운영 규정/별표/별표4_검사항목별 판정등급 기준(제17조제2항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -872,7 +955,8 @@
             "target_unit": "BYL0013",
             "reference_id": "SchlPubRul:(한국철도공사)적성검사기관운영규정#BYL0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json"
+            "target_git_path_guess": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "appendix_ref",
@@ -897,7 +981,12 @@
             "target_unit": "BYL0004",
             "reference_id": "SchlPubRul:(한국철도공사)적성검사기관운영규정#BYL0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json"
+            "target_git_path_guess": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json",
+            "target_git_path": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json",
+            "target_git_file_path": "(한국철도공사) 적성검사기관 운영 규정/별표/별표4_검사항목별 판정등급 기준(제17조제2항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -922,7 +1011,12 @@
             "target_unit": "BYL0005",
             "reference_id": "SchlPubRul:(한국철도공사)적성검사기관운영규정#BYL0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json"
+            "target_git_path_guess": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json",
+            "target_git_path": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json",
+            "target_git_file_path": "(한국철도공사) 적성검사기관 운영 규정/별표/별표5_판정등급별 배점 기준(제17조제3항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -970,7 +1064,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:(한국철도공사)적성검사기관운영규정#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json"
+            "target_git_path_guess": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json",
+            "target_git_path": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json",
+            "target_git_file_path": "(한국철도공사) 적성검사기관 운영 규정/별지/별지3_적성검사 판정서(제9조제1항 및 제19조제1항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -995,7 +1094,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:(한국철도공사)적성검사기관운영규정#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json"
+            "target_git_path_guess": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json",
+            "target_git_path": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json",
+            "target_git_file_path": "(한국철도공사) 적성검사기관 운영 규정/별지/별지4_적성검사판정서 교부대장(제19조제1항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1032,7 +1136,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:(한국철도공사)적성검사기관운영규정#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json"
+            "target_git_path_guess": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json",
+            "target_git_path": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json",
+            "target_git_file_path": "(한국철도공사) 적성검사기관 운영 규정/별지/별지5_적성검사 일지(제20조제1항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1064,7 +1173,11 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)적성검사기관운영규정#JO0021",
             "reference_id": "SchlPubRul:(한국철도공사)적성검사기관운영규정#JO0020",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json"
+            "target_git_path_guess": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json",
+            "target_git_path": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1089,7 +1202,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:(한국철도공사)적성검사기관운영규정#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json"
+            "target_git_path_guess": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json",
+            "target_git_path": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json",
+            "target_git_file_path": "(한국철도공사) 적성검사기관 운영 규정/별지/별지5_적성검사 일지(제20조제1항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1126,7 +1244,12 @@
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:(한국철도공사)적성검사기관운영규정#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json"
+            "target_git_path_guess": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json",
+            "target_git_path": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json",
+            "target_git_file_path": "(한국철도공사) 적성검사기관 운영 규정/별지/별지6_장비 보안점검부(제22조제2항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1151,7 +1274,12 @@
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:(한국철도공사)적성검사기관운영규정#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json"
+            "target_git_path_guess": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json",
+            "target_git_path": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json",
+            "target_git_file_path": "(한국철도공사) 적성검사기관 운영 규정/별지/별지7_보안각서(제22조제5항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1188,7 +1316,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:(한국철도공사)적성검사기관운영규정#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json"
+            "target_git_path_guess": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json",
+            "target_git_path": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json",
+            "target_git_file_path": "(한국철도공사) 적성검사기관 운영 규정/별지/별지5_적성검사 일지(제20조제1항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1213,7 +1346,12 @@
             "target_unit": "BJ0008",
             "reference_id": "SchlPubRul:(한국철도공사)적성검사기관운영규정#BJ0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json"
+            "target_git_path_guess": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json",
+            "target_git_path": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json",
+            "target_git_file_path": "(한국철도공사) 적성검사기관 운영 규정/별지/별지8_적성검사장비 점검 기록부(제23조제3항).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1289,7 +1427,11 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)적성검사기관운영규정#JO0028",
             "reference_id": "SchlPubRul:(한국철도공사)적성검사기관운영규정#JO0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json"
+            "target_git_path_guess": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json",
+            "target_git_path": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1309,7 +1451,11 @@
             "source_provision_id": "SchlPubRul:(한국철도공사)적성검사기관운영규정#JO0028",
             "reference_id": "SchlPubRul:(한국철도공사)적성검사기관운영규정#JO0016",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json"
+            "target_git_path_guess": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json",
+            "target_git_path": "(한국철도공사) 적성검사기관 운영 규정/(한국철도공사) 적성검사기관 운영 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

@@ -76,7 +76,9 @@
             "source_provision_id": "SchlPubRul:태백시시설관리공단차량관리규정#JO0002",
             "reference_id": "law:자동차관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "자동차관리법/법률/자동차관리법.json"
+            "target_git_path_guess": "자동차관리법/법률/자동차관리법.json",
+            "target_git_path": "자동차관리법/법률/자동차관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -96,7 +98,9 @@
             "source_provision_id": "SchlPubRul:태백시시설관리공단차량관리규정#JO0002",
             "reference_id": "law:자동차관리법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "자동차관리법/법률/자동차관리법.json"
+            "target_git_path_guess": "자동차관리법/법률/자동차관리법.json",
+            "target_git_path": "자동차관리법/법률/자동차관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -116,7 +120,9 @@
             "source_provision_id": "SchlPubRul:태백시시설관리공단차량관리규정#JO0002",
             "reference_id": "law:여객자동차운수사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "여객자동차 운수사업법/법률/여객자동차 운수사업법.json"
+            "target_git_path_guess": "여객자동차 운수사업법/법률/여객자동차 운수사업법.json",
+            "target_git_path": "여객자동차 운수사업법/법률/여객자동차 운수사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -136,7 +142,9 @@
             "source_provision_id": "SchlPubRul:태백시시설관리공단차량관리규정#JO0002",
             "reference_id": "law:여객자동차운수사업법#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "여객자동차 운수사업법/법률/여객자동차 운수사업법.json"
+            "target_git_path_guess": "여객자동차 운수사업법/법률/여객자동차 운수사업법.json",
+            "target_git_path": "여객자동차 운수사업법/법률/여객자동차 운수사업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -184,7 +192,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:태백시시설관리공단차량관리규정#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "태백시시설관리공단 차량관리규정/태백시시설관리공단 차량관리규정.json"
+            "target_git_path_guess": "태백시시설관리공단 차량관리규정/태백시시설관리공단 차량관리규정.json",
+            "target_git_path": "태백시시설관리공단 차량관리규정/태백시시설관리공단 차량관리규정.json",
+            "target_git_file_path": "태백시시설관리공단 차량관리규정/별지/별지1_차량정수관리대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -209,7 +222,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:태백시시설관리공단차량관리규정#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "태백시시설관리공단 차량관리규정/태백시시설관리공단 차량관리규정.json"
+            "target_git_path_guess": "태백시시설관리공단 차량관리규정/태백시시설관리공단 차량관리규정.json",
+            "target_git_path": "태백시시설관리공단 차량관리규정/태백시시설관리공단 차량관리규정.json",
+            "target_git_file_path": "태백시시설관리공단 차량관리규정/별지/별지2_차량 배차신청·승인서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -234,7 +252,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:태백시시설관리공단차량관리규정#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "태백시시설관리공단 차량관리규정/태백시시설관리공단 차량관리규정.json"
+            "target_git_path_guess": "태백시시설관리공단 차량관리규정/태백시시설관리공단 차량관리규정.json",
+            "target_git_path": "태백시시설관리공단 차량관리규정/태백시시설관리공단 차량관리규정.json",
+            "target_git_file_path": "태백시시설관리공단 차량관리규정/별지/별지3_업무용차량 배차승인 및 유류지급대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -259,7 +282,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:태백시시설관리공단차량관리규정#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "태백시시설관리공단 차량관리규정/태백시시설관리공단 차량관리규정.json"
+            "target_git_path_guess": "태백시시설관리공단 차량관리규정/태백시시설관리공단 차량관리규정.json",
+            "target_git_path": "태백시시설관리공단 차량관리규정/태백시시설관리공단 차량관리규정.json",
+            "target_git_file_path": "태백시시설관리공단 차량관리규정/별지/별지4_업무용차량 운행일지 및 일일점검표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -284,7 +312,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:태백시시설관리공단차량관리규정#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "태백시시설관리공단 차량관리규정/태백시시설관리공단 차량관리규정.json"
+            "target_git_path_guess": "태백시시설관리공단 차량관리규정/태백시시설관리공단 차량관리규정.json",
+            "target_git_path": "태백시시설관리공단 차량관리규정/태백시시설관리공단 차량관리규정.json",
+            "target_git_file_path": "태백시시설관리공단 차량관리규정/별지/별지5_차량정비대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -332,7 +365,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:태백시시설관리공단차량관리규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "태백시시설관리공단 차량관리규정/태백시시설관리공단 차량관리규정.json"
+            "target_git_path_guess": "태백시시설관리공단 차량관리규정/태백시시설관리공단 차량관리규정.json",
+            "target_git_path": "태백시시설관리공단 차량관리규정/태백시시설관리공단 차량관리규정.json",
+            "target_git_file_path": "태백시시설관리공단 차량관리규정/별표/별표1_차량의 용도ㆍ규모ㆍ배정대상, 차량 관리· 운행 기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -364,7 +402,11 @@
             "source_provision_id": "SchlPubRul:태백시시설관리공단차량관리규정#JO0007",
             "reference_id": "SchlPubRul:태백시시설관리공단차량관리규정#JO0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "태백시시설관리공단 차량관리규정/태백시시설관리공단 차량관리규정.json"
+            "target_git_path_guess": "태백시시설관리공단 차량관리규정/태백시시설관리공단 차량관리규정.json",
+            "target_git_path": "태백시시설관리공단 차량관리규정/태백시시설관리공단 차량관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -384,7 +426,11 @@
             "source_provision_id": "SchlPubRul:태백시시설관리공단차량관리규정#JO0007",
             "reference_id": "SchlPubRul:태백시시설관리공단차량관리규정#JO0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "태백시시설관리공단 차량관리규정/태백시시설관리공단 차량관리규정.json"
+            "target_git_path_guess": "태백시시설관리공단 차량관리규정/태백시시설관리공단 차량관리규정.json",
+            "target_git_path": "태백시시설관리공단 차량관리규정/태백시시설관리공단 차량관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -404,7 +450,11 @@
             "source_provision_id": "SchlPubRul:태백시시설관리공단차량관리규정#JO0007",
             "reference_id": "SchlPubRul:태백시시설관리공단차량관리규정#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "태백시시설관리공단 차량관리규정/태백시시설관리공단 차량관리규정.json"
+            "target_git_path_guess": "태백시시설관리공단 차량관리규정/태백시시설관리공단 차량관리규정.json",
+            "target_git_path": "태백시시설관리공단 차량관리규정/태백시시설관리공단 차량관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -424,7 +474,11 @@
             "source_provision_id": "SchlPubRul:태백시시설관리공단차량관리규정#JO0007",
             "reference_id": "SchlPubRul:태백시시설관리공단차량관리규정#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "태백시시설관리공단 차량관리규정/태백시시설관리공단 차량관리규정.json"
+            "target_git_path_guess": "태백시시설관리공단 차량관리규정/태백시시설관리공단 차량관리규정.json",
+            "target_git_path": "태백시시설관리공단 차량관리규정/태백시시설관리공단 차량관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -444,7 +498,11 @@
             "source_provision_id": "SchlPubRul:태백시시설관리공단차량관리규정#JO0007",
             "reference_id": "SchlPubRul:태백시시설관리공단차량관리규정#JO0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "태백시시설관리공단 차량관리규정/태백시시설관리공단 차량관리규정.json"
+            "target_git_path_guess": "태백시시설관리공단 차량관리규정/태백시시설관리공단 차량관리규정.json",
+            "target_git_path": "태백시시설관리공단 차량관리규정/태백시시설관리공단 차량관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -464,7 +522,11 @@
             "source_provision_id": "SchlPubRul:태백시시설관리공단차량관리규정#JO0007",
             "reference_id": "SchlPubRul:태백시시설관리공단차량관리규정#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "태백시시설관리공단 차량관리규정/태백시시설관리공단 차량관리규정.json"
+            "target_git_path_guess": "태백시시설관리공단 차량관리규정/태백시시설관리공단 차량관리규정.json",
+            "target_git_path": "태백시시설관리공단 차량관리규정/태백시시설관리공단 차량관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -484,7 +546,11 @@
             "source_provision_id": "SchlPubRul:태백시시설관리공단차량관리규정#JO0007",
             "reference_id": "SchlPubRul:태백시시설관리공단차량관리규정#JO0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "태백시시설관리공단 차량관리규정/태백시시설관리공단 차량관리규정.json"
+            "target_git_path_guess": "태백시시설관리공단 차량관리규정/태백시시설관리공단 차량관리규정.json",
+            "target_git_path": "태백시시설관리공단 차량관리규정/태백시시설관리공단 차량관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -509,7 +575,12 @@
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:태백시시설관리공단차량관리규정#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "태백시시설관리공단 차량관리규정/태백시시설관리공단 차량관리규정.json"
+            "target_git_path_guess": "태백시시설관리공단 차량관리규정/태백시시설관리공단 차량관리규정.json",
+            "target_git_path": "태백시시설관리공단 차량관리규정/태백시시설관리공단 차량관리규정.json",
+            "target_git_file_path": "태백시시설관리공단 차량관리규정/별지/별지6_차량 정수배정 등 검토서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -557,7 +628,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:태백시시설관리공단차량관리규정#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "태백시시설관리공단 차량관리규정/태백시시설관리공단 차량관리규정.json"
+            "target_git_path_guess": "태백시시설관리공단 차량관리규정/태백시시설관리공단 차량관리규정.json",
+            "target_git_path": "태백시시설관리공단 차량관리규정/태백시시설관리공단 차량관리규정.json",
+            "target_git_file_path": "태백시시설관리공단 차량관리규정/별표/별표2_차량 정수번호 부여.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -622,7 +698,9 @@
             "source_provision_id": "SchlPubRul:태백시시설관리공단차량관리규정#JO0013",
             "reference_id": "law:환경친화적자동차의개발및보급촉진에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "환경친화적 자동차의 개발 및 보급 촉진에 관한 법률/법률/환경친화적 자동차의 개발 및 보급 촉진에 관한 법률.json"
+            "target_git_path_guess": "환경친화적 자동차의 개발 및 보급 촉진에 관한 법률/법률/환경친화적 자동차의 개발 및 보급 촉진에 관한 법률.json",
+            "target_git_path": "환경친화적 자동차의 개발 및 보급 촉진에 관한 법률/법률/환경친화적 자동차의 개발 및 보급 촉진에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -703,7 +781,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:태백시시설관리공단차량관리규정#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "태백시시설관리공단 차량관리규정/태백시시설관리공단 차량관리규정.json"
+            "target_git_path_guess": "태백시시설관리공단 차량관리규정/태백시시설관리공단 차량관리규정.json",
+            "target_git_path": "태백시시설관리공단 차량관리규정/태백시시설관리공단 차량관리규정.json",
+            "target_git_file_path": "태백시시설관리공단 차량관리규정/별지/별지2_차량 배차신청·승인서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -751,7 +834,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:태백시시설관리공단차량관리규정#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "태백시시설관리공단 차량관리규정/태백시시설관리공단 차량관리규정.json"
+            "target_git_path_guess": "태백시시설관리공단 차량관리규정/태백시시설관리공단 차량관리규정.json",
+            "target_git_path": "태백시시설관리공단 차량관리규정/태백시시설관리공단 차량관리규정.json",
+            "target_git_file_path": "태백시시설관리공단 차량관리규정/별지/별지4_업무용차량 운행일지 및 일일점검표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -788,7 +876,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:태백시시설관리공단차량관리규정#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "태백시시설관리공단 차량관리규정/태백시시설관리공단 차량관리규정.json"
+            "target_git_path_guess": "태백시시설관리공단 차량관리규정/태백시시설관리공단 차량관리규정.json",
+            "target_git_path": "태백시시설관리공단 차량관리규정/태백시시설관리공단 차량관리규정.json",
+            "target_git_file_path": "태백시시설관리공단 차량관리규정/별지/별지4_업무용차량 운행일지 및 일일점검표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -842,7 +935,9 @@
             "source_provision_id": "SchlPubRul:태백시시설관리공단차량관리규정#JO0024",
             "reference_id": "law:도로교통법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "도로교통법/법률/도로교통법.json"
+            "target_git_path_guess": "도로교통법/법률/도로교통법.json",
+            "target_git_path": "도로교통법/법률/도로교통법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -896,7 +991,9 @@
             "source_provision_id": "SchlPubRul:태백시시설관리공단차량관리규정#JO0027",
             "reference_id": "law:도로교통법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "도로교통법/법률/도로교통법.json"
+            "target_git_path_guess": "도로교통법/법률/도로교통법.json",
+            "target_git_path": "도로교통법/법률/도로교통법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -916,7 +1013,11 @@
             "source_provision_id": "SchlPubRul:태백시시설관리공단차량관리규정#JO0027",
             "reference_id": "SchlPubRul:태백시시설관리공단차량관리규정#JO0024",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "태백시시설관리공단 차량관리규정/태백시시설관리공단 차량관리규정.json"
+            "target_git_path_guess": "태백시시설관리공단 차량관리규정/태백시시설관리공단 차량관리규정.json",
+            "target_git_path": "태백시시설관리공단 차량관리규정/태백시시설관리공단 차량관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],

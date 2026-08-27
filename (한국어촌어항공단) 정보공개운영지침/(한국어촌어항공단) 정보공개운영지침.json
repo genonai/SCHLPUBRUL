@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:(한국어촌어항공단)정보공개운영지침#JO0001",
             "reference_id": "law:공공기관의정보공개에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -119,7 +121,9 @@
             "source_provision_id": "SchlPubRul:(한국어촌어항공단)정보공개운영지침#JO0004",
             "reference_id": "law:공공기관의정보공개에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -162,7 +166,9 @@
             "source_provision_id": "SchlPubRul:(한국어촌어항공단)정보공개운영지침#JO0006",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -182,7 +188,9 @@
             "source_provision_id": "SchlPubRul:(한국어촌어항공단)정보공개운영지침#JO0006",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -230,7 +238,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(한국어촌어항공단)정보공개운영지침#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json"
+            "target_git_path_guess": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json",
+            "target_git_path": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json",
+            "target_git_file_path": "(한국어촌어항공단) 정보공개운영지침/별표/별표1_비공개대상정보의 분류기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -255,7 +268,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(한국어촌어항공단)정보공개운영지침#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json"
+            "target_git_path_guess": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json",
+            "target_git_path": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json",
+            "target_git_file_path": "(한국어촌어항공단) 정보공개운영지침/별지/별지1_의사결정 과정 및 내부검토 과정 종료 통지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -280,7 +298,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(한국어촌어항공단)정보공개운영지침#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json"
+            "target_git_path_guess": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json",
+            "target_git_path": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json",
+            "target_git_file_path": "(한국어촌어항공단) 정보공개운영지침/별표/별표1_비공개대상정보의 분류기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -317,7 +340,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(한국어촌어항공단)정보공개운영지침#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json"
+            "target_git_path_guess": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json",
+            "target_git_path": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json",
+            "target_git_file_path": "(한국어촌어항공단) 정보공개운영지침/별지/별지2_정보공개 청구서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -342,7 +370,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:(한국어촌어항공단)정보공개운영지침#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json"
+            "target_git_path_guess": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json",
+            "target_git_path": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json",
+            "target_git_file_path": "(한국어촌어항공단) 정보공개운영지침/별지/별지4_정보공개처리대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -367,7 +400,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:(한국어촌어항공단)정보공개운영지침#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json"
+            "target_git_path_guess": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json",
+            "target_git_path": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json",
+            "target_git_file_path": "(한국어촌어항공단) 정보공개운영지침/별지/별지5_정보 부존재 등 통지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -399,7 +437,9 @@
             "source_provision_id": "SchlPubRul:(한국어촌어항공단)정보공개운영지침#JO0010",
             "reference_id": "law:공공기관의정보공개에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -419,7 +459,9 @@
             "source_provision_id": "SchlPubRul:(한국어촌어항공단)정보공개운영지침#JO0010",
             "reference_id": "law:공공기관의정보공개에관한법률시행령#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -439,7 +481,9 @@
             "source_provision_id": "SchlPubRul:(한국어촌어항공단)정보공개운영지침#JO0010",
             "reference_id": "law:공공기관의정보공개에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -459,7 +503,9 @@
             "source_provision_id": "SchlPubRul:(한국어촌어항공단)정보공개운영지침#JO0010",
             "reference_id": "law:공공기관의정보공개에관한법률시행령#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -484,7 +530,12 @@
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:(한국어촌어항공단)정보공개운영지침#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json"
+            "target_git_path_guess": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json",
+            "target_git_path": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json",
+            "target_git_file_path": "(한국어촌어항공단) 정보공개운영지침/별지/별지6_정보공개 위임장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -516,7 +567,11 @@
             "source_provision_id": "SchlPubRul:(한국어촌어항공단)정보공개운영지침#JO0011",
             "reference_id": "SchlPubRul:(한국어촌어항공단)정보공개운영지침#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json"
+            "target_git_path_guess": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json",
+            "target_git_path": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -536,7 +591,9 @@
             "source_provision_id": "SchlPubRul:(한국어촌어항공단)정보공개운영지침#JO0011",
             "reference_id": "law:공공기관의정보공개에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -556,7 +613,9 @@
             "source_provision_id": "SchlPubRul:(한국어촌어항공단)정보공개운영지침#JO0011",
             "reference_id": "law:공공기관의정보공개에관한법률시행령#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -581,7 +640,12 @@
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:(한국어촌어항공단)정보공개운영지침#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json"
+            "target_git_path_guess": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json",
+            "target_git_path": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json",
+            "target_git_file_path": "(한국어촌어항공단) 정보공개운영지침/별지/별지7_공개 여부 결정기간 연장 통지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -606,7 +670,12 @@
             "target_unit": "BJ0008",
             "reference_id": "SchlPubRul:(한국어촌어항공단)정보공개운영지침#BJ0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json"
+            "target_git_path_guess": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json",
+            "target_git_path": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json",
+            "target_git_file_path": "(한국어촌어항공단) 정보공개운영지침/별지/별지8_정보(공개, 부분공개, 비공개) 결정 통지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -631,7 +700,12 @@
             "target_unit": "BJ0009",
             "reference_id": "SchlPubRul:(한국어촌어항공단)정보공개운영지침#BJ0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json"
+            "target_git_path_guess": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json",
+            "target_git_path": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json",
+            "target_git_file_path": "(한국어촌어항공단) 정보공개운영지침/별지/별지9_정보공개 청구사실 통지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -656,7 +730,12 @@
             "target_unit": "BJ0010",
             "reference_id": "SchlPubRul:(한국어촌어항공단)정보공개운영지침#BJ0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json"
+            "target_git_path_guess": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json",
+            "target_git_path": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json",
+            "target_git_file_path": "(한국어촌어항공단) 정보공개운영지침/별지/별지10_제3자 의견 청취서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -693,7 +772,12 @@
             "target_unit": "BJ0011",
             "reference_id": "SchlPubRul:(한국어촌어항공단)정보공개운영지침#BJ0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json"
+            "target_git_path_guess": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json",
+            "target_git_path": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json",
+            "target_git_file_path": "(한국어촌어항공단) 정보공개운영지침/별지/별지11_정보공개 결정 등 이의신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -718,7 +802,12 @@
             "target_unit": "BJ0012",
             "reference_id": "SchlPubRul:(한국어촌어항공단)정보공개운영지침#BJ0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json"
+            "target_git_path_guess": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json",
+            "target_git_path": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json",
+            "target_git_file_path": "(한국어촌어항공단) 정보공개운영지침/별지/별지12_이의신청(인용, 부분인용, 기각, 각하)결정 통지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -743,7 +832,12 @@
             "target_unit": "BJ0013",
             "reference_id": "SchlPubRul:(한국어촌어항공단)정보공개운영지침#BJ0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json"
+            "target_git_path_guess": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json",
+            "target_git_path": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json",
+            "target_git_file_path": "(한국어촌어항공단) 정보공개운영지침/별지/별지13_이의신청 결정기간 연장 통지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -768,7 +862,12 @@
             "target_unit": "BJ0014",
             "reference_id": "SchlPubRul:(한국어촌어항공단)정보공개운영지침#BJ0014",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json"
+            "target_git_path_guess": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json",
+            "target_git_path": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json",
+            "target_git_file_path": "(한국어촌어항공단) 정보공개운영지침/별지/별지14_이의신청처리대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -800,7 +899,11 @@
             "source_provision_id": "SchlPubRul:(한국어촌어항공단)정보공개운영지침#JO0013",
             "reference_id": "SchlPubRul:(한국어촌어항공단)정보공개운영지침#JO0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json"
+            "target_git_path_guess": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json",
+            "target_git_path": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -832,7 +935,11 @@
             "source_provision_id": "SchlPubRul:(한국어촌어항공단)정보공개운영지침#JO0014",
             "reference_id": "SchlPubRul:(한국어촌어항공단)정보공개운영지침#JO0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json"
+            "target_git_path_guess": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json",
+            "target_git_path": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -852,7 +959,11 @@
             "source_provision_id": "SchlPubRul:(한국어촌어항공단)정보공개운영지침#JO0014",
             "reference_id": "SchlPubRul:(한국어촌어항공단)정보공개운영지침#JO0016",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json"
+            "target_git_path_guess": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json",
+            "target_git_path": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -895,7 +1006,11 @@
             "source_provision_id": "SchlPubRul:(한국어촌어항공단)정보공개운영지침#JO0016",
             "reference_id": "SchlPubRul:(한국어촌어항공단)정보공개운영지침#JO0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json"
+            "target_git_path_guess": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json",
+            "target_git_path": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -920,7 +1035,12 @@
             "target_unit": "BJ0015",
             "reference_id": "SchlPubRul:(한국어촌어항공단)정보공개운영지침#BJ0015",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json"
+            "target_git_path_guess": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json",
+            "target_git_path": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json",
+            "target_git_file_path": "(한국어촌어항공단) 정보공개운영지침/별지/별지15_제3자 의견서(비공개 요청서).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -945,7 +1065,12 @@
             "target_unit": "BJ0016",
             "reference_id": "SchlPubRul:(한국어촌어항공단)정보공개운영지침#BJ0016",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json"
+            "target_git_path_guess": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json",
+            "target_git_path": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json",
+            "target_git_file_path": "(한국어촌어항공단) 정보공개운영지침/별지/별지16_제3자에 대한 정보공개 결정 통지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -982,7 +1107,12 @@
             "target_unit": "BJ0017",
             "reference_id": "SchlPubRul:(한국어촌어항공단)정보공개운영지침#BJ0017",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json"
+            "target_git_path_guess": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json",
+            "target_git_path": "(한국어촌어항공단) 정보공개운영지침/(한국어촌어항공단) 정보공개운영지침.json",
+            "target_git_file_path": "(한국어촌어항공단) 정보공개운영지침/별지/별지17_의사결정 과정 및 내부검토 과정 종료 통지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

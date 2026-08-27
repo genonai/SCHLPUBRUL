@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:시흥도시공사회계규정#JO0001",
             "reference_id": "law:지방공기업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -196,7 +198,9 @@
             "source_provision_id": "SchlPubRul:시흥도시공사회계규정#JO0011",
             "reference_id": "law:회계관계직원등의책임에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json"
+            "target_git_path_guess": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json",
+            "target_git_path": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -228,7 +232,11 @@
             "source_provision_id": "SchlPubRul:시흥도시공사회계규정#JO0012",
             "reference_id": "SchlPubRul:시흥도시공사회계규정#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json"
+            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_path": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -293,7 +301,11 @@
             "source_provision_id": "SchlPubRul:시흥도시공사회계규정#JO0016",
             "reference_id": "SchlPubRul:시흥도시공사회계규정#JO0014",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json"
+            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_path": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -313,7 +325,11 @@
             "source_provision_id": "SchlPubRul:시흥도시공사회계규정#JO0016",
             "reference_id": "SchlPubRul:시흥도시공사회계규정#JO0015",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json"
+            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_path": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -427,7 +443,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:시흥도시공사회계규정#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json"
+            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_path": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_file_path": "시흥도시공사 회계규정/별지/별지1_총계정원장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -452,7 +473,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:시흥도시공사회계규정#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json"
+            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_path": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_file_path": "시흥도시공사 회계규정/별지/별지2_자금수입기록부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -477,7 +503,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:시흥도시공사회계규정#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json"
+            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_path": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_file_path": "시흥도시공사 회계규정/별지/별지3_자금지출기록부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -502,7 +533,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:시흥도시공사회계규정#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json"
+            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_path": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_file_path": "시흥도시공사 회계규정/별지/별지4_재고증가분개장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -527,7 +563,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:시흥도시공사회계규정#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json"
+            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_path": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_file_path": "시흥도시공사 회계규정/별지/별지5_재고감소분개장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -552,7 +593,12 @@
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:시흥도시공사회계규정#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json"
+            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_path": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_file_path": "시흥도시공사 회계규정/별지/별지6_채무확정및원가분개장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -577,7 +623,12 @@
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:시흥도시공사회계규정#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json"
+            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_path": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_file_path": "시흥도시공사 회계규정/별지/별지7_수입예산정리부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -602,7 +653,12 @@
             "target_unit": "BJ0008",
             "reference_id": "SchlPubRul:시흥도시공사회계규정#BJ0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json"
+            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_path": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_file_path": "시흥도시공사 회계규정/별지/별지8_지출예산통제원장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -627,7 +683,12 @@
             "target_unit": "BJ0009",
             "reference_id": "SchlPubRul:시흥도시공사회계규정#BJ0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json"
+            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_path": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_file_path": "시흥도시공사 회계규정/별지/별지9_일반분개전표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -652,7 +713,12 @@
             "target_unit": "BJ0010",
             "reference_id": "SchlPubRul:시흥도시공사회계규정#BJ0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json"
+            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_path": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_file_path": "시흥도시공사 회계규정/별지/별지10_재고회계분류원장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -677,7 +743,12 @@
             "target_unit": "BJ0011",
             "reference_id": "SchlPubRul:시흥도시공사회계규정#BJ0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json"
+            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_path": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_file_path": "시흥도시공사 회계규정/별지/별지11_저장품대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -702,7 +773,12 @@
             "target_unit": "BJ0012",
             "reference_id": "SchlPubRul:시흥도시공사회계규정#BJ0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json"
+            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_path": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_file_path": "시흥도시공사 회계규정/별지/별지12_토지대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -727,7 +803,12 @@
             "target_unit": "BJ0013",
             "reference_id": "SchlPubRul:시흥도시공사회계규정#BJ0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json"
+            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_path": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_file_path": "시흥도시공사 회계규정/별지/별지13_건물대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -752,7 +833,12 @@
             "target_unit": "BJ0014",
             "reference_id": "SchlPubRul:시흥도시공사회계규정#BJ0014",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json"
+            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_path": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_file_path": "시흥도시공사 회계규정/별지/별지14_기계장치대장, 구축물대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -777,7 +863,12 @@
             "target_unit": "BJ0015",
             "reference_id": "SchlPubRul:시흥도시공사회계규정#BJ0015",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json"
+            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_path": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_file_path": "시흥도시공사 회계규정/별지/별지15_공구기구및비품대장, 차량운반구대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -802,7 +893,12 @@
             "target_unit": "BJ0016",
             "reference_id": "SchlPubRul:시흥도시공사회계규정#BJ0016",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json"
+            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_path": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_file_path": "시흥도시공사 회계규정/별지/별지16_기채,상환대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -827,7 +923,12 @@
             "target_unit": "BJ0017",
             "reference_id": "SchlPubRul:시흥도시공사회계규정#BJ0017",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json"
+            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_path": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_file_path": "시흥도시공사 회계규정/별지/별지17_세입세출외현금출납부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -852,7 +953,12 @@
             "target_unit": "BJ0018",
             "reference_id": "SchlPubRul:시흥도시공사회계규정#BJ0018",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json"
+            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_path": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_file_path": "시흥도시공사 회계규정/별지/별지18_유가증권수급부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1049,7 +1155,9 @@
             "source_provision_id": "SchlPubRul:시흥도시공사회계규정#JO0040",
             "reference_id": "law:은행법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "은행법/법률/은행법.json"
+            "target_git_path_guess": "은행법/법률/은행법.json",
+            "target_git_path": "은행법/법률/은행법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1136,7 +1244,11 @@
             "source_provision_id": "SchlPubRul:시흥도시공사회계규정#JO0046",
             "reference_id": "SchlPubRul:시흥도시공사회계규정#JO0043",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json"
+            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_path": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1168,7 +1280,11 @@
             "source_provision_id": "SchlPubRul:시흥도시공사회계규정#JO0047",
             "reference_id": "SchlPubRul:시흥도시공사회계규정#JO0044",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json"
+            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_path": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -1188,7 +1304,11 @@
             "source_provision_id": "SchlPubRul:시흥도시공사회계규정#JO0047",
             "reference_id": "SchlPubRul:시흥도시공사회계규정#JO0046",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json"
+            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_path": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1247,7 +1367,12 @@
             "target_unit": "BJ0020",
             "reference_id": "SchlPubRul:시흥도시공사회계규정#BJ0020",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json"
+            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_path": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_file_path": "시흥도시공사 회계규정/별지/별지20_수입일계표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1306,7 +1431,12 @@
             "target_unit": "BJ0021",
             "reference_id": "SchlPubRul:시흥도시공사회계규정#BJ0021",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json"
+            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_path": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_file_path": "시흥도시공사 회계규정/별지/별지21_과오납금반환청구서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1331,7 +1461,12 @@
             "target_unit": "BJ0022",
             "reference_id": "SchlPubRul:시흥도시공사회계규정#BJ0022",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json"
+            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_path": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_file_path": "시흥도시공사 회계규정/별지/별지22_과오납금반환결의서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1356,7 +1491,12 @@
             "target_unit": "BJ0023",
             "reference_id": "SchlPubRul:시흥도시공사회계규정#BJ0023",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json"
+            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_path": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_file_path": "시흥도시공사 회계규정/별지/별지23_과오납금반환통지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1410,7 +1550,11 @@
             "source_provision_id": "SchlPubRul:시흥도시공사회계규정#JO0056",
             "reference_id": "SchlPubRul:시흥도시공사회계규정#JO0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json"
+            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_path": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1480,7 +1624,12 @@
             "target_unit": "BJ0008",
             "reference_id": "SchlPubRul:시흥도시공사회계규정#BJ0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json"
+            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_path": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_file_path": "시흥도시공사 회계규정/별지/별지8_지출예산통제원장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1505,7 +1654,12 @@
             "target_unit": "BJ0024",
             "reference_id": "SchlPubRul:시흥도시공사회계규정#BJ0024",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json"
+            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_path": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_file_path": "시흥도시공사 회계규정/별지/별지24_지출결의서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1553,7 +1707,12 @@
             "target_unit": "BJ0025",
             "reference_id": "SchlPubRul:시흥도시공사회계규정#BJ0025",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json"
+            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_path": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_file_path": "시흥도시공사 회계규정/별지/별지25_통상지급통지.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1645,7 +1804,12 @@
             "target_unit": "BJ0028",
             "reference_id": "SchlPubRul:시흥도시공사회계규정#BJ0028",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json"
+            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_path": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_file_path": "시흥도시공사 회계규정/별지/별지28_여입결의서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1670,7 +1834,12 @@
             "target_unit": "BJ0029",
             "reference_id": "SchlPubRul:시흥도시공사회계규정#BJ0029",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json"
+            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_path": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_file_path": "시흥도시공사 회계규정/별지/별지29_반납고지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1762,7 +1931,12 @@
             "target_unit": "BJ0030",
             "reference_id": "SchlPubRul:시흥도시공사회계규정#BJ0030",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json"
+            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_path": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_file_path": "시흥도시공사 회계규정/별지/별지30_세입세출외현금(일시보관 유가증권) 납부서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1787,7 +1961,12 @@
             "target_unit": "BJ0031",
             "reference_id": "SchlPubRul:시흥도시공사회계규정#BJ0031",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json"
+            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_path": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_file_path": "시흥도시공사 회계규정/별지/별지31_세입세출외현금(일시보관유가증권) 반환청구서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1857,7 +2036,12 @@
             "target_unit": "BJ0030",
             "reference_id": "SchlPubRul:시흥도시공사회계규정#BJ0030",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json"
+            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_path": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_file_path": "시흥도시공사 회계규정/별지/별지30_세입세출외현금(일시보관 유가증권) 납부서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1882,7 +2066,12 @@
             "target_unit": "BJ0031",
             "reference_id": "SchlPubRul:시흥도시공사회계규정#BJ0031",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json"
+            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_path": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_file_path": "시흥도시공사 회계규정/별지/별지31_세입세출외현금(일시보관유가증권) 반환청구서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1936,7 +2125,11 @@
             "source_provision_id": "SchlPubRul:시흥도시공사회계규정#JO0081",
             "reference_id": "SchlPubRul:시흥도시공사회계규정#JO0048",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json"
+            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_path": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1979,7 +2172,11 @@
             "source_provision_id": "SchlPubRul:시흥도시공사회계규정#JO0083",
             "reference_id": "SchlPubRul:시흥도시공사회계규정#JO0082",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json"
+            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_path": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -2022,7 +2219,11 @@
             "source_provision_id": "SchlPubRul:시흥도시공사회계규정#JO0085",
             "reference_id": "SchlPubRul:시흥도시공사회계규정#JO0082",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json"
+            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_path": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -2042,7 +2243,11 @@
             "source_provision_id": "SchlPubRul:시흥도시공사회계규정#JO0085",
             "reference_id": "SchlPubRul:시흥도시공사회계규정#JO0083",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json"
+            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_path": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -2062,7 +2267,11 @@
             "source_provision_id": "SchlPubRul:시흥도시공사회계규정#JO0085",
             "reference_id": "SchlPubRul:시흥도시공사회계규정#JO0084",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json"
+            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_path": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -2143,7 +2352,12 @@
             "target_unit": "BJ0032",
             "reference_id": "SchlPubRul:시흥도시공사회계규정#BJ0032",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json"
+            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_path": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_file_path": "시흥도시공사 회계규정/별지/별지32_수입지출원장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2168,7 +2382,12 @@
             "target_unit": "BJ0033",
             "reference_id": "SchlPubRul:시흥도시공사회계규정#BJ0033",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json"
+            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_path": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_file_path": "시흥도시공사 회계규정/별지/별지33_수입금내역장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2193,7 +2412,12 @@
             "target_unit": "BJ0034",
             "reference_id": "SchlPubRul:시흥도시공사회계규정#BJ0034",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json"
+            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_path": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_file_path": "시흥도시공사 회계규정/별지/별지34_지출금내역장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2218,7 +2442,12 @@
             "target_unit": "BJ0035",
             "reference_id": "SchlPubRul:시흥도시공사회계규정#BJ0035",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json"
+            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_path": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_file_path": "시흥도시공사 회계규정/별지/별지35_세입세출외 현금출납장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2243,7 +2472,12 @@
             "target_unit": "BJ0036",
             "reference_id": "SchlPubRul:시흥도시공사회계규정#BJ0036",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json"
+            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_path": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_file_path": "시흥도시공사 회계규정/별지/별지36_유가증권수급부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -2984,7 +3218,12 @@
             "target_unit": "BJ0044",
             "reference_id": "SchlPubRul:시흥도시공사회계규정#BJ0044",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json"
+            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_path": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_file_path": "시흥도시공사 회계규정/별지/별지44_지출예산변경(이용_전용_조정_이체)요구서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -3076,7 +3315,12 @@
             "target_unit": "BJ0037",
             "reference_id": "SchlPubRul:시흥도시공사회계규정#BJ0037",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json"
+            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_path": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_file_path": "시흥도시공사 회계규정/별지/별지37_계속비이월요구서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -3101,7 +3345,12 @@
             "target_unit": "BJ0038",
             "reference_id": "SchlPubRul:시흥도시공사회계규정#BJ0038",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json"
+            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_path": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_file_path": "시흥도시공사 회계규정/별지/별지38_계속비정산보고서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -3138,7 +3387,12 @@
             "target_unit": "BJ0039",
             "reference_id": "SchlPubRul:시흥도시공사회계규정#BJ0039",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json"
+            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_path": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_file_path": "시흥도시공사 회계규정/별지/별지39_예비비지출요구서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -3329,7 +3583,12 @@
             "target_unit": "BJ0040",
             "reference_id": "SchlPubRul:시흥도시공사회계규정#BJ0040",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json"
+            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_path": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_file_path": "시흥도시공사 회계규정/별지/별지40_재고증가집계표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -3354,7 +3613,12 @@
             "target_unit": "BJ0041",
             "reference_id": "SchlPubRul:시흥도시공사회계규정#BJ0041",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json"
+            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_path": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_file_path": "시흥도시공사 회계규정/별지/별지41_재고감소집계표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -3379,7 +3643,12 @@
             "target_unit": "BJ0042",
             "reference_id": "SchlPubRul:시흥도시공사회계규정#BJ0042",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json"
+            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_path": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_file_path": "시흥도시공사 회계규정/별지/별지42_일반분개정산표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -3404,7 +3673,12 @@
             "target_unit": "BJ0043",
             "reference_id": "SchlPubRul:시흥도시공사회계규정#BJ0043",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json"
+            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_path": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_file_path": "시흥도시공사 회계규정/별지/별지43_시산정산표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -3601,7 +3875,11 @@
             "source_provision_id": "SchlPubRul:시흥도시공사회계규정#JO0191",
             "reference_id": "SchlPubRul:시흥도시공사회계규정#JO0190",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json"
+            "target_git_path_guess": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_git_path": "시흥도시공사 회계규정/시흥도시공사 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],

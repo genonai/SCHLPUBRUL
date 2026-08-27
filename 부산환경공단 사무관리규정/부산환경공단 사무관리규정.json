@@ -164,7 +164,9 @@
             "source_provision_id": "SchlPubRul:부산환경공단사무관리규정#JO0010",
             "reference_id": "law:문화예술진흥법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "문화예술진흥법/법률/문화예술진흥법.json"
+            "target_git_path_guess": "문화예술진흥법/법률/문화예술진흥법.json",
+            "target_git_path": "문화예술진흥법/법률/문화예술진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -184,7 +186,9 @@
             "source_provision_id": "SchlPubRul:부산환경공단사무관리규정#JO0010",
             "reference_id": "law:문화예술진흥법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "문화예술진흥법/법률/문화예술진흥법.json"
+            "target_git_path_guess": "문화예술진흥법/법률/문화예술진흥법.json",
+            "target_git_path": "문화예술진흥법/법률/문화예술진흥법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -364,7 +368,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:부산환경공단사무관리규정#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산환경공단 사무관리규정/부산환경공단 사무관리규정.json"
+            "target_git_path_guess": "부산환경공단 사무관리규정/부산환경공단 사무관리규정.json",
+            "target_git_path": "부산환경공단 사무관리규정/부산환경공단 사무관리규정.json",
+            "target_git_file_path": "부산환경공단 사무관리규정/별지/별지1_기록물 배부대장(문서부서용).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -382,9 +391,14 @@
             "target_url": "https://www.law.go.kr/법령/민원사무처리규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:부산환경공단사무관리규정#JO0024",
-            "reference_id": "law:민원사무처리규정#DOC",
+            "reference_id": "SchlPubRul:민원사무처리규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민원사무처리규정/법률/민원사무처리규정.json"
+            "target_git_path_guess": "민원사무처리규정/법률/민원사무처리규정.json",
+            "target_git_path": "민원사무처리규정/public_2141213/민원사무처리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관",
+            "target_candidates": 3
           }
         ],
         "images": [],
@@ -487,7 +501,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:부산환경공단사무관리규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산환경공단 사무관리규정/부산환경공단 사무관리규정.json"
+            "target_git_path_guess": "부산환경공단 사무관리규정/부산환경공단 사무관리규정.json",
+            "target_git_path": "부산환경공단 사무관리규정/부산환경공단 사무관리규정.json",
+            "target_git_file_path": "부산환경공단 사무관리규정/별표/별표1_인장 규격표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -530,7 +549,11 @@
             "source_provision_id": "SchlPubRul:부산환경공단사무관리규정#JO0033",
             "reference_id": "SchlPubRul:부산환경공단사무관리규정#JO0030",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산환경공단 사무관리규정/부산환경공단 사무관리규정.json"
+            "target_git_path_guess": "부산환경공단 사무관리규정/부산환경공단 사무관리규정.json",
+            "target_git_path": "부산환경공단 사무관리규정/부산환경공단 사무관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -622,7 +645,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:부산환경공단사무관리규정#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산환경공단 사무관리규정/부산환경공단 사무관리규정.json"
+            "target_git_path_guess": "부산환경공단 사무관리규정/부산환경공단 사무관리규정.json",
+            "target_git_path": "부산환경공단 사무관리규정/부산환경공단 사무관리규정.json",
+            "target_git_file_path": "부산환경공단 사무관리규정/별지/별지2_보고지정 신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -647,7 +675,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:부산환경공단사무관리규정#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산환경공단 사무관리규정/부산환경공단 사무관리규정.json"
+            "target_git_path_guess": "부산환경공단 사무관리규정/부산환경공단 사무관리규정.json",
+            "target_git_path": "부산환경공단 사무관리규정/부산환경공단 사무관리규정.json",
+            "target_git_file_path": "부산환경공단 사무관리규정/별표/별표2_보고 통제인.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -695,7 +728,12 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:부산환경공단사무관리규정#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산환경공단 사무관리규정/부산환경공단 사무관리규정.json"
+            "target_git_path_guess": "부산환경공단 사무관리규정/부산환경공단 사무관리규정.json",
+            "target_git_path": "부산환경공단 사무관리규정/부산환경공단 사무관리규정.json",
+            "target_git_file_path": "부산환경공단 사무관리규정/별표/별표3_정기보고 제출기일.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -732,7 +770,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:부산환경공단사무관리규정#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산환경공단 사무관리규정/부산환경공단 사무관리규정.json"
+            "target_git_path_guess": "부산환경공단 사무관리규정/부산환경공단 사무관리규정.json",
+            "target_git_path": "부산환경공단 사무관리규정/부산환경공단 사무관리규정.json",
+            "target_git_file_path": "부산환경공단 사무관리규정/별지/별지3_보고문서 반려서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],

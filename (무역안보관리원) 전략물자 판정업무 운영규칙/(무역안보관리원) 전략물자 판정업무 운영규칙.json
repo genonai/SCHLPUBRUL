@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:(무역안보관리원)전략물자판정업무운영규칙#JO0001",
             "reference_id": "law:대외무역법#JO0052",
             "target_repo": "LAW",
-            "target_git_path_guess": "대외무역법/법률/대외무역법.json"
+            "target_git_path_guess": "대외무역법/법률/대외무역법.json",
+            "target_git_path": "대외무역법/법률/대외무역법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -85,7 +87,9 @@
             "source_provision_id": "SchlPubRul:(무역안보관리원)전략물자판정업무운영규칙#JO0001",
             "reference_id": "law:대외무역법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "대외무역법/시행령/대외무역법시행령.json"
+            "target_git_path_guess": "대외무역법/시행령/대외무역법시행령.json",
+            "target_git_path": "대외무역법/시행령/대외무역법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -105,7 +109,9 @@
             "source_provision_id": "SchlPubRul:(무역안보관리원)전략물자판정업무운영규칙#JO0001",
             "reference_id": "law:대외무역법시행령#JO0091",
             "target_repo": "LAW",
-            "target_git_path_guess": "대외무역법/시행령/대외무역법시행령.json"
+            "target_git_path_guess": "대외무역법/시행령/대외무역법시행령.json",
+            "target_git_path": "대외무역법/시행령/대외무역법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -125,7 +131,11 @@
             "source_provision_id": "SchlPubRul:(무역안보관리원)전략물자판정업무운영규칙#JO0001",
             "reference_id": "admrul:전략물자수출입고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "전략물자수출입고시/전략물자수출입고시.json"
+            "target_git_path_guess": "전략물자수출입고시/전략물자수출입고시.json",
+            "target_git_path": "전략물자수출입고시/전략물자수출입고시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -145,7 +155,11 @@
             "source_provision_id": "SchlPubRul:(무역안보관리원)전략물자판정업무운영규칙#JO0001",
             "reference_id": "admrul:전략물자수출입고시#JO0007",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "전략물자수출입고시/전략물자수출입고시.json"
+            "target_git_path_guess": "전략물자수출입고시/전략물자수출입고시.json",
+            "target_git_path": "전략물자수출입고시/전략물자수출입고시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -199,7 +213,11 @@
             "source_provision_id": "SchlPubRul:(무역안보관리원)전략물자판정업무운영규칙#JO0004",
             "reference_id": "SchlPubRul:(무역안보관리원)전략물자판정업무운영규칙#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(무역안보관리원) 전략물자 판정업무 운영규칙/(무역안보관리원) 전략물자 판정업무 운영규칙.json"
+            "target_git_path_guess": "(무역안보관리원) 전략물자 판정업무 운영규칙/(무역안보관리원) 전략물자 판정업무 운영규칙.json",
+            "target_git_path": "(무역안보관리원) 전략물자 판정업무 운영규칙/(무역안보관리원) 전략물자 판정업무 운영규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -231,7 +249,11 @@
             "source_provision_id": "SchlPubRul:(무역안보관리원)전략물자판정업무운영규칙#JO0005",
             "reference_id": "SchlPubRul:(무역안보관리원)전략물자판정업무운영규칙#JO0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(무역안보관리원) 전략물자 판정업무 운영규칙/(무역안보관리원) 전략물자 판정업무 운영규칙.json"
+            "target_git_path_guess": "(무역안보관리원) 전략물자 판정업무 운영규칙/(무역안보관리원) 전략물자 판정업무 운영규칙.json",
+            "target_git_path": "(무역안보관리원) 전략물자 판정업무 운영규칙/(무역안보관리원) 전략물자 판정업무 운영규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -285,7 +307,11 @@
             "source_provision_id": "SchlPubRul:(무역안보관리원)전략물자판정업무운영규칙#JO0008",
             "reference_id": "SchlPubRul:(무역안보관리원)전략물자판정업무운영규칙#JO0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(무역안보관리원) 전략물자 판정업무 운영규칙/(무역안보관리원) 전략물자 판정업무 운영규칙.json"
+            "target_git_path_guess": "(무역안보관리원) 전략물자 판정업무 운영규칙/(무역안보관리원) 전략물자 판정업무 운영규칙.json",
+            "target_git_path": "(무역안보관리원) 전략물자 판정업무 운영규칙/(무역안보관리원) 전략물자 판정업무 운영규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -322,7 +348,8 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:(무역안보관리원)전략물자판정업무운영규칙#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(무역안보관리원) 전략물자 판정업무 운영규칙/(무역안보관리원) 전략물자 판정업무 운영규칙.json"
+            "target_git_path_guess": "(무역안보관리원) 전략물자 판정업무 운영규칙/(무역안보관리원) 전략물자 판정업무 운영규칙.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -376,7 +403,11 @@
             "source_provision_id": "SchlPubRul:(무역안보관리원)전략물자판정업무운영규칙#JO0012",
             "reference_id": "SchlPubRul:(무역안보관리원)전략물자판정업무운영규칙#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(무역안보관리원) 전략물자 판정업무 운영규칙/(무역안보관리원) 전략물자 판정업무 운영규칙.json"
+            "target_git_path_guess": "(무역안보관리원) 전략물자 판정업무 운영규칙/(무역안보관리원) 전략물자 판정업무 운영규칙.json",
+            "target_git_path": "(무역안보관리원) 전략물자 판정업무 운영규칙/(무역안보관리원) 전략물자 판정업무 운영규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -396,7 +427,11 @@
             "source_provision_id": "SchlPubRul:(무역안보관리원)전략물자판정업무운영규칙#JO0012",
             "reference_id": "SchlPubRul:(무역안보관리원)전략물자판정업무운영규칙#JO0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(무역안보관리원) 전략물자 판정업무 운영규칙/(무역안보관리원) 전략물자 판정업무 운영규칙.json"
+            "target_git_path_guess": "(무역안보관리원) 전략물자 판정업무 운영규칙/(무역안보관리원) 전략물자 판정업무 운영규칙.json",
+            "target_git_path": "(무역안보관리원) 전략물자 판정업무 운영규칙/(무역안보관리원) 전략물자 판정업무 운영규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -416,7 +451,11 @@
             "source_provision_id": "SchlPubRul:(무역안보관리원)전략물자판정업무운영규칙#JO0012",
             "reference_id": "SchlPubRul:(무역안보관리원)전략물자판정업무운영규칙#JO0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(무역안보관리원) 전략물자 판정업무 운영규칙/(무역안보관리원) 전략물자 판정업무 운영규칙.json"
+            "target_git_path_guess": "(무역안보관리원) 전략물자 판정업무 운영규칙/(무역안보관리원) 전략물자 판정업무 운영규칙.json",
+            "target_git_path": "(무역안보관리원) 전략물자 판정업무 운영규칙/(무역안보관리원) 전략물자 판정업무 운영규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -459,7 +498,9 @@
             "source_provision_id": "SchlPubRul:(무역안보관리원)전략물자판정업무운영규칙#JO0014",
             "reference_id": "law:대외무역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "대외무역법/법률/대외무역법.json"
+            "target_git_path_guess": "대외무역법/법률/대외무역법.json",
+            "target_git_path": "대외무역법/법률/대외무역법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -479,7 +520,9 @@
             "source_provision_id": "SchlPubRul:(무역안보관리원)전략물자판정업무운영규칙#JO0014",
             "reference_id": "law:대외무역법#JO0029",
             "target_repo": "LAW",
-            "target_git_path_guess": "대외무역법/법률/대외무역법.json"
+            "target_git_path_guess": "대외무역법/법률/대외무역법.json",
+            "target_git_path": "대외무역법/법률/대외무역법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -499,7 +542,11 @@
             "source_provision_id": "SchlPubRul:(무역안보관리원)전략물자판정업무운영규칙#JO0014",
             "reference_id": "SchlPubRul:(무역안보관리원)전략물자판정업무운영규칙#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(무역안보관리원) 전략물자 판정업무 운영규칙/(무역안보관리원) 전략물자 판정업무 운영규칙.json"
+            "target_git_path_guess": "(무역안보관리원) 전략물자 판정업무 운영규칙/(무역안보관리원) 전략물자 판정업무 운영규칙.json",
+            "target_git_path": "(무역안보관리원) 전략물자 판정업무 운영규칙/(무역안보관리원) 전략물자 판정업무 운영규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -519,7 +566,11 @@
             "source_provision_id": "SchlPubRul:(무역안보관리원)전략물자판정업무운영규칙#JO0014",
             "reference_id": "SchlPubRul:(무역안보관리원)전략물자판정업무운영규칙#JO0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(무역안보관리원) 전략물자 판정업무 운영규칙/(무역안보관리원) 전략물자 판정업무 운영규칙.json"
+            "target_git_path_guess": "(무역안보관리원) 전략물자 판정업무 운영규칙/(무역안보관리원) 전략물자 판정업무 운영규칙.json",
+            "target_git_path": "(무역안보관리원) 전략물자 판정업무 운영규칙/(무역안보관리원) 전략물자 판정업무 운영규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -551,7 +602,11 @@
             "source_provision_id": "SchlPubRul:(무역안보관리원)전략물자판정업무운영규칙#JO0015",
             "reference_id": "SchlPubRul:(무역안보관리원)전략물자판정업무운영규칙#JO0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(무역안보관리원) 전략물자 판정업무 운영규칙/(무역안보관리원) 전략물자 판정업무 운영규칙.json"
+            "target_git_path_guess": "(무역안보관리원) 전략물자 판정업무 운영규칙/(무역안보관리원) 전략물자 판정업무 운영규칙.json",
+            "target_git_path": "(무역안보관리원) 전략물자 판정업무 운영규칙/(무역안보관리원) 전략물자 판정업무 운영규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -571,7 +626,11 @@
             "source_provision_id": "SchlPubRul:(무역안보관리원)전략물자판정업무운영규칙#JO0015",
             "reference_id": "SchlPubRul:(무역안보관리원)전략물자판정업무운영규칙#JO0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(무역안보관리원) 전략물자 판정업무 운영규칙/(무역안보관리원) 전략물자 판정업무 운영규칙.json"
+            "target_git_path_guess": "(무역안보관리원) 전략물자 판정업무 운영규칙/(무역안보관리원) 전략물자 판정업무 운영규칙.json",
+            "target_git_path": "(무역안보관리원) 전략물자 판정업무 운영규칙/(무역안보관리원) 전략물자 판정업무 운영규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -591,7 +650,11 @@
             "source_provision_id": "SchlPubRul:(무역안보관리원)전략물자판정업무운영규칙#JO0015",
             "reference_id": "SchlPubRul:(무역안보관리원)전략물자판정업무운영규칙#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(무역안보관리원) 전략물자 판정업무 운영규칙/(무역안보관리원) 전략물자 판정업무 운영규칙.json"
+            "target_git_path_guess": "(무역안보관리원) 전략물자 판정업무 운영규칙/(무역안보관리원) 전략물자 판정업무 운영규칙.json",
+            "target_git_path": "(무역안보관리원) 전략물자 판정업무 운영규칙/(무역안보관리원) 전략물자 판정업무 운영규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -611,7 +674,11 @@
             "source_provision_id": "SchlPubRul:(무역안보관리원)전략물자판정업무운영규칙#JO0015",
             "reference_id": "SchlPubRul:(무역안보관리원)전략물자판정업무운영규칙#JO0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(무역안보관리원) 전략물자 판정업무 운영규칙/(무역안보관리원) 전략물자 판정업무 운영규칙.json"
+            "target_git_path_guess": "(무역안보관리원) 전략물자 판정업무 운영규칙/(무역안보관리원) 전략물자 판정업무 운영규칙.json",
+            "target_git_path": "(무역안보관리원) 전략물자 판정업무 운영규칙/(무역안보관리원) 전략물자 판정업무 운영규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -631,7 +698,11 @@
             "source_provision_id": "SchlPubRul:(무역안보관리원)전략물자판정업무운영규칙#JO0015",
             "reference_id": "SchlPubRul:(무역안보관리원)전략물자판정업무운영규칙#JO0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(무역안보관리원) 전략물자 판정업무 운영규칙/(무역안보관리원) 전략물자 판정업무 운영규칙.json"
+            "target_git_path_guess": "(무역안보관리원) 전략물자 판정업무 운영규칙/(무역안보관리원) 전략물자 판정업무 운영규칙.json",
+            "target_git_path": "(무역안보관리원) 전략물자 판정업무 운영규칙/(무역안보관리원) 전략물자 판정업무 운영규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -651,7 +722,11 @@
             "source_provision_id": "SchlPubRul:(무역안보관리원)전략물자판정업무운영규칙#JO0015",
             "reference_id": "SchlPubRul:(무역안보관리원)전략물자판정업무운영규칙#JO0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(무역안보관리원) 전략물자 판정업무 운영규칙/(무역안보관리원) 전략물자 판정업무 운영규칙.json"
+            "target_git_path_guess": "(무역안보관리원) 전략물자 판정업무 운영규칙/(무역안보관리원) 전략물자 판정업무 운영규칙.json",
+            "target_git_path": "(무역안보관리원) 전략물자 판정업무 운영규칙/(무역안보관리원) 전략물자 판정업무 운영규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -671,7 +746,11 @@
             "source_provision_id": "SchlPubRul:(무역안보관리원)전략물자판정업무운영규칙#JO0015",
             "reference_id": "SchlPubRul:(무역안보관리원)전략물자판정업무운영규칙#JO0016",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(무역안보관리원) 전략물자 판정업무 운영규칙/(무역안보관리원) 전략물자 판정업무 운영규칙.json"
+            "target_git_path_guess": "(무역안보관리원) 전략물자 판정업무 운영규칙/(무역안보관리원) 전략물자 판정업무 운영규칙.json",
+            "target_git_path": "(무역안보관리원) 전략물자 판정업무 운영규칙/(무역안보관리원) 전략물자 판정업무 운영규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -703,7 +782,11 @@
             "source_provision_id": "SchlPubRul:(무역안보관리원)전략물자판정업무운영규칙#JO0016",
             "reference_id": "SchlPubRul:(무역안보관리원)전략물자판정업무운영규칙#JO0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(무역안보관리원) 전략물자 판정업무 운영규칙/(무역안보관리원) 전략물자 판정업무 운영규칙.json"
+            "target_git_path_guess": "(무역안보관리원) 전략물자 판정업무 운영규칙/(무역안보관리원) 전략물자 판정업무 운영규칙.json",
+            "target_git_path": "(무역안보관리원) 전략물자 판정업무 운영규칙/(무역안보관리원) 전략물자 판정업무 운영규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)이사회운영규정#JO0001",
             "reference_id": "law:산업집적활성화및공장설립에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/법률/산업집적활성화 및 공장설립에 관한 법률.json"
+            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/법률/산업집적활성화 및 공장설립에 관한 법률.json",
+            "target_git_path": "산업집적활성화 및 공장설립에 관한 법률/법률/산업집적활성화 및 공장설립에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -85,7 +87,9 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)이사회운영규정#JO0001",
             "reference_id": "law:산업집적활성화및공장설립에관한법률#JO0045_20",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/법률/산업집적활성화 및 공장설립에 관한 법률.json"
+            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/법률/산업집적활성화 및 공장설립에 관한 법률.json",
+            "target_git_path": "산업집적활성화 및 공장설립에 관한 법률/법률/산업집적활성화 및 공장설립에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -126,9 +130,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/이사회 운영규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국산업단지공단)이사회운영규정#JO0003",
-            "reference_id": "SchlPubRul:이사회운영규정#DOC",
+            "reference_id": "SchlPubRul:이사회운영규정:public_2141103#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "이사회 운영규정/이사회 운영규정.json"
+            "target_git_path_guess": "이사회 운영규정/이사회 운영규정.json",
+            "target_candidates": 5,
+            "target_git_path": "이사회운영규정/public_2141103/이사회운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -198,7 +207,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(한국산업단지공단)이사회운영규정#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산업단지공단) 이사회 운영규정/(한국산업단지공단) 이사회 운영규정.json"
+            "target_git_path_guess": "(한국산업단지공단) 이사회 운영규정/(한국산업단지공단) 이사회 운영규정.json",
+            "target_git_path": "(한국산업단지공단) 이사회 운영규정/(한국산업단지공단) 이사회 운영규정.json",
+            "target_git_file_path": "(한국산업단지공단) 이사회 운영규정/별지/별지1_위임장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -235,7 +249,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(한국산업단지공단)이사회운영규정#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산업단지공단) 이사회 운영규정/(한국산업단지공단) 이사회 운영규정.json"
+            "target_git_path_guess": "(한국산업단지공단) 이사회 운영규정/(한국산업단지공단) 이사회 운영규정.json",
+            "target_git_path": "(한국산업단지공단) 이사회 운영규정/(한국산업단지공단) 이사회 운영규정.json",
+            "target_git_file_path": "(한국산업단지공단) 이사회 운영규정/별지/별지2_서면의결서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -255,7 +274,9 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)이사회운영규정#JO0008",
             "reference_id": "law:상법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "상법/법률/상법.json"
+            "target_git_path_guess": "상법/법률/상법.json",
+            "target_git_path": "상법/법률/상법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -275,7 +296,9 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)이사회운영규정#JO0008",
             "reference_id": "law:상법#JO0391",
             "target_repo": "LAW",
-            "target_git_path_guess": "상법/법률/상법.json"
+            "target_git_path_guess": "상법/법률/상법.json",
+            "target_git_path": "상법/법률/상법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -334,7 +357,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:(한국산업단지공단)이사회운영규정#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산업단지공단) 이사회 운영규정/(한국산업단지공단) 이사회 운영규정.json"
+            "target_git_path_guess": "(한국산업단지공단) 이사회 운영규정/(한국산업단지공단) 이사회 운영규정.json",
+            "target_git_path": "(한국산업단지공단) 이사회 운영규정/(한국산업단지공단) 이사회 운영규정.json",
+            "target_git_file_path": "(한국산업단지공단) 이사회 운영규정/별지/별지3_이사회 회의록.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -377,7 +405,11 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)이사회운영규정#JO0013",
             "reference_id": "SchlPubRul:(한국산업단지공단)이사회운영규정#JO0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산업단지공단) 이사회 운영규정/(한국산업단지공단) 이사회 운영규정.json"
+            "target_git_path_guess": "(한국산업단지공단) 이사회 운영규정/(한국산업단지공단) 이사회 운영규정.json",
+            "target_git_path": "(한국산업단지공단) 이사회 운영규정/(한국산업단지공단) 이사회 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -409,7 +441,9 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)이사회운영규정#JO0014",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -497,7 +531,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:(한국산업단지공단)이사회운영규정#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산업단지공단) 이사회 운영규정/(한국산업단지공단) 이사회 운영규정.json"
+            "target_git_path_guess": "(한국산업단지공단) 이사회 운영규정/(한국산업단지공단) 이사회 운영규정.json",
+            "target_git_path": "(한국산업단지공단) 이사회 운영규정/(한국산업단지공단) 이사회 운영규정.json",
+            "target_git_file_path": "(한국산업단지공단) 이사회 운영규정/별지/별지4_이사회 안건.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -540,7 +579,11 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)이사회운영규정#JO0017_02",
             "reference_id": "SchlPubRul:(한국산업단지공단)이사회운영규정#JO0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산업단지공단) 이사회 운영규정/(한국산업단지공단) 이사회 운영규정.json"
+            "target_git_path_guess": "(한국산업단지공단) 이사회 운영규정/(한국산업단지공단) 이사회 운영규정.json",
+            "target_git_path": "(한국산업단지공단) 이사회 운영규정/(한국산업단지공단) 이사회 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -560,7 +603,11 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)이사회운영규정#JO0017_02",
             "reference_id": "SchlPubRul:(한국산업단지공단)이사회운영규정#JO0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산업단지공단) 이사회 운영규정/(한국산업단지공단) 이사회 운영규정.json"
+            "target_git_path_guess": "(한국산업단지공단) 이사회 운영규정/(한국산업단지공단) 이사회 운영규정.json",
+            "target_git_path": "(한국산업단지공단) 이사회 운영규정/(한국산업단지공단) 이사회 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -592,7 +639,11 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)이사회운영규정#JO0018",
             "reference_id": "SchlPubRul:(한국산업단지공단)이사회운영규정#JO0015",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산업단지공단) 이사회 운영규정/(한국산업단지공단) 이사회 운영규정.json"
+            "target_git_path_guess": "(한국산업단지공단) 이사회 운영규정/(한국산업단지공단) 이사회 운영규정.json",
+            "target_git_path": "(한국산업단지공단) 이사회 운영규정/(한국산업단지공단) 이사회 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

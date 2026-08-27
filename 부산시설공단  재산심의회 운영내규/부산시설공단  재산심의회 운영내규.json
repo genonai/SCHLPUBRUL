@@ -65,7 +65,11 @@
             "source_provision_id": "SchlPubRul:부산시설공단재산심의회운영내규#JO0001",
             "reference_id": "SchlPubRul:부산시설공단재산심의회운영내규#JO0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산시설공단 재산심의회 운영내규/부산시설공단 재산심의회 운영내규.json"
+            "target_git_path_guess": "부산시설공단 재산심의회 운영내규/부산시설공단 재산심의회 운영내규.json",
+            "target_git_path": "부산시설공단  재산심의회 운영내규/부산시설공단  재산심의회 운영내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -117,9 +121,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/부산시설공단 직제규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:부산시설공단재산심의회운영내규#JO0004",
-            "reference_id": "SchlPubRul:부산시설공단직제규정#DOC",
+            "reference_id": "SchlPubRul:부산시설공단직제규정:public_2124789#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산시설공단 직제규정/부산시설공단 직제규정.json"
+            "target_git_path_guess": "부산시설공단 직제규정/부산시설공단 직제규정.json",
+            "target_candidates": 2,
+            "target_git_path": "부산시설공단 직제규정/public_2124789/부산시설공단 직제규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],

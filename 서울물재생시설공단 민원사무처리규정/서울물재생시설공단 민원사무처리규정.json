@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:서울물재생시설공단민원사무처리규정#JO0001",
             "reference_id": "law:민원처리에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민원처리에 관한 법률/시행령/민원처리에 관한 법률 시행령.json"
+            "target_git_path_guess": "민원처리에 관한 법률/시행령/민원처리에 관한 법률 시행령.json",
+            "target_git_path": "민원 처리에 관한 법률/시행령/민원 처리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -85,7 +87,9 @@
             "source_provision_id": "SchlPubRul:서울물재생시설공단민원사무처리규정#JO0001",
             "reference_id": "law:민원처리에관한법률시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민원처리에 관한 법률/시행규칙/민원처리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "민원처리에 관한 법률/시행규칙/민원처리에 관한 법률 시행규칙.json",
+            "target_git_path": "민원 처리에 관한 법률/시행규칙/민원 처리에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -128,7 +132,9 @@
             "source_provision_id": "SchlPubRul:서울물재생시설공단민원사무처리규정#JO0003",
             "reference_id": "law:민원처리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민원처리에 관한 법률/법률/민원처리에 관한 법률.json"
+            "target_git_path_guess": "민원처리에 관한 법률/법률/민원처리에 관한 법률.json",
+            "target_git_path": "민원 처리에 관한 법률/법률/민원 처리에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -165,7 +171,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:서울물재생시설공단민원사무처리규정#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "서울물재생시설공단 민원사무처리규정/서울물재생시설공단 민원사무처리규정.json"
+            "target_git_path_guess": "서울물재생시설공단 민원사무처리규정/서울물재생시설공단 민원사무처리규정.json",
+            "target_git_path": "서울물재생시설공단 민원사무처리규정/서울물재생시설공단 민원사무처리규정.json",
+            "target_git_file_path": "서울물재생시설공단 민원사무처리규정/별지/별지1_신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -190,7 +201,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:서울물재생시설공단민원사무처리규정#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "서울물재생시설공단 민원사무처리규정/서울물재생시설공단 민원사무처리규정.json"
+            "target_git_path_guess": "서울물재생시설공단 민원사무처리규정/서울물재생시설공단 민원사무처리규정.json",
+            "target_git_path": "서울물재생시설공단 민원사무처리규정/서울물재생시설공단 민원사무처리규정.json",
+            "target_git_file_path": "서울물재생시설공단 민원사무처리규정/별지/별지2_민원접수대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -215,7 +231,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:서울물재생시설공단민원사무처리규정#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "서울물재생시설공단 민원사무처리규정/서울물재생시설공단 민원사무처리규정.json"
+            "target_git_path_guess": "서울물재생시설공단 민원사무처리규정/서울물재생시설공단 민원사무처리규정.json",
+            "target_git_path": "서울물재생시설공단 민원사무처리규정/서울물재생시설공단 민원사무처리규정.json",
+            "target_git_file_path": "서울물재생시설공단 민원사무처리규정/별지/별지3_민원사무처리대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -240,7 +261,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:서울물재생시설공단민원사무처리규정#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "서울물재생시설공단 민원사무처리규정/서울물재생시설공단 민원사무처리규정.json"
+            "target_git_path_guess": "서울물재생시설공단 민원사무처리규정/서울물재생시설공단 민원사무처리규정.json",
+            "target_git_path": "서울물재생시설공단 민원사무처리규정/서울물재생시설공단 민원사무처리규정.json",
+            "target_git_file_path": "서울물재생시설공단 민원사무처리규정/별지/별지2_민원접수대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -277,7 +303,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:서울물재생시설공단민원사무처리규정#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "서울물재생시설공단 민원사무처리규정/서울물재생시설공단 민원사무처리규정.json"
+            "target_git_path_guess": "서울물재생시설공단 민원사무처리규정/서울물재생시설공단 민원사무처리규정.json",
+            "target_git_path": "서울물재생시설공단 민원사무처리규정/서울물재생시설공단 민원사무처리규정.json",
+            "target_git_file_path": "서울물재생시설공단 민원사무처리규정/별지/별지1_신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -314,7 +345,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:서울물재생시설공단민원사무처리규정#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "서울물재생시설공단 민원사무처리규정/서울물재생시설공단 민원사무처리규정.json"
+            "target_git_path_guess": "서울물재생시설공단 민원사무처리규정/서울물재생시설공단 민원사무처리규정.json",
+            "target_git_path": "서울물재생시설공단 민원사무처리규정/서울물재생시설공단 민원사무처리규정.json",
+            "target_git_file_path": "서울물재생시설공단 민원사무처리규정/별지/별지4_접수증.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -417,7 +453,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:서울물재생시설공단민원사무처리규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "서울물재생시설공단 민원사무처리규정/서울물재생시설공단 민원사무처리규정.json"
+            "target_git_path_guess": "서울물재생시설공단 민원사무처리규정/서울물재생시설공단 민원사무처리규정.json",
+            "target_git_path": "서울물재생시설공단 민원사무처리규정/서울물재생시설공단 민원사무처리규정.json",
+            "target_git_file_path": "서울물재생시설공단 민원사무처리규정/별표/별표1_(제13조제1항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -437,7 +478,11 @@
             "source_provision_id": "SchlPubRul:서울물재생시설공단민원사무처리규정#JO0013",
             "reference_id": "SchlPubRul:서울물재생시설공단민원사무처리규정#JO0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "서울물재생시설공단 민원사무처리규정/서울물재생시설공단 민원사무처리규정.json"
+            "target_git_path_guess": "서울물재생시설공단 민원사무처리규정/서울물재생시설공단 민원사무처리규정.json",
+            "target_git_path": "서울물재생시설공단 민원사무처리규정/서울물재생시설공단 민원사무처리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -480,7 +525,9 @@
             "source_provision_id": "SchlPubRul:서울물재생시설공단민원사무처리규정#JO0015",
             "reference_id": "law:민원처리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민원 처리에 관한 법률/법률/민원 처리에 관한 법률.json"
+            "target_git_path_guess": "민원 처리에 관한 법률/법률/민원 처리에 관한 법률.json",
+            "target_git_path": "민원 처리에 관한 법률/법률/민원 처리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -500,7 +547,9 @@
             "source_provision_id": "SchlPubRul:서울물재생시설공단민원사무처리규정#JO0015",
             "reference_id": "law:민원처리에관한법률#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "민원 처리에 관한 법률/법률/민원 처리에 관한 법률.json"
+            "target_git_path_guess": "민원 처리에 관한 법률/법률/민원 처리에 관한 법률.json",
+            "target_git_path": "민원 처리에 관한 법률/법률/민원 처리에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -548,7 +597,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:서울물재생시설공단민원사무처리규정#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "서울물재생시설공단 민원사무처리규정/서울물재생시설공단 민원사무처리규정.json"
+            "target_git_path_guess": "서울물재생시설공단 민원사무처리규정/서울물재생시설공단 민원사무처리규정.json",
+            "target_git_path": "서울물재생시설공단 민원사무처리규정/서울물재생시설공단 민원사무처리규정.json",
+            "target_git_file_path": "서울물재생시설공단 민원사무처리규정/별지/별지5_독촉장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],

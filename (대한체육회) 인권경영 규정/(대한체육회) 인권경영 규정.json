@@ -87,7 +87,9 @@
             "source_provision_id": "SchlPubRul:(대한체육회)인권경영규정#JO0003",
             "reference_id": "law:대한민국헌법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "대한민국헌법/법률/대한민국헌법.json"
+            "target_git_path_guess": "대한민국헌법/법률/대한민국헌법.json",
+            "target_git_path": "대한민국헌법/법률/대한민국헌법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -107,7 +109,11 @@
             "source_provision_id": "SchlPubRul:(대한체육회)인권경영규정#JO0003",
             "reference_id": "SchlPubRul:(대한체육회)인권경영규정#JO0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(대한체육회) 인권경영 규정/(대한체육회) 인권경영 규정.json"
+            "target_git_path_guess": "(대한체육회) 인권경영 규정/(대한체육회) 인권경영 규정.json",
+            "target_git_path": "(대한체육회) 인권경영 규정/(대한체육회) 인권경영 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -150,7 +156,11 @@
             "source_provision_id": "SchlPubRul:(대한체육회)인권경영규정#JO0005",
             "reference_id": "SchlPubRul:(대한체육회)인권경영규정#JO0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(대한체육회) 인권경영 규정/(대한체육회) 인권경영 규정.json"
+            "target_git_path_guess": "(대한체육회) 인권경영 규정/(대한체육회) 인권경영 규정.json",
+            "target_git_path": "(대한체육회) 인권경영 규정/(대한체육회) 인권경영 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -237,7 +247,9 @@
             "source_provision_id": "SchlPubRul:(대한체육회)인권경영규정#JO0011",
             "reference_id": "law:개인정보보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json"
+            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -280,7 +292,9 @@
             "source_provision_id": "SchlPubRul:(대한체육회)인권경영규정#JO0013",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -438,7 +452,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(대한체육회)인권경영규정#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(대한체육회) 인권경영 규정/(대한체육회) 인권경영 규정.json"
+            "target_git_path_guess": "(대한체육회) 인권경영 규정/(대한체육회) 인권경영 규정.json",
+            "target_git_path": "(대한체육회) 인권경영 규정/(대한체육회) 인권경영 규정.json",
+            "target_git_file_path": "(대한체육회) 인권경영 규정/별지/별지1_직무윤리 사전진단서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -463,7 +482,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(대한체육회)인권경영규정#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(대한체육회) 인권경영 규정/(대한체육회) 인권경영 규정.json"
+            "target_git_path_guess": "(대한체육회) 인권경영 규정/(대한체육회) 인권경영 규정.json",
+            "target_git_path": "(대한체육회) 인권경영 규정/(대한체육회) 인권경영 규정.json",
+            "target_git_file_path": "(대한체육회) 인권경영 규정/별지/별지2_서약서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

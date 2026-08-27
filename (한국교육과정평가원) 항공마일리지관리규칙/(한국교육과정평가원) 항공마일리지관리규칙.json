@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:(한국교육과정평가원)항공마일리지관리규칙#JO0001",
             "reference_id": "law:공직자의이해충돌방지법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공직자의 이해충돌 방지법/법률/공직자의 이해충돌 방지법.json"
+            "target_git_path_guess": "공직자의 이해충돌 방지법/법률/공직자의 이해충돌 방지법.json",
+            "target_git_path": "공직자의 이해충돌 방지법/법률/공직자의 이해충돌 방지법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -85,7 +87,9 @@
             "source_provision_id": "SchlPubRul:(한국교육과정평가원)항공마일리지관리규칙#JO0001",
             "reference_id": "law:공직자의이해충돌방지법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "공직자의 이해충돌 방지법/법률/공직자의 이해충돌 방지법.json"
+            "target_git_path_guess": "공직자의 이해충돌 방지법/법률/공직자의 이해충돌 방지법.json",
+            "target_git_path": "공직자의 이해충돌 방지법/법률/공직자의 이해충돌 방지법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -155,7 +159,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:(한국교육과정평가원)항공마일리지관리규칙#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국교육과정평가원) 항공마일리지관리규칙/(한국교육과정평가원) 항공마일리지관리규칙.json"
+            "target_git_path_guess": "(한국교육과정평가원) 항공마일리지관리규칙/(한국교육과정평가원) 항공마일리지관리규칙.json",
+            "target_git_path": "(한국교육과정평가원) 항공마일리지관리규칙/(한국교육과정평가원) 항공마일리지관리규칙.json",
+            "target_git_file_path": "(한국교육과정평가원) 항공마일리지관리규칙/별지/별지3_국내출장 항공마일리지 신고 양식.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

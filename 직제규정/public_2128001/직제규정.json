@@ -158,7 +158,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:직제규정:public_2128001#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "직제규정/직제규정.json"
+            "target_git_path_guess": "직제규정/직제규정.json",
+            "target_git_path": "직제규정/public_2128001/직제규정.json",
+            "target_git_file_path": "직제규정/public_2128001/별표/별표1_공단 기구표(별표1) (개정 2022.12.7.).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -183,7 +188,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:직제규정:public_2128001#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "직제규정/직제규정.json"
+            "target_git_path_guess": "직제규정/직제규정.json",
+            "target_git_path": "직제규정/public_2128001/직제규정.json",
+            "target_git_file_path": "직제규정/public_2128001/별표/별표2_공단 정원(별표2).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -208,7 +218,12 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:직제규정:public_2128001#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "직제규정/직제규정.json"
+            "target_git_path_guess": "직제규정/직제규정.json",
+            "target_git_path": "직제규정/public_2128001/직제규정.json",
+            "target_git_file_path": "직제규정/public_2128001/별표/별표3_공단 정원 직급별 정원책정기준(별표3).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -444,5 +459,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "직제규정/public_2128001/직제규정.json"
+  "git_path": "직제규정/public_2128001/직제규정.json",
+  "_schlpub_id_suffix": "public_2128001"
 }

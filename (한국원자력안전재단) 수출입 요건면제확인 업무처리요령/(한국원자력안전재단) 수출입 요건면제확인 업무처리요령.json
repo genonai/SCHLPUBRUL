@@ -76,7 +76,9 @@
             "source_provision_id": "SchlPubRul:(한국원자력안전재단)수출입요건면제확인업무처리요령#JO0002",
             "reference_id": "law:원자력안전법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json"
+            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_git_path": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -96,7 +98,9 @@
             "source_provision_id": "SchlPubRul:(한국원자력안전재단)수출입요건면제확인업무처리요령#JO0002",
             "reference_id": "law:대외무역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "대외무역법/법률/대외무역법.json"
+            "target_git_path_guess": "대외무역법/법률/대외무역법.json",
+            "target_git_path": "대외무역법/법률/대외무역법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -128,7 +132,11 @@
             "source_provision_id": "SchlPubRul:(한국원자력안전재단)수출입요건면제확인업무처리요령#JO0003",
             "reference_id": "admrul:방사성동위원소에서제외되는물질등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "방사성동위원소에서 제외되는 물질 등에 관한 규정/방사성동위원소에서 제외되는 물질 등에 관한 규정.json"
+            "target_git_path_guess": "방사성동위원소에서 제외되는 물질 등에 관한 규정/방사성동위원소에서 제외되는 물질 등에 관한 규정.json",
+            "target_git_path": "방사성동위원소에서 제외되는 물질 등에 관한 규정/방사성동위원소에서 제외되는 물질 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -148,7 +156,11 @@
             "source_provision_id": "SchlPubRul:(한국원자력안전재단)수출입요건면제확인업무처리요령#JO0003",
             "reference_id": "admrul:방사선발생장치에서제외되는용도및용량등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "방사선발생장치에서 제외되는 용도 및 용량 등에 관한 규정/방사선발생장치에서 제외되는 용도 및 용량 등에 관한 규정.json"
+            "target_git_path_guess": "방사선발생장치에서 제외되는 용도 및 용량 등에 관한 규정/방사선발생장치에서 제외되는 용도 및 용량 등에 관한 규정.json",
+            "target_git_path": "방사선발생장치에서 제외되는 용도 및 용량 등에 관한 규정/방사선발생장치에서 제외되는 용도 및 용량 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -168,7 +180,9 @@
             "source_provision_id": "SchlPubRul:(한국원자력안전재단)수출입요건면제확인업무처리요령#JO0003",
             "reference_id": "law:의료기기법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "의료기기법/법률/의료기기법.json"
+            "target_git_path_guess": "의료기기법/법률/의료기기법.json",
+            "target_git_path": "의료기기법/법률/의료기기법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -188,7 +202,11 @@
             "source_provision_id": "SchlPubRul:(한국원자력안전재단)수출입요건면제확인업무처리요령#JO0003",
             "reference_id": "admrul:방사선방호등에관한기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "방사선방호 등에 관한 기준/방사선방호 등에 관한 기준.json"
+            "target_git_path_guess": "방사선방호 등에 관한 기준/방사선방호 등에 관한 기준.json",
+            "target_git_path": "방사선방호 등에 관한 기준/방사선방호 등에 관한 기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -247,7 +265,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(한국원자력안전재단)수출입요건면제확인업무처리요령#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국원자력안전재단) 수출입 요건면제확인 업무처리요령/(한국원자력안전재단) 수출입 요건면제확인 업무처리요령.json"
+            "target_git_path_guess": "(한국원자력안전재단) 수출입 요건면제확인 업무처리요령/(한국원자력안전재단) 수출입 요건면제확인 업무처리요령.json",
+            "target_git_path": "(한국원자력안전재단) 수출입 요건면제확인 업무처리요령/(한국원자력안전재단) 수출입 요건면제확인 업무처리요령.json",
+            "target_git_file_path": "(한국원자력안전재단) 수출입 요건면제확인 업무처리요령/별지/별지1_수출입 요건면제 취소신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -284,7 +307,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(한국원자력안전재단)수출입요건면제확인업무처리요령#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국원자력안전재단) 수출입 요건면제확인 업무처리요령/(한국원자력안전재단) 수출입 요건면제확인 업무처리요령.json"
+            "target_git_path_guess": "(한국원자력안전재단) 수출입 요건면제확인 업무처리요령/(한국원자력안전재단) 수출입 요건면제확인 업무처리요령.json",
+            "target_git_path": "(한국원자력안전재단) 수출입 요건면제확인 업무처리요령/(한국원자력안전재단) 수출입 요건면제확인 업무처리요령.json",
+            "target_git_file_path": "(한국원자력안전재단) 수출입 요건면제확인 업무처리요령/별지/별지2_수출입 요건면제 변경신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -327,7 +355,9 @@
             "source_provision_id": "SchlPubRul:(한국원자력안전재단)수출입요건면제확인업무처리요령#JO0009",
             "reference_id": "law:원자력안전법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json"
+            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_git_path": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -347,7 +377,9 @@
             "source_provision_id": "SchlPubRul:(한국원자력안전재단)수출입요건면제확인업무처리요령#JO0009",
             "reference_id": "law:원자력안전법시행령#JO0156_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json"
+            "target_git_path_guess": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_git_path": "원자력안전법/시행령/원자력안전법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -367,7 +399,11 @@
             "source_provision_id": "SchlPubRul:(한국원자력안전재단)수출입요건면제확인업무처리요령#JO0009",
             "reference_id": "admrul:원자력안전관리부담금에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "원자력안전관리부담금에 관한 규정/원자력안전관리부담금에 관한 규정.json"
+            "target_git_path_guess": "원자력안전관리부담금에 관한 규정/원자력안전관리부담금에 관한 규정.json",
+            "target_git_path": "원자력안전관리부담금에 관한 규정/원자력안전관리부담금에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],

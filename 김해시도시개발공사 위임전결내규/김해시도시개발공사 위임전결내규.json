@@ -63,9 +63,14 @@
             "target_url": "https://www.law.go.kr/법령/사무관리규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:김해시도시개발공사위임전결내규#JO0001",
-            "reference_id": "law:사무관리규정#DOC",
+            "reference_id": "SchlPubRul:사무관리규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "사무관리규정/법률/사무관리규정.json"
+            "target_git_path_guess": "사무관리규정/법률/사무관리규정.json",
+            "target_git_path": "사무관리규정/public_2139481/사무관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관",
+            "target_candidates": 3
           },
           {
             "relation_type": "citation",
@@ -83,9 +88,14 @@
             "target_url": "https://www.law.go.kr/법령/사무관리규정/제17조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:김해시도시개발공사위임전결내규#JO0001",
-            "reference_id": "law:사무관리규정#JO0017",
+            "reference_id": "SchlPubRul:사무관리규정#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "사무관리규정/법률/사무관리규정.json"
+            "target_git_path_guess": "사무관리규정/법률/사무관리규정.json",
+            "target_git_path": "사무관리규정/public_2139481/사무관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관",
+            "target_candidates": 3
           }
         ],
         "images": [],
@@ -150,7 +160,11 @@
             "source_provision_id": "SchlPubRul:김해시도시개발공사위임전결내규#JO0005",
             "reference_id": "SchlPubRul:김해시도시개발공사위임전결내규#JO0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "김해시도시개발공사 위임전결내규/김해시도시개발공사 위임전결내규.json"
+            "target_git_path_guess": "김해시도시개발공사 위임전결내규/김해시도시개발공사 위임전결내규.json",
+            "target_git_path": "김해시도시개발공사 위임전결내규/김해시도시개발공사 위임전결내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],

@@ -65,7 +65,11 @@
             "source_provision_id": "SchlPubRul:96.용인도시공사주요기록물및간행물관리에관한지침#JO0001",
             "reference_id": "admrul:기록물관리규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "기록물관리규정/기록물관리규정.json"
+            "target_git_path_guess": "기록물관리규정/기록물관리규정.json",
+            "target_git_path": "기록물 관리 규정/기록물 관리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -108,7 +112,11 @@
             "source_provision_id": "SchlPubRul:96.용인도시공사주요기록물및간행물관리에관한지침#JO0003",
             "reference_id": "admrul:기록물관리규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "기록물관리규정/기록물관리규정.json"
+            "target_git_path_guess": "기록물관리규정/기록물관리규정.json",
+            "target_git_path": "기록물 관리 규정/기록물 관리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -151,7 +159,11 @@
             "source_provision_id": "SchlPubRul:96.용인도시공사주요기록물및간행물관리에관한지침#JO0005",
             "reference_id": "admrul:기록물관리규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "기록물관리규정/기록물관리규정.json"
+            "target_git_path_guess": "기록물관리규정/기록물관리규정.json",
+            "target_git_path": "기록물 관리 규정/기록물 관리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -176,7 +188,8 @@
             "target_unit": "BYL0008",
             "reference_id": "SchlPubRul:96.용인도시공사주요기록물및간행물관리에관한지침#BYL0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침/96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침.json"
+            "target_git_path_guess": "96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침/96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -208,7 +221,9 @@
             "source_provision_id": "SchlPubRul:96.용인도시공사주요기록물및간행물관리에관한지침#JO0006",
             "reference_id": "law:행정절차법#JO0046",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정절차법/법률/행정절차법.json"
+            "target_git_path_guess": "행정절차법/법률/행정절차법.json",
+            "target_git_path": "행정절차법/법률/행정절차법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -228,7 +243,9 @@
             "source_provision_id": "SchlPubRul:96.용인도시공사주요기록물및간행물관리에관한지침#JO0006",
             "reference_id": "law:행정절차법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정절차법/시행령/행정절차법 시행령.json"
+            "target_git_path_guess": "행정절차법/시행령/행정절차법 시행령.json",
+            "target_git_path": "행정절차법/시행령/행정절차법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -248,7 +265,9 @@
             "source_provision_id": "SchlPubRul:96.용인도시공사주요기록물및간행물관리에관한지침#JO0006",
             "reference_id": "law:행정절차법시행령#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정절차법/시행령/행정절차법 시행령.json"
+            "target_git_path_guess": "행정절차법/시행령/행정절차법 시행령.json",
+            "target_git_path": "행정절차법/시행령/행정절차법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -268,7 +287,9 @@
             "source_provision_id": "SchlPubRul:96.용인도시공사주요기록물및간행물관리에관한지침#JO0006",
             "reference_id": "law:국가재정법#JO0038",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가재정법/법률/국가재정법.json"
+            "target_git_path_guess": "국가재정법/법률/국가재정법.json",
+            "target_git_path": "국가재정법/법률/국가재정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -288,7 +309,9 @@
             "source_provision_id": "SchlPubRul:96.용인도시공사주요기록물및간행물관리에관한지침#JO0006",
             "reference_id": "law:국가재정법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가재정법/시행령/국가재정법 시행령.json"
+            "target_git_path_guess": "국가재정법/시행령/국가재정법 시행령.json",
+            "target_git_path": "국가재정법/시행령/국가재정법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -308,7 +331,9 @@
             "source_provision_id": "SchlPubRul:96.용인도시공사주요기록물및간행물관리에관한지침#JO0006",
             "reference_id": "law:국가재정법시행령#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가재정법/시행령/국가재정법 시행령.json"
+            "target_git_path_guess": "국가재정법/시행령/국가재정법 시행령.json",
+            "target_git_path": "국가재정법/시행령/국가재정법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -328,7 +353,9 @@
             "source_provision_id": "SchlPubRul:96.용인도시공사주요기록물및간행물관리에관한지침#JO0006",
             "reference_id": "law:국가재정법시행령#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가재정법/시행령/국가재정법 시행령.json"
+            "target_git_path_guess": "국가재정법/시행령/국가재정법 시행령.json",
+            "target_git_path": "국가재정법/시행령/국가재정법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -365,7 +392,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:96.용인도시공사주요기록물및간행물관리에관한지침#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침/96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침.json"
+            "target_git_path_guess": "96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침/96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침.json",
+            "target_git_path": "96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침/96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침.json",
+            "target_git_file_path": "96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침/별표/별표1_회의록 작성대상 회의체.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -390,7 +422,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:96.용인도시공사주요기록물및간행물관리에관한지침#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침/96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침.json"
+            "target_git_path_guess": "96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침/96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침.json",
+            "target_git_path": "96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침/96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침.json",
+            "target_git_file_path": "96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침/별지/별지1_회의록 작성양식.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -422,7 +459,9 @@
             "source_provision_id": "SchlPubRul:96.용인도시공사주요기록물및간행물관리에관한지침#JO0008",
             "reference_id": "law:국가재정법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가재정법/시행령/국가재정법 시행령.json"
+            "target_git_path_guess": "국가재정법/시행령/국가재정법 시행령.json",
+            "target_git_path": "국가재정법/시행령/국가재정법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -442,7 +481,9 @@
             "source_provision_id": "SchlPubRul:96.용인도시공사주요기록물및간행물관리에관한지침#JO0008",
             "reference_id": "law:국가재정법시행령#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가재정법/시행령/국가재정법 시행령.json"
+            "target_git_path_guess": "국가재정법/시행령/국가재정법 시행령.json",
+            "target_git_path": "국가재정법/시행령/국가재정법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -462,7 +503,9 @@
             "source_provision_id": "SchlPubRul:96.용인도시공사주요기록물및간행물관리에관한지침#JO0008",
             "reference_id": "law:국가재정법시행령#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가재정법/시행령/국가재정법 시행령.json"
+            "target_git_path_guess": "국가재정법/시행령/국가재정법 시행령.json",
+            "target_git_path": "국가재정법/시행령/국가재정법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -482,7 +525,9 @@
             "source_provision_id": "SchlPubRul:96.용인도시공사주요기록물및간행물관리에관한지침#JO0008",
             "reference_id": "law:국가재정법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가재정법/시행령/국가재정법 시행령.json"
+            "target_git_path_guess": "국가재정법/시행령/국가재정법 시행령.json",
+            "target_git_path": "국가재정법/시행령/국가재정법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -502,7 +547,9 @@
             "source_provision_id": "SchlPubRul:96.용인도시공사주요기록물및간행물관리에관한지침#JO0008",
             "reference_id": "law:국가재정법시행령#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가재정법/시행령/국가재정법 시행령.json"
+            "target_git_path_guess": "국가재정법/시행령/국가재정법 시행령.json",
+            "target_git_path": "국가재정법/시행령/국가재정법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -522,7 +569,9 @@
             "source_provision_id": "SchlPubRul:96.용인도시공사주요기록물및간행물관리에관한지침#JO0008",
             "reference_id": "law:국가재정법시행령#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가재정법/시행령/국가재정법 시행령.json"
+            "target_git_path_guess": "국가재정법/시행령/국가재정법 시행령.json",
+            "target_git_path": "국가재정법/시행령/국가재정법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -547,7 +596,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:96.용인도시공사주요기록물및간행물관리에관한지침#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침/96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침.json"
+            "target_git_path_guess": "96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침/96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침.json",
+            "target_git_path": "96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침/96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침.json",
+            "target_git_file_path": "96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침/별표/별표2_시청각기록물 등록번호 표기방법.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -584,7 +638,12 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:96.용인도시공사주요기록물및간행물관리에관한지침#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침/96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침.json"
+            "target_git_path_guess": "96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침/96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침.json",
+            "target_git_path": "96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침/96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침.json",
+            "target_git_file_path": "96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침/별표/별표3_간행물 발간등록 절차.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -621,7 +680,12 @@
             "target_unit": "BYL0004",
             "reference_id": "SchlPubRul:96.용인도시공사주요기록물및간행물관리에관한지침#BYL0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침/96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침.json"
+            "target_git_path_guess": "96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침/96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침.json",
+            "target_git_path": "96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침/96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침.json",
+            "target_git_file_path": "96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침/별표/별표4_발간등록번호 구성.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -646,7 +710,12 @@
             "target_unit": "BYL0005",
             "reference_id": "SchlPubRul:96.용인도시공사주요기록물및간행물관리에관한지침#BYL0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침/96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침.json"
+            "target_git_path_guess": "96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침/96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침.json",
+            "target_git_path": "96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침/96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침.json",
+            "target_git_file_path": "96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침/별표/별표5_발간등록번호 발간주기.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -683,7 +752,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:96.용인도시공사주요기록물및간행물관리에관한지침#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침/96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침.json"
+            "target_git_path_guess": "96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침/96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침.json",
+            "target_git_path": "96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침/96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침.json",
+            "target_git_file_path": "96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침/별지/별지2_발간등록번호 표기 서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -720,7 +794,12 @@
             "target_unit": "BYL0006",
             "reference_id": "SchlPubRul:96.용인도시공사주요기록물및간행물관리에관한지침#BYL0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침/96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침.json"
+            "target_git_path_guess": "96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침/96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침.json",
+            "target_git_path": "96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침/96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침.json",
+            "target_git_file_path": "96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침/별표/별표6_발간등록번호부여대상 간행물.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -779,7 +858,12 @@
             "target_unit": "BYL0007",
             "reference_id": "SchlPubRul:96.용인도시공사주요기록물및간행물관리에관한지침#BYL0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침/96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침.json"
+            "target_git_path_guess": "96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침/96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침.json",
+            "target_git_path": "96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침/96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침.json",
+            "target_git_file_path": "96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침/별표/별표7_공공누리마크 및 유형.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -816,7 +900,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:96.용인도시공사주요기록물및간행물관리에관한지침#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침/96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침.json"
+            "target_git_path_guess": "96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침/96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침.json",
+            "target_git_path": "96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침/96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침.json",
+            "target_git_file_path": "96. 용인도시공사 주요기록물 및 간행물 관리에 관한 지침/별지/별지3_공공누리마크 표기 서식.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],

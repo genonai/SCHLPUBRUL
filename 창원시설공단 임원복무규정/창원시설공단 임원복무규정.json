@@ -98,7 +98,11 @@
             "source_provision_id": "SchlPubRul:창원시설공단임원복무규정#JO0004",
             "reference_id": "SchlPubRul:창원시설공단임원복무규정#JO0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 임원복무규정/창원시설공단 임원복무규정.json"
+            "target_git_path_guess": "창원시설공단 임원복무규정/창원시설공단 임원복무규정.json",
+            "target_git_path": "창원시설공단 임원복무규정/창원시설공단 임원복무규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -118,7 +122,11 @@
             "source_provision_id": "SchlPubRul:창원시설공단임원복무규정#JO0004",
             "reference_id": "SchlPubRul:창원시설공단임원복무규정#JO0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 임원복무규정/창원시설공단 임원복무규정.json"
+            "target_git_path_guess": "창원시설공단 임원복무규정/창원시설공단 임원복무규정.json",
+            "target_git_path": "창원시설공단 임원복무규정/창원시설공단 임원복무규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -265,7 +273,8 @@
             "target_unit": "BYL0004",
             "reference_id": "SchlPubRul:창원시설공단임원복무규정#BYL0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 임원복무규정/창원시설공단 임원복무규정.json"
+            "target_git_path_guess": "창원시설공단 임원복무규정/창원시설공단 임원복무규정.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -319,7 +328,11 @@
             "source_provision_id": "SchlPubRul:창원시설공단임원복무규정#JO0018",
             "reference_id": "admrul:공무원비위사건처리규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공무원 비위사건 처리 규정/공무원 비위사건 처리 규정.json"
+            "target_git_path_guess": "공무원 비위사건 처리 규정/공무원 비위사건 처리 규정.json",
+            "target_git_path": "공무원 비위사건 처리규정/공무원 비위사건 처리규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],

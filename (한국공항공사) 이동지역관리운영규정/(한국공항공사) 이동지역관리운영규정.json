@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0001",
             "reference_id": "law:공항시설법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공항시설법/시행령/공항시설법 시행령.json"
+            "target_git_path_guess": "공항시설법/시행령/공항시설법 시행령.json",
+            "target_git_path": "공항시설법/시행령/공항시설법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -85,7 +87,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0001",
             "reference_id": "law:공항시설법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공항시설법/시행규칙/공항시설법 시행규칙.json"
+            "target_git_path_guess": "공항시설법/시행규칙/공항시설법 시행규칙.json",
+            "target_git_path": "공항시설법/시행규칙/공항시설법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -105,7 +109,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0001",
             "reference_id": "admrul:공항안전운영기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공항안전운영기준/공항안전운영기준.json"
+            "target_git_path_guess": "공항안전운영기준/공항안전운영기준.json",
+            "target_git_path": "공항안전운영기준/공항안전운영기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -148,7 +156,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0003",
             "reference_id": "law:항공보안법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공보안법/법률/항공보안법.json"
+            "target_git_path_guess": "항공보안법/법률/항공보안법.json",
+            "target_git_path": "항공보안법/법률/항공보안법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -168,7 +178,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0003",
             "reference_id": "law:항공보안법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공보안법/법률/항공보안법.json"
+            "target_git_path_guess": "항공보안법/법률/항공보안법.json",
+            "target_git_path": "항공보안법/법률/항공보안법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -188,7 +200,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0003",
             "reference_id": "law:도로교통법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "도로교통법/법률/도로교통법.json"
+            "target_git_path_guess": "도로교통법/법률/도로교통법.json",
+            "target_git_path": "도로교통법/법률/도로교통법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -208,7 +222,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0003",
             "reference_id": "law:도로교통법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "도로교통법/법률/도로교통법.json"
+            "target_git_path_guess": "도로교통법/법률/도로교통법.json",
+            "target_git_path": "도로교통법/법률/도로교통법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -228,7 +244,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0003",
             "reference_id": "law:농업기계화촉진법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "농업기계화 촉진법/법률/농업기계화 촉진법.json"
+            "target_git_path_guess": "농업기계화 촉진법/법률/농업기계화 촉진법.json",
+            "target_git_path": "농업기계화 촉진법/법률/농업기계화 촉진법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -253,7 +271,12 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_file_path": "(한국공항공사) 이동지역관리운영규정/별표/별표3_항공기 입·출항 지원 차량 분류.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -278,7 +301,12 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_file_path": "(한국공항공사) 이동지역관리운영규정/별표/별표3_항공기 입·출항 지원 차량 분류.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -303,7 +331,12 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_file_path": "(한국공항공사) 이동지역관리운영규정/별표/별표3_항공기 입·출항 지원 차량 분류.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -323,7 +356,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0003",
             "reference_id": "law:농업기계화촉진법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "농업기계화 촉진법/법률/농업기계화 촉진법.json"
+            "target_git_path_guess": "농업기계화 촉진법/법률/농업기계화 촉진법.json",
+            "target_git_path": "농업기계화 촉진법/법률/농업기계화 촉진법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -343,7 +378,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0003",
             "reference_id": "law:항공안전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/법률/항공안전법.json"
+            "target_git_path_guess": "항공안전법/법률/항공안전법.json",
+            "target_git_path": "항공안전법/법률/항공안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -363,7 +400,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0003",
             "reference_id": "law:항공안전법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공안전법/법률/항공안전법.json"
+            "target_git_path_guess": "항공안전법/법률/항공안전법.json",
+            "target_git_path": "항공안전법/법률/항공안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -383,7 +422,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0003",
             "reference_id": "law:항공보안법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공보안법/법률/항공보안법.json"
+            "target_git_path_guess": "항공보안법/법률/항공보안법.json",
+            "target_git_path": "항공보안법/법률/항공보안법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -403,7 +444,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0003",
             "reference_id": "law:항공보안법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공보안법/법률/항공보안법.json"
+            "target_git_path_guess": "항공보안법/법률/항공보안법.json",
+            "target_git_path": "항공보안법/법률/항공보안법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -423,7 +466,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0003",
             "reference_id": "law:공항시설법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공항시설법/법률/공항시설법.json"
+            "target_git_path_guess": "공항시설법/법률/공항시설법.json",
+            "target_git_path": "공항시설법/법률/공항시설법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -443,7 +488,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0003",
             "reference_id": "law:항공사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공사업법/법률/항공사업법.json"
+            "target_git_path_guess": "항공사업법/법률/항공사업법.json",
+            "target_git_path": "항공사업법/법률/항공사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -463,7 +510,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0003",
             "reference_id": "law:항공사업법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공사업법/법률/항공사업법.json"
+            "target_git_path_guess": "항공사업법/법률/항공사업법.json",
+            "target_git_path": "항공사업법/법률/항공사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -483,7 +532,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0003",
             "reference_id": "law:항공보안법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공보안법/법률/항공보안법.json"
+            "target_git_path_guess": "항공보안법/법률/항공보안법.json",
+            "target_git_path": "항공보안법/법률/항공보안법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -503,7 +554,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0003",
             "reference_id": "law:항공보안법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "항공보안법/법률/항공보안법.json"
+            "target_git_path_guess": "항공보안법/법률/항공보안법.json",
+            "target_git_path": "항공보안법/법률/항공보안법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -523,7 +576,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0003",
             "reference_id": "law:공항시설법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공항시설법/법률/공항시설법.json"
+            "target_git_path_guess": "공항시설법/법률/공항시설법.json",
+            "target_git_path": "공항시설법/법률/공항시설법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -543,7 +598,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0003",
             "reference_id": "law:공항시설법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공항시설법/법률/공항시설법.json"
+            "target_git_path_guess": "공항시설법/법률/공항시설법.json",
+            "target_git_path": "공항시설법/법률/공항시설법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -563,7 +620,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0003",
             "reference_id": "law:공항시설법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공항시설법/법률/공항시설법.json"
+            "target_git_path_guess": "공항시설법/법률/공항시설법.json",
+            "target_git_path": "공항시설법/법률/공항시설법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -583,7 +642,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0003",
             "reference_id": "law:공항시설법#JO0031_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "공항시설법/법률/공항시설법.json"
+            "target_git_path_guess": "공항시설법/법률/공항시설법.json",
+            "target_git_path": "공항시설법/법률/공항시설법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -603,7 +664,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0003",
             "reference_id": "law:공항시설법#JO0031_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "공항시설법/법률/공항시설법.json"
+            "target_git_path_guess": "공항시설법/법률/공항시설법.json",
+            "target_git_path": "공항시설법/법률/공항시설법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -623,7 +686,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0003",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0063",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -643,7 +710,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0003",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0064",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -675,7 +746,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0004",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0020",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -729,7 +804,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0007",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -783,7 +862,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0008_02",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -826,7 +909,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0010",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -907,7 +994,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_file_path": "(한국공항공사) 이동지역관리운영규정/별지/별지3_항공기 야간 주기 현황.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -950,7 +1042,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0015",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -975,7 +1071,12 @@
             "target_unit": "BJ0025",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#BJ0025",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_file_path": "(한국공항공사) 이동지역관리운영규정/별지/별지25_이동지역 운전자격 승인 신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1000,7 +1101,12 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_file_path": "(한국공항공사) 이동지역관리운영규정/별표/별표3_항공기 입·출항 지원 차량 분류.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1020,7 +1126,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0015",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0019_02",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1052,7 +1162,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0016",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0019_02",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1084,7 +1198,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0016_02",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0016",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1104,7 +1222,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0016_02",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0016",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1124,7 +1246,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0016_02",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0019",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1144,7 +1270,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0016_02",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0019_02",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1169,7 +1299,12 @@
             "target_unit": "BJ0025_02",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#BJ0025_02",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_file_path": "(한국공항공사) 이동지역관리운영규정/별지/별지25의2_이동지역운전자 운전자격 교육 연기 신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1206,7 +1341,12 @@
             "target_unit": "BJ0026",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#BJ0026",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_file_path": "(한국공항공사) 이동지역관리운영규정/별지/별지26_이동지역 운전자 기록대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1249,7 +1389,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0019",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0019_02",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1281,7 +1425,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0019_02",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0015",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1301,7 +1449,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0019_02",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0019",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1321,7 +1473,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0019_02",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1353,7 +1509,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0020",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0026",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1385,7 +1545,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0021",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0036",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1410,7 +1574,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_file_path": "(한국공항공사) 이동지역관리운영규정/별지/별지4_등록신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1435,7 +1604,12 @@
             "target_unit": "BJ0009",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#BJ0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_file_path": "(한국공항공사) 이동지역관리운영규정/별지/별지9_검사기록부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1455,7 +1629,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0021",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0058_04",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1480,7 +1658,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_file_path": "(한국공항공사) 이동지역관리운영규정/별지/별지2_차량 정비 정비고 입고 출고 확인서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1505,7 +1688,12 @@
             "target_unit": "BJ0007_02",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#BJ0007_02",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_file_path": "(한국공항공사) 이동지역관리운영규정/별지/별지7의2_말소 임시 차량(장비) 반출 반입 확인서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1537,7 +1725,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0022",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0021",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1562,7 +1754,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_file_path": "(한국공항공사) 이동지역관리운영규정/별지/별지5_차량,건설기계 및 원동기 장착 장비 등록원부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1587,7 +1784,12 @@
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_file_path": "(한국공항공사) 이동지역관리운영규정/별지/별지6_원동기 미장착 장비 등록원부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1612,7 +1814,12 @@
             "target_unit": "BJ0028",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#BJ0028",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_file_path": "(한국공항공사) 이동지역관리운영규정/별지/별지28_차량,건설기계 및 장비등록 관리대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1644,7 +1851,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0023",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0021",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1676,7 +1887,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0024",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0022",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1701,7 +1916,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_file_path": "(한국공항공사) 이동지역관리운영규정/별표/별표1_등록번호표시방법.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1771,7 +1991,12 @@
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_file_path": "(한국공항공사) 이동지역관리운영규정/별지/별지7_차량, 건설기계 및 원동기 장착 장비 등록원부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1796,7 +2021,12 @@
             "target_unit": "BJ0007_02",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#BJ0007_02",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_file_path": "(한국공항공사) 이동지역관리운영규정/별지/별지7의2_말소 임시 차량(장비) 반출 반입 확인서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1816,7 +2046,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0028",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0023",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1853,7 +2087,12 @@
             "target_unit": "BJ0008",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#BJ0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_file_path": "(한국공항공사) 이동지역관리운영규정/별지/별지8_이전등록신고서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1873,7 +2112,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0029",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0021",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1905,7 +2148,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0030",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0021",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1925,7 +2172,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0030",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0021",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1945,7 +2196,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0030",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0035",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1965,7 +2220,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0030",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0039",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1985,7 +2244,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0030",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0032",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2010,7 +2273,12 @@
             "target_unit": "BYL0007",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#BYL0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_file_path": "(한국공항공사) 이동지역관리운영규정/별표/별표7_공항특수차량 검사방법 및 기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -2030,7 +2298,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0030",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0032",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -2050,7 +2322,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0030",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0021",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2075,7 +2351,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_file_path": "(한국공항공사) 이동지역관리운영규정/별지/별지4_등록신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2100,7 +2381,12 @@
             "target_unit": "BJ0010",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#BJ0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_file_path": "(한국공항공사) 이동지역관리운영규정/별지/별지10_정기검사연기신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -2120,7 +2406,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0030",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0032",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2152,7 +2442,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0031",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0030",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -2172,7 +2466,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0031",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0030",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -2192,7 +2490,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0031",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0030",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -2212,7 +2514,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0031",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0030",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -2232,7 +2538,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0031",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0030",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2257,7 +2567,12 @@
             "target_unit": "BJ0009_02",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#BJ0009_02",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_file_path": "(한국공항공사) 이동지역관리운영규정/별지/별지9의2_장비 자체 점검기록부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2289,7 +2604,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0032",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0030",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2321,7 +2640,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0033",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0030",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -2341,7 +2664,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0033",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0032",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -2361,7 +2688,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0033",
             "reference_id": "law:자동차관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "자동차관리법/법률/자동차관리법.json"
+            "target_git_path_guess": "자동차관리법/법률/자동차관리법.json",
+            "target_git_path": "자동차관리법/법률/자동차관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2381,7 +2710,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0033",
             "reference_id": "law:자동차관리법#JO0044",
             "target_repo": "LAW",
-            "target_git_path_guess": "자동차관리법/법률/자동차관리법.json"
+            "target_git_path_guess": "자동차관리법/법률/자동차관리법.json",
+            "target_git_path": "자동차관리법/법률/자동차관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2406,7 +2737,12 @@
             "target_unit": "BJ0011",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#BJ0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_file_path": "(한국공항공사) 이동지역관리운영규정/별지/별지11_안전검사장 지정신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2431,7 +2767,12 @@
             "target_unit": "BYL0006",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#BYL0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_file_path": "(한국공항공사) 이동지역관리운영규정/별표/별표6_안전검사장 시설과 기술인력 기준에 관한 사항.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2463,7 +2804,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0034",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0033",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -2483,7 +2828,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0034",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0040",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2520,7 +2869,12 @@
             "target_unit": "BJ0012",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#BJ0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_file_path": "(한국공항공사) 이동지역관리운영규정/별지/별지12_월별검사계획.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2545,7 +2899,12 @@
             "target_unit": "BJ0009",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#BJ0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_file_path": "(한국공항공사) 이동지역관리운영규정/별지/별지9_검사기록부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2570,7 +2929,12 @@
             "target_unit": "BYL0007",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#BYL0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_file_path": "(한국공항공사) 이동지역관리운영규정/별표/별표7_공항특수차량 검사방법 및 기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -2590,7 +2954,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0035",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -2610,7 +2978,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0035",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0030",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -2630,7 +3002,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0035",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0032",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -2650,7 +3026,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0035",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0030",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2675,7 +3055,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_file_path": "(한국공항공사) 이동지역관리운영규정/별지/별지5_차량,건설기계 및 원동기 장착 장비 등록원부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2700,7 +3085,12 @@
             "target_unit": "BYL0007",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#BYL0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_file_path": "(한국공항공사) 이동지역관리운영규정/별표/별표7_공항특수차량 검사방법 및 기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2732,7 +3122,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0036",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0030",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -2752,7 +3146,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0036",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0032",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -2772,7 +3170,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0036",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0030",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2809,7 +3211,12 @@
             "target_unit": "BJ0019",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#BJ0019",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_file_path": "(한국공항공사) 이동지역관리운영규정/별지/별지19_급유책임자 선임(해임) 신고서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2834,7 +3241,12 @@
             "target_unit": "BJ0013",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#BJ0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_file_path": "(한국공항공사) 이동지역관리운영규정/별지/별지13_검사확인자 신고서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -2854,7 +3266,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0037",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0030",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2879,7 +3295,12 @@
             "target_unit": "BJ0015",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#BJ0015",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_file_path": "(한국공항공사) 이동지역관리운영규정/별지/별지15_튜닝승인 신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2904,7 +3325,12 @@
             "target_unit": "BJ0014",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#BJ0014",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_file_path": "(한국공항공사) 이동지역관리운영규정/별지/별지14_월별정기검사실적.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2936,7 +3362,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0037_02",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0030",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2968,7 +3398,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0038",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0030",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -2988,7 +3422,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0038",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0030",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -3008,7 +3446,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0038",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0031",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -3028,7 +3470,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0038",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0032",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -3065,7 +3511,12 @@
             "target_unit": "BJ0015",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#BJ0015",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_file_path": "(한국공항공사) 이동지역관리운영규정/별지/별지15_튜닝승인 신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -3085,7 +3536,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0039",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0055",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -3110,7 +3565,12 @@
             "target_unit": "BJ0016",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#BJ0016",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_file_path": "(한국공항공사) 이동지역관리운영규정/별지/별지16_튜닝 승인서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -3246,7 +3706,12 @@
             "target_unit": "BJ0018",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#BJ0018",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_file_path": "(한국공항공사) 이동지역관리운영규정/별지/별지18_작업 계획서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -3266,7 +3731,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0047",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0026",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -3298,7 +3767,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0048",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0047",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -3357,7 +3830,12 @@
             "target_unit": "BYL0004",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#BYL0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_file_path": "(한국공항공사) 이동지역관리운영규정/별표/별표4_교신용어 및 발음, 내용.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -3405,7 +3883,12 @@
             "target_unit": "BJ0019",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#BJ0019",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_file_path": "(한국공항공사) 이동지역관리운영규정/별지/별지19_급유책임자 선임(해임) 신고서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -3475,7 +3958,12 @@
             "target_unit": "BJ0020",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#BJ0020",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_file_path": "(한국공항공사) 이동지역관리운영규정/별지/별지20_누유발생 및 제거결과 종합보고서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -3500,7 +3988,12 @@
             "target_unit": "BJ0020_02",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#BJ0020_02",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_file_path": "(한국공항공사) 이동지역관리운영규정/별지/별지20의2_누유 차량_장비 정비완료 확인서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -3548,7 +4041,12 @@
             "target_unit": "BJ0022",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#BJ0022",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_file_path": "(한국공항공사) 이동지역관리운영규정/별지/별지22_이동지역 규정위반 확인서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -3573,7 +4071,12 @@
             "target_unit": "BJ0023",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#BJ0023",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_file_path": "(한국공항공사) 이동지역관리운영규정/별지/별지23_이동지역 위규사항 이의 신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -3605,7 +4108,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0058_02",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0030",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -3630,7 +4137,12 @@
             "target_unit": "BJ0026",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#BJ0026",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_file_path": "(한국공항공사) 이동지역관리운영규정/별지/별지26_이동지역 운전자 기록대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -3673,7 +4185,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0058_04",
             "reference_id": "law:자동차및자동차부품의성능과기준에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "자동차 및 자동차부품의 성능과 기준에 관한 규칙/법률/자동차 및 자동차부품의 성능과 기준에 관한 규칙.json"
+            "target_git_path_guess": "자동차 및 자동차부품의 성능과 기준에 관한 규칙/법률/자동차 및 자동차부품의 성능과 기준에 관한 규칙.json",
+            "target_git_path": "자동차 및 자동차부품의 성능과 기준에 관한 규칙/법률/자동차 및 자동차부품의 성능과 기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -3698,7 +4212,10 @@
             "target_unit": "BYL0032_02",
             "reference_id": "law:자동차및자동차부품의성능과기준에관한규칙#BYL0032_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "자동차 및 자동차부품의 성능과 기준에 관한 규칙/법률/자동차 및 자동차부품의 성능과 기준에 관한 규칙.json"
+            "target_git_path_guess": "자동차 및 자동차부품의 성능과 기준에 관한 규칙/법률/자동차 및 자동차부품의 성능과 기준에 관한 규칙.json",
+            "target_git_path": "자동차 및 자동차부품의 성능과 기준에 관한 규칙/법률/자동차 및 자동차부품의 성능과 기준에 관한 규칙.json",
+            "target_git_file_path": "자동차 및 자동차부품의 성능과 기준에 관한 규칙/법률/별표/별표32의2_반사띠 및 특례적용 표시의 기준(제112조의12 및 제114조제11항 관련).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -3723,7 +4240,8 @@
             "target_unit": "BYL0005_31",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#BYL0005_31",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -3788,7 +4306,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0062",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0063",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -3808,7 +4330,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0062",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0064",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -3840,7 +4366,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0062_02",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0062",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -3872,7 +4402,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0063",
             "reference_id": "law:공항시설법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공항시설법/법률/공항시설법.json"
+            "target_git_path_guess": "공항시설법/법률/공항시설법.json",
+            "target_git_path": "공항시설법/법률/공항시설법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3892,7 +4424,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0063",
             "reference_id": "law:공항시설법#JO0031_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "공항시설법/법률/공항시설법.json"
+            "target_git_path_guess": "공항시설법/법률/공항시설법.json",
+            "target_git_path": "공항시설법/법률/공항시설법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3912,7 +4446,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0063",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0015",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -3932,7 +4470,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0063",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0021",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -3952,7 +4494,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0063",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0030",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -3972,7 +4518,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0063",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0058_04",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -3997,7 +4547,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_file_path": "(한국공항공사) 이동지역관리운영규정/별표/별표2_승차정원 또는 화물적재량 표시 방법.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -4029,7 +4584,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0064",
             "reference_id": "law:공항시설법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공항시설법/법률/공항시설법.json"
+            "target_git_path_guess": "공항시설법/법률/공항시설법.json",
+            "target_git_path": "공항시설법/법률/공항시설법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4049,7 +4606,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0064",
             "reference_id": "law:공항시설법#JO0031_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "공항시설법/법률/공항시설법.json"
+            "target_git_path_guess": "공항시설법/법률/공항시설법.json",
+            "target_git_path": "공항시설법/법률/공항시설법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -4069,7 +4628,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0064",
             "reference_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0015",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json"
+            "target_git_path_guess": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_git_path": "(한국공항공사) 이동지역관리운영규정/(한국공항공사) 이동지역관리운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -4089,7 +4652,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0064",
             "reference_id": "law:도로교통법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "도로교통법/법률/도로교통법.json"
+            "target_git_path_guess": "도로교통법/법률/도로교통법.json",
+            "target_git_path": "도로교통법/법률/도로교통법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4109,7 +4674,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)이동지역관리운영규정#JO0064",
             "reference_id": "law:도로교통법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "도로교통법/법률/도로교통법.json"
+            "target_git_path_guess": "도로교통법/법률/도로교통법.json",
+            "target_git_path": "도로교통법/법률/도로교통법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

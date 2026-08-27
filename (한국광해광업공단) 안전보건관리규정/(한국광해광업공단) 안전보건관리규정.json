@@ -87,7 +87,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0003",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -163,7 +165,11 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0008",
             "reference_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0016",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국광해광업공단) 안전보건관리규정/(한국광해광업공단) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국광해광업공단) 안전보건관리규정/(한국광해광업공단) 안전보건관리규정.json",
+            "target_git_path": "(한국광해광업공단) 안전보건관리규정/(한국광해광업공단) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -239,7 +245,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0013",
             "reference_id": "law:산업안전보건기준에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -271,7 +279,11 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0014",
             "reference_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국광해광업공단) 안전보건관리규정/(한국광해광업공단) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국광해광업공단) 안전보건관리규정/(한국광해광업공단) 안전보건관리규정.json",
+            "target_git_path": "(한국광해광업공단) 안전보건관리규정/(한국광해광업공단) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -296,7 +308,8 @@
             "target_unit": "BYL0004",
             "reference_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#BYL0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국광해광업공단) 안전보건관리규정/(한국광해광업공단) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국광해광업공단) 안전보건관리규정/(한국광해광업공단) 안전보건관리규정.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -328,7 +341,11 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0015",
             "reference_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국광해광업공단) 안전보건관리규정/(한국광해광업공단) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국광해광업공단) 안전보건관리규정/(한국광해광업공단) 안전보건관리규정.json",
+            "target_git_path": "(한국광해광업공단) 안전보건관리규정/(한국광해광업공단) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -353,7 +370,8 @@
             "target_unit": "BYL0006",
             "reference_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#BYL0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국광해광업공단) 안전보건관리규정/(한국광해광업공단) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국광해광업공단) 안전보건관리규정/(한국광해광업공단) 안전보건관리규정.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -396,7 +414,11 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0017",
             "reference_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0016",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국광해광업공단) 안전보건관리규정/(한국광해광업공단) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국광해광업공단) 안전보건관리규정/(한국광해광업공단) 안전보건관리규정.json",
+            "target_git_path": "(한국광해광업공단) 안전보건관리규정/(한국광해광업공단) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -428,7 +450,11 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0018",
             "reference_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0016",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국광해광업공단) 안전보건관리규정/(한국광해광업공단) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국광해광업공단) 안전보건관리규정/(한국광해광업공단) 안전보건관리규정.json",
+            "target_git_path": "(한국광해광업공단) 안전보건관리규정/(한국광해광업공단) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -448,7 +474,11 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0018",
             "reference_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0016",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국광해광업공단) 안전보건관리규정/(한국광해광업공단) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국광해광업공단) 안전보건관리규정/(한국광해광업공단) 안전보건관리규정.json",
+            "target_git_path": "(한국광해광업공단) 안전보건관리규정/(한국광해광업공단) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -480,7 +510,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0019",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -500,7 +532,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0019",
             "reference_id": "law:산업안전보건법#JO0064",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -543,7 +577,11 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0021",
             "reference_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0020",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국광해광업공단) 안전보건관리규정/(한국광해광업공단) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국광해광업공단) 안전보건관리규정/(한국광해광업공단) 안전보건관리규정.json",
+            "target_git_path": "(한국광해광업공단) 안전보건관리규정/(한국광해광업공단) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -563,7 +601,11 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0021",
             "reference_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0020",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국광해광업공단) 안전보건관리규정/(한국광해광업공단) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국광해광업공단) 안전보건관리규정/(한국광해광업공단) 안전보건관리규정.json",
+            "target_git_path": "(한국광해광업공단) 안전보건관리규정/(한국광해광업공단) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -617,7 +659,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0024",
             "reference_id": "law:화학물질관리법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화학물질관리법/시행규칙/화학물질관리법 시행규칙.json"
+            "target_git_path_guess": "화학물질관리법/시행규칙/화학물질관리법 시행규칙.json",
+            "target_git_path": "화학물질관리법/시행규칙/화학물질관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -642,7 +686,10 @@
             "target_unit": "BYL0001",
             "reference_id": "law:화학물질관리법시행규칙#BYL0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "화학물질관리법/시행규칙/화학물질관리법 시행규칙.json"
+            "target_git_path_guess": "화학물질관리법/시행규칙/화학물질관리법 시행규칙.json",
+            "target_git_path": "화학물질관리법/시행규칙/화학물질관리법 시행규칙.json",
+            "target_git_file_path": "화학물질관리법/시행규칙/별표/별표1_유해화학물질의 취급기준(제8조 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -674,7 +721,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0025",
             "reference_id": "law:위험물안전관리법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "위험물안전관리법/시행령/위험물안전관리법 시행령.json"
+            "target_git_path_guess": "위험물안전관리법/시행령/위험물안전관리법 시행령.json",
+            "target_git_path": "위험물안전관리법/시행령/위험물안전관리법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -699,7 +748,10 @@
             "target_unit": "BYL0001",
             "reference_id": "law:위험물안전관리법시행령#BYL0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "위험물안전관리법/시행령/위험물안전관리법 시행령.json"
+            "target_git_path_guess": "위험물안전관리법/시행령/위험물안전관리법 시행령.json",
+            "target_git_path": "위험물안전관리법/시행령/위험물안전관리법 시행령.json",
+            "target_git_file_path": "위험물안전관리법/시행령/별표/별표1_위험물 및 지정수량(제2조 및 제3조관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -775,7 +827,11 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0030",
             "reference_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0029",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국광해광업공단) 안전보건관리규정/(한국광해광업공단) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국광해광업공단) 안전보건관리규정/(한국광해광업공단) 안전보건관리규정.json",
+            "target_git_path": "(한국광해광업공단) 안전보건관리규정/(한국광해광업공단) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -807,7 +863,11 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0031",
             "reference_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0029",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국광해광업공단) 안전보건관리규정/(한국광해광업공단) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국광해광업공단) 안전보건관리규정/(한국광해광업공단) 안전보건관리규정.json",
+            "target_git_path": "(한국광해광업공단) 안전보건관리규정/(한국광해광업공단) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -927,7 +987,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0040",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -947,7 +1009,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0040",
             "reference_id": "law:산업안전보건법#JO0104",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1001,7 +1065,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0043",
             "reference_id": "law:식품위생법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "식품위생법/법률/식품위생법.json"
+            "target_git_path_guess": "식품위생법/법률/식품위생법.json",
+            "target_git_path": "식품위생법/법률/식품위생법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1033,7 +1099,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0044",
             "reference_id": "law:산업안전보건법#JO0132",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1053,7 +1121,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0044",
             "reference_id": "law:산업안전보건법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1073,7 +1143,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0044",
             "reference_id": "law:산업안전보건법시행규칙#JO0210",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1093,7 +1165,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0044",
             "reference_id": "law:산업안전보건법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1113,7 +1187,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0044",
             "reference_id": "law:산업안전보건법시행규칙#JO0210",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1145,7 +1221,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0045",
             "reference_id": "law:산업안전보건기준에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1165,7 +1243,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0045",
             "reference_id": "law:산업안전보건기준에관한규칙#JO0422",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1185,7 +1265,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0045",
             "reference_id": "law:산업안전보건기준에관한규칙#JO0422",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1205,7 +1287,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0045",
             "reference_id": "law:산업안전보건기준에관한규칙#JO0423",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1225,7 +1309,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0045",
             "reference_id": "law:산업안전보건기준에관한규칙#JO0424",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1245,7 +1331,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0045",
             "reference_id": "law:산업안전보건기준에관한규칙#JO0425",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1265,7 +1353,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0045",
             "reference_id": "law:산업안전보건기준에관한규칙#JO0426",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1285,7 +1375,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0045",
             "reference_id": "law:산업안전보건기준에관한규칙#JO0427",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1305,7 +1397,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0045",
             "reference_id": "law:산업안전보건기준에관한규칙#JO0428",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1325,7 +1419,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0045",
             "reference_id": "law:산업안전보건기준에관한규칙#JO0429",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1345,7 +1441,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0045",
             "reference_id": "law:산업안전보건기준에관한규칙#JO0429",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1365,7 +1463,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0045",
             "reference_id": "law:산업안전보건기준에관한규칙#JO0430",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1385,7 +1485,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0045",
             "reference_id": "law:산업안전보건기준에관한규칙#JO0431",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1405,7 +1507,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0045",
             "reference_id": "law:산업안전보건기준에관한규칙#JO0432",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1425,7 +1529,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0045",
             "reference_id": "law:산업안전보건기준에관한규칙#JO0433",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1445,7 +1551,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0045",
             "reference_id": "law:산업안전보건기준에관한규칙#JO0434",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1465,7 +1573,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0045",
             "reference_id": "law:산업안전보건기준에관한규칙#JO0435",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1485,7 +1595,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0045",
             "reference_id": "law:산업안전보건기준에관한규칙#JO0436",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1505,7 +1617,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0045",
             "reference_id": "law:산업안전보건기준에관한규칙#JO0436",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1525,7 +1639,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0045",
             "reference_id": "law:산업안전보건기준에관한규칙#JO0437",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1545,7 +1661,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0045",
             "reference_id": "law:산업안전보건기준에관한규칙#JO0438",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1565,7 +1683,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0045",
             "reference_id": "law:산업안전보건기준에관한규칙#JO0439",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1585,7 +1705,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0045",
             "reference_id": "law:산업안전보건기준에관한규칙#JO0440",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1605,7 +1727,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0045",
             "reference_id": "law:산업안전보건기준에관한규칙#JO0441",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1625,7 +1749,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0045",
             "reference_id": "law:산업안전보건기준에관한규칙#JO0441",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1645,7 +1771,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0045",
             "reference_id": "law:산업안전보건기준에관한규칙#JO0442",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1665,7 +1793,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0045",
             "reference_id": "law:산업안전보건기준에관한규칙#JO0443",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1685,7 +1815,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0045",
             "reference_id": "law:산업안전보건기준에관한규칙#JO0444",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1705,7 +1837,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0045",
             "reference_id": "law:산업안전보건기준에관한규칙#JO0445",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1725,7 +1859,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0045",
             "reference_id": "law:산업안전보건기준에관한규칙#JO0446",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1745,7 +1881,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0045",
             "reference_id": "law:산업안전보건기준에관한규칙#JO0447",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1765,7 +1903,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0045",
             "reference_id": "law:산업안전보건기준에관한규칙#JO0448",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1785,7 +1925,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0045",
             "reference_id": "law:산업안전보건기준에관한규칙#JO0449",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1805,7 +1947,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0045",
             "reference_id": "law:산업안전보건기준에관한규칙#JO0450",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1825,7 +1969,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0045",
             "reference_id": "law:산업안전보건기준에관한규칙#JO0450",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1845,7 +1991,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0045",
             "reference_id": "law:산업안전보건기준에관한규칙#JO0451",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1877,7 +2025,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0046",
             "reference_id": "law:산업안전보건법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1897,7 +2047,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0046",
             "reference_id": "law:산업안전보건법시행령#JO0084",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1951,7 +2103,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0049",
             "reference_id": "law:산업안전보건법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1971,7 +2125,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0049",
             "reference_id": "law:산업안전보건법시행규칙#JO0073",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2058,7 +2214,11 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0055",
             "reference_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0054",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국광해광업공단) 안전보건관리규정/(한국광해광업공단) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국광해광업공단) 안전보건관리규정/(한국광해광업공단) 안전보건관리규정.json",
+            "target_git_path": "(한국광해광업공단) 안전보건관리규정/(한국광해광업공단) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -2078,7 +2238,11 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0055",
             "reference_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국광해광업공단) 안전보건관리규정/(한국광해광업공단) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국광해광업공단) 안전보건관리규정/(한국광해광업공단) 안전보건관리규정.json",
+            "target_git_path": "(한국광해광업공단) 안전보건관리규정/(한국광해광업공단) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -2098,7 +2262,11 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0055",
             "reference_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0054",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국광해광업공단) 안전보건관리규정/(한국광해광업공단) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국광해광업공단) 안전보건관리규정/(한국광해광업공단) 안전보건관리규정.json",
+            "target_git_path": "(한국광해광업공단) 안전보건관리규정/(한국광해광업공단) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2284,7 +2452,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0070",
             "reference_id": "law:산업안전보건법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2304,7 +2474,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0070",
             "reference_id": "law:산업안전보건법시행령#JO0059",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2369,7 +2541,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0074",
             "reference_id": "law:산업안전보건법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2389,7 +2563,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0074",
             "reference_id": "law:산업안전보건법시행규칙#JO0082",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2465,7 +2641,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0079",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2485,7 +2663,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0079",
             "reference_id": "law:산업안전보건법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2505,7 +2685,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0079",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2525,7 +2707,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0079",
             "reference_id": "law:산업안전보건법#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2545,7 +2729,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0079",
             "reference_id": "law:산업안전보건법#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2565,7 +2751,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0079",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2585,7 +2773,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0079",
             "reference_id": "law:산업안전보건법#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2605,7 +2795,11 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0079",
             "reference_id": "SchlPubRul:(한국광해광업공단)안전보건관리규정#JO0075",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국광해광업공단) 안전보건관리규정/(한국광해광업공단) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국광해광업공단) 안전보건관리규정/(한국광해광업공단) 안전보건관리규정.json",
+            "target_git_path": "(한국광해광업공단) 안전보건관리규정/(한국광해광업공단) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

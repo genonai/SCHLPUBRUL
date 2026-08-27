@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)정보공개처리지침#JO0001",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -97,7 +99,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)정보공개처리지침#JO0002",
             "reference_id": "law:전자정부법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -117,7 +121,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)정보공개처리지침#JO0002",
             "reference_id": "law:전자정부법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -193,7 +199,11 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)정보공개처리지침#JO0007",
             "reference_id": "SchlPubRul:(한국산림복지진흥원)정보공개처리지침#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json"
+            "target_git_path_guess": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json",
+            "target_git_path": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -236,7 +246,11 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)정보공개처리지침#JO0009",
             "reference_id": "SchlPubRul:(한국산림복지진흥원)정보공개처리지침#JO0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json"
+            "target_git_path_guess": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json",
+            "target_git_path": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -256,7 +270,11 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)정보공개처리지침#JO0009",
             "reference_id": "SchlPubRul:(한국산림복지진흥원)정보공개처리지침#JO0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json"
+            "target_git_path_guess": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json",
+            "target_git_path": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -293,7 +311,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(한국산림복지진흥원)정보공개처리지침#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json"
+            "target_git_path_guess": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json",
+            "target_git_path": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json",
+            "target_git_file_path": "(한국산림복지진흥원) 정보공개 처리지침/별지/별지1_정보공개 청구서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -318,7 +341,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(한국산림복지진흥원)정보공개처리지침#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json"
+            "target_git_path_guess": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json",
+            "target_git_path": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json",
+            "target_git_file_path": "(한국산림복지진흥원) 정보공개 처리지침/별지/별지2_정보공개 구술 청구서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -350,7 +378,11 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)정보공개처리지침#JO0011",
             "reference_id": "SchlPubRul:(한국산림복지진흥원)정보공개처리지침#JO0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json"
+            "target_git_path_guess": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json",
+            "target_git_path": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -375,7 +407,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:(한국산림복지진흥원)정보공개처리지침#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json"
+            "target_git_path_guess": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json",
+            "target_git_path": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json",
+            "target_git_file_path": "(한국산림복지진흥원) 정보공개 처리지침/별지/별지3_정보 공개여부 걸정기간 연장 통지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -395,7 +432,9 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)정보공개처리지침#JO0011",
             "reference_id": "law:민원처리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민원 처리에 관한 법률/법률/민원 처리에 관한 법률.json"
+            "target_git_path_guess": "민원 처리에 관한 법률/법률/민원 처리에 관한 법률.json",
+            "target_git_path": "민원 처리에 관한 법률/법률/민원 처리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -420,7 +459,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:(한국산림복지진흥원)정보공개처리지침#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json"
+            "target_git_path_guess": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json",
+            "target_git_path": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json",
+            "target_git_file_path": "(한국산림복지진흥원) 정보공개 처리지침/별지/별지4_정보공개 청구외 통지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -452,7 +496,11 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)정보공개처리지침#JO0011_02",
             "reference_id": "SchlPubRul:(한국산림복지진흥원)정보공개처리지침#JO0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json"
+            "target_git_path_guess": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json",
+            "target_git_path": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -472,7 +520,11 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)정보공개처리지침#JO0011_02",
             "reference_id": "SchlPubRul:(한국산림복지진흥원)정보공개처리지침#JO0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json"
+            "target_git_path_guess": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json",
+            "target_git_path": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -492,7 +544,11 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)정보공개처리지침#JO0011_02",
             "reference_id": "SchlPubRul:(한국산림복지진흥원)정보공개처리지침#JO0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json"
+            "target_git_path_guess": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json",
+            "target_git_path": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -529,7 +585,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:(한국산림복지진흥원)정보공개처리지침#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json"
+            "target_git_path_guess": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json",
+            "target_git_path": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json",
+            "target_git_file_path": "(한국산림복지진흥원) 정보공개 처리지침/별지/별지5_정보(공개, 부분공개, 비공개) 결정 통지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -554,7 +615,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:(한국산림복지진흥원)정보공개처리지침#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json"
+            "target_git_path_guess": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json",
+            "target_git_path": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json",
+            "target_git_file_path": "(한국산림복지진흥원) 정보공개 처리지침/별지/별지5_정보(공개, 부분공개, 비공개) 결정 통지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -574,7 +640,11 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)정보공개처리지침#JO0012",
             "reference_id": "SchlPubRul:(한국산림복지진흥원)정보공개처리지침#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json"
+            "target_git_path_guess": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json",
+            "target_git_path": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -611,7 +681,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:(한국산림복지진흥원)정보공개처리지침#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json"
+            "target_git_path_guess": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json",
+            "target_git_path": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json",
+            "target_git_file_path": "(한국산림복지진흥원) 정보공개 처리지침/별지/별지5_정보(공개, 부분공개, 비공개) 결정 통지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -643,7 +718,11 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)정보공개처리지침#JO0014",
             "reference_id": "SchlPubRul:(한국산림복지진흥원)정보공개처리지침#JO0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json"
+            "target_git_path_guess": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json",
+            "target_git_path": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -702,7 +781,12 @@
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:(한국산림복지진흥원)정보공개처리지침#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json"
+            "target_git_path_guess": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json",
+            "target_git_path": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json",
+            "target_git_file_path": "(한국산림복지진흥원) 정보공개 처리지침/별지/별지6_안건상정요청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -722,7 +806,11 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)정보공개처리지침#JO0017",
             "reference_id": "SchlPubRul:(한국산림복지진흥원)정보공개처리지침#JO0016",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json"
+            "target_git_path_guess": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json",
+            "target_git_path": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -742,7 +830,11 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)정보공개처리지침#JO0017",
             "reference_id": "SchlPubRul:(한국산림복지진흥원)정보공개처리지침#JO0018",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json"
+            "target_git_path_guess": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json",
+            "target_git_path": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -785,7 +877,11 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)정보공개처리지침#JO0019",
             "reference_id": "SchlPubRul:(한국산림복지진흥원)정보공개처리지침#JO0018",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json"
+            "target_git_path_guess": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json",
+            "target_git_path": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -817,7 +913,11 @@
             "source_provision_id": "SchlPubRul:(한국산림복지진흥원)정보공개처리지침#JO0020",
             "reference_id": "SchlPubRul:(한국산림복지진흥원)정보공개처리지침#JO0017",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json"
+            "target_git_path_guess": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json",
+            "target_git_path": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -842,7 +942,12 @@
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:(한국산림복지진흥원)정보공개처리지침#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json"
+            "target_git_path_guess": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json",
+            "target_git_path": "(한국산림복지진흥원) 정보공개 처리지침/(한국산림복지진흥원) 정보공개 처리지침.json",
+            "target_git_file_path": "(한국산림복지진흥원) 정보공개 처리지침/별지/별지7_회의록.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

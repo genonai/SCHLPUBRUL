@@ -87,7 +87,11 @@
             "source_provision_id": "SchlPubRul:(국립공원공단)선박관리규칙#JO0003",
             "reference_id": "admrul:선박설비기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "선박설비기준/선박설비기준.json"
+            "target_git_path_guess": "선박설비기준/선박설비기준.json",
+            "target_git_path": "선박설비기준/선박설비기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -107,7 +111,11 @@
             "source_provision_id": "SchlPubRul:(국립공원공단)선박관리규칙#JO0003",
             "reference_id": "admrul:선박설비기준#JO0085",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "선박설비기준/선박설비기준.json"
+            "target_git_path_guess": "선박설비기준/선박설비기준.json",
+            "target_git_path": "선박설비기준/선박설비기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -127,7 +135,11 @@
             "source_provision_id": "SchlPubRul:(국립공원공단)선박관리규칙#JO0003",
             "reference_id": "admrul:선박기관기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "선박기관기준/선박기관기준.json"
+            "target_git_path_guess": "선박기관기준/선박기관기준.json",
+            "target_git_path": "선박기관기준/선박기관기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -147,7 +159,11 @@
             "source_provision_id": "SchlPubRul:(국립공원공단)선박관리규칙#JO0003",
             "reference_id": "admrul:선박기관기준#JO0187",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "선박기관기준/선박기관기준.json"
+            "target_git_path_guess": "선박기관기준/선박기관기준.json",
+            "target_git_path": "선박기관기준/선박기관기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -184,7 +200,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(국립공원공단)선박관리규칙#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json"
+            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_path": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_file_path": "(국립공원공단) 선박관리규칙/별지/별지1_운영관리계획(제4조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -209,7 +230,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(국립공원공단)선박관리규칙#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json"
+            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_path": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_file_path": "(국립공원공단) 선박관리규칙/별지/별지2_운항보고서(제4조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -246,7 +272,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:(국립공원공단)선박관리규칙#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json"
+            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_path": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_file_path": "(국립공원공단) 선박관리규칙/별지/별지3_운항(변경)명령서(제5조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -271,7 +302,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:(국립공원공단)선박관리규칙#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json"
+            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_path": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_file_path": "(국립공원공단) 선박관리규칙/별지/별지4_운항결과보고서(제5조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -319,7 +355,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:(국립공원공단)선박관리규칙#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json"
+            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_path": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_file_path": "(국립공원공단) 선박관리규칙/별지/별지5_선박일지(운항, 정박)(제7조, 제8조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -356,7 +397,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:(국립공원공단)선박관리규칙#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json"
+            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_path": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_file_path": "(국립공원공단) 선박관리규칙/별지/별지5_선박일지(운항, 정박)(제7조, 제8조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -381,7 +427,12 @@
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:(국립공원공단)선박관리규칙#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json"
+            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_path": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_file_path": "(국립공원공단) 선박관리규칙/별지/별지7_선박수리기록대장(제8조, 제20조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -406,7 +457,12 @@
             "target_unit": "BJ0008",
             "reference_id": "SchlPubRul:(국립공원공단)선박관리규칙#BJ0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json"
+            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_path": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_file_path": "(국립공원공단) 선박관리규칙/별지/별지8_선박관리대장(제8조, 제23조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -431,7 +487,12 @@
             "target_unit": "BJ0009",
             "reference_id": "SchlPubRul:(국립공원공단)선박관리규칙#BJ0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json"
+            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_path": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_file_path": "(국립공원공단) 선박관리규칙/별지/별지9_선박장비대장(제8조, 제23조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -456,7 +517,12 @@
             "target_unit": "BJ0010",
             "reference_id": "SchlPubRul:(국립공원공단)선박관리규칙#BJ0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json"
+            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_path": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_file_path": "(국립공원공단) 선박관리규칙/별지/별지10_선용품대장(제8조, 제23조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -481,7 +547,12 @@
             "target_unit": "BJ0012",
             "reference_id": "SchlPubRul:(국립공원공단)선박관리규칙#BJ0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json"
+            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_path": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_file_path": "(국립공원공단) 선박관리규칙/별지/별지12_승무원 직무분담표(제8조, 제28조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -506,7 +577,12 @@
             "target_unit": "BJ0013",
             "reference_id": "SchlPubRul:(국립공원공단)선박관리규칙#BJ0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json"
+            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_path": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_file_path": "(국립공원공단) 선박관리규칙/별지/별지13_안전점검표(제8조, 제29조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -531,7 +607,12 @@
             "target_unit": "BJ0015",
             "reference_id": "SchlPubRul:(국립공원공단)선박관리규칙#BJ0015",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json"
+            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_path": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_file_path": "(국립공원공단) 선박관리규칙/별지/별지15_승선자 서약서(제27조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -563,7 +644,11 @@
             "source_provision_id": "SchlPubRul:(국립공원공단)선박관리규칙#JO0009",
             "reference_id": "admrul:공공선박운영및관리에관한지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공공선박 운영 및 관리에 관한 지침/공공선박 운영 및 관리에 관한 지침.json"
+            "target_git_path_guess": "공공선박 운영 및 관리에 관한 지침/공공선박 운영 및 관리에 관한 지침.json",
+            "target_git_path": "공공선박 운영 및 관리에 관한 지침/공공선박 운영 및 관리에 관한 지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -583,7 +668,11 @@
             "source_provision_id": "SchlPubRul:(국립공원공단)선박관리규칙#JO0009",
             "reference_id": "admrul:공공선박운영및관리에관한지침#JO0026",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공공선박 운영 및 관리에 관한 지침/공공선박 운영 및 관리에 관한 지침.json"
+            "target_git_path_guess": "공공선박 운영 및 관리에 관한 지침/공공선박 운영 및 관리에 관한 지침.json",
+            "target_git_path": "공공선박 운영 및 관리에 관한 지침/공공선박 운영 및 관리에 관한 지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -636,7 +725,9 @@
             "source_provision_id": "SchlPubRul:(국립공원공단)선박관리규칙#JO0011",
             "reference_id": "law:선원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "선원법/법률/선원법.json"
+            "target_git_path_guess": "선원법/법률/선원법.json",
+            "target_git_path": "선원법/법률/선원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -656,7 +747,9 @@
             "source_provision_id": "SchlPubRul:(국립공원공단)선박관리규칙#JO0011",
             "reference_id": "law:선원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "선원법/법률/선원법.json"
+            "target_git_path_guess": "선원법/법률/선원법.json",
+            "target_git_path": "선원법/법률/선원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -676,7 +769,11 @@
             "source_provision_id": "SchlPubRul:(국립공원공단)선박관리규칙#JO0011",
             "reference_id": "SchlPubRul:(국립공원공단)선박관리규칙#JO0019",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json"
+            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_path": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -734,7 +831,12 @@
             "target_unit": "BJ0013_02",
             "reference_id": "SchlPubRul:(국립공원공단)선박관리규칙#BJ0013_02",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json"
+            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_path": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_file_path": "(국립공원공단) 선박관리규칙/별지/별지13의2_계류·업무시설대장(제13조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -782,7 +884,12 @@
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:(국립공원공단)선박관리규칙#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json"
+            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_path": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_file_path": "(국립공원공단) 선박관리규칙/별지/별지6_선박사용계획서(제15조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -847,7 +954,9 @@
             "source_provision_id": "SchlPubRul:(국립공원공단)선박관리규칙#JO0019",
             "reference_id": "law:선박안전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "선박안전법/법률/선박안전법.json"
+            "target_git_path_guess": "선박안전법/법률/선박안전법.json",
+            "target_git_path": "선박안전법/법률/선박안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -867,7 +976,9 @@
             "source_provision_id": "SchlPubRul:(국립공원공단)선박관리규칙#JO0019",
             "reference_id": "law:선박안전법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "선박안전법/법률/선박안전법.json"
+            "target_git_path_guess": "선박안전법/법률/선박안전법.json",
+            "target_git_path": "선박안전법/법률/선박안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -887,7 +998,9 @@
             "source_provision_id": "SchlPubRul:(국립공원공단)선박관리규칙#JO0019",
             "reference_id": "law:선박안전법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "선박안전법/법률/선박안전법.json"
+            "target_git_path_guess": "선박안전법/법률/선박안전법.json",
+            "target_git_path": "선박안전법/법률/선박안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -907,7 +1020,9 @@
             "source_provision_id": "SchlPubRul:(국립공원공단)선박관리규칙#JO0019",
             "reference_id": "law:선박안전법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "선박안전법/법률/선박안전법.json"
+            "target_git_path_guess": "선박안전법/법률/선박안전법.json",
+            "target_git_path": "선박안전법/법률/선박안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -927,7 +1042,9 @@
             "source_provision_id": "SchlPubRul:(국립공원공단)선박관리규칙#JO0019",
             "reference_id": "law:선박안전법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "선박안전법/법률/선박안전법.json"
+            "target_git_path_guess": "선박안전법/법률/선박안전법.json",
+            "target_git_path": "선박안전법/법률/선박안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -947,7 +1064,9 @@
             "source_provision_id": "SchlPubRul:(국립공원공단)선박관리규칙#JO0019",
             "reference_id": "law:선박안전법#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "선박안전법/법률/선박안전법.json"
+            "target_git_path_guess": "선박안전법/법률/선박안전법.json",
+            "target_git_path": "선박안전법/법률/선박안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -967,7 +1086,9 @@
             "source_provision_id": "SchlPubRul:(국립공원공단)선박관리규칙#JO0019",
             "reference_id": "law:선박안전법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "선박안전법/법률/선박안전법.json"
+            "target_git_path_guess": "선박안전법/법률/선박안전법.json",
+            "target_git_path": "선박안전법/법률/선박안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -987,7 +1108,11 @@
             "source_provision_id": "SchlPubRul:(국립공원공단)선박관리규칙#JO0019",
             "reference_id": "admrul:공공선박운영및관리에관한지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공공선박 운영 및 관리에 관한 지침/공공선박 운영 및 관리에 관한 지침.json"
+            "target_git_path_guess": "공공선박 운영 및 관리에 관한 지침/공공선박 운영 및 관리에 관한 지침.json",
+            "target_git_path": "공공선박 운영 및 관리에 관한 지침/공공선박 운영 및 관리에 관한 지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1024,7 +1149,12 @@
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:(국립공원공단)선박관리규칙#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json"
+            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_path": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_file_path": "(국립공원공단) 선박관리규칙/별지/별지7_선박수리기록대장(제8조, 제20조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1044,7 +1174,11 @@
             "source_provision_id": "SchlPubRul:(국립공원공단)선박관리규칙#JO0020",
             "reference_id": "SchlPubRul:(국립공원공단)선박관리규칙#JO0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json"
+            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_path": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1076,7 +1210,9 @@
             "source_provision_id": "SchlPubRul:(국립공원공단)선박관리규칙#JO0021",
             "reference_id": "law:선박안전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "선박안전법/법률/선박안전법.json"
+            "target_git_path_guess": "선박안전법/법률/선박안전법.json",
+            "target_git_path": "선박안전법/법률/선박안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1096,7 +1232,9 @@
             "source_provision_id": "SchlPubRul:(국립공원공단)선박관리규칙#JO0021",
             "reference_id": "law:선박안전법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "선박안전법/법률/선박안전법.json"
+            "target_git_path_guess": "선박안전법/법률/선박안전법.json",
+            "target_git_path": "선박안전법/법률/선박안전법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1133,7 +1271,12 @@
             "target_unit": "BJ0019",
             "reference_id": "SchlPubRul:(국립공원공단)선박관리규칙#BJ0019",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json"
+            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_path": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_file_path": "(국립공원공단) 선박관리규칙/별지/별지19_유류수급 사전점검표(제22조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1158,7 +1301,12 @@
             "target_unit": "BYL0004",
             "reference_id": "SchlPubRul:(국립공원공단)선박관리규칙#BYL0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json"
+            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_path": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_file_path": "(국립공원공단) 선박관리규칙/별표/별표4_유류수급 검수절차 및 주의사항(제22조제4항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1183,7 +1331,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:(국립공원공단)선박관리규칙#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json"
+            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_path": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_file_path": "(국립공원공단) 선박관리규칙/별지/별지5_선박일지(운항, 정박)(제7조, 제8조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1220,7 +1373,12 @@
             "target_unit": "BJ0008",
             "reference_id": "SchlPubRul:(국립공원공단)선박관리규칙#BJ0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json"
+            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_path": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_file_path": "(국립공원공단) 선박관리규칙/별지/별지8_선박관리대장(제8조, 제23조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1268,7 +1426,12 @@
             "target_unit": "BJ0011",
             "reference_id": "SchlPubRul:(국립공원공단)선박관리규칙#BJ0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json"
+            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_path": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_file_path": "(국립공원공단) 선박관리규칙/별지/별지11_선박실태 점검표(제25조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1305,7 +1468,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(국립공원공단)선박관리규칙#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json"
+            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_path": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_file_path": "(국립공원공단) 선박관리규칙/별표/별표1_안전설비 기준(제26조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1342,7 +1510,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:(국립공원공단)선박관리규칙#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json"
+            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_path": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_file_path": "(국립공원공단) 선박관리규칙/별표/별표2_안전수칙(제27조제1항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1367,7 +1540,12 @@
             "target_unit": "BJ0015",
             "reference_id": "SchlPubRul:(국립공원공단)선박관리규칙#BJ0015",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json"
+            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_path": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_file_path": "(국립공원공단) 선박관리규칙/별지/별지15_승선자 서약서(제27조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -1387,7 +1565,9 @@
             "source_provision_id": "SchlPubRul:(국립공원공단)선박관리규칙#JO0027",
             "reference_id": "law:개인정보보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json"
+            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1407,7 +1587,9 @@
             "source_provision_id": "SchlPubRul:(국립공원공단)선박관리규칙#JO0027",
             "reference_id": "law:개인정보보호법#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json"
+            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1432,7 +1614,12 @@
             "target_unit": "BJ0016",
             "reference_id": "SchlPubRul:(국립공원공단)선박관리규칙#BJ0016",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json"
+            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_path": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_file_path": "(국립공원공단) 선박관리규칙/별지/별지16_개인정보(승선자 서약서) 파기 관리대장(제27조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1469,7 +1656,12 @@
             "target_unit": "BJ0012",
             "reference_id": "SchlPubRul:(국립공원공단)선박관리규칙#BJ0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json"
+            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_path": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_file_path": "(국립공원공단) 선박관리규칙/별지/별지12_승무원 직무분담표(제8조, 제28조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1506,7 +1698,12 @@
             "target_unit": "BJ0013",
             "reference_id": "SchlPubRul:(국립공원공단)선박관리규칙#BJ0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json"
+            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_path": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_file_path": "(국립공원공단) 선박관리규칙/별지/별지13_안전점검표(제8조, 제29조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1543,7 +1740,12 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:(국립공원공단)선박관리규칙#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json"
+            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_path": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_file_path": "(국립공원공단) 선박관리규칙/별표/별표3_선박 피항 절차 및 조치사항(제16조제3항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1580,7 +1782,12 @@
             "target_unit": "BJ0014",
             "reference_id": "SchlPubRul:(국립공원공단)선박관리규칙#BJ0014",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json"
+            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_path": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_file_path": "(국립공원공단) 선박관리규칙/별지/별지14_사고 보고(제30조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1600,7 +1807,11 @@
             "source_provision_id": "SchlPubRul:(국립공원공단)선박관리규칙#JO0030",
             "reference_id": "SchlPubRul:(국립공원공단)선박관리규칙#JO0014",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json"
+            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_path": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1654,7 +1865,11 @@
             "source_provision_id": "SchlPubRul:(국립공원공단)선박관리규칙#JO0033",
             "reference_id": "SchlPubRul:(국립공원공단)선박관리규칙#JO0034",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json"
+            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_path": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1674,7 +1889,11 @@
             "source_provision_id": "SchlPubRul:(국립공원공단)선박관리규칙#JO0033",
             "reference_id": "SchlPubRul:(국립공원공단)선박관리규칙#JO0034",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json"
+            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_path": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1694,7 +1913,11 @@
             "source_provision_id": "SchlPubRul:(국립공원공단)선박관리규칙#JO0033",
             "reference_id": "SchlPubRul:(국립공원공단)선박관리규칙#JO0034",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json"
+            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_path": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1737,7 +1960,11 @@
             "source_provision_id": "SchlPubRul:(국립공원공단)선박관리규칙#JO0035",
             "reference_id": "SchlPubRul:(국립공원공단)선박관리규칙#JO0034",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json"
+            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_path": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1757,7 +1984,11 @@
             "source_provision_id": "SchlPubRul:(국립공원공단)선박관리규칙#JO0035",
             "reference_id": "SchlPubRul:(국립공원공단)선박관리규칙#JO0034",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json"
+            "target_git_path_guess": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_git_path": "(국립공원공단) 선박관리규칙/(국립공원공단) 선박관리규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -1777,7 +2008,11 @@
             "source_provision_id": "SchlPubRul:(국립공원공단)선박관리규칙#JO0035",
             "reference_id": "admrul:공공선박운영및관리에관한지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공공선박 운영 및 관리에 관한 지침/공공선박 운영 및 관리에 관한 지침.json"
+            "target_git_path_guess": "공공선박 운영 및 관리에 관한 지침/공공선박 운영 및 관리에 관한 지침.json",
+            "target_git_path": "공공선박 운영 및 관리에 관한 지침/공공선박 운영 및 관리에 관한 지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1797,7 +2032,11 @@
             "source_provision_id": "SchlPubRul:(국립공원공단)선박관리규칙#JO0035",
             "reference_id": "admrul:공공선박운영및관리에관한지침#JO0042",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공공선박 운영 및 관리에 관한 지침/공공선박 운영 및 관리에 관한 지침.json"
+            "target_git_path_guess": "공공선박 운영 및 관리에 관한 지침/공공선박 운영 및 관리에 관한 지침.json",
+            "target_git_path": "공공선박 운영 및 관리에 관한 지침/공공선박 운영 및 관리에 관한 지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],

@@ -98,7 +98,11 @@
             "source_provision_id": "SchlPubRul:인천환경공단레슬링선수단운영규정#JO0004",
             "reference_id": "SchlPubRul:인천환경공단레슬링선수단운영규정#JO0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천환경공단 레슬링선수단 운영규정/인천환경공단 레슬링선수단 운영규정.json"
+            "target_git_path_guess": "인천환경공단 레슬링선수단 운영규정/인천환경공단 레슬링선수단 운영규정.json",
+            "target_git_path": "인천환경공단 레슬링선수단 운영규정/인천환경공단 레슬링선수단 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -118,7 +122,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단레슬링선수단운영규정#JO0004",
             "reference_id": "law:국민체육진흥법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민체육진흥법/시행령/국민체육진흥법 시행령.json"
+            "target_git_path_guess": "국민체육진흥법/시행령/국민체육진흥법 시행령.json",
+            "target_git_path": "국민체육진흥법/시행령/국민체육진흥법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -138,7 +144,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단레슬링선수단운영규정#JO0004",
             "reference_id": "law:국민체육진흥법시행령#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민체육진흥법/시행령/국민체육진흥법 시행령.json"
+            "target_git_path_guess": "국민체육진흥법/시행령/국민체육진흥법 시행령.json",
+            "target_git_path": "국민체육진흥법/시행령/국민체육진흥법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

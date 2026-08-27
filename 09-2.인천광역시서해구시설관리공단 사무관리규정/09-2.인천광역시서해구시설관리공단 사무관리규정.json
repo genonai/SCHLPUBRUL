@@ -252,7 +252,9 @@
             "source_provision_id": "SchlPubRul:09-2.인천광역시서해구시설관리공단사무관리규정#JO0018",
             "reference_id": "law:공공기록물관리에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -272,7 +274,9 @@
             "source_provision_id": "SchlPubRul:09-2.인천광역시서해구시설관리공단사무관리규정#JO0018",
             "reference_id": "law:공공기록물관리에관한법률시행령#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -533,9 +537,14 @@
             "target_url": "https://www.law.go.kr/행정규칙/기록관 운영규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:09-2.인천광역시서해구시설관리공단사무관리규정#JO0040",
-            "reference_id": "admrul:기록관운영규정#DOC",
+            "reference_id": "SchlPubRul:기록관운영규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "기록관 운영규정/기록관 운영규정.json"
+            "target_git_path_guess": "기록관 운영규정/기록관 운영규정.json",
+            "target_git_path": "기록관 운영규정/public/기록관 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관",
+            "target_candidates": 4
           }
         ],
         "images": [],

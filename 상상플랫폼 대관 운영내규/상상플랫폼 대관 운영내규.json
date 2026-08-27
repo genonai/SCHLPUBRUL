@@ -65,7 +65,11 @@
             "source_provision_id": "SchlPubRul:상상플랫폼대관운영내규#JO0001",
             "reference_id": "SchlPubRul:상상플랫폼운영규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "상상플랫폼 운영규정/상상플랫폼 운영규정.json"
+            "target_git_path_guess": "상상플랫폼 운영규정/상상플랫폼 운영규정.json",
+            "target_git_path": "상상플랫폼 운영규정/상상플랫폼 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -405,7 +409,9 @@
             "source_provision_id": "SchlPubRul:상상플랫폼대관운영내규#JO0029",
             "reference_id": "law:전기사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기사업법/법률/전기사업법.json"
+            "target_git_path_guess": "전기사업법/법률/전기사업법.json",
+            "target_git_path": "전기사업법/법률/전기사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -425,7 +431,9 @@
             "source_provision_id": "SchlPubRul:상상플랫폼대관운영내규#JO0029",
             "reference_id": "law:전기공사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기공사업법/법률/전기공사업법.json"
+            "target_git_path_guess": "전기공사업법/법률/전기공사업법.json",
+            "target_git_path": "전기공사업법/법률/전기공사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -445,7 +453,9 @@
             "source_provision_id": "SchlPubRul:상상플랫폼대관운영내규#JO0029",
             "reference_id": "law:전력기술관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전력기술관리법/법률/전력기술관리법.json"
+            "target_git_path_guess": "전력기술관리법/법률/전력기술관리법.json",
+            "target_git_path": "전력기술관리법/법률/전력기술관리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -477,7 +487,9 @@
             "source_provision_id": "SchlPubRul:상상플랫폼대관운영내규#JO0030",
             "reference_id": "law:위험물안전관리법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "위험물안전관리법/시행령/위험물안전관리법 시행령.json"
+            "target_git_path_guess": "위험물안전관리법/시행령/위험물안전관리법 시행령.json",
+            "target_git_path": "위험물안전관리법/시행령/위험물안전관리법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -502,7 +514,10 @@
             "target_unit": "BYL0001",
             "reference_id": "law:위험물안전관리법시행령#BYL0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "위험물안전관리법/시행령/위험물안전관리법 시행령.json"
+            "target_git_path_guess": "위험물안전관리법/시행령/위험물안전관리법 시행령.json",
+            "target_git_path": "위험물안전관리법/시행령/위험물안전관리법 시행령.json",
+            "target_git_file_path": "위험물안전관리법/시행령/별표/별표1_위험물 및 지정수량(제2조 및 제3조관련).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -522,7 +537,9 @@
             "source_provision_id": "SchlPubRul:상상플랫폼대관운영내규#JO0030",
             "reference_id": "law:고압가스안전관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고압가스 안전관리법/법률/고압가스 안전관리법.json"
+            "target_git_path_guess": "고압가스 안전관리법/법률/고압가스 안전관리법.json",
+            "target_git_path": "고압가스 안전관리법/법률/고압가스 안전관리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

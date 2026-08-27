@@ -164,7 +164,9 @@
             "source_provision_id": "SchlPubRul:사무관리규정:public_2128299#JO0010",
             "reference_id": "law:국어기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국어기본법/법률/국어기본법.json"
+            "target_git_path_guess": "국어기본법/법률/국어기본법.json",
+            "target_git_path": "국어기본법/법률/국어기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -184,7 +186,9 @@
             "source_provision_id": "SchlPubRul:사무관리규정:public_2128299#JO0010",
             "reference_id": "law:국어기본법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "국어기본법/법률/국어기본법.json"
+            "target_git_path_guess": "국어기본법/법률/국어기본법.json",
+            "target_git_path": "국어기본법/법률/국어기본법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -409,9 +413,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/기록물관리내규",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:사무관리규정:public_2128299#JO0025",
-            "reference_id": "SchlPubRul:기록물관리내규#DOC",
+            "reference_id": "SchlPubRul:기록물관리내규:public_2139525#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "기록물관리내규/기록물관리내규.json"
+            "target_git_path_guess": "기록물관리내규/기록물관리내규.json",
+            "target_candidates": 2,
+            "target_git_path": "기록물관리내규/public_2139525/기록물관리내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -492,7 +501,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:사무관리규정:public_2128299#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "사무관리규정/사무관리규정.json"
+            "target_git_path_guess": "사무관리규정/사무관리규정.json",
+            "target_git_path": "사무관리규정/public_2128299/사무관리규정.json",
+            "target_git_file_path": "사무관리규정/public_2128299/별지/별지1_보고지정신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -517,7 +531,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:사무관리규정:public_2128299#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "사무관리규정/사무관리규정.json"
+            "target_git_path_guess": "사무관리규정/사무관리규정.json",
+            "target_git_path": "사무관리규정/public_2128299/사무관리규정.json",
+            "target_git_file_path": "사무관리규정/public_2128299/별표/별표1_보고통제인.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -565,7 +584,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:사무관리규정:public_2128299#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "사무관리규정/사무관리규정.json"
+            "target_git_path_guess": "사무관리규정/사무관리규정.json",
+            "target_git_path": "사무관리규정/public_2128299/사무관리규정.json",
+            "target_git_file_path": "사무관리규정/public_2128299/별표/별표2_정기보고제출기일.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -602,7 +626,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:사무관리규정:public_2128299#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "사무관리규정/사무관리규정.json"
+            "target_git_path_guess": "사무관리규정/사무관리규정.json",
+            "target_git_path": "사무관리규정/public_2128299/사무관리규정.json",
+            "target_git_file_path": "사무관리규정/public_2128299/별지/별지2_반려서식.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -998,5 +1027,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "사무관리규정/public_2128299/사무관리규정.json"
+  "git_path": "사무관리규정/public_2128299/사무관리규정.json",
+  "_schlpub_id_suffix": "public_2128299"
 }

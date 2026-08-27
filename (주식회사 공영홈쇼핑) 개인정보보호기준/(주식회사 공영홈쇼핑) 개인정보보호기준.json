@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:(주식회사공영홈쇼핑)개인정보보호기준#JO0001",
             "reference_id": "law:개인정보보호법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/시행령/개인정보 보호법 시행령.json"
+            "target_git_path_guess": "개인정보 보호법/시행령/개인정보 보호법 시행령.json",
+            "target_git_path": "개인정보 보호법/시행령/개인정보 보호법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -141,7 +143,11 @@
             "source_provision_id": "SchlPubRul:(주식회사공영홈쇼핑)개인정보보호기준#JO0006",
             "reference_id": "SchlPubRul:(주식회사공영홈쇼핑)개인정보보호기준#JO0047",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(주식회사 공영홈쇼핑) 개인정보보호기준/(주식회사 공영홈쇼핑) 개인정보보호기준.json"
+            "target_git_path_guess": "(주식회사 공영홈쇼핑) 개인정보보호기준/(주식회사 공영홈쇼핑) 개인정보보호기준.json",
+            "target_git_path": "(주식회사 공영홈쇼핑) 개인정보보호기준/(주식회사 공영홈쇼핑) 개인정보보호기준.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -173,7 +179,11 @@
             "source_provision_id": "SchlPubRul:(주식회사공영홈쇼핑)개인정보보호기준#JO0007",
             "reference_id": "SchlPubRul:(주식회사공영홈쇼핑)개인정보보호기준#JO0047",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(주식회사 공영홈쇼핑) 개인정보보호기준/(주식회사 공영홈쇼핑) 개인정보보호기준.json"
+            "target_git_path_guess": "(주식회사 공영홈쇼핑) 개인정보보호기준/(주식회사 공영홈쇼핑) 개인정보보호기준.json",
+            "target_git_path": "(주식회사 공영홈쇼핑) 개인정보보호기준/(주식회사 공영홈쇼핑) 개인정보보호기준.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -238,7 +248,9 @@
             "source_provision_id": "SchlPubRul:(주식회사공영홈쇼핑)개인정보보호기준#JO0011",
             "reference_id": "law:개인정보보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보보호법/법률/개인정보보호법.json"
+            "target_git_path_guess": "개인정보보호법/법률/개인정보보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -258,7 +270,9 @@
             "source_provision_id": "SchlPubRul:(주식회사공영홈쇼핑)개인정보보호기준#JO0011",
             "reference_id": "law:개인정보보호법#JO0029",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보보호법/법률/개인정보보호법.json"
+            "target_git_path_guess": "개인정보보호법/법률/개인정보보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -301,7 +315,11 @@
             "source_provision_id": "SchlPubRul:(주식회사공영홈쇼핑)개인정보보호기준#JO0013",
             "reference_id": "admrul:개인정보영향평가에관한고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "개인정보 영향평가에 관한 고시/개인정보 영향평가에 관한 고시.json"
+            "target_git_path_guess": "개인정보 영향평가에 관한 고시/개인정보 영향평가에 관한 고시.json",
+            "target_git_path": "개인정보 영향평가에 관한 고시/개인정보 영향평가에 관한 고시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -349,7 +367,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(주식회사공영홈쇼핑)개인정보보호기준#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(주식회사 공영홈쇼핑) 개인정보보호기준/(주식회사 공영홈쇼핑) 개인정보보호기준.json"
+            "target_git_path_guess": "(주식회사 공영홈쇼핑) 개인정보보호기준/(주식회사 공영홈쇼핑) 개인정보보호기준.json",
+            "target_git_path": "(주식회사 공영홈쇼핑) 개인정보보호기준/(주식회사 공영홈쇼핑) 개인정보보호기준.json",
+            "target_git_file_path": "(주식회사 공영홈쇼핑) 개인정보보호기준/별지/별지1_개인정보 처리위탁 계약서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -436,7 +459,11 @@
             "source_provision_id": "SchlPubRul:(주식회사공영홈쇼핑)개인정보보호기준#JO0021",
             "reference_id": "SchlPubRul:(주식회사공영홈쇼핑)개인정보보호기준#JO0016",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(주식회사 공영홈쇼핑) 개인정보보호기준/(주식회사 공영홈쇼핑) 개인정보보호기준.json"
+            "target_git_path_guess": "(주식회사 공영홈쇼핑) 개인정보보호기준/(주식회사 공영홈쇼핑) 개인정보보호기준.json",
+            "target_git_path": "(주식회사 공영홈쇼핑) 개인정보보호기준/(주식회사 공영홈쇼핑) 개인정보보호기준.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -495,7 +522,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:(주식회사공영홈쇼핑)개인정보보호기준#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(주식회사 공영홈쇼핑) 개인정보보호기준/(주식회사 공영홈쇼핑) 개인정보보호기준.json"
+            "target_git_path_guess": "(주식회사 공영홈쇼핑) 개인정보보호기준/(주식회사 공영홈쇼핑) 개인정보보호기준.json",
+            "target_git_path": "(주식회사 공영홈쇼핑) 개인정보보호기준/(주식회사 공영홈쇼핑) 개인정보보호기준.json",
+            "target_git_file_path": "(주식회사 공영홈쇼핑) 개인정보보호기준/별지/별지4_개인정보 접속기록 점검 기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -615,7 +647,9 @@
             "source_provision_id": "SchlPubRul:(주식회사공영홈쇼핑)개인정보보호기준#JO0033",
             "reference_id": "law:개인정보보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json"
+            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -635,7 +669,9 @@
             "source_provision_id": "SchlPubRul:(주식회사공영홈쇼핑)개인정보보호기준#JO0033",
             "reference_id": "law:개인정보보호법#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json"
+            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -689,7 +725,9 @@
             "source_provision_id": "SchlPubRul:(주식회사공영홈쇼핑)개인정보보호기준#JO0035_02",
             "reference_id": "law:방문판매등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "방문판매 등에 관한 법률/법률/방문판매 등에 관한 법률.json"
+            "target_git_path_guess": "방문판매 등에 관한 법률/법률/방문판매 등에 관한 법률.json",
+            "target_git_path": "방문판매 등에 관한 법률/법률/방문판매 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -809,7 +847,11 @@
             "source_provision_id": "SchlPubRul:(주식회사공영홈쇼핑)개인정보보호기준#JO0041_04",
             "reference_id": "SchlPubRul:(주식회사공영홈쇼핑)개인정보보호기준#JO0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(주식회사 공영홈쇼핑) 개인정보보호기준/(주식회사 공영홈쇼핑) 개인정보보호기준.json"
+            "target_git_path_guess": "(주식회사 공영홈쇼핑) 개인정보보호기준/(주식회사 공영홈쇼핑) 개인정보보호기준.json",
+            "target_git_path": "(주식회사 공영홈쇼핑) 개인정보보호기준/(주식회사 공영홈쇼핑) 개인정보보호기준.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -857,7 +899,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:(주식회사공영홈쇼핑)개인정보보호기준#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(주식회사 공영홈쇼핑) 개인정보보호기준/(주식회사 공영홈쇼핑) 개인정보보호기준.json"
+            "target_git_path_guess": "(주식회사 공영홈쇼핑) 개인정보보호기준/(주식회사 공영홈쇼핑) 개인정보보호기준.json",
+            "target_git_path": "(주식회사 공영홈쇼핑) 개인정보보호기준/(주식회사 공영홈쇼핑) 개인정보보호기준.json",
+            "target_git_file_path": "(주식회사 공영홈쇼핑) 개인정보보호기준/별지/별지5_개인정보 열람등요구 이의신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -933,7 +980,9 @@
             "source_provision_id": "SchlPubRul:(주식회사공영홈쇼핑)개인정보보호기준#JO0048",
             "reference_id": "law:조세범처벌법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "조세범처벌법/법률/조세범처벌법.json"
+            "target_git_path_guess": "조세범처벌법/법률/조세범처벌법.json",
+            "target_git_path": "조세범 처벌법/법률/조세범 처벌법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -953,7 +1002,9 @@
             "source_provision_id": "SchlPubRul:(주식회사공영홈쇼핑)개인정보보호기준#JO0048",
             "reference_id": "law:관세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/법률/관세법.json"
+            "target_git_path_guess": "관세법/법률/관세법.json",
+            "target_git_path": "관세법/법률/관세법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -990,7 +1041,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(주식회사공영홈쇼핑)개인정보보호기준#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(주식회사 공영홈쇼핑) 개인정보보호기준/(주식회사 공영홈쇼핑) 개인정보보호기준.json"
+            "target_git_path_guess": "(주식회사 공영홈쇼핑) 개인정보보호기준/(주식회사 공영홈쇼핑) 개인정보보호기준.json",
+            "target_git_path": "(주식회사 공영홈쇼핑) 개인정보보호기준/(주식회사 공영홈쇼핑) 개인정보보호기준.json",
+            "target_git_file_path": "(주식회사 공영홈쇼핑) 개인정보보호기준/별지/별지2_개인정보파일 파기 요청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1015,7 +1071,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:(주식회사공영홈쇼핑)개인정보보호기준#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(주식회사 공영홈쇼핑) 개인정보보호기준/(주식회사 공영홈쇼핑) 개인정보보호기준.json"
+            "target_git_path_guess": "(주식회사 공영홈쇼핑) 개인정보보호기준/(주식회사 공영홈쇼핑) 개인정보보호기준.json",
+            "target_git_path": "(주식회사 공영홈쇼핑) 개인정보보호기준/(주식회사 공영홈쇼핑) 개인정보보호기준.json",
+            "target_git_file_path": "(주식회사 공영홈쇼핑) 개인정보보호기준/별지/별지3_개인정보파일 파기 관리대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1035,7 +1096,11 @@
             "source_provision_id": "SchlPubRul:(주식회사공영홈쇼핑)개인정보보호기준#JO0049",
             "reference_id": "SchlPubRul:(주식회사공영홈쇼핑)개인정보보호기준#JO0047",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(주식회사 공영홈쇼핑) 개인정보보호기준/(주식회사 공영홈쇼핑) 개인정보보호기준.json"
+            "target_git_path_guess": "(주식회사 공영홈쇼핑) 개인정보보호기준/(주식회사 공영홈쇼핑) 개인정보보호기준.json",
+            "target_git_path": "(주식회사 공영홈쇼핑) 개인정보보호기준/(주식회사 공영홈쇼핑) 개인정보보호기준.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

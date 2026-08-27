@@ -87,7 +87,11 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))회계규정#JO0003",
             "reference_id": "SchlPubRul:(코레일로지스(주))회계규정#JO0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(코레일로지스(주)) 회계규정/(코레일로지스(주)) 회계규정.json"
+            "target_git_path_guess": "(코레일로지스(주)) 회계규정/(코레일로지스(주)) 회계규정.json",
+            "target_git_path": "(코레일로지스(주)) 회계규정/(코레일로지스(주)) 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -130,7 +134,9 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))회계규정#JO0005",
             "reference_id": "law:회계관계직원등의책임에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json"
+            "target_git_path_guess": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json",
+            "target_git_path": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -360,7 +366,9 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))회계규정#JO0024",
             "reference_id": "law:부가가치세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json"
+            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json",
+            "target_git_path": "부가가치세법/법률/부가가치세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -380,7 +388,9 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))회계규정#JO0024",
             "reference_id": "law:부가가치세법#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json"
+            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json",
+            "target_git_path": "부가가치세법/법률/부가가치세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -400,7 +410,9 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))회계규정#JO0024",
             "reference_id": "law:법인세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "법인세법/법률/법인세법.json"
+            "target_git_path_guess": "법인세법/법률/법인세법.json",
+            "target_git_path": "법인세법/법률/법인세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -420,7 +432,9 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))회계규정#JO0024",
             "reference_id": "law:법인세법#JO0121",
             "target_repo": "LAW",
-            "target_git_path_guess": "법인세법/법률/법인세법.json"
+            "target_git_path_guess": "법인세법/법률/법인세법.json",
+            "target_git_path": "법인세법/법률/법인세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -440,7 +454,9 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))회계규정#JO0024",
             "reference_id": "law:소득세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소득세법/법률/소득세법.json"
+            "target_git_path_guess": "소득세법/법률/소득세법.json",
+            "target_git_path": "소득세법/법률/소득세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -460,7 +476,9 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))회계규정#JO0024",
             "reference_id": "law:소득세법#JO0163",
             "target_repo": "LAW",
-            "target_git_path_guess": "소득세법/법률/소득세법.json"
+            "target_git_path_guess": "소득세법/법률/소득세법.json",
+            "target_git_path": "소득세법/법률/소득세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -480,7 +498,9 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))회계규정#JO0024",
             "reference_id": "law:여신전문금융업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "여신전문금융업법/법률/여신전문금융업법.json"
+            "target_git_path_guess": "여신전문금융업법/법률/여신전문금융업법.json",
+            "target_git_path": "여신전문금융업법/법률/여신전문금융업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -500,7 +520,9 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))회계규정#JO0024",
             "reference_id": "law:여신전문금융업법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "여신전문금융업법/법률/여신전문금융업법.json"
+            "target_git_path_guess": "여신전문금융업법/법률/여신전문금융업법.json",
+            "target_git_path": "여신전문금융업법/법률/여신전문금융업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -520,7 +542,9 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))회계규정#JO0024",
             "reference_id": "law:국가를당사자로하는계약에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -540,7 +564,9 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))회계규정#JO0024",
             "reference_id": "law:국가를당사자로하는계약에관한법률#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -560,7 +586,9 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))회계규정#JO0024",
             "reference_id": "law:국가를당사자로하는계약에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -580,7 +608,9 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))회계규정#JO0024",
             "reference_id": "law:국가를당사자로하는계약에관한법률#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -600,7 +630,11 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))회계규정#JO0024",
             "reference_id": "admrul:공기업준정부기관회계기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공기업ㆍ준정부기관 회계기준/공기업ㆍ준정부기관 회계기준.json"
+            "target_git_path_guess": "공기업ㆍ준정부기관 회계기준/공기업ㆍ준정부기관 회계기준.json",
+            "target_git_path": "공기업·준정부기관 회계기준/공기업·준정부기관 회계기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -620,7 +654,11 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))회계규정#JO0024",
             "reference_id": "admrul:공기업준정부기관회계기준#JO0036",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공기업ㆍ준정부기관 회계기준/공기업ㆍ준정부기관 회계기준.json"
+            "target_git_path_guess": "공기업ㆍ준정부기관 회계기준/공기업ㆍ준정부기관 회계기준.json",
+            "target_git_path": "공기업·준정부기관 회계기준/공기업·준정부기관 회계기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -894,7 +932,11 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))회계규정#JO0047",
             "reference_id": "SchlPubRul:(코레일로지스(주))회계규정#JO0046",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(코레일로지스(주)) 회계규정/(코레일로지스(주)) 회계규정.json"
+            "target_git_path_guess": "(코레일로지스(주)) 회계규정/(코레일로지스(주)) 회계규정.json",
+            "target_git_path": "(코레일로지스(주)) 회계규정/(코레일로지스(주)) 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -937,7 +979,11 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))회계규정#JO0049",
             "reference_id": "SchlPubRul:(코레일로지스(주))회계규정#JO0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(코레일로지스(주)) 회계규정/(코레일로지스(주)) 회계규정.json"
+            "target_git_path_guess": "(코레일로지스(주)) 회계규정/(코레일로지스(주)) 회계규정.json",
+            "target_git_path": "(코레일로지스(주)) 회계규정/(코레일로지스(주)) 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1068,7 +1114,11 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))회계규정#JO0059",
             "reference_id": "SchlPubRul:(코레일로지스(주))회계규정#JO0057",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(코레일로지스(주)) 회계규정/(코레일로지스(주)) 회계규정.json"
+            "target_git_path_guess": "(코레일로지스(주)) 회계규정/(코레일로지스(주)) 회계규정.json",
+            "target_git_path": "(코레일로지스(주)) 회계규정/(코레일로지스(주)) 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1133,7 +1183,11 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))회계규정#JO0063",
             "reference_id": "SchlPubRul:(코레일로지스(주))회계규정#JO0064",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(코레일로지스(주)) 회계규정/(코레일로지스(주)) 회계규정.json"
+            "target_git_path_guess": "(코레일로지스(주)) 회계규정/(코레일로지스(주)) 회계규정.json",
+            "target_git_path": "(코레일로지스(주)) 회계규정/(코레일로지스(주)) 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1220,7 +1274,9 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))회계규정#JO0069",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1240,7 +1296,9 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))회계규정#JO0069",
             "reference_id": "law:공공기관의운영에관한법률#JO0050",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

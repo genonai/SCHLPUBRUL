@@ -87,7 +87,9 @@
             "source_provision_id": "SchlPubRul:연구용역관리내규#JO0003",
             "reference_id": "law:과학기술기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "과학기술기본법/법률/과학기술기본법.json"
+            "target_git_path_guess": "과학기술기본법/법률/과학기술기본법.json",
+            "target_git_path": "과학기술기본법/법률/과학기술기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +109,9 @@
             "source_provision_id": "SchlPubRul:연구용역관리내규#JO0003",
             "reference_id": "law:과학기술기본법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "과학기술기본법/법률/과학기술기본법.json"
+            "target_git_path_guess": "과학기술기본법/법률/과학기술기본법.json",
+            "target_git_path": "과학기술기본법/법률/과학기술기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -127,7 +131,9 @@
             "source_provision_id": "SchlPubRul:연구용역관리내규#JO0003",
             "reference_id": "law:학술진흥법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "학술진흥법/법률/학술진흥법.json"
+            "target_git_path_guess": "학술진흥법/법률/학술진흥법.json",
+            "target_git_path": "학술진흥법/법률/학술진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -147,7 +153,9 @@
             "source_provision_id": "SchlPubRul:연구용역관리내규#JO0003",
             "reference_id": "law:국민건강증진법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강증진법/법률/국민건강증진법.json"
+            "target_git_path_guess": "국민건강증진법/법률/국민건강증진법.json",
+            "target_git_path": "국민건강증진법/법률/국민건강증진법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -167,7 +175,9 @@
             "source_provision_id": "SchlPubRul:연구용역관리내규#JO0003",
             "reference_id": "law:국민건강증진법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강증진법/법률/국민건강증진법.json"
+            "target_git_path_guess": "국민건강증진법/법률/국민건강증진법.json",
+            "target_git_path": "국민건강증진법/법률/국민건강증진법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -254,7 +264,11 @@
             "source_provision_id": "SchlPubRul:연구용역관리내규#JO0006_04",
             "reference_id": "SchlPubRul:연구용역관리내규#JO0006_03",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "연구용역 관리내규/연구용역 관리내규.json"
+            "target_git_path_guess": "연구용역 관리내규/연구용역 관리내규.json",
+            "target_git_path": "연구용역 관리내규/연구용역 관리내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -302,7 +316,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:연구용역관리내규#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "연구용역 관리내규/연구용역 관리내규.json"
+            "target_git_path_guess": "연구용역 관리내규/연구용역 관리내규.json",
+            "target_git_path": "연구용역 관리내규/연구용역 관리내규.json",
+            "target_git_file_path": "연구용역 관리내규/별지/별지1_연구과제 심의신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -327,7 +346,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:연구용역관리내규#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "연구용역 관리내규/연구용역 관리내규.json"
+            "target_git_path_guess": "연구용역 관리내규/연구용역 관리내규.json",
+            "target_git_path": "연구용역 관리내규/연구용역 관리내규.json",
+            "target_git_file_path": "연구용역 관리내규/별지/별지2_차별성 검토 보고서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -452,7 +476,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:연구용역관리내규#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "연구용역 관리내규/연구용역 관리내규.json"
+            "target_git_path_guess": "연구용역 관리내규/연구용역 관리내규.json",
+            "target_git_path": "연구용역 관리내규/연구용역 관리내규.json",
+            "target_git_file_path": "연구용역 관리내규/별지/별지3_연구결과 평가서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -477,7 +506,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:연구용역관리내규#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "연구용역 관리내규/연구용역 관리내규.json"
+            "target_git_path_guess": "연구용역 관리내규/연구용역 관리내규.json",
+            "target_git_path": "연구용역 관리내규/연구용역 관리내규.json",
+            "target_git_file_path": "연구용역 관리내규/별지/별지4_연구결과 활용 보고서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -509,7 +543,9 @@
             "source_provision_id": "SchlPubRul:연구용역관리내규#JO0018",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -529,7 +565,9 @@
             "source_provision_id": "SchlPubRul:연구용역관리내규#JO0018",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

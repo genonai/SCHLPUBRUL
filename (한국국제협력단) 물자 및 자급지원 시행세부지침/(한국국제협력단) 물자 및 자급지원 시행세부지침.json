@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)물자및자급지원시행세부지침#JO0001",
             "reference_id": "law:해외긴급구호에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "해외긴급구호에관한 법률/시행령/해외긴급구호에관한 법률 시행령.json"
+            "target_git_path_guess": "해외긴급구호에관한 법률/시행령/해외긴급구호에관한 법률 시행령.json",
+            "target_git_path": "해외긴급구호에 관한 법률/시행령/해외긴급구호에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -85,7 +87,9 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)물자및자급지원시행세부지침#JO0001",
             "reference_id": "law:해외긴급구호에관한법률시행령#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "해외긴급구호에관한 법률/시행령/해외긴급구호에관한 법률 시행령.json"
+            "target_git_path_guess": "해외긴급구호에관한 법률/시행령/해외긴급구호에관한 법률 시행령.json",
+            "target_git_path": "해외긴급구호에 관한 법률/시행령/해외긴급구호에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -105,7 +109,11 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)물자및자급지원시행세부지침#JO0001",
             "reference_id": "admrul:한국국제협력단사업시행지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "한국국제협력단 사업시행지침/한국국제협력단 사업시행지침.json"
+            "target_git_path_guess": "한국국제협력단 사업시행지침/한국국제협력단 사업시행지침.json",
+            "target_git_path": "한국국제협력단사업시행지침/한국국제협력단사업시행지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -125,7 +133,11 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)물자및자급지원시행세부지침#JO0001",
             "reference_id": "admrul:한국국제협력단사업시행지침#JO0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "한국국제협력단 사업시행지침/한국국제협력단 사업시행지침.json"
+            "target_git_path_guess": "한국국제협력단 사업시행지침/한국국제협력단 사업시행지침.json",
+            "target_git_path": "한국국제협력단사업시행지침/한국국제협력단사업시행지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -168,7 +180,9 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)물자및자급지원시행세부지침#JO0003",
             "reference_id": "law:보조금관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json"
+            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_git_path": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -205,7 +219,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(한국국제협력단)물자및자급지원시행세부지침#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국제협력단) 물자 및 자급지원 시행세부지침/(한국국제협력단) 물자 및 자급지원 시행세부지침.json"
+            "target_git_path_guess": "(한국국제협력단) 물자 및 자급지원 시행세부지침/(한국국제협력단) 물자 및 자급지원 시행세부지침.json",
+            "target_git_path": "(한국국제협력단) 물자 및 자급지원 시행세부지침/(한국국제협력단) 물자 및 자급지원 시행세부지침.json",
+            "target_git_file_path": "(한국국제협력단) 물자 및 자급지원 시행세부지침/별지/별지1_Request for Equipment_Materials(물자지원요청서).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -230,7 +249,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(한국국제협력단)물자및자급지원시행세부지침#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국제협력단) 물자 및 자급지원 시행세부지침/(한국국제협력단) 물자 및 자급지원 시행세부지침.json"
+            "target_git_path_guess": "(한국국제협력단) 물자 및 자급지원 시행세부지침/(한국국제협력단) 물자 및 자급지원 시행세부지침.json",
+            "target_git_path": "(한국국제협력단) 물자 및 자급지원 시행세부지침/(한국국제협력단) 물자 및 자급지원 시행세부지침.json",
+            "target_git_file_path": "(한국국제협력단) 물자 및 자급지원 시행세부지침/별지/별지1_Request for Equipment_Materials(물자지원요청서).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -295,7 +319,11 @@
             "source_provision_id": "SchlPubRul:(한국국제협력단)물자및자급지원시행세부지침#JO0008",
             "reference_id": "SchlPubRul:(한국국제협력단)물자및자급지원시행세부지침#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국국제협력단) 물자 및 자급지원 시행세부지침/(한국국제협력단) 물자 및 자급지원 시행세부지침.json"
+            "target_git_path_guess": "(한국국제협력단) 물자 및 자급지원 시행세부지침/(한국국제협력단) 물자 및 자급지원 시행세부지침.json",
+            "target_git_path": "(한국국제협력단) 물자 및 자급지원 시행세부지침/(한국국제협력단) 물자 및 자급지원 시행세부지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

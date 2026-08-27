@@ -76,7 +76,9 @@
             "source_provision_id": "SchlPubRul:시흥도시공사사회복무요원복무관리내규#JO0002",
             "reference_id": "law:병역법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "병역법/시행령/병역법 시행령.json"
+            "target_git_path_guess": "병역법/시행령/병역법 시행령.json",
+            "target_git_path": "병역법/시행령/병역법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -96,7 +98,9 @@
             "source_provision_id": "SchlPubRul:시흥도시공사사회복무요원복무관리내규#JO0002",
             "reference_id": "law:병역법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "병역법/시행규칙/병역법 시행규칙.json"
+            "target_git_path_guess": "병역법/시행규칙/병역법 시행규칙.json",
+            "target_git_path": "병역법/시행규칙/병역법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -194,7 +198,11 @@
             "source_provision_id": "SchlPubRul:시흥도시공사사회복무요원복무관리내규#JO0009",
             "reference_id": "SchlPubRul:시흥도시공사사회복무요원복무관리내규#JO0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 사회복무요원 복무관리내규/시흥도시공사 사회복무요원 복무관리내규.json"
+            "target_git_path_guess": "시흥도시공사 사회복무요원 복무관리내규/시흥도시공사 사회복무요원 복무관리내규.json",
+            "target_git_path": "시흥도시공사 사회복무요원 복무관리내규/시흥도시공사 사회복무요원 복무관리내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -270,7 +278,11 @@
             "source_provision_id": "SchlPubRul:시흥도시공사사회복무요원복무관리내규#JO0014",
             "reference_id": "admrul:사회복무요원복무관리규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "사회복무요원 복무관리 규정/사회복무요원 복무관리 규정.json"
+            "target_git_path_guess": "사회복무요원 복무관리 규정/사회복무요원 복무관리 규정.json",
+            "target_git_path": "사회복무요원 복무관리 규정/사회복무요원 복무관리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -290,7 +302,11 @@
             "source_provision_id": "SchlPubRul:시흥도시공사사회복무요원복무관리내규#JO0014",
             "reference_id": "admrul:사회복무요원복무관리규정#JO0023",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "사회복무요원 복무관리 규정/사회복무요원 복무관리 규정.json"
+            "target_git_path_guess": "사회복무요원 복무관리 규정/사회복무요원 복무관리 규정.json",
+            "target_git_path": "사회복무요원 복무관리 규정/사회복무요원 복무관리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],

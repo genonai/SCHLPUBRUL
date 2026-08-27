@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:대한체육회정관#JO0001",
             "reference_id": "law:국민체육진흥법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민체육진흥법/법률/국민체육진흥법.json"
+            "target_git_path_guess": "국민체육진흥법/법률/국민체육진흥법.json",
+            "target_git_path": "국민체육진흥법/법률/국민체육진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -85,7 +87,9 @@
             "source_provision_id": "SchlPubRul:대한체육회정관#JO0001",
             "reference_id": "law:국민체육진흥법#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민체육진흥법/법률/국민체육진흥법.json"
+            "target_git_path_guess": "국민체육진흥법/법률/국민체육진흥법.json",
+            "target_git_path": "국민체육진흥법/법률/국민체육진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -105,7 +109,9 @@
             "source_provision_id": "SchlPubRul:대한체육회정관#JO0001",
             "reference_id": "law:생활체육진흥법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "생활체육진흥법/법률/생활체육진흥법.json"
+            "target_git_path_guess": "생활체육진흥법/법률/생활체육진흥법.json",
+            "target_git_path": "생활체육진흥법/법률/생활체육진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -125,7 +131,9 @@
             "source_provision_id": "SchlPubRul:대한체육회정관#JO0001",
             "reference_id": "law:생활체육진흥법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "생활체육진흥법/법률/생활체육진흥법.json"
+            "target_git_path_guess": "생활체육진흥법/법률/생활체육진흥법.json",
+            "target_git_path": "생활체육진흥법/법률/생활체육진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -145,7 +153,9 @@
             "source_provision_id": "SchlPubRul:대한체육회정관#JO0001",
             "reference_id": "law:국민체육진흥법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민체육진흥법/법률/국민체육진흥법.json"
+            "target_git_path_guess": "국민체육진흥법/법률/국민체육진흥법.json",
+            "target_git_path": "국민체육진흥법/법률/국민체육진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -165,7 +175,9 @@
             "source_provision_id": "SchlPubRul:대한체육회정관#JO0001",
             "reference_id": "law:국민체육진흥법#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민체육진흥법/법률/국민체육진흥법.json"
+            "target_git_path_guess": "국민체육진흥법/법률/국민체육진흥법.json",
+            "target_git_path": "국민체육진흥법/법률/국민체육진흥법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -208,7 +220,9 @@
             "source_provision_id": "SchlPubRul:대한체육회정관#JO0003",
             "reference_id": "law:국민체육진흥법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민체육진흥법/법률/국민체육진흥법.json"
+            "target_git_path_guess": "국민체육진흥법/법률/국민체육진흥법.json",
+            "target_git_path": "국민체육진흥법/법률/국민체육진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -228,7 +242,9 @@
             "source_provision_id": "SchlPubRul:대한체육회정관#JO0003",
             "reference_id": "law:민법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -271,7 +287,11 @@
             "source_provision_id": "SchlPubRul:대한체육회정관#JO0005",
             "reference_id": "SchlPubRul:대한체육회정관#JO0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "대한체육회 정관/대한체육회 정관.json"
+            "target_git_path_guess": "대한체육회 정관/대한체육회 정관.json",
+            "target_git_path": "대한체육회 정관/대한체육회 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -291,7 +311,11 @@
             "source_provision_id": "SchlPubRul:대한체육회정관#JO0005",
             "reference_id": "SchlPubRul:대한체육회정관#JO0027",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "대한체육회 정관/대한체육회 정관.json"
+            "target_git_path_guess": "대한체육회 정관/대한체육회 정관.json",
+            "target_git_path": "대한체육회 정관/대한체육회 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -356,7 +380,11 @@
             "source_provision_id": "SchlPubRul:대한체육회정관#JO0009",
             "reference_id": "SchlPubRul:대한체육회정관#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "대한체육회 정관/대한체육회 정관.json"
+            "target_git_path_guess": "대한체육회 정관/대한체육회 정관.json",
+            "target_git_path": "대한체육회 정관/대한체육회 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -410,7 +438,11 @@
             "source_provision_id": "SchlPubRul:대한체육회정관#JO0012",
             "reference_id": "SchlPubRul:대한체육회정관#JO0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "대한체육회 정관/대한체육회 정관.json"
+            "target_git_path_guess": "대한체육회 정관/대한체육회 정관.json",
+            "target_git_path": "대한체육회 정관/대한체육회 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -442,7 +474,11 @@
             "source_provision_id": "SchlPubRul:대한체육회정관#JO0013",
             "reference_id": "SchlPubRul:대한체육회정관#JO0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "대한체육회 정관/대한체육회 정관.json"
+            "target_git_path_guess": "대한체육회 정관/대한체육회 정관.json",
+            "target_git_path": "대한체육회 정관/대한체육회 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -462,7 +498,11 @@
             "source_provision_id": "SchlPubRul:대한체육회정관#JO0013",
             "reference_id": "SchlPubRul:대한체육회정관#JO0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "대한체육회 정관/대한체육회 정관.json"
+            "target_git_path_guess": "대한체육회 정관/대한체육회 정관.json",
+            "target_git_path": "대한체육회 정관/대한체육회 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -527,7 +567,11 @@
             "source_provision_id": "SchlPubRul:대한체육회정관#JO0014",
             "reference_id": "SchlPubRul:대한체육회정관#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "대한체육회 정관/대한체육회 정관.json"
+            "target_git_path_guess": "대한체육회 정관/대한체육회 정관.json",
+            "target_git_path": "대한체육회 정관/대한체육회 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -547,7 +591,11 @@
             "source_provision_id": "SchlPubRul:대한체육회정관#JO0014",
             "reference_id": "SchlPubRul:대한체육회정관#JO0042",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "대한체육회 정관/대한체육회 정관.json"
+            "target_git_path_guess": "대한체육회 정관/대한체육회 정관.json",
+            "target_git_path": "대한체육회 정관/대한체육회 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -601,7 +649,11 @@
             "source_provision_id": "SchlPubRul:대한체육회정관#JO0017",
             "reference_id": "SchlPubRul:대한체육회정관#JO0027",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "대한체육회 정관/대한체육회 정관.json"
+            "target_git_path_guess": "대한체육회 정관/대한체육회 정관.json",
+            "target_git_path": "대한체육회 정관/대한체육회 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -633,7 +685,11 @@
             "source_provision_id": "SchlPubRul:대한체육회정관#JO0018",
             "reference_id": "SchlPubRul:대한체육회정관#JO0017",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "대한체육회 정관/대한체육회 정관.json"
+            "target_git_path_guess": "대한체육회 정관/대한체육회 정관.json",
+            "target_git_path": "대한체육회 정관/대한체육회 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -720,7 +776,11 @@
             "source_provision_id": "SchlPubRul:대한체육회정관#JO0024",
             "reference_id": "SchlPubRul:대한체육회정관#JO0014",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "대한체육회 정관/대한체육회 정관.json"
+            "target_git_path_guess": "대한체육회 정관/대한체육회 정관.json",
+            "target_git_path": "대한체육회 정관/대한체육회 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -752,7 +812,11 @@
             "source_provision_id": "SchlPubRul:대한체육회정관#JO0024_02",
             "reference_id": "SchlPubRul:대한체육회정관#JO0025",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "대한체육회 정관/대한체육회 정관.json"
+            "target_git_path_guess": "대한체육회 정관/대한체육회 정관.json",
+            "target_git_path": "대한체육회 정관/대한체육회 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -784,7 +848,11 @@
             "source_provision_id": "SchlPubRul:대한체육회정관#JO0025",
             "reference_id": "SchlPubRul:대한체육회정관#JO0024_02",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "대한체육회 정관/대한체육회 정관.json"
+            "target_git_path_guess": "대한체육회 정관/대한체육회 정관.json",
+            "target_git_path": "대한체육회 정관/대한체육회 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -804,7 +872,11 @@
             "source_provision_id": "SchlPubRul:대한체육회정관#JO0025",
             "reference_id": "SchlPubRul:대한체육회정관#JO0024",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "대한체육회 정관/대한체육회 정관.json"
+            "target_git_path_guess": "대한체육회 정관/대한체육회 정관.json",
+            "target_git_path": "대한체육회 정관/대한체육회 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -836,7 +908,11 @@
             "source_provision_id": "SchlPubRul:대한체육회정관#JO0026",
             "reference_id": "SchlPubRul:대한체육회정관#JO0042",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "대한체육회 정관/대한체육회 정관.json"
+            "target_git_path_guess": "대한체육회 정관/대한체육회 정관.json",
+            "target_git_path": "대한체육회 정관/대한체육회 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -890,7 +966,11 @@
             "source_provision_id": "SchlPubRul:대한체육회정관#JO0029",
             "reference_id": "SchlPubRul:대한체육회정관#JO0026",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "대한체육회 정관/대한체육회 정관.json"
+            "target_git_path_guess": "대한체육회 정관/대한체육회 정관.json",
+            "target_git_path": "대한체육회 정관/대한체육회 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -910,7 +990,11 @@
             "source_provision_id": "SchlPubRul:대한체육회정관#JO0029",
             "reference_id": "SchlPubRul:대한체육회정관#JO0025",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "대한체육회 정관/대한체육회 정관.json"
+            "target_git_path_guess": "대한체육회 정관/대한체육회 정관.json",
+            "target_git_path": "대한체육회 정관/대한체육회 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -942,7 +1026,9 @@
             "source_provision_id": "SchlPubRul:대한체육회정관#JO0030",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -962,7 +1048,9 @@
             "source_provision_id": "SchlPubRul:대한체육회정관#JO0030",
             "reference_id": "law:국가공무원법#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -982,7 +1070,11 @@
             "source_provision_id": "SchlPubRul:대한체육회정관#JO0030",
             "reference_id": "SchlPubRul:대한체육회정관#JO0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "대한체육회 정관/대한체육회 정관.json"
+            "target_git_path_guess": "대한체육회 정관/대한체육회 정관.json",
+            "target_git_path": "대한체육회 정관/대한체육회 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -1002,7 +1094,9 @@
             "source_provision_id": "SchlPubRul:대한체육회정관#JO0030",
             "reference_id": "law:형법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1022,7 +1116,9 @@
             "source_provision_id": "SchlPubRul:대한체육회정관#JO0030",
             "reference_id": "law:형법#JO0355",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1042,7 +1138,9 @@
             "source_provision_id": "SchlPubRul:대한체육회정관#JO0030",
             "reference_id": "law:형법#JO0356",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1062,7 +1160,11 @@
             "source_provision_id": "SchlPubRul:대한체육회정관#JO0030",
             "reference_id": "SchlPubRul:대한체육회정관#JO0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "대한체육회 정관/대한체육회 정관.json"
+            "target_git_path_guess": "대한체육회 정관/대한체육회 정관.json",
+            "target_git_path": "대한체육회 정관/대한체육회 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -1082,7 +1184,9 @@
             "source_provision_id": "SchlPubRul:대한체육회정관#JO0030",
             "reference_id": "law:형법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1102,7 +1206,9 @@
             "source_provision_id": "SchlPubRul:대한체육회정관#JO0030",
             "reference_id": "law:형법#JO0314",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1122,7 +1228,9 @@
             "source_provision_id": "SchlPubRul:대한체육회정관#JO0030",
             "reference_id": "law:국민체육진흥법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민체육진흥법/법률/국민체육진흥법.json"
+            "target_git_path_guess": "국민체육진흥법/법률/국민체육진흥법.json",
+            "target_git_path": "국민체육진흥법/법률/국민체육진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1142,7 +1250,9 @@
             "source_provision_id": "SchlPubRul:대한체육회정관#JO0030",
             "reference_id": "law:국민체육진흥법#JO0047",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민체육진흥법/법률/국민체육진흥법.json"
+            "target_git_path_guess": "국민체육진흥법/법률/국민체육진흥법.json",
+            "target_git_path": "국민체육진흥법/법률/국민체육진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1162,7 +1272,9 @@
             "source_provision_id": "SchlPubRul:대한체육회정관#JO0030",
             "reference_id": "law:국민체육진흥법#JO0048",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민체육진흥법/법률/국민체육진흥법.json"
+            "target_git_path_guess": "국민체육진흥법/법률/국민체육진흥법.json",
+            "target_git_path": "국민체육진흥법/법률/국민체육진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1182,7 +1294,9 @@
             "source_provision_id": "SchlPubRul:대한체육회정관#JO0030",
             "reference_id": "law:성폭력범죄의처벌등에관한특례법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json"
+            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
+            "target_git_path": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1202,7 +1316,9 @@
             "source_provision_id": "SchlPubRul:대한체육회정관#JO0030",
             "reference_id": "law:성폭력범죄의처벌등에관한특례법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json"
+            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
+            "target_git_path": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1222,7 +1338,9 @@
             "source_provision_id": "SchlPubRul:대한체육회정관#JO0030",
             "reference_id": "law:아동청소년의성보호에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "아동ㆍ청소년의 성보호에 관한 법률/법률/아동ㆍ청소년의 성보호에 관한 법률.json"
+            "target_git_path_guess": "아동ㆍ청소년의 성보호에 관한 법률/법률/아동ㆍ청소년의 성보호에 관한 법률.json",
+            "target_git_path": "아동ㆍ청소년의 성보호에 관한 법률/법률/아동ㆍ청소년의 성보호에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1242,7 +1360,9 @@
             "source_provision_id": "SchlPubRul:대한체육회정관#JO0030",
             "reference_id": "law:아동청소년의성보호에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "아동ㆍ청소년의 성보호에 관한 법률/법률/아동ㆍ청소년의 성보호에 관한 법률.json"
+            "target_git_path_guess": "아동ㆍ청소년의 성보호에 관한 법률/법률/아동ㆍ청소년의 성보호에 관한 법률.json",
+            "target_git_path": "아동ㆍ청소년의 성보호에 관한 법률/법률/아동ㆍ청소년의 성보호에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1262,7 +1382,9 @@
             "source_provision_id": "SchlPubRul:대한체육회정관#JO0030",
             "reference_id": "law:형법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1282,7 +1404,11 @@
             "source_provision_id": "SchlPubRul:대한체육회정관#JO0030",
             "reference_id": "SchlPubRul:대한체육회정관#JO0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "대한체육회 정관/대한체육회 정관.json"
+            "target_git_path_guess": "대한체육회 정관/대한체육회 정관.json",
+            "target_git_path": "대한체육회 정관/대한체육회 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -1302,7 +1428,9 @@
             "source_provision_id": "SchlPubRul:대한체육회정관#JO0030",
             "reference_id": "law:민법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1322,7 +1450,9 @@
             "source_provision_id": "SchlPubRul:대한체육회정관#JO0030",
             "reference_id": "law:민법#JO0777",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1376,7 +1506,11 @@
             "source_provision_id": "SchlPubRul:대한체육회정관#JO0033",
             "reference_id": "SchlPubRul:대한체육회정관#JO0023",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "대한체육회 정관/대한체육회 정관.json"
+            "target_git_path_guess": "대한체육회 정관/대한체육회 정관.json",
+            "target_git_path": "대한체육회 정관/대한체육회 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1419,7 +1553,11 @@
             "source_provision_id": "SchlPubRul:대한체육회정관#JO0035",
             "reference_id": "SchlPubRul:대한체육회정관#JO0027",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "대한체육회 정관/대한체육회 정관.json"
+            "target_git_path_guess": "대한체육회 정관/대한체육회 정관.json",
+            "target_git_path": "대한체육회 정관/대한체육회 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1528,7 +1666,11 @@
             "source_provision_id": "SchlPubRul:대한체육회정관#JO0043",
             "reference_id": "SchlPubRul:대한체육회정관#JO0060",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "대한체육회 정관/대한체육회 정관.json"
+            "target_git_path_guess": "대한체육회 정관/대한체육회 정관.json",
+            "target_git_path": "대한체육회 정관/대한체육회 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1548,7 +1690,11 @@
             "source_provision_id": "SchlPubRul:대한체육회정관#JO0043",
             "reference_id": "SchlPubRul:대한체육회정관#JO0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "대한체육회 정관/대한체육회 정관.json"
+            "target_git_path_guess": "대한체육회 정관/대한체육회 정관.json",
+            "target_git_path": "대한체육회 정관/대한체육회 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1591,7 +1737,11 @@
             "source_provision_id": "SchlPubRul:대한체육회정관#JO0045",
             "reference_id": "SchlPubRul:대한체육회정관#JO0030",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "대한체육회 정관/대한체육회 정관.json"
+            "target_git_path_guess": "대한체육회 정관/대한체육회 정관.json",
+            "target_git_path": "대한체육회 정관/대한체육회 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1634,7 +1784,11 @@
             "source_provision_id": "SchlPubRul:대한체육회정관#JO0047",
             "reference_id": "SchlPubRul:대한체육회정관#JO0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "대한체육회 정관/대한체육회 정관.json"
+            "target_git_path_guess": "대한체육회 정관/대한체육회 정관.json",
+            "target_git_path": "대한체육회 정관/대한체육회 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1677,7 +1831,9 @@
             "source_provision_id": "SchlPubRul:대한체육회정관#JO0049",
             "reference_id": "law:국유재산법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국유재산법/법률/국유재산법.json"
+            "target_git_path_guess": "국유재산법/법률/국유재산법.json",
+            "target_git_path": "국유재산법/법률/국유재산법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1697,7 +1853,9 @@
             "source_provision_id": "SchlPubRul:대한체육회정관#JO0049",
             "reference_id": "law:물품관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "물품관리법/법률/물품관리법.json"
+            "target_git_path_guess": "물품관리법/법률/물품관리법.json",
+            "target_git_path": "물품관리법/법률/물품관리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

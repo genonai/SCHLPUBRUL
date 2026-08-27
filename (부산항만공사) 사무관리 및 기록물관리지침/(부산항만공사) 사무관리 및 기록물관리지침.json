@@ -107,7 +107,9 @@
             "source_provision_id": "SchlPubRul:(부산항만공사)사무관리및기록물관리지침#JO0003",
             "reference_id": "law:보안업무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -127,7 +129,9 @@
             "source_provision_id": "SchlPubRul:(부산항만공사)사무관리및기록물관리지침#JO0003",
             "reference_id": "law:공공기록물관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -159,7 +163,9 @@
             "source_provision_id": "SchlPubRul:(부산항만공사)사무관리및기록물관리지침#JO0004",
             "reference_id": "law:전기통신사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기통신사업법/법률/전기통신사업법.json"
+            "target_git_path_guess": "전기통신사업법/법률/전기통신사업법.json",
+            "target_git_path": "전기통신사업법/법률/전기통신사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -179,7 +185,9 @@
             "source_provision_id": "SchlPubRul:(부산항만공사)사무관리및기록물관리지침#JO0004",
             "reference_id": "law:전기통신사업법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기통신사업법/법률/전기통신사업법.json"
+            "target_git_path_guess": "전기통신사업법/법률/전기통신사업법.json",
+            "target_git_path": "전기통신사업법/법률/전기통신사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -199,7 +207,11 @@
             "source_provision_id": "SchlPubRul:(부산항만공사)사무관리및기록물관리지침#JO0004",
             "reference_id": "SchlPubRul:(부산항만공사)사무관리및기록물관리지침#JO0021",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json"
+            "target_git_path_guess": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json",
+            "target_git_path": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -219,7 +231,11 @@
             "source_provision_id": "SchlPubRul:(부산항만공사)사무관리및기록물관리지침#JO0004",
             "reference_id": "SchlPubRul:(부산항만공사)사무관리및기록물관리지침#JO0021",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json"
+            "target_git_path_guess": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json",
+            "target_git_path": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -279,7 +295,11 @@
             "source_provision_id": "SchlPubRul:(부산항만공사)사무관리및기록물관리지침#JO0004",
             "reference_id": "SchlPubRul:(부산항만공사)사무관리및기록물관리지침#JO0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json"
+            "target_git_path_guess": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json",
+            "target_git_path": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -338,7 +358,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(부산항만공사)사무관리및기록물관리지침#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json"
+            "target_git_path_guess": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json",
+            "target_git_path": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json",
+            "target_git_file_path": "(부산항만공사) 사무관리 및 기록물관리지침/별지/별지1_사무인계·인수서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -370,7 +395,9 @@
             "source_provision_id": "SchlPubRul:(부산항만공사)사무관리및기록물관리지침#JO0008",
             "reference_id": "law:국어기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국어기본법/법률/국어기본법.json"
+            "target_git_path_guess": "국어기본법/법률/국어기본법.json",
+            "target_git_path": "국어기본법/법률/국어기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -390,7 +417,9 @@
             "source_provision_id": "SchlPubRul:(부산항만공사)사무관리및기록물관리지침#JO0008",
             "reference_id": "law:국어기본법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "국어기본법/법률/국어기본법.json"
+            "target_git_path_guess": "국어기본법/법률/국어기본법.json",
+            "target_git_path": "국어기본법/법률/국어기본법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -427,7 +456,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(부산항만공사)사무관리및기록물관리지침#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json"
+            "target_git_path_guess": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json",
+            "target_git_path": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json",
+            "target_git_file_path": "(부산항만공사) 사무관리 및 기록물관리지침/별지/별지2_기관명.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -452,7 +486,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:(부산항만공사)사무관리및기록물관리지침#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json"
+            "target_git_path_guess": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json",
+            "target_git_path": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json",
+            "target_git_file_path": "(부산항만공사) 사무관리 및 기록물관리지침/별지/별지3_회보.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -477,7 +516,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(부산항만공사)사무관리및기록물관리지침#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json"
+            "target_git_path_guess": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json",
+            "target_git_path": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json",
+            "target_git_file_path": "(부산항만공사) 사무관리 및 기록물관리지침/별지/별지2_기관명.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -613,7 +657,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(부산항만공사)사무관리및기록물관리지침#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json"
+            "target_git_path_guess": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json",
+            "target_git_path": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json",
+            "target_git_file_path": "(부산항만공사) 사무관리 및 기록물관리지침/별지/별지2_기관명.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -638,7 +687,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:(부산항만공사)사무관리및기록물관리지침#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json"
+            "target_git_path_guess": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json",
+            "target_git_path": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json",
+            "target_git_file_path": "(부산항만공사) 사무관리 및 기록물관리지침/별지/별지5_【별지 제5호서식】.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -714,7 +768,11 @@
             "source_provision_id": "SchlPubRul:(부산항만공사)사무관리및기록물관리지침#JO0022",
             "reference_id": "SchlPubRul:(부산항만공사)사무관리및기록물관리지침#JO0021",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json"
+            "target_git_path_guess": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json",
+            "target_git_path": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -734,7 +792,11 @@
             "source_provision_id": "SchlPubRul:(부산항만공사)사무관리및기록물관리지침#JO0022",
             "reference_id": "SchlPubRul:(부산항만공사)사무관리및기록물관리지침#JO0021",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json"
+            "target_git_path_guess": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json",
+            "target_git_path": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -793,7 +855,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(부산항만공사)사무관리및기록물관리지침#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json"
+            "target_git_path_guess": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json",
+            "target_git_path": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json",
+            "target_git_file_path": "(부산항만공사) 사무관리 및 기록물관리지침/별지/별지2_기관명.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -818,7 +885,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:(부산항만공사)사무관리및기록물관리지침#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json"
+            "target_git_path_guess": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json",
+            "target_git_path": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json",
+            "target_git_file_path": "(부산항만공사) 사무관리 및 기록물관리지침/별지/별지4_기관명.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -855,7 +927,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:(부산항만공사)사무관리및기록물관리지침#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json"
+            "target_git_path_guess": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json",
+            "target_git_path": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json",
+            "target_git_file_path": "(부산항만공사) 사무관리 및 기록물관리지침/별표/별표2_직인생략 또는 서명생략의 표시.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -903,7 +980,12 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:(부산항만공사)사무관리및기록물관리지침#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json"
+            "target_git_path_guess": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json",
+            "target_git_path": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json",
+            "target_git_file_path": "(부산항만공사) 사무관리 및 기록물관리지침/별표/별표3_접 수 인.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -928,7 +1010,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(부산항만공사)사무관리및기록물관리지침#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json"
+            "target_git_path_guess": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json",
+            "target_git_path": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json",
+            "target_git_file_path": "(부산항만공사) 사무관리 및 기록물관리지침/별지/별지2_기관명.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -982,7 +1069,11 @@
             "source_provision_id": "SchlPubRul:(부산항만공사)사무관리및기록물관리지침#JO0031",
             "reference_id": "SchlPubRul:(부산항만공사)사무관리및기록물관리지침#JO0030",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json"
+            "target_git_path_guess": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json",
+            "target_git_path": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1019,7 +1110,12 @@
             "target_unit": "BJ0008",
             "reference_id": "SchlPubRul:(부산항만공사)사무관리및기록물관리지침#BJ0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json"
+            "target_git_path_guess": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json",
+            "target_git_path": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json",
+            "target_git_file_path": "(부산항만공사) 사무관리 및 기록물관리지침/별지/별지8_인장대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1067,7 +1163,12 @@
             "target_unit": "BJ0009",
             "reference_id": "SchlPubRul:(부산항만공사)사무관리및기록물관리지침#BJ0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json"
+            "target_git_path_guess": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json",
+            "target_git_path": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json",
+            "target_git_file_path": "(부산항만공사) 사무관리 및 기록물관리지침/별지/별지9_전자이미지직인대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1104,7 +1205,12 @@
             "target_unit": "BJ0010",
             "reference_id": "SchlPubRul:(부산항만공사)사무관리및기록물관리지침#BJ0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json"
+            "target_git_path_guess": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json",
+            "target_git_path": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json",
+            "target_git_file_path": "(부산항만공사) 사무관리 및 기록물관리지침/별지/별지10_직인인쇄용지관리대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1235,7 +1341,9 @@
             "source_provision_id": "SchlPubRul:(부산항만공사)사무관리및기록물관리지침#JO0045",
             "reference_id": "law:공공기록물관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1255,7 +1363,9 @@
             "source_provision_id": "SchlPubRul:(부산항만공사)사무관리및기록물관리지침#JO0045",
             "reference_id": "law:공공기록물관리에관한법률#JO0041",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1309,7 +1419,9 @@
             "source_provision_id": "SchlPubRul:(부산항만공사)사무관리및기록물관리지침#JO0047",
             "reference_id": "law:공공기록물관리에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1329,7 +1441,9 @@
             "source_provision_id": "SchlPubRul:(부산항만공사)사무관리및기록물관리지침#JO0047",
             "reference_id": "law:공공기록물관리에관한법률시행령#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1349,7 +1463,9 @@
             "source_provision_id": "SchlPubRul:(부산항만공사)사무관리및기록물관리지침#JO0047",
             "reference_id": "law:공공기록물관리에관한법률시행령#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1369,7 +1485,9 @@
             "source_provision_id": "SchlPubRul:(부산항만공사)사무관리및기록물관리지침#JO0047",
             "reference_id": "law:공공기록물관리에관한법률시행령#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1423,7 +1541,9 @@
             "source_provision_id": "SchlPubRul:(부산항만공사)사무관리및기록물관리지침#JO0048_03",
             "reference_id": "law:공공기록물관리에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1443,7 +1563,9 @@
             "source_provision_id": "SchlPubRul:(부산항만공사)사무관리및기록물관리지침#JO0048_03",
             "reference_id": "law:공공기록물관리에관한법률시행령#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1486,7 +1608,11 @@
             "source_provision_id": "SchlPubRul:(부산항만공사)사무관리및기록물관리지침#JO0050",
             "reference_id": "SchlPubRul:(부산항만공사)사무관리및기록물관리지침#JO0057",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json"
+            "target_git_path_guess": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json",
+            "target_git_path": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1534,7 +1660,12 @@
             "target_unit": "BYL0010",
             "reference_id": "SchlPubRul:(부산항만공사)사무관리및기록물관리지침#BYL0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json"
+            "target_git_path_guess": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json",
+            "target_git_path": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json",
+            "target_git_file_path": "(부산항만공사) 사무관리 및 기록물관리지침/별표/별표10_진행문서파일.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1559,7 +1690,12 @@
             "target_unit": "BYL0009",
             "reference_id": "SchlPubRul:(부산항만공사)사무관리및기록물관리지침#BYL0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json"
+            "target_git_path_guess": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json",
+            "target_git_path": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json",
+            "target_git_file_path": "(부산항만공사) 사무관리 및 기록물관리지침/별표/별표9_기록물철 표지.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1584,7 +1720,12 @@
             "target_unit": "BJ0013",
             "reference_id": "SchlPubRul:(부산항만공사)사무관리및기록물관리지침#BJ0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json"
+            "target_git_path_guess": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json",
+            "target_git_path": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json",
+            "target_git_file_path": "(부산항만공사) 사무관리 및 기록물관리지침/별지/별지13_색인목록.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1609,7 +1750,12 @@
             "target_unit": "BYL0011",
             "reference_id": "SchlPubRul:(부산항만공사)사무관리및기록물관리지침#BYL0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json"
+            "target_git_path_guess": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json",
+            "target_git_path": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json",
+            "target_git_file_path": "(부산항만공사) 사무관리 및 기록물관리지침/별표/별표11_보존용 표지.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1634,7 +1780,12 @@
             "target_unit": "BYL0012",
             "reference_id": "SchlPubRul:(부산항만공사)사무관리및기록물관리지침#BYL0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json"
+            "target_git_path_guess": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json",
+            "target_git_path": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json",
+            "target_git_file_path": "(부산항만공사) 사무관리 및 기록물관리지침/별표/별표12_보존상자의 규격.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1659,7 +1810,12 @@
             "target_unit": "BYL0013",
             "reference_id": "SchlPubRul:(부산항만공사)사무관리및기록물관리지침#BYL0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json"
+            "target_git_path_guess": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json",
+            "target_git_path": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json",
+            "target_git_file_path": "(부산항만공사) 사무관리 및 기록물관리지침/별표/별표13_보존상자 표지.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1751,7 +1907,12 @@
             "target_unit": "BJ0012",
             "reference_id": "SchlPubRul:(부산항만공사)사무관리및기록물관리지침#BJ0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json"
+            "target_git_path_guess": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json",
+            "target_git_path": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json",
+            "target_git_file_path": "(부산항만공사) 사무관리 및 기록물관리지침/별지/별지12_기록물관리 기준표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1788,7 +1949,12 @@
             "target_unit": "BYL0008",
             "reference_id": "SchlPubRul:(부산항만공사)사무관리및기록물관리지침#BYL0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json"
+            "target_git_path_guess": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json",
+            "target_git_path": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json",
+            "target_git_file_path": "(부산항만공사) 사무관리 및 기록물관리지침/별표/별표8_기록물의 보존기간별 책정 기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1853,7 +2019,11 @@
             "source_provision_id": "SchlPubRul:(부산항만공사)사무관리및기록물관리지침#JO0061",
             "reference_id": "SchlPubRul:(부산항만공사)사무관리및기록물관리지침#JO0062",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json"
+            "target_git_path_guess": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json",
+            "target_git_path": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1890,7 +2060,12 @@
             "target_unit": "BJ0014",
             "reference_id": "SchlPubRul:(부산항만공사)사무관리및기록물관리지침#BJ0014",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json"
+            "target_git_path_guess": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json",
+            "target_git_path": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json",
+            "target_git_file_path": "(부산항만공사) 사무관리 및 기록물관리지침/별지/별지14_기록물평가심의서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1910,7 +2085,11 @@
             "source_provision_id": "SchlPubRul:(부산항만공사)사무관리및기록물관리지침#JO0062",
             "reference_id": "SchlPubRul:(부산항만공사)사무관리및기록물관리지침#JO0045",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json"
+            "target_git_path_guess": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json",
+            "target_git_path": "(부산항만공사) 사무관리 및 기록물관리지침/(부산항만공사) 사무관리 및 기록물관리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

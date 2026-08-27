@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:강원랜드카지노영업장출입일수운영내규#JO0001",
             "reference_id": "law:관광진흥법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "관광진흥법/시행령/관광진흥법 시행령.json"
+            "target_git_path_guess": "관광진흥법/시행령/관광진흥법 시행령.json",
+            "target_git_path": "관광진흥법/시행령/관광진흥법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -85,7 +87,9 @@
             "source_provision_id": "SchlPubRul:강원랜드카지노영업장출입일수운영내규#JO0001",
             "reference_id": "law:관광진흥법시행령#JO0066_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "관광진흥법/시행령/관광진흥법 시행령.json"
+            "target_git_path_guess": "관광진흥법/시행령/관광진흥법 시행령.json",
+            "target_git_path": "관광진흥법/시행령/관광진흥법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -105,7 +109,11 @@
             "source_provision_id": "SchlPubRul:강원랜드카지노영업장출입일수운영내규#JO0001",
             "reference_id": "admrul:카지노업영업준칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "카지노업 영업준칙/카지노업 영업준칙.json"
+            "target_git_path_guess": "카지노업 영업준칙/카지노업 영업준칙.json",
+            "target_git_path": "카지노업 영업준칙/카지노업 영업준칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -125,7 +133,11 @@
             "source_provision_id": "SchlPubRul:강원랜드카지노영업장출입일수운영내규#JO0001",
             "reference_id": "admrul:카지노업영업준칙#JO0009",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "카지노업 영업준칙/카지노업 영업준칙.json"
+            "target_git_path_guess": "카지노업 영업준칙/카지노업 영업준칙.json",
+            "target_git_path": "카지노업 영업준칙/카지노업 영업준칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -150,7 +162,8 @@
             "target_unit": "BYL0010",
             "reference_id": "SchlPubRul:강원랜드카지노영업장출입일수운영내규#BYL0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "강원랜드 카지노영업장 출입일수 운영내규/강원랜드 카지노영업장 출입일수 운영내규.json"
+            "target_git_path_guess": "강원랜드 카지노영업장 출입일수 운영내규/강원랜드 카지노영업장 출입일수 운영내규.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -182,7 +195,9 @@
             "source_provision_id": "SchlPubRul:강원랜드카지노영업장출입일수운영내규#JO0002",
             "reference_id": "law:해외이주법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "해외이주법/법률/해외이주법.json"
+            "target_git_path_guess": "해외이주법/법률/해외이주법.json",
+            "target_git_path": "해외이주법/법률/해외이주법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -202,7 +217,9 @@
             "source_provision_id": "SchlPubRul:강원랜드카지노영업장출입일수운영내규#JO0002",
             "reference_id": "law:해외이주법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "해외이주법/법률/해외이주법.json"
+            "target_git_path_guess": "해외이주법/법률/해외이주법.json",
+            "target_git_path": "해외이주법/법률/해외이주법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -245,7 +262,11 @@
             "source_provision_id": "SchlPubRul:강원랜드카지노영업장출입일수운영내규#JO0004",
             "reference_id": "SchlPubRul:강원랜드카지노영업장출입일수운영내규#JO0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "강원랜드 카지노영업장 출입일수 운영내규/강원랜드 카지노영업장 출입일수 운영내규.json"
+            "target_git_path_guess": "강원랜드 카지노영업장 출입일수 운영내규/강원랜드 카지노영업장 출입일수 운영내규.json",
+            "target_git_path": "강원랜드 카지노영업장 출입일수 운영내규/강원랜드 카지노영업장 출입일수 운영내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -270,7 +291,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:강원랜드카지노영업장출입일수운영내규#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "강원랜드 카지노영업장 출입일수 운영내규/강원랜드 카지노영업장 출입일수 운영내규.json"
+            "target_git_path_guess": "강원랜드 카지노영업장 출입일수 운영내규/강원랜드 카지노영업장 출입일수 운영내규.json",
+            "target_git_path": "강원랜드 카지노영업장 출입일수 운영내규/강원랜드 카지노영업장 출입일수 운영내규.json",
+            "target_git_file_path": "강원랜드 카지노영업장 출입일수 운영내규/별표/별표1_고객별 출입가능 일수(제3조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

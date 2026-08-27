@@ -87,7 +87,9 @@
             "source_provision_id": "SchlPubRul:(한국중소벤처기업유통원)경영공시관리지침#JO0003",
             "reference_id": "law:공공기관의운영에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/시행령/공공기관의 운영에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/시행령/공공기관의 운영에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/시행령/공공기관의 운영에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -217,7 +219,11 @@
             "source_provision_id": "SchlPubRul:(한국중소벤처기업유통원)경영공시관리지침#JO0012",
             "reference_id": "SchlPubRul:(한국중소벤처기업유통원)경영공시관리지침#JO0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국중소벤처기업유통원) 경영공시관리지침/(한국중소벤처기업유통원) 경영공시관리지침.json"
+            "target_git_path_guess": "(한국중소벤처기업유통원) 경영공시관리지침/(한국중소벤처기업유통원) 경영공시관리지침.json",
+            "target_git_path": "(한국중소벤처기업유통원) 경영공시관리지침/(한국중소벤처기업유통원) 경영공시관리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -242,7 +248,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:(한국중소벤처기업유통원)경영공시관리지침#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국중소벤처기업유통원) 경영공시관리지침/(한국중소벤처기업유통원) 경영공시관리지침.json"
+            "target_git_path_guess": "(한국중소벤처기업유통원) 경영공시관리지침/(한국중소벤처기업유통원) 경영공시관리지침.json",
+            "target_git_path": "(한국중소벤처기업유통원) 경영공시관리지침/(한국중소벤처기업유통원) 경영공시관리지침.json",
+            "target_git_file_path": "(한국중소벤처기업유통원) 경영공시관리지침/별표/별표2_자체 제제 및 포상 및 포상(제12조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -267,7 +278,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(한국중소벤처기업유통원)경영공시관리지침#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국중소벤처기업유통원) 경영공시관리지침/(한국중소벤처기업유통원) 경영공시관리지침.json"
+            "target_git_path_guess": "(한국중소벤처기업유통원) 경영공시관리지침/(한국중소벤처기업유통원) 경영공시관리지침.json",
+            "target_git_path": "(한국중소벤처기업유통원) 경영공시관리지침/(한국중소벤처기업유통원) 경영공시관리지침.json",
+            "target_git_file_path": "(한국중소벤처기업유통원) 경영공시관리지침/별지/별지1_불성실공시 재발방지를 위한 개선계획서(제12조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

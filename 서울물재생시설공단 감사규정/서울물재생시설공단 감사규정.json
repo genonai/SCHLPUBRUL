@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:서울물재생시설공단감사규정#JO0001",
             "reference_id": "law:공공감사에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공감사에 관한 법률/시행령/공공감사에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공감사에 관한 법률/시행령/공공감사에 관한 법률 시행령.json",
+            "target_git_path": "공공감사에 관한 법률/시행령/공공감사에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -85,7 +87,11 @@
             "source_provision_id": "SchlPubRul:서울물재생시설공단감사규정#JO0001",
             "reference_id": "SchlPubRul:서울물재생시설공단정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "서울물재생시설공단 정관/서울물재생시설공단 정관.json"
+            "target_git_path_guess": "서울물재생시설공단 정관/서울물재생시설공단 정관.json",
+            "target_git_path": "서울물재생시설공단 정관/서울물재생시설공단 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -105,7 +111,11 @@
             "source_provision_id": "SchlPubRul:서울물재생시설공단감사규정#JO0001",
             "reference_id": "SchlPubRul:서울물재생시설공단정관#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "서울물재생시설공단 정관/서울물재생시설공단 정관.json"
+            "target_git_path_guess": "서울물재생시설공단 정관/서울물재생시설공단 정관.json",
+            "target_git_path": "서울물재생시설공단 정관/서울물재생시설공단 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -170,7 +180,11 @@
             "source_provision_id": "SchlPubRul:서울물재생시설공단감사규정#JO0005",
             "reference_id": "SchlPubRul:서울물재생시설공단감사규정#JO0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "서울물재생시설공단 감사규정/서울물재생시설공단 감사규정.json"
+            "target_git_path_guess": "서울물재생시설공단 감사규정/서울물재생시설공단 감사규정.json",
+            "target_git_path": "서울물재생시설공단 감사규정/서울물재생시설공단 감사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -235,7 +249,11 @@
             "source_provision_id": "SchlPubRul:서울물재생시설공단감사규정#JO0009",
             "reference_id": "SchlPubRul:서울물재생시설공단인사규정시행내규#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "서울물재생시설공단 인사규정 시행내규/서울물재생시설공단 인사규정 시행내규.json"
+            "target_git_path_guess": "서울물재생시설공단 인사규정 시행내규/서울물재생시설공단 인사규정 시행내규.json",
+            "target_git_path": "서울물재생시설공단 인사규정시행내규/서울물재생시설공단 인사규정시행내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -260,7 +278,8 @@
             "target_unit": "BYL0005",
             "reference_id": "SchlPubRul:서울물재생시설공단감사규정#BYL0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "서울물재생시설공단 감사규정/서울물재생시설공단 감사규정.json"
+            "target_git_path_guess": "서울물재생시설공단 감사규정/서울물재생시설공단 감사규정.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -391,7 +410,11 @@
             "source_provision_id": "SchlPubRul:서울물재생시설공단감사규정#JO0019",
             "reference_id": "SchlPubRul:서울물재생시설공단감사규정#JO0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "서울물재생시설공단 감사규정/서울물재생시설공단 감사규정.json"
+            "target_git_path_guess": "서울물재생시설공단 감사규정/서울물재생시설공단 감사규정.json",
+            "target_git_path": "서울물재생시설공단 감사규정/서울물재생시설공단 감사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -428,7 +451,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:서울물재생시설공단감사규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "서울물재생시설공단 감사규정/서울물재생시설공단 감사규정.json"
+            "target_git_path_guess": "서울물재생시설공단 감사규정/서울물재생시설공단 감사규정.json",
+            "target_git_path": "서울물재생시설공단 감사규정/서울물재생시설공단 감사규정.json",
+            "target_git_file_path": "서울물재생시설공단 감사규정/별표/별표1_(제20조제2항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -460,7 +488,11 @@
             "source_provision_id": "SchlPubRul:서울물재생시설공단감사규정#JO0021",
             "reference_id": "SchlPubRul:서울물재생시설공단감사규정#JO0020",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "서울물재생시설공단 감사규정/서울물재생시설공단 감사규정.json"
+            "target_git_path_guess": "서울물재생시설공단 감사규정/서울물재생시설공단 감사규정.json",
+            "target_git_path": "서울물재생시설공단 감사규정/서울물재생시설공단 감사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -480,7 +512,11 @@
             "source_provision_id": "SchlPubRul:서울물재생시설공단감사규정#JO0021",
             "reference_id": "SchlPubRul:서울물재생시설공단감사규정#JO0020",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "서울물재생시설공단 감사규정/서울물재생시설공단 감사규정.json"
+            "target_git_path_guess": "서울물재생시설공단 감사규정/서울물재생시설공단 감사규정.json",
+            "target_git_path": "서울물재생시설공단 감사규정/서울물재생시설공단 감사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -512,7 +548,11 @@
             "source_provision_id": "SchlPubRul:서울물재생시설공단감사규정#JO0022",
             "reference_id": "SchlPubRul:서울물재생시설공단감사규정#JO0021",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "서울물재생시설공단 감사규정/서울물재생시설공단 감사규정.json"
+            "target_git_path_guess": "서울물재생시설공단 감사규정/서울물재생시설공단 감사규정.json",
+            "target_git_path": "서울물재생시설공단 감사규정/서울물재생시설공단 감사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -544,7 +584,11 @@
             "source_provision_id": "SchlPubRul:서울물재생시설공단감사규정#JO0023",
             "reference_id": "SchlPubRul:서울물재생시설공단감사규정#JO0020",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "서울물재생시설공단 감사규정/서울물재생시설공단 감사규정.json"
+            "target_git_path_guess": "서울물재생시설공단 감사규정/서울물재생시설공단 감사규정.json",
+            "target_git_path": "서울물재생시설공단 감사규정/서울물재생시설공단 감사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -587,7 +631,11 @@
             "source_provision_id": "SchlPubRul:서울물재생시설공단감사규정#JO0025",
             "reference_id": "SchlPubRul:서울물재생시설공단감사규정#JO0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "서울물재생시설공단 감사규정/서울물재생시설공단 감사규정.json"
+            "target_git_path_guess": "서울물재생시설공단 감사규정/서울물재생시설공단 감사규정.json",
+            "target_git_path": "서울물재생시설공단 감사규정/서울물재생시설공단 감사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -619,7 +667,11 @@
             "source_provision_id": "SchlPubRul:서울물재생시설공단감사규정#JO0026",
             "reference_id": "SchlPubRul:서울물재생시설공단감사규정#JO0025",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "서울물재생시설공단 감사규정/서울물재생시설공단 감사규정.json"
+            "target_git_path_guess": "서울물재생시설공단 감사규정/서울물재생시설공단 감사규정.json",
+            "target_git_path": "서울물재생시설공단 감사규정/서울물재생시설공단 감사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],

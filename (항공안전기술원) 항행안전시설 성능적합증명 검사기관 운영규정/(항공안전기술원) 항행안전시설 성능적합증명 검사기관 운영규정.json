@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:(항공안전기술원)항행안전시설성능적합증명검사기관운영규정#JO0001",
             "reference_id": "law:공항시설법#JO0052",
             "target_repo": "LAW",
-            "target_git_path_guess": "공항시설법/법률/공항시설법.json"
+            "target_git_path_guess": "공항시설법/법률/공항시설법.json",
+            "target_git_path": "공항시설법/법률/공항시설법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -85,7 +87,9 @@
             "source_provision_id": "SchlPubRul:(항공안전기술원)항행안전시설성능적합증명검사기관운영규정#JO0001",
             "reference_id": "law:공항시설법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공항시설법/시행규칙/공항시설법 시행규칙.json"
+            "target_git_path_guess": "공항시설법/시행규칙/공항시설법 시행규칙.json",
+            "target_git_path": "공항시설법/시행규칙/공항시설법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -105,7 +109,9 @@
             "source_provision_id": "SchlPubRul:(항공안전기술원)항행안전시설성능적합증명검사기관운영규정#JO0001",
             "reference_id": "law:공항시설법시행규칙#JO0043",
             "target_repo": "LAW",
-            "target_git_path_guess": "공항시설법/시행규칙/공항시설법 시행규칙.json"
+            "target_git_path_guess": "공항시설법/시행규칙/공항시설법 시행규칙.json",
+            "target_git_path": "공항시설법/시행규칙/공항시설법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -137,7 +143,9 @@
             "source_provision_id": "SchlPubRul:(항공안전기술원)항행안전시설성능적합증명검사기관운영규정#JO0002",
             "reference_id": "law:공항시설법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공항시설법/법률/공항시설법.json"
+            "target_git_path_guess": "공항시설법/법률/공항시설법.json",
+            "target_git_path": "공항시설법/법률/공항시설법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -157,7 +165,9 @@
             "source_provision_id": "SchlPubRul:(항공안전기술원)항행안전시설성능적합증명검사기관운영규정#JO0002",
             "reference_id": "law:공항시설법#JO0052",
             "target_repo": "LAW",
-            "target_git_path_guess": "공항시설법/법률/공항시설법.json"
+            "target_git_path_guess": "공항시설법/법률/공항시설법.json",
+            "target_git_path": "공항시설법/법률/공항시설법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -222,7 +232,11 @@
             "source_provision_id": "SchlPubRul:(항공안전기술원)항행안전시설성능적합증명검사기관운영규정#JO0006",
             "reference_id": "admrul:항행안전시설성능적합증명검사규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항행안전시설 성능적합증명 검사 규정/항행안전시설 성능적합증명 검사 규정.json"
+            "target_git_path_guess": "항행안전시설 성능적합증명 검사 규정/항행안전시설 성능적합증명 검사 규정.json",
+            "target_git_path": "항행안전시설 성능적합증명 검사 규정/항행안전시설 성능적합증명 검사 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -247,7 +261,12 @@
             "target_unit": "BYL0001",
             "reference_id": "admrul:항행안전시설성능적합증명검사규정#BYL0001",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항행안전시설 성능적합증명 검사 규정/항행안전시설 성능적합증명 검사 규정.json"
+            "target_git_path_guess": "항행안전시설 성능적합증명 검사 규정/항행안전시설 성능적합증명 검사 규정.json",
+            "target_git_path": "항행안전시설 성능적합증명 검사 규정/항행안전시설 성능적합증명 검사 규정.json",
+            "target_git_file_path": "항행안전시설 성능적합증명 검사 규정/별표/별표1_검사기관이 갖추어야 할 요건 기준(제2조 관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -267,7 +286,11 @@
             "source_provision_id": "SchlPubRul:(항공안전기술원)항행안전시설성능적합증명검사기관운영규정#JO0006",
             "reference_id": "SchlPubRul:(항공안전기술원)항행안전시설성능적합증명검사기관운영규정#JO0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정/(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정.json"
+            "target_git_path_guess": "(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정/(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정.json",
+            "target_git_path": "(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정/(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -292,7 +315,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(항공안전기술원)항행안전시설성능적합증명검사기관운영규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정/(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정.json"
+            "target_git_path_guess": "(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정/(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정.json",
+            "target_git_path": "(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정/(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정.json",
+            "target_git_file_path": "(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정/별표/별표1_검사원 교육 프로그램.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -340,7 +368,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(항공안전기술원)항행안전시설성능적합증명검사기관운영규정#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정/(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정.json"
+            "target_git_path_guess": "(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정/(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정.json",
+            "target_git_path": "(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정/(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정.json",
+            "target_git_file_path": "(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정/별지/별지1_성능적합증명 검사원 등록부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -394,7 +427,11 @@
             "source_provision_id": "SchlPubRul:(항공안전기술원)항행안전시설성능적합증명검사기관운영규정#JO0011",
             "reference_id": "SchlPubRul:(항공안전기술원)항행안전시설성능적합증명검사기관운영규정#JO0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정/(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정.json"
+            "target_git_path_guess": "(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정/(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정.json",
+            "target_git_path": "(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정/(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -419,7 +456,12 @@
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:(항공안전기술원)항행안전시설성능적합증명검사기관운영규정#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정/(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정.json"
+            "target_git_path_guess": "(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정/(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정.json",
+            "target_git_path": "(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정/(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정.json",
+            "target_git_file_path": "(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정/별지/별지6_성능적합증명 입증계획서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -444,7 +486,12 @@
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:(항공안전기술원)항행안전시설성능적합증명검사기관운영규정#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정/(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정.json"
+            "target_git_path_guess": "(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정/(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정.json",
+            "target_git_path": "(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정/(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정.json",
+            "target_git_file_path": "(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정/별지/별지7_성능적합증명 시험평가 성적서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -492,7 +539,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:(항공안전기술원)항행안전시설성능적합증명검사기관운영규정#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정/(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정.json"
+            "target_git_path_guess": "(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정/(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정.json",
+            "target_git_path": "(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정/(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정.json",
+            "target_git_file_path": "(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정/별지/별지3_부적합(결함)보고서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -517,7 +569,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:(항공안전기술원)항행안전시설성능적합증명검사기관운영규정#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정/(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정.json"
+            "target_git_path_guess": "(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정/(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정.json",
+            "target_git_path": "(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정/(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정.json",
+            "target_git_file_path": "(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정/별지/별지4_부적합(결함) 관리대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -560,7 +617,11 @@
             "source_provision_id": "SchlPubRul:(항공안전기술원)항행안전시설성능적합증명검사기관운영규정#JO0015",
             "reference_id": "SchlPubRul:(항공안전기술원)항행안전시설성능적합증명검사기관운영규정#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정/(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정.json"
+            "target_git_path_guess": "(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정/(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정.json",
+            "target_git_path": "(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정/(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -597,7 +658,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:(항공안전기술원)항행안전시설성능적합증명검사기관운영규정#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정/(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정.json"
+            "target_git_path_guess": "(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정/(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정.json",
+            "target_git_path": "(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정/(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정.json",
+            "target_git_file_path": "(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정/별지/별지5_기술자료 관리대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -640,7 +706,11 @@
             "source_provision_id": "SchlPubRul:(항공안전기술원)항행안전시설성능적합증명검사기관운영규정#JO0018",
             "reference_id": "SchlPubRul:항공안전기술원임직원행동강령#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "항공안전기술원 임직원 행동강령/항공안전기술원 임직원 행동강령.json"
+            "target_git_path_guess": "항공안전기술원 임직원 행동강령/항공안전기술원 임직원 행동강령.json",
+            "target_git_path": "항공안전기술원 임직원 행동강령/항공안전기술원 임직원 행동강령.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -699,7 +769,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(항공안전기술원)항행안전시설성능적합증명검사기관운영규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정/(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정.json"
+            "target_git_path_guess": "(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정/(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정.json",
+            "target_git_path": "(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정/(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정.json",
+            "target_git_file_path": "(항공안전기술원) 항행안전시설 성능적합증명 검사기관 운영규정/별표/별표1_검사원 교육 프로그램.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -742,7 +817,9 @@
             "source_provision_id": "SchlPubRul:(항공안전기술원)항행안전시설성능적합증명검사기관운영규정#JO0023",
             "reference_id": "law:엔지니어링산업진흥법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "엔지니어링산업진흥법/법률/엔지니어링산업진흥법.json"
+            "target_git_path_guess": "엔지니어링산업진흥법/법률/엔지니어링산업진흥법.json",
+            "target_git_path": "엔지니어링산업 진흥법/법률/엔지니어링산업 진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -762,7 +839,9 @@
             "source_provision_id": "SchlPubRul:(항공안전기술원)항행안전시설성능적합증명검사기관운영규정#JO0023",
             "reference_id": "law:엔지니어링산업진흥법#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "엔지니어링산업진흥법/법률/엔지니어링산업진흥법.json"
+            "target_git_path_guess": "엔지니어링산업진흥법/법률/엔지니어링산업진흥법.json",
+            "target_git_path": "엔지니어링산업 진흥법/법률/엔지니어링산업 진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -782,7 +861,9 @@
             "source_provision_id": "SchlPubRul:(항공안전기술원)항행안전시설성능적합증명검사기관운영규정#JO0023",
             "reference_id": "law:엔지니어링산업진흥법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "엔지니어링산업진흥법/법률/엔지니어링산업진흥법.json"
+            "target_git_path_guess": "엔지니어링산업진흥법/법률/엔지니어링산업진흥법.json",
+            "target_git_path": "엔지니어링산업 진흥법/법률/엔지니어링산업 진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -802,7 +883,9 @@
             "source_provision_id": "SchlPubRul:(항공안전기술원)항행안전시설성능적합증명검사기관운영규정#JO0023",
             "reference_id": "law:엔지니어링산업진흥법#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "엔지니어링산업진흥법/법률/엔지니어링산업진흥법.json"
+            "target_git_path_guess": "엔지니어링산업진흥법/법률/엔지니어링산업진흥법.json",
+            "target_git_path": "엔지니어링산업 진흥법/법률/엔지니어링산업 진흥법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -856,7 +939,11 @@
             "source_provision_id": "SchlPubRul:(항공안전기술원)항행안전시설성능적합증명검사기관운영규정#JO0026",
             "reference_id": "admrul:항행안전시설성능적합증명검사규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항행안전시설 성능적합증명 검사 규정/항행안전시설 성능적합증명 검사 규정.json"
+            "target_git_path_guess": "항행안전시설 성능적합증명 검사 규정/항행안전시설 성능적합증명 검사 규정.json",
+            "target_git_path": "항행안전시설 성능적합증명 검사 규정/항행안전시설 성능적합증명 검사 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -876,7 +963,11 @@
             "source_provision_id": "SchlPubRul:(항공안전기술원)항행안전시설성능적합증명검사기관운영규정#JO0026",
             "reference_id": "admrul:항행안전시설성능적합증명검사규정#JO0011",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항행안전시설 성능적합증명 검사 규정/항행안전시설 성능적합증명 검사 규정.json"
+            "target_git_path_guess": "항행안전시설 성능적합증명 검사 규정/항행안전시설 성능적합증명 검사 규정.json",
+            "target_git_path": "항행안전시설 성능적합증명 검사 규정/항행안전시설 성능적합증명 검사 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],

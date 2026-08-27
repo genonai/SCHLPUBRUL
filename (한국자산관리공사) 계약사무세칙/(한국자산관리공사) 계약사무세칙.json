@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0001",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -85,7 +87,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0001",
             "reference_id": "law:공공기관의운영에관한법률#JO0039",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -105,7 +109,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0001",
             "reference_id": "law:공기업준정부기관계약사무규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json"
+            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_git_path": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -137,7 +143,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0002",
             "reference_id": "law:공기업준정부기관계약사무규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json"
+            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_git_path": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -157,7 +165,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0002",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -200,7 +210,11 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0003_02",
             "reference_id": "SchlPubRul:한국자산관리공사임직원행동강령#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국자산관리공사 임직원 행동강령/한국자산관리공사 임직원 행동강령.json"
+            "target_git_path_guess": "한국자산관리공사 임직원 행동강령/한국자산관리공사 임직원 행동강령.json",
+            "target_git_path": "한국자산관리공사 임직원 행동강령/한국자산관리공사 임직원 행동강령.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -225,7 +239,8 @@
             "target_unit": "BJ0016",
             "reference_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#BJ0016",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json"
+            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -257,7 +272,11 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0003_03",
             "reference_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0004_03",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json"
+            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_git_path": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -294,7 +313,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json"
+            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_git_path": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_git_file_path": "(한국자산관리공사) 계약사무세칙/별지/별지1_금품·향응 제안 신고서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -314,7 +338,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0003_04",
             "reference_id": "law:공기업준정부기관계약사무규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json"
+            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_git_path": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -334,7 +360,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0003_04",
             "reference_id": "law:공기업준정부기관계약사무규칙#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json"
+            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_git_path": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -354,7 +382,11 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0003_04",
             "reference_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0029",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json"
+            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_git_path": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -374,7 +406,11 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0003_04",
             "reference_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0030",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json"
+            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_git_path": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -406,7 +442,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0003_05",
             "reference_id": "law:하도급거래공정화에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "하도급거래 공정화에 관한 법률/법률/하도급거래 공정화에 관한 법률.json"
+            "target_git_path_guess": "하도급거래 공정화에 관한 법률/법률/하도급거래 공정화에 관한 법률.json",
+            "target_git_path": "하도급거래 공정화에 관한 법률/법률/하도급거래 공정화에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -426,7 +464,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0003_05",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -458,7 +498,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0004",
             "reference_id": "law:건설산업기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설산업기본법/법률/건설산업기본법.json"
+            "target_git_path_guess": "건설산업기본법/법률/건설산업기본법.json",
+            "target_git_path": "건설산업기본법/법률/건설산업기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -478,7 +520,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0004",
             "reference_id": "law:건설산업기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설산업기본법/법률/건설산업기본법.json"
+            "target_git_path_guess": "건설산업기본법/법률/건설산업기본법.json",
+            "target_git_path": "건설산업기본법/법률/건설산업기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -498,7 +542,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0004",
             "reference_id": "law:자본시장과금융투자업에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json"
+            "target_git_path_guess": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json",
+            "target_git_path": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -518,7 +564,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0004",
             "reference_id": "law:전자조달의이용및촉진에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자조달의 이용 및 촉진에 관한 법률/법률/전자조달의 이용 및 촉진에 관한 법률.json"
+            "target_git_path_guess": "전자조달의 이용 및 촉진에 관한 법률/법률/전자조달의 이용 및 촉진에 관한 법률.json",
+            "target_git_path": "전자조달의 이용 및 촉진에 관한 법률/법률/전자조달의 이용 및 촉진에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -538,7 +586,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0004",
             "reference_id": "law:전자조달의이용및촉진에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자조달의 이용 및 촉진에 관한 법률/법률/전자조달의 이용 및 촉진에 관한 법률.json"
+            "target_git_path_guess": "전자조달의 이용 및 촉진에 관한 법률/법률/전자조달의 이용 및 촉진에 관한 법률.json",
+            "target_git_path": "전자조달의 이용 및 촉진에 관한 법률/법률/전자조달의 이용 및 촉진에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -558,7 +608,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0004",
             "reference_id": "law:국유재산법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국유재산법/법률/국유재산법.json"
+            "target_git_path_guess": "국유재산법/법률/국유재산법.json",
+            "target_git_path": "국유재산법/법률/국유재산법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -578,7 +630,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0004",
             "reference_id": "law:국유재산법#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "국유재산법/법률/국유재산법.json"
+            "target_git_path_guess": "국유재산법/법률/국유재산법.json",
+            "target_git_path": "국유재산법/법률/국유재산법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -615,7 +669,12 @@
             "target_unit": "BJ0008",
             "reference_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#BJ0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json"
+            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_git_path": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_git_file_path": "(한국자산관리공사) 계약사무세칙/별지/별지8_외국업체계약 관리대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -647,7 +706,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0004_03",
             "reference_id": "law:국가를당사자로하는계약에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -667,7 +728,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0004_03",
             "reference_id": "law:국가를당사자로하는계약에관한법률#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -687,7 +750,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0004_03",
             "reference_id": "law:중소기업제품구매촉진및판로지원에관한법률#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json"
+            "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json",
+            "target_git_path": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -707,7 +772,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0004_03",
             "reference_id": "law:중소기업제품구매촉진및판로지원에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/시행령/중소기업제품 구매촉진 및 판로지원에 관한 법률 시행령.json"
+            "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/시행령/중소기업제품 구매촉진 및 판로지원에 관한 법률 시행령.json",
+            "target_git_path": "중소기업제품 구매촉진 및 판로지원에 관한 법률/시행령/중소기업제품 구매촉진 및 판로지원에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -727,7 +794,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0004_03",
             "reference_id": "law:중소기업제품구매촉진및판로지원에관한법률시행령#JO0002_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/시행령/중소기업제품 구매촉진 및 판로지원에 관한 법률 시행령.json"
+            "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/시행령/중소기업제품 구매촉진 및 판로지원에 관한 법률 시행령.json",
+            "target_git_path": "중소기업제품 구매촉진 및 판로지원에 관한 법률/시행령/중소기업제품 구매촉진 및 판로지원에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -747,7 +816,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0004_03",
             "reference_id": "law:중소기업제품구매촉진및판로지원에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/시행령/중소기업제품 구매촉진 및 판로지원에 관한 법률 시행령.json"
+            "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/시행령/중소기업제품 구매촉진 및 판로지원에 관한 법률 시행령.json",
+            "target_git_path": "중소기업제품 구매촉진 및 판로지원에 관한 법률/시행령/중소기업제품 구매촉진 및 판로지원에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -767,7 +838,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0004_03",
             "reference_id": "law:중소기업제품구매촉진및판로지원에관한법률시행령#JO0002_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/시행령/중소기업제품 구매촉진 및 판로지원에 관한 법률 시행령.json"
+            "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/시행령/중소기업제품 구매촉진 및 판로지원에 관한 법률 시행령.json",
+            "target_git_path": "중소기업제품 구매촉진 및 판로지원에 관한 법률/시행령/중소기업제품 구매촉진 및 판로지원에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -810,7 +883,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0005",
             "reference_id": "law:형법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -830,7 +905,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0005",
             "reference_id": "law:형법#JO0129",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -850,7 +927,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0005",
             "reference_id": "law:형법#JO0130",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -870,7 +949,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0005",
             "reference_id": "law:형법#JO0131",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -890,7 +971,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0005",
             "reference_id": "law:형법#JO0132",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -910,7 +993,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0005",
             "reference_id": "law:형법#JO0314",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -930,7 +1015,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0005",
             "reference_id": "law:형법#JO0315",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -950,7 +1037,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0005",
             "reference_id": "law:형법#JO0347",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -970,7 +1059,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0005",
             "reference_id": "law:형법#JO0347_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -990,7 +1081,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0005",
             "reference_id": "law:형법#JO0355",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1010,7 +1103,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0005",
             "reference_id": "law:형법#JO0359",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1042,7 +1137,11 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0006",
             "reference_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json"
+            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_git_path": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -1062,7 +1161,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0006",
             "reference_id": "law:건설산업기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설산업기본법/법률/건설산업기본법.json"
+            "target_git_path_guess": "건설산업기본법/법률/건설산업기본법.json",
+            "target_git_path": "건설산업기본법/법률/건설산업기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1082,7 +1183,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0006",
             "reference_id": "law:건설산업기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설산업기본법/법률/건설산업기본법.json"
+            "target_git_path_guess": "건설산업기본법/법률/건설산업기본법.json",
+            "target_git_path": "건설산업기본법/법률/건설산업기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1102,7 +1205,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0006",
             "reference_id": "law:산업표준화법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업표준화법/법률/산업표준화법.json"
+            "target_git_path_guess": "산업표준화법/법률/산업표준화법.json",
+            "target_git_path": "산업표준화법/법률/산업표준화법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1122,7 +1227,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0006",
             "reference_id": "law:산업표준화법#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업표준화법/법률/산업표준화법.json"
+            "target_git_path_guess": "산업표준화법/법률/산업표준화법.json",
+            "target_git_path": "산업표준화법/법률/산업표준화법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1142,7 +1249,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0006",
             "reference_id": "law:산업표준화법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업표준화법/법률/산업표준화법.json"
+            "target_git_path_guess": "산업표준화법/법률/산업표준화법.json",
+            "target_git_path": "산업표준화법/법률/산업표준화법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1162,7 +1271,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0006",
             "reference_id": "law:산업표준화법#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업표준화법/법률/산업표준화법.json"
+            "target_git_path_guess": "산업표준화법/법률/산업표준화법.json",
+            "target_git_path": "산업표준화법/법률/산업표준화법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1182,7 +1293,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0006",
             "reference_id": "law:자원의절약과재활용촉진에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "자원의 절약과 재활용촉진에 관한 법률/법률/자원의 절약과 재활용촉진에 관한 법률.json"
+            "target_git_path_guess": "자원의 절약과 재활용촉진에 관한 법률/법률/자원의 절약과 재활용촉진에 관한 법률.json",
+            "target_git_path": "자원의 절약과 재활용촉진에 관한 법률/법률/자원의 절약과 재활용촉진에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1202,7 +1315,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0006",
             "reference_id": "law:자원의절약과재활용촉진에관한법률#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "자원의 절약과 재활용촉진에 관한 법률/법률/자원의 절약과 재활용촉진에 관한 법률.json"
+            "target_git_path_guess": "자원의 절약과 재활용촉진에 관한 법률/법률/자원의 절약과 재활용촉진에 관한 법률.json",
+            "target_git_path": "자원의 절약과 재활용촉진에 관한 법률/법률/자원의 절약과 재활용촉진에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1222,7 +1337,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0006",
             "reference_id": "law:산업기술혁신촉진법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업기술혁신 촉진법/시행령/산업기술혁신 촉진법 시행령.json"
+            "target_git_path_guess": "산업기술혁신 촉진법/시행령/산업기술혁신 촉진법 시행령.json",
+            "target_git_path": "산업기술혁신 촉진법/시행령/산업기술혁신 촉진법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1242,7 +1359,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0006",
             "reference_id": "law:산업기술혁신촉진법시행령#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업기술혁신 촉진법/시행령/산업기술혁신 촉진법 시행령.json"
+            "target_git_path_guess": "산업기술혁신 촉진법/시행령/산업기술혁신 촉진법 시행령.json",
+            "target_git_path": "산업기술혁신 촉진법/시행령/산업기술혁신 촉진법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1262,7 +1381,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0006",
             "reference_id": "law:환경기술및환경산업지원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "환경기술 및 환경산업 지원법/법률/환경기술 및 환경산업 지원법.json"
+            "target_git_path_guess": "환경기술 및 환경산업 지원법/법률/환경기술 및 환경산업 지원법.json",
+            "target_git_path": "환경기술 및 환경산업 지원법/법률/환경기술 및 환경산업 지원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1282,7 +1403,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0006",
             "reference_id": "law:환경기술및환경산업지원법#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "환경기술 및 환경산업 지원법/법률/환경기술 및 환경산업 지원법.json"
+            "target_git_path_guess": "환경기술 및 환경산업 지원법/법률/환경기술 및 환경산업 지원법.json",
+            "target_git_path": "환경기술 및 환경산업 지원법/법률/환경기술 및 환경산업 지원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1302,7 +1425,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0006",
             "reference_id": "law:중소기업제품구매촉진및판로지원에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/시행령/중소기업제품 구매촉진 및 판로지원에 관한 법률 시행령.json"
+            "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/시행령/중소기업제품 구매촉진 및 판로지원에 관한 법률 시행령.json",
+            "target_git_path": "중소기업제품 구매촉진 및 판로지원에 관한 법률/시행령/중소기업제품 구매촉진 및 판로지원에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1322,7 +1447,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0006",
             "reference_id": "law:중소기업제품구매촉진및판로지원에관한법률시행령#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/시행령/중소기업제품 구매촉진 및 판로지원에 관한 법률 시행령.json"
+            "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/시행령/중소기업제품 구매촉진 및 판로지원에 관한 법률 시행령.json",
+            "target_git_path": "중소기업제품 구매촉진 및 판로지원에 관한 법률/시행령/중소기업제품 구매촉진 및 판로지원에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1342,7 +1469,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0006",
             "reference_id": "law:중소기업기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업기본법/법률/중소기업기본법.json"
+            "target_git_path_guess": "중소기업기본법/법률/중소기업기본법.json",
+            "target_git_path": "중소기업기본법/법률/중소기업기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1362,7 +1491,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0006",
             "reference_id": "law:중소기업기본법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업기본법/법률/중소기업기본법.json"
+            "target_git_path_guess": "중소기업기본법/법률/중소기업기본법.json",
+            "target_git_path": "중소기업기본법/법률/중소기업기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1382,7 +1513,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0006",
             "reference_id": "law:중소기업제품구매촉진및판로지원에관한법률#JO0007_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json"
+            "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json",
+            "target_git_path": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1402,7 +1535,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0006",
             "reference_id": "law:중소기업협동조합법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업협동조합법/법률/중소기업협동조합법.json"
+            "target_git_path_guess": "중소기업협동조합법/법률/중소기업협동조합법.json",
+            "target_git_path": "중소기업협동조합법/법률/중소기업협동조합법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1422,7 +1557,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0006",
             "reference_id": "law:중소기업협동조합법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업협동조합법/법률/중소기업협동조합법.json"
+            "target_git_path_guess": "중소기업협동조합법/법률/중소기업협동조합법.json",
+            "target_git_path": "중소기업협동조합법/법률/중소기업협동조합법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1454,7 +1591,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0007",
             "reference_id": "law:시설물의안전및유지관리에관한특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "시설물의 안전 및 유지관리에 관한 특별법/법률/시설물의 안전 및 유지관리에 관한 특별법.json"
+            "target_git_path_guess": "시설물의 안전 및 유지관리에 관한 특별법/법률/시설물의 안전 및 유지관리에 관한 특별법.json",
+            "target_git_path": "시설물의 안전 및 유지관리에 관한 특별법/법률/시설물의 안전 및 유지관리에 관한 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1474,7 +1613,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0007",
             "reference_id": "law:시설물의안전및유지관리에관한특별법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "시설물의 안전 및 유지관리에 관한 특별법/법률/시설물의 안전 및 유지관리에 관한 특별법.json"
+            "target_git_path_guess": "시설물의 안전 및 유지관리에 관한 특별법/법률/시설물의 안전 및 유지관리에 관한 특별법.json",
+            "target_git_path": "시설물의 안전 및 유지관리에 관한 특별법/법률/시설물의 안전 및 유지관리에 관한 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1494,7 +1635,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0007",
             "reference_id": "law:기간제및단시간근로자보호등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "기간제 및 단시간근로자 보호 등에 관한 법률/법률/기간제 및 단시간근로자 보호 등에 관한 법률.json"
+            "target_git_path_guess": "기간제 및 단시간근로자 보호 등에 관한 법률/법률/기간제 및 단시간근로자 보호 등에 관한 법률.json",
+            "target_git_path": "기간제 및 단시간근로자 보호 등에 관한 법률/법률/기간제 및 단시간근로자 보호 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1514,7 +1657,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0007",
             "reference_id": "law:대중소기업상생협력촉진에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json"
+            "target_git_path_guess": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json",
+            "target_git_path": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1534,7 +1679,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0007",
             "reference_id": "law:대중소기업상생협력촉진에관한법률#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json"
+            "target_git_path_guess": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json",
+            "target_git_path": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1554,7 +1701,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0007",
             "reference_id": "law:기업활동규제완화에관한특별조치법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "기업활동 규제완화에 관한 특별조치법/법률/기업활동 규제완화에 관한 특별조치법.json"
+            "target_git_path_guess": "기업활동 규제완화에 관한 특별조치법/법률/기업활동 규제완화에 관한 특별조치법.json",
+            "target_git_path": "기업활동 규제완화에 관한 특별조치법/법률/기업활동 규제완화에 관한 특별조치법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1574,7 +1723,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0007",
             "reference_id": "law:기업활동규제완화에관한특별조치법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "기업활동 규제완화에 관한 특별조치법/법률/기업활동 규제완화에 관한 특별조치법.json"
+            "target_git_path_guess": "기업활동 규제완화에 관한 특별조치법/법률/기업활동 규제완화에 관한 특별조치법.json",
+            "target_git_path": "기업활동 규제완화에 관한 특별조치법/법률/기업활동 규제완화에 관한 특별조치법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1594,7 +1745,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0007",
             "reference_id": "law:상법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "상법/법률/상법.json"
+            "target_git_path_guess": "상법/법률/상법.json",
+            "target_git_path": "상법/법률/상법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1614,7 +1767,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0007",
             "reference_id": "law:상법#JO0401_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "상법/법률/상법.json"
+            "target_git_path_guess": "상법/법률/상법.json",
+            "target_git_path": "상법/법률/상법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1639,7 +1794,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json"
+            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_git_path": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_git_file_path": "(한국자산관리공사) 계약사무세칙/별지/별지2_재직 임원 명단 확인서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1659,7 +1819,11 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0007",
             "reference_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0029",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json"
+            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_git_path": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1691,7 +1855,11 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0007_02",
             "reference_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json"
+            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_git_path": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1723,7 +1891,11 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0007_03",
             "reference_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0026",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json"
+            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_git_path": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1743,7 +1915,11 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0007_03",
             "reference_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0027",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json"
+            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_git_path": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1763,7 +1939,11 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0007_03",
             "reference_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0028",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json"
+            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_git_path": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1783,7 +1963,11 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0007_03",
             "reference_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0026",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json"
+            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_git_path": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1803,7 +1987,11 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0007_03",
             "reference_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0026",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json"
+            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_git_path": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1823,7 +2011,11 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0007_03",
             "reference_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0033",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json"
+            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_git_path": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1855,7 +2047,11 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0007_04",
             "reference_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json"
+            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_git_path": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -1875,7 +2071,11 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0007_04",
             "reference_id": "SchlPubRul:한국자산관리공사임직원행동강령#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국자산관리공사 임직원 행동강령/한국자산관리공사 임직원 행동강령.json"
+            "target_git_path_guess": "한국자산관리공사 임직원 행동강령/한국자산관리공사 임직원 행동강령.json",
+            "target_git_path": "한국자산관리공사 임직원 행동강령/한국자산관리공사 임직원 행동강령.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -1895,7 +2095,11 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0007_04",
             "reference_id": "SchlPubRul:한국자산관리공사임직원행동강령#JO0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국자산관리공사 임직원 행동강령/한국자산관리공사 임직원 행동강령.json"
+            "target_git_path_guess": "한국자산관리공사 임직원 행동강령/한국자산관리공사 임직원 행동강령.json",
+            "target_git_path": "한국자산관리공사 임직원 행동강령/한국자산관리공사 임직원 행동강령.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1920,7 +2124,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json"
+            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_git_path": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_git_file_path": "(한국자산관리공사) 계약사무세칙/별지/별지4_외국업체와의 개별·비공식 접촉 통보서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1945,7 +2154,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json"
+            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_git_path": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_git_file_path": "(한국자산관리공사) 계약사무세칙/별지/별지5_외국업체와의 개별·비공식 접촉 대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1977,7 +2191,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0008",
             "reference_id": "law:재난및안전관리기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json"
+            "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+            "target_git_path": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1997,7 +2213,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0008",
             "reference_id": "law:재난및안전관리기본법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json"
+            "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+            "target_git_path": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2017,7 +2235,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0008",
             "reference_id": "law:은행법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "은행법/법률/은행법.json"
+            "target_git_path_guess": "은행법/법률/은행법.json",
+            "target_git_path": "은행법/법률/은행법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2037,7 +2257,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0008",
             "reference_id": "law:국가재정법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가재정법/시행령/국가재정법 시행령.json"
+            "target_git_path_guess": "국가재정법/시행령/국가재정법 시행령.json",
+            "target_git_path": "국가재정법/시행령/국가재정법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2057,7 +2279,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0008",
             "reference_id": "law:국가재정법시행령#JO0046",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가재정법/시행령/국가재정법 시행령.json"
+            "target_git_path_guess": "국가재정법/시행령/국가재정법 시행령.json",
+            "target_git_path": "국가재정법/시행령/국가재정법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2077,7 +2301,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0008",
             "reference_id": "law:은행법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "은행법/법률/은행법.json"
+            "target_git_path_guess": "은행법/법률/은행법.json",
+            "target_git_path": "은행법/법률/은행법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2097,7 +2323,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0008",
             "reference_id": "law:자본시장과금융투자업에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "자본시장과 금융투자업에 관한 법률/시행령/자본시장과 금융투자업에 관한 법률 시행령.json"
+            "target_git_path_guess": "자본시장과 금융투자업에 관한 법률/시행령/자본시장과 금융투자업에 관한 법률 시행령.json",
+            "target_git_path": "자본시장과 금융투자업에 관한 법률/시행령/자본시장과 금융투자업에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2117,7 +2345,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0008",
             "reference_id": "law:자본시장과금융투자업에관한법률시행령#JO0192",
             "target_repo": "LAW",
-            "target_git_path_guess": "자본시장과 금융투자업에 관한 법률/시행령/자본시장과 금융투자업에 관한 법률 시행령.json"
+            "target_git_path_guess": "자본시장과 금융투자업에 관한 법률/시행령/자본시장과 금융투자업에 관한 법률 시행령.json",
+            "target_git_path": "자본시장과 금융투자업에 관한 법률/시행령/자본시장과 금융투자업에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2137,7 +2367,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0008",
             "reference_id": "law:보험업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보험업법/법률/보험업법.json"
+            "target_git_path_guess": "보험업법/법률/보험업법.json",
+            "target_git_path": "보험업법/법률/보험업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2157,7 +2389,11 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0008",
             "reference_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0037",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json"
+            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_git_path": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -2177,7 +2413,11 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0008",
             "reference_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json"
+            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_git_path": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2209,7 +2449,11 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0009",
             "reference_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0037",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json"
+            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_git_path": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -2229,7 +2473,11 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0009",
             "reference_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json"
+            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_git_path": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2305,7 +2553,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0012_03",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2325,7 +2575,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0012_03",
             "reference_id": "law:고등교육법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고등교육법/법률/고등교육법.json"
+            "target_git_path_guess": "고등교육법/법률/고등교육법.json",
+            "target_git_path": "고등교육법/법률/고등교육법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2345,7 +2597,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0012_03",
             "reference_id": "law:고등교육법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "고등교육법/법률/고등교육법.json"
+            "target_git_path_guess": "고등교육법/법률/고등교육법.json",
+            "target_git_path": "고등교육법/법률/고등교육법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2370,7 +2624,12 @@
             "target_unit": "BJ0011",
             "reference_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#BJ0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json"
+            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_git_path": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_git_file_path": "(한국자산관리공사) 계약사무세칙/별지/별지11_물품 및 용역기관 선정위원회 외부위원 명단.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2395,7 +2654,12 @@
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json"
+            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_git_path": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_git_file_path": "(한국자산관리공사) 계약사무세칙/별지/별지6_직무윤리 사전진단서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2420,7 +2684,12 @@
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json"
+            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_git_path": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_git_file_path": "(한국자산관리공사) 계약사무세칙/별지/별지7_서약서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -2440,7 +2709,11 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0012_03",
             "reference_id": "SchlPubRul:한국자산관리공사임직원행동강령#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국자산관리공사 임직원 행동강령/한국자산관리공사 임직원 행동강령.json"
+            "target_git_path_guess": "한국자산관리공사 임직원 행동강령/한국자산관리공사 임직원 행동강령.json",
+            "target_git_path": "한국자산관리공사 임직원 행동강령/한국자산관리공사 임직원 행동강령.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2465,7 +2738,8 @@
             "target_unit": "BJ0016",
             "reference_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#BJ0016",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json"
+            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "internal_ref",
@@ -2485,7 +2759,11 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0012_03",
             "reference_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0012_06",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json"
+            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_git_path": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2528,7 +2806,11 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0012_05",
             "reference_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0012_04",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json"
+            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_git_path": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2560,7 +2842,11 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0012_06",
             "reference_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0012_02",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json"
+            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_git_path": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -2617,7 +2903,12 @@
             "target_unit": "BJ0012",
             "reference_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#BJ0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json"
+            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_git_path": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_git_file_path": "(한국자산관리공사) 계약사무세칙/별지/별지12_물품 및 용역기관 선정위원회 회의록.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -2637,7 +2928,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0012_07",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2657,7 +2950,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0012_07",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2711,7 +3006,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0014",
             "reference_id": "law:재난및안전관리기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json"
+            "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+            "target_git_path": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2731,7 +3028,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0014",
             "reference_id": "law:재난및안전관리기본법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json"
+            "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+            "target_git_path": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2751,7 +3050,11 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0014",
             "reference_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json"
+            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_git_path": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2783,7 +3086,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0015",
             "reference_id": "law:건설기술진흥법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설기술진흥법/법률/건설기술진흥법.json"
+            "target_git_path_guess": "건설기술진흥법/법률/건설기술진흥법.json",
+            "target_git_path": "건설기술 진흥법/법률/건설기술 진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2803,7 +3108,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0015",
             "reference_id": "law:건설기술진흥법#JO0039",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설기술진흥법/법률/건설기술진흥법.json"
+            "target_git_path_guess": "건설기술진흥법/법률/건설기술진흥법.json",
+            "target_git_path": "건설기술 진흥법/법률/건설기술 진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2823,7 +3130,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0015",
             "reference_id": "law:전력기술관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전력기술관리법/법률/전력기술관리법.json"
+            "target_git_path_guess": "전력기술관리법/법률/전력기술관리법.json",
+            "target_git_path": "전력기술관리법/법률/전력기술관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2843,7 +3152,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0015",
             "reference_id": "law:전력기술관리법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "전력기술관리법/법률/전력기술관리법.json"
+            "target_git_path_guess": "전력기술관리법/법률/전력기술관리법.json",
+            "target_git_path": "전력기술관리법/법률/전력기술관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2903,7 +3214,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0015",
             "reference_id": "law:국가를당사자로하는계약에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2923,7 +3236,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0015",
             "reference_id": "law:국가를당사자로하는계약에관한법률#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2955,7 +3270,11 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0016",
             "reference_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0015",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json"
+            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_git_path": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2987,7 +3306,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0017",
             "reference_id": "law:재난및안전관리기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json"
+            "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+            "target_git_path": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3007,7 +3328,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0017",
             "reference_id": "law:재난및안전관리기본법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json"
+            "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+            "target_git_path": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3027,7 +3350,11 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0017",
             "reference_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0028",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json"
+            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_git_path": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -3081,7 +3408,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0020",
             "reference_id": "law:민법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3101,7 +3430,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0020",
             "reference_id": "law:민법#JO0671",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -3133,7 +3464,11 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0021",
             "reference_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0037",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json"
+            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_git_path": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -3153,7 +3488,11 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0021",
             "reference_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0014",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json"
+            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_git_path": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -3185,7 +3524,11 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0022",
             "reference_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0014",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json"
+            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_git_path": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -3205,7 +3548,11 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0022",
             "reference_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0028",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json"
+            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_git_path": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -3225,7 +3572,11 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0022",
             "reference_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json"
+            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_git_path": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -3245,7 +3596,11 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0022",
             "reference_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json"
+            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_git_path": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -3288,7 +3643,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0023_02",
             "reference_id": "law:대중소기업상생협력촉진에관한법률#JO0022_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json"
+            "target_git_path_guess": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json",
+            "target_git_path": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3308,7 +3665,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0023_02",
             "reference_id": "law:대중소기업상생협력촉진에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "대ㆍ중소기업 상생협력 촉진에 관한 법률/시행령/대ㆍ중소기업 상생협력 촉진에 관한 법률 시행령.json"
+            "target_git_path_guess": "대ㆍ중소기업 상생협력 촉진에 관한 법률/시행령/대ㆍ중소기업 상생협력 촉진에 관한 법률 시행령.json",
+            "target_git_path": "대ㆍ중소기업 상생협력 촉진에 관한 법률/시행령/대ㆍ중소기업 상생협력 촉진에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3328,7 +3687,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0023_02",
             "reference_id": "law:대중소기업상생협력촉진에관한법률시행령#JO0014_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "대ㆍ중소기업 상생협력 촉진에 관한 법률/시행령/대ㆍ중소기업 상생협력 촉진에 관한 법률 시행령.json"
+            "target_git_path_guess": "대ㆍ중소기업 상생협력 촉진에 관한 법률/시행령/대ㆍ중소기업 상생협력 촉진에 관한 법률 시행령.json",
+            "target_git_path": "대ㆍ중소기업 상생협력 촉진에 관한 법률/시행령/대ㆍ중소기업 상생협력 촉진에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3348,7 +3709,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0023_02",
             "reference_id": "law:중소기업협동조합법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업협동조합법/법률/중소기업협동조합법.json"
+            "target_git_path_guess": "중소기업협동조합법/법률/중소기업협동조합법.json",
+            "target_git_path": "중소기업협동조합법/법률/중소기업협동조합법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3368,7 +3731,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0023_02",
             "reference_id": "law:중소기업협동조합법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업협동조합법/법률/중소기업협동조합법.json"
+            "target_git_path_guess": "중소기업협동조합법/법률/중소기업협동조합법.json",
+            "target_git_path": "중소기업협동조합법/법률/중소기업협동조합법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3388,7 +3753,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0023_02",
             "reference_id": "law:대중소기업상생협력촉진에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "대ㆍ중소기업 상생협력 촉진에 관한 법률/시행령/대ㆍ중소기업 상생협력 촉진에 관한 법률 시행령.json"
+            "target_git_path_guess": "대ㆍ중소기업 상생협력 촉진에 관한 법률/시행령/대ㆍ중소기업 상생협력 촉진에 관한 법률 시행령.json",
+            "target_git_path": "대ㆍ중소기업 상생협력 촉진에 관한 법률/시행령/대ㆍ중소기업 상생협력 촉진에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3408,7 +3775,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0023_02",
             "reference_id": "law:대중소기업상생협력촉진에관한법률시행령#JO0014_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "대ㆍ중소기업 상생협력 촉진에 관한 법률/시행령/대ㆍ중소기업 상생협력 촉진에 관한 법률 시행령.json"
+            "target_git_path_guess": "대ㆍ중소기업 상생협력 촉진에 관한 법률/시행령/대ㆍ중소기업 상생협력 촉진에 관한 법률 시행령.json",
+            "target_git_path": "대ㆍ중소기업 상생협력 촉진에 관한 법률/시행령/대ㆍ중소기업 상생협력 촉진에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -3440,7 +3809,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0023_03",
             "reference_id": "law:중소기업기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업기본법/법률/중소기업기본법.json"
+            "target_git_path_guess": "중소기업기본법/법률/중소기업기본법.json",
+            "target_git_path": "중소기업기본법/법률/중소기업기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3460,7 +3831,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0023_03",
             "reference_id": "law:중소기업기본법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업기본법/법률/중소기업기본법.json"
+            "target_git_path_guess": "중소기업기본법/법률/중소기업기본법.json",
+            "target_git_path": "중소기업기본법/법률/중소기업기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3480,7 +3853,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0023_03",
             "reference_id": "law:중소기업기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업기본법/법률/중소기업기본법.json"
+            "target_git_path_guess": "중소기업기본법/법률/중소기업기본법.json",
+            "target_git_path": "중소기업기본법/법률/중소기업기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3500,7 +3875,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0023_03",
             "reference_id": "law:중소기업기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업기본법/법률/중소기업기본법.json"
+            "target_git_path_guess": "중소기업기본법/법률/중소기업기본법.json",
+            "target_git_path": "중소기업기본법/법률/중소기업기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3520,7 +3897,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0023_03",
             "reference_id": "law:중소기업기본법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업기본법/법률/중소기업기본법.json"
+            "target_git_path_guess": "중소기업기본법/법률/중소기업기본법.json",
+            "target_git_path": "중소기업기본법/법률/중소기업기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3540,7 +3919,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0023_03",
             "reference_id": "law:대중소기업상생협력촉진에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json"
+            "target_git_path_guess": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json",
+            "target_git_path": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3560,7 +3941,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0023_03",
             "reference_id": "law:대중소기업상생협력촉진에관한법률#JO0021_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json"
+            "target_git_path_guess": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json",
+            "target_git_path": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -3585,7 +3968,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json"
+            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_git_path": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_git_file_path": "(한국자산관리공사) 계약사무세칙/별지/별지3_비밀유지계약서(표준).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -3617,7 +4005,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0023_04",
             "reference_id": "law:대중소기업상생협력촉진에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json"
+            "target_git_path_guess": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json",
+            "target_git_path": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3637,7 +4027,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0023_04",
             "reference_id": "law:대중소기업상생협력촉진에관한법률#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json"
+            "target_git_path_guess": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json",
+            "target_git_path": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -3662,7 +4054,12 @@
             "target_unit": "BJ0009",
             "reference_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#BJ0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json"
+            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_git_path": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_git_file_path": "(한국자산관리공사) 계약사무세칙/별지/별지9_표준 연동계약서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -3687,7 +4084,12 @@
             "target_unit": "BJ0010",
             "reference_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#BJ0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json"
+            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_git_path": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_git_file_path": "(한국자산관리공사) 계약사무세칙/별지/별지10_표준 미연동계약서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -3741,7 +4143,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0026",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -3773,7 +4177,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0027",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -3805,7 +4211,11 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0028",
             "reference_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0021",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json"
+            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_git_path": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -3837,7 +4247,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0029",
             "reference_id": "law:국가를당사자로하는계약에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3857,7 +4269,9 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0029",
             "reference_id": "law:국가를당사자로하는계약에관한법률#JO0027",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -3889,7 +4303,11 @@
             "source_provision_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0030",
             "reference_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#JO0029",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json"
+            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_git_path": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

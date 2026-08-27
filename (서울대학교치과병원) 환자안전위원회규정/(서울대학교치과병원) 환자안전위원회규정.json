@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:(서울대학교치과병원)환자안전위원회규정#JO0001",
             "reference_id": "law:환자안전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "환자안전법/법률/환자안전법.json"
+            "target_git_path_guess": "환자안전법/법률/환자안전법.json",
+            "target_git_path": "환자안전법/법률/환자안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -85,7 +87,9 @@
             "source_provision_id": "SchlPubRul:(서울대학교치과병원)환자안전위원회규정#JO0001",
             "reference_id": "law:환자안전법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "환자안전법/법률/환자안전법.json"
+            "target_git_path_guess": "환자안전법/법률/환자안전법.json",
+            "target_git_path": "환자안전법/법률/환자안전법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -172,7 +176,11 @@
             "source_provision_id": "SchlPubRul:(서울대학교치과병원)환자안전위원회규정#JO0007",
             "reference_id": "SchlPubRul:(서울대학교치과병원)환자안전위원회규정#JO0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(서울대학교치과병원) 환자안전위원회규정/(서울대학교치과병원) 환자안전위원회규정.json"
+            "target_git_path_guess": "(서울대학교치과병원) 환자안전위원회규정/(서울대학교치과병원) 환자안전위원회규정.json",
+            "target_git_path": "(서울대학교치과병원) 환자안전위원회규정/(서울대학교치과병원) 환자안전위원회규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

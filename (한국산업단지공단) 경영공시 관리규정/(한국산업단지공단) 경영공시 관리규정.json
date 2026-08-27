@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)경영공시관리규정#JO0001",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -85,7 +87,9 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)경영공시관리규정#JO0001",
             "reference_id": "law:공공기관의운영에관한법률#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -105,7 +109,9 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)경영공시관리규정#JO0001",
             "reference_id": "law:공공기관의운영에관한법률#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -181,7 +187,11 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)경영공시관리규정#JO0006",
             "reference_id": "SchlPubRul:(한국산업단지공단)경영공시관리규정#JO0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산업단지공단) 경영공시 관리규정/(한국산업단지공단) 경영공시 관리규정.json"
+            "target_git_path_guess": "(한국산업단지공단) 경영공시 관리규정/(한국산업단지공단) 경영공시 관리규정.json",
+            "target_git_path": "(한국산업단지공단) 경영공시 관리규정/(한국산업단지공단) 경영공시 관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -224,7 +234,11 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)경영공시관리규정#JO0008",
             "reference_id": "SchlPubRul:(한국산업단지공단)경영공시관리규정#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산업단지공단) 경영공시 관리규정/(한국산업단지공단) 경영공시 관리규정.json"
+            "target_git_path_guess": "(한국산업단지공단) 경영공시 관리규정/(한국산업단지공단) 경영공시 관리규정.json",
+            "target_git_path": "(한국산업단지공단) 경영공시 관리규정/(한국산업단지공단) 경영공시 관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -283,7 +297,8 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(한국산업단지공단)경영공시관리규정#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산업단지공단) 경영공시 관리규정/(한국산업단지공단) 경영공시 관리규정.json"
+            "target_git_path_guess": "(한국산업단지공단) 경영공시 관리규정/(한국산업단지공단) 경영공시 관리규정.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],

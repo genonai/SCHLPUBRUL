@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:민원사무처리규정:public_2128315#JO0001",
             "reference_id": "law:민원처리에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민원 처리에 관한 법률/시행령/민원 처리에 관한 법률 시행령.json"
+            "target_git_path_guess": "민원 처리에 관한 법률/시행령/민원 처리에 관한 법률 시행령.json",
+            "target_git_path": "민원 처리에 관한 법률/시행령/민원 처리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -157,7 +159,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:민원사무처리규정:public_2128315#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "민원사무처리규정/민원사무처리규정.json"
+            "target_git_path_guess": "민원사무처리규정/민원사무처리규정.json",
+            "target_git_path": "민원사무처리규정/public_2128315/민원사무처리규정.json",
+            "target_git_file_path": "민원사무처리규정/public_2128315/별지/별지1_민원사무처리부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -182,7 +189,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:민원사무처리규정:public_2128315#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "민원사무처리규정/민원사무처리규정.json"
+            "target_git_path_guess": "민원사무처리규정/민원사무처리규정.json",
+            "target_git_path": "민원사무처리규정/public_2128315/민원사무처리규정.json",
+            "target_git_file_path": "민원사무처리규정/public_2128315/별지/별지2_접수증.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -307,7 +319,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:민원사무처리규정:public_2128315#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "민원사무처리규정/민원사무처리규정.json"
+            "target_git_path_guess": "민원사무처리규정/민원사무처리규정.json",
+            "target_git_path": "민원사무처리규정/public_2128315/민원사무처리규정.json",
+            "target_git_file_path": "민원사무처리규정/public_2128315/별지/별지3_민원처리진행상황 통지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -443,7 +460,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:민원사무처리규정:public_2128315#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "민원사무처리규정/민원사무처리규정.json"
+            "target_git_path_guess": "민원사무처리규정/민원사무처리규정.json",
+            "target_git_path": "민원사무처리규정/public_2128315/민원사무처리규정.json",
+            "target_git_file_path": "민원사무처리규정/public_2128315/별지/별지4_민원만족도 사후평가.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -486,7 +508,11 @@
             "source_provision_id": "SchlPubRul:민원사무처리규정:public_2128315#JO0028",
             "reference_id": "SchlPubRul:민원사무처리규정:public_2128315#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "민원사무처리규정/민원사무처리규정.json"
+            "target_git_path_guess": "민원사무처리규정/민원사무처리규정.json",
+            "target_git_path": "민원사무처리규정/public_2128315/민원사무처리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -506,7 +532,11 @@
             "source_provision_id": "SchlPubRul:민원사무처리규정:public_2128315#JO0028",
             "reference_id": "SchlPubRul:민원사무처리규정:public_2128315#JO0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "민원사무처리규정/민원사무처리규정.json"
+            "target_git_path_guess": "민원사무처리규정/민원사무처리규정.json",
+            "target_git_path": "민원사무처리규정/public_2128315/민원사무처리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -672,5 +702,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "민원사무처리규정/public_2128315/민원사무처리규정.json"
+  "git_path": "민원사무처리규정/public_2128315/민원사무처리규정.json",
+  "_schlpub_id_suffix": "public_2128315"
 }

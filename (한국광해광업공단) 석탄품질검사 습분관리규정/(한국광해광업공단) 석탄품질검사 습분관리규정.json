@@ -98,7 +98,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)석탄품질검사습분관리규정#JO0004",
             "reference_id": "law:산업표준화법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업표준화법/법률/산업표준화법.json"
+            "target_git_path_guess": "산업표준화법/법률/산업표준화법.json",
+            "target_git_path": "산업표준화법/법률/산업표준화법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -182,7 +184,11 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)석탄품질검사습분관리규정#JO0008",
             "reference_id": "SchlPubRul:(한국광해광업공단)석탄품질검사습분관리규정#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국광해광업공단) 석탄품질검사 습분관리규정/(한국광해광업공단) 석탄품질검사 습분관리규정.json"
+            "target_git_path_guess": "(한국광해광업공단) 석탄품질검사 습분관리규정/(한국광해광업공단) 석탄품질검사 습분관리규정.json",
+            "target_git_path": "(한국광해광업공단) 석탄품질검사 습분관리규정/(한국광해광업공단) 석탄품질검사 습분관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [
@@ -229,7 +235,8 @@
             "target_unit": "BYL0007",
             "reference_id": "SchlPubRul:(한국광해광업공단)석탄품질검사습분관리규정#BYL0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국광해광업공단) 석탄품질검사 습분관리규정/(한국광해광업공단) 석탄품질검사 습분관리규정.json"
+            "target_git_path_guess": "(한국광해광업공단) 석탄품질검사 습분관리규정/(한국광해광업공단) 석탄품질검사 습분관리규정.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -327,7 +334,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)석탄품질검사습분관리규정#JO0016",
             "reference_id": "law:석탄산업법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "석탄산업법/시행령/석탄산업법 시행령.json"
+            "target_git_path_guess": "석탄산업법/시행령/석탄산업법 시행령.json",
+            "target_git_path": "석탄산업법/시행령/석탄산업법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -347,7 +356,9 @@
             "source_provision_id": "SchlPubRul:(한국광해광업공단)석탄품질검사습분관리규정#JO0016",
             "reference_id": "law:석탄산업법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "석탄산업법/시행규칙/석탄산업법 시행규칙.json"
+            "target_git_path_guess": "석탄산업법/시행규칙/석탄산업법 시행규칙.json",
+            "target_git_path": "석탄산업법/시행규칙/석탄산업법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

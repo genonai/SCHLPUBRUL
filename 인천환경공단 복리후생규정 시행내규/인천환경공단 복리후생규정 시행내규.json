@@ -76,7 +76,11 @@
             "source_provision_id": "SchlPubRul:인천환경공단복리후생규정시행내규#JO0002",
             "reference_id": "SchlPubRul:인천환경공단복리후생규정시행내규#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천환경공단 복리후생규정 시행내규/인천환경공단 복리후생규정 시행내규.json"
+            "target_git_path_guess": "인천환경공단 복리후생규정 시행내규/인천환경공단 복리후생규정 시행내규.json",
+            "target_git_path": "인천환경공단 복리후생규정 시행내규/인천환경공단 복리후생규정 시행내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -130,7 +134,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단복리후생규정시행내규#JO0005",
             "reference_id": "law:산업재해보상보험법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업재해보상보험법/법률/산업재해보상보험법.json"
+            "target_git_path_guess": "산업재해보상보험법/법률/산업재해보상보험법.json",
+            "target_git_path": "산업재해보상보험법/법률/산업재해보상보험법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

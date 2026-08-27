@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:감사규정:public_2129617#JO0001",
             "reference_id": "law:공공감사에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공감사에 관한 법률/시행령/공공감사에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공감사에 관한 법률/시행령/공공감사에 관한 법률 시행령.json",
+            "target_git_path": "공공감사에 관한 법률/시행령/공공감사에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -85,7 +87,11 @@
             "source_provision_id": "SchlPubRul:감사규정:public_2129617#JO0001",
             "reference_id": "SchlPubRul:감사규정:public_2129617#JO0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "감사규정/감사규정.json"
+            "target_git_path_guess": "감사규정/감사규정.json",
+            "target_git_path": "감사규정/public_2129617/감사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -205,7 +211,9 @@
             "source_provision_id": "SchlPubRul:감사규정:public_2129617#JO0010",
             "reference_id": "law:형법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -225,7 +233,9 @@
             "source_provision_id": "SchlPubRul:감사규정:public_2129617#JO0010",
             "reference_id": "law:형법#JO0129",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -245,7 +255,9 @@
             "source_provision_id": "SchlPubRul:감사규정:public_2129617#JO0010",
             "reference_id": "law:형법#JO0130",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -265,7 +277,9 @@
             "source_provision_id": "SchlPubRul:감사규정:public_2129617#JO0010",
             "reference_id": "law:형법#JO0131",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -285,7 +299,9 @@
             "source_provision_id": "SchlPubRul:감사규정:public_2129617#JO0010",
             "reference_id": "law:형법#JO0132",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -305,7 +321,9 @@
             "source_provision_id": "SchlPubRul:감사규정:public_2129617#JO0010",
             "reference_id": "law:형법#JO0133",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -325,7 +343,9 @@
             "source_provision_id": "SchlPubRul:감사규정:public_2129617#JO0010",
             "reference_id": "law:형법#JO0355",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -345,7 +365,9 @@
             "source_provision_id": "SchlPubRul:감사규정:public_2129617#JO0010",
             "reference_id": "law:형법#JO0356",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -520,7 +542,11 @@
             "source_provision_id": "SchlPubRul:감사규정:public_2129617#JO0024",
             "reference_id": "SchlPubRul:감사규정:public_2129617#JO0023",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "감사규정/감사규정.json"
+            "target_git_path_guess": "감사규정/감사규정.json",
+            "target_git_path": "감사규정/public_2129617/감사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -552,7 +578,11 @@
             "source_provision_id": "SchlPubRul:감사규정:public_2129617#JO0025",
             "reference_id": "SchlPubRul:감사규정:public_2129617#JO0022",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "감사규정/감사규정.json"
+            "target_git_path_guess": "감사규정/감사규정.json",
+            "target_git_path": "감사규정/public_2129617/감사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -584,7 +614,11 @@
             "source_provision_id": "SchlPubRul:감사규정:public_2129617#JO0026",
             "reference_id": "SchlPubRul:감사규정:public_2129617#JO0022",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "감사규정/감사규정.json"
+            "target_git_path_guess": "감사규정/감사규정.json",
+            "target_git_path": "감사규정/public_2129617/감사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -616,7 +650,11 @@
             "source_provision_id": "SchlPubRul:감사규정:public_2129617#JO0027",
             "reference_id": "SchlPubRul:감사규정:public_2129617#JO0022",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "감사규정/감사규정.json"
+            "target_git_path_guess": "감사규정/감사규정.json",
+            "target_git_path": "감사규정/public_2129617/감사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -648,7 +686,11 @@
             "source_provision_id": "SchlPubRul:감사규정:public_2129617#JO0028",
             "reference_id": "SchlPubRul:감사규정:public_2129617#JO0022",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "감사규정/감사규정.json"
+            "target_git_path_guess": "감사규정/감사규정.json",
+            "target_git_path": "감사규정/public_2129617/감사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -771,5 +813,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "감사규정/public_2129617/감사규정.json"
+  "git_path": "감사규정/public_2129617/감사규정.json",
+  "_schlpub_id_suffix": "public_2129617"
 }

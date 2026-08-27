@@ -98,7 +98,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)의약품관리종합정보센터운영규정#JO0003_02",
             "reference_id": "SchlPubRul:(건강보험심사평가원)의약품관리종합정보센터운영규정#JO0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 의약품관리종합정보센터 운영규정/(건강보험심사평가원) 의약품관리종합정보센터 운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 의약품관리종합정보센터 운영규정/(건강보험심사평가원) 의약품관리종합정보센터 운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 의약품관리종합정보센터 운영규정/(건강보험심사평가원) 의약품관리종합정보센터 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -161,9 +165,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/직제규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)의약품관리종합정보센터운영규정#JO0007",
-            "reference_id": "SchlPubRul:직제규정#DOC",
+            "reference_id": "SchlPubRul:직제규정:public_2127825#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "직제규정/직제규정.json"
+            "target_git_path_guess": "직제규정/직제규정.json",
+            "target_candidates": 5,
+            "target_git_path": "직제규정/public_2127825/직제규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -217,7 +226,9 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)의약품관리종합정보센터운영규정#JO0010",
             "reference_id": "law:약사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "약사법/법률/약사법.json"
+            "target_git_path_guess": "약사법/법률/약사법.json",
+            "target_git_path": "약사법/법률/약사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -237,7 +248,9 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)의약품관리종합정보센터운영규정#JO0010",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -257,7 +270,9 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)의약품관리종합정보센터운영규정#JO0010",
             "reference_id": "law:개인정보보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json"
+            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -322,7 +337,9 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)의약품관리종합정보센터운영규정#JO0014",
             "reference_id": "law:보조금관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json"
+            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_git_path": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -342,7 +359,9 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)의약품관리종합정보센터운영규정#JO0014",
             "reference_id": "law:보조금관리에관한법률#JO0027",
             "target_repo": "LAW",
-            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json"
+            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_git_path": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

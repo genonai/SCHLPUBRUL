@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:(한국과학기술연구원)방사선안전관리규정#JO0001",
             "reference_id": "law:원자력안전법#JO0053",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/법률/원자력안전법.json"
+            "target_git_path_guess": "원자력안전법/법률/원자력안전법.json",
+            "target_git_path": "원자력안전법/법률/원자력안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -83,9 +85,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/원자력안전법 시행규칙",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국과학기술연구원)방사선안전관리규정#JO0001",
-            "reference_id": "admrul:원자력안전법시행규칙#DOC",
+            "reference_id": "law:원자력안전법시행규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json"
+            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json",
+            "target_git_path": "원자력안전법/시행규칙/원자력안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -105,7 +109,9 @@
             "source_provision_id": "SchlPubRul:(한국과학기술연구원)방사선안전관리규정#JO0001",
             "reference_id": "law:원자력안전법시행규칙#JO0060",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/시행규칙/원자력안전법 시행규칙.json"
+            "target_git_path_guess": "원자력안전법/시행규칙/원자력안전법 시행규칙.json",
+            "target_git_path": "원자력안전법/시행규칙/원자력안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -153,7 +159,12 @@
             "target_unit": "BYL0004",
             "reference_id": "SchlPubRul:(한국과학기술연구원)방사선안전관리규정#BYL0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국과학기술연구원) 방사선 안전관리규정/(한국과학기술연구원) 방사선 안전관리규정.json"
+            "target_git_path_guess": "(한국과학기술연구원) 방사선 안전관리규정/(한국과학기술연구원) 방사선 안전관리규정.json",
+            "target_git_path": "(한국과학기술연구원) 방사선 안전관리규정/(한국과학기술연구원) 방사선 안전관리규정.json",
+            "target_git_file_path": "(한국과학기술연구원) 방사선 안전관리규정/별표/별표4_선량한도.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -190,7 +201,12 @@
             "target_unit": "BYL0005",
             "reference_id": "SchlPubRul:(한국과학기술연구원)방사선안전관리규정#BYL0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국과학기술연구원) 방사선 안전관리규정/(한국과학기술연구원) 방사선 안전관리규정.json"
+            "target_git_path_guess": "(한국과학기술연구원) 방사선 안전관리규정/(한국과학기술연구원) 방사선 안전관리규정.json",
+            "target_git_path": "(한국과학기술연구원) 방사선 안전관리규정/(한국과학기술연구원) 방사선 안전관리규정.json",
+            "target_git_file_path": "(한국과학기술연구원) 방사선 안전관리규정/별표/별표5_방사선안전관리 조직도.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -238,7 +254,12 @@
             "target_unit": "BYL0004",
             "reference_id": "SchlPubRul:(한국과학기술연구원)방사선안전관리규정#BYL0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국과학기술연구원) 방사선 안전관리규정/(한국과학기술연구원) 방사선 안전관리규정.json"
+            "target_git_path_guess": "(한국과학기술연구원) 방사선 안전관리규정/(한국과학기술연구원) 방사선 안전관리규정.json",
+            "target_git_path": "(한국과학기술연구원) 방사선 안전관리규정/(한국과학기술연구원) 방사선 안전관리규정.json",
+            "target_git_file_path": "(한국과학기술연구원) 방사선 안전관리규정/별표/별표4_선량한도.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -275,7 +296,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(한국과학기술연구원)방사선안전관리규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국과학기술연구원) 방사선 안전관리규정/(한국과학기술연구원) 방사선 안전관리규정.json"
+            "target_git_path_guess": "(한국과학기술연구원) 방사선 안전관리규정/(한국과학기술연구원) 방사선 안전관리규정.json",
+            "target_git_path": "(한국과학기술연구원) 방사선 안전관리규정/(한국과학기술연구원) 방사선 안전관리규정.json",
+            "target_git_file_path": "(한국과학기술연구원) 방사선 안전관리규정/별표/별표1_구매 요구서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -389,7 +415,12 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:(한국과학기술연구원)방사선안전관리규정#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국과학기술연구원) 방사선 안전관리규정/(한국과학기술연구원) 방사선 안전관리규정.json"
+            "target_git_path_guess": "(한국과학기술연구원) 방사선 안전관리규정/(한국과학기술연구원) 방사선 안전관리규정.json",
+            "target_git_path": "(한국과학기술연구원) 방사선 안전관리규정/(한국과학기술연구원) 방사선 안전관리규정.json",
+            "target_git_file_path": "(한국과학기술연구원) 방사선 안전관리규정/별표/별표3_방사선사고 보고서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -426,7 +457,12 @@
             "target_unit": "BYL0004",
             "reference_id": "SchlPubRul:(한국과학기술연구원)방사선안전관리규정#BYL0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국과학기술연구원) 방사선 안전관리규정/(한국과학기술연구원) 방사선 안전관리규정.json"
+            "target_git_path_guess": "(한국과학기술연구원) 방사선 안전관리규정/(한국과학기술연구원) 방사선 안전관리규정.json",
+            "target_git_path": "(한국과학기술연구원) 방사선 안전관리규정/(한국과학기술연구원) 방사선 안전관리규정.json",
+            "target_git_file_path": "(한국과학기술연구원) 방사선 안전관리규정/별표/별표4_선량한도.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -485,7 +521,12 @@
             "target_unit": "BYL0008",
             "reference_id": "SchlPubRul:(한국과학기술연구원)방사선안전관리규정#BYL0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국과학기술연구원) 방사선 안전관리규정/(한국과학기술연구원) 방사선 안전관리규정.json"
+            "target_git_path_guess": "(한국과학기술연구원) 방사선 안전관리규정/(한국과학기술연구원) 방사선 안전관리규정.json",
+            "target_git_path": "(한국과학기술연구원) 방사선 안전관리규정/(한국과학기술연구원) 방사선 안전관리규정.json",
+            "target_git_file_path": "(한국과학기술연구원) 방사선 안전관리규정/별표/별표8_방사성동위원소 사용기록부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -510,7 +551,12 @@
             "target_unit": "BYL0009",
             "reference_id": "SchlPubRul:(한국과학기술연구원)방사선안전관리규정#BYL0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국과학기술연구원) 방사선 안전관리규정/(한국과학기술연구원) 방사선 안전관리규정.json"
+            "target_git_path_guess": "(한국과학기술연구원) 방사선 안전관리규정/(한국과학기술연구원) 방사선 안전관리규정.json",
+            "target_git_path": "(한국과학기술연구원) 방사선 안전관리규정/(한국과학기술연구원) 방사선 안전관리규정.json",
+            "target_git_file_path": "(한국과학기술연구원) 방사선 안전관리규정/별표/별표9_방사성동위원소 폐기기록부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -535,7 +581,12 @@
             "target_unit": "BYL0011",
             "reference_id": "SchlPubRul:(한국과학기술연구원)방사선안전관리규정#BYL0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국과학기술연구원) 방사선 안전관리규정/(한국과학기술연구원) 방사선 안전관리규정.json"
+            "target_git_path_guess": "(한국과학기술연구원) 방사선 안전관리규정/(한국과학기술연구원) 방사선 안전관리규정.json",
+            "target_git_path": "(한국과학기술연구원) 방사선 안전관리규정/(한국과학기술연구원) 방사선 안전관리규정.json",
+            "target_git_file_path": "(한국과학기술연구원) 방사선 안전관리규정/별표/별표11_배기설비 측정기록부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -560,7 +611,12 @@
             "target_unit": "BYL0010",
             "reference_id": "SchlPubRul:(한국과학기술연구원)방사선안전관리규정#BYL0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국과학기술연구원) 방사선 안전관리규정/(한국과학기술연구원) 방사선 안전관리규정.json"
+            "target_git_path_guess": "(한국과학기술연구원) 방사선 안전관리규정/(한국과학기술연구원) 방사선 안전관리규정.json",
+            "target_git_path": "(한국과학기술연구원) 방사선 안전관리규정/(한국과학기술연구원) 방사선 안전관리규정.json",
+            "target_git_file_path": "(한국과학기술연구원) 방사선 안전관리규정/별표/별표10_방사선량률 및 오염 측정기록부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -585,7 +641,12 @@
             "target_unit": "BYL0010",
             "reference_id": "SchlPubRul:(한국과학기술연구원)방사선안전관리규정#BYL0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국과학기술연구원) 방사선 안전관리규정/(한국과학기술연구원) 방사선 안전관리규정.json"
+            "target_git_path_guess": "(한국과학기술연구원) 방사선 안전관리규정/(한국과학기술연구원) 방사선 안전관리규정.json",
+            "target_git_path": "(한국과학기술연구원) 방사선 안전관리규정/(한국과학기술연구원) 방사선 안전관리규정.json",
+            "target_git_file_path": "(한국과학기술연구원) 방사선 안전관리규정/별표/별표10_방사선량률 및 오염 측정기록부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -610,7 +671,12 @@
             "target_unit": "BYL0011",
             "reference_id": "SchlPubRul:(한국과학기술연구원)방사선안전관리규정#BYL0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국과학기술연구원) 방사선 안전관리규정/(한국과학기술연구원) 방사선 안전관리규정.json"
+            "target_git_path_guess": "(한국과학기술연구원) 방사선 안전관리규정/(한국과학기술연구원) 방사선 안전관리규정.json",
+            "target_git_path": "(한국과학기술연구원) 방사선 안전관리규정/(한국과학기술연구원) 방사선 안전관리규정.json",
+            "target_git_file_path": "(한국과학기술연구원) 방사선 안전관리규정/별표/별표11_배기설비 측정기록부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -635,7 +701,12 @@
             "target_unit": "BYL0010",
             "reference_id": "SchlPubRul:(한국과학기술연구원)방사선안전관리규정#BYL0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국과학기술연구원) 방사선 안전관리규정/(한국과학기술연구원) 방사선 안전관리규정.json"
+            "target_git_path_guess": "(한국과학기술연구원) 방사선 안전관리규정/(한국과학기술연구원) 방사선 안전관리규정.json",
+            "target_git_path": "(한국과학기술연구원) 방사선 안전관리규정/(한국과학기술연구원) 방사선 안전관리규정.json",
+            "target_git_file_path": "(한국과학기술연구원) 방사선 안전관리규정/별표/별표10_방사선량률 및 오염 측정기록부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -660,7 +731,12 @@
             "target_unit": "BYL0004",
             "reference_id": "SchlPubRul:(한국과학기술연구원)방사선안전관리규정#BYL0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국과학기술연구원) 방사선 안전관리규정/(한국과학기술연구원) 방사선 안전관리규정.json"
+            "target_git_path_guess": "(한국과학기술연구원) 방사선 안전관리규정/(한국과학기술연구원) 방사선 안전관리규정.json",
+            "target_git_path": "(한국과학기술연구원) 방사선 안전관리규정/(한국과학기술연구원) 방사선 안전관리규정.json",
+            "target_git_file_path": "(한국과학기술연구원) 방사선 안전관리규정/별표/별표4_선량한도.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -685,7 +761,12 @@
             "target_unit": "BYL0013",
             "reference_id": "SchlPubRul:(한국과학기술연구원)방사선안전관리규정#BYL0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국과학기술연구원) 방사선 안전관리규정/(한국과학기술연구원) 방사선 안전관리규정.json"
+            "target_git_path_guess": "(한국과학기술연구원) 방사선 안전관리규정/(한국과학기술연구원) 방사선 안전관리규정.json",
+            "target_git_path": "(한국과학기술연구원) 방사선 안전관리규정/(한국과학기술연구원) 방사선 안전관리규정.json",
+            "target_git_file_path": "(한국과학기술연구원) 방사선 안전관리규정/별표/별표13_방사선작업종사자 이력카드(Radiation Worker Resume Card).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -710,7 +791,12 @@
             "target_unit": "BYL0013",
             "reference_id": "SchlPubRul:(한국과학기술연구원)방사선안전관리규정#BYL0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국과학기술연구원) 방사선 안전관리규정/(한국과학기술연구원) 방사선 안전관리규정.json"
+            "target_git_path_guess": "(한국과학기술연구원) 방사선 안전관리규정/(한국과학기술연구원) 방사선 안전관리규정.json",
+            "target_git_path": "(한국과학기술연구원) 방사선 안전관리규정/(한국과학기술연구원) 방사선 안전관리규정.json",
+            "target_git_file_path": "(한국과학기술연구원) 방사선 안전관리규정/별표/별표13_방사선작업종사자 이력카드(Radiation Worker Resume Card).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -735,7 +821,12 @@
             "target_unit": "BYL0013",
             "reference_id": "SchlPubRul:(한국과학기술연구원)방사선안전관리규정#BYL0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국과학기술연구원) 방사선 안전관리규정/(한국과학기술연구원) 방사선 안전관리규정.json"
+            "target_git_path_guess": "(한국과학기술연구원) 방사선 안전관리규정/(한국과학기술연구원) 방사선 안전관리규정.json",
+            "target_git_path": "(한국과학기술연구원) 방사선 안전관리규정/(한국과학기술연구원) 방사선 안전관리규정.json",
+            "target_git_file_path": "(한국과학기술연구원) 방사선 안전관리규정/별표/별표13_방사선작업종사자 이력카드(Radiation Worker Resume Card).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -760,7 +851,12 @@
             "target_unit": "BYL0013",
             "reference_id": "SchlPubRul:(한국과학기술연구원)방사선안전관리규정#BYL0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국과학기술연구원) 방사선 안전관리규정/(한국과학기술연구원) 방사선 안전관리규정.json"
+            "target_git_path_guess": "(한국과학기술연구원) 방사선 안전관리규정/(한국과학기술연구원) 방사선 안전관리규정.json",
+            "target_git_path": "(한국과학기술연구원) 방사선 안전관리규정/(한국과학기술연구원) 방사선 안전관리규정.json",
+            "target_git_file_path": "(한국과학기술연구원) 방사선 안전관리규정/별표/별표13_방사선작업종사자 이력카드(Radiation Worker Resume Card).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -785,7 +881,12 @@
             "target_unit": "BYL0013",
             "reference_id": "SchlPubRul:(한국과학기술연구원)방사선안전관리규정#BYL0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국과학기술연구원) 방사선 안전관리규정/(한국과학기술연구원) 방사선 안전관리규정.json"
+            "target_git_path_guess": "(한국과학기술연구원) 방사선 안전관리규정/(한국과학기술연구원) 방사선 안전관리규정.json",
+            "target_git_path": "(한국과학기술연구원) 방사선 안전관리규정/(한국과학기술연구원) 방사선 안전관리규정.json",
+            "target_git_file_path": "(한국과학기술연구원) 방사선 안전관리규정/별표/별표13_방사선작업종사자 이력카드(Radiation Worker Resume Card).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -810,7 +911,12 @@
             "target_unit": "BYL0013",
             "reference_id": "SchlPubRul:(한국과학기술연구원)방사선안전관리규정#BYL0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국과학기술연구원) 방사선 안전관리규정/(한국과학기술연구원) 방사선 안전관리규정.json"
+            "target_git_path_guess": "(한국과학기술연구원) 방사선 안전관리규정/(한국과학기술연구원) 방사선 안전관리규정.json",
+            "target_git_path": "(한국과학기술연구원) 방사선 안전관리규정/(한국과학기술연구원) 방사선 안전관리규정.json",
+            "target_git_file_path": "(한국과학기술연구원) 방사선 안전관리규정/별표/별표13_방사선작업종사자 이력카드(Radiation Worker Resume Card).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -858,7 +964,12 @@
             "target_unit": "BYL0004",
             "reference_id": "SchlPubRul:(한국과학기술연구원)방사선안전관리규정#BYL0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국과학기술연구원) 방사선 안전관리규정/(한국과학기술연구원) 방사선 안전관리규정.json"
+            "target_git_path_guess": "(한국과학기술연구원) 방사선 안전관리규정/(한국과학기술연구원) 방사선 안전관리규정.json",
+            "target_git_path": "(한국과학기술연구원) 방사선 안전관리규정/(한국과학기술연구원) 방사선 안전관리규정.json",
+            "target_git_file_path": "(한국과학기술연구원) 방사선 안전관리규정/별표/별표4_선량한도.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

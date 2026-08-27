@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:(한국기상산업기술원)감사규정#JO0001",
             "reference_id": "law:공공감사에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json"
+            "target_git_path_guess": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json",
+            "target_git_path": "공공감사에 관한 법률/법률/공공감사에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -97,7 +99,9 @@
             "source_provision_id": "SchlPubRul:(한국기상산업기술원)감사규정#JO0002",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -117,7 +121,9 @@
             "source_provision_id": "SchlPubRul:(한국기상산업기술원)감사규정#JO0002",
             "reference_id": "law:공공기관의운영에관한법률#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -137,7 +143,11 @@
             "source_provision_id": "SchlPubRul:(한국기상산업기술원)감사규정#JO0002",
             "reference_id": "SchlPubRul:(한국기상산업기술원)감사규정#JO0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국기상산업기술원) 감사규정/(한국기상산업기술원) 감사규정.json"
+            "target_git_path_guess": "(한국기상산업기술원) 감사규정/(한국기상산업기술원) 감사규정.json",
+            "target_git_path": "(한국기상산업기술원) 감사규정/(한국기상산업기술원) 감사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -202,7 +212,11 @@
             "source_provision_id": "SchlPubRul:(한국기상산업기술원)감사규정#JO0005_02",
             "reference_id": "SchlPubRul:(한국기상산업기술원)감사규정#JO0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국기상산업기술원) 감사규정/(한국기상산업기술원) 감사규정.json"
+            "target_git_path_guess": "(한국기상산업기술원) 감사규정/(한국기상산업기술원) 감사규정.json",
+            "target_git_path": "(한국기상산업기술원) 감사규정/(한국기상산업기술원) 감사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -227,7 +241,12 @@
             "target_unit": "BJ0004_03",
             "reference_id": "SchlPubRul:(한국기상산업기술원)감사규정#BJ0004_03",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국기상산업기술원) 감사규정/(한국기상산업기술원) 감사규정.json"
+            "target_git_path_guess": "(한국기상산업기술원) 감사규정/(한국기상산업기술원) 감사규정.json",
+            "target_git_path": "(한국기상산업기술원) 감사규정/(한국기상산업기술원) 감사규정.json",
+            "target_git_file_path": "(한국기상산업기술원) 감사규정/별지/별지4의3_사전컨설팅 감사 신청서(제5조의2제2항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -252,7 +271,12 @@
             "target_unit": "BJ0004_04",
             "reference_id": "SchlPubRul:(한국기상산업기술원)감사규정#BJ0004_04",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국기상산업기술원) 감사규정/(한국기상산업기술원) 감사규정.json"
+            "target_git_path_guess": "(한국기상산업기술원) 감사규정/(한국기상산업기술원) 감사규정.json",
+            "target_git_path": "(한국기상산업기술원) 감사규정/(한국기상산업기술원) 감사규정.json",
+            "target_git_file_path": "(한국기상산업기술원) 감사규정/별지/별지4의4_사전컨설팅 감사 의견서(제5조의2제6항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -277,7 +301,12 @@
             "target_unit": "BJ0004_05",
             "reference_id": "SchlPubRul:(한국기상산업기술원)감사규정#BJ0004_05",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국기상산업기술원) 감사규정/(한국기상산업기술원) 감사규정.json"
+            "target_git_path_guess": "(한국기상산업기술원) 감사규정/(한국기상산업기술원) 감사규정.json",
+            "target_git_path": "(한국기상산업기술원) 감사규정/(한국기상산업기술원) 감사규정.json",
+            "target_git_file_path": "(한국기상산업기술원) 감사규정/별지/별지4의5_사전컨설팅 감사 조치 결과 통보서(제5조의2제7항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -419,7 +448,11 @@
             "source_provision_id": "SchlPubRul:(한국기상산업기술원)감사규정#JO0016",
             "reference_id": "SchlPubRul:(한국기상산업기술원)감사규정#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국기상산업기술원) 감사규정/(한국기상산업기술원) 감사규정.json"
+            "target_git_path_guess": "(한국기상산업기술원) 감사규정/(한국기상산업기술원) 감사규정.json",
+            "target_git_path": "(한국기상산업기술원) 감사규정/(한국기상산업기술원) 감사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -456,7 +489,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(한국기상산업기술원)감사규정#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국기상산업기술원) 감사규정/(한국기상산업기술원) 감사규정.json"
+            "target_git_path_guess": "(한국기상산업기술원) 감사규정/(한국기상산업기술원) 감사규정.json",
+            "target_git_path": "(한국기상산업기술원) 감사규정/(한국기상산업기술원) 감사규정.json",
+            "target_git_file_path": "(한국기상산업기술원) 감사규정/별지/별지1_확인서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -504,7 +542,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:(한국기상산업기술원)감사규정#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국기상산업기술원) 감사규정/(한국기상산업기술원) 감사규정.json"
+            "target_git_path_guess": "(한국기상산업기술원) 감사규정/(한국기상산업기술원) 감사규정.json",
+            "target_git_path": "(한국기상산업기술원) 감사규정/(한국기상산업기술원) 감사규정.json",
+            "target_git_file_path": "(한국기상산업기술원) 감사규정/별지/별지4_현지조치 요구서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -541,7 +584,12 @@
             "target_unit": "BJ0004_02",
             "reference_id": "SchlPubRul:(한국기상산업기술원)감사규정#BJ0004_02",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국기상산업기술원) 감사규정/(한국기상산업기술원) 감사규정.json"
+            "target_git_path_guess": "(한국기상산업기술원) 감사규정/(한국기상산업기술원) 감사규정.json",
+            "target_git_path": "(한국기상산업기술원) 감사규정/(한국기상산업기술원) 감사규정.json",
+            "target_git_file_path": "(한국기상산업기술원) 감사규정/별지/별지4의2_감사처분 심의·의결서(제19조의2, 제7항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -589,7 +637,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(한국기상산업기술원)감사규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국기상산업기술원) 감사규정/(한국기상산업기술원) 감사규정.json"
+            "target_git_path_guess": "(한국기상산업기술원) 감사규정/(한국기상산업기술원) 감사규정.json",
+            "target_git_path": "(한국기상산업기술원) 감사규정/(한국기상산업기술원) 감사규정.json",
+            "target_git_file_path": "(한국기상산업기술원) 감사규정/별표/별표1_감사결과 처분요구기준(제21조제2항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -614,7 +667,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:(한국기상산업기술원)감사규정#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국기상산업기술원) 감사규정/(한국기상산업기술원) 감사규정.json"
+            "target_git_path_guess": "(한국기상산업기술원) 감사규정/(한국기상산업기술원) 감사규정.json",
+            "target_git_path": "(한국기상산업기술원) 감사규정/(한국기상산업기술원) 감사규정.json",
+            "target_git_file_path": "(한국기상산업기술원) 감사규정/별지/별지5_처분 요구서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -651,7 +709,12 @@
             "target_unit": "BJ0005_02",
             "reference_id": "SchlPubRul:(한국기상산업기술원)감사규정#BJ0005_02",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국기상산업기술원) 감사규정/(한국기상산업기술원) 감사규정.json"
+            "target_git_path_guess": "(한국기상산업기술원) 감사규정/(한국기상산업기술원) 감사규정.json",
+            "target_git_path": "(한국기상산업기술원) 감사규정/(한국기상산업기술원) 감사규정.json",
+            "target_git_file_path": "(한국기상산업기술원) 감사규정/별지/별지5의2_적극행정 면책 신청서(제21조의2제4항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -676,7 +739,12 @@
             "target_unit": "BJ0005_03",
             "reference_id": "SchlPubRul:(한국기상산업기술원)감사규정#BJ0005_03",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국기상산업기술원) 감사규정/(한국기상산업기술원) 감사규정.json"
+            "target_git_path_guess": "(한국기상산업기술원) 감사규정/(한국기상산업기술원) 감사규정.json",
+            "target_git_path": "(한국기상산업기술원) 감사규정/(한국기상산업기술원) 감사규정.json",
+            "target_git_file_path": "(한국기상산업기술원) 감사규정/별지/별지5의3_적극행정 면책 검토서(제21조의2제5항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -708,7 +776,11 @@
             "source_provision_id": "SchlPubRul:(한국기상산업기술원)감사규정#JO0022",
             "reference_id": "SchlPubRul:(한국기상산업기술원)감사규정#JO0021",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국기상산업기술원) 감사규정/(한국기상산업기술원) 감사규정.json"
+            "target_git_path_guess": "(한국기상산업기술원) 감사규정/(한국기상산업기술원) 감사규정.json",
+            "target_git_path": "(한국기상산업기술원) 감사규정/(한국기상산업기술원) 감사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -733,7 +805,12 @@
             "target_unit": "BJ0005_04",
             "reference_id": "SchlPubRul:(한국기상산업기술원)감사규정#BJ0005_04",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국기상산업기술원) 감사규정/(한국기상산업기술원) 감사규정.json"
+            "target_git_path_guess": "(한국기상산업기술원) 감사규정/(한국기상산업기술원) 감사규정.json",
+            "target_git_path": "(한국기상산업기술원) 감사규정/(한국기상산업기술원) 감사규정.json",
+            "target_git_file_path": "(한국기상산업기술원) 감사규정/별지/별지5의4_감사결과 처분요구에 대한 조치보고서(제22조제1항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -765,7 +842,11 @@
             "source_provision_id": "SchlPubRul:(한국기상산업기술원)감사규정#JO0023",
             "reference_id": "SchlPubRul:(한국기상산업기술원)감사규정#JO0021",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국기상산업기술원) 감사규정/(한국기상산업기술원) 감사규정.json"
+            "target_git_path_guess": "(한국기상산업기술원) 감사규정/(한국기상산업기술원) 감사규정.json",
+            "target_git_path": "(한국기상산업기술원) 감사규정/(한국기상산업기술원) 감사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -790,7 +871,12 @@
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:(한국기상산업기술원)감사규정#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국기상산업기술원) 감사규정/(한국기상산업기술원) 감사규정.json"
+            "target_git_path_guess": "(한국기상산업기술원) 감사규정/(한국기상산업기술원) 감사규정.json",
+            "target_git_path": "(한국기상산업기술원) 감사규정/(한국기상산업기술원) 감사규정.json",
+            "target_git_file_path": "(한국기상산업기술원) 감사규정/별지/별지6_재심의 청구서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -827,7 +913,12 @@
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:(한국기상산업기술원)감사규정#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국기상산업기술원) 감사규정/(한국기상산업기술원) 감사규정.json"
+            "target_git_path_guess": "(한국기상산업기술원) 감사규정/(한국기상산업기술원) 감사규정.json",
+            "target_git_path": "(한국기상산업기술원) 감사규정/(한국기상산업기술원) 감사규정.json",
+            "target_git_file_path": "(한국기상산업기술원) 감사규정/별지/별지7_감사수감 일일상황보고.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -875,7 +966,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:(한국기상산업기술원)감사규정#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국기상산업기술원) 감사규정/(한국기상산업기술원) 감사규정.json"
+            "target_git_path_guess": "(한국기상산업기술원) 감사규정/(한국기상산업기술원) 감사규정.json",
+            "target_git_path": "(한국기상산업기술원) 감사규정/(한국기상산업기술원) 감사규정.json",
+            "target_git_file_path": "(한국기상산업기술원) 감사규정/별표/별표2_범죄 및 망실·훼손 등의 보고 및 조치(제26조제1항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -895,7 +991,11 @@
             "source_provision_id": "SchlPubRul:(한국기상산업기술원)감사규정#JO0026",
             "reference_id": "SchlPubRul:(한국기상산업기술원)감사규정#JO0019",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국기상산업기술원) 감사규정/(한국기상산업기술원) 감사규정.json"
+            "target_git_path_guess": "(한국기상산업기술원) 감사규정/(한국기상산업기술원) 감사규정.json",
+            "target_git_path": "(한국기상산업기술원) 감사규정/(한국기상산업기술원) 감사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

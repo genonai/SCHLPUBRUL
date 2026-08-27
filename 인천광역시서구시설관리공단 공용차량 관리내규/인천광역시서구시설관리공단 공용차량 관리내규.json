@@ -76,7 +76,9 @@
             "source_provision_id": "SchlPubRul:인천광역시서구시설관리공단공용차량관리내규#JO0002",
             "reference_id": "law:자동차관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "자동차관리법/법률/자동차관리법.json"
+            "target_git_path_guess": "자동차관리법/법률/자동차관리법.json",
+            "target_git_path": "자동차관리법/법률/자동차관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -96,7 +98,9 @@
             "source_provision_id": "SchlPubRul:인천광역시서구시설관리공단공용차량관리내규#JO0002",
             "reference_id": "law:자동차관리법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "자동차관리법/법률/자동차관리법.json"
+            "target_git_path_guess": "자동차관리법/법률/자동차관리법.json",
+            "target_git_path": "자동차관리법/법률/자동차관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -116,7 +120,9 @@
             "source_provision_id": "SchlPubRul:인천광역시서구시설관리공단공용차량관리내규#JO0002",
             "reference_id": "law:여객자동차운수사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "여객자동차운수사업법/법률/여객자동차운수사업법.json"
+            "target_git_path_guess": "여객자동차운수사업법/법률/여객자동차운수사업법.json",
+            "target_git_path": "여객자동차 운수사업법/법률/여객자동차 운수사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -136,7 +142,9 @@
             "source_provision_id": "SchlPubRul:인천광역시서구시설관리공단공용차량관리내규#JO0002",
             "reference_id": "law:여객자동차운수사업법#JO0029",
             "target_repo": "LAW",
-            "target_git_path_guess": "여객자동차운수사업법/법률/여객자동차운수사업법.json"
+            "target_git_path_guess": "여객자동차운수사업법/법률/여객자동차운수사업법.json",
+            "target_git_path": "여객자동차 운수사업법/법률/여객자동차 운수사업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -184,7 +192,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:인천광역시서구시설관리공단공용차량관리내규#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시서구시설관리공단 공용차량 관리내규/인천광역시서구시설관리공단 공용차량 관리내규.json"
+            "target_git_path_guess": "인천광역시서구시설관리공단 공용차량 관리내규/인천광역시서구시설관리공단 공용차량 관리내규.json",
+            "target_git_path": "인천광역시서구시설관리공단 공용차량 관리내규/인천광역시서구시설관리공단 공용차량 관리내규.json",
+            "target_git_file_path": "인천광역시서구시설관리공단 공용차량 관리내규/별지/별지1_차량보유현황.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -209,7 +222,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:인천광역시서구시설관리공단공용차량관리내규#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시서구시설관리공단 공용차량 관리내규/인천광역시서구시설관리공단 공용차량 관리내규.json"
+            "target_git_path_guess": "인천광역시서구시설관리공단 공용차량 관리내규/인천광역시서구시설관리공단 공용차량 관리내규.json",
+            "target_git_path": "인천광역시서구시설관리공단 공용차량 관리내규/인천광역시서구시설관리공단 공용차량 관리내규.json",
+            "target_git_file_path": "인천광역시서구시설관리공단 공용차량 관리내규/별지/별지2_차량운행일지.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -234,7 +252,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:인천광역시서구시설관리공단공용차량관리내규#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시서구시설관리공단 공용차량 관리내규/인천광역시서구시설관리공단 공용차량 관리내규.json"
+            "target_git_path_guess": "인천광역시서구시설관리공단 공용차량 관리내규/인천광역시서구시설관리공단 공용차량 관리내규.json",
+            "target_git_path": "인천광역시서구시설관리공단 공용차량 관리내규/인천광역시서구시설관리공단 공용차량 관리내규.json",
+            "target_git_file_path": "인천광역시서구시설관리공단 공용차량 관리내규/별지/별지3_차량정비대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -254,7 +277,11 @@
             "source_provision_id": "SchlPubRul:인천광역시서구시설관리공단공용차량관리내규#JO0004",
             "reference_id": "SchlPubRul:인천광역시서구시설관리공단공용차량관리내규#JO0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시서구시설관리공단 공용차량 관리내규/인천광역시서구시설관리공단 공용차량 관리내규.json"
+            "target_git_path_guess": "인천광역시서구시설관리공단 공용차량 관리내규/인천광역시서구시설관리공단 공용차량 관리내규.json",
+            "target_git_path": "인천광역시서구시설관리공단 공용차량 관리내규/인천광역시서구시설관리공단 공용차량 관리내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -429,7 +456,11 @@
             "source_provision_id": "SchlPubRul:인천광역시서구시설관리공단공용차량관리내규#JO0017",
             "reference_id": "SchlPubRul:인천광역시서구시설관리공단공용차량관리내규#JO0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시서구시설관리공단 공용차량 관리내규/인천광역시서구시설관리공단 공용차량 관리내규.json"
+            "target_git_path_guess": "인천광역시서구시설관리공단 공용차량 관리내규/인천광역시서구시설관리공단 공용차량 관리내규.json",
+            "target_git_path": "인천광역시서구시설관리공단 공용차량 관리내규/인천광역시서구시설관리공단 공용차량 관리내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -449,7 +480,11 @@
             "source_provision_id": "SchlPubRul:인천광역시서구시설관리공단공용차량관리내규#JO0017",
             "reference_id": "SchlPubRul:인천광역시서구시설관리공단공용차량관리내규#JO0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시서구시설관리공단 공용차량 관리내규/인천광역시서구시설관리공단 공용차량 관리내규.json"
+            "target_git_path_guess": "인천광역시서구시설관리공단 공용차량 관리내규/인천광역시서구시설관리공단 공용차량 관리내규.json",
+            "target_git_path": "인천광역시서구시설관리공단 공용차량 관리내규/인천광역시서구시설관리공단 공용차량 관리내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -469,7 +504,11 @@
             "source_provision_id": "SchlPubRul:인천광역시서구시설관리공단공용차량관리내규#JO0017",
             "reference_id": "SchlPubRul:인천광역시서구시설관리공단공용차량관리내규#JO0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시서구시설관리공단 공용차량 관리내규/인천광역시서구시설관리공단 공용차량 관리내규.json"
+            "target_git_path_guess": "인천광역시서구시설관리공단 공용차량 관리내규/인천광역시서구시설관리공단 공용차량 관리내규.json",
+            "target_git_path": "인천광역시서구시설관리공단 공용차량 관리내규/인천광역시서구시설관리공단 공용차량 관리내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -489,7 +528,11 @@
             "source_provision_id": "SchlPubRul:인천광역시서구시설관리공단공용차량관리내규#JO0017",
             "reference_id": "SchlPubRul:인천광역시서구시설관리공단공용차량관리내규#JO0014",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시서구시설관리공단 공용차량 관리내규/인천광역시서구시설관리공단 공용차량 관리내규.json"
+            "target_git_path_guess": "인천광역시서구시설관리공단 공용차량 관리내규/인천광역시서구시설관리공단 공용차량 관리내규.json",
+            "target_git_path": "인천광역시서구시설관리공단 공용차량 관리내규/인천광역시서구시설관리공단 공용차량 관리내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -509,7 +552,11 @@
             "source_provision_id": "SchlPubRul:인천광역시서구시설관리공단공용차량관리내규#JO0017",
             "reference_id": "SchlPubRul:인천광역시서구시설관리공단공용차량관리내규#JO0015",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시서구시설관리공단 공용차량 관리내규/인천광역시서구시설관리공단 공용차량 관리내규.json"
+            "target_git_path_guess": "인천광역시서구시설관리공단 공용차량 관리내규/인천광역시서구시설관리공단 공용차량 관리내규.json",
+            "target_git_path": "인천광역시서구시설관리공단 공용차량 관리내규/인천광역시서구시설관리공단 공용차량 관리내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -529,7 +576,11 @@
             "source_provision_id": "SchlPubRul:인천광역시서구시설관리공단공용차량관리내규#JO0017",
             "reference_id": "SchlPubRul:인천광역시서구시설관리공단공용차량관리내규#JO0016",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시서구시설관리공단 공용차량 관리내규/인천광역시서구시설관리공단 공용차량 관리내규.json"
+            "target_git_path_guess": "인천광역시서구시설관리공단 공용차량 관리내규/인천광역시서구시설관리공단 공용차량 관리내규.json",
+            "target_git_path": "인천광역시서구시설관리공단 공용차량 관리내규/인천광역시서구시설관리공단 공용차량 관리내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -549,7 +600,11 @@
             "source_provision_id": "SchlPubRul:인천광역시서구시설관리공단공용차량관리내규#JO0017",
             "reference_id": "SchlPubRul:인천광역시서구시설관리공단공용차량관리내규#JO0018",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시서구시설관리공단 공용차량 관리내규/인천광역시서구시설관리공단 공용차량 관리내규.json"
+            "target_git_path_guess": "인천광역시서구시설관리공단 공용차량 관리내규/인천광역시서구시설관리공단 공용차량 관리내규.json",
+            "target_git_path": "인천광역시서구시설관리공단 공용차량 관리내규/인천광역시서구시설관리공단 공용차량 관리내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -581,7 +636,9 @@
             "source_provision_id": "SchlPubRul:인천광역시서구시설관리공단공용차량관리내규#JO0018",
             "reference_id": "law:도로교통법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "도로교통법/법률/도로교통법.json"
+            "target_git_path_guess": "도로교통법/법률/도로교통법.json",
+            "target_git_path": "도로교통법/법률/도로교통법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

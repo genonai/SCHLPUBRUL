@@ -76,7 +76,9 @@
             "source_provision_id": "SchlPubRul:복리후생규정:public_2141165#JO0002",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -96,7 +98,11 @@
             "source_provision_id": "SchlPubRul:복리후생규정:public_2141165#JO0002",
             "reference_id": "SchlPubRul:의왕도시공사정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "의왕도시공사 정관/의왕도시공사 정관.json"
+            "target_git_path_guess": "의왕도시공사 정관/의왕도시공사 정관.json",
+            "target_git_path": "의왕도시공사정관/의왕도시공사정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -394,5 +400,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "복리후생규정/public_2141165/복리후생규정.json"
+  "git_path": "복리후생규정/public_2141165/복리후생규정.json",
+  "_schlpub_id_suffix": "public_2141165"
 }

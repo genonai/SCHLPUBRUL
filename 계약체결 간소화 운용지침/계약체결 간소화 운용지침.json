@@ -63,9 +63,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/회계규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:계약체결간소화운용지침#JO0001",
-            "reference_id": "SchlPubRul:회계규정#DOC",
+            "reference_id": "SchlPubRul:회계규정:public_2141227#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_candidates": 3,
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -83,9 +88,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/회계규정/제159조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:계약체결간소화운용지침#JO0001",
-            "reference_id": "SchlPubRul:회계규정#JO0159",
+            "reference_id": "SchlPubRul:회계규정:public_2141227#JO0159",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_candidates": 3,
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -105,7 +115,11 @@
             "source_provision_id": "SchlPubRul:계약체결간소화운용지침#JO0001",
             "reference_id": "SchlPubRul:계정과목별지출방법등에관한지침#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "계정과목별 지출방법 등에 관한 지침/계정과목별 지출방법 등에 관한 지침.json"
+            "target_git_path_guess": "계정과목별 지출방법 등에 관한 지침/계정과목별 지출방법 등에 관한 지침.json",
+            "target_git_path": "계정과목별 지출방법 등에 관한 지침/계정과목별 지출방법 등에 관한 지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -125,7 +139,11 @@
             "source_provision_id": "SchlPubRul:계약체결간소화운용지침#JO0001",
             "reference_id": "SchlPubRul:계정과목별지출방법등에관한지침#JO0004_02",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "계정과목별 지출방법 등에 관한 지침/계정과목별 지출방법 등에 관한 지침.json"
+            "target_git_path_guess": "계정과목별 지출방법 등에 관한 지침/계정과목별 지출방법 등에 관한 지침.json",
+            "target_git_path": "계정과목별 지출방법 등에 관한 지침/계정과목별 지출방법 등에 관한 지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -157,7 +175,9 @@
             "source_provision_id": "SchlPubRul:계약체결간소화운용지침#JO0002",
             "reference_id": "law:지방자치단체를당사자로하는계약에관한법률#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방자치단체를 당사자로 하는 계약에 관한 법률/법률/지방자치단체를 당사자로 하는 계약에 관한 법률.json"
+            "target_git_path_guess": "지방자치단체를 당사자로 하는 계약에 관한 법률/법률/지방자치단체를 당사자로 하는 계약에 관한 법률.json",
+            "target_git_path": "지방자치단체를 당사자로 하는 계약에 관한 법률/법률/지방자치단체를 당사자로 하는 계약에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -177,7 +197,9 @@
             "source_provision_id": "SchlPubRul:계약체결간소화운용지침#JO0002",
             "reference_id": "law:지방자치단체를당사자로하는계약에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방자치단체를 당사자로 하는 계약에 관한 법률/시행령/지방자치단체를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "지방자치단체를 당사자로 하는 계약에 관한 법률/시행령/지방자치단체를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "지방자치단체를 당사자로 하는 계약에 관한 법률/시행령/지방자치단체를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -197,7 +219,9 @@
             "source_provision_id": "SchlPubRul:계약체결간소화운용지침#JO0002",
             "reference_id": "law:지방자치단체를당사자로하는계약에관한법률시행령#JO0050",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방자치단체를 당사자로 하는 계약에 관한 법률/시행령/지방자치단체를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "지방자치단체를 당사자로 하는 계약에 관한 법률/시행령/지방자치단체를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "지방자치단체를 당사자로 하는 계약에 관한 법률/시행령/지방자치단체를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -217,7 +241,9 @@
             "source_provision_id": "SchlPubRul:계약체결간소화운용지침#JO0002",
             "reference_id": "law:지방자치단체를당사자로하는계약에관한법률시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방자치단체를 당사자로 하는 계약에 관한 법률/시행규칙/지방자치단체를 당사자로 하는 계약에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "지방자치단체를 당사자로 하는 계약에 관한 법률/시행규칙/지방자치단체를 당사자로 하는 계약에 관한 법률 시행규칙.json",
+            "target_git_path": "지방자치단체를 당사자로 하는 계약에 관한 법률/시행규칙/지방자치단체를 당사자로 하는 계약에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -237,7 +263,9 @@
             "source_provision_id": "SchlPubRul:계약체결간소화운용지침#JO0002",
             "reference_id": "law:지방자치단체를당사자로하는계약에관한법률시행규칙#JO0048",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방자치단체를 당사자로 하는 계약에 관한 법률/시행규칙/지방자치단체를 당사자로 하는 계약에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "지방자치단체를 당사자로 하는 계약에 관한 법률/시행규칙/지방자치단체를 당사자로 하는 계약에 관한 법률 시행규칙.json",
+            "target_git_path": "지방자치단체를 당사자로 하는 계약에 관한 법률/시행규칙/지방자치단체를 당사자로 하는 계약에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -360,7 +388,11 @@
             "source_provision_id": "SchlPubRul:계약체결간소화운용지침#JO0006",
             "reference_id": "SchlPubRul:계약체결간소화운용지침#JO0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "계약체결 간소화 운용지침/계약체결 간소화 운용지침.json"
+            "target_git_path_guess": "계약체결 간소화 운용지침/계약체결 간소화 운용지침.json",
+            "target_git_path": "계약체결 간소화 운용지침/계약체결 간소화 운용지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -385,7 +417,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:계약체결간소화운용지침#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "계약체결 간소화 운용지침/계약체결 간소화 운용지침.json"
+            "target_git_path_guess": "계약체결 간소화 운용지침/계약체결 간소화 운용지침.json",
+            "target_git_path": "계약체결 간소화 운용지침/계약체결 간소화 운용지침.json",
+            "target_git_file_path": "계약체결 간소화 운용지침/별지/별지1_서약서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -410,7 +447,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:계약체결간소화운용지침#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "계약체결 간소화 운용지침/계약체결 간소화 운용지침.json"
+            "target_git_path_guess": "계약체결 간소화 운용지침/계약체결 간소화 운용지침.json",
+            "target_git_path": "계약체결 간소화 운용지침/계약체결 간소화 운용지침.json",
+            "target_git_file_path": "계약체결 간소화 운용지침/별지/별지2_(용역) 완료검사원.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -435,7 +477,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:계약체결간소화운용지침#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "계약체결 간소화 운용지침/계약체결 간소화 운용지침.json"
+            "target_git_path_guess": "계약체결 간소화 운용지침/계약체결 간소화 운용지침.json",
+            "target_git_path": "계약체결 간소화 운용지침/계약체결 간소화 운용지침.json",
+            "target_git_file_path": "계약체결 간소화 운용지침/별지/별지3_(물품) 납품검사원.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -455,7 +502,9 @@
             "source_provision_id": "SchlPubRul:계약체결간소화운용지침#JO0006",
             "reference_id": "law:여신전문금융업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "여신전문금융업법/법률/여신전문금융업법.json"
+            "target_git_path_guess": "여신전문금융업법/법률/여신전문금융업법.json",
+            "target_git_path": "여신전문금융업법/법률/여신전문금융업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -475,7 +524,9 @@
             "source_provision_id": "SchlPubRul:계약체결간소화운용지침#JO0006",
             "reference_id": "law:여신전문금융업법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "여신전문금융업법/법률/여신전문금융업법.json"
+            "target_git_path_guess": "여신전문금융업법/법률/여신전문금융업법.json",
+            "target_git_path": "여신전문금융업법/법률/여신전문금융업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

@@ -153,7 +153,9 @@
             "source_provision_id": "SchlPubRul:광주환경공단인권경영이행내규#JO0009",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -218,7 +220,9 @@
             "source_provision_id": "SchlPubRul:광주환경공단인권경영이행내규#JO0013",
             "reference_id": "law:개인정보보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json"
+            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -288,7 +292,8 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:광주환경공단인권경영이행내규#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "광주환경공단 인권경영이행내규/광주환경공단 인권경영이행내규.json"
+            "target_git_path_guess": "광주환경공단 인권경영이행내규/광주환경공단 인권경영이행내규.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],

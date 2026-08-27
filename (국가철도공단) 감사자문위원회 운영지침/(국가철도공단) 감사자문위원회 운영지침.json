@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)감사자문위원회운영지침#JO0001",
             "reference_id": "law:공공감사에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공감사에 관한 법률/시행령/공공감사에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공감사에 관한 법률/시행령/공공감사에 관한 법률 시행령.json",
+            "target_git_path": "공공감사에 관한 법률/시행령/공공감사에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -85,7 +87,9 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)감사자문위원회운영지침#JO0001",
             "reference_id": "law:공공감사에관한법률시행령#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공감사에 관한 법률/시행령/공공감사에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공감사에 관한 법률/시행령/공공감사에 관한 법률 시행령.json",
+            "target_git_path": "공공감사에 관한 법률/시행령/공공감사에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -150,7 +154,11 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)감사자문위원회운영지침#JO0005",
             "reference_id": "SchlPubRul:(국가철도공단)감사자문위원회운영지침#JO0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가철도공단) 감사자문위원회 운영지침/(국가철도공단) 감사자문위원회 운영지침.json"
+            "target_git_path_guess": "(국가철도공단) 감사자문위원회 운영지침/(국가철도공단) 감사자문위원회 운영지침.json",
+            "target_git_path": "(국가철도공단) 감사자문위원회 운영지침/(국가철도공단) 감사자문위원회 운영지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -182,7 +190,9 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)감사자문위원회운영지침#JO0006",
             "reference_id": "law:민법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -202,7 +212,9 @@
             "source_provision_id": "SchlPubRul:(국가철도공단)감사자문위원회운영지침#JO0006",
             "reference_id": "law:민법#JO0777",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

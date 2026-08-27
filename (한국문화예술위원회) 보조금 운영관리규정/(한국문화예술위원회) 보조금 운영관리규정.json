@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0001",
             "reference_id": "law:보조금관리에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보조금 관리에 관한 법률/시행령/보조금 관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "보조금 관리에 관한 법률/시행령/보조금 관리에 관한 법률 시행령.json",
+            "target_git_path": "보조금 관리에 관한 법률/시행령/보조금 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -85,7 +87,11 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0001",
             "reference_id": "admrul:국고보조금통합관리지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국고보조금 통합관리 지침/국고보조금 통합관리 지침.json"
+            "target_git_path_guess": "국고보조금 통합관리 지침/국고보조금 통합관리 지침.json",
+            "target_git_path": "국고보조금 통합관리지침/국고보조금 통합관리지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -117,7 +123,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0002",
             "reference_id": "law:보조금관리에관한법률#JO0026_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json"
+            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_git_path": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -137,7 +145,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0002",
             "reference_id": "law:보조금관리에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보조금 관리에 관한 법률/시행령/보조금 관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "보조금 관리에 관한 법률/시행령/보조금 관리에 관한 법률 시행령.json",
+            "target_git_path": "보조금 관리에 관한 법률/시행령/보조금 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -157,7 +167,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0002",
             "reference_id": "law:보조금관리에관한법률시행령#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "보조금 관리에 관한 법률/시행령/보조금 관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "보조금 관리에 관한 법률/시행령/보조금 관리에 관한 법률 시행령.json",
+            "target_git_path": "보조금 관리에 관한 법률/시행령/보조금 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -177,7 +189,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0002",
             "reference_id": "law:여신전문금융업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "여신전문금융업법/법률/여신전문금융업법.json"
+            "target_git_path_guess": "여신전문금융업법/법률/여신전문금융업법.json",
+            "target_git_path": "여신전문금융업법/법률/여신전문금융업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -197,7 +211,11 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0002",
             "reference_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0033",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json"
+            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_git_path": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -240,7 +258,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0004",
             "reference_id": "law:문화예술진흥법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "문화예술진흥법/법률/문화예술진흥법.json"
+            "target_git_path_guess": "문화예술진흥법/법률/문화예술진흥법.json",
+            "target_git_path": "문화예술진흥법/법률/문화예술진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -260,7 +280,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0004",
             "reference_id": "law:문화예술진흥법#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "문화예술진흥법/법률/문화예술진흥법.json"
+            "target_git_path_guess": "문화예술진흥법/법률/문화예술진흥법.json",
+            "target_git_path": "문화예술진흥법/법률/문화예술진흥법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -292,7 +314,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0005",
             "reference_id": "law:개인정보보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json"
+            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -346,7 +370,11 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0008",
             "reference_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json"
+            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_git_path": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -366,7 +394,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0008",
             "reference_id": "law:예술인의지위와권리의보장에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "예술인의 지위와 권리의 보장에 관한 법률/법률/예술인의 지위와 권리의 보장에 관한 법률.json"
+            "target_git_path_guess": "예술인의 지위와 권리의 보장에 관한 법률/법률/예술인의 지위와 권리의 보장에 관한 법률.json",
+            "target_git_path": "예술인의 지위와 권리의 보장에 관한 법률/법률/예술인의 지위와 권리의 보장에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -386,7 +416,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0008",
             "reference_id": "law:예술인의지위와권리의보장에관한법률#JO0035",
             "target_repo": "LAW",
-            "target_git_path_guess": "예술인의 지위와 권리의 보장에 관한 법률/법률/예술인의 지위와 권리의 보장에 관한 법률.json"
+            "target_git_path_guess": "예술인의 지위와 권리의 보장에 관한 법률/법률/예술인의 지위와 권리의 보장에 관한 법률.json",
+            "target_git_path": "예술인의 지위와 권리의 보장에 관한 법률/법률/예술인의 지위와 권리의 보장에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -406,7 +438,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0008",
             "reference_id": "law:예술인복지법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "예술인복지법/법률/예술인복지법.json"
+            "target_git_path_guess": "예술인복지법/법률/예술인복지법.json",
+            "target_git_path": "예술인 복지법/법률/예술인 복지법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -426,7 +460,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0008",
             "reference_id": "law:초중등교육법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "초ㆍ중등교육법/법률/초ㆍ중등교육법.json"
+            "target_git_path_guess": "초ㆍ중등교육법/법률/초ㆍ중등교육법.json",
+            "target_git_path": "초ㆍ중등교육법/법률/초ㆍ중등교육법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -446,7 +482,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0008",
             "reference_id": "law:초중등교육법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "초ㆍ중등교육법/법률/초ㆍ중등교육법.json"
+            "target_git_path_guess": "초ㆍ중등교육법/법률/초ㆍ중등교육법.json",
+            "target_git_path": "초ㆍ중등교육법/법률/초ㆍ중등교육법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -466,7 +504,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0008",
             "reference_id": "law:남녀고용평등과일가정양립지원에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json"
+            "target_git_path_guess": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json",
+            "target_git_path": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -486,7 +526,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0008",
             "reference_id": "law:남녀고용평등과일가정양립지원에관한법률#JO0037",
             "target_repo": "LAW",
-            "target_git_path_guess": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json"
+            "target_git_path_guess": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json",
+            "target_git_path": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -506,7 +548,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0008",
             "reference_id": "law:형의실효등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json"
+            "target_git_path_guess": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json",
+            "target_git_path": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -526,7 +570,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0008",
             "reference_id": "law:형의실효등에관한법률#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json"
+            "target_git_path_guess": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json",
+            "target_git_path": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -546,7 +592,11 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0008",
             "reference_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0017",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json"
+            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_git_path": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -566,7 +616,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0008",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -586,7 +638,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0008",
             "reference_id": "law:근로기준법#JO0043_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -618,7 +672,11 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0009",
             "reference_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0034",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json"
+            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_git_path": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -638,7 +696,11 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0009",
             "reference_id": "admrul:국고보조금통합관리지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국고보조금 통합관리지침/국고보조금 통합관리지침.json"
+            "target_git_path_guess": "국고보조금 통합관리지침/국고보조금 통합관리지침.json",
+            "target_git_path": "국고보조금 통합관리지침/국고보조금 통합관리지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -658,7 +720,11 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0009",
             "reference_id": "admrul:국고보조금통합관리지침#JO0044",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국고보조금 통합관리지침/국고보조금 통합관리지침.json"
+            "target_git_path_guess": "국고보조금 통합관리지침/국고보조금 통합관리지침.json",
+            "target_git_path": "국고보조금 통합관리지침/국고보조금 통합관리지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "internal_ref",
@@ -678,7 +744,11 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0009",
             "reference_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0035",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json"
+            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_git_path": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -754,7 +824,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0013",
             "reference_id": "law:형의실효등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json"
+            "target_git_path_guess": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json",
+            "target_git_path": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -774,7 +846,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0013",
             "reference_id": "law:형의실효등에관한법률#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json"
+            "target_git_path_guess": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json",
+            "target_git_path": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -794,7 +868,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0013",
             "reference_id": "law:남녀고용평등과일가정양립지원에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json"
+            "target_git_path_guess": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json",
+            "target_git_path": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -814,7 +890,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0013",
             "reference_id": "law:남녀고용평등과일가정양립지원에관한법률#JO0037",
             "target_repo": "LAW",
-            "target_git_path_guess": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json"
+            "target_git_path_guess": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json",
+            "target_git_path": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -834,7 +912,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0013",
             "reference_id": "law:형의실효등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json"
+            "target_git_path_guess": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json",
+            "target_git_path": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -854,7 +934,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0013",
             "reference_id": "law:형의실효등에관한법률#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json"
+            "target_git_path_guess": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json",
+            "target_git_path": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -874,7 +956,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0013",
             "reference_id": "law:보조금관리에관한법률#JO0031_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json"
+            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_git_path": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -894,7 +978,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0013",
             "reference_id": "law:보조금관리에관한법률#JO0033_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json"
+            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_git_path": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -914,7 +1000,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0013",
             "reference_id": "law:보조금관리에관한법률#JO0036_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json"
+            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_git_path": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -934,7 +1022,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0013",
             "reference_id": "law:보조금관리에관한법률#JO0040",
             "target_repo": "LAW",
-            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json"
+            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_git_path": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -954,7 +1044,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0013",
             "reference_id": "law:보조금관리에관한법률#JO0040",
             "target_repo": "LAW",
-            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json"
+            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_git_path": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -974,7 +1066,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0013",
             "reference_id": "law:보조금관리에관한법률#JO0041",
             "target_repo": "LAW",
-            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json"
+            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_git_path": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -994,7 +1088,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0013",
             "reference_id": "law:고용보험법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고용보험법/법률/고용보험법.json"
+            "target_git_path_guess": "고용보험법/법률/고용보험법.json",
+            "target_git_path": "고용보험법/법률/고용보험법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1014,7 +1110,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0013",
             "reference_id": "law:남녀고용평등과일가정양립지원에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json"
+            "target_git_path_guess": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json",
+            "target_git_path": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1034,7 +1132,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0013",
             "reference_id": "law:남녀고용평등과일가정양립지원에관한법률#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json"
+            "target_git_path_guess": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json",
+            "target_git_path": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1054,7 +1154,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0013",
             "reference_id": "law:남녀고용평등과일가정양립지원에관한법률#JO0014_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json"
+            "target_git_path_guess": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json",
+            "target_git_path": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1074,7 +1176,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0013",
             "reference_id": "law:양성평등기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json"
+            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json",
+            "target_git_path": "양성평등기본법/법률/양성평등기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1094,7 +1198,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0013",
             "reference_id": "law:양성평등기본법#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json"
+            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json",
+            "target_git_path": "양성평등기본법/법률/양성평등기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1114,7 +1220,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0013",
             "reference_id": "law:성폭력방지및피해자보호등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "성폭력방지 및 피해자보호 등에 관한 법률/법률/성폭력방지 및 피해자보호 등에 관한 법률.json"
+            "target_git_path_guess": "성폭력방지 및 피해자보호 등에 관한 법률/법률/성폭력방지 및 피해자보호 등에 관한 법률.json",
+            "target_git_path": "성폭력방지 및 피해자보호 등에 관한 법률/법률/성폭력방지 및 피해자보호 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1134,7 +1242,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0013",
             "reference_id": "law:성폭력방지및피해자보호등에관한법률#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "성폭력방지 및 피해자보호 등에 관한 법률/법률/성폭력방지 및 피해자보호 등에 관한 법률.json"
+            "target_git_path_guess": "성폭력방지 및 피해자보호 등에 관한 법률/법률/성폭력방지 및 피해자보호 등에 관한 법률.json",
+            "target_git_path": "성폭력방지 및 피해자보호 등에 관한 법률/법률/성폭력방지 및 피해자보호 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1154,7 +1264,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0013",
             "reference_id": "law:남녀고용평등과일가정양립지원에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json"
+            "target_git_path_guess": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json",
+            "target_git_path": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1174,7 +1286,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0013",
             "reference_id": "law:남녀고용평등과일가정양립지원에관한법률#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json"
+            "target_git_path_guess": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json",
+            "target_git_path": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1194,7 +1308,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0013",
             "reference_id": "law:남녀고용평등과일가정양립지원에관한법률#JO0013_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json"
+            "target_git_path_guess": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json",
+            "target_git_path": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1214,7 +1330,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0013",
             "reference_id": "law:양성평등기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json"
+            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json",
+            "target_git_path": "양성평등기본법/법률/양성평등기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1234,7 +1352,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0013",
             "reference_id": "law:양성평등기본법#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json"
+            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json",
+            "target_git_path": "양성평등기본법/법률/양성평등기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1254,7 +1374,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0013",
             "reference_id": "law:성폭력방지및피해자보호등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "성폭력방지 및 피해자보호 등에 관한 법률/법률/성폭력방지 및 피해자보호 등에 관한 법률.json"
+            "target_git_path_guess": "성폭력방지 및 피해자보호 등에 관한 법률/법률/성폭력방지 및 피해자보호 등에 관한 법률.json",
+            "target_git_path": "성폭력방지 및 피해자보호 등에 관한 법률/법률/성폭력방지 및 피해자보호 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1274,7 +1396,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0013",
             "reference_id": "law:성폭력방지및피해자보호등에관한법률#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "성폭력방지 및 피해자보호 등에 관한 법률/법률/성폭력방지 및 피해자보호 등에 관한 법률.json"
+            "target_git_path_guess": "성폭력방지 및 피해자보호 등에 관한 법률/법률/성폭력방지 및 피해자보호 등에 관한 법률.json",
+            "target_git_path": "성폭력방지 및 피해자보호 등에 관한 법률/법률/성폭력방지 및 피해자보호 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1299,7 +1423,12 @@
             "target_unit": "BJ0009",
             "reference_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#BJ0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json"
+            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_git_path": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_git_file_path": "(한국문화예술위원회) 보조금 운영관리규정/별지/별지9_성희롱·성폭력 예방에 관한 서약서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -1319,7 +1448,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0013",
             "reference_id": "law:예술인복지법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "예술인 복지법/법률/예술인 복지법.json"
+            "target_git_path_guess": "예술인 복지법/법률/예술인 복지법.json",
+            "target_git_path": "예술인 복지법/법률/예술인 복지법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1339,7 +1470,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0013",
             "reference_id": "law:예술인복지법#JO0004_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "예술인 복지법/법률/예술인 복지법.json"
+            "target_git_path_guess": "예술인 복지법/법률/예술인 복지법.json",
+            "target_git_path": "예술인 복지법/법률/예술인 복지법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1359,7 +1492,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0013",
             "reference_id": "law:보조금관리에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보조금 관리에 관한 법률/시행령/보조금 관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "보조금 관리에 관한 법률/시행령/보조금 관리에 관한 법률 시행령.json",
+            "target_git_path": "보조금 관리에 관한 법률/시행령/보조금 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1379,7 +1514,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0013",
             "reference_id": "law:보조금관리에관한법률시행령#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "보조금 관리에 관한 법률/시행령/보조금 관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "보조금 관리에 관한 법률/시행령/보조금 관리에 관한 법률 시행령.json",
+            "target_git_path": "보조금 관리에 관한 법률/시행령/보조금 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1404,7 +1541,12 @@
             "target_unit": "BJ0011",
             "reference_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#BJ0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json"
+            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_git_path": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_git_file_path": "(한국문화예술위원회) 보조금 운영관리규정/별지/별지11_개인정보 수집·이용 동의서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1441,7 +1583,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json"
+            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_git_path": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_git_file_path": "(한국문화예술위원회) 보조금 운영관리규정/별지/별지2_(세세세부사업명) 교부결정통지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1511,7 +1658,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json"
+            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_git_path": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_git_file_path": "(한국문화예술위원회) 보조금 운영관리규정/별표/별표1_보조비목·보조세목별 산정기준 등.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1543,7 +1695,11 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0019",
             "reference_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0018",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json"
+            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_git_path": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1591,7 +1747,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json"
+            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_git_path": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_git_file_path": "(한국문화예술위원회) 보조금 운영관리규정/별표/별표2_보조사업비 카드 사용제한 업종(제21조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1616,7 +1777,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json"
+            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_git_path": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_git_file_path": "(한국문화예술위원회) 보조금 운영관리규정/별표/별표2_보조사업비 카드 사용제한 업종(제21조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1659,7 +1825,11 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0022",
             "reference_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0015",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json"
+            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_git_path": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1696,7 +1866,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json"
+            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_git_path": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_git_file_path": "(한국문화예술위원회) 보조금 운영관리규정/별지/별지1_보조금시스템 업무처리 위임장 및 개인정보 수집·이용·제3자 제공동의서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1728,7 +1903,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0024",
             "reference_id": "law:중소기업제품구매촉진및판로지원에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json"
+            "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json",
+            "target_git_path": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1748,7 +1925,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0024",
             "reference_id": "law:중소기업제품구매촉진및판로지원에관한법률#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json"
+            "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json",
+            "target_git_path": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1780,7 +1959,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0025",
             "reference_id": "law:전자조달의이용및촉진에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자조달의 이용 및 촉진에 관한 법률/법률/전자조달의 이용 및 촉진에 관한 법률.json"
+            "target_git_path_guess": "전자조달의 이용 및 촉진에 관한 법률/법률/전자조달의 이용 및 촉진에 관한 법률.json",
+            "target_git_path": "전자조달의 이용 및 촉진에 관한 법률/법률/전자조달의 이용 및 촉진에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1800,7 +1981,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0025",
             "reference_id": "law:전자조달의이용및촉진에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자조달의 이용 및 촉진에 관한 법률/법률/전자조달의 이용 및 촉진에 관한 법률.json"
+            "target_git_path_guess": "전자조달의 이용 및 촉진에 관한 법률/법률/전자조달의 이용 및 촉진에 관한 법률.json",
+            "target_git_path": "전자조달의 이용 및 촉진에 관한 법률/법률/전자조달의 이용 및 촉진에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1820,7 +2003,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0025",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1840,7 +2025,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0025",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1860,7 +2047,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0025",
             "reference_id": "law:건설산업기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설산업기본법/법률/건설산업기본법.json"
+            "target_git_path_guess": "건설산업기본법/법률/건설산업기본법.json",
+            "target_git_path": "건설산업기본법/법률/건설산업기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1880,7 +2069,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0025",
             "reference_id": "law:건설산업기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설산업기본법/법률/건설산업기본법.json"
+            "target_git_path_guess": "건설산업기본법/법률/건설산업기본법.json",
+            "target_git_path": "건설산업기본법/법률/건설산업기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1900,7 +2091,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0025",
             "reference_id": "law:건설산업기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설산업기본법/법률/건설산업기본법.json"
+            "target_git_path_guess": "건설산업기본법/법률/건설산업기본법.json",
+            "target_git_path": "건설산업기본법/법률/건설산업기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1920,7 +2113,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0025",
             "reference_id": "law:공직자의이해충돌방지법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공직자의 이해충돌방지법/법률/공직자의 이해충돌방지법.json"
+            "target_git_path_guess": "공직자의 이해충돌방지법/법률/공직자의 이해충돌방지법.json",
+            "target_git_path": "공직자의 이해충돌 방지법/법률/공직자의 이해충돌 방지법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1940,7 +2135,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0025",
             "reference_id": "law:공직자의이해충돌방지법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "공직자의 이해충돌방지법/법률/공직자의 이해충돌방지법.json"
+            "target_git_path_guess": "공직자의 이해충돌방지법/법률/공직자의 이해충돌방지법.json",
+            "target_git_path": "공직자의 이해충돌 방지법/법률/공직자의 이해충돌 방지법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1960,7 +2157,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0025",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1980,7 +2179,11 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0025",
             "reference_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0035",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json"
+            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_git_path": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -2000,7 +2203,11 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0025",
             "reference_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0036",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json"
+            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_git_path": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2032,7 +2239,11 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0026",
             "reference_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0025",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json"
+            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_git_path": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2108,7 +2319,11 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0031",
             "reference_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0044",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json"
+            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_git_path": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2151,7 +2366,11 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0033",
             "reference_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0015",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json"
+            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_git_path": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2183,7 +2402,11 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0033_02",
             "reference_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0033",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json"
+            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_git_path": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -2203,7 +2426,11 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0033_02",
             "reference_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0033",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json"
+            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_git_path": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -2223,7 +2450,11 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0033_02",
             "reference_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0033",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json"
+            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_git_path": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -2243,7 +2474,11 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0033_02",
             "reference_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0033",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json"
+            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_git_path": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -2263,7 +2498,11 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0033_02",
             "reference_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0033",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json"
+            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_git_path": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2306,7 +2545,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0035",
             "reference_id": "law:민법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2326,7 +2567,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0035",
             "reference_id": "law:민법#JO0379",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2358,7 +2601,11 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0036",
             "reference_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0034",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json"
+            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_git_path": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2390,7 +2637,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0037",
             "reference_id": "law:주식회사등의외부감사에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "주식회사 등의 외부감사에 관한 법률/법률/주식회사 등의 외부감사에 관한 법률.json"
+            "target_git_path_guess": "주식회사 등의 외부감사에 관한 법률/법률/주식회사 등의 외부감사에 관한 법률.json",
+            "target_git_path": "주식회사 등의 외부감사에 관한 법률/법률/주식회사 등의 외부감사에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2410,7 +2659,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0037",
             "reference_id": "law:주식회사등의외부감사에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "주식회사 등의 외부감사에 관한 법률/법률/주식회사 등의 외부감사에 관한 법률.json"
+            "target_git_path_guess": "주식회사 등의 외부감사에 관한 법률/법률/주식회사 등의 외부감사에 관한 법률.json",
+            "target_git_path": "주식회사 등의 외부감사에 관한 법률/법률/주식회사 등의 외부감사에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2430,7 +2681,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0037",
             "reference_id": "law:주식회사등의외부감사에관한법률#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "주식회사 등의 외부감사에 관한 법률/법률/주식회사 등의 외부감사에 관한 법률.json"
+            "target_git_path_guess": "주식회사 등의 외부감사에 관한 법률/법률/주식회사 등의 외부감사에 관한 법률.json",
+            "target_git_path": "주식회사 등의 외부감사에 관한 법률/법률/주식회사 등의 외부감사에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2450,7 +2703,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0037",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2470,7 +2725,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0037",
             "reference_id": "law:공공기관의운영에관한법률#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2490,7 +2747,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0037",
             "reference_id": "law:지방공기업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2510,7 +2769,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0037",
             "reference_id": "law:지방공기업법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2530,7 +2791,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0037",
             "reference_id": "law:지방공기업법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2606,7 +2869,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0042",
             "reference_id": "law:감사원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "감사원법/법률/감사원법.json"
+            "target_git_path_guess": "감사원법/법률/감사원법.json",
+            "target_git_path": "감사원법/법률/감사원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2626,7 +2891,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0042",
             "reference_id": "law:감사원법#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "감사원법/법률/감사원법.json"
+            "target_git_path_guess": "감사원법/법률/감사원법.json",
+            "target_git_path": "감사원법/법률/감사원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2658,7 +2925,11 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0043",
             "reference_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0030",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json"
+            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_git_path": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2690,7 +2961,11 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0044",
             "reference_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json"
+            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_git_path": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -2710,7 +2985,11 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0044",
             "reference_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json"
+            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_git_path": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -2730,7 +3009,11 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0044",
             "reference_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json"
+            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_git_path": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -2750,7 +3033,11 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0044",
             "reference_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json"
+            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_git_path": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -2770,7 +3057,11 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0044",
             "reference_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json"
+            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_git_path": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -2790,7 +3081,11 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0044",
             "reference_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json"
+            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_git_path": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2822,7 +3117,11 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0045",
             "reference_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0044",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json"
+            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_git_path": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2854,7 +3153,11 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0045_02",
             "reference_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0022",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json"
+            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_git_path": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -2874,7 +3177,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0045_02",
             "reference_id": "law:민법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2894,7 +3199,9 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0045_02",
             "reference_id": "law:민법#JO0379",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2970,7 +3277,11 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0050",
             "reference_id": "admrul:국고보조금통합관리지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국고보조금 통합관리지침/국고보조금 통합관리지침.json"
+            "target_git_path_guess": "국고보조금 통합관리지침/국고보조금 통합관리지침.json",
+            "target_git_path": "국고보조금 통합관리지침/국고보조금 통합관리지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -2990,7 +3301,11 @@
             "source_provision_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#JO0050",
             "reference_id": "admrul:국고보조금통합관리지침#JO0045",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국고보조금 통합관리지침/국고보조금 통합관리지침.json"
+            "target_git_path_guess": "국고보조금 통합관리지침/국고보조금 통합관리지침.json",
+            "target_git_path": "국고보조금 통합관리지침/국고보조금 통합관리지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -3049,7 +3364,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json"
+            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_git_path": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_git_file_path": "(한국문화예술위원회) 보조금 운영관리규정/별지/별지5_중요재산 현황.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -3097,7 +3417,12 @@
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json"
+            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_git_path": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_git_file_path": "(한국문화예술위원회) 보조금 운영관리규정/별지/별지6_포상금 지급신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -3122,7 +3447,12 @@
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json"
+            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_git_path": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_git_file_path": "(한국문화예술위원회) 보조금 운영관리규정/별지/별지7_부기등기 말소 대상 부동산 증명서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -3159,7 +3489,12 @@
             "target_unit": "BJ0008",
             "reference_id": "SchlPubRul:(한국문화예술위원회)보조금운영관리규정#BJ0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json"
+            "target_git_path_guess": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_git_path": "(한국문화예술위원회) 보조금 운영관리규정/(한국문화예술위원회) 보조금 운영관리규정.json",
+            "target_git_file_path": "(한국문화예술위원회) 보조금 운영관리규정/별지/별지8_성희롱ㆍ성폭력 예방교육 이수 확인서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

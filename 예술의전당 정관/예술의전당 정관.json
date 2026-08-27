@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:예술의전당정관#JO0001",
             "reference_id": "law:문화예술진흥법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "문화예술진흥법/법률/문화예술진흥법.json"
+            "target_git_path_guess": "문화예술진흥법/법률/문화예술진흥법.json",
+            "target_git_path": "문화예술진흥법/법률/문화예술진흥법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -119,7 +121,11 @@
             "source_provision_id": "SchlPubRul:예술의전당정관#JO0004",
             "reference_id": "SchlPubRul:예술의전당정관#JO0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "예술의전당 정관/예술의전당 정관.json"
+            "target_git_path_guess": "예술의전당 정관/예술의전당 정관.json",
+            "target_git_path": "예술의전당 정관/예술의전당 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -139,7 +145,11 @@
             "source_provision_id": "SchlPubRul:예술의전당정관#JO0004",
             "reference_id": "SchlPubRul:예술의전당정관#JO0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "예술의전당 정관/예술의전당 정관.json"
+            "target_git_path_guess": "예술의전당 정관/예술의전당 정관.json",
+            "target_git_path": "예술의전당 정관/예술의전당 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -215,7 +225,11 @@
             "source_provision_id": "SchlPubRul:예술의전당정관#JO0009",
             "reference_id": "SchlPubRul:예술의전당정관#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "예술의전당 정관/예술의전당 정관.json"
+            "target_git_path_guess": "예술의전당 정관/예술의전당 정관.json",
+            "target_git_path": "예술의전당 정관/예술의전당 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

@@ -109,7 +109,9 @@
             "source_provision_id": "SchlPubRul:이천시시설관리공단여비규정#JO0004_02",
             "reference_id": "law:여신전문금융업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "여신전문금융업법/법률/여신전문금융업법.json"
+            "target_git_path_guess": "여신전문금융업법/법률/여신전문금융업법.json",
+            "target_git_path": "여신전문금융업법/법률/여신전문금융업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -129,7 +131,9 @@
             "source_provision_id": "SchlPubRul:이천시시설관리공단여비규정#JO0004_02",
             "reference_id": "law:여신전문금융업법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "여신전문금융업법/법률/여신전문금융업법.json"
+            "target_git_path_guess": "여신전문금융업법/법률/여신전문금융업법.json",
+            "target_git_path": "여신전문금융업법/법률/여신전문금융업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -183,7 +187,11 @@
             "source_provision_id": "SchlPubRul:이천시시설관리공단여비규정#JO0007",
             "reference_id": "admrul:지방자치단체예산편성운영기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "지방자치단체 예산편성운영기준/지방자치단체 예산편성운영기준.json"
+            "target_git_path_guess": "지방자치단체 예산편성운영기준/지방자치단체 예산편성운영기준.json",
+            "target_git_path": "지방자치단체 예산편성 운영기준/지방자치단체 예산편성 운영기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -231,7 +239,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:이천시시설관리공단여비규정#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "이천시시설관리공단 여비규정/이천시시설관리공단 여비규정.json"
+            "target_git_path_guess": "이천시시설관리공단 여비규정/이천시시설관리공단 여비규정.json",
+            "target_git_path": "이천시시설관리공단 여비규정/이천시시설관리공단 여비규정.json",
+            "target_git_file_path": "이천시시설관리공단 여비규정/별표/별표2_국내여비지급표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -268,7 +281,12 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:이천시시설관리공단여비규정#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "이천시시설관리공단 여비규정/이천시시설관리공단 여비규정.json"
+            "target_git_path_guess": "이천시시설관리공단 여비규정/이천시시설관리공단 여비규정.json",
+            "target_git_path": "이천시시설관리공단 여비규정/이천시시설관리공단 여비규정.json",
+            "target_git_file_path": "이천시시설관리공단 여비규정/별표/별표3_국외여비지급표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -300,7 +318,11 @@
             "source_provision_id": "SchlPubRul:이천시시설관리공단여비규정#JO0011",
             "reference_id": "admrul:지방공무원교육훈련운영지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "지방공무원 교육훈련 운영지침/지방공무원 교육훈련 운영지침.json"
+            "target_git_path_guess": "지방공무원 교육훈련 운영지침/지방공무원 교육훈련 운영지침.json",
+            "target_git_path": "지방공무원 교육훈련 운영지침/지방공무원 교육훈련 운영지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],

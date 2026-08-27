@@ -76,7 +76,9 @@
             "source_provision_id": "SchlPubRul:취업규정:public_2128279#JO0002",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -106,9 +108,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:취업규정:public_2128279#JO0003",
-            "reference_id": "SchlPubRul:인사규정#DOC",
+            "reference_id": "SchlPubRul:인사규정:public_2130247#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json"
+            "target_git_path_guess": "인사규정/인사규정.json",
+            "target_candidates": 4,
+            "target_git_path": "인사규정/public_2130247/인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -138,9 +145,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:취업규정:public_2128279#JO0004",
-            "reference_id": "SchlPubRul:인사규정#DOC",
+            "reference_id": "SchlPubRul:인사규정:public_2130247#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json"
+            "target_git_path_guess": "인사규정/인사규정.json",
+            "target_candidates": 4,
+            "target_git_path": "인사규정/public_2130247/인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -315,7 +327,9 @@
             "source_provision_id": "SchlPubRul:취업규정:public_2128279#JO0017",
             "reference_id": "law:남녀고용평등과일가정양립지원에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "남녀고용평등과 일·가정 양립 지원에 관한 법률/법률/남녀고용평등과 일·가정 양립 지원에 관한 법률.json"
+            "target_git_path_guess": "남녀고용평등과 일·가정 양립 지원에 관한 법률/법률/남녀고용평등과 일·가정 양립 지원에 관한 법률.json",
+            "target_git_path": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -333,9 +347,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:취업규정:public_2128279#JO0017",
-            "reference_id": "SchlPubRul:인사규정#DOC",
+            "reference_id": "SchlPubRul:인사규정:public_2130247#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json"
+            "target_git_path_guess": "인사규정/인사규정.json",
+            "target_candidates": 4,
+            "target_git_path": "인사규정/public_2130247/인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -353,9 +372,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정/제45조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:취업규정:public_2128279#JO0017",
-            "reference_id": "SchlPubRul:인사규정#JO0045",
+            "reference_id": "SchlPubRul:인사규정:public_2130247#JO0045",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json"
+            "target_git_path_guess": "인사규정/인사규정.json",
+            "target_candidates": 4,
+            "target_git_path": "인사규정/public_2130247/인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -375,7 +399,11 @@
             "source_provision_id": "SchlPubRul:취업규정:public_2128279#JO0017",
             "reference_id": "SchlPubRul:취업규정:public_2128279#JO0046",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "취업규정/취업규정.json"
+            "target_git_path_guess": "취업규정/취업규정.json",
+            "target_git_path": "취업규정/public_2128279/취업규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -407,7 +435,9 @@
             "source_provision_id": "SchlPubRul:취업규정:public_2128279#JO0018",
             "reference_id": "law:근로기준법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/시행령/근로기준법 시행령.json"
+            "target_git_path_guess": "근로기준법/시행령/근로기준법 시행령.json",
+            "target_git_path": "근로기준법/시행령/근로기준법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -437,9 +467,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/보수규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:취업규정:public_2128279#JO0019",
-            "reference_id": "SchlPubRul:보수규정#DOC",
+            "reference_id": "SchlPubRul:보수규정:public_2128339#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "보수규정/보수규정.json"
+            "target_git_path_guess": "보수규정/보수규정.json",
+            "target_candidates": 3,
+            "target_git_path": "보수규정/public_2128339/보수규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -537,7 +572,9 @@
             "source_provision_id": "SchlPubRul:취업규정:public_2128279#JO0026",
             "reference_id": "law:남녀고용평등과일가정양립지원에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "남녀고용평등과 일·가정 양립 지원에 관한 법률/법률/남녀고용평등과 일·가정 양립 지원에 관한 법률.json"
+            "target_git_path_guess": "남녀고용평등과 일·가정 양립 지원에 관한 법률/법률/남녀고용평등과 일·가정 양립 지원에 관한 법률.json",
+            "target_git_path": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -557,7 +594,9 @@
             "source_provision_id": "SchlPubRul:취업규정:public_2128279#JO0026",
             "reference_id": "law:근로기준법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/시행규칙/근로기준법 시행규칙.json"
+            "target_git_path_guess": "근로기준법/시행규칙/근로기준법 시행규칙.json",
+            "target_git_path": "근로기준법/시행규칙/근로기준법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -575,9 +614,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:취업규정:public_2128279#JO0026",
-            "reference_id": "SchlPubRul:인사규정#DOC",
+            "reference_id": "SchlPubRul:인사규정:public_2130247#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json"
+            "target_git_path_guess": "인사규정/인사규정.json",
+            "target_candidates": 4,
+            "target_git_path": "인사규정/public_2130247/인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -595,9 +639,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정/제46조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:취업규정:public_2128279#JO0026",
-            "reference_id": "SchlPubRul:인사규정#JO0046",
+            "reference_id": "SchlPubRul:인사규정:public_2130247#JO0046",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json"
+            "target_git_path_guess": "인사규정/인사규정.json",
+            "target_candidates": 4,
+            "target_git_path": "인사규정/public_2130247/인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -617,7 +666,9 @@
             "source_provision_id": "SchlPubRul:취업규정:public_2128279#JO0026",
             "reference_id": "law:남녀고용평등과일가정양립지원에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "남녀고용평등과 일·가정 양립 지원에 관한 법률/법률/남녀고용평등과 일·가정 양립 지원에 관한 법률.json"
+            "target_git_path_guess": "남녀고용평등과 일·가정 양립 지원에 관한 법률/법률/남녀고용평등과 일·가정 양립 지원에 관한 법률.json",
+            "target_git_path": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/법률/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -658,9 +709,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/보수규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:취업규정:public_2128279#JO0028",
-            "reference_id": "SchlPubRul:보수규정#DOC",
+            "reference_id": "SchlPubRul:보수규정:public_2128339#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "보수규정/보수규정.json"
+            "target_git_path_guess": "보수규정/보수규정.json",
+            "target_candidates": 3,
+            "target_git_path": "보수규정/public_2128339/보수규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -692,7 +748,11 @@
             "source_provision_id": "SchlPubRul:취업규정:public_2128279#JO0029",
             "reference_id": "SchlPubRul:취업규정:public_2128279#JO0028",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "취업규정/취업규정.json"
+            "target_git_path_guess": "취업규정/취업규정.json",
+            "target_git_path": "취업규정/public_2128279/취업규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -724,7 +784,9 @@
             "source_provision_id": "SchlPubRul:취업규정:public_2128279#JO0030",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -744,7 +806,9 @@
             "source_provision_id": "SchlPubRul:취업규정:public_2128279#JO0030",
             "reference_id": "law:병역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "병역법/법률/병역법.json"
+            "target_git_path_guess": "병역법/법률/병역법.json",
+            "target_git_path": "병역법/법률/병역법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -764,7 +828,9 @@
             "source_provision_id": "SchlPubRul:취업규정:public_2128279#JO0030",
             "reference_id": "law:영유아보육법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "영유아보육법/법률/영유아보육법.json"
+            "target_git_path_guess": "영유아보육법/법률/영유아보육법.json",
+            "target_git_path": "영유아보육법/법률/영유아보육법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -784,7 +850,9 @@
             "source_provision_id": "SchlPubRul:취업규정:public_2128279#JO0030",
             "reference_id": "law:유아교육법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "유아교육법/법률/유아교육법.json"
+            "target_git_path_guess": "유아교육법/법률/유아교육법.json",
+            "target_git_path": "유아교육법/법률/유아교육법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -804,7 +872,9 @@
             "source_provision_id": "SchlPubRul:취업규정:public_2128279#JO0030",
             "reference_id": "law:초중등교육법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "초·중등교육법/법률/초·중등교육법.json"
+            "target_git_path_guess": "초·중등교육법/법률/초·중등교육법.json",
+            "target_git_path": "초ㆍ중등교육법/법률/초ㆍ중등교육법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -824,7 +894,9 @@
             "source_provision_id": "SchlPubRul:취업규정:public_2128279#JO0030",
             "reference_id": "law:초중등교육법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "초·중등교육법/법률/초·중등교육법.json"
+            "target_git_path_guess": "초·중등교육법/법률/초·중등교육법.json",
+            "target_git_path": "초ㆍ중등교육법/법률/초ㆍ중등교육법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -844,7 +916,9 @@
             "source_provision_id": "SchlPubRul:취업규정:public_2128279#JO0030",
             "reference_id": "law:민법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -864,7 +938,9 @@
             "source_provision_id": "SchlPubRul:취업규정:public_2128279#JO0030",
             "reference_id": "law:국민건강보험법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json"
+            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json",
+            "target_git_path": "국민건강보험법/법률/국민건강보험법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -884,7 +960,9 @@
             "source_provision_id": "SchlPubRul:취업규정:public_2128279#JO0030",
             "reference_id": "law:국민건강보험법#JO0052",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json"
+            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json",
+            "target_git_path": "국민건강보험법/법률/국민건강보험법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -904,7 +982,9 @@
             "source_provision_id": "SchlPubRul:취업규정:public_2128279#JO0030",
             "reference_id": "law:감염병의예방및관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json"
+            "target_git_path_guess": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json",
+            "target_git_path": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -924,7 +1004,9 @@
             "source_provision_id": "SchlPubRul:취업규정:public_2128279#JO0030",
             "reference_id": "law:감염병의예방및관리에관한법률#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json"
+            "target_git_path_guess": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json",
+            "target_git_path": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -944,7 +1026,9 @@
             "source_provision_id": "SchlPubRul:취업규정:public_2128279#JO0030",
             "reference_id": "law:감염병의예방및관리에관한법률#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json"
+            "target_git_path_guess": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json",
+            "target_git_path": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [
@@ -986,7 +1070,9 @@
             "source_provision_id": "SchlPubRul:취업규정:public_2128279#JO0031",
             "reference_id": "law:병역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "병역법/법률/병역법.json"
+            "target_git_path_guess": "병역법/법률/병역법.json",
+            "target_git_path": "병역법/법률/병역법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1006,7 +1092,9 @@
             "source_provision_id": "SchlPubRul:취업규정:public_2128279#JO0031",
             "reference_id": "law:혈액관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "혈액관리법/법률/혈액관리법.json"
+            "target_git_path_guess": "혈액관리법/법률/혈액관리법.json",
+            "target_git_path": "혈액관리법/법률/혈액관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1026,7 +1114,9 @@
             "source_provision_id": "SchlPubRul:취업규정:public_2128279#JO0031",
             "reference_id": "law:노동조합및노동관계조정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "노동조합 및 노동관계조정법/법률/노동조합 및 노동관계조정법.json"
+            "target_git_path_guess": "노동조합 및 노동관계조정법/법률/노동조합 및 노동관계조정법.json",
+            "target_git_path": "노동조합 및 노동관계조정법/법률/노동조합 및 노동관계조정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1046,7 +1136,9 @@
             "source_provision_id": "SchlPubRul:취업규정:public_2128279#JO0031",
             "reference_id": "law:노동조합및노동관계조정법#JO0029",
             "target_repo": "LAW",
-            "target_git_path_guess": "노동조합 및 노동관계조정법/법률/노동조합 및 노동관계조정법.json"
+            "target_git_path_guess": "노동조합 및 노동관계조정법/법률/노동조합 및 노동관계조정법.json",
+            "target_git_path": "노동조합 및 노동관계조정법/법률/노동조합 및 노동관계조정법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1094,7 +1186,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:취업규정:public_2128279#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "취업규정/취업규정.json"
+            "target_git_path_guess": "취업규정/취업규정.json",
+            "target_git_path": "취업규정/public_2128279/취업규정.json",
+            "target_git_file_path": "취업규정/public_2128279/별표/별표1_경조사별 휴가일수표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1159,7 +1256,11 @@
             "source_provision_id": "SchlPubRul:취업규정:public_2128279#JO0037",
             "reference_id": "SchlPubRul:취업규정:public_2128279#JO0036",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "취업규정/취업규정.json"
+            "target_git_path_guess": "취업규정/취업규정.json",
+            "target_git_path": "취업규정/public_2128279/취업규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1189,9 +1290,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/여비규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:취업규정:public_2128279#JO0038",
-            "reference_id": "SchlPubRul:여비규정#DOC",
+            "reference_id": "SchlPubRul:여비규정:public_2130973#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "여비규정/여비규정.json"
+            "target_git_path_guess": "여비규정/여비규정.json",
+            "target_candidates": 4,
+            "target_git_path": "여비규정/public_2130973/여비규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -1211,7 +1317,11 @@
             "source_provision_id": "SchlPubRul:취업규정:public_2128279#JO0038",
             "reference_id": "SchlPubRul:공무국외출장시행내규#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "공무국외출장 시행내규/공무국외출장 시행내규.json"
+            "target_git_path_guess": "공무국외출장 시행내규/공무국외출장 시행내규.json",
+            "target_git_path": "공무국외출장 시행내규/공무국외출장 시행내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1263,9 +1373,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/보수규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:취업규정:public_2128279#JO0041",
-            "reference_id": "SchlPubRul:보수규정#DOC",
+            "reference_id": "SchlPubRul:보수규정:public_2128339#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "보수규정/보수규정.json"
+            "target_git_path_guess": "보수규정/보수규정.json",
+            "target_candidates": 3,
+            "target_git_path": "보수규정/public_2128339/보수규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1317,9 +1432,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:취업규정:public_2128279#JO0044",
-            "reference_id": "SchlPubRul:인사규정#DOC",
+            "reference_id": "SchlPubRul:인사규정:public_2130247#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json"
+            "target_git_path_guess": "인사규정/인사규정.json",
+            "target_candidates": 4,
+            "target_git_path": "인사규정/public_2130247/인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1360,9 +1480,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/보수규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:취업규정:public_2128279#JO0046",
-            "reference_id": "SchlPubRul:보수규정#DOC",
+            "reference_id": "SchlPubRul:보수규정:public_2128339#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "보수규정/보수규정.json"
+            "target_git_path_guess": "보수규정/보수규정.json",
+            "target_candidates": 3,
+            "target_git_path": "보수규정/public_2128339/보수규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -1380,9 +1505,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/연봉제규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:취업규정:public_2128279#JO0046",
-            "reference_id": "SchlPubRul:연봉제규정#DOC",
+            "reference_id": "SchlPubRul:연봉제규정:public_2128341#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "연봉제규정/연봉제규정.json"
+            "target_git_path_guess": "연봉제규정/연봉제규정.json",
+            "target_candidates": 2,
+            "target_git_path": "연봉제규정/public_2128341/연봉제규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1412,9 +1542,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:취업규정:public_2128279#JO0047",
-            "reference_id": "SchlPubRul:인사규정#DOC",
+            "reference_id": "SchlPubRul:인사규정:public_2130247#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json"
+            "target_git_path_guess": "인사규정/인사규정.json",
+            "target_candidates": 4,
+            "target_git_path": "인사규정/public_2130247/인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -1432,9 +1567,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/보수규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:취업규정:public_2128279#JO0047",
-            "reference_id": "SchlPubRul:보수규정#DOC",
+            "reference_id": "SchlPubRul:보수규정:public_2128339#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "보수규정/보수규정.json"
+            "target_git_path_guess": "보수규정/보수규정.json",
+            "target_candidates": 3,
+            "target_git_path": "보수규정/public_2128339/보수규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1464,9 +1604,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:취업규정:public_2128279#JO0048",
-            "reference_id": "SchlPubRul:인사규정#DOC",
+            "reference_id": "SchlPubRul:인사규정:public_2130247#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json"
+            "target_git_path_guess": "인사규정/인사규정.json",
+            "target_candidates": 4,
+            "target_git_path": "인사규정/public_2130247/인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1496,9 +1641,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:취업규정:public_2128279#JO0049",
-            "reference_id": "SchlPubRul:인사규정#DOC",
+            "reference_id": "SchlPubRul:인사규정:public_2130247#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json"
+            "target_git_path_guess": "인사규정/인사규정.json",
+            "target_candidates": 4,
+            "target_git_path": "인사규정/public_2130247/인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1530,7 +1680,11 @@
             "source_provision_id": "SchlPubRul:취업규정:public_2128279#JO0050",
             "reference_id": "SchlPubRul:취업규정:public_2128279#JO0048",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "취업규정/취업규정.json"
+            "target_git_path_guess": "취업규정/취업규정.json",
+            "target_git_path": "취업규정/public_2128279/취업규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -1550,7 +1704,9 @@
             "source_provision_id": "SchlPubRul:취업규정:public_2128279#JO0050",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1580,9 +1736,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:취업규정:public_2128279#JO0051",
-            "reference_id": "SchlPubRul:인사규정#DOC",
+            "reference_id": "SchlPubRul:인사규정:public_2130247#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json"
+            "target_git_path_guess": "인사규정/인사규정.json",
+            "target_candidates": 4,
+            "target_git_path": "인사규정/public_2130247/인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1633,9 +1794,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/보수규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:취업규정:public_2128279#JO0053",
-            "reference_id": "SchlPubRul:보수규정#DOC",
+            "reference_id": "SchlPubRul:보수규정:public_2128339#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "보수규정/보수규정.json"
+            "target_git_path_guess": "보수규정/보수규정.json",
+            "target_candidates": 3,
+            "target_git_path": "보수규정/public_2128339/보수규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -1655,7 +1821,9 @@
             "source_provision_id": "SchlPubRul:취업규정:public_2128279#JO0053",
             "reference_id": "law:근로자퇴직급여보장법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로자퇴직급여 보장법/법률/근로자퇴직급여 보장법.json"
+            "target_git_path_guess": "근로자퇴직급여 보장법/법률/근로자퇴직급여 보장법.json",
+            "target_git_path": "근로자퇴직급여 보장법/법률/근로자퇴직급여 보장법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1685,9 +1853,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/보수규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:취업규정:public_2128279#JO0054",
-            "reference_id": "SchlPubRul:보수규정#DOC",
+            "reference_id": "SchlPubRul:보수규정:public_2128339#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "보수규정/보수규정.json"
+            "target_git_path_guess": "보수규정/보수규정.json",
+            "target_candidates": 3,
+            "target_git_path": "보수규정/public_2128339/보수규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1717,9 +1890,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/복리후생규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:취업규정:public_2128279#JO0055",
-            "reference_id": "SchlPubRul:복리후생규정#DOC",
+            "reference_id": "SchlPubRul:복리후생규정:public_2141165#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "복리후생규정/복리후생규정.json"
+            "target_git_path_guess": "복리후생규정/복리후생규정.json",
+            "target_candidates": 3,
+            "target_git_path": "복리후생규정/public_2141165/복리후생규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1749,9 +1927,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:취업규정:public_2128279#JO0056",
-            "reference_id": "SchlPubRul:인사규정#DOC",
+            "reference_id": "SchlPubRul:인사규정:public_2130247#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json"
+            "target_git_path_guess": "인사규정/인사규정.json",
+            "target_candidates": 4,
+            "target_git_path": "인사규정/public_2130247/인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1781,9 +1964,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:취업규정:public_2128279#JO0057",
-            "reference_id": "SchlPubRul:인사규정#DOC",
+            "reference_id": "SchlPubRul:인사규정:public_2130247#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json"
+            "target_git_path_guess": "인사규정/인사규정.json",
+            "target_candidates": 4,
+            "target_git_path": "인사규정/public_2130247/인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1815,7 +2003,11 @@
             "source_provision_id": "SchlPubRul:취업규정:public_2128279#JO0058",
             "reference_id": "SchlPubRul:제안규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "제안규정/제안규정.json"
+            "target_git_path_guess": "제안규정/제안규정.json",
+            "target_git_path": "제안규정/제안규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1845,9 +2037,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/복리후생규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:취업규정:public_2128279#JO0059",
-            "reference_id": "SchlPubRul:복리후생규정#DOC",
+            "reference_id": "SchlPubRul:복리후생규정:public_2141165#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "복리후생규정/복리후생규정.json"
+            "target_git_path_guess": "복리후생규정/복리후생규정.json",
+            "target_candidates": 3,
+            "target_git_path": "복리후생규정/public_2141165/복리후생규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1877,9 +2074,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:취업규정:public_2128279#JO0060",
-            "reference_id": "SchlPubRul:인사규정#DOC",
+            "reference_id": "SchlPubRul:인사규정:public_2130247#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json"
+            "target_git_path_guess": "인사규정/인사규정.json",
+            "target_candidates": 4,
+            "target_git_path": "인사규정/public_2130247/인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -1899,7 +2101,11 @@
             "source_provision_id": "SchlPubRul:취업규정:public_2128279#JO0060",
             "reference_id": "SchlPubRul:임원복무등에관한규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "임원 복무 등에 관한 규정/임원 복무 등에 관한 규정.json"
+            "target_git_path_guess": "임원 복무 등에 관한 규정/임원 복무 등에 관한 규정.json",
+            "target_git_path": "임원 복무 등에 관한 규정/임원 복무 등에 관한 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1929,9 +2135,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/복리후생규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:취업규정:public_2128279#JO0061",
-            "reference_id": "SchlPubRul:복리후생규정#DOC",
+            "reference_id": "SchlPubRul:복리후생규정:public_2141165#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "복리후생규정/복리후생규정.json"
+            "target_git_path_guess": "복리후생규정/복리후생규정.json",
+            "target_candidates": 3,
+            "target_git_path": "복리후생규정/public_2141165/복리후생규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1974,7 +2185,12 @@
             "source_provision_id": "SchlPubRul:취업규정:public_2128279#JO0063",
             "reference_id": "SchlPubRul:임금피크제운영규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "임금피크제운영규정/임금피크제운영규정.json"
+            "target_git_path_guess": "임금피크제운영규정/임금피크제운영규정.json",
+            "target_candidates": 3,
+            "target_git_path": "임금피크제 운영 규정/임금피크제 운영 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -2247,5 +2463,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "취업규정/public_2128279/취업규정.json"
+  "git_path": "취업규정/public_2128279/취업규정.json",
+  "_schlpub_id_suffix": "public_2128279"
 }

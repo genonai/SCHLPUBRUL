@@ -76,7 +76,9 @@
             "source_provision_id": "SchlPubRul:(한국디자인진흥원)여비규정#JO0002",
             "reference_id": "law:공무원여비규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 여비 규정/법률/공무원 여비 규정.json"
+            "target_git_path_guess": "공무원 여비 규정/법률/공무원 여비 규정.json",
+            "target_git_path": "공무원 여비 규정/법률/공무원 여비 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -96,7 +98,11 @@
             "source_provision_id": "SchlPubRul:(한국디자인진흥원)여비규정#JO0002",
             "reference_id": "admrul:공무원보수등의업무지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공무원보수 등의 업무지침/공무원보수 등의 업무지침.json"
+            "target_git_path_guess": "공무원보수 등의 업무지침/공무원보수 등의 업무지침.json",
+            "target_git_path": "공무원보수 등의 업무지침/공무원보수 등의 업무지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -172,7 +178,9 @@
             "source_provision_id": "SchlPubRul:(한국디자인진흥원)여비규정#JO0007",
             "reference_id": "law:여신전문금융업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "여신전문금융업법/법률/여신전문금융업법.json"
+            "target_git_path_guess": "여신전문금융업법/법률/여신전문금융업법.json",
+            "target_git_path": "여신전문금융업법/법률/여신전문금융업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -192,7 +200,9 @@
             "source_provision_id": "SchlPubRul:(한국디자인진흥원)여비규정#JO0007",
             "reference_id": "law:여신전문금융업법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "여신전문금융업법/법률/여신전문금융업법.json"
+            "target_git_path_guess": "여신전문금융업법/법률/여신전문금융업법.json",
+            "target_git_path": "여신전문금융업법/법률/여신전문금융업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -240,7 +250,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(한국디자인진흥원)여비규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json"
+            "target_git_path_guess": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json",
+            "target_git_path": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json",
+            "target_git_file_path": "(한국디자인진흥원) 여비규정/별표/별표1_국내 여비 지급표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -277,7 +292,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(한국디자인진흥원)여비규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json"
+            "target_git_path_guess": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json",
+            "target_git_path": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json",
+            "target_git_file_path": "(한국디자인진흥원) 여비규정/별표/별표1_국내 여비 지급표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -314,7 +334,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(한국디자인진흥원)여비규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json"
+            "target_git_path_guess": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json",
+            "target_git_path": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json",
+            "target_git_file_path": "(한국디자인진흥원) 여비규정/별표/별표1_국내 여비 지급표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -339,7 +364,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:(한국디자인진흥원)여비규정#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json"
+            "target_git_path_guess": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json",
+            "target_git_path": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json",
+            "target_git_file_path": "(한국디자인진흥원) 여비규정/별표/별표2_국외 항공운임 지급 기준표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -376,7 +406,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(한국디자인진흥원)여비규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json"
+            "target_git_path_guess": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json",
+            "target_git_path": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json",
+            "target_git_file_path": "(한국디자인진흥원) 여비규정/별표/별표1_국내 여비 지급표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -424,7 +459,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(한국디자인진흥원)여비규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json"
+            "target_git_path_guess": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json",
+            "target_git_path": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json",
+            "target_git_file_path": "(한국디자인진흥원) 여비규정/별표/별표1_국내 여비 지급표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -449,7 +489,12 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:(한국디자인진흥원)여비규정#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json"
+            "target_git_path_guess": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json",
+            "target_git_path": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json",
+            "target_git_file_path": "(한국디자인진흥원) 여비규정/별표/별표3_국외 여비 지급표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -474,7 +519,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(한국디자인진흥원)여비규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json"
+            "target_git_path_guess": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json",
+            "target_git_path": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json",
+            "target_git_file_path": "(한국디자인진흥원) 여비규정/별표/별표1_국내 여비 지급표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -499,7 +549,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:(한국디자인진흥원)여비규정#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json"
+            "target_git_path_guess": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json",
+            "target_git_path": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json",
+            "target_git_file_path": "(한국디자인진흥원) 여비규정/별표/별표2_국외 항공운임 지급 기준표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -542,7 +597,11 @@
             "source_provision_id": "SchlPubRul:(한국디자인진흥원)여비규정#JO0016",
             "reference_id": "SchlPubRul:(한국디자인진흥원)여비규정#JO0014",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json"
+            "target_git_path_guess": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json",
+            "target_git_path": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -567,7 +626,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(한국디자인진흥원)여비규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json"
+            "target_git_path_guess": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json",
+            "target_git_path": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json",
+            "target_git_file_path": "(한국디자인진흥원) 여비규정/별표/별표1_국내 여비 지급표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -615,7 +679,12 @@
             "target_unit": "BYL0004",
             "reference_id": "SchlPubRul:(한국디자인진흥원)여비규정#BYL0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json"
+            "target_git_path_guess": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json",
+            "target_git_path": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json",
+            "target_git_file_path": "(한국디자인진흥원) 여비규정/별표/별표4_이전비 지급 기준표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -647,7 +716,11 @@
             "source_provision_id": "SchlPubRul:(한국디자인진흥원)여비규정#JO0019",
             "reference_id": "SchlPubRul:(한국디자인진흥원)여비규정#JO0018",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json"
+            "target_git_path_guess": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json",
+            "target_git_path": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -684,7 +757,12 @@
             "target_unit": "BYL0005",
             "reference_id": "SchlPubRul:(한국디자인진흥원)여비규정#BYL0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json"
+            "target_git_path_guess": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json",
+            "target_git_path": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json",
+            "target_git_file_path": "(한국디자인진흥원) 여비규정/별표/별표5_국외 가족여비 지급 기준표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -716,7 +794,11 @@
             "source_provision_id": "SchlPubRul:(한국디자인진흥원)여비규정#JO0021",
             "reference_id": "SchlPubRul:(한국디자인진흥원)여비규정#JO0020",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json"
+            "target_git_path_guess": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json",
+            "target_git_path": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -759,7 +841,11 @@
             "source_provision_id": "SchlPubRul:(한국디자인진흥원)여비규정#JO0023",
             "reference_id": "SchlPubRul:(한국디자인진흥원)여비규정#JO0020",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json"
+            "target_git_path_guess": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json",
+            "target_git_path": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -779,7 +865,11 @@
             "source_provision_id": "SchlPubRul:(한국디자인진흥원)여비규정#JO0023",
             "reference_id": "SchlPubRul:(한국디자인진흥원)여비규정#JO0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json"
+            "target_git_path_guess": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json",
+            "target_git_path": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -799,7 +889,11 @@
             "source_provision_id": "SchlPubRul:(한국디자인진흥원)여비규정#JO0023",
             "reference_id": "SchlPubRul:(한국디자인진흥원)여비규정#JO0014",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json"
+            "target_git_path_guess": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json",
+            "target_git_path": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -819,7 +913,11 @@
             "source_provision_id": "SchlPubRul:(한국디자인진흥원)여비규정#JO0023",
             "reference_id": "SchlPubRul:(한국디자인진흥원)여비규정#JO0020",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json"
+            "target_git_path_guess": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json",
+            "target_git_path": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -839,7 +937,11 @@
             "source_provision_id": "SchlPubRul:(한국디자인진흥원)여비규정#JO0023",
             "reference_id": "SchlPubRul:(한국디자인진흥원)여비규정#JO0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json"
+            "target_git_path_guess": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json",
+            "target_git_path": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -859,7 +961,11 @@
             "source_provision_id": "SchlPubRul:(한국디자인진흥원)여비규정#JO0023",
             "reference_id": "SchlPubRul:(한국디자인진흥원)여비규정#JO0014",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json"
+            "target_git_path_guess": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json",
+            "target_git_path": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -907,7 +1013,12 @@
             "target_unit": "BYL0006",
             "reference_id": "SchlPubRul:(한국디자인진흥원)여비규정#BYL0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json"
+            "target_git_path_guess": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json",
+            "target_git_path": "(한국디자인진흥원) 여비규정/(한국디자인진흥원) 여비규정.json",
+            "target_git_file_path": "(한국디자인진흥원) 여비규정/별표/별표6_임직원이 아닌 사람에 대한 여비 지급 구분표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

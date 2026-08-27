@@ -92,7 +92,8 @@
             "target_unit": "BYL0006",
             "reference_id": "SchlPubRul:5200연봉제규정#BYL0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "5200 연봉제규정/5200 연봉제규정.json"
+            "target_git_path_guess": "5200 연봉제규정/5200 연봉제규정.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -140,7 +141,8 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:5200연봉제규정#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "5200 연봉제규정/5200 연봉제규정.json"
+            "target_git_path_guess": "5200 연봉제규정/5200 연봉제규정.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -194,7 +196,11 @@
             "source_provision_id": "SchlPubRul:5200연봉제규정#JO0008",
             "reference_id": "SchlPubRul:5200연봉제규정#JO0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "5200 연봉제규정/5200 연봉제규정.json"
+            "target_git_path_guess": "5200 연봉제규정/5200 연봉제규정.json",
+            "target_git_path": "5200 연봉제규정/5200 연봉제규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -259,7 +265,11 @@
             "source_provision_id": "SchlPubRul:5200연봉제규정#JO0011_02",
             "reference_id": "SchlPubRul:5200연봉제규정#JO0015",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "5200 연봉제규정/5200 연봉제규정.json"
+            "target_git_path_guess": "5200 연봉제규정/5200 연봉제규정.json",
+            "target_git_path": "5200 연봉제규정/5200 연봉제규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -279,7 +289,11 @@
             "source_provision_id": "SchlPubRul:5200연봉제규정#JO0011_02",
             "reference_id": "SchlPubRul:5200연봉제규정#JO0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "5200 연봉제규정/5200 연봉제규정.json"
+            "target_git_path_guess": "5200 연봉제규정/5200 연봉제규정.json",
+            "target_git_path": "5200 연봉제규정/5200 연봉제규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -536,7 +550,8 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:5200연봉제규정#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "5200 연봉제규정/5200 연봉제규정.json"
+            "target_git_path_guess": "5200 연봉제규정/5200 연봉제규정.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],

@@ -65,7 +65,11 @@
             "source_provision_id": "SchlPubRul:고객서비스헌장운영내규#JO0001",
             "reference_id": "admrul:행정서비스헌장규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "행정서비스헌장규정/행정서비스헌장규정.json"
+            "target_git_path_guess": "행정서비스헌장규정/행정서비스헌장규정.json",
+            "target_git_path": "행정서비스헌장규정/행정서비스헌장규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -196,7 +200,11 @@
             "source_provision_id": "SchlPubRul:고객서비스헌장운영내규#JO0011",
             "reference_id": "SchlPubRul:고객서비스헌장운영내규#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "고객서비스헌장 운영내규/고객서비스헌장 운영내규.json"
+            "target_git_path_guess": "고객서비스헌장 운영내규/고객서비스헌장 운영내규.json",
+            "target_git_path": "고객서비스헌장 운영내규/고객서비스헌장 운영내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],

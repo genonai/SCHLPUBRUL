@@ -87,7 +87,9 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)경영공시관리기준#JO0003",
             "reference_id": "law:공공기관의운영에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/시행령/공공기관의 운영에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/시행령/공공기관의 운영에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/시행령/공공기관의 운영에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -245,7 +247,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(한국소비자원)경영공시관리기준#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국소비자원) 경영공시관리기준/(한국소비자원) 경영공시관리기준.json"
+            "target_git_path_guess": "(한국소비자원) 경영공시관리기준/(한국소비자원) 경영공시관리기준.json",
+            "target_git_path": "(한국소비자원) 경영공시관리기준/(한국소비자원) 경영공시관리기준.json",
+            "target_git_file_path": "(한국소비자원) 경영공시관리기준/별지/별지1_불성실공시 예방을 위한 개선 계획서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

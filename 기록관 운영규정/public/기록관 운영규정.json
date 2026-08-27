@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:기록관운영규정:public#JO0001",
             "reference_id": "law:공공기록물관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -642,5 +644,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "기록관 운영규정/public/기록관 운영규정.json"
+  "git_path": "기록관 운영규정/public/기록관 운영규정.json",
+  "_schlpub_id_suffix": "public"
 }

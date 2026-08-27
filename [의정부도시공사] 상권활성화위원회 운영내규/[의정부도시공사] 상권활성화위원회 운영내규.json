@@ -98,7 +98,9 @@
             "source_provision_id": "SchlPubRul:[의정부도시공사]상권활성화위원회운영내규#JO0004",
             "reference_id": "law:고등교육법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고등교육법/법률/고등교육법.json"
+            "target_git_path_guess": "고등교육법/법률/고등교육법.json",
+            "target_git_path": "고등교육법/법률/고등교육법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -179,7 +181,8 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:[의정부도시공사]상권활성화위원회운영내규#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "[의정부도시공사] 상권활성화위원회 운영내규/[의정부도시공사] 상권활성화위원회 운영내규.json"
+            "target_git_path_guess": "[의정부도시공사] 상권활성화위원회 운영내규/[의정부도시공사] 상권활성화위원회 운영내규.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "appendix_ref",
@@ -204,7 +207,8 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:[의정부도시공사]상권활성화위원회운영내규#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "[의정부도시공사] 상권활성화위원회 운영내규/[의정부도시공사] 상권활성화위원회 운영내규.json"
+            "target_git_path_guess": "[의정부도시공사] 상권활성화위원회 운영내규/[의정부도시공사] 상권활성화위원회 운영내규.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],

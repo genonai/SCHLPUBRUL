@@ -87,7 +87,9 @@
             "source_provision_id": "SchlPubRul:대한적십자사사무관리시행규칙:pi_2140573#JO0003",
             "reference_id": "law:전기통신사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기통신사업법/법률/전기통신사업법.json"
+            "target_git_path_guess": "전기통신사업법/법률/전기통신사업법.json",
+            "target_git_path": "전기통신사업법/법률/전기통신사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +109,9 @@
             "source_provision_id": "SchlPubRul:대한적십자사사무관리시행규칙:pi_2140573#JO0003",
             "reference_id": "law:전기통신사업법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기통신사업법/법률/전기통신사업법.json"
+            "target_git_path_guess": "전기통신사업법/법률/전기통신사업법.json",
+            "target_git_path": "전기통신사업법/법률/전기통신사업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -172,7 +176,9 @@
             "source_provision_id": "SchlPubRul:대한적십자사사무관리시행규칙:pi_2140573#JO0007",
             "reference_id": "law:국어기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국어기본법/법률/국어기본법.json"
+            "target_git_path_guess": "국어기본법/법률/국어기본법.json",
+            "target_git_path": "국어기본법/법률/국어기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -192,7 +198,9 @@
             "source_provision_id": "SchlPubRul:대한적십자사사무관리시행규칙:pi_2140573#JO0007",
             "reference_id": "law:국어기본법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "국어기본법/법률/국어기본법.json"
+            "target_git_path_guess": "국어기본법/법률/국어기본법.json",
+            "target_git_path": "국어기본법/법률/국어기본법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -229,7 +237,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:대한적십자사사무관리시행규칙:pi_2140573#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "대한적십자사 사무관리 시행규칙/대한적십자사 사무관리 시행규칙.json"
+            "target_git_path_guess": "대한적십자사 사무관리 시행규칙/대한적십자사 사무관리 시행규칙.json",
+            "target_git_path": "대한적십자사 사무관리 시행규칙/pi_2140573/대한적십자사 사무관리 시행규칙.json",
+            "target_git_file_path": "대한적십자사 사무관리 시행규칙/pi_2140573/별지/별지1_시행문.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -261,7 +274,11 @@
             "source_provision_id": "SchlPubRul:대한적십자사사무관리시행규칙:pi_2140573#JO0009",
             "reference_id": "SchlPubRul:대한적십자사사무관리시행규칙:pi_2140573#JO0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "대한적십자사 사무관리 시행규칙/대한적십자사 사무관리 시행규칙.json"
+            "target_git_path_guess": "대한적십자사 사무관리 시행규칙/대한적십자사 사무관리 시행규칙.json",
+            "target_git_path": "대한적십자사 사무관리 시행규칙/pi_2140573/대한적십자사 사무관리 시행규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -286,7 +303,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:대한적십자사사무관리시행규칙:pi_2140573#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "대한적십자사 사무관리 시행규칙/대한적십자사 사무관리 시행규칙.json"
+            "target_git_path_guess": "대한적십자사 사무관리 시행규칙/대한적십자사 사무관리 시행규칙.json",
+            "target_git_path": "대한적십자사 사무관리 시행규칙/pi_2140573/대한적십자사 사무관리 시행규칙.json",
+            "target_git_file_path": "대한적십자사 사무관리 시행규칙/pi_2140573/별지/별지2_기안문.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -306,7 +328,11 @@
             "source_provision_id": "SchlPubRul:대한적십자사사무관리시행규칙:pi_2140573#JO0009",
             "reference_id": "SchlPubRul:대한적십자사사무관리시행규칙:pi_2140573#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "대한적십자사 사무관리 시행규칙/대한적십자사 사무관리 시행규칙.json"
+            "target_git_path_guess": "대한적십자사 사무관리 시행규칙/대한적십자사 사무관리 시행규칙.json",
+            "target_git_path": "대한적십자사 사무관리 시행규칙/pi_2140573/대한적십자사 사무관리 시행규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -387,7 +413,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:대한적십자사사무관리시행규칙:pi_2140573#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "대한적십자사 사무관리 시행규칙/대한적십자사 사무관리 시행규칙.json"
+            "target_git_path_guess": "대한적십자사 사무관리 시행규칙/대한적십자사 사무관리 시행규칙.json",
+            "target_git_path": "대한적십자사 사무관리 시행규칙/pi_2140573/대한적십자사 사무관리 시행규칙.json",
+            "target_git_file_path": "대한적십자사 사무관리 시행규칙/pi_2140573/별지/별지1_시행문.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -501,7 +532,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:대한적십자사사무관리시행규칙:pi_2140573#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "대한적십자사 사무관리 시행규칙/대한적십자사 사무관리 시행규칙.json"
+            "target_git_path_guess": "대한적십자사 사무관리 시행규칙/대한적십자사 사무관리 시행규칙.json",
+            "target_git_path": "대한적십자사 사무관리 시행규칙/pi_2140573/대한적십자사 사무관리 시행규칙.json",
+            "target_git_file_path": "대한적십자사 사무관리 시행규칙/pi_2140573/별표/별표1_사인.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -526,7 +562,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:대한적십자사사무관리시행규칙:pi_2140573#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "대한적십자사 사무관리 시행규칙/대한적십자사 사무관리 시행규칙.json"
+            "target_git_path_guess": "대한적십자사 사무관리 시행규칙/대한적십자사 사무관리 시행규칙.json",
+            "target_git_path": "대한적십자사 사무관리 시행규칙/pi_2140573/대한적십자사 사무관리 시행규칙.json",
+            "target_git_file_path": "대한적십자사 사무관리 시행규칙/pi_2140573/별표/별표2_직인.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -551,7 +592,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:대한적십자사사무관리시행규칙:pi_2140573#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "대한적십자사 사무관리 시행규칙/대한적십자사 사무관리 시행규칙.json"
+            "target_git_path_guess": "대한적십자사 사무관리 시행규칙/대한적십자사 사무관리 시행규칙.json",
+            "target_git_path": "대한적십자사 사무관리 시행규칙/pi_2140573/대한적십자사 사무관리 시행규칙.json",
+            "target_git_file_path": "대한적십자사 사무관리 시행규칙/pi_2140573/별표/별표1_사인.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -588,7 +634,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:대한적십자사사무관리시행규칙:pi_2140573#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "대한적십자사 사무관리 시행규칙/대한적십자사 사무관리 시행규칙.json"
+            "target_git_path_guess": "대한적십자사 사무관리 시행규칙/대한적십자사 사무관리 시행규칙.json",
+            "target_git_path": "대한적십자사 사무관리 시행규칙/pi_2140573/대한적십자사 사무관리 시행규칙.json",
+            "target_git_file_path": "대한적십자사 사무관리 시행규칙/pi_2140573/별지/별지3_인장대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -625,7 +676,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:대한적십자사사무관리시행규칙:pi_2140573#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "대한적십자사 사무관리 시행규칙/대한적십자사 사무관리 시행규칙.json"
+            "target_git_path_guess": "대한적십자사 사무관리 시행규칙/대한적십자사 사무관리 시행규칙.json",
+            "target_git_path": "대한적십자사 사무관리 시행규칙/pi_2140573/대한적십자사 사무관리 시행규칙.json",
+            "target_git_file_path": "대한적십자사 사무관리 시행규칙/pi_2140573/별지/별지3_인장대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -684,7 +740,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:대한적십자사사무관리시행규칙:pi_2140573#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "대한적십자사 사무관리 시행규칙/대한적십자사 사무관리 시행규칙.json"
+            "target_git_path_guess": "대한적십자사 사무관리 시행규칙/대한적십자사 사무관리 시행규칙.json",
+            "target_git_path": "대한적십자사 사무관리 시행규칙/pi_2140573/대한적십자사 사무관리 시행규칙.json",
+            "target_git_file_path": "대한적십자사 사무관리 시행규칙/pi_2140573/별지/별지5_업무인계·인수서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1002,5 +1063,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "대한적십자사 사무관리 시행규칙/pi_2140573/대한적십자사 사무관리 시행규칙.json"
+  "git_path": "대한적십자사 사무관리 시행규칙/pi_2140573/대한적십자사 사무관리 시행규칙.json",
+  "_schlpub_id_suffix": "pi_2140573"
 }

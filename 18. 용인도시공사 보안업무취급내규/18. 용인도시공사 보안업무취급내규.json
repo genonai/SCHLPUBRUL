@@ -76,7 +76,9 @@
             "source_provision_id": "SchlPubRul:18.용인도시공사보안업무취급내규#JO0002",
             "reference_id": "law:보안업무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -108,7 +110,11 @@
             "source_provision_id": "SchlPubRul:18.용인도시공사보안업무취급내규#JO0003",
             "reference_id": "admrul:보안업무규정시행규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json"
+            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_git_path": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -128,7 +134,11 @@
             "source_provision_id": "SchlPubRul:18.용인도시공사보안업무취급내규#JO0003",
             "reference_id": "admrul:행정안전부보안업무규정시행세칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "행정안전부 보안업무규정 시행세칙/행정안전부 보안업무규정 시행세칙.json"
+            "target_git_path_guess": "행정안전부 보안업무규정 시행세칙/행정안전부 보안업무규정 시행세칙.json",
+            "target_git_path": "행정안전부 보안업무규정 시행세칙/행정안전부 보안업무규정 시행세칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -148,7 +158,9 @@
             "source_provision_id": "SchlPubRul:18.용인도시공사보안업무취급내규#JO0003",
             "reference_id": "law:보안업무규정#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -168,7 +180,9 @@
             "source_provision_id": "SchlPubRul:18.용인도시공사보안업무취급내규#JO0003",
             "reference_id": "law:공공기록물관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -260,7 +274,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:18.용인도시공사보안업무취급내규#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json"
+            "target_git_path_guess": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json",
+            "target_git_path": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json",
+            "target_git_file_path": "18. 용인도시공사 보안업무취급내규/별지/별지1_서약.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -292,7 +311,11 @@
             "source_provision_id": "SchlPubRul:18.용인도시공사보안업무취급내규#JO0010",
             "reference_id": "SchlPubRul:18.용인도시공사보안업무취급내규#JO0038",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json"
+            "target_git_path_guess": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json",
+            "target_git_path": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -312,7 +335,11 @@
             "source_provision_id": "SchlPubRul:18.용인도시공사보안업무취급내규#JO0010",
             "reference_id": "SchlPubRul:18.용인도시공사보안업무취급내규#JO0038",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json"
+            "target_git_path_guess": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json",
+            "target_git_path": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -366,7 +393,9 @@
             "source_provision_id": "SchlPubRul:18.용인도시공사보안업무취급내규#JO0013",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -386,7 +415,9 @@
             "source_provision_id": "SchlPubRul:18.용인도시공사보안업무취급내규#JO0013",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -445,7 +476,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:18.용인도시공사보안업무취급내규#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json"
+            "target_git_path_guess": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json",
+            "target_git_path": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json",
+            "target_git_file_path": "18. 용인도시공사 보안업무취급내규/별표/별표1_대외비 세부분류기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -477,7 +513,11 @@
             "source_provision_id": "SchlPubRul:18.용인도시공사보안업무취급내규#JO0017",
             "reference_id": "admrul:보안업무규정시행규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json"
+            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_git_path": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -497,7 +537,11 @@
             "source_provision_id": "SchlPubRul:18.용인도시공사보안업무취급내규#JO0017",
             "reference_id": "admrul:보안업무규정시행규칙#JO0009",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json"
+            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_git_path": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -522,7 +566,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:18.용인도시공사보안업무취급내규#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json"
+            "target_git_path_guess": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json",
+            "target_git_path": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json",
+            "target_git_file_path": "18. 용인도시공사 보안업무취급내규/별표/별표1_대외비 세부분류기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -570,7 +619,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:18.용인도시공사보안업무취급내규#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json"
+            "target_git_path_guess": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json",
+            "target_git_path": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json",
+            "target_git_file_path": "18. 용인도시공사 보안업무취급내규/별지/별지2_대외비 서식 1.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -595,7 +649,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:18.용인도시공사보안업무취급내규#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json"
+            "target_git_path_guess": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json",
+            "target_git_path": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json",
+            "target_git_file_path": "18. 용인도시공사 보안업무취급내규/별지/별지3_대외비 서식 2.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -615,7 +674,11 @@
             "source_provision_id": "SchlPubRul:18.용인도시공사보안업무취급내규#JO0019",
             "reference_id": "admrul:보안업무규정시행규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json"
+            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_git_path": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -635,7 +698,11 @@
             "source_provision_id": "SchlPubRul:18.용인도시공사보안업무취급내규#JO0019",
             "reference_id": "admrul:보안업무규정시행규칙#JO0009",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json"
+            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_git_path": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -660,7 +727,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:18.용인도시공사보안업무취급내규#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json"
+            "target_git_path_guess": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json",
+            "target_git_path": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json",
+            "target_git_file_path": "18. 용인도시공사 보안업무취급내규/별지/별지4_대외비 배부대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -685,7 +757,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:18.용인도시공사보안업무취급내규#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json"
+            "target_git_path_guess": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json",
+            "target_git_path": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json",
+            "target_git_file_path": "18. 용인도시공사 보안업무취급내규/별지/별지5_대외비관리기록부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -717,7 +794,9 @@
             "source_provision_id": "SchlPubRul:18.용인도시공사보안업무취급내규#JO0020",
             "reference_id": "law:공공기록물관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -742,7 +821,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:18.용인도시공사보안업무취급내규#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json"
+            "target_git_path_guess": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json",
+            "target_git_path": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json",
+            "target_git_file_path": "18. 용인도시공사 보안업무취급내규/별지/별지5_대외비관리기록부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -762,7 +846,11 @@
             "source_provision_id": "SchlPubRul:18.용인도시공사보안업무취급내규#JO0020",
             "reference_id": "SchlPubRul:18.용인도시공사보안업무취급내규#JO0028",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json"
+            "target_git_path_guess": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json",
+            "target_git_path": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -782,7 +870,11 @@
             "source_provision_id": "SchlPubRul:18.용인도시공사보안업무취급내규#JO0020",
             "reference_id": "SchlPubRul:18.용인도시공사보안업무취급내규#JO0023",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json"
+            "target_git_path_guess": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json",
+            "target_git_path": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -819,7 +911,12 @@
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:18.용인도시공사보안업무취급내규#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json"
+            "target_git_path_guess": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json",
+            "target_git_path": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json",
+            "target_git_file_path": "18. 용인도시공사 보안업무취급내규/별지/별지6_대외비열람 대출 반출부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -844,7 +941,12 @@
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:18.용인도시공사보안업무취급내규#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json"
+            "target_git_path_guess": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json",
+            "target_git_path": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json",
+            "target_git_file_path": "18. 용인도시공사 보안업무취급내규/별지/별지7_대외비열람기록전.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -869,7 +971,12 @@
             "target_unit": "BJ0008",
             "reference_id": "SchlPubRul:18.용인도시공사보안업무취급내규#BJ0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json"
+            "target_git_path_guess": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json",
+            "target_git_path": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json",
+            "target_git_file_path": "18. 용인도시공사 보안업무취급내규/별지/별지8_대외비발간기록부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -889,7 +996,11 @@
             "source_provision_id": "SchlPubRul:18.용인도시공사보안업무취급내규#JO0021",
             "reference_id": "SchlPubRul:18.용인도시공사보안업무취급내규#JO0019",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json"
+            "target_git_path_guess": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json",
+            "target_git_path": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -914,7 +1025,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:18.용인도시공사보안업무취급내규#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json"
+            "target_git_path_guess": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json",
+            "target_git_path": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json",
+            "target_git_file_path": "18. 용인도시공사 보안업무취급내규/별지/별지1_서약.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -951,7 +1067,12 @@
             "target_unit": "BJ0009",
             "reference_id": "SchlPubRul:18.용인도시공사보안업무취급내규#BJ0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json"
+            "target_git_path_guess": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json",
+            "target_git_path": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json",
+            "target_git_file_path": "18. 용인도시공사 보안업무취급내규/별지/별지9_대외비 인계 인수서(대외비관리기록부).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -988,7 +1109,12 @@
             "target_unit": "BJ0009",
             "reference_id": "SchlPubRul:18.용인도시공사보안업무취급내규#BJ0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json"
+            "target_git_path_guess": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json",
+            "target_git_path": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json",
+            "target_git_file_path": "18. 용인도시공사 보안업무취급내규/별지/별지9_대외비 인계 인수서(대외비관리기록부).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1058,7 +1184,12 @@
             "target_unit": "BJ0010",
             "reference_id": "SchlPubRul:18.용인도시공사보안업무취급내규#BJ0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json"
+            "target_git_path_guess": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json",
+            "target_git_path": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json",
+            "target_git_file_path": "18. 용인도시공사 보안업무취급내규/별지/별지10_대외비반출승인서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1090,7 +1221,9 @@
             "source_provision_id": "SchlPubRul:18.용인도시공사보안업무취급내규#JO0028",
             "reference_id": "law:공공기록물관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1138,7 +1271,12 @@
             "target_unit": "BJ0011",
             "reference_id": "SchlPubRul:18.용인도시공사보안업무취급내규#BJ0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json"
+            "target_git_path_guess": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json",
+            "target_git_path": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json",
+            "target_git_file_path": "18. 용인도시공사 보안업무취급내규/별지/별지11_접수증.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1186,7 +1324,12 @@
             "target_unit": "BJ0012",
             "reference_id": "SchlPubRul:18.용인도시공사보안업무취급내규#BJ0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json"
+            "target_git_path_guess": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json",
+            "target_git_path": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json",
+            "target_git_file_path": "18. 용인도시공사 보안업무취급내규/별지/별지12_보호지역대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1223,7 +1366,12 @@
             "target_unit": "BJ0013",
             "reference_id": "SchlPubRul:18.용인도시공사보안업무취급내규#BJ0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json"
+            "target_git_path_guess": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json",
+            "target_git_path": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json",
+            "target_git_file_path": "18. 용인도시공사 보안업무취급내규/별지/별지13_제한구역또는 통제구역 출입자명부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1266,7 +1414,9 @@
             "source_provision_id": "SchlPubRul:18.용인도시공사보안업무취급내규#JO0035",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1286,7 +1436,9 @@
             "source_provision_id": "SchlPubRul:18.용인도시공사보안업무취급내규#JO0035",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1329,7 +1481,9 @@
             "source_provision_id": "SchlPubRul:18.용인도시공사보안업무취급내규#JO0037",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1349,7 +1503,9 @@
             "source_provision_id": "SchlPubRul:18.용인도시공사보안업무취급내규#JO0037",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1369,7 +1525,11 @@
             "source_provision_id": "SchlPubRul:18.용인도시공사보안업무취급내규#JO0037",
             "reference_id": "SchlPubRul:18.용인도시공사보안업무취급내규#JO0034",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json"
+            "target_git_path_guess": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json",
+            "target_git_path": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -1389,7 +1549,11 @@
             "source_provision_id": "SchlPubRul:18.용인도시공사보안업무취급내규#JO0037",
             "reference_id": "SchlPubRul:18.용인도시공사보안업무취급내규#JO0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json"
+            "target_git_path_guess": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json",
+            "target_git_path": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1414,7 +1578,12 @@
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:18.용인도시공사보안업무취급내규#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json"
+            "target_git_path_guess": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json",
+            "target_git_path": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json",
+            "target_git_file_path": "18. 용인도시공사 보안업무취급내규/별지/별지6_대외비열람 대출 반출부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1462,7 +1631,12 @@
             "target_unit": "BJ0014",
             "reference_id": "SchlPubRul:18.용인도시공사보안업무취급내규#BJ0014",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json"
+            "target_git_path_guess": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json",
+            "target_git_path": "18. 용인도시공사 보안업무취급내규/18. 용인도시공사 보안업무취급내규.json",
+            "target_git_file_path": "18. 용인도시공사 보안업무취급내규/별지/별지14_보안점검표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],

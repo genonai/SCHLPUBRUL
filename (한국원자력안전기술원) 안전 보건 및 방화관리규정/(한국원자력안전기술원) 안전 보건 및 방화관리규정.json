@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:(한국원자력안전기술원)안전보건및방화관리규정#JO0001",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -85,7 +87,9 @@
             "source_provision_id": "SchlPubRul:(한국원자력안전기술원)안전보건및방화관리규정#JO0001",
             "reference_id": "law:소방기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방기본법/법률/소방기본법.json"
+            "target_git_path_guess": "소방기본법/법률/소방기본법.json",
+            "target_git_path": "소방기본법/법률/소방기본법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -117,7 +121,11 @@
             "source_provision_id": "SchlPubRul:(한국원자력안전기술원)안전보건및방화관리규정#JO0002",
             "reference_id": "SchlPubRul:(한국원자력안전기술원)안전보건및방화관리규정#JO0015",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국원자력안전기술원) 안전 보건 및 방화관리규정/(한국원자력안전기술원) 안전 보건 및 방화관리규정.json"
+            "target_git_path_guess": "(한국원자력안전기술원) 안전 보건 및 방화관리규정/(한국원자력안전기술원) 안전 보건 및 방화관리규정.json",
+            "target_git_path": "(한국원자력안전기술원) 안전 보건 및 방화관리규정/(한국원자력안전기술원) 안전 보건 및 방화관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -137,7 +145,11 @@
             "source_provision_id": "SchlPubRul:(한국원자력안전기술원)안전보건및방화관리규정#JO0002",
             "reference_id": "SchlPubRul:(한국원자력안전기술원)안전보건및방화관리규정#JO0017",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국원자력안전기술원) 안전 보건 및 방화관리규정/(한국원자력안전기술원) 안전 보건 및 방화관리규정.json"
+            "target_git_path_guess": "(한국원자력안전기술원) 안전 보건 및 방화관리규정/(한국원자력안전기술원) 안전 보건 및 방화관리규정.json",
+            "target_git_path": "(한국원자력안전기술원) 안전 보건 및 방화관리규정/(한국원자력안전기술원) 안전 보건 및 방화관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -169,7 +181,9 @@
             "source_provision_id": "SchlPubRul:(한국원자력안전기술원)안전보건및방화관리규정#JO0003",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -209,7 +223,9 @@
             "source_provision_id": "SchlPubRul:(한국원자력안전기술원)안전보건및방화관리규정#JO0003",
             "reference_id": "law:소방기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방기본법/법률/소방기본법.json"
+            "target_git_path_guess": "소방기본법/법률/소방기본법.json",
+            "target_git_path": "소방기본법/법률/소방기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -229,7 +245,9 @@
             "source_provision_id": "SchlPubRul:(한국원자력안전기술원)안전보건및방화관리규정#JO0003",
             "reference_id": "law:고압가스안전관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고압가스 안전관리법/법률/고압가스 안전관리법.json"
+            "target_git_path_guess": "고압가스 안전관리법/법률/고압가스 안전관리법.json",
+            "target_git_path": "고압가스 안전관리법/법률/고압가스 안전관리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -277,7 +295,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(한국원자력안전기술원)안전보건및방화관리규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국원자력안전기술원) 안전 보건 및 방화관리규정/(한국원자력안전기술원) 안전 보건 및 방화관리규정.json"
+            "target_git_path_guess": "(한국원자력안전기술원) 안전 보건 및 방화관리규정/(한국원자력안전기술원) 안전 보건 및 방화관리규정.json",
+            "target_git_path": "(한국원자력안전기술원) 안전 보건 및 방화관리규정/(한국원자력안전기술원) 안전 보건 및 방화관리규정.json",
+            "target_git_file_path": "(한국원자력안전기술원) 안전 보건 및 방화관리규정/별표/별표1_안전, 보건 및 방화관리 조직도.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -309,7 +332,11 @@
             "source_provision_id": "SchlPubRul:(한국원자력안전기술원)안전보건및방화관리규정#JO0006",
             "reference_id": "SchlPubRul:(한국원자력안전기술원)안전보건및방화관리규정#JO0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국원자력안전기술원) 안전 보건 및 방화관리규정/(한국원자력안전기술원) 안전 보건 및 방화관리규정.json"
+            "target_git_path_guess": "(한국원자력안전기술원) 안전 보건 및 방화관리규정/(한국원자력안전기술원) 안전 보건 및 방화관리규정.json",
+            "target_git_path": "(한국원자력안전기술원) 안전 보건 및 방화관리규정/(한국원자력안전기술원) 안전 보건 및 방화관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -363,7 +390,11 @@
             "source_provision_id": "SchlPubRul:(한국원자력안전기술원)안전보건및방화관리규정#JO0009",
             "reference_id": "SchlPubRul:(한국원자력안전기술원)안전보건및방화관리규정#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국원자력안전기술원) 안전 보건 및 방화관리규정/(한국원자력안전기술원) 안전 보건 및 방화관리규정.json"
+            "target_git_path_guess": "(한국원자력안전기술원) 안전 보건 및 방화관리규정/(한국원자력안전기술원) 안전 보건 및 방화관리규정.json",
+            "target_git_path": "(한국원자력안전기술원) 안전 보건 및 방화관리규정/(한국원자력안전기술원) 안전 보건 및 방화관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -395,7 +426,11 @@
             "source_provision_id": "SchlPubRul:(한국원자력안전기술원)안전보건및방화관리규정#JO0010",
             "reference_id": "SchlPubRul:(한국원자력안전기술원)안전보건및방화관리규정#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국원자력안전기술원) 안전 보건 및 방화관리규정/(한국원자력안전기술원) 안전 보건 및 방화관리규정.json"
+            "target_git_path_guess": "(한국원자력안전기술원) 안전 보건 및 방화관리규정/(한국원자력안전기술원) 안전 보건 및 방화관리규정.json",
+            "target_git_path": "(한국원자력안전기술원) 안전 보건 및 방화관리규정/(한국원자력안전기술원) 안전 보건 및 방화관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -559,7 +594,11 @@
             "source_provision_id": "SchlPubRul:(한국원자력안전기술원)안전보건및방화관리규정#JO0021_02",
             "reference_id": "admrul:사업장위험성평가에관한지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "사업장 위험성평가에 관한 지침/사업장 위험성평가에 관한 지침.json"
+            "target_git_path_guess": "사업장 위험성평가에 관한 지침/사업장 위험성평가에 관한 지침.json",
+            "target_git_path": "사업장 위험성평가에 관한 지침/사업장 위험성평가에 관한 지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -815,7 +854,12 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:(한국원자력안전기술원)안전보건및방화관리규정#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국원자력안전기술원) 안전 보건 및 방화관리규정/(한국원자력안전기술원) 안전 보건 및 방화관리규정.json"
+            "target_git_path_guess": "(한국원자력안전기술원) 안전 보건 및 방화관리규정/(한국원자력안전기술원) 안전 보건 및 방화관리규정.json",
+            "target_git_path": "(한국원자력안전기술원) 안전 보건 및 방화관리규정/(한국원자력안전기술원) 안전 보건 및 방화관리규정.json",
+            "target_git_file_path": "(한국원자력안전기술원) 안전 보건 및 방화관리규정/별표/별표3_가동기기사용통보서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -852,7 +896,12 @@
             "target_unit": "BYL0004",
             "reference_id": "SchlPubRul:(한국원자력안전기술원)안전보건및방화관리규정#BYL0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국원자력안전기술원) 안전 보건 및 방화관리규정/(한국원자력안전기술원) 안전 보건 및 방화관리규정.json"
+            "target_git_path_guess": "(한국원자력안전기술원) 안전 보건 및 방화관리규정/(한국원자력안전기술원) 안전 보건 및 방화관리규정.json",
+            "target_git_path": "(한국원자력안전기술원) 안전 보건 및 방화관리규정/(한국원자력안전기술원) 안전 보건 및 방화관리규정.json",
+            "target_git_file_path": "(한국원자력안전기술원) 안전 보건 및 방화관리규정/별표/별표4_일일 안전·보안 점검표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

@@ -76,7 +76,9 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0002",
             "reference_id": "law:항만공사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항만공사법/법률/항만공사법.json"
+            "target_git_path_guess": "항만공사법/법률/항만공사법.json",
+            "target_git_path": "항만공사법/법률/항만공사법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -130,7 +132,9 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0005",
             "reference_id": "law:한국해양진흥공사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국해양진흥공사법/법률/한국해양진흥공사법.json"
+            "target_git_path_guess": "한국해양진흥공사법/법률/한국해양진흥공사법.json",
+            "target_git_path": "한국해양진흥공사법/법률/한국해양진흥공사법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -173,7 +177,9 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0007",
             "reference_id": "law:항만공사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항만공사법/법률/항만공사법.json"
+            "target_git_path_guess": "항만공사법/법률/항만공사법.json",
+            "target_git_path": "항만공사법/법률/항만공사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -193,7 +199,9 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0007",
             "reference_id": "law:항만공사법#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "항만공사법/법률/항만공사법.json"
+            "target_git_path_guess": "항만공사법/법률/항만공사법.json",
+            "target_git_path": "항만공사법/법률/항만공사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -213,7 +221,11 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0007",
             "reference_id": "SchlPubRul:부산항만공사정관#JO0040",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산항만공사 정관/부산항만공사 정관.json"
+            "target_git_path_guess": "부산항만공사 정관/부산항만공사 정관.json",
+            "target_git_path": "부산항만공사 정관/부산항만공사 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -289,7 +301,9 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0012",
             "reference_id": "law:자본시장과금융투자업에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json"
+            "target_git_path_guess": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json",
+            "target_git_path": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -309,7 +323,9 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0012",
             "reference_id": "law:자본시장과금융투자업에관한법률#JO0384",
             "target_repo": "LAW",
-            "target_git_path_guess": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json"
+            "target_git_path_guess": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json",
+            "target_git_path": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -352,7 +368,11 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0014",
             "reference_id": "SchlPubRul:부산항만공사정관#JO0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산항만공사 정관/부산항만공사 정관.json"
+            "target_git_path_guess": "부산항만공사 정관/부산항만공사 정관.json",
+            "target_git_path": "부산항만공사 정관/부산항만공사 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -372,7 +392,11 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0014",
             "reference_id": "SchlPubRul:부산항만공사정관#JO0017",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산항만공사 정관/부산항만공사 정관.json"
+            "target_git_path_guess": "부산항만공사 정관/부산항만공사 정관.json",
+            "target_git_path": "부산항만공사 정관/부산항만공사 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -392,7 +416,9 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0014",
             "reference_id": "law:항만공사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항만공사법/법률/항만공사법.json"
+            "target_git_path_guess": "항만공사법/법률/항만공사법.json",
+            "target_git_path": "항만공사법/법률/항만공사법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -435,7 +461,9 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0016",
             "reference_id": "law:항만공사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항만공사법/법률/항만공사법.json"
+            "target_git_path_guess": "항만공사법/법률/항만공사법.json",
+            "target_git_path": "항만공사법/법률/항만공사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -455,7 +483,9 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0016",
             "reference_id": "law:항만공사법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "항만공사법/법률/항만공사법.json"
+            "target_git_path_guess": "항만공사법/법률/항만공사법.json",
+            "target_git_path": "항만공사법/법률/항만공사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -475,7 +505,9 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0016",
             "reference_id": "law:항만공사법#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "항만공사법/법률/항만공사법.json"
+            "target_git_path_guess": "항만공사법/법률/항만공사법.json",
+            "target_git_path": "항만공사법/법률/항만공사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -495,7 +527,11 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0016",
             "reference_id": "SchlPubRul:부산항만공사정관#JO0020",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산항만공사 정관/부산항만공사 정관.json"
+            "target_git_path_guess": "부산항만공사 정관/부산항만공사 정관.json",
+            "target_git_path": "부산항만공사 정관/부산항만공사 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -538,7 +574,9 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0018",
             "reference_id": "law:교육공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원법/법률/교육공무원법.json"
+            "target_git_path_guess": "교육공무원법/법률/교육공무원법.json",
+            "target_git_path": "교육공무원법/법률/교육공무원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -636,7 +674,9 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0025",
             "reference_id": "law:항만공사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항만공사법/법률/항만공사법.json"
+            "target_git_path_guess": "항만공사법/법률/항만공사법.json",
+            "target_git_path": "항만공사법/법률/항만공사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -656,7 +696,9 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0025",
             "reference_id": "law:항만공사법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "항만공사법/법률/항만공사법.json"
+            "target_git_path_guess": "항만공사법/법률/항만공사법.json",
+            "target_git_path": "항만공사법/법률/항만공사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -676,7 +718,9 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0025",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -696,7 +740,9 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0025",
             "reference_id": "law:공공기관의운영에관한법률#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -728,7 +774,9 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0026",
             "reference_id": "law:국가공무원복무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json"
+            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_git_path": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -748,7 +796,9 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0026",
             "reference_id": "law:국가공무원복무규정#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json"
+            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_git_path": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -780,7 +830,9 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0027",
             "reference_id": "law:항만법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항만법/법률/항만법.json"
+            "target_git_path_guess": "항만법/법률/항만법.json",
+            "target_git_path": "항만법/법률/항만법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -800,7 +852,9 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0027",
             "reference_id": "law:항만법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "항만법/법률/항만법.json"
+            "target_git_path_guess": "항만법/법률/항만법.json",
+            "target_git_path": "항만법/법률/항만법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -820,7 +874,9 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0027",
             "reference_id": "law:항만공사법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항만공사법/시행령/항만공사법 시행령.json"
+            "target_git_path_guess": "항만공사법/시행령/항만공사법 시행령.json",
+            "target_git_path": "항만공사법/시행령/항만공사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -840,7 +896,9 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0027",
             "reference_id": "law:항만공사법시행령#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "항만공사법/시행령/항만공사법 시행령.json"
+            "target_git_path_guess": "항만공사법/시행령/항만공사법 시행령.json",
+            "target_git_path": "항만공사법/시행령/항만공사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -860,7 +918,9 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0027",
             "reference_id": "law:항만법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항만법/법률/항만법.json"
+            "target_git_path_guess": "항만법/법률/항만법.json",
+            "target_git_path": "항만법/법률/항만법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -880,7 +940,9 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0027",
             "reference_id": "law:항만법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "항만법/법률/항만법.json"
+            "target_git_path_guess": "항만법/법률/항만법.json",
+            "target_git_path": "항만법/법률/항만법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -900,7 +962,9 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0027",
             "reference_id": "law:항만재개발및주변지역발전에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항만재개발 및 주변지역 발전에 관한 법률/법률/항만재개발 및 주변지역 발전에 관한 법률.json"
+            "target_git_path_guess": "항만재개발 및 주변지역 발전에 관한 법률/법률/항만재개발 및 주변지역 발전에 관한 법률.json",
+            "target_git_path": "항만 재개발 및 주변지역 발전에 관한 법률/법률/항만 재개발 및 주변지역 발전에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -920,7 +984,9 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0027",
             "reference_id": "law:항만재개발및주변지역발전에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "항만재개발 및 주변지역 발전에 관한 법률/법률/항만재개발 및 주변지역 발전에 관한 법률.json"
+            "target_git_path_guess": "항만재개발 및 주변지역 발전에 관한 법률/법률/항만재개발 및 주변지역 발전에 관한 법률.json",
+            "target_git_path": "항만 재개발 및 주변지역 발전에 관한 법률/법률/항만 재개발 및 주변지역 발전에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -940,7 +1006,9 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0027",
             "reference_id": "law:마리나항만의조성및관리등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "마리나항만의 조성 및 관리 등에 관한 법률/법률/마리나항만의 조성 및 관리 등에 관한 법률.json"
+            "target_git_path_guess": "마리나항만의 조성 및 관리 등에 관한 법률/법률/마리나항만의 조성 및 관리 등에 관한 법률.json",
+            "target_git_path": "마리나항만의 조성 및 관리 등에 관한 법률/법률/마리나항만의 조성 및 관리 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -960,7 +1028,9 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0027",
             "reference_id": "law:마리나항만의조성및관리등에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "마리나항만의 조성 및 관리 등에 관한 법률/법률/마리나항만의 조성 및 관리 등에 관한 법률.json"
+            "target_git_path_guess": "마리나항만의 조성 및 관리 등에 관한 법률/법률/마리나항만의 조성 및 관리 등에 관한 법률.json",
+            "target_git_path": "마리나항만의 조성 및 관리 등에 관한 법률/법률/마리나항만의 조성 및 관리 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -980,7 +1050,9 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0027",
             "reference_id": "law:물류정책기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "물류정책기본법/법률/물류정책기본법.json"
+            "target_git_path_guess": "물류정책기본법/법률/물류정책기본법.json",
+            "target_git_path": "물류정책기본법/법률/물류정책기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1000,7 +1072,9 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0027",
             "reference_id": "law:물류정책기본법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "물류정책기본법/법률/물류정책기본법.json"
+            "target_git_path_guess": "물류정책기본법/법률/물류정책기본법.json",
+            "target_git_path": "물류정책기본법/법률/물류정책기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1020,7 +1094,9 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0027",
             "reference_id": "law:신에너지및재생에너지개발이용보급촉진법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법/법률/신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법.json"
+            "target_git_path_guess": "신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법/법률/신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법.json",
+            "target_git_path": "신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법/법률/신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1040,7 +1116,9 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0027",
             "reference_id": "law:신에너지및재생에너지개발이용보급촉진법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법/법률/신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법.json"
+            "target_git_path_guess": "신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법/법률/신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법.json",
+            "target_git_path": "신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법/법률/신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1072,7 +1150,9 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0028",
             "reference_id": "law:항만공사법#JO0029",
             "target_repo": "LAW",
-            "target_git_path_guess": "항만공사법/법률/항만공사법.json"
+            "target_git_path_guess": "항만공사법/법률/항만공사법.json",
+            "target_git_path": "항만공사법/법률/항만공사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1092,7 +1172,9 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0028",
             "reference_id": "law:항만공사법#JO0030",
             "target_repo": "LAW",
-            "target_git_path_guess": "항만공사법/법률/항만공사법.json"
+            "target_git_path_guess": "항만공사법/법률/항만공사법.json",
+            "target_git_path": "항만공사법/법률/항만공사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1112,7 +1194,9 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0028",
             "reference_id": "law:항만공사법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항만공사법/시행령/항만공사법 시행령.json"
+            "target_git_path_guess": "항만공사법/시행령/항만공사법 시행령.json",
+            "target_git_path": "항만공사법/시행령/항만공사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1132,7 +1216,9 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0028",
             "reference_id": "law:항만공사법시행령#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "항만공사법/시행령/항만공사법 시행령.json"
+            "target_git_path_guess": "항만공사법/시행령/항만공사법 시행령.json",
+            "target_git_path": "항만공사법/시행령/항만공사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1152,7 +1238,9 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0028",
             "reference_id": "law:항만공사법시행령#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "항만공사법/시행령/항만공사법 시행령.json"
+            "target_git_path_guess": "항만공사법/시행령/항만공사법 시행령.json",
+            "target_git_path": "항만공사법/시행령/항만공사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1172,7 +1260,9 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0028",
             "reference_id": "law:항만공사법시행령#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "항만공사법/시행령/항만공사법 시행령.json"
+            "target_git_path_guess": "항만공사법/시행령/항만공사법 시행령.json",
+            "target_git_path": "항만공사법/시행령/항만공사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1192,7 +1282,9 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0028",
             "reference_id": "law:항만공사법시행령#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "항만공사법/시행령/항만공사법 시행령.json"
+            "target_git_path_guess": "항만공사법/시행령/항만공사법 시행령.json",
+            "target_git_path": "항만공사법/시행령/항만공사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1212,7 +1304,9 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0028",
             "reference_id": "law:항만공사법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항만공사법/시행규칙/항만공사법 시행규칙.json"
+            "target_git_path_guess": "항만공사법/시행규칙/항만공사법 시행규칙.json",
+            "target_git_path": "항만공사법/시행규칙/항만공사법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1232,7 +1326,9 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0028",
             "reference_id": "law:항만공사법시행규칙#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "항만공사법/시행규칙/항만공사법 시행규칙.json"
+            "target_git_path_guess": "항만공사법/시행규칙/항만공사법 시행규칙.json",
+            "target_git_path": "항만공사법/시행규칙/항만공사법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1252,7 +1348,9 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0028",
             "reference_id": "law:항만공사법시행규칙#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "항만공사법/시행규칙/항만공사법 시행규칙.json"
+            "target_git_path_guess": "항만공사법/시행규칙/항만공사법 시행규칙.json",
+            "target_git_path": "항만공사법/시행규칙/항만공사법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1272,7 +1370,9 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0028",
             "reference_id": "law:항만공사법시행규칙#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "항만공사법/시행규칙/항만공사법 시행규칙.json"
+            "target_git_path_guess": "항만공사법/시행규칙/항만공사법 시행규칙.json",
+            "target_git_path": "항만공사법/시행규칙/항만공사법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1292,7 +1392,9 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0028",
             "reference_id": "law:항만공사법시행규칙#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "항만공사법/시행규칙/항만공사법 시행규칙.json"
+            "target_git_path_guess": "항만공사법/시행규칙/항만공사법 시행규칙.json",
+            "target_git_path": "항만공사법/시행규칙/항만공사법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1324,7 +1426,11 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0029",
             "reference_id": "SchlPubRul:부산항만공사정관#JO0026",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산항만공사 정관/부산항만공사 정관.json"
+            "target_git_path_guess": "부산항만공사 정관/부산항만공사 정관.json",
+            "target_git_path": "부산항만공사 정관/부산항만공사 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -1344,7 +1450,9 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0029",
             "reference_id": "law:항만법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항만법/법률/항만법.json"
+            "target_git_path_guess": "항만법/법률/항만법.json",
+            "target_git_path": "항만법/법률/항만법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1364,7 +1472,9 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0029",
             "reference_id": "law:항만법#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "항만법/법률/항만법.json"
+            "target_git_path_guess": "항만법/법률/항만법.json",
+            "target_git_path": "항만법/법률/항만법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1384,7 +1494,9 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0029",
             "reference_id": "law:한국해운조합법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국해운조합법/법률/한국해운조합법.json"
+            "target_git_path_guess": "한국해운조합법/법률/한국해운조합법.json",
+            "target_git_path": "한국해운조합법/법률/한국해운조합법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1416,7 +1528,9 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0030",
             "reference_id": "law:항만운송사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항만운송사업법/법률/항만운송사업법.json"
+            "target_git_path_guess": "항만운송사업법/법률/항만운송사업법.json",
+            "target_git_path": "항만운송사업법/법률/항만운송사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1436,7 +1550,9 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0030",
             "reference_id": "law:항만운송사업법#JO0027_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "항만운송사업법/법률/항만운송사업법.json"
+            "target_git_path_guess": "항만운송사업법/법률/항만운송사업법.json",
+            "target_git_path": "항만운송사업법/법률/항만운송사업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1468,7 +1584,11 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0031",
             "reference_id": "SchlPubRul:부산항만공사정관#JO0020",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산항만공사 정관/부산항만공사 정관.json"
+            "target_git_path_guess": "부산항만공사 정관/부산항만공사 정관.json",
+            "target_git_path": "부산항만공사 정관/부산항만공사 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1500,7 +1620,11 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0032",
             "reference_id": "SchlPubRul:부산항만공사정관#JO0020",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산항만공사 정관/부산항만공사 정관.json"
+            "target_git_path_guess": "부산항만공사 정관/부산항만공사 정관.json",
+            "target_git_path": "부산항만공사 정관/부산항만공사 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1520,7 +1644,11 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0032",
             "reference_id": "SchlPubRul:부산항만공사정관#JO0040",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산항만공사 정관/부산항만공사 정관.json"
+            "target_git_path_guess": "부산항만공사 정관/부산항만공사 정관.json",
+            "target_git_path": "부산항만공사 정관/부산항만공사 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1552,7 +1680,9 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0033",
             "reference_id": "law:항만공사법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항만공사법/시행령/항만공사법 시행령.json"
+            "target_git_path_guess": "항만공사법/시행령/항만공사법 시행령.json",
+            "target_git_path": "항만공사법/시행령/항만공사법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1606,7 +1736,11 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0036",
             "reference_id": "admrul:기타공공기관계약사무운영규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "기타공공기관 계약사무 운영규정/기타공공기관 계약사무 운영규정.json"
+            "target_git_path_guess": "기타공공기관 계약사무 운영규정/기타공공기관 계약사무 운영규정.json",
+            "target_git_path": "기타공공기관 계약사무 운영규정/기타공공기관 계약사무 운영규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1638,7 +1772,11 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0037",
             "reference_id": "SchlPubRul:부산항만공사정관#JO0031",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산항만공사 정관/부산항만공사 정관.json"
+            "target_git_path_guess": "부산항만공사 정관/부산항만공사 정관.json",
+            "target_git_path": "부산항만공사 정관/부산항만공사 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -1658,7 +1796,9 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0037",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1678,7 +1818,9 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0037",
             "reference_id": "law:공공기관의운영에관한법률#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1721,7 +1863,11 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0039",
             "reference_id": "SchlPubRul:부산항만공사정관#JO0037",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산항만공사 정관/부산항만공사 정관.json"
+            "target_git_path_guess": "부산항만공사 정관/부산항만공사 정관.json",
+            "target_git_path": "부산항만공사 정관/부산항만공사 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1753,7 +1899,9 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0040",
             "reference_id": "law:공인회계사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공인회계사법/법률/공인회계사법.json"
+            "target_git_path_guess": "공인회계사법/법률/공인회계사법.json",
+            "target_git_path": "공인회계사법/법률/공인회계사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1773,7 +1921,9 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0040",
             "reference_id": "law:공인회계사법#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "공인회계사법/법률/공인회계사법.json"
+            "target_git_path_guess": "공인회계사법/법률/공인회계사법.json",
+            "target_git_path": "공인회계사법/법률/공인회계사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1833,7 +1983,9 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0040",
             "reference_id": "law:공공기관의회계감사및결산감사에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 회계감사 및 결산감사에 관한 규칙/법률/공공기관의 회계감사 및 결산감사에 관한 규칙.json"
+            "target_git_path_guess": "공공기관의 회계감사 및 결산감사에 관한 규칙/법률/공공기관의 회계감사 및 결산감사에 관한 규칙.json",
+            "target_git_path": "공공기관의 회계감사 및 결산감사에 관한 규칙/법률/공공기관의 회계감사 및 결산감사에 관한 규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1876,7 +2028,11 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0042",
             "reference_id": "SchlPubRul:부산항만공사정관#JO0040",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산항만공사 정관/부산항만공사 정관.json"
+            "target_git_path_guess": "부산항만공사 정관/부산항만공사 정관.json",
+            "target_git_path": "부산항만공사 정관/부산항만공사 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1919,7 +2075,9 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0044",
             "reference_id": "law:상법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "상법/법률/상법.json"
+            "target_git_path_guess": "상법/법률/상법.json",
+            "target_git_path": "상법/법률/상법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1939,7 +2097,9 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0044",
             "reference_id": "law:상법#JO0382_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "상법/법률/상법.json"
+            "target_git_path_guess": "상법/법률/상법.json",
+            "target_git_path": "상법/법률/상법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1959,7 +2119,9 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0044",
             "reference_id": "law:상법#JO0382_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "상법/법률/상법.json"
+            "target_git_path_guess": "상법/법률/상법.json",
+            "target_git_path": "상법/법률/상법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1979,7 +2141,9 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0044",
             "reference_id": "law:상법#JO0399",
             "target_repo": "LAW",
-            "target_git_path_guess": "상법/법률/상법.json"
+            "target_git_path_guess": "상법/법률/상법.json",
+            "target_git_path": "상법/법률/상법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1999,7 +2163,9 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0044",
             "reference_id": "law:상법#JO0400",
             "target_repo": "LAW",
-            "target_git_path_guess": "상법/법률/상법.json"
+            "target_git_path_guess": "상법/법률/상법.json",
+            "target_git_path": "상법/법률/상법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2019,7 +2185,9 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0044",
             "reference_id": "law:상법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "상법/법률/상법.json"
+            "target_git_path_guess": "상법/법률/상법.json",
+            "target_git_path": "상법/법률/상법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2039,7 +2207,9 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0044",
             "reference_id": "law:상법#JO0414",
             "target_repo": "LAW",
-            "target_git_path_guess": "상법/법률/상법.json"
+            "target_git_path_guess": "상법/법률/상법.json",
+            "target_git_path": "상법/법률/상법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2059,7 +2229,11 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0044",
             "reference_id": "SchlPubRul:부산항만공사정관#JO0415",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산항만공사 정관/부산항만공사 정관.json"
+            "target_git_path_guess": "부산항만공사 정관/부산항만공사 정관.json",
+            "target_git_path": "부산항만공사 정관/부산항만공사 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -2079,7 +2253,11 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0044",
             "reference_id": "SchlPubRul:부산항만공사정관#JO0015",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산항만공사 정관/부산항만공사 정관.json"
+            "target_git_path_guess": "부산항만공사 정관/부산항만공사 정관.json",
+            "target_git_path": "부산항만공사 정관/부산항만공사 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2111,7 +2289,9 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0045",
             "reference_id": "law:형법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2131,7 +2311,9 @@
             "source_provision_id": "SchlPubRul:부산항만공사정관#JO0045",
             "reference_id": "law:형법#JO0129",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

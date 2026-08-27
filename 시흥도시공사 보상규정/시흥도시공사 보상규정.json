@@ -76,7 +76,9 @@
             "source_provision_id": "SchlPubRul:시흥도시공사보상규정#JO0002",
             "reference_id": "law:공익사업을위한토지등의취득및보상에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공익사업을 위한 토지 등의 취득 및 보상에 관한 법률/법률/공익사업을 위한 토지 등의 취득 및 보상에 관한 법률.json"
+            "target_git_path_guess": "공익사업을 위한 토지 등의 취득 및 보상에 관한 법률/법률/공익사업을 위한 토지 등의 취득 및 보상에 관한 법률.json",
+            "target_git_path": "공익사업을 위한 토지 등의 취득 및 보상에 관한 법률/법률/공익사업을 위한 토지 등의 취득 및 보상에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -96,7 +98,9 @@
             "source_provision_id": "SchlPubRul:시흥도시공사보상규정#JO0002",
             "reference_id": "law:공익사업을위한토지등의취득및보상에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "공익사업을 위한 토지 등의 취득 및 보상에 관한 법률/법률/공익사업을 위한 토지 등의 취득 및 보상에 관한 법률.json"
+            "target_git_path_guess": "공익사업을 위한 토지 등의 취득 및 보상에 관한 법률/법률/공익사업을 위한 토지 등의 취득 및 보상에 관한 법률.json",
+            "target_git_path": "공익사업을 위한 토지 등의 취득 및 보상에 관한 법률/법률/공익사업을 위한 토지 등의 취득 및 보상에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -161,7 +165,9 @@
             "source_provision_id": "SchlPubRul:시흥도시공사보상규정#JO0006",
             "reference_id": "law:부동산가격공시에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부동산가격공시에 관한 법률/법률/부동산가격공시에 관한 법률.json"
+            "target_git_path_guess": "부동산가격공시에 관한 법률/법률/부동산가격공시에 관한 법률.json",
+            "target_git_path": "부동산 가격공시에 관한 법률/법률/부동산 가격공시에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -181,7 +187,11 @@
             "source_provision_id": "SchlPubRul:시흥도시공사보상규정#JO0006",
             "reference_id": "admrul:택지개발업무처리지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "택지개발업무처리지침/택지개발업무처리지침.json"
+            "target_git_path_guess": "택지개발업무처리지침/택지개발업무처리지침.json",
+            "target_git_path": "택지개발업무처리지침/택지개발업무처리지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -201,7 +211,11 @@
             "source_provision_id": "SchlPubRul:시흥도시공사보상규정#JO0006",
             "reference_id": "admrul:택지개발업무처리지침#JO0022",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "택지개발업무처리지침/택지개발업무처리지침.json"
+            "target_git_path_guess": "택지개발업무처리지침/택지개발업무처리지침.json",
+            "target_git_path": "택지개발업무처리지침/택지개발업무처리지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -238,7 +252,8 @@
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:시흥도시공사보상규정#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 보상규정/시흥도시공사 보상규정.json"
+            "target_git_path_guess": "시흥도시공사 보상규정/시흥도시공사 보상규정.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "appendix_ref",
@@ -263,7 +278,8 @@
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:시흥도시공사보상규정#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 보상규정/시흥도시공사 보상규정.json"
+            "target_git_path_guess": "시흥도시공사 보상규정/시흥도시공사 보상규정.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -295,7 +311,11 @@
             "source_provision_id": "SchlPubRul:시흥도시공사보상규정#JO0008",
             "reference_id": "SchlPubRul:시흥도시공사보상규정#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 보상규정/시흥도시공사 보상규정.json"
+            "target_git_path_guess": "시흥도시공사 보상규정/시흥도시공사 보상규정.json",
+            "target_git_path": "시흥도시공사 보상규정/시흥도시공사 보상규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -320,7 +340,8 @@
             "target_unit": "BJ0008",
             "reference_id": "SchlPubRul:시흥도시공사보상규정#BJ0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 보상규정/시흥도시공사 보상규정.json"
+            "target_git_path_guess": "시흥도시공사 보상규정/시흥도시공사 보상규정.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -368,7 +389,8 @@
             "target_unit": "BJ0010",
             "reference_id": "SchlPubRul:시흥도시공사보상규정#BJ0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 보상규정/시흥도시공사 보상규정.json"
+            "target_git_path_guess": "시흥도시공사 보상규정/시흥도시공사 보상규정.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -444,7 +466,11 @@
             "source_provision_id": "SchlPubRul:시흥도시공사보상규정#JO0015",
             "reference_id": "SchlPubRul:시흥도시공사보상규정#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 보상규정/시흥도시공사 보상규정.json"
+            "target_git_path_guess": "시흥도시공사 보상규정/시흥도시공사 보상규정.json",
+            "target_git_path": "시흥도시공사 보상규정/시흥도시공사 보상규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -487,7 +513,11 @@
             "source_provision_id": "SchlPubRul:시흥도시공사보상규정#JO0017",
             "reference_id": "SchlPubRul:시흥도시공사보상규정#JO0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 보상규정/시흥도시공사 보상규정.json"
+            "target_git_path_guess": "시흥도시공사 보상규정/시흥도시공사 보상규정.json",
+            "target_git_path": "시흥도시공사 보상규정/시흥도시공사 보상규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],

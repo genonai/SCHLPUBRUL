@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:(국방과학연구소)연구목적군용항공기비행안전성인증에관한업무규정#JO0001",
             "reference_id": "law:군용항공기비행안전성인증에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "군용항공기 비행안전성 인증에 관한 법률/시행령/군용항공기 비행안전성 인증에 관한 법률 시행령.json"
+            "target_git_path_guess": "군용항공기 비행안전성 인증에 관한 법률/시행령/군용항공기 비행안전성 인증에 관한 법률 시행령.json",
+            "target_git_path": "군용항공기 비행안전성 인증에 관한 법률/시행령/군용항공기 비행안전성 인증에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -85,7 +87,9 @@
             "source_provision_id": "SchlPubRul:(국방과학연구소)연구목적군용항공기비행안전성인증에관한업무규정#JO0001",
             "reference_id": "law:군용항공기비행안전성인증에관한법률시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "군용항공기 비행안전성 인증에 관한 법률/시행규칙/군용항공기 비행안전성 인증에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "군용항공기 비행안전성 인증에 관한 법률/시행규칙/군용항공기 비행안전성 인증에 관한 법률 시행규칙.json",
+            "target_git_path": "군용항공기 비행안전성 인증에 관한 법률/시행규칙/군용항공기 비행안전성 인증에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -105,7 +109,11 @@
             "source_provision_id": "SchlPubRul:(국방과학연구소)연구목적군용항공기비행안전성인증에관한업무규정#JO0001",
             "reference_id": "admrul:군용항공기비행안전성인증에관한업무규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "군용항공기 비행안전성 인증에 관한 업무규정/군용항공기 비행안전성 인증에 관한 업무규정.json"
+            "target_git_path_guess": "군용항공기 비행안전성 인증에 관한 업무규정/군용항공기 비행안전성 인증에 관한 업무규정.json",
+            "target_git_path": "군용항공기 비행안전성 인증에 관한 업무규정/군용항공기 비행안전성 인증에 관한 업무규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -192,7 +200,11 @@
             "source_provision_id": "SchlPubRul:(국방과학연구소)연구목적군용항공기비행안전성인증에관한업무규정#JO0007",
             "reference_id": "SchlPubRul:(국방과학연구소)연구목적군용항공기비행안전성인증에관한업무규정#JO0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방과학연구소) 연구목적 군용항공기 비행안전성 인증에 관한 업무규정/(국방과학연구소) 연구목적 군용항공기 비행안전성 인증에 관한 업무규정.json"
+            "target_git_path_guess": "(국방과학연구소) 연구목적 군용항공기 비행안전성 인증에 관한 업무규정/(국방과학연구소) 연구목적 군용항공기 비행안전성 인증에 관한 업무규정.json",
+            "target_git_path": "(국방과학연구소) 연구목적 군용항공기 비행안전성 인증에 관한 업무규정/(국방과학연구소) 연구목적 군용항공기 비행안전성 인증에 관한 업무규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -229,7 +241,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(국방과학연구소)연구목적군용항공기비행안전성인증에관한업무규정#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방과학연구소) 연구목적 군용항공기 비행안전성 인증에 관한 업무규정/(국방과학연구소) 연구목적 군용항공기 비행안전성 인증에 관한 업무규정.json"
+            "target_git_path_guess": "(국방과학연구소) 연구목적 군용항공기 비행안전성 인증에 관한 업무규정/(국방과학연구소) 연구목적 군용항공기 비행안전성 인증에 관한 업무규정.json",
+            "target_git_path": "(국방과학연구소) 연구목적 군용항공기 비행안전성 인증에 관한 업무규정/(국방과학연구소) 연구목적 군용항공기 비행안전성 인증에 관한 업무규정.json",
+            "target_git_file_path": "(국방과학연구소) 연구목적 군용항공기 비행안전성 인증에 관한 업무규정/별지/별지1_감항인증 신청서(한시적 운용) 신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -254,7 +271,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(국방과학연구소)연구목적군용항공기비행안전성인증에관한업무규정#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방과학연구소) 연구목적 군용항공기 비행안전성 인증에 관한 업무규정/(국방과학연구소) 연구목적 군용항공기 비행안전성 인증에 관한 업무규정.json"
+            "target_git_path_guess": "(국방과학연구소) 연구목적 군용항공기 비행안전성 인증에 관한 업무규정/(국방과학연구소) 연구목적 군용항공기 비행안전성 인증에 관한 업무규정.json",
+            "target_git_path": "(국방과학연구소) 연구목적 군용항공기 비행안전성 인증에 관한 업무규정/(국방과학연구소) 연구목적 군용항공기 비행안전성 인증에 관한 업무규정.json",
+            "target_git_file_path": "(국방과학연구소) 연구목적 군용항공기 비행안전성 인증에 관한 업무규정/별지/별지2_비행안전성 검토 결과서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -279,7 +301,12 @@
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:(국방과학연구소)연구목적군용항공기비행안전성인증에관한업무규정#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방과학연구소) 연구목적 군용항공기 비행안전성 인증에 관한 업무규정/(국방과학연구소) 연구목적 군용항공기 비행안전성 인증에 관한 업무규정.json"
+            "target_git_path_guess": "(국방과학연구소) 연구목적 군용항공기 비행안전성 인증에 관한 업무규정/(국방과학연구소) 연구목적 군용항공기 비행안전성 인증에 관한 업무규정.json",
+            "target_git_path": "(국방과학연구소) 연구목적 군용항공기 비행안전성 인증에 관한 업무규정/(국방과학연구소) 연구목적 군용항공기 비행안전성 인증에 관한 업무규정.json",
+            "target_git_file_path": "(국방과학연구소) 연구목적 군용항공기 비행안전성 인증에 관한 업무규정/별지/별지6_감항인증서(한시적 운용).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -316,7 +343,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:(국방과학연구소)연구목적군용항공기비행안전성인증에관한업무규정#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국방과학연구소) 연구목적 군용항공기 비행안전성 인증에 관한 업무규정/(국방과학연구소) 연구목적 군용항공기 비행안전성 인증에 관한 업무규정.json"
+            "target_git_path_guess": "(국방과학연구소) 연구목적 군용항공기 비행안전성 인증에 관한 업무규정/(국방과학연구소) 연구목적 군용항공기 비행안전성 인증에 관한 업무규정.json",
+            "target_git_path": "(국방과학연구소) 연구목적 군용항공기 비행안전성 인증에 관한 업무규정/(국방과학연구소) 연구목적 군용항공기 비행안전성 인증에 관한 업무규정.json",
+            "target_git_file_path": "(국방과학연구소) 연구목적 군용항공기 비행안전성 인증에 관한 업무규정/별지/별지5_감항인증서(한시적 운용) 발행부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

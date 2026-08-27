@@ -153,7 +153,11 @@
             "source_provision_id": "SchlPubRul:창원시설공단내부평가내규#JO0009",
             "reference_id": "SchlPubRul:창원시설공단내부평가내규#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 내부평가내규/창원시설공단 내부평가내규.json"
+            "target_git_path_guess": "창원시설공단 내부평가내규/창원시설공단 내부평가내규.json",
+            "target_git_path": "창원시설공단 내부평가내규/창원시설공단 내부평가내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -190,7 +194,8 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:창원시설공단내부평가내규#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 내부평가내규/창원시설공단 내부평가내규.json"
+            "target_git_path_guess": "창원시설공단 내부평가내규/창원시설공단 내부평가내규.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],

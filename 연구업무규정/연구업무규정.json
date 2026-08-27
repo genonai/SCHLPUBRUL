@@ -76,7 +76,9 @@
             "source_provision_id": "SchlPubRul:연구업무규정#JO0002",
             "reference_id": "law:과학기술기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "과학기술기본법/법률/과학기술기본법.json"
+            "target_git_path_guess": "과학기술기본법/법률/과학기술기본법.json",
+            "target_git_path": "과학기술기본법/법률/과학기술기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -96,7 +98,9 @@
             "source_provision_id": "SchlPubRul:연구업무규정#JO0002",
             "reference_id": "law:과학기술기본법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "과학기술기본법/법률/과학기술기본법.json"
+            "target_git_path_guess": "과학기술기본법/법률/과학기술기본법.json",
+            "target_git_path": "과학기술기본법/법률/과학기술기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -116,7 +120,9 @@
             "source_provision_id": "SchlPubRul:연구업무규정#JO0002",
             "reference_id": "law:학술진흥법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "학술진흥법/법률/학술진흥법.json"
+            "target_git_path_guess": "학술진흥법/법률/학술진흥법.json",
+            "target_git_path": "학술진흥법/법률/학술진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -136,7 +142,9 @@
             "source_provision_id": "SchlPubRul:연구업무규정#JO0002",
             "reference_id": "law:국민건강증진법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강증진법/법률/국민건강증진법.json"
+            "target_git_path_guess": "국민건강증진법/법률/국민건강증진법.json",
+            "target_git_path": "국민건강증진법/법률/국민건강증진법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -156,7 +164,9 @@
             "source_provision_id": "SchlPubRul:연구업무규정#JO0002",
             "reference_id": "law:국민건강증진법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강증진법/법률/국민건강증진법.json"
+            "target_git_path_guess": "국민건강증진법/법률/국민건강증진법.json",
+            "target_git_path": "국민건강증진법/법률/국민건강증진법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -176,7 +186,9 @@
             "source_provision_id": "SchlPubRul:연구업무규정#JO0002",
             "reference_id": "law:건설기술진흥법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설기술진흥법/법률/건설기술진흥법.json"
+            "target_git_path_guess": "건설기술진흥법/법률/건설기술진흥법.json",
+            "target_git_path": "건설기술 진흥법/법률/건설기술 진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -196,7 +208,9 @@
             "source_provision_id": "SchlPubRul:연구업무규정#JO0002",
             "reference_id": "law:건설기술진흥법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설기술진흥법/법률/건설기술진흥법.json"
+            "target_git_path_guess": "건설기술진흥법/법률/건설기술진흥법.json",
+            "target_git_path": "건설기술 진흥법/법률/건설기술 진흥법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -255,7 +269,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:연구업무규정#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "연구업무규정/연구업무규정.json"
+            "target_git_path_guess": "연구업무규정/연구업무규정.json",
+            "target_git_path": "연구업무규정/연구업무규정.json",
+            "target_git_file_path": "연구업무규정/별지/별지1_직무윤리 사전진단서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -280,7 +299,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:연구업무규정#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "연구업무규정/연구업무규정.json"
+            "target_git_path_guess": "연구업무규정/연구업무규정.json",
+            "target_git_path": "연구업무규정/연구업무규정.json",
+            "target_git_file_path": "연구업무규정/별지/별지2_서약서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -339,7 +363,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:연구업무규정#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "연구업무규정/연구업무규정.json"
+            "target_git_path_guess": "연구업무규정/연구업무규정.json",
+            "target_git_path": "연구업무규정/연구업무규정.json",
+            "target_git_file_path": "연구업무규정/별지/별지3_연구용역과제 심의요청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -376,7 +405,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:연구업무규정#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "연구업무규정/연구업무규정.json"
+            "target_git_path_guess": "연구업무규정/연구업무규정.json",
+            "target_git_path": "연구업무규정/연구업무규정.json",
+            "target_git_file_path": "연구업무규정/별지/별지4_연구용역 진행상황 점검결과서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -413,7 +447,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:연구업무규정#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "연구업무규정/연구업무규정.json"
+            "target_git_path_guess": "연구업무규정/연구업무규정.json",
+            "target_git_path": "연구업무규정/연구업무규정.json",
+            "target_git_file_path": "연구업무규정/별지/별지5_연구용역 평가 의견서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -461,7 +500,12 @@
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:연구업무규정#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "연구업무규정/연구업무규정.json"
+            "target_git_path_guess": "연구업무규정/연구업무규정.json",
+            "target_git_path": "연구업무규정/연구업무규정.json",
+            "target_git_file_path": "연구업무규정/별지/별지6_연구용역 결과 활용 보고서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],

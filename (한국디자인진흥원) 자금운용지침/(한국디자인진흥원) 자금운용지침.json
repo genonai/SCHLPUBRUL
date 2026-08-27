@@ -76,7 +76,9 @@
             "source_provision_id": "SchlPubRul:(한국디자인진흥원)자금운용지침#JO0002",
             "reference_id": "law:산업디자인진흥법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업디자인진흥법/법률/산업디자인진흥법.json"
+            "target_git_path_guess": "산업디자인진흥법/법률/산업디자인진흥법.json",
+            "target_git_path": "산업디자인진흥법/법률/산업디자인진흥법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -262,7 +264,11 @@
             "source_provision_id": "SchlPubRul:(한국디자인진흥원)자금운용지침#JO0017",
             "reference_id": "SchlPubRul:(한국디자인진흥원)자금운용지침#JO0014",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국디자인진흥원) 자금운용지침/(한국디자인진흥원) 자금운용지침.json"
+            "target_git_path_guess": "(한국디자인진흥원) 자금운용지침/(한국디자인진흥원) 자금운용지침.json",
+            "target_git_path": "(한국디자인진흥원) 자금운용지침/(한국디자인진흥원) 자금운용지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

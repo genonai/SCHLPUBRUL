@@ -76,7 +76,9 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))안전점검시행지침#JO0002",
             "reference_id": "law:중대재해처벌등에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중대재해 처벌 등에 관한 법률/시행령/중대재해 처벌 등에 관한 법률 시행령.json"
+            "target_git_path_guess": "중대재해 처벌 등에 관한 법률/시행령/중대재해 처벌 등에 관한 법률 시행령.json",
+            "target_git_path": "중대재해 처벌 등에 관한 법률/시행령/중대재해 처벌 등에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -108,7 +110,11 @@
             "source_provision_id": "SchlPubRul:(코레일로지스(주))안전점검시행지침#JO0003",
             "reference_id": "SchlPubRul:(코레일로지스(주))안전점검시행지침#JO0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(코레일로지스(주)) 안전점검 시행지침/(코레일로지스(주)) 안전점검 시행지침.json"
+            "target_git_path_guess": "(코레일로지스(주)) 안전점검 시행지침/(코레일로지스(주)) 안전점검 시행지침.json",
+            "target_git_path": "(코레일로지스(주)) 안전점검 시행지침/(코레일로지스(주)) 안전점검 시행지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -178,7 +184,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(코레일로지스(주))안전점검시행지침#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(코레일로지스(주)) 안전점검 시행지침/(코레일로지스(주)) 안전점검 시행지침.json"
+            "target_git_path_guess": "(코레일로지스(주)) 안전점검 시행지침/(코레일로지스(주)) 안전점검 시행지침.json",
+            "target_git_path": "(코레일로지스(주)) 안전점검 시행지침/(코레일로지스(주)) 안전점검 시행지침.json",
+            "target_git_file_path": "(코레일로지스(주)) 안전점검 시행지침/별표/별표1_안전점검 시행기준 및 착안사항(제7조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -203,7 +214,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:(코레일로지스(주))안전점검시행지침#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(코레일로지스(주)) 안전점검 시행지침/(코레일로지스(주)) 안전점검 시행지침.json"
+            "target_git_path_guess": "(코레일로지스(주)) 안전점검 시행지침/(코레일로지스(주)) 안전점검 시행지침.json",
+            "target_git_path": "(코레일로지스(주)) 안전점검 시행지침/(코레일로지스(주)) 안전점검 시행지침.json",
+            "target_git_file_path": "(코레일로지스(주)) 안전점검 시행지침/별표/별표2_계절별 기간 및 취약요인.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -228,7 +244,12 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:(코레일로지스(주))안전점검시행지침#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(코레일로지스(주)) 안전점검 시행지침/(코레일로지스(주)) 안전점검 시행지침.json"
+            "target_git_path_guess": "(코레일로지스(주)) 안전점검 시행지침/(코레일로지스(주)) 안전점검 시행지침.json",
+            "target_git_path": "(코레일로지스(주)) 안전점검 시행지침/(코레일로지스(주)) 안전점검 시행지침.json",
+            "target_git_file_path": "(코레일로지스(주)) 안전점검 시행지침/별표/별표3_안전수준 평가표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -253,7 +274,12 @@
             "target_unit": "BYL0004",
             "reference_id": "SchlPubRul:(코레일로지스(주))안전점검시행지침#BYL0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(코레일로지스(주)) 안전점검 시행지침/(코레일로지스(주)) 안전점검 시행지침.json"
+            "target_git_path_guess": "(코레일로지스(주)) 안전점검 시행지침/(코레일로지스(주)) 안전점검 시행지침.json",
+            "target_git_path": "(코레일로지스(주)) 안전점검 시행지침/(코레일로지스(주)) 안전점검 시행지침.json",
+            "target_git_file_path": "(코레일로지스(주)) 안전점검 시행지침/별표/별표4_안전보건관리체계 및 안전수준 평가표(일반차량).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -323,7 +349,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(코레일로지스(주))안전점검시행지침#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(코레일로지스(주)) 안전점검 시행지침/(코레일로지스(주)) 안전점검 시행지침.json"
+            "target_git_path_guess": "(코레일로지스(주)) 안전점검 시행지침/(코레일로지스(주)) 안전점검 시행지침.json",
+            "target_git_path": "(코레일로지스(주)) 안전점검 시행지침/(코레일로지스(주)) 안전점검 시행지침.json",
+            "target_git_file_path": "(코레일로지스(주)) 안전점검 시행지침/별지/별지1_○○고용노동지청 안전점검 수검보고서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -348,7 +379,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(코레일로지스(주))안전점검시행지침#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(코레일로지스(주)) 안전점검 시행지침/(코레일로지스(주)) 안전점검 시행지침.json"
+            "target_git_path_guess": "(코레일로지스(주)) 안전점검 시행지침/(코레일로지스(주)) 안전점검 시행지침.json",
+            "target_git_path": "(코레일로지스(주)) 안전점검 시행지침/(코레일로지스(주)) 안전점검 시행지침.json",
+            "target_git_file_path": "(코레일로지스(주)) 안전점검 시행지침/별지/별지2_지적사항 관리현황.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -373,7 +409,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:(코레일로지스(주))안전점검시행지침#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(코레일로지스(주)) 안전점검 시행지침/(코레일로지스(주)) 안전점검 시행지침.json"
+            "target_git_path_guess": "(코레일로지스(주)) 안전점검 시행지침/(코레일로지스(주)) 안전점검 시행지침.json",
+            "target_git_path": "(코레일로지스(주)) 안전점검 시행지침/(코레일로지스(주)) 안전점검 시행지침.json",
+            "target_git_file_path": "(코레일로지스(주)) 안전점검 시행지침/별지/별지3_개선사항 관리카드.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

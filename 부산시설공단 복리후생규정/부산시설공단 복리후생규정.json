@@ -136,7 +136,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:부산시설공단복리후생규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산시설공단 복리후생규정/부산시설공단 복리후생규정.json"
+            "target_git_path_guess": "부산시설공단 복리후생규정/부산시설공단 복리후생규정.json",
+            "target_git_path": "부산시설공단 복리후생규정/부산시설공단 복리후생규정.json",
+            "target_git_file_path": "부산시설공단 복리후생규정/별표/별표1_복리 후생비 지급 기준표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -223,7 +228,9 @@
             "source_provision_id": "SchlPubRul:부산시설공단복리후생규정#JO0012",
             "reference_id": "law:산업재해보상보험법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업재해 보상보험법/법률/산업재해 보상보험법.json"
+            "target_git_path_guess": "산업재해 보상보험법/법률/산업재해 보상보험법.json",
+            "target_git_path": "산업재해보상보험법/법률/산업재해보상보험법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -243,7 +250,9 @@
             "source_provision_id": "SchlPubRul:부산시설공단복리후생규정#JO0012",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

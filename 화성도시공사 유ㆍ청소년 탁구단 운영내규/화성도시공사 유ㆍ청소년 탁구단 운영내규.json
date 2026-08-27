@@ -131,7 +131,9 @@
             "source_provision_id": "SchlPubRul:화성도시공사유청소년탁구단운영내규#JO0007",
             "reference_id": "law:국민체육진흥법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민체육진흥법/시행령/국민체육진흥법 시행령.json"
+            "target_git_path_guess": "국민체육진흥법/시행령/국민체육진흥법 시행령.json",
+            "target_git_path": "국민체육진흥법/시행령/국민체육진흥법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -151,7 +153,9 @@
             "source_provision_id": "SchlPubRul:화성도시공사유청소년탁구단운영내규#JO0007",
             "reference_id": "law:국민체육진흥법시행령#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민체육진흥법/시행령/국민체육진흥법 시행령.json"
+            "target_git_path_guess": "국민체육진흥법/시행령/국민체육진흥법 시행령.json",
+            "target_git_path": "국민체육진흥법/시행령/국민체육진흥법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -171,7 +175,9 @@
             "source_provision_id": "SchlPubRul:화성도시공사유청소년탁구단운영내규#JO0007",
             "reference_id": "law:국민체육진흥법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민체육진흥법/시행령/국민체육진흥법 시행령.json"
+            "target_git_path_guess": "국민체육진흥법/시행령/국민체육진흥법 시행령.json",
+            "target_git_path": "국민체육진흥법/시행령/국민체육진흥법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -191,7 +197,9 @@
             "source_provision_id": "SchlPubRul:화성도시공사유청소년탁구단운영내규#JO0007",
             "reference_id": "law:국민체육진흥법시행령#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민체육진흥법/시행령/국민체육진흥법 시행령.json"
+            "target_git_path_guess": "국민체육진흥법/시행령/국민체육진흥법 시행령.json",
+            "target_git_path": "국민체육진흥법/시행령/국민체육진흥법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -333,7 +341,9 @@
             "source_provision_id": "SchlPubRul:화성도시공사유청소년탁구단운영내규#JO0018",
             "reference_id": "law:국민체육진흥법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민체육진흥법/법률/국민체육진흥법.json"
+            "target_git_path_guess": "국민체육진흥법/법률/국민체육진흥법.json",
+            "target_git_path": "국민체육진흥법/법률/국민체육진흥법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -365,7 +375,9 @@
             "source_provision_id": "SchlPubRul:화성도시공사유청소년탁구단운영내규#JO0019",
             "reference_id": "law:공무원여비규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 여비규정/법률/공무원 여비규정.json"
+            "target_git_path_guess": "공무원 여비규정/법률/공무원 여비규정.json",
+            "target_git_path": "공무원 여비 규정/법률/공무원 여비 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -383,9 +395,13 @@
             "target_url": "https://www.law.go.kr/법령/공무국외 여행규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:화성도시공사유청소년탁구단운영내규#JO0019",
-            "reference_id": "law:공무국외여행규정#DOC",
+            "reference_id": "SchlPubRul:공무국외여행규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무국외 여행규정/법률/공무국외 여행규정.json"
+            "target_git_path_guess": "공무국외 여행규정/법률/공무국외 여행규정.json",
+            "target_git_path": "공무국외여행규정/공무국외여행규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],

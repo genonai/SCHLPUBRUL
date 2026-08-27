@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:(근로복지공단)회계감사인선임위원회운영지침#JO0001",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -97,7 +99,9 @@
             "source_provision_id": "SchlPubRul:(근로복지공단)회계감사인선임위원회운영지침#JO0002",
             "reference_id": "law:공인회계사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공인회계사법/법률/공인회계사법.json"
+            "target_git_path_guess": "공인회계사법/법률/공인회계사법.json",
+            "target_git_path": "공인회계사법/법률/공인회계사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -117,7 +121,9 @@
             "source_provision_id": "SchlPubRul:(근로복지공단)회계감사인선임위원회운영지침#JO0002",
             "reference_id": "law:공인회계사법#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "공인회계사법/법률/공인회계사법.json"
+            "target_git_path_guess": "공인회계사법/법률/공인회계사법.json",
+            "target_git_path": "공인회계사법/법률/공인회계사법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -176,7 +182,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:(근로복지공단)회계감사인선임위원회운영지침#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(근로복지공단) 회계감사인 선임위원회 운영지침/(근로복지공단) 회계감사인 선임위원회 운영지침.json"
+            "target_git_path_guess": "(근로복지공단) 회계감사인 선임위원회 운영지침/(근로복지공단) 회계감사인 선임위원회 운영지침.json",
+            "target_git_path": "(근로복지공단) 회계감사인 선임위원회 운영지침/(근로복지공단) 회계감사인 선임위원회 운영지침.json",
+            "target_git_file_path": "(근로복지공단) 회계감사인 선임위원회 운영지침/별지/별지3_심의위원 기피 · 회피 신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -219,7 +230,11 @@
             "source_provision_id": "SchlPubRul:(근로복지공단)회계감사인선임위원회운영지침#JO0007",
             "reference_id": "SchlPubRul:(근로복지공단)회계감사인선임위원회운영지침#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(근로복지공단) 회계감사인 선임위원회 운영지침/(근로복지공단) 회계감사인 선임위원회 운영지침.json"
+            "target_git_path_guess": "(근로복지공단) 회계감사인 선임위원회 운영지침/(근로복지공단) 회계감사인 선임위원회 운영지침.json",
+            "target_git_path": "(근로복지공단) 회계감사인 선임위원회 운영지침/(근로복지공단) 회계감사인 선임위원회 운영지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -244,7 +259,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:(근로복지공단)회계감사인선임위원회운영지침#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(근로복지공단) 회계감사인 선임위원회 운영지침/(근로복지공단) 회계감사인 선임위원회 운영지침.json"
+            "target_git_path_guess": "(근로복지공단) 회계감사인 선임위원회 운영지침/(근로복지공단) 회계감사인 선임위원회 운영지침.json",
+            "target_git_path": "(근로복지공단) 회계감사인 선임위원회 운영지침/(근로복지공단) 회계감사인 선임위원회 운영지침.json",
+            "target_git_file_path": "(근로복지공단) 회계감사인 선임위원회 운영지침/별지/별지4_회계감사인 선임위원회 의결서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -269,7 +289,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:(근로복지공단)회계감사인선임위원회운영지침#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(근로복지공단) 회계감사인 선임위원회 운영지침/(근로복지공단) 회계감사인 선임위원회 운영지침.json"
+            "target_git_path_guess": "(근로복지공단) 회계감사인 선임위원회 운영지침/(근로복지공단) 회계감사인 선임위원회 운영지침.json",
+            "target_git_path": "(근로복지공단) 회계감사인 선임위원회 운영지침/(근로복지공단) 회계감사인 선임위원회 운영지침.json",
+            "target_git_file_path": "(근로복지공단) 회계감사인 선임위원회 운영지침/별지/별지5_회의록.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -289,7 +314,11 @@
             "source_provision_id": "SchlPubRul:(근로복지공단)회계감사인선임위원회운영지침#JO0007",
             "reference_id": "SchlPubRul:(근로복지공단)회계감사인선임위원회운영지침#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(근로복지공단) 회계감사인 선임위원회 운영지침/(근로복지공단) 회계감사인 선임위원회 운영지침.json"
+            "target_git_path_guess": "(근로복지공단) 회계감사인 선임위원회 운영지침/(근로복지공단) 회계감사인 선임위원회 운영지침.json",
+            "target_git_path": "(근로복지공단) 회계감사인 선임위원회 운영지침/(근로복지공단) 회계감사인 선임위원회 운영지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -337,7 +366,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(근로복지공단)회계감사인선임위원회운영지침#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(근로복지공단) 회계감사인 선임위원회 운영지침/(근로복지공단) 회계감사인 선임위원회 운영지침.json"
+            "target_git_path_guess": "(근로복지공단) 회계감사인 선임위원회 운영지침/(근로복지공단) 회계감사인 선임위원회 운영지침.json",
+            "target_git_path": "(근로복지공단) 회계감사인 선임위원회 운영지침/(근로복지공단) 회계감사인 선임위원회 운영지침.json",
+            "target_git_file_path": "(근로복지공단) 회계감사인 선임위원회 운영지침/별지/별지1_청렴서약서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -374,7 +408,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(근로복지공단)회계감사인선임위원회운영지침#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(근로복지공단) 회계감사인 선임위원회 운영지침/(근로복지공단) 회계감사인 선임위원회 운영지침.json"
+            "target_git_path_guess": "(근로복지공단) 회계감사인 선임위원회 운영지침/(근로복지공단) 회계감사인 선임위원회 운영지침.json",
+            "target_git_path": "(근로복지공단) 회계감사인 선임위원회 운영지침/(근로복지공단) 회계감사인 선임위원회 운영지침.json",
+            "target_git_file_path": "(근로복지공단) 회계감사인 선임위원회 운영지침/별지/별지2_회계감사인 선정을 위한 개인정보 수집·이용 동의서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -491,7 +530,9 @@
             "source_provision_id": "SchlPubRul:(근로복지공단)회계감사인선임위원회운영지침#JO0015",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -511,7 +552,9 @@
             "source_provision_id": "SchlPubRul:(근로복지공단)회계감사인선임위원회운영지침#JO0015",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#JO0035",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -565,7 +608,11 @@
             "source_provision_id": "SchlPubRul:(근로복지공단)회계감사인선임위원회운영지침#JO0018",
             "reference_id": "SchlPubRul:(근로복지공단)회계감사인선임위원회운영지침#JO0017",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(근로복지공단) 회계감사인 선임위원회 운영지침/(근로복지공단) 회계감사인 선임위원회 운영지침.json"
+            "target_git_path_guess": "(근로복지공단) 회계감사인 선임위원회 운영지침/(근로복지공단) 회계감사인 선임위원회 운영지침.json",
+            "target_git_path": "(근로복지공단) 회계감사인 선임위원회 운영지침/(근로복지공단) 회계감사인 선임위원회 운영지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -597,7 +644,11 @@
             "source_provision_id": "SchlPubRul:(근로복지공단)회계감사인선임위원회운영지침#JO0019",
             "reference_id": "SchlPubRul:(근로복지공단)회계감사인선임위원회운영지침#JO0021",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(근로복지공단) 회계감사인 선임위원회 운영지침/(근로복지공단) 회계감사인 선임위원회 운영지침.json"
+            "target_git_path_guess": "(근로복지공단) 회계감사인 선임위원회 운영지침/(근로복지공단) 회계감사인 선임위원회 운영지침.json",
+            "target_git_path": "(근로복지공단) 회계감사인 선임위원회 운영지침/(근로복지공단) 회계감사인 선임위원회 운영지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -629,7 +680,11 @@
             "source_provision_id": "SchlPubRul:(근로복지공단)회계감사인선임위원회운영지침#JO0020",
             "reference_id": "SchlPubRul:(근로복지공단)회계감사인선임위원회운영지침#JO0019",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(근로복지공단) 회계감사인 선임위원회 운영지침/(근로복지공단) 회계감사인 선임위원회 운영지침.json"
+            "target_git_path_guess": "(근로복지공단) 회계감사인 선임위원회 운영지침/(근로복지공단) 회계감사인 선임위원회 운영지침.json",
+            "target_git_path": "(근로복지공단) 회계감사인 선임위원회 운영지침/(근로복지공단) 회계감사인 선임위원회 운영지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -661,7 +716,11 @@
             "source_provision_id": "SchlPubRul:(근로복지공단)회계감사인선임위원회운영지침#JO0021",
             "reference_id": "SchlPubRul:(근로복지공단)회계감사인선임위원회운영지침#JO0019",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(근로복지공단) 회계감사인 선임위원회 운영지침/(근로복지공단) 회계감사인 선임위원회 운영지침.json"
+            "target_git_path_guess": "(근로복지공단) 회계감사인 선임위원회 운영지침/(근로복지공단) 회계감사인 선임위원회 운영지침.json",
+            "target_git_path": "(근로복지공단) 회계감사인 선임위원회 운영지침/(근로복지공단) 회계감사인 선임위원회 운영지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -681,7 +740,11 @@
             "source_provision_id": "SchlPubRul:(근로복지공단)회계감사인선임위원회운영지침#JO0021",
             "reference_id": "SchlPubRul:(근로복지공단)회계감사인선임위원회운영지침#JO0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(근로복지공단) 회계감사인 선임위원회 운영지침/(근로복지공단) 회계감사인 선임위원회 운영지침.json"
+            "target_git_path_guess": "(근로복지공단) 회계감사인 선임위원회 운영지침/(근로복지공단) 회계감사인 선임위원회 운영지침.json",
+            "target_git_path": "(근로복지공단) 회계감사인 선임위원회 운영지침/(근로복지공단) 회계감사인 선임위원회 운영지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -713,7 +776,9 @@
             "source_provision_id": "SchlPubRul:(근로복지공단)회계감사인선임위원회운영지침#JO0022",
             "reference_id": "law:공공감사기준#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공감사기준/법률/공공감사기준.json"
+            "target_git_path_guess": "공공감사기준/법률/공공감사기준.json",
+            "target_git_path": "공공감사기준/법률/공공감사기준.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

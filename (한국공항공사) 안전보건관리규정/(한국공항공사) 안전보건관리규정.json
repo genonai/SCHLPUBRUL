@@ -87,7 +87,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0003",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -107,7 +109,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0003",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -127,7 +131,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0003",
             "reference_id": "law:산업안전보건법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -147,7 +153,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0003",
             "reference_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_git_path": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -167,7 +177,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0003",
             "reference_id": "law:소상공인보호및지원에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소상공인 보호 및 지원에 관한 법률/법률/소상공인 보호 및 지원에 관한 법률.json"
+            "target_git_path_guess": "소상공인 보호 및 지원에 관한 법률/법률/소상공인 보호 및 지원에 관한 법률.json",
+            "target_git_path": "소상공인 보호 및 지원에 관한 법률/법률/소상공인 보호 및 지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -187,7 +199,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0003",
             "reference_id": "law:소상공인보호및지원에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "소상공인 보호 및 지원에 관한 법률/법률/소상공인 보호 및 지원에 관한 법률.json"
+            "target_git_path_guess": "소상공인 보호 및 지원에 관한 법률/법률/소상공인 보호 및 지원에 관한 법률.json",
+            "target_git_path": "소상공인 보호 및 지원에 관한 법률/법률/소상공인 보호 및 지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -207,7 +221,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0003",
             "reference_id": "law:교육시설등의안전및유지관리등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육시설 등의 안전 및 유지관리 등에 관한 법률/법률/교육시설 등의 안전 및 유지관리 등에 관한 법률.json"
+            "target_git_path_guess": "교육시설 등의 안전 및 유지관리 등에 관한 법률/법률/교육시설 등의 안전 및 유지관리 등에 관한 법률.json",
+            "target_git_path": "교육시설 등의 안전 및 유지관리 등에 관한 법률/법률/교육시설 등의 안전 및 유지관리 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -227,7 +243,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0003",
             "reference_id": "law:교육시설등의안전및유지관리등에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육시설 등의 안전 및 유지관리 등에 관한 법률/법률/교육시설 등의 안전 및 유지관리 등에 관한 법률.json"
+            "target_git_path_guess": "교육시설 등의 안전 및 유지관리 등에 관한 법률/법률/교육시설 등의 안전 및 유지관리 등에 관한 법률.json",
+            "target_git_path": "교육시설 등의 안전 및 유지관리 등에 관한 법률/법률/교육시설 등의 안전 및 유지관리 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -247,7 +265,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0003",
             "reference_id": "law:실내공기질관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "실내공기질 관리법/법률/실내공기질 관리법.json"
+            "target_git_path_guess": "실내공기질 관리법/법률/실내공기질 관리법.json",
+            "target_git_path": "실내공기질 관리법/법률/실내공기질 관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -267,7 +287,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0003",
             "reference_id": "law:실내공기질관리법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "실내공기질 관리법/법률/실내공기질 관리법.json"
+            "target_git_path_guess": "실내공기질 관리법/법률/실내공기질 관리법.json",
+            "target_git_path": "실내공기질 관리법/법률/실내공기질 관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -287,7 +309,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0003",
             "reference_id": "law:다중이용업소의안전관리에관한특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "다중이용업소의 안전관리에 관한 특별법/법률/다중이용업소의 안전관리에 관한 특별법.json"
+            "target_git_path_guess": "다중이용업소의 안전관리에 관한 특별법/법률/다중이용업소의 안전관리에 관한 특별법.json",
+            "target_git_path": "다중이용업소의 안전관리에 관한 특별법/법률/다중이용업소의 안전관리에 관한 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -307,7 +331,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0003",
             "reference_id": "law:다중이용업소의안전관리에관한특별법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "다중이용업소의 안전관리에 관한 특별법/법률/다중이용업소의 안전관리에 관한 특별법.json"
+            "target_git_path_guess": "다중이용업소의 안전관리에 관한 특별법/법률/다중이용업소의 안전관리에 관한 특별법.json",
+            "target_git_path": "다중이용업소의 안전관리에 관한 특별법/법률/다중이용업소의 안전관리에 관한 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -327,7 +353,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0003",
             "reference_id": "law:시설물의안전및유지관리에관한특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "시설물의 안전 및 유지관리에 관한 특별법/법률/시설물의 안전 및 유지관리에 관한 특별법.json"
+            "target_git_path_guess": "시설물의 안전 및 유지관리에 관한 특별법/법률/시설물의 안전 및 유지관리에 관한 특별법.json",
+            "target_git_path": "시설물의 안전 및 유지관리에 관한 특별법/법률/시설물의 안전 및 유지관리에 관한 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -347,7 +375,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0003",
             "reference_id": "law:시설물의안전및유지관리에관한특별법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "시설물의 안전 및 유지관리에 관한 특별법/법률/시설물의 안전 및 유지관리에 관한 특별법.json"
+            "target_git_path_guess": "시설물의 안전 및 유지관리에 관한 특별법/법률/시설물의 안전 및 유지관리에 관한 특별법.json",
+            "target_git_path": "시설물의 안전 및 유지관리에 관한 특별법/법률/시설물의 안전 및 유지관리에 관한 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -367,7 +397,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0003",
             "reference_id": "law:다중이용업소의안전관리에관한특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "다중이용업소의 안전관리에 관한 특별법/법률/다중이용업소의 안전관리에 관한 특별법.json"
+            "target_git_path_guess": "다중이용업소의 안전관리에 관한 특별법/법률/다중이용업소의 안전관리에 관한 특별법.json",
+            "target_git_path": "다중이용업소의 안전관리에 관한 특별법/법률/다중이용업소의 안전관리에 관한 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -387,7 +419,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0003",
             "reference_id": "law:다중이용업소의안전관리에관한특별법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "다중이용업소의 안전관리에 관한 특별법/법률/다중이용업소의 안전관리에 관한 특별법.json"
+            "target_git_path_guess": "다중이용업소의 안전관리에 관한 특별법/법률/다중이용업소의 안전관리에 관한 특별법.json",
+            "target_git_path": "다중이용업소의 안전관리에 관한 특별법/법률/다중이용업소의 안전관리에 관한 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -407,7 +441,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0003",
             "reference_id": "law:건축법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건축법/법률/건축법.json"
+            "target_git_path_guess": "건축법/법률/건축법.json",
+            "target_git_path": "건축법/법률/건축법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -427,7 +463,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0003",
             "reference_id": "law:건축법#JO0084",
             "target_repo": "LAW",
-            "target_git_path_guess": "건축법/법률/건축법.json"
+            "target_git_path_guess": "건축법/법률/건축법.json",
+            "target_git_path": "건축법/법률/건축법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -481,7 +519,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0005",
             "reference_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0015",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_git_path": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -540,7 +582,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(한국공항공사)안전보건관리규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_git_path": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_git_file_path": "(한국공항공사) 안전보건관리규정/별표/별표1_안전보건관리 조직.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -565,7 +612,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:(한국공항공사)안전보건관리규정#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_git_path": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_git_file_path": "(한국공항공사) 안전보건관리규정/별표/별표2_선임자격 및 인원.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -597,7 +649,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0008",
             "reference_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0005_02",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_git_path": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -617,7 +673,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0008",
             "reference_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0005_02",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_git_path": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -637,7 +697,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0008",
             "reference_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0005_02",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_git_path": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -657,7 +721,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0008",
             "reference_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0005_02",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_git_path": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -677,7 +745,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0008",
             "reference_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0005_02",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_git_path": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -720,7 +792,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0010",
             "reference_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_git_path": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -740,7 +816,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0010",
             "reference_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_git_path": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -760,7 +840,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0010",
             "reference_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0022",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_git_path": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -792,7 +876,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0010_02",
             "reference_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_git_path": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -846,7 +934,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0012_02",
             "reference_id": "law:건설기술진흥법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설기술 진흥법/법률/건설기술 진흥법.json"
+            "target_git_path_guess": "건설기술 진흥법/법률/건설기술 진흥법.json",
+            "target_git_path": "건설기술 진흥법/법률/건설기술 진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -866,7 +956,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0012_02",
             "reference_id": "law:건설기술진흥법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설기술 진흥법/법률/건설기술 진흥법.json"
+            "target_git_path_guess": "건설기술 진흥법/법률/건설기술 진흥법.json",
+            "target_git_path": "건설기술 진흥법/법률/건설기술 진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -886,7 +978,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0012_02",
             "reference_id": "law:건설기술진흥법#JO0049",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설기술 진흥법/법률/건설기술 진흥법.json"
+            "target_git_path_guess": "건설기술 진흥법/법률/건설기술 진흥법.json",
+            "target_git_path": "건설기술 진흥법/법률/건설기술 진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -906,7 +1000,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0012_02",
             "reference_id": "law:건축법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건축법/법률/건축법.json"
+            "target_git_path_guess": "건축법/법률/건축법.json",
+            "target_git_path": "건축법/법률/건축법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -926,7 +1022,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0012_02",
             "reference_id": "law:건설기술진흥법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설기술 진흥법/법률/건설기술 진흥법.json"
+            "target_git_path_guess": "건설기술 진흥법/법률/건설기술 진흥법.json",
+            "target_git_path": "건설기술 진흥법/법률/건설기술 진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -946,7 +1044,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0012_02",
             "reference_id": "law:주택법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "주택법/법률/주택법.json"
+            "target_git_path_guess": "주택법/법률/주택법.json",
+            "target_git_path": "주택법/법률/주택법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -966,7 +1066,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0012_02",
             "reference_id": "law:전력기술관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전력기술관리법/법률/전력기술관리법.json"
+            "target_git_path_guess": "전력기술관리법/법률/전력기술관리법.json",
+            "target_git_path": "전력기술관리법/법률/전력기술관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -986,7 +1088,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0012_02",
             "reference_id": "law:정보통신공사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보통신공사업법/법률/정보통신공사업법.json"
+            "target_git_path_guess": "정보통신공사업법/법률/정보통신공사업법.json",
+            "target_git_path": "정보통신공사업법/법률/정보통신공사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1006,7 +1110,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0012_02",
             "reference_id": "law:건설산업기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설산업기본법/법률/건설산업기본법.json"
+            "target_git_path_guess": "건설산업기본법/법률/건설산업기본법.json",
+            "target_git_path": "건설산업기본법/법률/건설산업기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1026,7 +1132,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0012_02",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1046,7 +1154,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0012_02",
             "reference_id": "law:국가기술자격법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가기술자격법/법률/국가기술자격법.json"
+            "target_git_path_guess": "국가기술자격법/법률/국가기술자격법.json",
+            "target_git_path": "국가기술자격법/법률/국가기술자격법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1066,7 +1176,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0012_02",
             "reference_id": "law:국가기술자격법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가기술자격법/법률/국가기술자격법.json"
+            "target_git_path_guess": "국가기술자격법/법률/국가기술자격법.json",
+            "target_git_path": "국가기술자격법/법률/국가기술자격법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1086,7 +1198,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0012_02",
             "reference_id": "law:국가기술자격법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가기술자격법/법률/국가기술자격법.json"
+            "target_git_path_guess": "국가기술자격법/법률/국가기술자격법.json",
+            "target_git_path": "국가기술자격법/법률/국가기술자격법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1118,7 +1232,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0013",
             "reference_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_git_path": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1166,7 +1284,12 @@
             "target_unit": "BYL0012",
             "reference_id": "SchlPubRul:(한국공항공사)안전보건관리규정#BYL0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_git_path": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_git_file_path": "(한국공항공사) 안전보건관리규정/별표/별표12_관리감독자의 유해·위험 방지 (산업안전보건기준에 관한 규칙).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1191,7 +1314,12 @@
             "target_unit": "BYL0013",
             "reference_id": "SchlPubRul:(한국공항공사)안전보건관리규정#BYL0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_git_path": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_git_file_path": "(한국공항공사) 안전보건관리규정/별표/별표13_관리감독자 작업시작 전 점검사항 (산업안전보건기준에 관한 규칙).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1239,7 +1367,12 @@
             "target_unit": "BJ0010",
             "reference_id": "SchlPubRul:(한국공항공사)안전보건관리규정#BJ0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_git_path": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_git_file_path": "(한국공항공사) 안전보건관리규정/별지/별지10_소방안전관리자 업무 수행 기록표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1264,7 +1397,12 @@
             "target_unit": "BJ0010",
             "reference_id": "SchlPubRul:(한국공항공사)안전보건관리규정#BJ0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_git_path": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_git_file_path": "(한국공항공사) 안전보건관리규정/별지/별지10_소방안전관리자 업무 수행 기록표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1334,7 +1472,12 @@
             "target_unit": "BYL0008",
             "reference_id": "SchlPubRul:(한국공항공사)안전보건관리규정#BYL0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_git_path": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_git_file_path": "(한국공항공사) 안전보건관리규정/별표/별표8_안전·보건 회의에 관한 세부 운영기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1371,7 +1514,12 @@
             "target_unit": "BYL0008",
             "reference_id": "SchlPubRul:(한국공항공사)안전보건관리규정#BYL0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_git_path": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_git_file_path": "(한국공항공사) 안전보건관리규정/별표/별표8_안전·보건 회의에 관한 세부 운영기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1419,7 +1567,12 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:(한국공항공사)안전보건관리규정#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_git_path": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_git_file_path": "(한국공항공사) 안전보건관리규정/별표/별표3_안전보건교육 교육과정별 교육시간.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1467,7 +1620,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(한국공항공사)안전보건관리규정#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_git_path": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_git_file_path": "(한국공항공사) 안전보건관리규정/별지/별지1_안전·보건 교육일지.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1532,7 +1690,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0026",
             "reference_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0027_03",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_git_path": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1569,7 +1731,12 @@
             "target_unit": "BYL0006",
             "reference_id": "SchlPubRul:(한국공항공사)안전보건관리규정#BYL0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_git_path": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_git_file_path": "(한국공항공사) 안전보건관리규정/별표/별표6_유해·위험작업에 필요한 자격, 면허, 경험 또는 기능의 기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1594,7 +1761,12 @@
             "target_unit": "BYL0006",
             "reference_id": "SchlPubRul:(한국공항공사)안전보건관리규정#BYL0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_git_path": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_git_file_path": "(한국공항공사) 안전보건관리규정/별표/별표6_유해·위험작업에 필요한 자격, 면허, 경험 또는 기능의 기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1637,7 +1809,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0027_03",
             "reference_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0036",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_git_path": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1662,7 +1838,12 @@
             "target_unit": "BYL0009",
             "reference_id": "SchlPubRul:(한국공항공사)안전보건관리규정#BYL0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_git_path": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_git_file_path": "(한국공항공사) 안전보건관리규정/별표/별표9_도급사업 시 안전·보건에 대한 운영 기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1705,7 +1886,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0027_05",
             "reference_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0027_04",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_git_path": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1764,7 +1949,12 @@
             "target_unit": "BYL0010",
             "reference_id": "SchlPubRul:(한국공항공사)안전보건관리규정#BYL0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_git_path": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_git_file_path": "(한국공항공사) 안전보건관리규정/별표/별표10_사전조사 및 작업계획서 작성 대상 작업.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1784,7 +1974,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0028_02",
             "reference_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0016",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_git_path": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1827,7 +2021,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0029_02",
             "reference_id": "law:건설기술진흥법#JO0039",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설기술 진흥법/법률/건설기술 진흥법.json"
+            "target_git_path_guess": "건설기술 진흥법/법률/건설기술 진흥법.json",
+            "target_git_path": "건설기술 진흥법/법률/건설기술 진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1847,7 +2043,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0029_02",
             "reference_id": "law:건설기술진흥법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설기술 진흥법/시행령/건설기술 진흥법 시행령.json"
+            "target_git_path_guess": "건설기술 진흥법/시행령/건설기술 진흥법 시행령.json",
+            "target_git_path": "건설기술 진흥법/시행령/건설기술 진흥법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1867,7 +2065,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0029_02",
             "reference_id": "law:건설기술진흥법시행령#JO0059",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설기술 진흥법/시행령/건설기술 진흥법 시행령.json"
+            "target_git_path_guess": "건설기술 진흥법/시행령/건설기술 진흥법 시행령.json",
+            "target_git_path": "건설기술 진흥법/시행령/건설기술 진흥법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1899,7 +2099,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0030",
             "reference_id": "law:건설산업기본법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설산업기본법/시행령/건설산업기본법 시행령.json"
+            "target_git_path_guess": "건설산업기본법/시행령/건설산업기본법 시행령.json",
+            "target_git_path": "건설산업기본법/시행령/건설산업기본법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1919,7 +2121,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0030",
             "reference_id": "law:건설산업기본법시행령#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설산업기본법/시행령/건설산업기본법 시행령.json"
+            "target_git_path_guess": "건설산업기본법/시행령/건설산업기본법 시행령.json",
+            "target_git_path": "건설산업기본법/시행령/건설산업기본법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1944,7 +2148,10 @@
             "target_unit": "BYL0001",
             "reference_id": "law:건설산업기본법시행령#BYL0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설산업기본법/시행령/건설산업기본법 시행령.json"
+            "target_git_path_guess": "건설산업기본법/시행령/건설산업기본법 시행령.json",
+            "target_git_path": "건설산업기본법/시행령/건설산업기본법 시행령.json",
+            "target_git_file_path": "건설산업기본법/시행령/별표/별표1_건설업의 업종, 업종별 업무분야 및 업무내용(제7조 관련).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1964,7 +2171,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0030",
             "reference_id": "law:건축법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건축법/법률/건축법.json"
+            "target_git_path_guess": "건축법/법률/건축법.json",
+            "target_git_path": "건축법/법률/건축법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2073,7 +2282,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0037",
             "reference_id": "law:산업표준화법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업표준화법/법률/산업표준화법.json"
+            "target_git_path_guess": "산업표준화법/법률/산업표준화법.json",
+            "target_git_path": "산업표준화법/법률/산업표준화법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2204,7 +2415,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0045",
             "reference_id": "law:도로교통법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "도로교통법/법률/도로교통법.json"
+            "target_git_path_guess": "도로교통법/법률/도로교통법.json",
+            "target_git_path": "도로교통법/법률/도로교통법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2224,7 +2437,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0045",
             "reference_id": "law:도로교통법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "도로교통법/법률/도로교통법.json"
+            "target_git_path_guess": "도로교통법/법률/도로교통법.json",
+            "target_git_path": "도로교통법/법률/도로교통법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2244,7 +2459,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0045",
             "reference_id": "law:도로교통법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "도로교통법/시행규칙/도로교통법 시행규칙.json"
+            "target_git_path_guess": "도로교통법/시행규칙/도로교통법 시행규칙.json",
+            "target_git_path": "도로교통법/시행규칙/도로교통법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2264,7 +2481,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0045",
             "reference_id": "law:도로교통법시행규칙#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "도로교통법/시행규칙/도로교통법 시행규칙.json"
+            "target_git_path_guess": "도로교통법/시행규칙/도로교통법 시행규칙.json",
+            "target_git_path": "도로교통법/시행규칙/도로교통법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2284,7 +2503,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0045",
             "reference_id": "law:도로교통법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "도로교통법/법률/도로교통법.json"
+            "target_git_path_guess": "도로교통법/법률/도로교통법.json",
+            "target_git_path": "도로교통법/법률/도로교통법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2304,7 +2525,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0045",
             "reference_id": "law:도로교통법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "도로교통법/시행규칙/도로교통법 시행규칙.json"
+            "target_git_path_guess": "도로교통법/시행규칙/도로교통법 시행규칙.json",
+            "target_git_path": "도로교통법/시행규칙/도로교통법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2324,7 +2547,9 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0045",
             "reference_id": "law:도로교통법시행규칙#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "도로교통법/시행규칙/도로교통법 시행규칙.json"
+            "target_git_path_guess": "도로교통법/시행규칙/도로교통법 시행규칙.json",
+            "target_git_path": "도로교통법/시행규칙/도로교통법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2349,7 +2574,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:(한국공항공사)안전보건관리규정#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_git_path": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_git_file_path": "(한국공항공사) 안전보건관리규정/별표/별표2_선임자격 및 인원.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2374,7 +2604,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(한국공항공사)안전보건관리규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_git_path": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_git_file_path": "(한국공항공사) 안전보건관리규정/별표/별표1_안전보건관리 조직.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2406,7 +2641,11 @@
             "source_provision_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0046",
             "reference_id": "SchlPubRul:(한국공항공사)안전보건관리규정#JO0040",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_git_path": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2531,7 +2770,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:(한국공항공사)안전보건관리규정#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_git_path": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_git_file_path": "(한국공항공사) 안전보건관리규정/별지/별지4_사고보고서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2556,7 +2800,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:(한국공항공사)안전보건관리규정#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_git_path": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_git_file_path": "(한국공항공사) 안전보건관리규정/별지/별지4_사고보고서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2681,7 +2930,12 @@
             "target_unit": "BYL0011",
             "reference_id": "SchlPubRul:(한국공항공사)안전보건관리규정#BYL0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json"
+            "target_git_path_guess": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_git_path": "(한국공항공사) 안전보건관리규정/(한국공항공사) 안전보건관리규정.json",
+            "target_git_file_path": "(한국공항공사) 안전보건관리규정/별표/별표11_안전보건관리규정 개정 절차.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

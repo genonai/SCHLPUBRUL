@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:26.수원도시공사정보공개운영규정#JO0001",
             "reference_id": "law:공공기관의정보공개에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -85,7 +87,9 @@
             "source_provision_id": "SchlPubRul:26.수원도시공사정보공개운영규정#JO0001",
             "reference_id": "law:공공기관의정보공개에관한법률시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행규칙/공공기관의 정보공개에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행규칙/공공기관의 정보공개에 관한 법률 시행규칙.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/시행규칙/공공기관의 정보공개에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -194,7 +198,9 @@
             "source_provision_id": "SchlPubRul:26.수원도시공사정보공개운영규정#JO0009",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -214,7 +220,9 @@
             "source_provision_id": "SchlPubRul:26.수원도시공사정보공개운영규정#JO0009",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -239,7 +247,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:26.수원도시공사정보공개운영규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "26. 수원도시공사 정보공개 운영규정/26. 수원도시공사 정보공개 운영규정.json"
+            "target_git_path_guess": "26. 수원도시공사 정보공개 운영규정/26. 수원도시공사 정보공개 운영규정.json",
+            "target_git_path": "26. 수원도시공사 정보공개 운영규정/26. 수원도시공사 정보공개 운영규정.json",
+            "target_git_file_path": "26. 수원도시공사 정보공개 운영규정/별표/별표1_공표대상 행정정보의 세부업무별 공표방법.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -287,7 +300,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:26.수원도시공사정보공개운영규정#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "26. 수원도시공사 정보공개 운영규정/26. 수원도시공사 정보공개 운영규정.json"
+            "target_git_path_guess": "26. 수원도시공사 정보공개 운영규정/26. 수원도시공사 정보공개 운영규정.json",
+            "target_git_path": "26. 수원도시공사 정보공개 운영규정/26. 수원도시공사 정보공개 운영규정.json",
+            "target_git_file_path": "26. 수원도시공사 정보공개 운영규정/별지/별지1_정보공개청구서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -312,7 +330,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:26.수원도시공사정보공개운영규정#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "26. 수원도시공사 정보공개 운영규정/26. 수원도시공사 정보공개 운영규정.json"
+            "target_git_path_guess": "26. 수원도시공사 정보공개 운영규정/26. 수원도시공사 정보공개 운영규정.json",
+            "target_git_path": "26. 수원도시공사 정보공개 운영규정/26. 수원도시공사 정보공개 운영규정.json",
+            "target_git_file_path": "26. 수원도시공사 정보공개 운영규정/별지/별지2_정보공개 위임장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -355,7 +378,11 @@
             "source_provision_id": "SchlPubRul:26.수원도시공사정보공개운영규정#JO0013",
             "reference_id": "SchlPubRul:26.수원도시공사정보공개운영규정#JO0018",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "26. 수원도시공사 정보공개 운영규정/26. 수원도시공사 정보공개 운영규정.json"
+            "target_git_path_guess": "26. 수원도시공사 정보공개 운영규정/26. 수원도시공사 정보공개 운영규정.json",
+            "target_git_path": "26. 수원도시공사 정보공개 운영규정/26. 수원도시공사 정보공개 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -387,7 +414,9 @@
             "source_provision_id": "SchlPubRul:26.수원도시공사정보공개운영규정#JO0014",
             "reference_id": "law:공공기관의정보공개에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -407,7 +436,9 @@
             "source_provision_id": "SchlPubRul:26.수원도시공사정보공개운영규정#JO0014",
             "reference_id": "law:공공기관의정보공개에관한법률시행령#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -432,7 +463,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:26.수원도시공사정보공개운영규정#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "26. 수원도시공사 정보공개 운영규정/26. 수원도시공사 정보공개 운영규정.json"
+            "target_git_path_guess": "26. 수원도시공사 정보공개 운영규정/26. 수원도시공사 정보공개 운영규정.json",
+            "target_git_path": "26. 수원도시공사 정보공개 운영규정/26. 수원도시공사 정보공개 운영규정.json",
+            "target_git_file_path": "26. 수원도시공사 정보공개 운영규정/별표/별표2_정보공개의 수수료.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -452,7 +488,9 @@
             "source_provision_id": "SchlPubRul:26.수원도시공사정보공개운영규정#JO0014",
             "reference_id": "law:공공기관의정보공개에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -472,7 +510,9 @@
             "source_provision_id": "SchlPubRul:26.수원도시공사정보공개운영규정#JO0014",
             "reference_id": "law:공공기관의정보공개에관한법률시행령#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -504,7 +544,9 @@
             "source_provision_id": "SchlPubRul:26.수원도시공사정보공개운영규정#JO0015",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -524,7 +566,9 @@
             "source_provision_id": "SchlPubRul:26.수원도시공사정보공개운영규정#JO0015",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -549,7 +593,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:26.수원도시공사정보공개운영규정#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "26. 수원도시공사 정보공개 운영규정/26. 수원도시공사 정보공개 운영규정.json"
+            "target_git_path_guess": "26. 수원도시공사 정보공개 운영규정/26. 수원도시공사 정보공개 운영규정.json",
+            "target_git_path": "26. 수원도시공사 정보공개 운영규정/26. 수원도시공사 정보공개 운영규정.json",
+            "target_git_file_path": "26. 수원도시공사 정보공개 운영규정/별지/별지3_정보공개심의회 심의 의결서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -574,7 +623,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:26.수원도시공사정보공개운영규정#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "26. 수원도시공사 정보공개 운영규정/26. 수원도시공사 정보공개 운영규정.json"
+            "target_git_path_guess": "26. 수원도시공사 정보공개 운영규정/26. 수원도시공사 정보공개 운영규정.json",
+            "target_git_path": "26. 수원도시공사 정보공개 운영규정/26. 수원도시공사 정보공개 운영규정.json",
+            "target_git_file_path": "26. 수원도시공사 정보공개 운영규정/별지/별지4_회의록.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -611,7 +665,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:26.수원도시공사정보공개운영규정#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "26. 수원도시공사 정보공개 운영규정/26. 수원도시공사 정보공개 운영규정.json"
+            "target_git_path_guess": "26. 수원도시공사 정보공개 운영규정/26. 수원도시공사 정보공개 운영규정.json",
+            "target_git_path": "26. 수원도시공사 정보공개 운영규정/26. 수원도시공사 정보공개 운영규정.json",
+            "target_git_file_path": "26. 수원도시공사 정보공개 운영규정/별지/별지5_정보공개 청구사실 통지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -636,7 +695,12 @@
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:26.수원도시공사정보공개운영규정#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "26. 수원도시공사 정보공개 운영규정/26. 수원도시공사 정보공개 운영규정.json"
+            "target_git_path_guess": "26. 수원도시공사 정보공개 운영규정/26. 수원도시공사 정보공개 운영규정.json",
+            "target_git_path": "26. 수원도시공사 정보공개 운영규정/26. 수원도시공사 정보공개 운영규정.json",
+            "target_git_file_path": "26. 수원도시공사 정보공개 운영규정/별지/별지6_제3자 의견서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -661,7 +725,12 @@
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:26.수원도시공사정보공개운영규정#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "26. 수원도시공사 정보공개 운영규정/26. 수원도시공사 정보공개 운영규정.json"
+            "target_git_path_guess": "26. 수원도시공사 정보공개 운영규정/26. 수원도시공사 정보공개 운영규정.json",
+            "target_git_path": "26. 수원도시공사 정보공개 운영규정/26. 수원도시공사 정보공개 운영규정.json",
+            "target_git_file_path": "26. 수원도시공사 정보공개 운영규정/별지/별지7_제3자의견 청취서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -681,7 +750,9 @@
             "source_provision_id": "SchlPubRul:26.수원도시공사정보공개운영규정#JO0016",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -701,7 +772,9 @@
             "source_provision_id": "SchlPubRul:26.수원도시공사정보공개운영규정#JO0016",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -721,7 +794,9 @@
             "source_provision_id": "SchlPubRul:26.수원도시공사정보공개운영규정#JO0016",
             "reference_id": "law:공공기관의정보공개에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -741,7 +816,9 @@
             "source_provision_id": "SchlPubRul:26.수원도시공사정보공개운영규정#JO0016",
             "reference_id": "law:공공기관의정보공개에관한법률시행령#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -766,7 +843,12 @@
             "target_unit": "BJ0008",
             "reference_id": "SchlPubRul:26.수원도시공사정보공개운영규정#BJ0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "26. 수원도시공사 정보공개 운영규정/26. 수원도시공사 정보공개 운영규정.json"
+            "target_git_path_guess": "26. 수원도시공사 정보공개 운영규정/26. 수원도시공사 정보공개 운영규정.json",
+            "target_git_path": "26. 수원도시공사 정보공개 운영규정/26. 수원도시공사 정보공개 운영규정.json",
+            "target_git_file_path": "26. 수원도시공사 정보공개 운영규정/별지/별지8_정보공개결정 이의신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -803,7 +885,12 @@
             "target_unit": "BJ0009",
             "reference_id": "SchlPubRul:26.수원도시공사정보공개운영규정#BJ0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "26. 수원도시공사 정보공개 운영규정/26. 수원도시공사 정보공개 운영규정.json"
+            "target_git_path_guess": "26. 수원도시공사 정보공개 운영규정/26. 수원도시공사 정보공개 운영규정.json",
+            "target_git_path": "26. 수원도시공사 정보공개 운영규정/26. 수원도시공사 정보공개 운영규정.json",
+            "target_git_file_path": "26. 수원도시공사 정보공개 운영규정/별지/별지9_수원도시공사 정보공개심의회 안건상정요청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -835,7 +922,9 @@
             "source_provision_id": "SchlPubRul:26.수원도시공사정보공개운영규정#JO0018",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -855,7 +944,9 @@
             "source_provision_id": "SchlPubRul:26.수원도시공사정보공개운영규정#JO0018",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -875,7 +966,9 @@
             "source_provision_id": "SchlPubRul:26.수원도시공사정보공개운영규정#JO0018",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -895,7 +988,9 @@
             "source_provision_id": "SchlPubRul:26.수원도시공사정보공개운영규정#JO0018",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -915,7 +1010,9 @@
             "source_provision_id": "SchlPubRul:26.수원도시공사정보공개운영규정#JO0018",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -935,7 +1032,9 @@
             "source_provision_id": "SchlPubRul:26.수원도시공사정보공개운영규정#JO0018",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -955,7 +1054,9 @@
             "source_provision_id": "SchlPubRul:26.수원도시공사정보공개운영규정#JO0018",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -975,7 +1076,9 @@
             "source_provision_id": "SchlPubRul:26.수원도시공사정보공개운영규정#JO0018",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1029,7 +1132,9 @@
             "source_provision_id": "SchlPubRul:26.수원도시공사정보공개운영규정#JO0021",
             "reference_id": "law:공공기관의정보공개에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1049,7 +1154,9 @@
             "source_provision_id": "SchlPubRul:26.수원도시공사정보공개운영규정#JO0021",
             "reference_id": "law:공공기관의정보공개에관한법률시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행규칙/공공기관의 정보공개에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행규칙/공공기관의 정보공개에 관한 법률 시행규칙.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/시행규칙/공공기관의 정보공개에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

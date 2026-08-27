@@ -76,7 +76,9 @@
             "source_provision_id": "SchlPubRul:한국해양교통안전공단정관#JO0002",
             "reference_id": "law:한국해양교통안전공단법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국해양교통안전공단법/법률/한국해양교통안전공단법.json"
+            "target_git_path_guess": "한국해양교통안전공단법/법률/한국해양교통안전공단법.json",
+            "target_git_path": "한국해양교통안전공단법/법률/한국해양교통안전공단법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -130,7 +132,11 @@
             "source_provision_id": "SchlPubRul:한국해양교통안전공단정관#JO0005",
             "reference_id": "SchlPubRul:한국해양교통안전공단정관#JO0026",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국해양교통안전공단 정관/한국해양교통안전공단 정관.json"
+            "target_git_path_guess": "한국해양교통안전공단 정관/한국해양교통안전공단 정관.json",
+            "target_git_path": "한국해양교통안전공단 정관/한국해양교통안전공단 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -150,7 +156,9 @@
             "source_provision_id": "SchlPubRul:한국해양교통안전공단정관#JO0005",
             "reference_id": "law:한국해양교통안전공단법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국해양교통안전공단법/법률/한국해양교통안전공단법.json"
+            "target_git_path_guess": "한국해양교통안전공단법/법률/한국해양교통안전공단법.json",
+            "target_git_path": "한국해양교통안전공단법/법률/한국해양교통안전공단법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -170,7 +178,9 @@
             "source_provision_id": "SchlPubRul:한국해양교통안전공단정관#JO0005",
             "reference_id": "law:한국해양교통안전공단법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국해양교통안전공단법/시행령/한국해양교통안전공단법 시행령.json"
+            "target_git_path_guess": "한국해양교통안전공단법/시행령/한국해양교통안전공단법 시행령.json",
+            "target_git_path": "한국해양교통안전공단법/시행령/한국해양교통안전공단법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -190,7 +200,9 @@
             "source_provision_id": "SchlPubRul:한국해양교통안전공단정관#JO0005",
             "reference_id": "law:한국해양교통안전공단법시행령#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국해양교통안전공단법/시행령/한국해양교통안전공단법 시행령.json"
+            "target_git_path_guess": "한국해양교통안전공단법/시행령/한국해양교통안전공단법 시행령.json",
+            "target_git_path": "한국해양교통안전공단법/시행령/한국해양교통안전공단법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -222,7 +234,11 @@
             "source_provision_id": "SchlPubRul:한국해양교통안전공단정관#JO0006",
             "reference_id": "SchlPubRul:한국해양교통안전공단정관#JO0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국해양교통안전공단 정관/한국해양교통안전공단 정관.json"
+            "target_git_path_guess": "한국해양교통안전공단 정관/한국해양교통안전공단 정관.json",
+            "target_git_path": "한국해양교통안전공단 정관/한국해양교통안전공단 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -276,7 +292,9 @@
             "source_provision_id": "SchlPubRul:한국해양교통안전공단정관#JO0009",
             "reference_id": "law:공공기관의운영에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/시행령/공공기관의 운영에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/시행령/공공기관의 운영에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/시행령/공공기관의 운영에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -296,7 +314,9 @@
             "source_provision_id": "SchlPubRul:한국해양교통안전공단정관#JO0009",
             "reference_id": "law:공공기관의운영에관한법률시행령#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/시행령/공공기관의 운영에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/시행령/공공기관의 운영에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/시행령/공공기관의 운영에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -328,7 +348,11 @@
             "source_provision_id": "SchlPubRul:한국해양교통안전공단정관#JO0010",
             "reference_id": "SchlPubRul:한국해양교통안전공단정관#JO0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국해양교통안전공단 정관/한국해양교통안전공단 정관.json"
+            "target_git_path_guess": "한국해양교통안전공단 정관/한국해양교통안전공단 정관.json",
+            "target_git_path": "한국해양교통안전공단 정관/한국해양교통안전공단 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -348,7 +372,9 @@
             "source_provision_id": "SchlPubRul:한국해양교통안전공단정관#JO0010",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -368,7 +394,9 @@
             "source_provision_id": "SchlPubRul:한국해양교통안전공단정관#JO0010",
             "reference_id": "law:공공기관의운영에관한법률#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -400,7 +428,9 @@
             "source_provision_id": "SchlPubRul:한국해양교통안전공단정관#JO0011",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -420,7 +450,9 @@
             "source_provision_id": "SchlPubRul:한국해양교통안전공단정관#JO0011",
             "reference_id": "law:공공기관의운영에관한법률#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -440,7 +472,11 @@
             "source_provision_id": "SchlPubRul:한국해양교통안전공단정관#JO0011",
             "reference_id": "SchlPubRul:한국해양교통안전공단정관#JO0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국해양교통안전공단 정관/한국해양교통안전공단 정관.json"
+            "target_git_path_guess": "한국해양교통안전공단 정관/한국해양교통안전공단 정관.json",
+            "target_git_path": "한국해양교통안전공단 정관/한국해양교통안전공단 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -460,7 +496,11 @@
             "source_provision_id": "SchlPubRul:한국해양교통안전공단정관#JO0011",
             "reference_id": "SchlPubRul:한국해양교통안전공단정관#JO0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국해양교통안전공단 정관/한국해양교통안전공단 정관.json"
+            "target_git_path_guess": "한국해양교통안전공단 정관/한국해양교통안전공단 정관.json",
+            "target_git_path": "한국해양교통안전공단 정관/한국해양교통안전공단 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -492,7 +532,11 @@
             "source_provision_id": "SchlPubRul:한국해양교통안전공단정관#JO0012",
             "reference_id": "SchlPubRul:한국해양교통안전공단정관#JO0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국해양교통안전공단 정관/한국해양교통안전공단 정관.json"
+            "target_git_path_guess": "한국해양교통안전공단 정관/한국해양교통안전공단 정관.json",
+            "target_git_path": "한국해양교통안전공단 정관/한국해양교통안전공단 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -512,7 +556,9 @@
             "source_provision_id": "SchlPubRul:한국해양교통안전공단정관#JO0012",
             "reference_id": "law:교육공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원법/법률/교육공무원법.json"
+            "target_git_path_guess": "교육공무원법/법률/교육공무원법.json",
+            "target_git_path": "교육공무원법/법률/교육공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -532,7 +578,9 @@
             "source_provision_id": "SchlPubRul:한국해양교통안전공단정관#JO0012",
             "reference_id": "law:공공기관의운영에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/시행령/공공기관의 운영에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/시행령/공공기관의 운영에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/시행령/공공기관의 운영에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -552,7 +600,9 @@
             "source_provision_id": "SchlPubRul:한국해양교통안전공단정관#JO0012",
             "reference_id": "law:공공기관의운영에관한법률시행령#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/시행령/공공기관의 운영에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/시행령/공공기관의 운영에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/시행령/공공기관의 운영에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -584,7 +634,11 @@
             "source_provision_id": "SchlPubRul:한국해양교통안전공단정관#JO0013",
             "reference_id": "SchlPubRul:한국해양교통안전공단정관#JO0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국해양교통안전공단 정관/한국해양교통안전공단 정관.json"
+            "target_git_path_guess": "한국해양교통안전공단 정관/한국해양교통안전공단 정관.json",
+            "target_git_path": "한국해양교통안전공단 정관/한국해양교통안전공단 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -627,7 +681,9 @@
             "source_provision_id": "SchlPubRul:한국해양교통안전공단정관#JO0015",
             "reference_id": "law:상법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "상법/법률/상법.json"
+            "target_git_path_guess": "상법/법률/상법.json",
+            "target_git_path": "상법/법률/상법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -647,7 +703,9 @@
             "source_provision_id": "SchlPubRul:한국해양교통안전공단정관#JO0015",
             "reference_id": "law:상법#JO0382_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "상법/법률/상법.json"
+            "target_git_path_guess": "상법/법률/상법.json",
+            "target_git_path": "상법/법률/상법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -667,7 +725,9 @@
             "source_provision_id": "SchlPubRul:한국해양교통안전공단정관#JO0015",
             "reference_id": "law:상법#JO0382",
             "target_repo": "LAW",
-            "target_git_path_guess": "상법/법률/상법.json"
+            "target_git_path_guess": "상법/법률/상법.json",
+            "target_git_path": "상법/법률/상법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -687,7 +747,9 @@
             "source_provision_id": "SchlPubRul:한국해양교통안전공단정관#JO0015",
             "reference_id": "law:상법#JO0399",
             "target_repo": "LAW",
-            "target_git_path_guess": "상법/법률/상법.json"
+            "target_git_path_guess": "상법/법률/상법.json",
+            "target_git_path": "상법/법률/상법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -707,7 +769,9 @@
             "source_provision_id": "SchlPubRul:한국해양교통안전공단정관#JO0015",
             "reference_id": "law:상법#JO0400",
             "target_repo": "LAW",
-            "target_git_path_guess": "상법/법률/상법.json"
+            "target_git_path_guess": "상법/법률/상법.json",
+            "target_git_path": "상법/법률/상법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -727,7 +791,9 @@
             "source_provision_id": "SchlPubRul:한국해양교통안전공단정관#JO0015",
             "reference_id": "law:상법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "상법/법률/상법.json"
+            "target_git_path_guess": "상법/법률/상법.json",
+            "target_git_path": "상법/법률/상법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -747,7 +813,9 @@
             "source_provision_id": "SchlPubRul:한국해양교통안전공단정관#JO0015",
             "reference_id": "law:상법#JO0414",
             "target_repo": "LAW",
-            "target_git_path_guess": "상법/법률/상법.json"
+            "target_git_path_guess": "상법/법률/상법.json",
+            "target_git_path": "상법/법률/상법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -779,7 +847,9 @@
             "source_provision_id": "SchlPubRul:한국해양교통안전공단정관#JO0016",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -799,7 +869,9 @@
             "source_provision_id": "SchlPubRul:한국해양교통안전공단정관#JO0016",
             "reference_id": "law:국가공무원법#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -819,7 +891,9 @@
             "source_provision_id": "SchlPubRul:한국해양교통안전공단정관#JO0016",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -839,7 +913,9 @@
             "source_provision_id": "SchlPubRul:한국해양교통안전공단정관#JO0016",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -859,7 +935,9 @@
             "source_provision_id": "SchlPubRul:한국해양교통안전공단정관#JO0016",
             "reference_id": "law:국가공무원법#JO0069",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -913,7 +991,11 @@
             "source_provision_id": "SchlPubRul:한국해양교통안전공단정관#JO0019",
             "reference_id": "SchlPubRul:한국해양교통안전공단정관#JO0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국해양교통안전공단 정관/한국해양교통안전공단 정관.json"
+            "target_git_path_guess": "한국해양교통안전공단 정관/한국해양교통안전공단 정관.json",
+            "target_git_path": "한국해양교통안전공단 정관/한국해양교통안전공단 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -933,7 +1015,9 @@
             "source_provision_id": "SchlPubRul:한국해양교통안전공단정관#JO0019",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -953,7 +1037,9 @@
             "source_provision_id": "SchlPubRul:한국해양교통안전공단정관#JO0019",
             "reference_id": "law:국가공무원법#JO0079",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -973,7 +1059,11 @@
             "source_provision_id": "SchlPubRul:한국해양교통안전공단정관#JO0019",
             "reference_id": "SchlPubRul:한국해양교통안전공단정관#JO0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국해양교통안전공단 정관/한국해양교통안전공단 정관.json"
+            "target_git_path_guess": "한국해양교통안전공단 정관/한국해양교통안전공단 정관.json",
+            "target_git_path": "한국해양교통안전공단 정관/한국해양교통안전공단 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1049,7 +1139,9 @@
             "source_provision_id": "SchlPubRul:한국해양교통안전공단정관#JO0024",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1069,7 +1161,9 @@
             "source_provision_id": "SchlPubRul:한국해양교통안전공단정관#JO0024",
             "reference_id": "law:공공기관의운영에관한법률#JO0043",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1089,7 +1183,9 @@
             "source_provision_id": "SchlPubRul:한국해양교통안전공단정관#JO0024",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1109,7 +1205,9 @@
             "source_provision_id": "SchlPubRul:한국해양교통안전공단정관#JO0024",
             "reference_id": "law:공공기관의운영에관한법률#JO0052",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1141,7 +1239,9 @@
             "source_provision_id": "SchlPubRul:한국해양교통안전공단정관#JO0025",
             "reference_id": "law:상법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "상법/법률/상법.json"
+            "target_git_path_guess": "상법/법률/상법.json",
+            "target_git_path": "상법/법률/상법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1161,7 +1261,9 @@
             "source_provision_id": "SchlPubRul:한국해양교통안전공단정관#JO0025",
             "reference_id": "law:상법#JO0391",
             "target_repo": "LAW",
-            "target_git_path_guess": "상법/법률/상법.json"
+            "target_git_path_guess": "상법/법률/상법.json",
+            "target_git_path": "상법/법률/상법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1181,7 +1283,9 @@
             "source_provision_id": "SchlPubRul:한국해양교통안전공단정관#JO0025",
             "reference_id": "law:상법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "상법/법률/상법.json"
+            "target_git_path_guess": "상법/법률/상법.json",
+            "target_git_path": "상법/법률/상법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1201,7 +1305,9 @@
             "source_provision_id": "SchlPubRul:한국해양교통안전공단정관#JO0025",
             "reference_id": "law:상법#JO0391_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "상법/법률/상법.json"
+            "target_git_path_guess": "상법/법률/상법.json",
+            "target_git_path": "상법/법률/상법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1233,7 +1339,11 @@
             "source_provision_id": "SchlPubRul:한국해양교통안전공단정관#JO0026",
             "reference_id": "SchlPubRul:한국해양교통안전공단정관#JO0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국해양교통안전공단 정관/한국해양교통안전공단 정관.json"
+            "target_git_path_guess": "한국해양교통안전공단 정관/한국해양교통안전공단 정관.json",
+            "target_git_path": "한국해양교통안전공단 정관/한국해양교통안전공단 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -1253,7 +1363,9 @@
             "source_provision_id": "SchlPubRul:한국해양교통안전공단정관#JO0026",
             "reference_id": "law:해운법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "해운법/법률/해운법.json"
+            "target_git_path_guess": "해운법/법률/해운법.json",
+            "target_git_path": "해운법/법률/해운법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1273,7 +1385,9 @@
             "source_provision_id": "SchlPubRul:한국해양교통안전공단정관#JO0026",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1293,7 +1407,9 @@
             "source_provision_id": "SchlPubRul:한국해양교통안전공단정관#JO0026",
             "reference_id": "law:공공기관의운영에관한법률#JO0051_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1325,7 +1441,9 @@
             "source_provision_id": "SchlPubRul:한국해양교통안전공단정관#JO0027",
             "reference_id": "law:한국해양교통안전공단법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국해양교통안전공단법/법률/한국해양교통안전공단법.json"
+            "target_git_path_guess": "한국해양교통안전공단법/법률/한국해양교통안전공단법.json",
+            "target_git_path": "한국해양교통안전공단법/법률/한국해양교통안전공단법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1345,7 +1463,11 @@
             "source_provision_id": "SchlPubRul:한국해양교통안전공단정관#JO0027",
             "reference_id": "SchlPubRul:한국해양교통안전공단정관#JO0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국해양교통안전공단 정관/한국해양교통안전공단 정관.json"
+            "target_git_path_guess": "한국해양교통안전공단 정관/한국해양교통안전공단 정관.json",
+            "target_git_path": "한국해양교통안전공단 정관/한국해양교통안전공단 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1377,7 +1499,11 @@
             "source_provision_id": "SchlPubRul:한국해양교통안전공단정관#JO0028",
             "reference_id": "SchlPubRul:한국해양교통안전공단정관#JO0026",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국해양교통안전공단 정관/한국해양교통안전공단 정관.json"
+            "target_git_path_guess": "한국해양교통안전공단 정관/한국해양교통안전공단 정관.json",
+            "target_git_path": "한국해양교통안전공단 정관/한국해양교통안전공단 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1420,7 +1546,9 @@
             "source_provision_id": "SchlPubRul:한국해양교통안전공단정관#JO0030",
             "reference_id": "law:한국해양교통안전공단법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국해양교통안전공단법/법률/한국해양교통안전공단법.json"
+            "target_git_path_guess": "한국해양교통안전공단법/법률/한국해양교통안전공단법.json",
+            "target_git_path": "한국해양교통안전공단법/법률/한국해양교통안전공단법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1440,7 +1568,9 @@
             "source_provision_id": "SchlPubRul:한국해양교통안전공단정관#JO0030",
             "reference_id": "law:한국해양교통안전공단법#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국해양교통안전공단법/법률/한국해양교통안전공단법.json"
+            "target_git_path_guess": "한국해양교통안전공단법/법률/한국해양교통안전공단법.json",
+            "target_git_path": "한국해양교통안전공단법/법률/한국해양교통안전공단법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1460,7 +1590,9 @@
             "source_provision_id": "SchlPubRul:한국해양교통안전공단정관#JO0030",
             "reference_id": "law:한국해양교통안전공단법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국해양교통안전공단법/법률/한국해양교통안전공단법.json"
+            "target_git_path_guess": "한국해양교통안전공단법/법률/한국해양교통안전공단법.json",
+            "target_git_path": "한국해양교통안전공단법/법률/한국해양교통안전공단법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1480,7 +1612,9 @@
             "source_provision_id": "SchlPubRul:한국해양교통안전공단정관#JO0030",
             "reference_id": "law:한국해양교통안전공단법#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국해양교통안전공단법/법률/한국해양교통안전공단법.json"
+            "target_git_path_guess": "한국해양교통안전공단법/법률/한국해양교통안전공단법.json",
+            "target_git_path": "한국해양교통안전공단법/법률/한국해양교통안전공단법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1512,7 +1646,11 @@
             "source_provision_id": "SchlPubRul:한국해양교통안전공단정관#JO0031",
             "reference_id": "SchlPubRul:한국해양교통안전공단정관#JO0026",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국해양교통안전공단 정관/한국해양교통안전공단 정관.json"
+            "target_git_path_guess": "한국해양교통안전공단 정관/한국해양교통안전공단 정관.json",
+            "target_git_path": "한국해양교통안전공단 정관/한국해양교통안전공단 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1544,7 +1682,11 @@
             "source_provision_id": "SchlPubRul:한국해양교통안전공단정관#JO0032",
             "reference_id": "SchlPubRul:한국해양교통안전공단정관#JO0026",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국해양교통안전공단 정관/한국해양교통안전공단 정관.json"
+            "target_git_path_guess": "한국해양교통안전공단 정관/한국해양교통안전공단 정관.json",
+            "target_git_path": "한국해양교통안전공단 정관/한국해양교통안전공단 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1598,7 +1740,9 @@
             "source_provision_id": "SchlPubRul:한국해양교통안전공단정관#JO0035",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1618,7 +1762,9 @@
             "source_provision_id": "SchlPubRul:한국해양교통안전공단정관#JO0035",
             "reference_id": "law:공공기관의운영에관한법률#JO0043",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1694,7 +1840,9 @@
             "source_provision_id": "SchlPubRul:한국해양교통안전공단정관#JO0040",
             "reference_id": "law:공공기관의운영에관한법률#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1714,7 +1862,9 @@
             "source_provision_id": "SchlPubRul:한국해양교통안전공단정관#JO0040",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1734,7 +1884,9 @@
             "source_provision_id": "SchlPubRul:한국해양교통안전공단정관#JO0040",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1754,7 +1906,9 @@
             "source_provision_id": "SchlPubRul:한국해양교통안전공단정관#JO0040",
             "reference_id": "law:공공기관의운영에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/시행령/공공기관의 운영에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/시행령/공공기관의 운영에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/시행령/공공기관의 운영에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1774,7 +1928,9 @@
             "source_provision_id": "SchlPubRul:한국해양교통안전공단정관#JO0040",
             "reference_id": "law:공공기관의운영에관한법률시행령#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/시행령/공공기관의 운영에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/시행령/공공기관의 운영에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/시행령/공공기관의 운영에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

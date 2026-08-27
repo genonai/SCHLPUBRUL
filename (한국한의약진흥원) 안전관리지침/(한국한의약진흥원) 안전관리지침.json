@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0001",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -85,7 +87,9 @@
             "source_provision_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0001",
             "reference_id": "law:화학물질관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화학물질관리법/법률/화학물질관리법.json"
+            "target_git_path_guess": "화학물질관리법/법률/화학물질관리법.json",
+            "target_git_path": "화학물질관리법/법률/화학물질관리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -117,7 +121,9 @@
             "source_provision_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0002",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -149,7 +155,9 @@
             "source_provision_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0003",
             "reference_id": "law:산업안전보건법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -174,7 +182,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json"
+            "target_git_path_guess": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json",
+            "target_git_path": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json",
+            "target_git_file_path": "(한국한의약진흥원) 안전관리지침/별표/별표1_안전보건관리 조직도.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -194,7 +207,9 @@
             "source_provision_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0003",
             "reference_id": "law:산업안전보건법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -214,7 +229,9 @@
             "source_provision_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0003",
             "reference_id": "law:산업안전보건기준에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -273,7 +290,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json"
+            "target_git_path_guess": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json",
+            "target_git_path": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json",
+            "target_git_file_path": "(한국한의약진흥원) 안전관리지침/별표/별표1_안전보건관리 조직도.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -327,7 +349,11 @@
             "source_provision_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0009",
             "reference_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json"
+            "target_git_path_guess": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json",
+            "target_git_path": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -347,7 +373,11 @@
             "source_provision_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0009",
             "reference_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0016",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json"
+            "target_git_path_guess": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json",
+            "target_git_path": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -367,7 +397,11 @@
             "source_provision_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0009",
             "reference_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0061",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json"
+            "target_git_path_guess": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json",
+            "target_git_path": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -387,7 +421,11 @@
             "source_provision_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0009",
             "reference_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0031",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json"
+            "target_git_path_guess": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json",
+            "target_git_path": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -407,7 +445,11 @@
             "source_provision_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0009",
             "reference_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0020",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json"
+            "target_git_path_guess": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json",
+            "target_git_path": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -427,7 +469,11 @@
             "source_provision_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0009",
             "reference_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0021",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json"
+            "target_git_path_guess": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json",
+            "target_git_path": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -447,7 +493,9 @@
             "source_provision_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0009",
             "reference_id": "law:산업안전보건법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -467,7 +515,9 @@
             "source_provision_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0009",
             "reference_id": "law:산업안전보건법시행령#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -492,7 +542,12 @@
             "target_unit": "BYL0004",
             "reference_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#BYL0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json"
+            "target_git_path_guess": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json",
+            "target_git_path": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json",
+            "target_git_file_path": "(한국한의약진흥원) 안전관리지침/별표/별표4_일반건강검진 및 특수건강검진 대상물질.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -524,7 +579,11 @@
             "source_provision_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0010",
             "reference_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json"
+            "target_git_path_guess": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json",
+            "target_git_path": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -544,7 +603,11 @@
             "source_provision_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0010",
             "reference_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0016",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json"
+            "target_git_path_guess": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json",
+            "target_git_path": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -564,7 +627,11 @@
             "source_provision_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0010",
             "reference_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0061",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json"
+            "target_git_path_guess": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json",
+            "target_git_path": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -584,7 +651,11 @@
             "source_provision_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0010",
             "reference_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0051",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json"
+            "target_git_path_guess": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json",
+            "target_git_path": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -604,7 +675,11 @@
             "source_provision_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0010",
             "reference_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0019",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json"
+            "target_git_path_guess": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json",
+            "target_git_path": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -624,7 +699,11 @@
             "source_provision_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0010",
             "reference_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0020",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json"
+            "target_git_path_guess": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json",
+            "target_git_path": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -644,7 +723,9 @@
             "source_provision_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0010",
             "reference_id": "law:산업안전보건법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -664,7 +745,9 @@
             "source_provision_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0010",
             "reference_id": "law:산업안전보건법시행령#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -689,7 +772,12 @@
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json"
+            "target_git_path_guess": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json",
+            "target_git_path": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json",
+            "target_git_file_path": "(한국한의약진흥원) 안전관리지침/별지/별지6_이화학 실험 폐기물 관리대장 (실험실별로 작성).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -737,7 +825,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json"
+            "target_git_path_guess": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json",
+            "target_git_path": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json",
+            "target_git_file_path": "(한국한의약진흥원) 안전관리지침/별표/별표2_연구실안전관리위원회 구성.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -802,7 +895,11 @@
             "source_provision_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0016",
             "reference_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json"
+            "target_git_path_guess": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json",
+            "target_git_path": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -861,7 +958,12 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json"
+            "target_git_path_guess": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json",
+            "target_git_path": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json",
+            "target_git_file_path": "(한국한의약진흥원) 안전관리지침/별표/별표3_안전교육대상별 교육내용.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -893,7 +995,9 @@
             "source_provision_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0020",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -918,7 +1022,12 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json"
+            "target_git_path_guess": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json",
+            "target_git_path": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json",
+            "target_git_file_path": "(한국한의약진흥원) 안전관리지침/별표/별표3_안전교육대상별 교육내용.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -938,7 +1047,9 @@
             "source_provision_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0020",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -958,7 +1069,11 @@
             "source_provision_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0020",
             "reference_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0019",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json"
+            "target_git_path_guess": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json",
+            "target_git_path": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -990,7 +1105,9 @@
             "source_provision_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0021",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1010,7 +1127,11 @@
             "source_provision_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0021",
             "reference_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0019",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json"
+            "target_git_path_guess": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json",
+            "target_git_path": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1042,7 +1163,11 @@
             "source_provision_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0022",
             "reference_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0021",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json"
+            "target_git_path_guess": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json",
+            "target_git_path": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1062,7 +1187,11 @@
             "source_provision_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0022",
             "reference_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0019",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json"
+            "target_git_path_guess": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json",
+            "target_git_path": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1094,7 +1223,9 @@
             "source_provision_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0023",
             "reference_id": "law:산업안전보건법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1119,7 +1250,12 @@
             "target_unit": "BYL0005",
             "reference_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#BYL0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json"
+            "target_git_path_guess": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json",
+            "target_git_path": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json",
+            "target_git_file_path": "(한국한의약진흥원) 안전관리지침/별표/별표5_사고발생시 신속보고 및 긴급대응요령.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1139,7 +1275,11 @@
             "source_provision_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0023",
             "reference_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0019",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json"
+            "target_git_path_guess": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json",
+            "target_git_path": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1159,7 +1299,11 @@
             "source_provision_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0023",
             "reference_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0021",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json"
+            "target_git_path_guess": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json",
+            "target_git_path": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1179,7 +1323,11 @@
             "source_provision_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0023",
             "reference_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0022",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json"
+            "target_git_path_guess": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json",
+            "target_git_path": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1211,7 +1359,9 @@
             "source_provision_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0024",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1243,7 +1393,9 @@
             "source_provision_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0025",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1275,7 +1427,9 @@
             "source_provision_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0026",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1351,7 +1505,9 @@
             "source_provision_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0031",
             "reference_id": "law:산업안전보건법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1371,7 +1527,9 @@
             "source_provision_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0031",
             "reference_id": "law:산업안전보건법시행령#JO0078",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1502,7 +1660,9 @@
             "source_provision_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0041",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1522,7 +1682,9 @@
             "source_provision_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0041",
             "reference_id": "law:산업안전보건법#JO0047",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1587,7 +1749,9 @@
             "source_provision_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0045",
             "reference_id": "law:산업안전보건법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1607,7 +1771,8 @@
             "source_provision_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0045",
             "reference_id": "law:산업안전보건법시행령#JO0189",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -1639,7 +1804,9 @@
             "source_provision_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0046",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1659,7 +1826,9 @@
             "source_provision_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0046",
             "reference_id": "law:산업안전보건법#JO0129",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1679,7 +1848,9 @@
             "source_provision_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0046",
             "reference_id": "law:산업안전보건법#JO0130",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1704,7 +1875,12 @@
             "target_unit": "BYL0004",
             "reference_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#BYL0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json"
+            "target_git_path_guess": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json",
+            "target_git_path": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json",
+            "target_git_file_path": "(한국한의약진흥원) 안전관리지침/별표/별표4_일반건강검진 및 특수건강검진 대상물질.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -1724,7 +1900,9 @@
             "source_provision_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0046",
             "reference_id": "law:국민건강보험법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json"
+            "target_git_path_guess": "국민건강보험법/법률/국민건강보험법.json",
+            "target_git_path": "국민건강보험법/법률/국민건강보험법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1756,7 +1934,9 @@
             "source_provision_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0047",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1865,7 +2045,9 @@
             "source_provision_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0055",
             "reference_id": "law:산업재해보상보험법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업재해보상보험법/법률/산업재해보상보험법.json"
+            "target_git_path_guess": "산업재해보상보험법/법률/산업재해보상보험법.json",
+            "target_git_path": "산업재해보상보험법/법률/산업재해보상보험법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1890,7 +2072,12 @@
             "target_unit": "BYL0005",
             "reference_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#BYL0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json"
+            "target_git_path_guess": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json",
+            "target_git_path": "(한국한의약진흥원) 안전관리지침/(한국한의약진흥원) 안전관리지침.json",
+            "target_git_file_path": "(한국한의약진흥원) 안전관리지침/별표/별표5_사고발생시 신속보고 및 긴급대응요령.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2087,7 +2274,9 @@
             "source_provision_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0071",
             "reference_id": "law:산업재해보상보험법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업재해보상보험법/법률/산업재해보상보험법.json"
+            "target_git_path_guess": "산업재해보상보험법/법률/산업재해보상보험법.json",
+            "target_git_path": "산업재해보상보험법/법률/산업재해보상보험법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2130,7 +2319,9 @@
             "source_provision_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0073",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2173,7 +2364,9 @@
             "source_provision_id": "SchlPubRul:(한국한의약진흥원)안전관리지침#JO0075",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

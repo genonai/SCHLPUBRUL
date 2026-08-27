@@ -175,7 +175,11 @@
             "source_provision_id": "SchlPubRul:인천관광기업지원센터운영지침#JO0011",
             "reference_id": "SchlPubRul:인천관광기업지원센터운영지침#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천 관광기업지원센터 운영지침/인천 관광기업지원센터 운영지침.json"
+            "target_git_path_guess": "인천 관광기업지원센터 운영지침/인천 관광기업지원센터 운영지침.json",
+            "target_git_path": "인천 관광기업지원센터 운영지침/인천 관광기업지원센터 운영지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -195,7 +199,11 @@
             "source_provision_id": "SchlPubRul:인천관광기업지원센터운영지침#JO0011",
             "reference_id": "SchlPubRul:인천관광기업지원센터운영지침#JO0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천 관광기업지원센터 운영지침/인천 관광기업지원센터 운영지침.json"
+            "target_git_path_guess": "인천 관광기업지원센터 운영지침/인천 관광기업지원센터 운영지침.json",
+            "target_git_path": "인천 관광기업지원센터 운영지침/인천 관광기업지원센터 운영지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -243,7 +251,8 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:인천관광기업지원센터운영지침#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천 관광기업지원센터 운영지침/인천 관광기업지원센터 운영지침.json"
+            "target_git_path_guess": "인천 관광기업지원센터 운영지침/인천 관광기업지원센터 운영지침.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -379,7 +388,8 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:인천관광기업지원센터운영지침#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천 관광기업지원센터 운영지침/인천 관광기업지원센터 운영지침.json"
+            "target_git_path_guess": "인천 관광기업지원센터 운영지침/인천 관광기업지원센터 운영지침.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -455,7 +465,11 @@
             "source_provision_id": "SchlPubRul:인천관광기업지원센터운영지침#JO0027",
             "reference_id": "SchlPubRul:인천관광기업지원센터운영지침#JO0026",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천 관광기업지원센터 운영지침/인천 관광기업지원센터 운영지침.json"
+            "target_git_path_guess": "인천 관광기업지원센터 운영지침/인천 관광기업지원센터 운영지침.json",
+            "target_git_path": "인천 관광기업지원센터 운영지침/인천 관광기업지원센터 운영지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -575,7 +589,9 @@
             "source_provision_id": "SchlPubRul:인천관광기업지원센터운영지침#JO0036",
             "reference_id": "law:보조금관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json"
+            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_git_path": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -595,7 +611,11 @@
             "source_provision_id": "SchlPubRul:인천관광기업지원센터운영지침#JO0036",
             "reference_id": "admrul:국고보조금통합관리지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국고보조금통합관리지침/국고보조금통합관리지침.json"
+            "target_git_path_guess": "국고보조금통합관리지침/국고보조금통합관리지침.json",
+            "target_git_path": "국고보조금 통합관리지침/국고보조금 통합관리지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -615,7 +635,9 @@
             "source_provision_id": "SchlPubRul:인천관광기업지원센터운영지침#JO0036",
             "reference_id": "law:지방재정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방재정법/법률/지방재정법.json"
+            "target_git_path_guess": "지방재정법/법률/지방재정법.json",
+            "target_git_path": "지방재정법/법률/지방재정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -731,7 +753,8 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:인천관광기업지원센터운영지침#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천 관광기업지원센터 운영지침/인천 관광기업지원센터 운영지침.json"
+            "target_git_path_guess": "인천 관광기업지원센터 운영지침/인천 관광기업지원센터 운영지침.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "internal_ref",
@@ -751,7 +774,11 @@
             "source_provision_id": "SchlPubRul:인천관광기업지원센터운영지침#JO0039",
             "reference_id": "SchlPubRul:인천관광기업지원센터운영지침#JO0022",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천 관광기업지원센터 운영지침/인천 관광기업지원센터 운영지침.json"
+            "target_git_path_guess": "인천 관광기업지원센터 운영지침/인천 관광기업지원센터 운영지침.json",
+            "target_git_path": "인천 관광기업지원센터 운영지침/인천 관광기업지원센터 운영지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -776,7 +803,8 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:인천관광기업지원센터운영지침#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천 관광기업지원센터 운영지침/인천 관광기업지원센터 운영지침.json"
+            "target_git_path_guess": "인천 관광기업지원센터 운영지침/인천 관광기업지원센터 운영지침.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "internal_ref",
@@ -796,7 +824,11 @@
             "source_provision_id": "SchlPubRul:인천관광기업지원센터운영지침#JO0039",
             "reference_id": "SchlPubRul:인천관광기업지원센터운영지침#JO0012_02",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천 관광기업지원센터 운영지침/인천 관광기업지원센터 운영지침.json"
+            "target_git_path_guess": "인천 관광기업지원센터 운영지침/인천 관광기업지원센터 운영지침.json",
+            "target_git_path": "인천 관광기업지원센터 운영지침/인천 관광기업지원센터 운영지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],

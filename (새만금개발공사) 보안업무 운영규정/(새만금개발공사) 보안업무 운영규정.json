@@ -76,7 +76,9 @@
             "source_provision_id": "SchlPubRul:(새만금개발공사)보안업무운영규정#JO0002",
             "reference_id": "law:보안업무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
+            "target_git_path": "보안업무규정/법률/보안업무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -96,7 +98,11 @@
             "source_provision_id": "SchlPubRul:(새만금개발공사)보안업무운영규정#JO0002",
             "reference_id": "admrul:국토교통부보안업무규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국토교통부 보안업무규칙/국토교통부 보안업무규칙.json"
+            "target_git_path_guess": "국토교통부 보안업무규칙/국토교통부 보안업무규칙.json",
+            "target_git_path": "국토교통부 보안업무규칙/국토교통부 보안업무규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -177,7 +183,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(새만금개발공사)보안업무운영규정#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json"
+            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_path": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_file_path": "(새만금개발공사) 보안업무 운영규정/별지/별지1_보안심사 위원회 회의록.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -209,7 +220,11 @@
             "source_provision_id": "SchlPubRul:(새만금개발공사)보안업무운영규정#JO0008",
             "reference_id": "SchlPubRul:(새만금개발공사)보안업무운영규정#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json"
+            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_path": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -279,7 +294,12 @@
             "target_unit": "BJ0027",
             "reference_id": "SchlPubRul:(새만금개발공사)보안업무운영규정#BJ0027",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json"
+            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_path": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_file_path": "(새만금개발공사) 보안업무 운영규정/별지/별지27_신원진술서(약식).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -304,7 +324,12 @@
             "target_unit": "BJ0029",
             "reference_id": "SchlPubRul:(새만금개발공사)보안업무운영규정#BJ0029",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json"
+            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_path": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_file_path": "(새만금개발공사) 보안업무 운영규정/별지/별지29_개인정보 제공 동의서(약식).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -341,7 +366,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(새만금개발공사)보안업무운영규정#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json"
+            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_path": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_file_path": "(새만금개발공사) 보안업무 운영규정/별지/별지2_신원대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -373,7 +403,11 @@
             "source_provision_id": "SchlPubRul:(새만금개발공사)보안업무운영규정#JO0014",
             "reference_id": "SchlPubRul:(새만금개발공사)보안업무운영규정#JO0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json"
+            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_path": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -393,7 +427,11 @@
             "source_provision_id": "SchlPubRul:(새만금개발공사)보안업무운영규정#JO0014",
             "reference_id": "SchlPubRul:(새만금개발공사)보안업무운영규정#JO0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json"
+            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_path": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -418,7 +456,12 @@
             "target_unit": "BJ0022",
             "reference_id": "SchlPubRul:(새만금개발공사)보안업무운영규정#BJ0022",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json"
+            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_path": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_file_path": "(새만금개발공사) 보안업무 운영규정/별지/별지22_보안서약서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -450,7 +493,11 @@
             "source_provision_id": "SchlPubRul:(새만금개발공사)보안업무운영규정#JO0015",
             "reference_id": "admrul:국토교통부보안업무규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국토교통부 보안업무규칙/국토교통부 보안업무규칙.json"
+            "target_git_path_guess": "국토교통부 보안업무규칙/국토교통부 보안업무규칙.json",
+            "target_git_path": "국토교통부 보안업무규칙/국토교통부 보안업무규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -470,7 +517,11 @@
             "source_provision_id": "SchlPubRul:(새만금개발공사)보안업무운영규정#JO0015",
             "reference_id": "admrul:국토교통부보안업무규칙#JO0015",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국토교통부 보안업무규칙/국토교통부 보안업무규칙.json"
+            "target_git_path_guess": "국토교통부 보안업무규칙/국토교통부 보안업무규칙.json",
+            "target_git_path": "국토교통부 보안업무규칙/국토교통부 보안업무규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -518,7 +569,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:(새만금개발공사)보안업무운영규정#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json"
+            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_path": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_file_path": "(새만금개발공사) 보안업무 운영규정/별지/별지3_서약서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -543,7 +599,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:(새만금개발공사)보안업무운영규정#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json"
+            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_path": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_file_path": "(새만금개발공사) 보안업무 운영규정/별지/별지4_비밀취급인가(해제)대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -568,7 +629,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:(새만금개발공사)보안업무운영규정#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json"
+            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_path": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_file_path": "(새만금개발공사) 보안업무 운영규정/별지/별지5_비밀취급인가증 발급대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -616,7 +682,12 @@
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:(새만금개발공사)보안업무운영규정#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json"
+            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_path": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_file_path": "(새만금개발공사) 보안업무 운영규정/별지/별지6_비밀취급인가증.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -641,7 +712,12 @@
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:(새만금개발공사)보안업무운영규정#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json"
+            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_path": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_file_path": "(새만금개발공사) 보안업무 운영규정/별지/별지7_비밀취급인가증 재발급 신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -661,7 +737,11 @@
             "source_provision_id": "SchlPubRul:(새만금개발공사)보안업무운영규정#JO0019",
             "reference_id": "SchlPubRul:(새만금개발공사)보안업무운영규정#JO0018",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json"
+            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_path": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -693,7 +773,11 @@
             "source_provision_id": "SchlPubRul:(새만금개발공사)보안업무운영규정#JO0020",
             "reference_id": "admrul:보안업무규정시행규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json"
+            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_git_path": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -713,7 +797,11 @@
             "source_provision_id": "SchlPubRul:(새만금개발공사)보안업무운영규정#JO0020",
             "reference_id": "admrul:보안업무규정시행규칙#JO0017",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json"
+            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_git_path": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -733,7 +821,11 @@
             "source_provision_id": "SchlPubRul:(새만금개발공사)보안업무운영규정#JO0020",
             "reference_id": "admrul:보안업무규정시행규칙#JO0003",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json"
+            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_git_path": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -753,7 +845,9 @@
             "source_provision_id": "SchlPubRul:(새만금개발공사)보안업무운영규정#JO0020",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -773,7 +867,9 @@
             "source_provision_id": "SchlPubRul:(새만금개발공사)보안업무운영규정#JO0020",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -847,7 +943,11 @@
             "source_provision_id": "SchlPubRul:(새만금개발공사)보안업무운영규정#JO0023",
             "reference_id": "SchlPubRul:(새만금개발공사)보안업무운영규정#JO0022",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json"
+            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_path": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -872,7 +972,12 @@
             "target_unit": "BJ0008",
             "reference_id": "SchlPubRul:(새만금개발공사)보안업무운영규정#BJ0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json"
+            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_path": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_file_path": "(새만금개발공사) 보안업무 운영규정/별지/별지8_비밀소유현황조사서 및 비밀현황증감내역.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -897,7 +1002,12 @@
             "target_unit": "BJ0009",
             "reference_id": "SchlPubRul:(새만금개발공사)보안업무운영규정#BJ0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json"
+            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_path": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_file_path": "(새만금개발공사) 보안업무 운영규정/별지/별지9_비밀취급인가자현황.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -934,7 +1044,12 @@
             "target_unit": "BJ0010",
             "reference_id": "SchlPubRul:(새만금개발공사)보안업무운영규정#BJ0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json"
+            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_path": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_file_path": "(새만금개발공사) 보안업무 운영규정/별지/별지10_비밀(대외비) 관리기록부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -966,7 +1081,11 @@
             "source_provision_id": "SchlPubRul:(새만금개발공사)보안업무운영규정#JO0025",
             "reference_id": "SchlPubRul:(새만금개발공사)보안업무운영규정#JO0030",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json"
+            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_path": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -991,7 +1110,12 @@
             "target_unit": "BJ0010",
             "reference_id": "SchlPubRul:(새만금개발공사)보안업무운영규정#BJ0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json"
+            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_path": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_file_path": "(새만금개발공사) 보안업무 운영규정/별지/별지10_비밀(대외비) 관리기록부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [
@@ -1058,7 +1182,12 @@
             "target_unit": "BJ0011",
             "reference_id": "SchlPubRul:(새만금개발공사)보안업무운영규정#BJ0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json"
+            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_path": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_file_path": "(새만금개발공사) 보안업무 운영규정/별지/별지11_비밀문서수발대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1083,7 +1212,12 @@
             "target_unit": "BJ0012",
             "reference_id": "SchlPubRul:(새만금개발공사)보안업무운영규정#BJ0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json"
+            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_path": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_file_path": "(새만금개발공사) 보안업무 운영규정/별지/별지12_비밀열람기록전.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1120,7 +1254,12 @@
             "target_unit": "BJ0013",
             "reference_id": "SchlPubRul:(새만금개발공사)보안업무운영규정#BJ0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json"
+            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_path": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_file_path": "(새만금개발공사) 보안업무 운영규정/별지/별지13_비밀영수증.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1152,7 +1291,11 @@
             "source_provision_id": "SchlPubRul:(새만금개발공사)보안업무운영규정#JO0029",
             "reference_id": "admrul:보안업무규정시행규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json"
+            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_git_path": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1172,7 +1315,11 @@
             "source_provision_id": "SchlPubRul:(새만금개발공사)보안업무운영규정#JO0029",
             "reference_id": "admrul:보안업무규정시행규칙#JO0033",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json"
+            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_git_path": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1230,7 +1377,12 @@
             "target_unit": "BJ0015",
             "reference_id": "SchlPubRul:(새만금개발공사)보안업무운영규정#BJ0015",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json"
+            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_path": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_file_path": "(새만금개발공사) 보안업무 운영규정/별지/별지15_비밀반출승인서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [
@@ -1277,7 +1429,12 @@
             "target_unit": "BJ0030",
             "reference_id": "SchlPubRul:(새만금개발공사)보안업무운영규정#BJ0030",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json"
+            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_path": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_file_path": "(새만금개발공사) 보안업무 운영규정/별지/별지30_대외비 배부선.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1297,7 +1454,11 @@
             "source_provision_id": "SchlPubRul:(새만금개발공사)보안업무운영규정#JO0032",
             "reference_id": "SchlPubRul:(새만금개발공사)보안업무운영규정#JO0027",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json"
+            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_path": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1317,7 +1478,11 @@
             "source_provision_id": "SchlPubRul:(새만금개발공사)보안업무운영규정#JO0032",
             "reference_id": "SchlPubRul:(새만금개발공사)보안업무운영규정#JO0030",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json"
+            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_path": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1342,7 +1507,12 @@
             "target_unit": "BJ0031",
             "reference_id": "SchlPubRul:(새만금개발공사)보안업무운영규정#BJ0031",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json"
+            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_path": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_file_path": "(새만금개발공사) 보안업무 운영규정/별지/별지31_대외비목록대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -1362,7 +1532,9 @@
             "source_provision_id": "SchlPubRul:(새만금개발공사)보안업무운영규정#JO0032",
             "reference_id": "law:공공기록물관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/법률/공공기록물 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [
@@ -1409,7 +1581,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(새만금개발공사)보안업무운영규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json"
+            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_path": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_file_path": "(새만금개발공사) 보안업무 운영규정/별표/별표1_공사 안전반출 및 파기계획.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1490,7 +1667,12 @@
             "target_unit": "BJ0018",
             "reference_id": "SchlPubRul:(새만금개발공사)보안업무운영규정#BJ0018",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json"
+            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_path": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_file_path": "(새만금개발공사) 보안업무 운영규정/별지/별지18_방문자 기록대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1515,7 +1697,12 @@
             "target_unit": "BJ0019",
             "reference_id": "SchlPubRul:(새만금개발공사)보안업무운영규정#BJ0019",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json"
+            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_path": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_file_path": "(새만금개발공사) 보안업무 운영규정/별지/별지19_통제구역 출입대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1552,7 +1739,12 @@
             "target_unit": "BJ0024",
             "reference_id": "SchlPubRul:(새만금개발공사)보안업무운영규정#BJ0024",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json"
+            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_path": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_file_path": "(새만금개발공사) 보안업무 운영규정/별지/별지24_최종퇴실점검부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1577,7 +1769,12 @@
             "target_unit": "BJ0020",
             "reference_id": "SchlPubRul:(새만금개발공사)보안업무운영규정#BJ0020",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json"
+            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_path": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_file_path": "(새만금개발공사) 보안업무 운영규정/별지/별지20_제한구역 및 통제구역 안내판.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1625,7 +1822,12 @@
             "target_unit": "BJ0021",
             "reference_id": "SchlPubRul:(새만금개발공사)보안업무운영규정#BJ0021",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json"
+            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_path": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_file_path": "(새만금개발공사) 보안업무 운영규정/별지/별지21_비밀의 사전통제 기록부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1684,7 +1886,12 @@
             "target_unit": "BJ0025",
             "reference_id": "SchlPubRul:(새만금개발공사)보안업무운영규정#BJ0025",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json"
+            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_path": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_file_path": "(새만금개발공사) 보안업무 운영규정/별지/별지25_설계도서 생산 배부 관리대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1709,7 +1916,12 @@
             "target_unit": "BJ0026",
             "reference_id": "SchlPubRul:(새만금개발공사)보안업무운영규정#BJ0026",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json"
+            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_path": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_file_path": "(새만금개발공사) 보안업무 운영규정/별지/별지26_설계도서 접수 관리대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1757,7 +1969,12 @@
             "target_unit": "BJ0023",
             "reference_id": "SchlPubRul:(새만금개발공사)보안업무운영규정#BJ0023",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json"
+            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_path": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_file_path": "(새만금개발공사) 보안업무 운영규정/별지/별지23_보안각서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1782,7 +1999,12 @@
             "target_unit": "BJ0016",
             "reference_id": "SchlPubRul:(새만금개발공사)보안업무운영규정#BJ0016",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json"
+            "target_git_path_guess": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_path": "(새만금개발공사) 보안업무 운영규정/(새만금개발공사) 보안업무 운영규정.json",
+            "target_git_file_path": "(새만금개발공사) 보안업무 운영규정/별지/별지16_비밀·대외비 업무일지.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -1802,7 +2024,11 @@
             "source_provision_id": "SchlPubRul:(새만금개발공사)보안업무운영규정#JO0046",
             "reference_id": "admrul:보안업무규정시행규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json"
+            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_git_path": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1822,7 +2048,11 @@
             "source_provision_id": "SchlPubRul:(새만금개발공사)보안업무운영규정#JO0046",
             "reference_id": "admrul:보안업무규정시행규칙#JO0004",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json"
+            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_git_path": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1887,7 +2117,11 @@
             "source_provision_id": "SchlPubRul:(새만금개발공사)보안업무운영규정#JO0050",
             "reference_id": "admrul:보안업무규정시행규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json"
+            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_git_path": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1907,7 +2141,11 @@
             "source_provision_id": "SchlPubRul:(새만금개발공사)보안업무운영규정#JO0050",
             "reference_id": "admrul:보안업무규정시행규칙#JO0064",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json"
+            "target_git_path_guess": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_git_path": "보안업무규정 시행규칙/보안업무규정 시행규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],

@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#JO0001",
             "reference_id": "law:지방공기업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -203,7 +205,9 @@
             "source_provision_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#JO0010",
             "reference_id": "law:회계관계직원등의책임에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json"
+            "target_git_path_guess": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json",
+            "target_git_path": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -223,7 +227,9 @@
             "source_provision_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#JO0010",
             "reference_id": "law:지방공기업법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/시행령/지방공기업법 시행령.json"
+            "target_git_path_guess": "지방공기업법/시행령/지방공기업법 시행령.json",
+            "target_git_path": "지방공기업법/시행령/지방공기업법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -310,7 +316,11 @@
             "source_provision_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#JO0016",
             "reference_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#JO0015",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json"
+            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_path": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -342,7 +352,11 @@
             "source_provision_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#JO0017",
             "reference_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#JO0016",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json"
+            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_path": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -544,7 +558,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json"
+            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_path": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_file_path": "인천광역시부평구시설관리공단 회계규정/별지/별지1_총계정원장 및 계정별보조원장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -569,7 +588,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json"
+            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_path": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_file_path": "인천광역시부평구시설관리공단 회계규정/별지/별지2_자금수입기록부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -594,7 +618,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json"
+            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_path": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_file_path": "인천광역시부평구시설관리공단 회계규정/별지/별지3_자금지출기록부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -619,7 +648,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json"
+            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_path": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_file_path": "인천광역시부평구시설관리공단 회계규정/별지/별지4_재고자산대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -644,7 +678,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json"
+            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_path": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_file_path": "인천광역시부평구시설관리공단 회계규정/별지/별지5_유형자산대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -669,7 +708,12 @@
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json"
+            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_path": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_file_path": "인천광역시부평구시설관리공단 회계규정/별지/별지6_차입금 관리대장과 상환계획 및 실적.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -694,7 +738,12 @@
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json"
+            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_path": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_file_path": "인천광역시부평구시설관리공단 회계규정/별지/별지7_수입예산정리부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -719,7 +768,12 @@
             "target_unit": "BJ0008",
             "reference_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#BJ0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json"
+            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_path": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_file_path": "인천광역시부평구시설관리공단 회계규정/별지/별지8_지출예산통제원장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -744,7 +798,12 @@
             "target_unit": "BJ0009",
             "reference_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#BJ0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json"
+            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_path": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_file_path": "인천광역시부평구시설관리공단 회계규정/별지/별지9_이월예산 관리대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -769,7 +828,12 @@
             "target_unit": "BJ0010",
             "reference_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#BJ0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json"
+            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_path": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_file_path": "인천광역시부평구시설관리공단 회계규정/별지/별지10_교부자금 관리대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -794,7 +858,12 @@
             "target_unit": "BJ0011",
             "reference_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#BJ0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json"
+            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_path": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_file_path": "인천광역시부평구시설관리공단 회계규정/별지/별지11_합계잔액 시산표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -819,7 +888,12 @@
             "target_unit": "BJ0012",
             "reference_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#BJ0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json"
+            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_path": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_file_path": "인천광역시부평구시설관리공단 회계규정/별지/별지12_일반분개전표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -844,7 +918,12 @@
             "target_unit": "BJ0013",
             "reference_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#BJ0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json"
+            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_path": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_file_path": "인천광역시부평구시설관리공단 회계규정/별지/별지13_토지대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -869,7 +948,12 @@
             "target_unit": "BJ0014",
             "reference_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#BJ0014",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json"
+            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_path": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_file_path": "인천광역시부평구시설관리공단 회계규정/별지/별지14_건물대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -894,7 +978,12 @@
             "target_unit": "BJ0015",
             "reference_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#BJ0015",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json"
+            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_path": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_file_path": "인천광역시부평구시설관리공단 회계규정/별지/별지15_수입지출외현금수납부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -919,7 +1008,12 @@
             "target_unit": "BJ0016",
             "reference_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#BJ0016",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json"
+            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_path": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_file_path": "인천광역시부평구시설관리공단 회계규정/별지/별지16_유가증권수급부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1242,7 +1336,12 @@
             "target_unit": "BJ0017",
             "reference_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#BJ0017",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json"
+            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_path": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_file_path": "인천광역시부평구시설관리공단 회계규정/별지/별지17_지출예산 분기별(월별) 집행계획서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1329,7 +1428,9 @@
             "source_provision_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#JO0063",
             "reference_id": "law:지방자치단체를당사자로하는계약에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방자치단체를 당사자로 하는 계약에 관한 법률/시행령/지방자치단체를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "지방자치단체를 당사자로 하는 계약에 관한 법률/시행령/지방자치단체를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "지방자치단체를 당사자로 하는 계약에 관한 법률/시행령/지방자치단체를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1349,7 +1450,9 @@
             "source_provision_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#JO0063",
             "reference_id": "law:지방자치단체를당사자로하는계약에관한법률시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방자치단체를 당사자로 하는 계약에 관한 법률/시행규칙/지방자치단체를 당사자로 하는 계약에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "지방자치단체를 당사자로 하는 계약에 관한 법률/시행규칙/지방자치단체를 당사자로 하는 계약에 관한 법률 시행규칙.json",
+            "target_git_path": "지방자치단체를 당사자로 하는 계약에 관한 법률/시행규칙/지방자치단체를 당사자로 하는 계약에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1408,7 +1511,12 @@
             "target_unit": "BJ0018",
             "reference_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#BJ0018",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json"
+            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_path": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_file_path": "인천광역시부평구시설관리공단 회계규정/별지/별지18_수입일계표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1511,7 +1619,12 @@
             "target_unit": "BJ0019",
             "reference_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#BJ0019",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json"
+            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_path": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_file_path": "인천광역시부평구시설관리공단 회계규정/별지/별지19_징수결의서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1543,7 +1656,11 @@
             "source_provision_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#JO0074",
             "reference_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#JO0073",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json"
+            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_path": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1568,7 +1685,12 @@
             "target_unit": "BJ0020",
             "reference_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#BJ0020",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json"
+            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_path": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_file_path": "인천광역시부평구시설관리공단 회계규정/별지/별지20_납입고지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1660,7 +1782,12 @@
             "target_unit": "BJ0021",
             "reference_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#BJ0021",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json"
+            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_path": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_file_path": "인천광역시부평구시설관리공단 회계규정/별지/별지21_과오납금 반환청구서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1685,7 +1812,12 @@
             "target_unit": "BJ0022",
             "reference_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#BJ0022",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json"
+            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_path": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_file_path": "인천광역시부평구시설관리공단 회계규정/별지/별지22_과오납금 반환결의서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1710,7 +1842,12 @@
             "target_unit": "BJ0023",
             "reference_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#BJ0023",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json"
+            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_path": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_file_path": "인천광역시부평구시설관리공단 회계규정/별지/별지23_과오납금 정리부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1735,7 +1872,12 @@
             "target_unit": "BJ0024",
             "reference_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#BJ0024",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json"
+            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_path": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_file_path": "인천광역시부평구시설관리공단 회계규정/별지/별지24_통상과오납금 반환통지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1760,7 +1902,12 @@
             "target_unit": "BJ0024_01",
             "reference_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#BJ0024_01",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json"
+            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_path": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_file_path": "인천광역시부평구시설관리공단 회계규정/별지/별지24의1_송금과오납금 반환통지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1841,7 +1988,12 @@
             "target_unit": "BJ0025",
             "reference_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#BJ0025",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json"
+            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_path": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_file_path": "인천광역시부평구시설관리공단 회계규정/별지/별지25_지출결의서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1866,7 +2018,12 @@
             "target_unit": "BJ0025_05",
             "reference_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#BJ0025_05",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json"
+            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_path": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_file_path": "인천광역시부평구시설관리공단 회계규정/별지/별지25의5_여비지출결의서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1925,7 +2082,12 @@
             "target_unit": "BJ0026",
             "reference_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#BJ0026",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json"
+            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_path": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_file_path": "인천광역시부평구시설관리공단 회계규정/별지/별지26_통상지급통지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1984,7 +2146,12 @@
             "target_unit": "BJ0027",
             "reference_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#BJ0027",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json"
+            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_path": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_file_path": "인천광역시부평구시설관리공단 회계규정/별지/별지27_송금(계좌입금)지급통지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -2032,7 +2199,12 @@
             "target_unit": "BJ0028",
             "reference_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#BJ0028",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json"
+            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_path": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_file_path": "인천광역시부평구시설관리공단 회계규정/별지/별지28_반납결의서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2057,7 +2229,12 @@
             "target_unit": "BJ0029",
             "reference_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#BJ0029",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json"
+            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_path": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_file_path": "인천광역시부평구시설관리공단 회계규정/별지/별지29_반납고지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -2149,7 +2326,12 @@
             "target_unit": "BJ0030",
             "reference_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#BJ0030",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json"
+            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_path": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_file_path": "인천광역시부평구시설관리공단 회계규정/별지/별지30_수입지출외현금납부서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2174,7 +2356,12 @@
             "target_unit": "BJ0031",
             "reference_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#BJ0031",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json"
+            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_path": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_file_path": "인천광역시부평구시설관리공단 회계규정/별지/별지31_수입지출외현금(유가증권)반환청구서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2199,7 +2386,12 @@
             "target_unit": "BJ0032",
             "reference_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#BJ0032",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json"
+            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_path": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_file_path": "인천광역시부평구시설관리공단 회계규정/별지/별지32_수입지출외현금송금의뢰서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -2280,7 +2472,12 @@
             "target_unit": "BJ0033",
             "reference_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#BJ0033",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json"
+            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_path": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_file_path": "인천광역시부평구시설관리공단 회계규정/별지/별지33_지출계산서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2305,7 +2502,12 @@
             "target_unit": "BJ0033_01",
             "reference_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#BJ0033_01",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json"
+            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_path": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_file_path": "인천광역시부평구시설관리공단 회계규정/별지/별지33의1_수입지출외현금 출납계산서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -2353,7 +2555,12 @@
             "target_unit": "BJ0034_01",
             "reference_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#BJ0034_01",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json"
+            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_path": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_file_path": "인천광역시부평구시설관리공단 회계규정/별지/별지34의1_현금 및 예금현재액 조서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2378,7 +2585,12 @@
             "target_unit": "BJ0034",
             "reference_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#BJ0034",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json"
+            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_path": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_file_path": "인천광역시부평구시설관리공단 회계규정/별지/별지34_출납원사무인계보고서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -2448,7 +2660,12 @@
             "target_unit": "BJ0035",
             "reference_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#BJ0035",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json"
+            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_path": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_file_path": "인천광역시부평구시설관리공단 회계규정/별지/별지35_인감신고서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -2485,7 +2702,12 @@
             "target_unit": "BJ0036",
             "reference_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#BJ0036",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json"
+            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_path": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_file_path": "인천광역시부평구시설관리공단 회계규정/별지/별지36_수입지출원장(금고용).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2510,7 +2732,12 @@
             "target_unit": "BJ0037",
             "reference_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#BJ0037",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json"
+            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_path": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_file_path": "인천광역시부평구시설관리공단 회계규정/별지/별지37_수입금내역장(금고용).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2535,7 +2762,12 @@
             "target_unit": "BJ0038",
             "reference_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#BJ0038",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json"
+            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_path": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_file_path": "인천광역시부평구시설관리공단 회계규정/별지/별지38_지출금내역장(금고용).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2560,7 +2792,12 @@
             "target_unit": "BJ0039",
             "reference_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#BJ0039",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json"
+            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_path": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_file_path": "인천광역시부평구시설관리공단 회계규정/별지/별지39_수입지출외현금출납장(금고용).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2585,7 +2822,12 @@
             "target_unit": "BJ0040",
             "reference_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#BJ0040",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json"
+            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_path": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_file_path": "인천광역시부평구시설관리공단 회계규정/별지/별지40_유가증권수납부(금고용).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2610,7 +2852,12 @@
             "target_unit": "BJ0041",
             "reference_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#BJ0041",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json"
+            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_path": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_file_path": "인천광역시부평구시설관리공단 회계규정/별지/별지41_자금운용내역부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -2658,7 +2905,12 @@
             "target_unit": "BJ0042",
             "reference_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#BJ0042",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json"
+            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_path": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_file_path": "인천광역시부평구시설관리공단 회계규정/별지/별지42_지급필 통지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -2717,7 +2969,12 @@
             "target_unit": "BJ0043",
             "reference_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#BJ0043",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json"
+            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_path": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_file_path": "인천광역시부평구시설관리공단 회계규정/별지/별지43_수입지출일계표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2742,7 +2999,12 @@
             "target_unit": "BJ0044",
             "reference_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#BJ0044",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json"
+            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_path": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_file_path": "인천광역시부평구시설관리공단 회계규정/별지/별지44_수입지출외현금(유가증권)일계표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2767,7 +3029,12 @@
             "target_unit": "BJ0045",
             "reference_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#BJ0045",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json"
+            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_path": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_file_path": "인천광역시부평구시설관리공단 회계규정/별지/별지45_수입월계표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2792,7 +3059,12 @@
             "target_unit": "BJ0045_01",
             "reference_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#BJ0045_01",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json"
+            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_path": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_file_path": "인천광역시부평구시설관리공단 회계규정/별지/별지45의1_지출월계표 및 납입서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -2868,7 +3140,11 @@
             "source_provision_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#JO0121",
             "reference_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#JO0139",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json"
+            "target_git_path_guess": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_git_path": "인천광역시부평구시설관리공단 회계규정/인천광역시부평구시설관리공단 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -3153,7 +3429,9 @@
             "source_provision_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#JO0145",
             "reference_id": "law:법인세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "법인세법/법률/법인세법.json"
+            "target_git_path_guess": "법인세법/법률/법인세법.json",
+            "target_git_path": "법인세법/법률/법인세법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -3196,7 +3474,9 @@
             "source_provision_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#JO0147",
             "reference_id": "law:법인세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "법인세법/법률/법인세법.json"
+            "target_git_path_guess": "법인세법/법률/법인세법.json",
+            "target_git_path": "법인세법/법률/법인세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3216,7 +3496,9 @@
             "source_provision_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#JO0147",
             "reference_id": "law:법인세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "법인세법/법률/법인세법.json"
+            "target_git_path_guess": "법인세법/법률/법인세법.json",
+            "target_git_path": "법인세법/법률/법인세법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -3325,7 +3607,9 @@
             "source_provision_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#JO0155",
             "reference_id": "law:법인세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "법인세법/법률/법인세법.json"
+            "target_git_path_guess": "법인세법/법률/법인세법.json",
+            "target_git_path": "법인세법/법률/법인세법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -3511,7 +3795,11 @@
             "source_provision_id": "SchlPubRul:인천광역시부평구시설관리공단회계규정#JO0170",
             "reference_id": "SchlPubRul:인천광역시부평구시설관리공단정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천광역시부평구시설관리공단 정관/인천광역시부평구시설관리공단 정관.json"
+            "target_git_path_guess": "인천광역시부평구시설관리공단 정관/인천광역시부평구시설관리공단 정관.json",
+            "target_git_path": "인천광역시부평구시설관리공단 정관/인천광역시부평구시설관리공단 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],

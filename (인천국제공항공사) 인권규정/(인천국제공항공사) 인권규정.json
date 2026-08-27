@@ -76,7 +76,9 @@
             "source_provision_id": "SchlPubRul:(인천국제공항공사)인권규정#JO0002",
             "reference_id": "law:대한민국헌법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "대한민국 헌법/법률/대한민국 헌법.json"
+            "target_git_path_guess": "대한민국 헌법/법률/대한민국 헌법.json",
+            "target_git_path": "대한민국헌법/법률/대한민국헌법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -295,7 +297,11 @@
             "source_provision_id": "SchlPubRul:(인천국제공항공사)인권규정#JO0020",
             "reference_id": "SchlPubRul:(인천국제공항공사)인권규정#JO0019",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 인권규정/(인천국제공항공사) 인권규정.json"
+            "target_git_path_guess": "(인천국제공항공사) 인권규정/(인천국제공항공사) 인권규정.json",
+            "target_git_path": "(인천국제공항공사) 인권규정/(인천국제공항공사) 인권규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -315,7 +321,11 @@
             "source_provision_id": "SchlPubRul:(인천국제공항공사)인권규정#JO0020",
             "reference_id": "SchlPubRul:(인천국제공항공사)인권규정#JO0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 인권규정/(인천국제공항공사) 인권규정.json"
+            "target_git_path_guess": "(인천국제공항공사) 인권규정/(인천국제공항공사) 인권규정.json",
+            "target_git_path": "(인천국제공항공사) 인권규정/(인천국제공항공사) 인권규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -340,7 +350,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(인천국제공항공사)인권규정#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 인권규정/(인천국제공항공사) 인권규정.json"
+            "target_git_path_guess": "(인천국제공항공사) 인권규정/(인천국제공항공사) 인권규정.json",
+            "target_git_path": "(인천국제공항공사) 인권규정/(인천국제공항공사) 인권규정.json",
+            "target_git_file_path": "(인천국제공항공사) 인권규정/별지/별지1_의결사항.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -365,7 +380,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(인천국제공항공사)인권규정#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 인권규정/(인천국제공항공사) 인권규정.json"
+            "target_git_path_guess": "(인천국제공항공사) 인권규정/(인천국제공항공사) 인권규정.json",
+            "target_git_path": "(인천국제공항공사) 인권규정/(인천국제공항공사) 인권규정.json",
+            "target_git_file_path": "(인천국제공항공사) 인권규정/별지/별지2_보고사항.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -402,7 +422,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:(인천국제공항공사)인권규정#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(인천국제공항공사) 인권규정/(인천국제공항공사) 인권규정.json"
+            "target_git_path_guess": "(인천국제공항공사) 인권규정/(인천국제공항공사) 인권규정.json",
+            "target_git_path": "(인천국제공항공사) 인권규정/(인천국제공항공사) 인권규정.json",
+            "target_git_file_path": "(인천국제공항공사) 인권규정/별지/별지3_인권경영위원회 회의록.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

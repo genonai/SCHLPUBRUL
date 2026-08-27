@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:(공간정보품질관리원)민원처리규정#JO0001",
             "reference_id": "law:민원처리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민원 처리에 관한 법률/법률/민원 처리에 관한 법률.json"
+            "target_git_path_guess": "민원 처리에 관한 법률/법률/민원 처리에 관한 법률.json",
+            "target_git_path": "민원 처리에 관한 법률/법률/민원 처리에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -97,7 +99,9 @@
             "source_provision_id": "SchlPubRul:(공간정보품질관리원)민원처리규정#JO0002",
             "reference_id": "law:민원처리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민원 처리에 관한 법률/법률/민원 처리에 관한 법률.json"
+            "target_git_path_guess": "민원 처리에 관한 법률/법률/민원 처리에 관한 법률.json",
+            "target_git_path": "민원 처리에 관한 법률/법률/민원 처리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -117,7 +121,9 @@
             "source_provision_id": "SchlPubRul:(공간정보품질관리원)민원처리규정#JO0002",
             "reference_id": "law:민원처리에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "민원 처리에 관한 법률/법률/민원 처리에 관한 법률.json"
+            "target_git_path_guess": "민원 처리에 관한 법률/법률/민원 처리에 관한 법률.json",
+            "target_git_path": "민원 처리에 관한 법률/법률/민원 처리에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -182,7 +188,11 @@
             "source_provision_id": "SchlPubRul:(공간정보품질관리원)민원처리규정#JO0006",
             "reference_id": "SchlPubRul:(공간정보품질관리원)민원처리규정#JO0017",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json"
+            "target_git_path_guess": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json",
+            "target_git_path": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -252,7 +262,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(공간정보품질관리원)민원처리규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json"
+            "target_git_path_guess": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json",
+            "target_git_path": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json",
+            "target_git_file_path": "(공간정보품질관리원) 민원처리규정/별표/별표1_민원문서 표시인(제10조제3항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -277,7 +292,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(공간정보품질관리원)민원처리규정#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json"
+            "target_git_path_guess": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json",
+            "target_git_path": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json",
+            "target_git_file_path": "(공간정보품질관리원) 민원처리규정/별지/별지1_민원처리부(제10조제3항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -302,7 +322,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(공간정보품질관리원)민원처리규정#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json"
+            "target_git_path_guess": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json",
+            "target_git_path": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json",
+            "target_git_file_path": "(공간정보품질관리원) 민원처리규정/별지/별지2_접수증(제10조제3항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -327,7 +352,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:(공간정보품질관리원)민원처리규정#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json"
+            "target_git_path_guess": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json",
+            "target_git_path": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json",
+            "target_git_file_path": "(공간정보품질관리원) 민원처리규정/별지/별지3_위임장(제10조제4항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -370,7 +400,9 @@
             "source_provision_id": "SchlPubRul:(공간정보품질관리원)민원처리규정#JO0012",
             "reference_id": "law:지능정보화기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지능정보화 기본법/법률/지능정보화 기본법.json"
+            "target_git_path_guess": "지능정보화 기본법/법률/지능정보화 기본법.json",
+            "target_git_path": "지능정보화 기본법/법률/지능정보화 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -390,7 +422,9 @@
             "source_provision_id": "SchlPubRul:(공간정보품질관리원)민원처리규정#JO0012",
             "reference_id": "law:지능정보화기본법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "지능정보화 기본법/법률/지능정보화 기본법.json"
+            "target_git_path_guess": "지능정보화 기본법/법률/지능정보화 기본법.json",
+            "target_git_path": "지능정보화 기본법/법률/지능정보화 기본법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -433,7 +467,11 @@
             "source_provision_id": "SchlPubRul:(공간정보품질관리원)민원처리규정#JO0014",
             "reference_id": "SchlPubRul:(공간정보품질관리원)민원처리규정#JO0040",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json"
+            "target_git_path_guess": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json",
+            "target_git_path": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -492,7 +530,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:(공간정보품질관리원)민원처리규정#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json"
+            "target_git_path_guess": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json",
+            "target_git_path": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json",
+            "target_git_file_path": "(공간정보품질관리원) 민원처리규정/별표/별표2_민원 종류별 처리기간 및 구비서류(제17조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -535,7 +578,11 @@
             "source_provision_id": "SchlPubRul:(공간정보품질관리원)민원처리규정#JO0019",
             "reference_id": "SchlPubRul:(공간정보품질관리원)민원처리규정#JO0017",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json"
+            "target_git_path_guess": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json",
+            "target_git_path": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -555,7 +602,11 @@
             "source_provision_id": "SchlPubRul:(공간정보품질관리원)민원처리규정#JO0019",
             "reference_id": "SchlPubRul:(공간정보품질관리원)민원처리규정#JO0037",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json"
+            "target_git_path_guess": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json",
+            "target_git_path": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -598,7 +649,11 @@
             "source_provision_id": "SchlPubRul:(공간정보품질관리원)민원처리규정#JO0021",
             "reference_id": "SchlPubRul:(공간정보품질관리원)민원처리규정#JO0041",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json"
+            "target_git_path_guess": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json",
+            "target_git_path": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -635,7 +690,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:(공간정보품질관리원)민원처리규정#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json"
+            "target_git_path_guess": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json",
+            "target_git_path": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json",
+            "target_git_file_path": "(공간정보품질관리원) 민원처리규정/별지/별지4_연장통지서(제22조제2항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -678,7 +738,11 @@
             "source_provision_id": "SchlPubRul:(공간정보품질관리원)민원처리규정#JO0024",
             "reference_id": "SchlPubRul:(공간정보품질관리원)민원처리규정#JO0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json"
+            "target_git_path_guess": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json",
+            "target_git_path": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -698,7 +762,11 @@
             "source_provision_id": "SchlPubRul:(공간정보품질관리원)민원처리규정#JO0024",
             "reference_id": "SchlPubRul:(공간정보품질관리원)민원처리규정#JO0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json"
+            "target_git_path_guess": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json",
+            "target_git_path": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -718,7 +786,11 @@
             "source_provision_id": "SchlPubRul:(공간정보품질관리원)민원처리규정#JO0024",
             "reference_id": "SchlPubRul:(공간정보품질관리원)민원처리규정#JO0017",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json"
+            "target_git_path_guess": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json",
+            "target_git_path": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -755,7 +827,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:(공간정보품질관리원)민원처리규정#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json"
+            "target_git_path_guess": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json",
+            "target_git_path": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json",
+            "target_git_file_path": "(공간정보품질관리원) 민원처리규정/별지/별지5_진행상황 통지서(제25조제1항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -787,7 +864,11 @@
             "source_provision_id": "SchlPubRul:(공간정보품질관리원)민원처리규정#JO0026",
             "reference_id": "SchlPubRul:(공간정보품질관리원)민원처리규정#JO0017",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json"
+            "target_git_path_guess": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json",
+            "target_git_path": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -819,7 +900,11 @@
             "source_provision_id": "SchlPubRul:(공간정보품질관리원)민원처리규정#JO0027",
             "reference_id": "SchlPubRul:(공간정보품질관리원)민원처리규정#JO0026",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json"
+            "target_git_path_guess": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json",
+            "target_git_path": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -851,7 +936,11 @@
             "source_provision_id": "SchlPubRul:(공간정보품질관리원)민원처리규정#JO0028",
             "reference_id": "SchlPubRul:(공간정보품질관리원)민원처리규정#JO0036",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json"
+            "target_git_path_guess": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json",
+            "target_git_path": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -871,7 +960,11 @@
             "source_provision_id": "SchlPubRul:(공간정보품질관리원)민원처리규정#JO0028",
             "reference_id": "SchlPubRul:(공간정보품질관리원)민원처리규정#JO0034",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json"
+            "target_git_path_guess": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json",
+            "target_git_path": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -903,7 +996,11 @@
             "source_provision_id": "SchlPubRul:(공간정보품질관리원)민원처리규정#JO0029",
             "reference_id": "SchlPubRul:(공간정보품질관리원)민원처리규정#JO0035",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json"
+            "target_git_path_guess": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json",
+            "target_git_path": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -946,7 +1043,11 @@
             "source_provision_id": "SchlPubRul:(공간정보품질관리원)민원처리규정#JO0031",
             "reference_id": "SchlPubRul:(공간정보품질관리원)민원처리규정#JO0034",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json"
+            "target_git_path_guess": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json",
+            "target_git_path": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -978,7 +1079,11 @@
             "source_provision_id": "SchlPubRul:(공간정보품질관리원)민원처리규정#JO0032",
             "reference_id": "SchlPubRul:(공간정보품질관리원)민원처리규정#JO0033",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json"
+            "target_git_path_guess": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json",
+            "target_git_path": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1021,7 +1126,11 @@
             "source_provision_id": "SchlPubRul:(공간정보품질관리원)민원처리규정#JO0034",
             "reference_id": "SchlPubRul:(공간정보품질관리원)민원처리규정#JO0031",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json"
+            "target_git_path_guess": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json",
+            "target_git_path": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1058,7 +1167,12 @@
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:(공간정보품질관리원)민원처리규정#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json"
+            "target_git_path_guess": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json",
+            "target_git_path": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json",
+            "target_git_file_path": "(공간정보품질관리원) 민원처리규정/별지/별지6_거부처분 이의신청서(제35조제1항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1083,7 +1197,12 @@
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:(공간정보품질관리원)민원처리규정#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json"
+            "target_git_path_guess": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json",
+            "target_git_path": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json",
+            "target_git_file_path": "(공간정보품질관리원) 민원처리규정/별지/별지7_이의신청처리대장(제35조제5항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1153,7 +1272,12 @@
             "target_unit": "BJ0008",
             "reference_id": "SchlPubRul:(공간정보품질관리원)민원처리규정#BJ0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json"
+            "target_git_path_guess": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json",
+            "target_git_path": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json",
+            "target_git_file_path": "(공간정보품질관리원) 민원처리규정/별지/별지8_다수인관련 조사분석카드(제39조제4항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1173,7 +1297,11 @@
             "source_provision_id": "SchlPubRul:(공간정보품질관리원)민원처리규정#JO0039",
             "reference_id": "SchlPubRul:(공간정보품질관리원)민원처리규정#JO0040",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json"
+            "target_git_path_guess": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json",
+            "target_git_path": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1193,7 +1321,11 @@
             "source_provision_id": "SchlPubRul:(공간정보품질관리원)민원처리규정#JO0039",
             "reference_id": "SchlPubRul:(공간정보품질관리원)민원처리규정#JO0034",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json"
+            "target_git_path_guess": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json",
+            "target_git_path": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1230,7 +1362,12 @@
             "target_unit": "BJ0009",
             "reference_id": "SchlPubRul:(공간정보품질관리원)민원처리규정#BJ0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json"
+            "target_git_path_guess": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json",
+            "target_git_path": "(공간정보품질관리원) 민원처리규정/(공간정보품질관리원) 민원처리규정.json",
+            "target_git_file_path": "(공간정보품질관리원) 민원처리규정/별지/별지9_독촉장(제40조제2항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

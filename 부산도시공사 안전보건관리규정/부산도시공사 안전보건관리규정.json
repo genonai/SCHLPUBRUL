@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:부산도시공사안전보건관리규정#JO0001",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -97,7 +99,9 @@
             "source_provision_id": "SchlPubRul:부산도시공사안전보건관리규정#JO0002",
             "reference_id": "law:중대재해처벌등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중대재해 처벌 등에 관한 법률/법률/중대재해 처벌 등에 관한 법률.json"
+            "target_git_path_guess": "중대재해 처벌 등에 관한 법률/법률/중대재해 처벌 등에 관한 법률.json",
+            "target_git_path": "중대재해 처벌 등에 관한 법률/법률/중대재해 처벌 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -129,7 +133,9 @@
             "source_provision_id": "SchlPubRul:부산도시공사안전보건관리규정#JO0003",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -149,7 +155,9 @@
             "source_provision_id": "SchlPubRul:부산도시공사안전보건관리규정#JO0003",
             "reference_id": "law:근로기준법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -203,7 +211,9 @@
             "source_provision_id": "SchlPubRul:부산도시공사안전보건관리규정#JO0006",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -223,7 +233,9 @@
             "source_provision_id": "SchlPubRul:부산도시공사안전보건관리규정#JO0006",
             "reference_id": "law:산업안전보건법#JO0065",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -243,7 +255,9 @@
             "source_provision_id": "SchlPubRul:부산도시공사안전보건관리규정#JO0006",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -263,7 +277,9 @@
             "source_provision_id": "SchlPubRul:부산도시공사안전보건관리규정#JO0006",
             "reference_id": "law:산업안전보건법#JO0061",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -300,7 +316,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:부산도시공사안전보건관리규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산도시공사 안전보건관리규정/부산도시공사 안전보건관리규정.json"
+            "target_git_path_guess": "부산도시공사 안전보건관리규정/부산도시공사 안전보건관리규정.json",
+            "target_git_path": "부산도시공사 안전보건관리규정/부산도시공사 안전보건관리규정.json",
+            "target_git_file_path": "부산도시공사 안전보건관리규정/별표/별표1_안전보건관리 조직.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -387,7 +408,9 @@
             "source_provision_id": "SchlPubRul:부산도시공사안전보건관리규정#JO0013",
             "reference_id": "law:의료법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "의료법/법률/의료법.json"
+            "target_git_path_guess": "의료법/법률/의료법.json",
+            "target_git_path": "의료법/법률/의료법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -419,7 +442,9 @@
             "source_provision_id": "SchlPubRul:부산도시공사안전보건관리규정#JO0014",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -439,7 +464,9 @@
             "source_provision_id": "SchlPubRul:부산도시공사안전보건관리규정#JO0014",
             "reference_id": "law:산업안전보건법#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -482,7 +509,11 @@
             "source_provision_id": "SchlPubRul:부산도시공사안전보건관리규정#JO0016",
             "reference_id": "SchlPubRul:부산도시공사안전보건관리규정#JO0043",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산도시공사 안전보건관리규정/부산도시공사 안전보건관리규정.json"
+            "target_git_path_guess": "부산도시공사 안전보건관리규정/부산도시공사 안전보건관리규정.json",
+            "target_git_path": "부산도시공사 안전보건관리규정/부산도시공사 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -502,7 +533,11 @@
             "source_provision_id": "SchlPubRul:부산도시공사안전보건관리규정#JO0016",
             "reference_id": "SchlPubRul:부산도시공사안전보건관리규정#JO0037",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산도시공사 안전보건관리규정/부산도시공사 안전보건관리규정.json"
+            "target_git_path_guess": "부산도시공사 안전보건관리규정/부산도시공사 안전보건관리규정.json",
+            "target_git_path": "부산도시공사 안전보건관리규정/부산도시공사 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -534,7 +569,11 @@
             "source_provision_id": "SchlPubRul:부산도시공사안전보건관리규정#JO0017",
             "reference_id": "SchlPubRul:부산도시공사안전보건관리규정#JO0025",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산도시공사 안전보건관리규정/부산도시공사 안전보건관리규정.json"
+            "target_git_path_guess": "부산도시공사 안전보건관리규정/부산도시공사 안전보건관리규정.json",
+            "target_git_path": "부산도시공사 안전보건관리규정/부산도시공사 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -588,7 +627,9 @@
             "source_provision_id": "SchlPubRul:부산도시공사안전보건관리규정#JO0020",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -608,7 +649,9 @@
             "source_provision_id": "SchlPubRul:부산도시공사안전보건관리규정#JO0020",
             "reference_id": "law:산업안전보건법#JO0029",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -640,7 +683,11 @@
             "source_provision_id": "SchlPubRul:부산도시공사안전보건관리규정#JO0021",
             "reference_id": "SchlPubRul:부산도시공사안전보건관리규정#JO0018",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산도시공사 안전보건관리규정/부산도시공사 안전보건관리규정.json"
+            "target_git_path_guess": "부산도시공사 안전보건관리규정/부산도시공사 안전보건관리규정.json",
+            "target_git_path": "부산도시공사 안전보건관리규정/부산도시공사 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -660,7 +707,11 @@
             "source_provision_id": "SchlPubRul:부산도시공사안전보건관리규정#JO0021",
             "reference_id": "SchlPubRul:부산도시공사안전보건관리규정#JO0020",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산도시공사 안전보건관리규정/부산도시공사 안전보건관리규정.json"
+            "target_git_path_guess": "부산도시공사 안전보건관리규정/부산도시공사 안전보건관리규정.json",
+            "target_git_path": "부산도시공사 안전보건관리규정/부산도시공사 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -703,7 +754,11 @@
             "source_provision_id": "SchlPubRul:부산도시공사안전보건관리규정#JO0023",
             "reference_id": "SchlPubRul:부산도시공사안전보건관리규정#JO0018",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산도시공사 안전보건관리규정/부산도시공사 안전보건관리규정.json"
+            "target_git_path_guess": "부산도시공사 안전보건관리규정/부산도시공사 안전보건관리규정.json",
+            "target_git_path": "부산도시공사 안전보건관리규정/부산도시공사 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -779,7 +834,11 @@
             "source_provision_id": "SchlPubRul:부산도시공사안전보건관리규정#JO0028",
             "reference_id": "SchlPubRul:부산도시공사안전보건관리규정#JO0027",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산도시공사 안전보건관리규정/부산도시공사 안전보건관리규정.json"
+            "target_git_path_guess": "부산도시공사 안전보건관리규정/부산도시공사 안전보건관리규정.json",
+            "target_git_path": "부산도시공사 안전보건관리규정/부산도시공사 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -811,7 +870,11 @@
             "source_provision_id": "SchlPubRul:부산도시공사안전보건관리규정#JO0029",
             "reference_id": "SchlPubRul:부산도시공사안전보건관리규정#JO0027",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산도시공사 안전보건관리규정/부산도시공사 안전보건관리규정.json"
+            "target_git_path_guess": "부산도시공사 안전보건관리규정/부산도시공사 안전보건관리규정.json",
+            "target_git_path": "부산도시공사 안전보건관리규정/부산도시공사 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -843,7 +906,9 @@
             "source_provision_id": "SchlPubRul:부산도시공사안전보건관리규정#JO0030",
             "reference_id": "law:산업안전보건법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -863,7 +928,9 @@
             "source_provision_id": "SchlPubRul:부산도시공사안전보건관리규정#JO0030",
             "reference_id": "law:산업안전보건법시행규칙#JO0114",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -928,7 +995,9 @@
             "source_provision_id": "SchlPubRul:부산도시공사안전보건관리규정#JO0034",
             "reference_id": "law:산업안전보건기준에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1053,7 +1122,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:부산도시공사안전보건관리규정#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산도시공사 안전보건관리규정/부산도시공사 안전보건관리규정.json"
+            "target_git_path_guess": "부산도시공사 안전보건관리규정/부산도시공사 안전보건관리규정.json",
+            "target_git_path": "부산도시공사 안전보건관리규정/부산도시공사 안전보건관리규정.json",
+            "target_git_file_path": "부산도시공사 안전보건관리규정/별표/별표2_안전보건 보호구 지급기준.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1140,7 +1214,11 @@
             "source_provision_id": "SchlPubRul:부산도시공사안전보건관리규정#JO0049",
             "reference_id": "SchlPubRul:부산도시공사안전보건경영규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산도시공사 안전보건경영규정/부산도시공사 안전보건경영규정.json"
+            "target_git_path_guess": "부산도시공사 안전보건경영규정/부산도시공사 안전보건경영규정.json",
+            "target_git_path": "부산도시공사 안전보건경영규정/부산도시공사 안전보건경영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -1160,7 +1238,11 @@
             "source_provision_id": "SchlPubRul:부산도시공사안전보건관리규정#JO0049",
             "reference_id": "SchlPubRul:부산도시공사안전보건관리규정#JO0019",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산도시공사 안전보건관리규정/부산도시공사 안전보건관리규정.json"
+            "target_git_path_guess": "부산도시공사 안전보건관리규정/부산도시공사 안전보건관리규정.json",
+            "target_git_path": "부산도시공사 안전보건관리규정/부산도시공사 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1313,7 +1395,9 @@
             "source_provision_id": "SchlPubRul:부산도시공사안전보건관리규정#JO0061",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

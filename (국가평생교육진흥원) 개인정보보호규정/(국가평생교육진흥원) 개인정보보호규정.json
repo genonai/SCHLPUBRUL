@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#JO0001",
             "reference_id": "law:개인정보보호법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/시행령/개인정보 보호법 시행령.json"
+            "target_git_path_guess": "개인정보 보호법/시행령/개인정보 보호법 시행령.json",
+            "target_git_path": "개인정보 보호법/시행령/개인정보 보호법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -85,7 +87,11 @@
             "source_provision_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#JO0001",
             "reference_id": "admrul:표준개인정보보호지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "표준 개인정보 보호지침/표준 개인정보 보호지침.json"
+            "target_git_path_guess": "표준 개인정보 보호지침/표준 개인정보 보호지침.json",
+            "target_git_path": "표준 개인정보 보호지침/표준 개인정보 보호지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -148,7 +154,9 @@
             "source_provision_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#JO0003",
             "reference_id": "law:개인정보보호법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/시행령/개인정보 보호법 시행령.json"
+            "target_git_path_guess": "개인정보 보호법/시행령/개인정보 보호법 시행령.json",
+            "target_git_path": "개인정보 보호법/시행령/개인정보 보호법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -168,7 +176,11 @@
             "source_provision_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#JO0003",
             "reference_id": "admrul:표준개인정보보호지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "표준 개인정보 보호지침/표준 개인정보 보호지침.json"
+            "target_git_path_guess": "표준 개인정보 보호지침/표준 개인정보 보호지침.json",
+            "target_git_path": "표준 개인정보 보호지침/표준 개인정보 보호지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -200,7 +212,9 @@
             "source_provision_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#JO0004",
             "reference_id": "law:개인정보보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json"
+            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -220,7 +234,9 @@
             "source_provision_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#JO0004",
             "reference_id": "law:개인정보보호법#JO0030",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json"
+            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -301,7 +317,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json"
+            "target_git_path_guess": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json",
+            "target_git_path": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json",
+            "target_git_file_path": "(국가평생교육진흥원) 개인정보보호규정/별지/별지1_개인정보파일 보유기간 책정 기준표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -321,7 +342,9 @@
             "source_provision_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#JO0009",
             "reference_id": "law:개인정보보호법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/시행령/개인정보 보호법 시행령.json"
+            "target_git_path_guess": "개인정보 보호법/시행령/개인정보 보호법 시행령.json",
+            "target_git_path": "개인정보 보호법/시행령/개인정보 보호법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -341,7 +364,9 @@
             "source_provision_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#JO0009",
             "reference_id": "law:개인정보보호법시행령#JO0014_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/시행령/개인정보 보호법 시행령.json"
+            "target_git_path_guess": "개인정보 보호법/시행령/개인정보 보호법 시행령.json",
+            "target_git_path": "개인정보 보호법/시행령/개인정보 보호법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -378,7 +403,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json"
+            "target_git_path_guess": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json",
+            "target_git_path": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json",
+            "target_git_file_path": "(국가평생교육진흥원) 개인정보보호규정/별지/별지2_개인정보파일(등록, 변경등록) 신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -398,7 +428,9 @@
             "source_provision_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#JO0010",
             "reference_id": "law:통계법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "통계법/법률/통계법.json"
+            "target_git_path_guess": "통계법/법률/통계법.json",
+            "target_git_path": "통계법/법률/통계법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -418,7 +450,9 @@
             "source_provision_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#JO0010",
             "reference_id": "law:조세범처벌법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "조세범처벌법/법률/조세범처벌법.json"
+            "target_git_path_guess": "조세범처벌법/법률/조세범처벌법.json",
+            "target_git_path": "조세범 처벌법/법률/조세범 처벌법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -438,7 +472,9 @@
             "source_provision_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#JO0010",
             "reference_id": "law:관세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/법률/관세법.json"
+            "target_git_path_guess": "관세법/법률/관세법.json",
+            "target_git_path": "관세법/법률/관세법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -475,7 +511,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json"
+            "target_git_path_guess": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json",
+            "target_git_path": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json",
+            "target_git_file_path": "(국가평생교육진흥원) 개인정보보호규정/별표/별표1_개인정보파일 보유기간 책정 기준표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -495,7 +536,9 @@
             "source_provision_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#JO0010_02",
             "reference_id": "law:공공기록물관리에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -532,7 +575,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json"
+            "target_git_path_guess": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json",
+            "target_git_path": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json",
+            "target_git_file_path": "(국가평생교육진흥원) 개인정보보호규정/별지/별지1_개인정보파일 보유기간 책정 기준표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -552,7 +600,9 @@
             "source_provision_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#JO0011",
             "reference_id": "law:개인정보보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json"
+            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -572,7 +622,9 @@
             "source_provision_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#JO0011",
             "reference_id": "law:개인정보보호법#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json"
+            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -597,7 +649,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json"
+            "target_git_path_guess": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json",
+            "target_git_path": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json",
+            "target_git_file_path": "(국가평생교육진흥원) 개인정보보호규정/별지/별지4_개인정보의 목적 외 이용 및 제3자 제공 대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -640,7 +697,11 @@
             "source_provision_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#JO0013",
             "reference_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json"
+            "target_git_path_guess": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json",
+            "target_git_path": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -660,7 +721,11 @@
             "source_provision_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#JO0013",
             "reference_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json"
+            "target_git_path_guess": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json",
+            "target_git_path": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -680,7 +745,11 @@
             "source_provision_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#JO0013",
             "reference_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json"
+            "target_git_path_guess": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json",
+            "target_git_path": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -705,7 +774,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json"
+            "target_git_path_guess": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json",
+            "target_git_path": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json",
+            "target_git_file_path": "(국가평생교육진흥원) 개인정보보호규정/별지/별지4_개인정보의 목적 외 이용 및 제3자 제공 대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -737,7 +811,11 @@
             "source_provision_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#JO0013_02",
             "reference_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json"
+            "target_git_path_guess": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json",
+            "target_git_path": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -757,7 +835,11 @@
             "source_provision_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#JO0013_02",
             "reference_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#JO0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json"
+            "target_git_path_guess": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json",
+            "target_git_path": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -777,7 +859,11 @@
             "source_provision_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#JO0013_02",
             "reference_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#JO0032",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json"
+            "target_git_path_guess": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json",
+            "target_git_path": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -797,7 +883,11 @@
             "source_provision_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#JO0013_02",
             "reference_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#JO0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json"
+            "target_git_path_guess": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json",
+            "target_git_path": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -834,7 +924,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json"
+            "target_git_path_guess": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json",
+            "target_git_path": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json",
+            "target_git_file_path": "(국가평생교육진흥원) 개인정보보호규정/별지/별지5_개인정보파일 파기 요청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -859,7 +954,12 @@
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json"
+            "target_git_path_guess": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json",
+            "target_git_path": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json",
+            "target_git_file_path": "(국가평생교육진흥원) 개인정보보호규정/별지/별지6_개인정보파일 파기 관리대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -924,7 +1024,9 @@
             "source_provision_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#JO0018",
             "reference_id": "law:개인정보보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json"
+            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -944,7 +1046,9 @@
             "source_provision_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#JO0018",
             "reference_id": "law:개인정보보호법#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json"
+            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1014,7 +1118,12 @@
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json"
+            "target_git_path_guess": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json",
+            "target_git_path": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json",
+            "target_git_file_path": "(국가평생교육진흥원) 개인정보보호규정/별지/별지7_개인정보 입·출력 자료 관리대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1084,7 +1193,12 @@
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json"
+            "target_git_path_guess": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json",
+            "target_git_path": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json",
+            "target_git_file_path": "(국가평생교육진흥원) 개인정보보호규정/별지/별지7_개인정보 입·출력 자료 관리대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1171,7 +1285,9 @@
             "source_provision_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#JO0032",
             "reference_id": "law:개인정보보호법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/시행령/개인정보 보호법 시행령.json"
+            "target_git_path_guess": "개인정보 보호법/시행령/개인정보 보호법 시행령.json",
+            "target_git_path": "개인정보 보호법/시행령/개인정보 보호법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1191,7 +1307,9 @@
             "source_provision_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#JO0032",
             "reference_id": "law:개인정보보호법시행령#JO0030",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/시행령/개인정보 보호법 시행령.json"
+            "target_git_path_guess": "개인정보 보호법/시행령/개인정보 보호법 시행령.json",
+            "target_git_path": "개인정보 보호법/시행령/개인정보 보호법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1211,7 +1329,9 @@
             "source_provision_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#JO0032",
             "reference_id": "law:개인정보보호법#JO0030",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json"
+            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1298,7 +1418,9 @@
             "source_provision_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#JO0038",
             "reference_id": "law:통신비밀보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
+            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1385,7 +1507,11 @@
             "source_provision_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#JO0044",
             "reference_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#JO0039",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json"
+            "target_git_path_guess": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json",
+            "target_git_path": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1422,7 +1548,12 @@
             "target_unit": "BJ0008",
             "reference_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#BJ0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json"
+            "target_git_path_guess": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json",
+            "target_git_path": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json",
+            "target_git_file_path": "(국가평생교육진흥원) 개인정보보호규정/별지/별지8_개인정보(열람, 정정·삭제, 처리정지) 요구서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1447,7 +1578,12 @@
             "target_unit": "BJ0009",
             "reference_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#BJ0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json"
+            "target_git_path_guess": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json",
+            "target_git_path": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json",
+            "target_git_file_path": "(국가평생교육진흥원) 개인정보보호규정/별지/별지9_개인정보(열람, 일부열람, 열람연, 열람거절) 통지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1472,7 +1608,12 @@
             "target_unit": "BJ0010",
             "reference_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#BJ0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json"
+            "target_git_path_guess": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json",
+            "target_git_path": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json",
+            "target_git_file_path": "(국가평생교육진흥원) 개인정보보호규정/별지/별지10_개인정보(정정·삭제, 처리정지) 요구에 대한 결과 통지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -1492,7 +1633,9 @@
             "source_provision_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#JO0045",
             "reference_id": "law:초중등교육법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "초ㆍ중등교육법/법률/초ㆍ중등교육법.json"
+            "target_git_path_guess": "초ㆍ중등교육법/법률/초ㆍ중등교육법.json",
+            "target_git_path": "초ㆍ중등교육법/법률/초ㆍ중등교육법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1512,7 +1655,9 @@
             "source_provision_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#JO0045",
             "reference_id": "law:고등교육법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고등교육법/법률/고등교육법.json"
+            "target_git_path_guess": "고등교육법/법률/고등교육법.json",
+            "target_git_path": "고등교육법/법률/고등교육법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1532,7 +1677,9 @@
             "source_provision_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#JO0045",
             "reference_id": "law:평생교육법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "평생교육법/법률/평생교육법.json"
+            "target_git_path_guess": "평생교육법/법률/평생교육법.json",
+            "target_git_path": "평생교육법/법률/평생교육법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1557,7 +1704,12 @@
             "target_unit": "BJ0011",
             "reference_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#BJ0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json"
+            "target_git_path_guess": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json",
+            "target_git_path": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json",
+            "target_git_file_path": "(국가평생교육진흥원) 개인정보보호규정/별지/별지11_위임장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1605,7 +1757,12 @@
             "target_unit": "BJ0011",
             "reference_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#BJ0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json"
+            "target_git_path_guess": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json",
+            "target_git_path": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json",
+            "target_git_file_path": "(국가평생교육진흥원) 개인정보보호규정/별지/별지11_위임장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1670,7 +1827,9 @@
             "source_provision_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#JO0051",
             "reference_id": "law:개인정보보호법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/시행령/개인정보 보호법 시행령.json"
+            "target_git_path_guess": "개인정보 보호법/시행령/개인정보 보호법 시행령.json",
+            "target_git_path": "개인정보 보호법/시행령/개인정보 보호법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1690,7 +1849,9 @@
             "source_provision_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#JO0051",
             "reference_id": "law:개인정보보호법시행령#JO0040",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/시행령/개인정보 보호법 시행령.json"
+            "target_git_path_guess": "개인정보 보호법/시행령/개인정보 보호법 시행령.json",
+            "target_git_path": "개인정보 보호법/시행령/개인정보 보호법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1733,7 +1894,11 @@
             "source_provision_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#JO0053",
             "reference_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#JO0052",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json"
+            "target_git_path_guess": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json",
+            "target_git_path": "(국가평생교육진흥원) 개인정보보호규정/(국가평생교육진흥원) 개인정보보호규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1765,7 +1930,9 @@
             "source_provision_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#JO0054",
             "reference_id": "law:개인정보보호법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/시행령/개인정보 보호법 시행령.json"
+            "target_git_path_guess": "개인정보 보호법/시행령/개인정보 보호법 시행령.json",
+            "target_git_path": "개인정보 보호법/시행령/개인정보 보호법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1785,7 +1952,9 @@
             "source_provision_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#JO0054",
             "reference_id": "law:개인정보보호법시행령#JO0029",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/시행령/개인정보 보호법 시행령.json"
+            "target_git_path_guess": "개인정보 보호법/시행령/개인정보 보호법 시행령.json",
+            "target_git_path": "개인정보 보호법/시행령/개인정보 보호법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1828,7 +1997,9 @@
             "source_provision_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#JO0056",
             "reference_id": "law:개인정보보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json"
+            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1848,7 +2019,9 @@
             "source_provision_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#JO0056",
             "reference_id": "law:개인정보보호법#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json"
+            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1868,7 +2041,9 @@
             "source_provision_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#JO0056",
             "reference_id": "law:개인정보보호법#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json"
+            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1888,7 +2063,9 @@
             "source_provision_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#JO0056",
             "reference_id": "law:개인정보보호법#JO0027",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json"
+            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1908,7 +2085,9 @@
             "source_provision_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#JO0056",
             "reference_id": "law:개인정보보호법#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json"
+            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1928,7 +2107,9 @@
             "source_provision_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#JO0056",
             "reference_id": "law:개인정보보호법#JO0035",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json"
+            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1948,7 +2129,9 @@
             "source_provision_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#JO0056",
             "reference_id": "law:개인정보보호법#JO0035",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json"
+            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1968,7 +2151,9 @@
             "source_provision_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#JO0056",
             "reference_id": "law:개인정보보호법#JO0035_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json"
+            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1988,7 +2173,9 @@
             "source_provision_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#JO0056",
             "reference_id": "law:개인정보보호법#JO0035_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json"
+            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2008,7 +2195,9 @@
             "source_provision_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#JO0056",
             "reference_id": "law:개인정보보호법#JO0035_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json"
+            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2028,7 +2217,9 @@
             "source_provision_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#JO0056",
             "reference_id": "law:개인정보보호법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json"
+            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2048,7 +2239,9 @@
             "source_provision_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#JO0056",
             "reference_id": "law:개인정보보호법#JO0037",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json"
+            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2068,7 +2261,9 @@
             "source_provision_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#JO0056",
             "reference_id": "law:개인정보보호법#JO0039_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json"
+            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2088,7 +2283,9 @@
             "source_provision_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#JO0056",
             "reference_id": "law:개인정보보호법#JO0039_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json"
+            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2108,7 +2305,9 @@
             "source_provision_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#JO0056",
             "reference_id": "law:개인정보보호법#JO0039_06",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json"
+            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2128,7 +2327,9 @@
             "source_provision_id": "SchlPubRul:(국가평생교육진흥원)개인정보보호규정#JO0056",
             "reference_id": "law:개인정보보호법#JO0039_07",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json"
+            "target_git_path_guess": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_git_path": "개인정보 보호법/법률/개인정보 보호법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

@@ -107,7 +107,9 @@
             "source_provision_id": "SchlPubRul:(한국토지주택공사)주택임대규정#JO0003",
             "reference_id": "law:주택공급에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "주택공급에 관한 규칙/법률/주택공급에 관한 규칙.json"
+            "target_git_path_guess": "주택공급에 관한 규칙/법률/주택공급에 관한 규칙.json",
+            "target_git_path": "주택공급에 관한 규칙/법률/주택공급에 관한 규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -248,7 +250,11 @@
             "source_provision_id": "SchlPubRul:(한국토지주택공사)주택임대규정#JO0012",
             "reference_id": "SchlPubRul:(한국토지주택공사)주택임대규정#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국토지주택공사) 주택임대규정/(한국토지주택공사) 주택임대규정.json"
+            "target_git_path_guess": "(한국토지주택공사) 주택임대규정/(한국토지주택공사) 주택임대규정.json",
+            "target_git_path": "(한국토지주택공사) 주택임대규정/(한국토지주택공사) 주택임대규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

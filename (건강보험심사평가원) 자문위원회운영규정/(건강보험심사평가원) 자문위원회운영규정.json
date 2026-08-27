@@ -120,7 +120,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)자문위원회운영규정#JO0006",
             "reference_id": "SchlPubRul:(건강보험심사평가원)자문위원회운영규정#JO0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(건강보험심사평가원) 자문위원회운영규정/(건강보험심사평가원) 자문위원회운영규정.json"
+            "target_git_path_guess": "(건강보험심사평가원) 자문위원회운영규정/(건강보험심사평가원) 자문위원회운영규정.json",
+            "target_git_path": "(건강보험심사평가원) 자문위원회운영규정/(건강보험심사평가원) 자문위원회운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -140,7 +144,11 @@
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)자문위원회운영규정#JO0006",
             "reference_id": "SchlPubRul:건강보험심사평가원정관#JO0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "건강보험심사평가원 정관/건강보험심사평가원 정관.json"
+            "target_git_path_guess": "건강보험심사평가원 정관/건강보험심사평가원 정관.json",
+            "target_git_path": "건강보험심사평가원 정관/건강보험심사평가원 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -192,9 +200,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/직제규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)자문위원회운영규정#JO0009",
-            "reference_id": "SchlPubRul:직제규정#DOC",
+            "reference_id": "SchlPubRul:직제규정:public_2127825#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "직제규정/직제규정.json"
+            "target_git_path_guess": "직제규정/직제규정.json",
+            "target_candidates": 5,
+            "target_git_path": "직제규정/public_2127825/직제규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -212,9 +225,13 @@
             "target_url": "https://www.law.go.kr/학칙공단/직제규정/제20조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(건강보험심사평가원)자문위원회운영규정#JO0009",
-            "reference_id": "SchlPubRul:직제규정#JO0020",
+            "reference_id": "SchlPubRul:직제규정:public_2141139#JO0020",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "직제규정/직제규정.json"
+            "target_git_path_guess": "직제규정/직제규정.json",
+            "target_git_path": "직제규정/public_2141139/직제규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],

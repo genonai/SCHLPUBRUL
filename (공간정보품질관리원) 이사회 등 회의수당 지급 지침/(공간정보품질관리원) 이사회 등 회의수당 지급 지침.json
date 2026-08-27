@@ -76,7 +76,9 @@
             "source_provision_id": "SchlPubRul:(공간정보품질관리원)이사회등회의수당지급지침#JO0002",
             "reference_id": "law:부정청탁및금품등수수의금지에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부정청탁 및 금품등 수수의 금지에 관한 법률/법률/부정청탁 및 금품등 수수의 금지에 관한 법률.json"
+            "target_git_path_guess": "부정청탁 및 금품등 수수의 금지에 관한 법률/법률/부정청탁 및 금품등 수수의 금지에 관한 법률.json",
+            "target_git_path": "부정청탁 및 금품등 수수의 금지에 관한 법률/법률/부정청탁 및 금품등 수수의 금지에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -139,9 +141,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/여비규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(공간정보품질관리원)이사회등회의수당지급지침#JO0006",
-            "reference_id": "SchlPubRul:여비규정#DOC",
+            "reference_id": "SchlPubRul:여비규정:public_2130973#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "여비규정/여비규정.json"
+            "target_git_path_guess": "여비규정/여비규정.json",
+            "target_candidates": 4,
+            "target_git_path": "여비규정/public_2130973/여비규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -164,9 +171,15 @@
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(공간정보품질관리원)이사회등회의수당지급지침#JO0006",
             "target_unit": "BYL0001",
-            "reference_id": "SchlPubRul:여비규정#BYL0001",
+            "reference_id": "SchlPubRul:여비규정:public_2130973#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "여비규정/여비규정.json"
+            "target_git_path_guess": "여비규정/여비규정.json",
+            "target_candidates": 4,
+            "target_git_path": "여비규정/public_2130973/여비규정.json",
+            "target_git_file_path": "여비규정/public_2130973/별표/별표1_국내외 여비 지급 기준표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],

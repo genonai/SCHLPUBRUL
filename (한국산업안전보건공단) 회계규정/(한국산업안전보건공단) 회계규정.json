@@ -76,7 +76,11 @@
             "source_provision_id": "SchlPubRul:(한국산업안전보건공단)회계규정#JO0002",
             "reference_id": "admrul:공기업준정부기관회계기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공기업ㆍ 준정부기관 회계기준/공기업ㆍ 준정부기관 회계기준.json"
+            "target_git_path_guess": "공기업ㆍ 준정부기관 회계기준/공기업ㆍ 준정부기관 회계기준.json",
+            "target_git_path": "공기업·준정부기관 회계기준/공기업·준정부기관 회계기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -159,7 +163,9 @@
             "source_provision_id": "SchlPubRul:(한국산업안전보건공단)회계규정#JO0004",
             "reference_id": "law:공기업준정부기관회계사무규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공기업ㆍ준정부기관 회계사무규칙/법률/공기업ㆍ준정부기관 회계사무규칙.json"
+            "target_git_path_guess": "공기업ㆍ준정부기관 회계사무규칙/법률/공기업ㆍ준정부기관 회계사무규칙.json",
+            "target_git_path": "공기업ㆍ준정부기관 회계사무규칙/법률/공기업ㆍ준정부기관 회계사무규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -179,7 +185,11 @@
             "source_provision_id": "SchlPubRul:(한국산업안전보건공단)회계규정#JO0004",
             "reference_id": "admrul:공기업준정부기관회계기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공기업ㆍ준정부기관 회계기준/공기업ㆍ준정부기관 회계기준.json"
+            "target_git_path_guess": "공기업ㆍ준정부기관 회계기준/공기업ㆍ준정부기관 회계기준.json",
+            "target_git_path": "공기업·준정부기관 회계기준/공기업·준정부기관 회계기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -199,7 +209,9 @@
             "source_provision_id": "SchlPubRul:(한국산업안전보건공단)회계규정#JO0004",
             "reference_id": "law:공기업준정부기관계약사무규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json"
+            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_git_path": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -253,7 +265,11 @@
             "source_provision_id": "SchlPubRul:(한국산업안전보건공단)회계규정#JO0007",
             "reference_id": "SchlPubRul:(한국산업안전보건공단)회계규정#JO0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산업안전보건공단) 회계규정/(한국산업안전보건공단) 회계규정.json"
+            "target_git_path_guess": "(한국산업안전보건공단) 회계규정/(한국산업안전보건공단) 회계규정.json",
+            "target_git_path": "(한국산업안전보건공단) 회계규정/(한국산업안전보건공단) 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -273,7 +289,11 @@
             "source_provision_id": "SchlPubRul:(한국산업안전보건공단)회계규정#JO0007",
             "reference_id": "SchlPubRul:(한국산업안전보건공단)회계규정#JO0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산업안전보건공단) 회계규정/(한국산업안전보건공단) 회계규정.json"
+            "target_git_path_guess": "(한국산업안전보건공단) 회계규정/(한국산업안전보건공단) 회계규정.json",
+            "target_git_path": "(한국산업안전보건공단) 회계규정/(한국산업안전보건공단) 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -293,7 +313,11 @@
             "source_provision_id": "SchlPubRul:(한국산업안전보건공단)회계규정#JO0007",
             "reference_id": "SchlPubRul:(한국산업안전보건공단)회계규정#JO0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산업안전보건공단) 회계규정/(한국산업안전보건공단) 회계규정.json"
+            "target_git_path_guess": "(한국산업안전보건공단) 회계규정/(한국산업안전보건공단) 회계규정.json",
+            "target_git_path": "(한국산업안전보건공단) 회계규정/(한국산업안전보건공단) 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -336,7 +360,9 @@
             "source_provision_id": "SchlPubRul:(한국산업안전보건공단)회계규정#JO0008",
             "reference_id": "law:공공기관의회계감사및결산감사에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 회계감사 및 결산감사에 관한 규칙/법률/공공기관의 회계감사 및 결산감사에 관한 규칙.json"
+            "target_git_path_guess": "공공기관의 회계감사 및 결산감사에 관한 규칙/법률/공공기관의 회계감사 및 결산감사에 관한 규칙.json",
+            "target_git_path": "공공기관의 회계감사 및 결산감사에 관한 규칙/법률/공공기관의 회계감사 및 결산감사에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -356,7 +382,9 @@
             "source_provision_id": "SchlPubRul:(한국산업안전보건공단)회계규정#JO0008",
             "reference_id": "law:공인회계사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공인회계사법/법률/공인회계사법.json"
+            "target_git_path_guess": "공인회계사법/법률/공인회계사법.json",
+            "target_git_path": "공인회계사법/법률/공인회계사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -376,7 +404,9 @@
             "source_provision_id": "SchlPubRul:(한국산업안전보건공단)회계규정#JO0008",
             "reference_id": "law:공인회계사법#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "공인회계사법/법률/공인회계사법.json"
+            "target_git_path_guess": "공인회계사법/법률/공인회계사법.json",
+            "target_git_path": "공인회계사법/법률/공인회계사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -436,7 +466,9 @@
             "source_provision_id": "SchlPubRul:(한국산업안전보건공단)회계규정#JO0008",
             "reference_id": "law:공공기관의회계감사및결산감사에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 회계감사 및 결산감사에 관한 규칙/법률/공공기관의 회계감사 및 결산감사에 관한 규칙.json"
+            "target_git_path_guess": "공공기관의 회계감사 및 결산감사에 관한 규칙/법률/공공기관의 회계감사 및 결산감사에 관한 규칙.json",
+            "target_git_path": "공공기관의 회계감사 및 결산감사에 관한 규칙/법률/공공기관의 회계감사 및 결산감사에 관한 규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -479,7 +511,9 @@
             "source_provision_id": "SchlPubRul:(한국산업안전보건공단)회계규정#JO0010",
             "reference_id": "law:공기업준정부기관회계사무규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공기업ㆍ준정부기관 회계사무규칙/법률/공기업ㆍ준정부기관 회계사무규칙.json"
+            "target_git_path_guess": "공기업ㆍ준정부기관 회계사무규칙/법률/공기업ㆍ준정부기관 회계사무규칙.json",
+            "target_git_path": "공기업ㆍ준정부기관 회계사무규칙/법률/공기업ㆍ준정부기관 회계사무규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -499,7 +533,9 @@
             "source_provision_id": "SchlPubRul:(한국산업안전보건공단)회계규정#JO0010",
             "reference_id": "law:공기업준정부기관계약사무규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json"
+            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_git_path": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -519,7 +555,9 @@
             "source_provision_id": "SchlPubRul:(한국산업안전보건공단)회계규정#JO0010",
             "reference_id": "law:공공기관의회계감사및결산감사에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 회계감사 및 결산감사에 관한 규칙/법률/공공기관의 회계감사 및 결산감사에 관한 규칙.json"
+            "target_git_path_guess": "공공기관의 회계감사 및 결산감사에 관한 규칙/법률/공공기관의 회계감사 및 결산감사에 관한 규칙.json",
+            "target_git_path": "공공기관의 회계감사 및 결산감사에 관한 규칙/법률/공공기관의 회계감사 및 결산감사에 관한 규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -562,7 +600,11 @@
             "source_provision_id": "SchlPubRul:(한국산업안전보건공단)회계규정#JO0012",
             "reference_id": "SchlPubRul:(한국산업안전보건공단)회계규정#JO0007_02",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산업안전보건공단) 회계규정/(한국산업안전보건공단) 회계규정.json"
+            "target_git_path_guess": "(한국산업안전보건공단) 회계규정/(한국산업안전보건공단) 회계규정.json",
+            "target_git_path": "(한국산업안전보건공단) 회계규정/(한국산업안전보건공단) 회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

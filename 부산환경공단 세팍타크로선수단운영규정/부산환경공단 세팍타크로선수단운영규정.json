@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:부산환경공단세팍타크로선수단운영규정#JO0001",
             "reference_id": "law:국민체육진흥법#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민체육진흥법/법률/국민체육진흥법.json"
+            "target_git_path_guess": "국민체육진흥법/법률/국민체육진흥법.json",
+            "target_git_path": "국민체육진흥법/법률/국민체육진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -85,7 +87,9 @@
             "source_provision_id": "SchlPubRul:부산환경공단세팍타크로선수단운영규정#JO0001",
             "reference_id": "law:국민체육진흥법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민체육진흥법/시행령/국민체육진흥법 시행령.json"
+            "target_git_path_guess": "국민체육진흥법/시행령/국민체육진흥법 시행령.json",
+            "target_git_path": "국민체육진흥법/시행령/국민체육진흥법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -105,7 +109,9 @@
             "source_provision_id": "SchlPubRul:부산환경공단세팍타크로선수단운영규정#JO0001",
             "reference_id": "law:국민체육진흥법시행령#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민체육진흥법/시행령/국민체육진흥법 시행령.json"
+            "target_git_path_guess": "국민체육진흥법/시행령/국민체육진흥법 시행령.json",
+            "target_git_path": "국민체육진흥법/시행령/국민체육진흥법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -168,9 +174,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:부산환경공단세팍타크로선수단운영규정#JO0005",
-            "reference_id": "SchlPubRul:인사규정#DOC",
+            "reference_id": "SchlPubRul:인사규정:public_2130247#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json"
+            "target_git_path_guess": "인사규정/인사규정.json",
+            "target_candidates": 4,
+            "target_git_path": "인사규정/public_2130247/인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -188,9 +199,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정/제14조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:부산환경공단세팍타크로선수단운영규정#JO0005",
-            "reference_id": "SchlPubRul:인사규정#JO0014",
+            "reference_id": "SchlPubRul:인사규정:public_2130247#JO0014",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json"
+            "target_git_path_guess": "인사규정/인사규정.json",
+            "target_candidates": 4,
+            "target_git_path": "인사규정/public_2130247/인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -222,7 +238,11 @@
             "source_provision_id": "SchlPubRul:부산환경공단세팍타크로선수단운영규정#JO0006",
             "reference_id": "SchlPubRul:부산환경공단세팍타크로선수단운영규정#JO0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산환경공단 세팍타크로선수단운영규정/부산환경공단 세팍타크로선수단운영규정.json"
+            "target_git_path_guess": "부산환경공단 세팍타크로선수단운영규정/부산환경공단 세팍타크로선수단운영규정.json",
+            "target_git_path": "부산환경공단 세팍타크로선수단운영규정/부산환경공단 세팍타크로선수단운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -263,9 +283,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/취업규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:부산환경공단세팍타크로선수단운영규정#JO0008",
-            "reference_id": "SchlPubRul:취업규정#DOC",
+            "reference_id": "SchlPubRul:취업규정:public_2141121#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "취업규정/취업규정.json"
+            "target_git_path_guess": "취업규정/취업규정.json",
+            "target_candidates": 2,
+            "target_git_path": "취업규정/public_2141121/취업규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -295,9 +320,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:부산환경공단세팍타크로선수단운영규정#JO0009",
-            "reference_id": "SchlPubRul:인사규정#DOC",
+            "reference_id": "SchlPubRul:인사규정:public_2130247#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json"
+            "target_git_path_guess": "인사규정/인사규정.json",
+            "target_candidates": 4,
+            "target_git_path": "인사규정/public_2130247/인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -315,9 +345,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정/제14조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:부산환경공단세팍타크로선수단운영규정#JO0009",
-            "reference_id": "SchlPubRul:인사규정#JO0014",
+            "reference_id": "SchlPubRul:인사규정:public_2130247#JO0014",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json"
+            "target_git_path_guess": "인사규정/인사규정.json",
+            "target_candidates": 4,
+            "target_git_path": "인사규정/public_2130247/인사규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -437,7 +472,9 @@
             "source_provision_id": "SchlPubRul:부산환경공단세팍타크로선수단운영규정#JO0018",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -457,7 +494,9 @@
             "source_provision_id": "SchlPubRul:부산환경공단세팍타크로선수단운영규정#JO0018",
             "reference_id": "law:근로기준법#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -475,9 +514,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/보수규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:부산환경공단세팍타크로선수단운영규정#JO0018",
-            "reference_id": "SchlPubRul:보수규정#DOC",
+            "reference_id": "SchlPubRul:보수규정:public_2128339#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "보수규정/보수규정.json"
+            "target_git_path_guess": "보수규정/보수규정.json",
+            "target_candidates": 3,
+            "target_git_path": "보수규정/public_2128339/보수규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -495,9 +539,14 @@
             "target_url": "https://www.law.go.kr/학칙공단/보수규정/제36조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:부산환경공단세팍타크로선수단운영규정#JO0018",
-            "reference_id": "SchlPubRul:보수규정#JO0036",
+            "reference_id": "SchlPubRul:보수규정:public_2128339#JO0036",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "보수규정/보수규정.json"
+            "target_git_path_guess": "보수규정/보수규정.json",
+            "target_candidates": 3,
+            "target_git_path": "보수규정/public_2128339/보수규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],

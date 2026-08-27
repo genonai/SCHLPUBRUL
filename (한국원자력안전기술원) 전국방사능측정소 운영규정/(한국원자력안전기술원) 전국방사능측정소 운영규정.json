@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:(한국원자력안전기술원)전국방사능측정소운영규정#JO0001",
             "reference_id": "law:원자력안전법#JO0105",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전법/법률/원자력안전법.json"
+            "target_git_path_guess": "원자력안전법/법률/원자력안전법.json",
+            "target_git_path": "원자력안전법/법률/원자력안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -83,9 +85,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/원자력안전법 시행규칙",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국원자력안전기술원)전국방사능측정소운영규정#JO0001",
-            "reference_id": "admrul:원자력안전법시행규칙#DOC",
+            "reference_id": "law:원자력안전법시행규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json"
+            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json",
+            "target_git_path": "원자력안전법/시행규칙/원자력안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -103,9 +107,11 @@
             "target_url": "https://www.law.go.kr/행정규칙/원자력안전법 시행규칙/제137조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국원자력안전기술원)전국방사능측정소운영규정#JO0001",
-            "reference_id": "admrul:원자력안전법시행규칙#JO0137",
+            "reference_id": "law:원자력안전법시행규칙#JO0137",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json"
+            "target_git_path_guess": "원자력안전법 시행규칙/원자력안전법 시행규칙.json",
+            "target_git_path": "원자력안전법/시행규칙/원자력안전법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -214,7 +220,11 @@
             "source_provision_id": "SchlPubRul:(한국원자력안전기술원)전국방사능측정소운영규정#JO0009",
             "reference_id": "SchlPubRul:(한국원자력안전기술원)전국방사능측정소운영규정#JO0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국원자력안전기술원) 전국방사능측정소 운영규정/(한국원자력안전기술원) 전국방사능측정소 운영규정.json"
+            "target_git_path_guess": "(한국원자력안전기술원) 전국방사능측정소 운영규정/(한국원자력안전기술원) 전국방사능측정소 운영규정.json",
+            "target_git_path": "(한국원자력안전기술원) 전국방사능측정소 운영규정/(한국원자력안전기술원) 전국방사능측정소 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -312,7 +322,11 @@
             "source_provision_id": "SchlPubRul:(한국원자력안전기술원)전국방사능측정소운영규정#JO0016",
             "reference_id": "SchlPubRul:(한국원자력안전기술원)전국방사능측정소운영규정#JO0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국원자력안전기술원) 전국방사능측정소 운영규정/(한국원자력안전기술원) 전국방사능측정소 운영규정.json"
+            "target_git_path_guess": "(한국원자력안전기술원) 전국방사능측정소 운영규정/(한국원자력안전기술원) 전국방사능측정소 운영규정.json",
+            "target_git_path": "(한국원자력안전기술원) 전국방사능측정소 운영규정/(한국원자력안전기술원) 전국방사능측정소 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
