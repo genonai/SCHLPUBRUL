@@ -159732,7 +159732,8 @@
   "version_signature": "12ad4430932594c0d4fcd10c5f804aa500f61ba8c7929cb677edc969297fd944"
  },
  "admrul:school:2057007": {
-  "collected_signature": null,
+  "attempts": 0,
+  "collected_signature": "7a893e121a57f71cf37937f94da6f1bc3ea3740f38754c828ac264528264e90e",
   "content_hash": "77bc485b4b8dc53bd8877e9f3921f62b5d90dd5bf4edd8060abee8e1dd24ec0d",
   "detail_link": "/DRF/lawService.do?OC=test&target=school&ID=2000000089181&type=HTML&mobileYn=",
   "doc_domain": "admrul",
@@ -159741,8 +159742,8 @@
   "doc_type": "학교규정",
   "enforcement_date": "20080321",
   "is_active": true,
-  "last_checked_at": "2026-08-24T16:14:16.713491+00:00",
-  "last_collected_at": "2026-08-24T16:14:17.217489+00:00",
+  "last_checked_at": "2026-08-28T03:18:57.031677+00:00",
+  "last_collected_at": "2026-08-28T03:18:58.117777+00:00",
   "last_git_error": "동명 문서 split 승격(school) — provision_id 변경으로 재수집 필요",
   "last_git_error_at": "2026-08-25T04:17:10.883341+00:00",
   "ministry": "서울대학교",
@@ -165908,6 +165909,7 @@
   "version_signature": "504faa323019e9a3f6bece68a9051984622b28947df05f38bc00f874e69a9121"
  },
  "admrul:school:2073297": {
+  "attempts": 1,
   "detail_link": "/DRF/lawService.do?OC=test&target=school&ID=2200000042155&type=HTML&mobileYn=",
   "doc_domain": "admrul",
   "doc_id": "2073297",
@@ -165915,7 +165917,7 @@
   "doc_type": "학교규정",
   "enforcement_date": "20110620",
   "is_active": true,
-  "last_checked_at": "2026-08-27T06:10:57.729342+00:00",
+  "last_checked_at": "2026-08-28T03:18:57.079000+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "충북대학교",
   "mst": "2200000042155",
@@ -171890,6 +171892,7 @@
   "version_signature": "06fecb7d6bdcdb6f957e56f1a0c8a572edc14664d5f12874a182bfbf733d50e1"
  },
  "admrul:school:2091608": {
+  "attempts": 1,
   "detail_link": "/DRF/lawService.do?OC=test&target=school&ID=2200000044573&type=HTML&mobileYn=",
   "doc_domain": "admrul",
   "doc_id": "2091608",
@@ -171897,7 +171900,7 @@
   "doc_type": "학교규정",
   "enforcement_date": "20080228",
   "is_active": true,
-  "last_checked_at": "2026-08-27T06:10:57.742998+00:00",
+  "last_checked_at": "2026-08-28T03:18:57.121603+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "전남대학교",
   "mst": "2200000044573",
@@ -177557,25 +177560,26 @@
   "version_signature": "9f6d138066225d91712d21b289a6e0d1f363156975f9519fe2e9e655295172eb"
  },
  "admrul:school:2100808": {
-  "collected_signature": "d4c828c589fc96a81feb11346f819f138e188f4e1f74396d5cfd6edd43f6f63b",
-  "content_hash": "c2d933dc3ac0a81e472e7ae738be97f1e8aa3f60cf4af66f0a6544957ce1f780",
-  "detail_link": "/DRF/lawService.do?OC=test&target=school&ID=2200000154053&type=HTML&mobileYn=",
+  "attempts": 0,
+  "collected_signature": "26f3f943c9a1563e852a2eaf09a9a5890de88933f57773a142abbaad5dab155f",
+  "content_hash": "1e7e34e3ea3d54fb8879ece429e8e2bd814f1ad32f3dad023880c2c3c2636978",
+  "detail_link": "/DRF/lawService.do?OC=test&target=school&ID=2200000159299&type=HTML&mobileYn=",
   "doc_domain": "admrul",
   "doc_id": "2100808",
   "doc_target": "school",
   "doc_type": "학교지침",
-  "enforcement_date": "20260402",
+  "enforcement_date": "20260825",
   "is_active": true,
-  "last_checked_at": "2026-08-24T17:51:34.332696+00:00",
-  "last_collected_at": "2026-08-24T17:51:34.747395+00:00",
+  "last_checked_at": "2026-08-28T03:18:57.326426+00:00",
+  "last_collected_at": "2026-08-28T03:18:59.663010+00:00",
   "ministry": "서울대학교",
-  "mst": "2200000154053",
+  "mst": "2200000159299",
   "name": "전임교원 책임시간 운영지침",
   "payload_law_id": "2100808",
-  "promulgation_date": "20260402",
+  "promulgation_date": "20260825",
   "status": "done",
   "version_count": 1,
-  "version_signature": "d4c828c589fc96a81feb11346f819f138e188f4e1f74396d5cfd6edd43f6f63b"
+  "version_signature": "26f3f943c9a1563e852a2eaf09a9a5890de88933f57773a142abbaad5dab155f"
  },
  "admrul:school:2100809": {
   "collected_signature": "39fdfc192293fddfd30df89c8147bbd98091be72b7c10ffebb161ba887705bfc",
@@ -204802,7 +204806,7 @@
   "doc_target": "school",
   "doc_type": "학교규정",
   "enforcement_date": "20210730",
-  "is_active": true,
+  "is_active": false,
   "last_checked_at": "2026-08-24T19:46:32.527338+00:00",
   "last_collected_at": "2026-08-24T19:46:32.985269+00:00",
   "ministry": "경상국립대학교",
@@ -204810,7 +204814,8 @@
   "name": "경상국립대학교사범대학부설중학교 학칙",
   "payload_law_id": "2117399",
   "promulgation_date": "20210730",
-  "status": "done",
+  "repealed_at": "20260828",
+  "status": "repealed",
   "version_count": 1,
   "version_signature": "43ed39fc44571ecb7ddf63016901b900047e996808b7e31d78482818544323c2"
  },
@@ -204844,7 +204849,7 @@
   "doc_target": "school",
   "doc_type": "학교규정",
   "enforcement_date": "20210730",
-  "is_active": true,
+  "is_active": false,
   "last_checked_at": "2026-08-24T19:46:32.564853+00:00",
   "last_collected_at": "2026-08-24T19:46:33.117959+00:00",
   "ministry": "경상국립대학교",
@@ -204852,7 +204857,8 @@
   "name": "경상국립대학교사범대학부설고등학교 학칙",
   "payload_law_id": "2117403",
   "promulgation_date": "20210730",
-  "status": "done",
+  "repealed_at": "20260828",
+  "status": "repealed",
   "version_count": 1,
   "version_signature": "aa1314397a889a8d40dc7eafb84c2ae5dd9bacc53c96272f17b8f18d16ec82e8"
  },
@@ -213530,6 +213536,7 @@
   "version_signature": "97c1c31ba252e1c824d6c45ee6a9690f4f9ade24b15895687d0414a59695a14a"
  },
  "admrul:school:2119295": {
+  "attempts": 1,
   "detail_link": "/DRF/lawService.do?OC=test&target=school&ID=2200000148785&type=HTML&mobileYn=",
   "doc_domain": "admrul",
   "doc_id": "2119295",
@@ -213537,7 +213544,7 @@
   "doc_type": "학교규정",
   "enforcement_date": "20250918",
   "is_active": true,
-  "last_checked_at": "2026-08-27T06:10:50.922903+00:00",
+  "last_checked_at": "2026-08-28T03:18:56.999973+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "공주대학교",
   "mst": "2200000148785",
@@ -219974,6 +219981,7 @@
   "version_signature": "b29969a28c9081cd3b32fccb45c461827c4897d7ce75a986b59e83c9ab89c3d3"
  },
  "admrul:school:2120339": {
+  "attempts": 1,
   "detail_link": "/DRF/lawService.do?OC=test&target=school&ID=2200000098611&type=HTML&mobileYn=",
   "doc_domain": "admrul",
   "doc_id": "2120339",
@@ -219981,7 +219989,7 @@
   "doc_type": "학교규정",
   "enforcement_date": "20220805",
   "is_active": true,
-  "last_checked_at": "2026-08-27T06:10:57.749138+00:00",
+  "last_checked_at": "2026-08-28T03:18:57.263256+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "목포대학교",
   "mst": "2200000098611",
@@ -228896,6 +228904,7 @@
   "version_signature": "ac7ae6a7de1b9d4c09319a1e4def1c859286eb83d8081c2b8a9dd65c53beaece"
  },
  "admrul:school:2121433": {
+  "attempts": 1,
   "detail_link": "/DRF/lawService.do?OC=test&target=school&ID=2200000148807&type=HTML&mobileYn=",
   "doc_domain": "admrul",
   "doc_id": "2121433",
@@ -228903,7 +228912,7 @@
   "doc_type": "학교규정",
   "enforcement_date": "20250918",
   "is_active": true,
-  "last_checked_at": "2026-08-27T06:10:50.926958+00:00",
+  "last_checked_at": "2026-08-28T03:18:57.296974+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "공주대학교",
   "mst": "2200000148807",
@@ -239537,25 +239546,26 @@
   "version_signature": "6782521b562541b492bea5941eb61c6221c19ff75698de6e5403596a0cfa2759"
  },
  "admrul:school:2123463": {
-  "collected_signature": "eb4f9b20337349677f530b41c269728c3eedb97509d35f3b7132cd3a0b50675e",
-  "content_hash": "56b6f59d38de0c9e6a21859683db8b88751002abe1b2d8464435568a400e73de",
-  "detail_link": "/DRF/lawService.do?OC=test&target=school&ID=2200000105047&type=HTML&mobileYn=",
+  "attempts": 0,
+  "collected_signature": "eaeac8f66c4edafc539b110547199c742a28f1234e76440a1983b4fbb4e090b1",
+  "content_hash": "dc6c8a6a0fefc46c5af7f91d8b6fb34fe3ade3fa41754689153f168fde872488",
+  "detail_link": "/DRF/lawService.do?OC=test&target=school&ID=2200000159257&type=HTML&mobileYn=",
   "doc_domain": "admrul",
   "doc_id": "2123463",
   "doc_target": "school",
   "doc_type": "학교지침",
-  "enforcement_date": "20220222",
+  "enforcement_date": "20260729",
   "is_active": true,
-  "last_checked_at": "2026-08-27T05:43:13.303219+00:00",
-  "last_collected_at": "2026-08-27T05:43:16.796719+00:00",
+  "last_checked_at": "2026-08-28T03:18:57.203060+00:00",
+  "last_collected_at": "2026-08-28T03:18:58.835740+00:00",
   "ministry": "경북대학교",
-  "mst": "2200000105047",
+  "mst": "2200000159257",
   "name": "경북대학교 간접비 등 관리 운영 지침",
   "payload_law_id": "2123463",
-  "promulgation_date": "20220222",
+  "promulgation_date": "20260729",
   "status": "done",
   "version_count": 1,
-  "version_signature": "eb4f9b20337349677f530b41c269728c3eedb97509d35f3b7132cd3a0b50675e"
+  "version_signature": "eaeac8f66c4edafc539b110547199c742a28f1234e76440a1983b4fbb4e090b1"
  },
  "admrul:school:2123465": {
   "collected_signature": "58f941284c7436570f74976101bdf1629641c56043795894ae65a578796f41c1",
@@ -247118,6 +247128,7 @@
   "version_signature": "f8236d88d45b1406ddd2df31adfed90dad7ecdf3a54a8e01682902b535b6db1a"
  },
  "admrul:school:2125369": {
+  "attempts": 1,
   "detail_link": "/DRF/lawService.do?OC=test&target=school&ID=2200000148843&type=HTML&mobileYn=",
   "doc_domain": "admrul",
   "doc_id": "2125369",
@@ -247125,7 +247136,7 @@
   "doc_type": "학교규정",
   "enforcement_date": "20250918",
   "is_active": true,
-  "last_checked_at": "2026-08-27T06:10:50.920390+00:00",
+  "last_checked_at": "2026-08-28T03:18:57.264821+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "공주대학교",
   "mst": "2200000148843",
@@ -253478,6 +253489,7 @@
   "version_signature": "9ee76b75cd3eb7db554b3095ef8725f765b6a8a5ba49936eb546ac266fd5119a"
  },
  "admrul:school:2131305": {
+  "attempts": 1,
   "detail_link": "/DRF/lawService.do?OC=test&target=school&ID=2200000127743&type=HTML&mobileYn=",
   "doc_domain": "admrul",
   "doc_id": "2131305",
@@ -253485,7 +253497,7 @@
   "doc_type": "학교규정",
   "enforcement_date": "20221128",
   "is_active": true,
-  "last_checked_at": "2026-08-27T06:10:50.925873+00:00",
+  "last_checked_at": "2026-08-28T03:18:57.163797+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "국립한국해양대학교",
   "mst": "2200000127743",
@@ -253496,6 +253508,7 @@
   "version_signature": "1ff7d16783f80b7caac2a3d2f76e0447564a0320f8b384789b5631a854ce08fe"
  },
  "admrul:school:2131307": {
+  "attempts": 1,
   "detail_link": "/DRF/lawService.do?OC=test&target=school&ID=2200000127745&type=HTML&mobileYn=",
   "doc_domain": "admrul",
   "doc_id": "2131307",
@@ -253503,7 +253516,7 @@
   "doc_type": "학교규정",
   "enforcement_date": "20200618",
   "is_active": true,
-  "last_checked_at": "2026-08-27T06:10:50.862443+00:00",
+  "last_checked_at": "2026-08-28T03:18:57.356452+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "국립한국해양대학교",
   "mst": "2200000127745",
@@ -253535,6 +253548,7 @@
   "version_signature": "fbae3da9122cf77581aee63703be37a7bc68119de36058ae69984e7b818f9c6c"
  },
  "admrul:school:2131363": {
+  "attempts": 1,
   "detail_link": "/DRF/lawService.do?OC=test&target=school&ID=2200000127715&type=HTML&mobileYn=",
   "doc_domain": "admrul",
   "doc_id": "2131363",
@@ -253542,7 +253556,7 @@
   "doc_type": "학교규정",
   "enforcement_date": "20240112",
   "is_active": true,
-  "last_checked_at": "2026-08-27T06:10:57.750916+00:00",
+  "last_checked_at": "2026-08-28T03:18:56.926214+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "국립한국해양대학교",
   "mst": "2200000127715",
@@ -253553,6 +253567,7 @@
   "version_signature": "982c123997791fc7212c320f0f31846a09c5271305003d3ac95cead797cbcc4a"
  },
  "admrul:school:2131367": {
+  "attempts": 1,
   "detail_link": "/DRF/lawService.do?OC=test&target=school&ID=2200000127727&type=HTML&mobileYn=",
   "doc_domain": "admrul",
   "doc_id": "2131367",
@@ -253560,7 +253575,7 @@
   "doc_type": "학교규정",
   "enforcement_date": "20200605",
   "is_active": true,
-  "last_checked_at": "2026-08-27T06:10:50.874657+00:00",
+  "last_checked_at": "2026-08-28T03:19:09.165766+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "국립한국해양대학교",
   "mst": "2200000127727",
@@ -253571,6 +253586,7 @@
   "version_signature": "f45fab98266e8e7ff2479b9e39abcc7094d93d8b597596f7d85ba25ffa2dcf51"
  },
  "admrul:school:2131383": {
+  "attempts": 1,
   "detail_link": "/DRF/lawService.do?OC=test&target=school&ID=2200000127787&type=HTML&mobileYn=",
   "doc_domain": "admrul",
   "doc_id": "2131383",
@@ -253578,7 +253594,7 @@
   "doc_type": "학교지침",
   "enforcement_date": "20231219",
   "is_active": true,
-  "last_checked_at": "2026-08-27T06:10:57.746062+00:00",
+  "last_checked_at": "2026-08-28T03:19:09.202558+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "국립한국해양대학교",
   "mst": "2200000127787",
@@ -253589,6 +253605,7 @@
   "version_signature": "63d134c90b8308d2fae39382bf4842874390e5e4995b2c47ef853db5a021fa23"
  },
  "admrul:school:2131389": {
+  "attempts": 1,
   "detail_link": "/DRF/lawService.do?OC=test&target=school&ID=2200000137663&type=HTML&mobileYn=",
   "doc_domain": "admrul",
   "doc_id": "2131389",
@@ -253596,7 +253613,7 @@
   "doc_type": "학교지침",
   "enforcement_date": "20240822",
   "is_active": true,
-  "last_checked_at": "2026-08-27T06:10:57.751269+00:00",
+  "last_checked_at": "2026-08-28T03:19:09.247428+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "국립한국해양대학교",
   "mst": "2200000137663",
@@ -253733,6 +253750,7 @@
   "version_signature": "01ddead3eeafb94ca1a382e9269d0753b1b6be0732be386e3168ea2cf60b6520"
  },
  "admrul:school:2131675": {
+  "attempts": 1,
   "detail_link": "/DRF/lawService.do?OC=test&target=school&ID=2200000128227&type=HTML&mobileYn=",
   "doc_domain": "admrul",
   "doc_id": "2131675",
@@ -253740,7 +253758,7 @@
   "doc_type": "학교규정",
   "enforcement_date": "20130719",
   "is_active": true,
-  "last_checked_at": "2026-08-27T06:11:04.096351+00:00",
+  "last_checked_at": "2026-08-28T03:19:09.326969+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "한국해양대학교",
   "mst": "2200000128227",
@@ -253751,6 +253769,7 @@
   "version_signature": "e37e9335336134b5163e7d9326cf175875866cda4e5b121d90f31a77f2a4f11f"
  },
  "admrul:school:2131677": {
+  "attempts": 1,
   "detail_link": "/DRF/lawService.do?OC=test&target=school&ID=2200000128229&type=HTML&mobileYn=",
   "doc_domain": "admrul",
   "doc_id": "2131677",
@@ -253758,7 +253777,7 @@
   "doc_type": "학교규정",
   "enforcement_date": "20180831",
   "is_active": true,
-  "last_checked_at": "2026-08-27T06:11:04.149227+00:00",
+  "last_checked_at": "2026-08-28T03:19:09.294529+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "한국해양대학교",
   "mst": "2200000128229",
@@ -253769,6 +253788,7 @@
   "version_signature": "3a3e3f184b7a0c31afd8188e7933ba9b75f8f893045b0ba38907da422fb3a086"
  },
  "admrul:school:2131679": {
+  "attempts": 1,
   "detail_link": "/DRF/lawService.do?OC=test&target=school&ID=2200000128231&type=HTML&mobileYn=",
   "doc_domain": "admrul",
   "doc_id": "2131679",
@@ -253776,7 +253796,7 @@
   "doc_type": "학교규정",
   "enforcement_date": "20230626",
   "is_active": true,
-  "last_checked_at": "2026-08-27T06:11:04.153719+00:00",
+  "last_checked_at": "2026-08-28T03:19:09.356597+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "한국해양대학교",
   "mst": "2200000128231",
@@ -253787,6 +253807,7 @@
   "version_signature": "19beeba7d8bb84791c97dda46a034f3fadcf04933fd81e65f9c53408d74c837a"
  },
  "admrul:school:2131683": {
+  "attempts": 1,
   "detail_link": "/DRF/lawService.do?OC=test&target=school&ID=2200000140985&type=HTML&mobileYn=",
   "doc_domain": "admrul",
   "doc_id": "2131683",
@@ -253794,7 +253815,7 @@
   "doc_type": "학교규정",
   "enforcement_date": "20250528",
   "is_active": true,
-  "last_checked_at": "2026-08-27T06:10:57.647353+00:00",
+  "last_checked_at": "2026-08-28T03:19:09.387430+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "국립한국해양대학교",
   "mst": "2200000140985",
@@ -253805,6 +253826,7 @@
   "version_signature": "a7e65e2c540c282269fe72f965b663e373ee1a92ab89673a69d5220709949c0c"
  },
  "admrul:school:2131699": {
+  "attempts": 1,
   "detail_link": "/DRF/lawService.do?OC=test&target=school&ID=2200000141049&type=HTML&mobileYn=",
   "doc_domain": "admrul",
   "doc_id": "2131699",
@@ -253812,7 +253834,7 @@
   "doc_type": "학교규정",
   "enforcement_date": "20250312",
   "is_active": true,
-  "last_checked_at": "2026-08-27T06:10:50.799338+00:00",
+  "last_checked_at": "2026-08-28T03:19:09.435170+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "한국해양대학교",
   "mst": "2200000141049",
@@ -253844,6 +253866,7 @@
   "version_signature": "0167a8ffd852e0766ff2bf304a9b6842b2710a96468eae35f5a5943b657aa571"
  },
  "admrul:school:2131723": {
+  "attempts": 1,
   "detail_link": "/DRF/lawService.do?OC=test&target=school&ID=2200000128235&type=HTML&mobileYn=",
   "doc_domain": "admrul",
   "doc_id": "2131723",
@@ -253851,7 +253874,7 @@
   "doc_type": "학교규정",
   "enforcement_date": "20240315",
   "is_active": true,
-  "last_checked_at": "2026-08-27T06:11:04.138687+00:00",
+  "last_checked_at": "2026-08-28T03:19:09.475424+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "한국해양대학교",
   "mst": "2200000128235",
@@ -255122,25 +255145,26 @@
   "version_signature": "373cde7f7661238a9f8110a2e9f5e3a8428d616f19e9915f563c81367a536c1d"
  },
  "admrul:school:2132855": {
-  "collected_signature": "8a3c0f77f750ed128400c9f117811b73198aca5b937d7bdf6041f7f86ce90ba6",
-  "content_hash": "125ad03dc01fa75573ad19e6440c277fdcf6430905219cd3c1c56b34c92983e9",
-  "detail_link": "/DRF/lawService.do?OC=test&target=school&ID=2200000130167&type=HTML&mobileYn=",
+  "attempts": 0,
+  "collected_signature": "1a223140e169a05b280721b3dfc4eba02983e404108faa3ed409f76b79fa2de4",
+  "content_hash": "f368a1dfec6e69606f4c1692039105af67bc1236f47984a8a963f5564d24417b",
+  "detail_link": "/DRF/lawService.do?OC=test&target=school&ID=2200000159315&type=HTML&mobileYn=",
   "doc_domain": "admrul",
   "doc_id": "2132855",
   "doc_target": "school",
   "doc_type": "학교규정",
-  "enforcement_date": "20240320",
+  "enforcement_date": "20260826",
   "is_active": true,
-  "last_checked_at": "2026-08-24T23:47:38.130506+00:00",
-  "last_collected_at": "2026-08-24T23:47:38.595886+00:00",
+  "last_checked_at": "2026-08-28T03:19:09.473961+00:00",
+  "last_collected_at": "2026-08-28T03:19:11.782539+00:00",
   "ministry": "서울과학기술대학교",
-  "mst": "2200000130167",
+  "mst": "2200000159315",
   "name": "서울과학기술대학교 창업지원단 운영 규정",
   "payload_law_id": "2132855",
-  "promulgation_date": "20240320",
+  "promulgation_date": "20260826",
   "status": "done",
   "version_count": 1,
-  "version_signature": "8a3c0f77f750ed128400c9f117811b73198aca5b937d7bdf6041f7f86ce90ba6"
+  "version_signature": "1a223140e169a05b280721b3dfc4eba02983e404108faa3ed409f76b79fa2de4"
  },
  "admrul:school:2132857": {
   "collected_signature": "1bf4c764249b1cabe33cb6d3d387d0e62bccd701cd596ff47a4e5c5883555e3e",
@@ -255697,7 +255721,7 @@
   "doc_target": "school",
   "doc_type": "학교지침",
   "enforcement_date": "20220919",
-  "is_active": true,
+  "is_active": false,
   "last_checked_at": "2026-08-24T23:47:52.494843+00:00",
   "last_collected_at": "2026-08-24T23:47:53.074634+00:00",
   "ministry": "서울과학기술대학교",
@@ -255705,7 +255729,8 @@
   "name": "서울과학기술대학교 한국어 정규교육과정운영 지침",
   "payload_law_id": "2132973",
   "promulgation_date": "20220919",
-  "status": "done",
+  "repealed_at": "20260828",
+  "status": "repealed",
   "version_count": 1,
   "version_signature": "30216257453d8abb7e209494f7d2a0d56ad1a6b8d06e1170395e4a6e8afbdaea"
  },
@@ -261128,6 +261153,7 @@
   "version_signature": "eb5ac6f20de906b35848c12f6de59527723418121746d7bb5847f953b5fa3f68"
  },
  "admrul:school:2136309": {
+  "attempts": 1,
   "detail_link": "/DRF/lawService.do?OC=test&target=school&ID=2200000136331&type=HTML&mobileYn=",
   "doc_domain": "admrul",
   "doc_id": "2136309",
@@ -261135,7 +261161,7 @@
   "doc_type": "학교규정",
   "enforcement_date": "20240516",
   "is_active": true,
-  "last_checked_at": "2026-08-27T06:10:57.749881+00:00",
+  "last_checked_at": "2026-08-28T03:19:09.504226+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "대구교육대학교",
   "mst": "2200000136331",
@@ -261608,6 +261634,7 @@
   "version_signature": "3090b9b846d15362428351f56cfce563d0bbc10614049b64f3e8cb7bfbc1603b"
  },
  "admrul:school:2136571": {
+  "attempts": 1,
   "detail_link": "/DRF/lawService.do?OC=test&target=school&ID=2200000137079&type=HTML&mobileYn=",
   "doc_domain": "admrul",
   "doc_id": "2136571",
@@ -261615,7 +261642,7 @@
   "doc_type": "학교규정",
   "enforcement_date": "20200629",
   "is_active": true,
-  "last_checked_at": "2026-08-27T06:10:50.894335+00:00",
+  "last_checked_at": "2026-08-28T03:19:09.101389+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "한국해양대학교",
   "mst": "2200000137079",
@@ -261857,6 +261884,7 @@
   "version_signature": "7c9c9f2c273857cceecc9b0ea82154242dd9eb594c6d3f6e6c4dfb583b3a9001"
  },
  "admrul:school:2136767": {
+  "attempts": 1,
   "detail_link": "/DRF/lawService.do?OC=test&target=school&ID=2200000137661&type=HTML&mobileYn=",
   "doc_domain": "admrul",
   "doc_id": "2136767",
@@ -261864,7 +261892,7 @@
   "doc_type": "학교규정",
   "enforcement_date": "20220523",
   "is_active": true,
-  "last_checked_at": "2026-08-27T06:10:57.746467+00:00",
+  "last_checked_at": "2026-08-28T03:19:19.349087+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "국립한국해양대학교 학생성장지원실",
   "mst": "2200000137661",
@@ -261875,6 +261903,7 @@
   "version_signature": "f514a76afff316b0bfab28ead23893b212546b1e794239dbec26306400a7dd32"
  },
  "admrul:school:2136771": {
+  "attempts": 1,
   "detail_link": "/DRF/lawService.do?OC=test&target=school&ID=2200000143829&type=HTML&mobileYn=",
   "doc_domain": "admrul",
   "doc_id": "2136771",
@@ -261882,7 +261911,7 @@
   "doc_type": "학교규정",
   "enforcement_date": "20250602",
   "is_active": true,
-  "last_checked_at": "2026-08-27T06:10:50.849231+00:00",
+  "last_checked_at": "2026-08-28T03:19:19.400660+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "한국해양대학교",
   "mst": "2200000143829",
@@ -261977,6 +262006,7 @@
   "version_signature": "b231295be4a0bde72834b4e8914b369febd20228e1410050c00ad16fa279a4f8"
  },
  "admrul:school:2137001": {
+  "attempts": 1,
   "detail_link": "/DRF/lawService.do?OC=test&target=school&ID=2200000138267&type=HTML&mobileYn=",
   "doc_domain": "admrul",
   "doc_id": "2137001",
@@ -261984,7 +262014,7 @@
   "doc_type": "학교지침",
   "enforcement_date": "20240729",
   "is_active": true,
-  "last_checked_at": "2026-08-27T06:10:57.702811+00:00",
+  "last_checked_at": "2026-08-28T03:19:19.452078+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "한국해양대학교",
   "mst": "2200000138267",
@@ -261995,6 +262025,7 @@
   "version_signature": "3398cc63b43232a4a6dd2b1fd77b7292f550c7d4e3e7fe43b0a5e85e1dbf9916"
  },
  "admrul:school:2137043": {
+  "attempts": 1,
   "detail_link": "/DRF/lawService.do?OC=test&target=school&ID=2200000138259&type=HTML&mobileYn=",
   "doc_domain": "admrul",
   "doc_id": "2137043",
@@ -262002,7 +262033,7 @@
   "doc_type": "학교지침",
   "enforcement_date": "20210226",
   "is_active": true,
-  "last_checked_at": "2026-08-27T06:10:50.920841+00:00",
+  "last_checked_at": "2026-08-28T03:19:19.496130+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "한국해양대학교",
   "mst": "2200000138259",
@@ -262013,6 +262044,7 @@
   "version_signature": "d34d2ee9a2b91adce3cdb070f2a5f664f584c635192264dbce10390a742fa700"
  },
  "admrul:school:2137047": {
+  "attempts": 1,
   "detail_link": "/DRF/lawService.do?OC=test&target=school&ID=2200000138303&type=HTML&mobileYn=",
   "doc_domain": "admrul",
   "doc_id": "2137047",
@@ -262020,7 +262052,7 @@
   "doc_type": "학교지침",
   "enforcement_date": "20211109",
   "is_active": true,
-  "last_checked_at": "2026-08-27T06:10:57.716233+00:00",
+  "last_checked_at": "2026-08-28T03:19:19.515840+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "한국해양대학교",
   "mst": "2200000138303",
@@ -262283,6 +262315,7 @@
   "version_signature": "9a01ae46d3c8105fea7d16f7efae2023a8e080933b1fa416f50dced0d2d6ea3b"
  },
  "admrul:school:2137371": {
+  "attempts": 1,
   "detail_link": "/DRF/lawService.do?OC=test&target=school&ID=2200000154045&type=HTML&mobileYn=",
   "doc_domain": "admrul",
   "doc_id": "2137371",
@@ -262290,7 +262323,7 @@
   "doc_type": "학교규정",
   "enforcement_date": "20260401",
   "is_active": true,
-  "last_checked_at": "2026-08-27T06:10:50.925213+00:00",
+  "last_checked_at": "2026-08-28T03:19:19.544910+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "국립한국해양대학교",
   "mst": "2200000154045",
@@ -268811,6 +268844,7 @@
   "version_signature": "ce3a7dbcad8cd6fed9325ff52eea135ae561670e465e7afdf6cadf31509b0df4"
  },
  "admrul:school:2141075": {
+  "attempts": 1,
   "detail_link": "/DRF/lawService.do?OC=test&target=school&ID=2200000155733&type=HTML&mobileYn=",
   "doc_domain": "admrul",
   "doc_id": "2141075",
@@ -268818,7 +268852,7 @@
   "doc_type": "학교규정",
   "enforcement_date": "20260421",
   "is_active": true,
-  "last_checked_at": "2026-08-27T06:10:57.686995+00:00",
+  "last_checked_at": "2026-08-28T03:19:19.584071+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "한국해양대학교",
   "mst": "2200000155733",
@@ -269228,6 +269262,7 @@
   "version_signature": "e7d8f1429e87500f94a77c0ecb968aecd097cf6d6f387120657dd753ec44573c"
  },
  "admrul:school:2141399": {
+  "attempts": 1,
   "detail_link": "/DRF/lawService.do?OC=test&target=school&ID=2200000158355&type=HTML&mobileYn=",
   "doc_domain": "admrul",
   "doc_id": "2141399",
@@ -269235,7 +269270,7 @@
   "doc_type": "학교규정",
   "enforcement_date": "20260723",
   "is_active": true,
-  "last_checked_at": "2026-08-27T06:10:50.921554+00:00",
+  "last_checked_at": "2026-08-28T03:19:19.290318+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "한국해양대학교",
   "mst": "2200000158355",
