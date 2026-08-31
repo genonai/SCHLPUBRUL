@@ -120,7 +120,9 @@
             "source_provision_id": "SchlPubRul:부산도시공사부설주차장설치및관리규정#JO0006",
             "reference_id": "law:주차장법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "주차장법/법률/주차장법.json"
+            "target_git_path_guess": "주차장법/법률/주차장법.json",
+            "target_git_path": "주차장법/법률/주차장법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -252,7 +254,12 @@
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:부산도시공사부설주차장설치및관리규정#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산도시공사 부설주차장설치 및 관리규정/부산도시공사 부설주차장설치 및 관리규정.json"
+            "target_git_path_guess": "부산도시공사 부설주차장설치 및 관리규정/부산도시공사 부설주차장설치 및 관리규정.json",
+            "target_git_path": "부산도시공사 부설주차장설치 및 관리규정/부산도시공사 부설주차장설치 및 관리규정.json",
+            "target_git_file_path": "부산도시공사 부설주차장설치 및 관리규정/별지/별지7_방치차량 조치보고.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -300,7 +307,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:부산도시공사부설주차장설치및관리규정#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산도시공사 부설주차장설치 및 관리규정/부산도시공사 부설주차장설치 및 관리규정.json"
+            "target_git_path_guess": "부산도시공사 부설주차장설치 및 관리규정/부산도시공사 부설주차장설치 및 관리규정.json",
+            "target_git_path": "부산도시공사 부설주차장설치 및 관리규정/부산도시공사 부설주차장설치 및 관리규정.json",
+            "target_git_file_path": "부산도시공사 부설주차장설치 및 관리규정/별지/별지1_주차장 이용안내.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
