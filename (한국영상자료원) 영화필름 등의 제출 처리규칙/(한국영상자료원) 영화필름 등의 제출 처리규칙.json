@@ -1,16 +1,16 @@
 {
   "law_id": "2113203",
-  "mst": "2200000154763",
+  "mst": "2200000160841",
   "law_name": "(한국영상자료원) 영화필름 등의 제출 처리규칙",
   "law_abbr": "",
   "law_type": "공단규정",
   "doc_target": "pi",
   "doc_kind": "공단정관",
   "adm_uid": "pi:2113203",
-  "promulgation_no": "134",
-  "promulgation_date": "20260401",
-  "enforcement_date": "20260401",
-  "revision_date": "20260401",
+  "promulgation_no": "135",
+  "promulgation_date": "20260901",
+  "enforcement_date": "20260901",
+  "revision_date": "20260901",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
@@ -19,7 +19,7 @@
     "담당자명": "이초록",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "(한국영상자료원) 영화필름 등의 제출 처리규칙",
-    "발령일자": "20260401",
+    "발령일자": "20260901",
     "행정규칙종류": "공단규정",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,11 +27,11 @@
     "전화번호": "02-3153-2017",
     "제개정구분명": "일부개정",
     "소관부처코드": "B551010",
-    "생성일자": "20260423",
+    "생성일자": "20261013",
     "행정규칙ID": "2113203",
     "담당부서기관코드": "B551010",
-    "발령번호": "134",
-    "행정규칙일련번호": "2200000154763"
+    "발령번호": "135",
+    "행정규칙일련번호": "2200000160841"
   },
   "amendment_text": "",
   "revision_reason": "",
@@ -44,7 +44,7 @@
         "article_title": "목적",
         "chapter": "",
         "chapter_path": "",
-        "content": "제1조(목적) 이 규칙은 「자료관리규정」 제4조 제4항에 의해 한국영상자료원(이하 \"자료원\"이라 한다)에 제출된 영화필름 등의 업무에 관한 사항 등을 규정함을 목적으로 한다. <개정 2014. 9. 26.>",
+        "content": "제1조(목적) 이 규칙은 「자료관리규정」 제4조제4항에 의해 한국영상자료원(이하 \"자료원\"이라 한다)에 제출된 영화필름 등의 업무에 관한 사항 등을 규정함을 목적으로 한다. <개정 2014. 9. 26.>",
         "enforcement_date": "",
         "relations": [
           {
@@ -73,7 +73,7 @@
             "target_category": "행정규칙",
             "source_article_no": "제1조",
             "source_clause": "제1조",
-            "link_text": "제4조",
+            "link_text": "제4조제4항",
             "line_text": "",
             "target_law_name": "자료관리규정",
             "target_article_no": "제4조",
@@ -96,7 +96,7 @@
         "article_title": "대상영화",
         "chapter": "",
         "chapter_path": "",
-        "content": "제2조(대상영화) 이 규칙에서 규정하는 대상영화는 다음과 같다. <개정 2020. 11. 26.>1. 「영화 및 비디오물의 진흥에 관한 법률」 (이하 \"영화비디오법\"이라 한다) 제29조 제1항에 의해 영화업자가 영상물등급위원회의 상영등급분류를 받은 영화2. 영화비디오법 제29조제1항에 의해 상영등급을 분류 받지 아니한 영화중에서 자료원이 제출대상으로 선정하여 영화업자가 제출을 동의한 영화",
+        "content": "제2조(대상영화) 이 규칙에서 규정하는 대상영화는 다음과 같다. <개정 2020. 11. 26.>1. 「영화 및 비디오물의 진흥에 관한 법률」(이하 \"영화비디오법\"이라 한다) 제29조제1항에 의해 영화업자가 영상물등급위원회의 상영등급분류를 받은 영화2. 영화비디오법 제29조제1항에 의해 상영등급을 분류 받지 아니한 영화중에서 자료원이 제출대상으로 선정하여 영화업자가 제출을 동의한 영화",
         "enforcement_date": "",
         "relations": [
           {
@@ -117,53 +117,7 @@
             "source_provision_id": "SchlPubRul:(한국영상자료원)영화필름등의제출처리규칙#JO0002",
             "reference_id": "law:영화및비디오물의진흥에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "영화 및 비디오물의 진흥에 관한 법률/법률/영화 및 비디오물의 진흥에 관한 법률.json",
-            "target_git_path": "영화 및 비디오물의 진흥에 관한 법률/법률/영화 및 비디오물의 진흥에 관한 법률.json",
-            "target_source_repository": "LAW"
-          },
-          {
-            "relation_type": "citation",
-            "delegation_type": null,
-            "target_category": "법령",
-            "source_article_no": "제2조",
-            "source_clause": "제2조",
-            "link_text": "제29조",
-            "line_text": "",
-            "target_law_name": "영화 및 비디오물의 진흥에 관한 법률",
-            "target_article_no": "제29조",
-            "target_article_title": "",
-            "target_mst": "",
-            "source_admrul_seq": "2113203",
-            "target_url": "https://www.law.go.kr/법령/영화 및 비디오물의 진흥에 관한 법률/제29조",
-            "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:(한국영상자료원)영화필름등의제출처리규칙#JO0002",
-            "reference_id": "law:영화및비디오물의진흥에관한법률#JO0029",
-            "target_repo": "LAW",
-            "target_git_path_guess": "영화 및 비디오물의 진흥에 관한 법률/법률/영화 및 비디오물의 진흥에 관한 법률.json",
-            "target_git_path": "영화 및 비디오물의 진흥에 관한 법률/법률/영화 및 비디오물의 진흥에 관한 법률.json",
-            "target_source_repository": "LAW"
-          },
-          {
-            "relation_type": "citation",
-            "delegation_type": null,
-            "target_category": "법령",
-            "source_article_no": "제2조",
-            "source_clause": "제2조",
-            "link_text": "영화비디오법",
-            "line_text": "",
-            "target_law_name": "영화 및 비디오물의 진흥에 관한 법률",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "",
-            "source_admrul_seq": "2113203",
-            "target_url": "https://www.law.go.kr/법령/영화 및 비디오물의 진흥에 관한 법률",
-            "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:(한국영상자료원)영화필름등의제출처리규칙#JO0002",
-            "reference_id": "law:영화및비디오물의진흥에관한법률#DOC",
-            "target_repo": "LAW",
-            "target_git_path_guess": "영화 및 비디오물의 진흥에 관한 법률/법률/영화 및 비디오물의 진흥에 관한 법률.json",
-            "target_git_path": "영화 및 비디오물의 진흥에 관한 법률/법률/영화 및 비디오물의 진흥에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "영화 및 비디오물의 진흥에 관한 법률/법률/영화 및 비디오물의 진흥에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -183,9 +137,47 @@
             "source_provision_id": "SchlPubRul:(한국영상자료원)영화필름등의제출처리규칙#JO0002",
             "reference_id": "law:영화및비디오물의진흥에관한법률#JO0029",
             "target_repo": "LAW",
-            "target_git_path_guess": "영화 및 비디오물의 진흥에 관한 법률/법률/영화 및 비디오물의 진흥에 관한 법률.json",
-            "target_git_path": "영화 및 비디오물의 진흥에 관한 법률/법률/영화 및 비디오물의 진흥에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "영화 및 비디오물의 진흥에 관한 법률/법률/영화 및 비디오물의 진흥에 관한 법률.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "영화비디오법",
+            "line_text": "",
+            "target_law_name": "영화 및 비디오물의 진흥에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2113203",
+            "target_url": "https://www.law.go.kr/법령/영화 및 비디오물의 진흥에 관한 법률",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(한국영상자료원)영화필름등의제출처리규칙#JO0002",
+            "reference_id": "law:영화및비디오물의진흥에관한법률#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "영화 및 비디오물의 진흥에 관한 법률/법률/영화 및 비디오물의 진흥에 관한 법률.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제29조제1항",
+            "line_text": "",
+            "target_law_name": "영화 및 비디오물의 진흥에 관한 법률",
+            "target_article_no": "제29조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2113203",
+            "target_url": "https://www.law.go.kr/법령/영화 및 비디오물의 진흥에 관한 법률/제29조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(한국영상자료원)영화필름등의제출처리규칙#JO0002",
+            "reference_id": "law:영화및비디오물의진흥에관한법률#JO0029",
+            "target_repo": "LAW",
+            "target_git_path_guess": "영화 및 비디오물의 진흥에 관한 법률/법률/영화 및 비디오물의 진흥에 관한 법률.json"
           }
         ],
         "images": [],
@@ -207,7 +199,7 @@
         "article_title": "제출의무 고지",
         "chapter": "",
         "chapter_path": "",
-        "content": "제4조(제출의무 고지) ① 자료원은 제2조 제1호의 영화에 대해 영화업자에게 영화필름 등의 제출 의무를 2회 이상 고지하여야 한다.② 자료원은 제출 의무 고지 시 제출제도 안내, 제출기한, 보상금 청구 등이 포함된 제출안내서를 발송한다.",
+        "content": "제4조(제출의무 고지) ① 자료원은 제2조제1호의 영화에 대해 영화업자에게 영화필름 등의 제출 의무를 2회 이상 고지하여야 한다.② 자료원은 제출 의무 고지 시 제출제도 안내, 제출기한, 보상금 청구 등이 포함된 제출안내서를 발송한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -216,7 +208,7 @@
             "target_category": "학칙공단",
             "source_article_no": "제4조",
             "source_clause": "제4조제1항",
-            "link_text": "제2조",
+            "link_text": "제2조제1호",
             "line_text": "",
             "target_law_name": "(한국영상자료원) 영화필름 등의 제출 처리규칙",
             "target_article_no": "제2조",
@@ -228,11 +220,7 @@
             "source_provision_id": "SchlPubRul:(한국영상자료원)영화필름등의제출처리규칙#JO0004",
             "reference_id": "SchlPubRul:(한국영상자료원)영화필름등의제출처리규칙#JO0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국영상자료원) 영화필름 등의 제출 처리규칙/(한국영상자료원) 영화필름 등의 제출 처리규칙.json",
-            "target_git_path": "(한국영상자료원) 영화필름 등의 제출 처리규칙/(한국영상자료원) 영화필름 등의 제출 처리규칙.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국영상자료원) 영화필름 등의 제출 처리규칙/(한국영상자료원) 영화필름 등의 제출 처리규칙.json"
           }
         ],
         "images": [],
@@ -265,7 +253,7 @@
         "article_title": "보상청구",
         "chapter": "",
         "chapter_path": "",
-        "content": "제7조(보상청구) ① 영화업자는 영화필름 등의 자료를 제출한 날로부터 90일 이내에 영화비디오법 시행규칙 서식 제8호에 의한 보상청구서를 제출하여야 한다. <개정 2020. 11. 26.>② 제6조 제3항에 의거 자료원이 직접 복사 시에는 작업업체의 청구서를 보상청구서로 간주하여 처리한다.③ 다음 각호의 1에 해당하는 경우는 보상을 청구할 수 없다.1. 제6조제3항에 해당하는 경우2. 보상청구 기간이 초과된 경우3. 제12조의 제출면제가 확정된 경우",
+        "content": "제7조(보상청구) ① 영화업자는 영화필름 등의 자료를 제출한 날로부터 90일 이내에 영화비디오법 시행규칙 서식 제8호에 의한 보상청구서를 제출하여야 한다. <개정 2020. 11. 26.>② 제6조제3항에 의거 자료원이 직접 복사 시에는 작업업체의 청구서를 보상청구서로 간주하여 처리한다.③ 다음 각호의 1에 해당하는 경우는 보상을 청구할 수 없다.1. 제6조제3항에 해당하는 경우2. 보상청구 기간이 초과된 경우3. 제12조의 제출면제가 확정된 경우",
         "enforcement_date": "",
         "relations": [
           {
@@ -274,7 +262,7 @@
             "target_category": "학칙공단",
             "source_article_no": "제7조",
             "source_clause": "제7조제2항",
-            "link_text": "제6조",
+            "link_text": "제6조제3항",
             "line_text": "",
             "target_law_name": "(한국영상자료원) 영화필름 등의 제출 처리규칙",
             "target_article_no": "제6조",
@@ -286,11 +274,7 @@
             "source_provision_id": "SchlPubRul:(한국영상자료원)영화필름등의제출처리규칙#JO0007",
             "reference_id": "SchlPubRul:(한국영상자료원)영화필름등의제출처리규칙#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국영상자료원) 영화필름 등의 제출 처리규칙/(한국영상자료원) 영화필름 등의 제출 처리규칙.json",
-            "target_git_path": "(한국영상자료원) 영화필름 등의 제출 처리규칙/(한국영상자료원) 영화필름 등의 제출 처리규칙.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국영상자료원) 영화필름 등의 제출 처리규칙/(한국영상자료원) 영화필름 등의 제출 처리규칙.json"
           },
           {
             "relation_type": "internal_ref",
@@ -310,11 +294,7 @@
             "source_provision_id": "SchlPubRul:(한국영상자료원)영화필름등의제출처리규칙#JO0007",
             "reference_id": "SchlPubRul:(한국영상자료원)영화필름등의제출처리규칙#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국영상자료원) 영화필름 등의 제출 처리규칙/(한국영상자료원) 영화필름 등의 제출 처리규칙.json",
-            "target_git_path": "(한국영상자료원) 영화필름 등의 제출 처리규칙/(한국영상자료원) 영화필름 등의 제출 처리규칙.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국영상자료원) 영화필름 등의 제출 처리규칙/(한국영상자료원) 영화필름 등의 제출 처리규칙.json"
           },
           {
             "relation_type": "internal_ref",
@@ -334,11 +314,7 @@
             "source_provision_id": "SchlPubRul:(한국영상자료원)영화필름등의제출처리규칙#JO0007",
             "reference_id": "SchlPubRul:(한국영상자료원)영화필름등의제출처리규칙#JO0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국영상자료원) 영화필름 등의 제출 처리규칙/(한국영상자료원) 영화필름 등의 제출 처리규칙.json",
-            "target_git_path": "(한국영상자료원) 영화필름 등의 제출 처리규칙/(한국영상자료원) 영화필름 등의 제출 처리규칙.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국영상자료원) 영화필름 등의 제출 처리규칙/(한국영상자료원) 영화필름 등의 제출 처리규칙.json"
           }
         ],
         "images": [],
@@ -349,7 +325,7 @@
         "article_title": "보상금 산정",
         "chapter": "",
         "chapter_path": "",
-        "content": "제8조(보상금 산정) ① 제출된 자료에 대한 보상은 디지털시네마를 기반으로 한 매체의 복사에 소요된 실비로 한다. <개정 2020. 11. 26.>② 단가는 매년 초에 자료원이 정하여 주무부장관과 관계자에게 알린다. 단, 특별한 변동이 있는 경우 변경 후 익월 1일부터 시행한다. <개정 2020. 11. 26.>③ 상기 산정기준 및 적용기준은 다음과 같다. <개정 2020. 11. 26., 2021. 11. 9.>[그림][그림]④ 제3조제1항에 의한 제출자료 외에 보존 및 향후 활용 가치가 높다고 인정되는 영상자료에 대해 추가 보상을 할 수 있으며 보상금 산정 기준은 다음과 같다. <개정 2021. 11. 9., 2023. 5. 1., 2023. 11. 9., 2026. 4. 1.>[그림]",
+        "content": "제8조(보상금 산정) ① 제출된 자료에 대한 보상은 디지털시네마를 기반으로 한 매체의 복사에 소요된 실비로 한다. <개정 2020. 11. 26.>② 단가는 매년 초에 자료원이 정하여 주무부장관과 관계자에게 알린다. 단, 특별한 변동이 있는 경우 변경 후 익월 1일부터 시행한다. <개정 2020. 11. 26.>③ 상기 산정기준 및 적용기준은 다음과 같다. <개정 2020. 11. 26., 2021. 11. 9.>[그림]④ 제3조제1항에 의한 제출자료 외에 보존 및 향후 활용 가치가 높다고 인정되는 영상자료에 대해 추가 보상을 할 수 있으며 보상금 산정 기준은 다음과 같다. <개정 2021. 11. 9., 2023. 5. 1., 2023. 11. 9., 2026. 4. 1., 2026. 9. 1.>[그림]",
         "enforcement_date": "",
         "relations": [
           {
@@ -370,18 +346,14 @@
             "source_provision_id": "SchlPubRul:(한국영상자료원)영화필름등의제출처리규칙#JO0008",
             "reference_id": "SchlPubRul:(한국영상자료원)영화필름등의제출처리규칙#JO0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국영상자료원) 영화필름 등의 제출 처리규칙/(한국영상자료원) 영화필름 등의 제출 처리규칙.json",
-            "target_git_path": "(한국영상자료원) 영화필름 등의 제출 처리규칙/(한국영상자료원) 영화필름 등의 제출 처리규칙.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국영상자료원) 영화필름 등의 제출 처리규칙/(한국영상자료원) 영화필름 등의 제출 처리규칙.json"
           }
         ],
         "images": [
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163705071",
-            "seq": "163705071",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170449947",
+            "seq": "170449947",
             "filename": "제8조_1.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제8조_1.gif",
@@ -389,20 +361,11 @@
           },
           {
             "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163705165",
-            "seq": "163705165",
+            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170449949",
+            "seq": "170449949",
             "filename": "제8조_2.gif",
             "file_dir": "본문이미지",
             "local_path": "본문이미지/제8조_2.gif",
-            "file_store_url": ""
-          },
-          {
-            "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=163705167",
-            "seq": "163705167",
-            "filename": "제8조_3.gif",
-            "file_dir": "본문이미지",
-            "local_path": "본문이미지/제8조_3.gif",
             "file_store_url": ""
           }
         ],
@@ -434,11 +397,7 @@
             "source_provision_id": "SchlPubRul:(한국영상자료원)영화필름등의제출처리규칙#JO0009",
             "reference_id": "SchlPubRul:(한국영상자료원)영화필름등의제출처리규칙#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국영상자료원) 영화필름 등의 제출 처리규칙/(한국영상자료원) 영화필름 등의 제출 처리규칙.json",
-            "target_git_path": "(한국영상자료원) 영화필름 등의 제출 처리규칙/(한국영상자료원) 영화필름 등의 제출 처리규칙.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국영상자료원) 영화필름 등의 제출 처리규칙/(한국영상자료원) 영화필름 등의 제출 처리규칙.json"
           }
         ],
         "images": [],
@@ -480,14 +439,13 @@
             "appendix_found": false,
             "target_mst": "",
             "source_admrul_seq": "2113203",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000154763&bylNo=&bylBrNo=",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000160841&bylNo=&bylBrNo=",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국영상자료원)영화필름등의제출처리규칙#JO0011",
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:(한국영상자료원)영화필름등의제출처리규칙#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국영상자료원) 영화필름 등의 제출 처리규칙/(한국영상자료원) 영화필름 등의 제출 처리규칙.json",
-            "target_missing_unit": true
+            "target_git_path_guess": "(한국영상자료원) 영화필름 등의 제출 처리규칙/(한국영상자료원) 영화필름 등의 제출 처리규칙.json"
           },
           {
             "relation_type": "internal_ref",
@@ -507,11 +465,7 @@
             "source_provision_id": "SchlPubRul:(한국영상자료원)영화필름등의제출처리규칙#JO0011",
             "reference_id": "SchlPubRul:(한국영상자료원)영화필름등의제출처리규칙#JO0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국영상자료원) 영화필름 등의 제출 처리규칙/(한국영상자료원) 영화필름 등의 제출 처리규칙.json",
-            "target_git_path": "(한국영상자료원) 영화필름 등의 제출 처리규칙/(한국영상자료원) 영화필름 등의 제출 처리규칙.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국영상자료원) 영화필름 등의 제출 처리규칙/(한국영상자료원) 영화필름 등의 제출 처리규칙.json"
           }
         ],
         "images": [],
@@ -533,7 +487,7 @@
         "article_title": "자료관리규정 적용",
         "chapter": "",
         "chapter_path": "",
-        "content": "제13조(자료관리규정 적용) 이 규칙에 의해 특별히 규정된 사항을 제외한 영화필름 등 제출에 의한 자료의 관리에 관한 사항은 「자료관리규정」 을 적용한다. <개정 2014. 9. 26.>",
+        "content": "제13조(자료관리규정 적용) 이 규칙에 의해 특별히 규정된 사항을 제외한 영화필름 등 제출에 의한 자료의 관리에 관한 사항은 「자료관리규정」을 적용한다. <개정 2014. 9. 26.>",
         "enforcement_date": "",
         "relations": [
           {
@@ -569,10 +523,10 @@
       "content": "부칙 <제26호, 2014.09.26.>이 규칙은 2014년 9월 29일부터 시행한다.",
       "provision_id": "SchlPubRul:(한국영상자료원)영화필름등의제출처리규칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000154763",
+      "source_mst": "2200000160841",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260401"
+      "version_enforcement_date": "20260901"
     },
     {
       "promulgation_date": "20180725",
@@ -580,10 +534,10 @@
       "content": "부칙 <제71호, 2018.07.25.>이 규칙은 2018년 8월 1일부터 시행한다.",
       "provision_id": "SchlPubRul:(한국영상자료원)영화필름등의제출처리규칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000154763",
+      "source_mst": "2200000160841",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260401"
+      "version_enforcement_date": "20260901"
     },
     {
       "promulgation_date": "20180725",
@@ -591,10 +545,10 @@
       "content": "부칙 <제90호, 2018.07.25.>이 규칙은 2021년 1월 1일부터 시행한다.",
       "provision_id": "SchlPubRul:(한국영상자료원)영화필름등의제출처리규칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000154763",
+      "source_mst": "2200000160841",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260401"
+      "version_enforcement_date": "20260901"
     },
     {
       "promulgation_date": "20211109",
@@ -602,10 +556,10 @@
       "content": "부칙 <제101호, 2021.11.09.>이 규칙은 2021년 12월 1일부터 시행한다.",
       "provision_id": "SchlPubRul:(한국영상자료원)영화필름등의제출처리규칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000154763",
+      "source_mst": "2200000160841",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260401"
+      "version_enforcement_date": "20260901"
     },
     {
       "promulgation_date": "20230501",
@@ -613,10 +567,10 @@
       "content": "부칙 <제108호, 2023.05.01.>이 규칙은 2023년 5월 1일부터 시행한다.",
       "provision_id": "SchlPubRul:(한국영상자료원)영화필름등의제출처리규칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000154763",
+      "source_mst": "2200000160841",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260401"
+      "version_enforcement_date": "20260901"
     },
     {
       "promulgation_date": "20231109",
@@ -624,10 +578,10 @@
       "content": "부칙 <제117호, 2023.11.09.>이 규칙은 2023년 12월 1일부터 시행한다.",
       "provision_id": "SchlPubRul:(한국영상자료원)영화필름등의제출처리규칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000154763",
+      "source_mst": "2200000160841",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260401"
+      "version_enforcement_date": "20260901"
     },
     {
       "promulgation_date": "20260401",
@@ -635,10 +589,21 @@
       "content": "부칙 <제134호, 2026.04.01.>이 규칙은 2026년 4월 1일부터 시행한다.",
       "provision_id": "SchlPubRul:(한국영상자료원)영화필름등의제출처리규칙#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000154763",
+      "source_mst": "2200000160841",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20260401"
+      "version_enforcement_date": "20260901"
+    },
+    {
+      "promulgation_date": "20260901",
+      "promulgation_no": "135",
+      "content": "부칙 <제135호, 2026.09.01.>이 규칙은 2026년 9월 1일부터 시행한다.",
+      "provision_id": "SchlPubRul:(한국영상자료원)영화필름등의제출처리규칙#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000160841",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260901"
     }
   ],
   "appendices": [],
@@ -661,7 +626,7 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 7,
+    "addenda_count": 8,
     "appendices_count": 0,
     "attachments_count": 0
   },
