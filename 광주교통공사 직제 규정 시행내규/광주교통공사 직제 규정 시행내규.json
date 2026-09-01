@@ -9,14 +9,14 @@
   "adm_uid": "public:2130403",
   "promulgation_no": "9999",
   "promulgation_date": "20231228",
-  "enforcement_date": "20231228",
+  "enforcement_date": "20260901",
   "revision_date": "20231228",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
     "현행여부": "Y",
     "담당부서기관명": "광주교통공사",
-    "담당자명": "하승희",
+    "담당자명": "김상길",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "광주교통공사 직제 규정 시행내규",
     "발령일자": "20231228",
@@ -24,27 +24,38 @@
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
     "소관부처명": "광주교통공사",
-    "전화번호": "062-604-8023",
+    "전화번호": "062-604-8028",
     "제개정구분명": "일부개정",
     "소관부처코드": "B555073",
-    "생성일자": "20250701",
+    "생성일자": "20260902",
     "행정규칙ID": "2130403",
     "담당부서기관코드": "B555073",
     "발령번호": "9999",
     "행정규칙일련번호": "2200000124845"
   },
-  "amendment_text": "이 내규는 광주교통공사(이하 “공사”라 한다)직제 규정(이하 “규정”이라 한다)을 시행하기 위하여 필요한 사항을 규정함을 목적으로 한다.<개정 2023.9.1.>",
+  "amendment_text": "",
   "revision_reason": "이 내규는 광주교통공사(이하 “공사”라 한다)직제 규정(이하 “규정”이라 한다)을 시행하기 위하여 필요한 사항을 규정함을 목적으로 한다.<개정 2023.9.1.>",
   "body": {
     "format": "articles",
-    "article_count": 12,
+    "article_count": 11,
     "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제1조(목적) 이 내규는 광주교통공사(이하 “공사”라 한다)직제 규정(이하 “규정”이라 한다)을 시행하기 위하여 필요한 사항을 규정함을 목적으로 한다.<개정 2023.9.1.>",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "SchlPubRul:광주교통공사직제규정시행내규#JO0001"
+      },
       {
         "article_no": "제2조",
         "article_title": "적용범위",
         "chapter": "",
         "chapter_path": "",
-        "content": "제2조(적용범위) 직제 운영에 관하여는 다른 규정 및 내규에 특별히 정한 경우를 제외하고는 이 내규에서 정하는 바에 의한다.제 2 장 조 직",
+        "content": "제2조(적용범위) 직제 운영에 관하여는 다른 규정 및 내규에 특별히 정한 경우를 제외하고는 이 내규에서 정하는 바에 의한다.제 2 장   조     직",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -55,7 +66,7 @@
         "article_title": "위치",
         "chapter": "",
         "chapter_path": "",
-        "content": "제3조(위치)사무소 소재지는 별표 1과 같다<신설 2017. 9. 1>[그림]",
+        "content": "제3조(위치) 사무소 소재지는 별표 1과 같다<신설 2017. 9. 1>  ① 삭제 <2017. 9. 1>② 삭제 <2017. 9. 1>",
         "enforcement_date": "",
         "relations": [
           {
@@ -81,25 +92,10 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:광주교통공사직제규정시행내규#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "광주교통공사 직제 규정 시행내규/광주교통공사 직제 규정 시행내규.json",
-            "target_git_path": "광주교통공사 직제 규정 시행내규/광주교통공사 직제 규정 시행내규.json",
-            "target_git_file_path": "광주교통공사 직제 규정 시행내규/별표/별표1_사무소 소재지.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "광주교통공사 직제 규정 시행내규/광주교통공사 직제 규정 시행내규.json"
           }
         ],
-        "images": [
-          {
-            "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=152971937",
-            "seq": "152971937",
-            "filename": "제3조_1.gif",
-            "file_dir": "본문이미지",
-            "local_path": "본문이미지/제3조_1.gif",
-            "file_store_url": ""
-          }
-        ],
+        "images": [],
         "provision_id": "SchlPubRul:광주교통공사직제규정시행내규#JO0003"
       },
       {
@@ -107,7 +103,7 @@
         "article_title": "정원",
         "chapter": "",
         "chapter_path": "",
-        "content": "제4조(정원)공사의 부서(팀)별, 직렬·직급별 정원은 별표 2와 같다. 다만, 1급 내지 3급의 경우 별표의 부서별, 직급별 정원에도 불구하고 총정원 범위 내에서 임용할 수 있다.<개정 2017. 9. 1>",
+        "content": "제4조(정원) 공사의 부서(팀)별, 직렬ㆍ직급별 정원은 별표 2와 같다. 다만, 1급 내지 3급의 경우 별표의 부서별, 직급별 정원에도 불구하고 총정원 범위 내에서 임용할 수 있다.<개정 2017. 9. 1>",
         "enforcement_date": "",
         "relations": [
           {
@@ -133,12 +129,7 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:광주교통공사직제규정시행내규#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "광주교통공사 직제 규정 시행내규/광주교통공사 직제 규정 시행내규.json",
-            "target_git_path": "광주교통공사 직제 규정 시행내규/광주교통공사 직제 규정 시행내규.json",
-            "target_git_file_path": "광주교통공사 직제 규정 시행내규/별표/별표2_정원표.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "광주교통공사 직제 규정 시행내규/광주교통공사 직제 규정 시행내규.json"
           }
         ],
         "images": [],
@@ -149,7 +140,7 @@
         "article_title": "직위 및 직급",
         "chapter": "",
         "chapter_path": "",
-        "content": "제5조(직위 및 직급) 직원의 직위는 인사명령에 의하고 직급명칭은 다음과 같다. 단, 보직자는 직급명칭 대신 직위명으로 호칭한다.<개정 2019. 7. 3, 2023. 12. 28.>",
+        "content": "제5조(직위 및 직급) 직원의 직위는 인사명령에 의하고 직급명칭은 다음과 같다. 단, 보직자는 직급명칭 대신 직위명으로 호칭한다.<개정 2019. 7. 3, 2023. 12. 28.>직 급직 급 명 칭비  고1급단장2급수석부장3급부장4급차장5급과장6급과장7급대리8급대리9급주임",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -171,7 +162,7 @@
         "article_title": "분장사무",
         "chapter": "",
         "chapter_path": "",
-        "content": "제7조(분장사무) 업무의 능률성과 효율성을 제고하고, 책임성을 명확히 하기 위한 부서별·팀별 분장사무는 별표 3과 같다.<개정 2017. 9. 1>",
+        "content": "제7조(분장사무) 업무의 능률성과 효율성을 제고하고, 책임성을 명확히 하기 위한 부서별ㆍ팀별 분장사무는 별표 3과 같다.<개정 2017. 9. 1>",
         "enforcement_date": "",
         "relations": [
           {
@@ -197,12 +188,7 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:광주교통공사직제규정시행내규#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "광주교통공사 직제 규정 시행내규/광주교통공사 직제 규정 시행내규.json",
-            "target_git_path": "광주교통공사 직제 규정 시행내규/광주교통공사 직제 규정 시행내규.json",
-            "target_git_file_path": "광주교통공사 직제 규정 시행내규/별표/별표3_분장사무표.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "광주교통공사 직제 규정 시행내규/광주교통공사 직제 규정 시행내규.json"
           }
         ],
         "images": [],
@@ -213,100 +199,29 @@
         "article_title": "분장사무 및 인력의 조정",
         "chapter": "",
         "chapter_path": "",
-        "content": "제8조(분장사무 및 인력의 조정)① 각 조직단위는 사무분장에 관하여 전 조직을 통해 유기적으로 운영되도록 협의·협조할 의무가 있다.② 각 조직단위간 사무분장에 관하여 상호 이견이 있을 경우 다음 각호의 정하는 바에 의한다.1. 쌍방이 같은 직상급자에 소속할 경우에는 그 직상급자가 결정2. 쌍방이 각각 직상급자를 달리할 경우에는 그 직상급자간의 협의에 의해 결정3. 제2호의 규정에 의하여 협의가 되지 아니하는 경우에는 사장이 결정③ 부서의 장은 팀·단단위 업무분장, 원장·팀장·단장은 소속 직원의 개인별 분장사무를 부여하여야 한다.<개정 2012. 2. 1, 2015. 2. 26, 2019. 7. 3, 2019. 7. 19, 2020. 2. 10, 2021. 1. 28, 2021. 7. 12, 2023. 12. 28, 2025. 5. 28>④ 각 부서장은 소속 팀의 인력을 업무량의 증감 또는 환경변화에 따라 탄력적으로 조정(정원표 상의 정원에도 불구하고, 부서내 인력은 사장의 승인을 얻어 조정) 활용할 수 있으며, 이 경우 조직담당부서장과 협의를 거쳐야 한다.<개정 2015. 2. 26>",
+        "content": "제8조(분장사무 및 인력의 조정) ① 각 조직단위는 사무분장에 관하여 전 조직을 통해 유기적으로 운영되도록 협의ㆍ협조할 의무가 있다.② 각 조직단위간 사무분장에 관하여 상호 이견이 있을 경우 다음 각호의 정하는 바에 의한다.1. 쌍방이 같은 직상급자에 소속할 경우에는 그 직상급자가 결정2. 쌍방이 각각 직상급자를 달리할 경우에는 그 직상급자간의 협의에 의해 결정3. 제2호의 규정에 의하여 협의가 되지 아니하는 경우에는 사장이 결정③ 부서의 장은 팀단위 업무분장, 원장ㆍ팀장은 소속 직원의 개인별 분장사무를 부여하여야 한다.<개정 2012. 2. 1, 2015. 2. 26, 2019. 7. 3, 2019. 7. 19, 2020. 2. 10, 2021. 1. 28, 2021. 7. 12, 2023. 12. 28, 2026. 9. 1>④ 각 부서장은 소속 팀의 인력을 업무량의 증감 또는 환경변화에 따라 탄력적으로 조정(정원표 상의 정원에도 불구하고, 부서내 인력은 사장의 승인을 얻어 조정) 활용할 수 있으며, 이 경우 조직담당부서장과 협의를 거쳐야 한다.<개정 2015. 2. 26>\n제8조의 2(관리역 및 분소, 파트리더의 설치ㆍ운영)<개정 2015. 8. 19, 2017. 9. 1, 2018. 8. 30, 2019. 7. 3, 2026. 9. 1> ① 삭제 <2015. 4. 17.>② 관리역 및 분소의 관할범위는 각 부서장이 따로 정하며, 관리역 및 분소의 수행업무는 제8조제3항의 개인별 분장사무에 의한다.<개정 2015. 8. 19, 2026. 9. 1>③ 야간근무시간(18:00～익일09:00) 및 주간근무시간 중 역장 및 분소장 부재시에는 당일 근무조의 책임자(조 선임자)가 역장 및 분소장 업무를 대행한다.<개정 2015. 8. 19>④ 규정 제10조에 따라 업무를 효율적으로 수행하기 위하여 인재개발원에 파트리더(P/L)를 둘 수 있다.<신설 2017.9.1, 개정 2018.8. 30, 2019.7.3., 2020.7.14., 2021.7.12>⑤ 삭제<2019. 7. 3> <신설 2018. 8. 30.>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
         "provision_id": "SchlPubRul:광주교통공사직제규정시행내규#JO0008"
       },
       {
-        "article_no": "제8조의2",
-        "article_title": "역 및 분소, 파트리더의 설치·운영<개정 2015. 8. 19, 2017. 9. 1, 2018. 8. 30, 2019. 7. 3>",
-        "chapter": "",
-        "chapter_path": "",
-        "content": "제8조의2(역 및 분소, 파트리더의 설치·운영<개정 2015. 8. 19, 2017. 9. 1, 2018. 8. 30, 2019. 7. 3>) ① 삭제 <2015. 4. 17.>② 역 및 분소의 업무는 제8조제3항의 개인별 분장사무에 의한다.<개정 2015. 8. 19>③ 야간근무시간(18:00～익일09:00) 및 주간근무시간 중 역장 및 분소장 부재시에는 당일 근무조의 책임자(조 선임자)가 역장 및 분소장 업무를 대행한다.<개정 2015. 8. 19>④ 규정 제10조에 따라 업무를 효율적으로 수행하기 위하여 인재개발원에 파트리더(P/L)를 둘 수 있다.<신설 2017.9.1,개정 2018.8. 30, 2019.7.3., 2020.7.14., 2021.7.12>⑤ 삭제<2019. 7. 3> <신설 2018. 8. 30.>",
-        "enforcement_date": "",
-        "relations": [
-          {
-            "relation_type": "internal_ref",
-            "delegation_type": null,
-            "target_category": "학칙공단",
-            "source_article_no": "제8조의2",
-            "source_clause": "제8조의2제2항",
-            "link_text": "제8조제3항",
-            "line_text": "",
-            "target_law_name": "광주교통공사 직제 규정 시행내규",
-            "target_article_no": "제8조",
-            "target_article_title": "",
-            "target_mst": "",
-            "source_admrul_seq": "2130403",
-            "target_url": "https://www.law.go.kr/학칙공단/광주교통공사 직제 규정 시행내규/제8조",
-            "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:광주교통공사직제규정시행내규#JO0008_02",
-            "reference_id": "SchlPubRul:광주교통공사직제규정시행내규#JO0008",
-            "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "광주교통공사 직제 규정 시행내규/광주교통공사 직제 규정 시행내규.json",
-            "target_git_path": "광주교통공사 직제 규정 시행내규/광주교통공사 직제 규정 시행내규.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
-          },
-          {
-            "relation_type": "internal_ref",
-            "delegation_type": null,
-            "target_category": "학칙공단",
-            "source_article_no": "제8조의2",
-            "source_clause": "제8조의2제4항",
-            "link_text": "제10조",
-            "line_text": "",
-            "target_law_name": "광주교통공사 직제 규정 시행내규",
-            "target_article_no": "제10조",
-            "target_article_title": "",
-            "target_mst": "",
-            "source_admrul_seq": "2130403",
-            "target_url": "https://www.law.go.kr/학칙공단/광주교통공사 직제 규정 시행내규/제10조",
-            "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:광주교통공사직제규정시행내규#JO0008_02",
-            "reference_id": "SchlPubRul:광주교통공사직제규정시행내규#JO0010",
-            "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "광주교통공사 직제 규정 시행내규/광주교통공사 직제 규정 시행내규.json",
-            "target_git_path": "광주교통공사 직제 규정 시행내규/광주교통공사 직제 규정 시행내규.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
-          }
-        ],
-        "images": [],
-        "provision_id": "SchlPubRul:광주교통공사직제규정시행내규#JO0008_02"
-      },
-      {
         "article_no": "제9조",
         "article_title": "현업기관 지도감독",
         "chapter": "",
         "chapter_path": "",
-        "content": "제9조(현업기관 지도감독) ① 현업기관은 규정 및 이 내규의 업무분장에 대하여 본부장과 본사 부서장의 지도·감독을 받는다.② 현업기관의 장은 소관 업무를 통할하며, 소속직원을 지휘·감독한다.<본조신설 2021. 1. 28.>",
+        "content": "제9조(현업기관 지도감독) ① 현업기관은 규정 및 이 내규의 업무분장에 대하여 본부장과 본사 부서장의 지도ㆍ감독을 받는다.② 현업기관의 장은 소관 업무를 통할하며, 소속직원을 지휘ㆍ감독한다.<본조신설 2021. 1. 28.>\n제9조의 2(현업부서 통합운영) 현업부서의 능률적인 업무 수행과 통합운영 관리체계의 확립을 위하여 용산ㆍ유덕차량기지는 차량사업소장, 옥동기지는 인재개발원장, 각 역은 역무사업소장이 각각 통합운영 관리하되 현업팀을 관장하는 소관 부서장에게 사전 협의 또는 사후에 통보하여야 하며, 통합운영 관리업무는 다음과 같다.<개정 2012. 2. 1, 2015. 4. 17, 2015. 8. 19, 2017. 9. 1, 2020. 2. 10, 2021. 1. 28, 2023. 12. 28, 2026. 9. 1>1. 사고발생시 비상소집(훈련, 인력지원 조치)2. 재해대책에 관한 사항3. 안전 및 경계근무4. 당직실 근무감독 및 통제5. 기타 필요한 사항제 3 장 직무관리",
         "enforcement_date": "",
         "relations": [],
         "images": [],
         "provision_id": "SchlPubRul:광주교통공사직제규정시행내규#JO0009"
       },
       {
-        "article_no": "제9조의2",
-        "article_title": "현업부서 통합운영",
-        "chapter": "",
-        "chapter_path": "",
-        "content": "제9조의2(현업부서 통합운영) 현업부서의 능률적인 업무 수행과 통합운영 관리체계의 확립을 위하여 용산차량기지는 차량운영처장,옥동기지는인재개발원장, 각 역은 역무운영팀장이 각각 통합운영 관리하되 현업팀을 관장하는 소관 부서장에게 사전 협의 또는 사후에 통보하여야 하며, 통합운영관리업무는 다음과 같다.<개정 2012. 2. 1, 2015. 4. 17, 2015. 8. 19, 2017. 9. 1, 2020. 2. 10, 2021. 1. 28, 2023. 12. 28.>1. 사고발생시 비상소집(훈련, 인력지원 조치)2. 재해대책에 관한 사항3. 안전 및 경계근무4. 당직실 근무감독 및 통제5. 기타 필요한 사항제 3 장 직무관리",
-        "enforcement_date": "",
-        "relations": [],
-        "images": [],
-        "provision_id": "SchlPubRul:광주교통공사직제규정시행내규#JO0009_02"
-      },
-      {
         "article_no": "제10조",
         "article_title": "직무 신설 및 변경에 따른 조치",
         "chapter": "",
         "chapter_path": "",
-        "content": "제10조(직무 신설 및 변경에 따른 조치)① 업무량 증감 등에 따른 단위조직별 정원의 조정사유가 발생할 경우 해당 부서장은 지체없이 조직담당부서장에게 정원 책정 및 변경을 요청하여 항상 적정한 정원을 유지하도록 노력하여야 한다.② 각 부서장은 소관 직무의 내용이 변경 또는 폐지되거나 새로운 직무가 발생하였을 때에는 지체없이 조직담당부서장에게 변경사항을 통보하여야 한다.제 4 장 보 칙",
+        "content": "제10조(직무 신설 및 변경에 따른 조치) ① 업무량 증감 등에 따른 단위조직별 정원의 조정사유가 발생할 경우 해당 부서장은 지체없이 조직담당부서장에게 정원 책정 및 변경을 요청하여 항상 적정한 정원을 유지하도록 노력하여야 한다.② 각 부서장은 소관 직무의 내용이 변경 또는 폐지되거나 새로운 직무가 발생하였을 때에는 지체없이 조직담당부서장에게 변경사항을 통보하여야 한다.제 4 장 보     칙",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -317,11 +232,53 @@
         "article_title": "임시기구 설치",
         "chapter": "",
         "chapter_path": "",
-        "content": "제11조(임시기구 설치) ① 정규조직으로 목적달성이 곤란하거나 일시적으로 발생되는 업무수요에 효율적으로 대처하기 위하여 필요한 경우 임시기구를 둘 수 있다.② 임시기구의 설치·운영이 필요한 부서장은 임시기구 운영계획을 수립하여 조직담당부서장을 경유하여 사장의 승인을 받아야 한다.③ 조직담당부서장은 임시기구 설치의 타당성, 정원, 조직편제 및 조직규모 등 그 밖에 임시기구에 관한 사항을 검토하여야 하며, 조직관리에 지장이 없는 범위 내에서 협의 조정하여야 한다.",
+        "content": "제11조(임시기구 설치) ① 정규조직으로 목적달성이 곤란하거나 일시적으로 발생되는 업무수요에 효율적으로 대처하기 위하여 필요한 경우 임시기구를 둘 수 있다.② 임시기구의 설치ㆍ운영이 필요한 부서장은 임시기구 운영계획을 수립하여 조직담당부서장을 경유하여 사장의 승인을 받아야 한다.③ 조직담당부서장은 임시기구 설치의 타당성, 정원, 조직편제 및 조직규모 등 그 밖에 임시기구에 관한 사항을 검토하여야 하며, 조직관리에 지장이 없는 범위 내에서 협의 조정하여야 한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
         "provision_id": "SchlPubRul:광주교통공사직제규정시행내규#JO0011"
+      }
+    ],
+    "unmatched_relations": [
+      {
+        "relation_type": "internal_ref",
+        "delegation_type": null,
+        "target_category": "학칙공단",
+        "source_article_no": "제8조의2",
+        "source_clause": "제8조의2제2항",
+        "link_text": "제8조제3항",
+        "line_text": "",
+        "target_law_name": "광주교통공사 직제 규정 시행내규",
+        "target_article_no": "제8조",
+        "target_article_title": "",
+        "target_mst": "",
+        "source_admrul_seq": "2130403",
+        "target_url": "https://www.law.go.kr/학칙공단/광주교통공사 직제 규정 시행내규/제8조",
+        "resolve_method": "render",
+        "source_provision_id": "SchlPubRul:광주교통공사직제규정시행내규#DOC",
+        "reference_id": "SchlPubRul:광주교통공사직제규정시행내규#JO0008",
+        "target_repo": "SCHLPUBRUL",
+        "target_git_path_guess": "광주교통공사 직제 규정 시행내규/광주교통공사 직제 규정 시행내규.json"
+      },
+      {
+        "relation_type": "internal_ref",
+        "delegation_type": null,
+        "target_category": "학칙공단",
+        "source_article_no": "제8조의2",
+        "source_clause": "제8조의2제4항",
+        "link_text": "제10조",
+        "line_text": "",
+        "target_law_name": "광주교통공사 직제 규정 시행내규",
+        "target_article_no": "제10조",
+        "target_article_title": "",
+        "target_mst": "",
+        "source_admrul_seq": "2130403",
+        "target_url": "https://www.law.go.kr/학칙공단/광주교통공사 직제 규정 시행내규/제10조",
+        "resolve_method": "render",
+        "source_provision_id": "SchlPubRul:광주교통공사직제규정시행내규#DOC",
+        "reference_id": "SchlPubRul:광주교통공사직제규정시행내규#JO0010",
+        "target_repo": "SCHLPUBRUL",
+        "target_git_path_guess": "광주교통공사 직제 규정 시행내규/광주교통공사 직제 규정 시행내규.json"
       }
     ]
   },
@@ -335,7 +292,7 @@
       "source_mst": "2200000124845",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20231228"
+      "version_enforcement_date": "20260901"
     },
     {
       "promulgation_date": "20110718",
@@ -346,7 +303,7 @@
       "source_mst": "2200000124845",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20231228"
+      "version_enforcement_date": "20260901"
     },
     {
       "promulgation_date": "20120201",
@@ -357,7 +314,7 @@
       "source_mst": "2200000124845",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20231228"
+      "version_enforcement_date": "20260901"
     },
     {
       "promulgation_date": "20120523",
@@ -368,7 +325,7 @@
       "source_mst": "2200000124845",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20231228"
+      "version_enforcement_date": "20260901"
     },
     {
       "promulgation_date": "20130111",
@@ -379,7 +336,7 @@
       "source_mst": "2200000124845",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20231228"
+      "version_enforcement_date": "20260901"
     },
     {
       "promulgation_date": "20130830",
@@ -390,7 +347,7 @@
       "source_mst": "2200000124845",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20231228"
+      "version_enforcement_date": "20260901"
     },
     {
       "promulgation_date": "20130926",
@@ -401,7 +358,7 @@
       "source_mst": "2200000124845",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20231228"
+      "version_enforcement_date": "20260901"
     },
     {
       "promulgation_date": "20140327",
@@ -412,7 +369,7 @@
       "source_mst": "2200000124845",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20231228"
+      "version_enforcement_date": "20260901"
     },
     {
       "promulgation_date": "20141223",
@@ -423,7 +380,7 @@
       "source_mst": "2200000124845",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20231228"
+      "version_enforcement_date": "20260901"
     },
     {
       "promulgation_date": "20150226",
@@ -434,7 +391,7 @@
       "source_mst": "2200000124845",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20231228"
+      "version_enforcement_date": "20260901"
     },
     {
       "promulgation_date": "20150417",
@@ -445,7 +402,7 @@
       "source_mst": "2200000124845",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20231228"
+      "version_enforcement_date": "20260901"
     },
     {
       "promulgation_date": "20150819",
@@ -456,7 +413,7 @@
       "source_mst": "2200000124845",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20231228"
+      "version_enforcement_date": "20260901"
     },
     {
       "promulgation_date": "20151228",
@@ -467,7 +424,7 @@
       "source_mst": "2200000124845",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20231228"
+      "version_enforcement_date": "20260901"
     },
     {
       "promulgation_date": "20160204",
@@ -478,7 +435,7 @@
       "source_mst": "2200000124845",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20231228"
+      "version_enforcement_date": "20260901"
     },
     {
       "promulgation_date": "20160412",
@@ -489,7 +446,7 @@
       "source_mst": "2200000124845",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20231228"
+      "version_enforcement_date": "20260901"
     },
     {
       "promulgation_date": "20161215",
@@ -500,7 +457,7 @@
       "source_mst": "2200000124845",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20231228"
+      "version_enforcement_date": "20260901"
     },
     {
       "promulgation_date": "20170901",
@@ -511,7 +468,7 @@
       "source_mst": "2200000124845",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20231228"
+      "version_enforcement_date": "20260901"
     },
     {
       "promulgation_date": "20171228",
@@ -522,7 +479,7 @@
       "source_mst": "2200000124845",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20231228"
+      "version_enforcement_date": "20260901"
     },
     {
       "promulgation_date": "20180405",
@@ -533,7 +490,7 @@
       "source_mst": "2200000124845",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20231228"
+      "version_enforcement_date": "20260901"
     },
     {
       "promulgation_date": "20180830",
@@ -544,7 +501,7 @@
       "source_mst": "2200000124845",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20231228"
+      "version_enforcement_date": "20260901"
     },
     {
       "promulgation_date": "20181029",
@@ -555,7 +512,7 @@
       "source_mst": "2200000124845",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20231228"
+      "version_enforcement_date": "20260901"
     },
     {
       "promulgation_date": "20190703",
@@ -566,7 +523,7 @@
       "source_mst": "2200000124845",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20231228"
+      "version_enforcement_date": "20260901"
     },
     {
       "promulgation_date": "20190719",
@@ -577,7 +534,7 @@
       "source_mst": "2200000124845",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20231228"
+      "version_enforcement_date": "20260901"
     },
     {
       "promulgation_date": "20200210",
@@ -588,7 +545,7 @@
       "source_mst": "2200000124845",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20231228"
+      "version_enforcement_date": "20260901"
     },
     {
       "promulgation_date": "20200714",
@@ -599,7 +556,7 @@
       "source_mst": "2200000124845",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20231228"
+      "version_enforcement_date": "20260901"
     },
     {
       "promulgation_date": "20210128",
@@ -610,7 +567,7 @@
       "source_mst": "2200000124845",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20231228"
+      "version_enforcement_date": "20260901"
     },
     {
       "promulgation_date": "20210128",
@@ -621,7 +578,7 @@
       "source_mst": "2200000124845",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20231228"
+      "version_enforcement_date": "20260901"
     },
     {
       "promulgation_date": "20210712",
@@ -632,7 +589,7 @@
       "source_mst": "2200000124845",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20231228"
+      "version_enforcement_date": "20260901"
     },
     {
       "promulgation_date": "20230120",
@@ -643,7 +600,7 @@
       "source_mst": "2200000124845",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20231228"
+      "version_enforcement_date": "20260901"
     },
     {
       "promulgation_date": "20230809",
@@ -654,7 +611,7 @@
       "source_mst": "2200000124845",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20231228"
+      "version_enforcement_date": "20260901"
     },
     {
       "promulgation_date": "20230901",
@@ -665,7 +622,7 @@
       "source_mst": "2200000124845",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20231228"
+      "version_enforcement_date": "20260901"
     },
     {
       "promulgation_date": "20231228",
@@ -676,7 +633,7 @@
       "source_mst": "2200000124845",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20231228"
+      "version_enforcement_date": "20260901"
     }
   ],
   "appendices": [
@@ -689,11 +646,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000124845&bylNo=0001&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=153899525",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168928957",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=153899525",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168928957",
           "name": "",
           "file_store_url": ""
         }
@@ -714,11 +671,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000124845&bylNo=0002&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=153899533",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168928967",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=153899533",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168928967",
           "name": "",
           "file_store_url": ""
         }
@@ -739,11 +696,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000124845&bylNo=0003&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=153899541",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168928981",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=153899541",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168928981",
           "name": "",
           "file_store_url": ""
         }
@@ -764,11 +721,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000124845&bylNo=0005&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=153899583",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168929065",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=153899583",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=168929065",
           "name": "",
           "file_store_url": ""
         }
@@ -792,9 +749,9 @@
       "appendix_ref": 3,
       "internal_ref": 2
     },
-    "articles_total": 12,
-    "articles_with_relations": 4,
-    "unmatched_relations": 0,
+    "articles_total": 11,
+    "articles_with_relations": 3,
+    "unmatched_relations": 2,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
     "addenda_count": 32,
