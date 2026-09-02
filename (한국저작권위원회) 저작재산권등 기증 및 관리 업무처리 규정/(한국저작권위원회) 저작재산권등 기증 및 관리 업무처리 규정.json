@@ -1,6 +1,6 @@
 {
   "law_id": "2117165",
-  "mst": "2200000093391",
+  "mst": "2200000160375",
   "law_name": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정",
   "law_abbr": "",
   "law_type": "공단규정",
@@ -8,18 +8,18 @@
   "doc_kind": "공단정관",
   "adm_uid": "pi:2117165",
   "promulgation_no": "9999",
-  "promulgation_date": "20200721",
-  "enforcement_date": "20200721",
-  "revision_date": "20200721",
+  "promulgation_date": "20260902",
+  "enforcement_date": "20260902",
+  "revision_date": "20260902",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
     "현행여부": "Y",
-    "담당부서기관명": "한국저작권위원회 경영지원팀",
+    "담당부서기관명": "한국저작권위원회",
     "담당자명": "양진솔",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정",
-    "발령일자": "20200721",
+    "발령일자": "20260902",
     "행정규칙종류": "공단규정",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,11 +27,11 @@
     "전화번호": "055-792-0035",
     "제개정구분명": "일부개정",
     "소관부처코드": "B552546",
-    "생성일자": "20260330",
+    "생성일자": "20260918",
     "행정규칙ID": "2117165",
-    "담당부서기관코드": "",
+    "담당부서기관코드": "B552546",
     "발령번호": "9999",
-    "행정규칙일련번호": "2200000093391"
+    "행정규칙일련번호": "2200000160375"
   },
   "amendment_text": "",
   "revision_reason": "",
@@ -44,7 +44,7 @@
         "article_title": "목적",
         "chapter": "제1장 총칙",
         "chapter_path": "제1장 총칙",
-        "content": "제1조(목적) 본 규정은 「저작권법」 제135조에 의거 기증저작권재산권 등의 관리단체로 지정된 한국저작권위원회(이하 \"위원회\"라 한다)가 기증된 저작물 등의 권리를 공정하게 관리하고 관련 업무처리에 필요한 사항을 정함을 목적으로 한다. <개정 2012. 07. 27.>",
+        "content": "제1조(목적) 본 규정은 「저작권법」 제135조에 의거 기증저작재산권 등의 관리단체로 지정된 한국저작권위원회(이하 \"위원회\"라 한다)가 기증된 저작물 등의 권리를 공정하게 관리하고 관련 업무처리에 필요한 사항을 정함을 목적으로 한다. <개정 2026. 09. 02.>",
         "enforcement_date": "",
         "relations": [
           {
@@ -65,9 +65,7 @@
             "source_provision_id": "SchlPubRul:(한국저작권위원회)저작재산권등기증및관리업무처리규정#JO0001",
             "reference_id": "law:저작권법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "저작권법/법률/저작권법.json",
-            "target_git_path": "저작권법/법률/저작권법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "저작권법/법률/저작권법.json"
           },
           {
             "relation_type": "citation",
@@ -87,9 +85,7 @@
             "source_provision_id": "SchlPubRul:(한국저작권위원회)저작재산권등기증및관리업무처리규정#JO0001",
             "reference_id": "law:저작권법#JO0135",
             "target_repo": "LAW",
-            "target_git_path_guess": "저작권법/법률/저작권법.json",
-            "target_git_path": "저작권법/법률/저작권법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "저작권법/법률/저작권법.json"
           }
         ],
         "images": [],
@@ -100,7 +96,7 @@
         "article_title": "적용범위",
         "chapter": "제1장 총칙",
         "chapter_path": "제1장 총칙",
-        "content": "제2조(적용범위) 저작재산권 등 기증 및 관리 업무에 관하여 「민원사무 처리에 관한 법률」 등 관계법령에서 정하는 것을 제외하고는 이 규정이 정하는 바에 의한다. <개정 2012. 07. 27.>",
+        "content": "제2조(적용범위) 저작재산권 등 기증 및 관리 업무에 관하여 「민원사무처리에관한법률」 등 관계법령에서 정하는 것을 제외하고는 이 규정이 정하는 바에 의한다. <개정 2012. 07. 27.>",
         "enforcement_date": "",
         "relations": [
           {
@@ -109,19 +105,19 @@
             "target_category": "법령",
             "source_article_no": "제2조",
             "source_clause": "제2조",
-            "link_text": "「민원사무 처리에 관한 법률」",
+            "link_text": "「민원사무처리에관한법률」",
             "line_text": "",
-            "target_law_name": "민원사무 처리에 관한 법률",
+            "target_law_name": "민원사무처리에관한법률",
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "2117165",
-            "target_url": "https://www.law.go.kr/법령/민원사무 처리에 관한 법률",
+            "target_url": "https://www.law.go.kr/법령/민원사무처리에관한법률",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국저작권위원회)저작재산권등기증및관리업무처리규정#JO0002",
             "reference_id": "law:민원사무처리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민원사무 처리에 관한 법률/법률/민원사무 처리에 관한 법률.json"
+            "target_git_path_guess": "민원사무처리에관한법률/법률/민원사무처리에관한법률.json"
           }
         ],
         "images": [],
@@ -154,7 +150,7 @@
         "article_title": "담보책임",
         "chapter": "제1장 총칙",
         "chapter_path": "제1장 총칙",
-        "content": "제5조(담보책임) 기증자가 기증저작재산권 등의 하자나 흠결을 알고 위원회에 고지하지 아니하여 피해가 발생한 경우에는 손해배상 등 담보책임을 부담한다. <개정 2012. 07. 27.>",
+        "content": "제5조(담보책임) 기증자가 기증저작재산권 등의 하자나 흠결을 알고 위원회에 고지하지 아니하여 피해가 발생한 경우에는 손해배상 등 담보책임을 부담한다. <개정 2012. 07. 27>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -165,7 +161,7 @@
         "article_title": "기증의 제한",
         "chapter": "제1장 총칙",
         "chapter_path": "제1장 총칙",
-        "content": "제6조(기증의 제한) 위원장은 다음 각 호의 어느 하나에 해당하는 사유가 있을 때에는 수증을 거부할 수 있다. <개정 2012. 07. 27.>1. 저작재산권 등의 취득경위나 출처 등이 불분명하여 분쟁이 발생중이거나 분쟁이 발생할 여지가 현저한 경우2. 「저작권법」 제2조제1항에서 정의한 저작물로 볼 수 없는 경우",
+        "content": "제6조(기증의 제한) 위원회는 다음 각 호의 어느 하나에 해당하는 사유가 있을 때에는 수증을 거부할 수 있다. <개정 2026. 09. 02.>1. 저작재산권 등의 취득경위나 출처 등이 불분명하여 분쟁이 발생중이거나 분쟁이 발생할 여지가 현저한 경우2. 「저작권법」 제2조제1항에서 정의한 저작물로 볼 수 없는 경우",
         "enforcement_date": "",
         "relations": [
           {
@@ -186,9 +182,7 @@
             "source_provision_id": "SchlPubRul:(한국저작권위원회)저작재산권등기증및관리업무처리규정#JO0006",
             "reference_id": "law:저작권법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "저작권법/법률/저작권법.json",
-            "target_git_path": "저작권법/법률/저작권법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "저작권법/법률/저작권법.json"
           },
           {
             "relation_type": "citation",
@@ -208,9 +202,7 @@
             "source_provision_id": "SchlPubRul:(한국저작권위원회)저작재산권등기증및관리업무처리규정#JO0006",
             "reference_id": "law:저작권법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "저작권법/법률/저작권법.json",
-            "target_git_path": "저작권법/법률/저작권법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "저작권법/법률/저작권법.json"
           }
         ],
         "images": [],
@@ -221,7 +213,7 @@
         "article_title": "기증의 접수",
         "chapter": "제2장 저작재산권 등의 기증",
         "chapter_path": "제2장 저작재산권 등의 기증",
-        "content": "제7조(기증의 접수) ① 저작재산권 등을 기증하고자 하는 자는 다음 각 호에 해당하는 자료를 위원회에 제출하여야 한다. <개정 2012. 07. 27.>1. 기증서약서(별지 제1호서식)2. 자신이 해당 저작물 등의 저작재산권자 등임을 증명하는 서류3. 기증대상물의 복제물4. 대리인임을 증명하는 서류(대리인이 접수하는 경우에 한정한다)5. 별지 제5호서식에 따른 기증저작물 목록(기증 대상물이 복수인 경우에 한정한다)② 제1항제2호에 따른 서류는 다음 각 호의 어느 하나에 해당하는 권리자 소명 자료를 말한다. <개정 2012. 07. 27.>1. 자신이 그 저작물 등의 권리자로 표시된 저작권 등의 등록증 사본 또는 그에 상당하는 자료2. 자신의 성명이나 명칭(이하 \"성명 등\"이라 한다) 또는 예명ㆍ아호ㆍ약칭 등(이하 \"이명\"이라 한다)으로서 널리 알려진 것이 표시되어 있는 저작물 등의 사본 또는 그에 상당하는 자료③ 제3조 단서에 의한 권리의 일부 또는 이용조건의 범위는 기증서약서외에 별도의 서면으로 정하여 제출하여야 한다. <신설 2010. 06. 09.>",
+        "content": "제7조(기증의 접수) ① 저작재산권 등을 기증하고자 하는 자는 다음 각 호에 해당하는 자료를 위원회에 제출하여야 한다. <개정 2012. 07. 27.>1. 기증서약서(별지 제1호서식)2. 자신이 해당 저작물 등의 저작재산권자 등임을 증명하는 서류3. 기증대상물의 복제물4. 대리인임을 증명하는 서류(대리인이 접수하는 경우에 한정한다)5. 별지 제5호서식에 따른 기증저작물 목록(기증 대상물이 복수인 경우에 한정한다)② 제1항제2호에 따른 서류는 다음 각 호의 어느 하나에 해당하는 권리자 소명 자료를 말한다. <개정 2012. 07. 27.>1. 자신이 그 저작물 등의 권리자로 표시된 저작권 등의 등록증 사본 또는 그에 상당하는 자료2. 자신의 성명이나 명칭(이하 \"성명 등\"이라 한다) 또는 예명ㆍ아호ㆍ약칭 등(이하 \"이명\"이라 한다)으로서 널리 알려진 것이 표시되어 있는 저작물 등의 사본 또는 그에 상당하는 자료③ 제3조 단서에 의한 권리의 일부 또는 이용조건의 범위는 기증서약서외에 별도의 서면으로 정하여 제출하여야 한다. <신설 2010. 06. 09>",
         "enforcement_date": "",
         "relations": [
           {
@@ -241,18 +233,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2117165",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162925749",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169410943",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국저작권위원회)저작재산권등기증및관리업무처리규정#JO0007",
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(한국저작권위원회)저작재산권등기증및관리업무처리규정#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정.json",
-            "target_git_path": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정.json",
-            "target_git_file_path": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/별지/별지1_저작재산권 등 기증서약서.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -271,18 +258,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2117165",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162925765",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169410959",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국저작권위원회)저작재산권등기증및관리업무처리규정#JO0007",
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:(한국저작권위원회)저작재산권등기증및관리업무처리규정#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정.json",
-            "target_git_path": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정.json",
-            "target_git_file_path": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/별지/별지5_기증저작물 목록.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -302,11 +284,7 @@
             "source_provision_id": "SchlPubRul:(한국저작권위원회)저작재산권등기증및관리업무처리규정#JO0007",
             "reference_id": "SchlPubRul:(한국저작권위원회)저작재산권등기증및관리업무처리규정#JO0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정.json",
-            "target_git_path": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정.json"
           }
         ],
         "images": [],
@@ -317,7 +295,7 @@
         "article_title": "기증 내용의 심사",
         "chapter": "제2장 저작재산권 등의 기증",
         "chapter_path": "제2장 저작재산권 등의 기증",
-        "content": "제8조(기증 내용의 심사) ① 기증서약서를 접수한 경우 기증업무 담당자는 구비자료의 형식적 요건을 심사한다.② 기증 내용의 심사는 신청서와 구비자료에 기재된 사항만을 기초로 행한다. 다만, 필요한 경우 기증업무 담당자는 기증자에게 보충자료의 제출을 요청할 수 있다.",
+        "content": "제8조(기증 내용의 심사) ① 기증서약서를 접수한 경우 기증담당자는 구비자료의 형식적 요건을 심사한다. <개정 2026. 09. 02.>② 기증 내용의 심사는 신청서류에 기재된 사항만을 기초로 행한다. 다만, 필요한 경우 기증담당자는 기증자에게 보충자료의 제출을 요청할 수 있다. <개정 2026. 09. 02.>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -328,7 +306,7 @@
         "article_title": "심사회의",
         "chapter": "제2장 저작재산권 등의 기증",
         "chapter_path": "제2장 저작재산권 등의 기증",
-        "content": "제9조(심사회의) ① 위원장은 제3조, 제4조제1항 단서 또는 제6조 각 호의 사유를 판단하기 위해 심사회의를 구성할 수 있다. <개정 2012. 07. 27.>② 심사회의는 위원회 직원 및 외부인사로 구성하되 4인 이상 7인 이하로 한다.③ 심사회의 위원은 위원장이 선임한다.④ 심사회의 의장은 위원 중에서 호선한다.⑤ 심사회의는 재적 위원 과반수 출석으로 개의하고 출석위원 과반수의 찬성으로 의결한다.⑥ 위원회는 심사결과를 별지 제4호서식의 저작재산권 등 기증 심사서에 기록하여 각 위원들의 서명을 받아 보관한다. <개정 2012. 07. 27.>",
+        "content": "제9조(심사회의) ① 위원회는 제3조, 제4조제1항 단서 또는 제6조 각 호의 사유를 판단하기 위해 심사회의를 구성할 수 있다. <개정 2026. 09. 02.>② 심사회의는 위원회 직원 및 외부인사로 구성하되 4인 이상 7인 이하로 한다.③ 심사회의 위원은 위원장이 선임한다.④ 심사회의 의장은 위원 중에서 호선한다.⑤ 심사회의는 재적 위원 과반수 출석으로 개의하고 출석위원 과반수의 찬성으로 의결한다.⑥ 위원회는 심사결과를 별지 제4호서식의 저작재산권 등 기증 심사서에 기록하여 각 위원들의 서명 또는 날인을 받아 보관한다. <개정 2026. 09. 02.>",
         "enforcement_date": "",
         "relations": [
           {
@@ -349,11 +327,7 @@
             "source_provision_id": "SchlPubRul:(한국저작권위원회)저작재산권등기증및관리업무처리규정#JO0009",
             "reference_id": "SchlPubRul:(한국저작권위원회)저작재산권등기증및관리업무처리규정#JO0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정.json",
-            "target_git_path": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -373,11 +347,7 @@
             "source_provision_id": "SchlPubRul:(한국저작권위원회)저작재산권등기증및관리업무처리규정#JO0009",
             "reference_id": "SchlPubRul:(한국저작권위원회)저작재산권등기증및관리업무처리규정#JO0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정.json",
-            "target_git_path": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -397,11 +367,7 @@
             "source_provision_id": "SchlPubRul:(한국저작권위원회)저작재산권등기증및관리업무처리규정#JO0009",
             "reference_id": "SchlPubRul:(한국저작권위원회)저작재산권등기증및관리업무처리규정#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정.json",
-            "target_git_path": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -420,18 +386,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2117165",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162925761",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169410955",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국저작권위원회)저작재산권등기증및관리업무처리규정#JO0009",
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:(한국저작권위원회)저작재산권등기증및관리업무처리규정#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정.json",
-            "target_git_path": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정.json",
-            "target_git_file_path": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/별지/별지4_저작재산권 등 기증심사서.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정.json"
           }
         ],
         "images": [],
@@ -442,7 +403,7 @@
         "article_title": "기증증서의 교부",
         "chapter": "제2장 저작재산권 등의 기증",
         "chapter_path": "제2장 저작재산권 등의 기증",
-        "content": "제10조(기증증서의 교부) ① 위원회는 기증저작재산권 등이 수증된 경우 별지 제3호서식의 기증증서를 문화체육관광부장관에게 발급받아 기증자에게 교부하여야 한다. <개정 2012. 07. 27.>② 기증증서의 발급번호는 연도표시 2자리 수와 4자리의 일련번호로 구성하되, 그 앞에 기증이라고 표시한다.",
+        "content": "제10조(기증증서의 교부) ① 위원회는 기증저작재산권 등이 수증된 경우 별지 제3호서식의 기증증서를 문화체육관광부장관에게 발급받아 기증자에게 교부하여야 한다. <개정 2012. 07. 27.>② 기증증서의 발급번호는 연도표시 2자리 수와 4자리의 일련번호로 구성한다. <개정 2026. 09. 02.>",
         "enforcement_date": "",
         "relations": [
           {
@@ -462,18 +423,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2117165",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162925757",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169410951",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국저작권위원회)저작재산권등기증및관리업무처리규정#JO0010",
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:(한국저작권위원회)저작재산권등기증및관리업무처리규정#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정.json",
-            "target_git_path": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정.json",
-            "target_git_file_path": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/별지/별지3_기증증서.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정.json"
           }
         ],
         "images": [],
@@ -504,18 +460,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2117165",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162925753",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169410947",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국저작권위원회)저작재산권등기증및관리업무처리규정#JO0011",
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(한국저작권위원회)저작재산권등기증및관리업무처리규정#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정.json",
-            "target_git_path": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정.json",
-            "target_git_file_path": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/별지/별지2_기증저작재산권 등 관리대장.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정.json"
           }
         ],
         "images": [],
@@ -526,7 +477,7 @@
         "article_title": "게시",
         "chapter": "제3장 저작재산권 등의 관리",
         "chapter_path": "제3장 저작재산권 등의 관리",
-        "content": "제12조(게시) ① 위원회는 기증저작물 등의 제호 및 기증자의 성명 등을 위원회 인터넷 홈페이지에 게시한다. <개정 2010. 06. 09., 2012. 07. 27.>② 삭제 <2010. 06. 09.>",
+        "content": "제12조(게시) ① 위원회는 기증저작물 등의 제호 및 기증자의 성명 등을 위원회 인터넷 홈페이지에 게시한다. <개정 2010. 06. 09., 2012. 07. 27.>② <삭제 2010. 06. 09.>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -537,7 +488,7 @@
         "article_title": "식별번호",
         "chapter": "제3장 저작재산권 등의 관리",
         "chapter_path": "제3장 저작재산권 등의 관리",
-        "content": "제13조(식별번호) ① 기증된 저작물에는 저작물식별체계에 따른 식별번호를 부여한다.② 식별번호는 연도를 나타내는 2자리 수와 4자리의 일련번호로 구성하되, 저작재산권은 영문자 FC, 출판권은 영문자 FP, 저작인접권은 영문자 FN, 데이터베이스제작자의 권리는 영문자 FD를 붙여서 구분한다.",
+        "content": "제13조(식별번호) ① 기증저작물에는 식별번호를 부여한다. <개정 2026. 09. 02.>② 식별번호는 연도를 나타내는 2자리 수와 4자리의 일련번호로 구성하되, 저작재산권은 영문자 FC, 출판권은 영문자 FP, 저작인접권은 영문자 FN, 데이터베이스제작자의 권리는 영문자 FD를 붙여서 구분한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -548,9 +499,30 @@
         "article_title": "기록의 보관",
         "chapter": "제3장 저작재산권 등의 관리",
         "chapter_path": "제3장 저작재산권 등의 관리",
-        "content": "제14조(기록의 보관) ① 기록을 접수하거나 작성한 때에는 표지를 붙여 이를 편철하며 그 뒤에 접수하거나 작성한 것은 그 순서에 따라 이를 가철하고 기록의 장수가 많은 것은 분류하여 편철한다.② 제1항 기록의 일건 서류는 영구 보관한다.",
+        "content": "제14조(기록의 보관) ① 기록을 접수하거나 작성한 때에는 표지를 붙여 이를 편철하며 그 뒤에 접수하거나 작성한 것은 그 순서에 따라 이를 가철하고 기록의 장수가 많은 것은 분류하여 편철한다. 다만, 제22조에 따른 전자문서의 경우에는 전자적 정보저장매체(저장장치 및 시스템을 포함한다)에 의하여 분류ㆍ보관할 수 있다. <개정 2026. 09. 02.>② 제1항 기록의 일건 서류는 영구 보관한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제1항",
+            "link_text": "제22조",
+            "line_text": "",
+            "target_law_name": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정",
+            "target_article_no": "제22조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2117165",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/제22조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(한국저작권위원회)저작재산권등기증및관리업무처리규정#JO0014",
+            "reference_id": "SchlPubRul:(한국저작권위원회)저작재산권등기증및관리업무처리규정#JO0022",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:(한국저작권위원회)저작재산권등기증및관리업무처리규정#JO0014"
       },
@@ -591,11 +563,7 @@
             "source_provision_id": "SchlPubRul:(한국저작권위원회)저작재산권등기증및관리업무처리규정#JO0016",
             "reference_id": "SchlPubRul:(한국저작권위원회)저작재산권등기증및관리업무처리규정#JO0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정.json",
-            "target_git_path": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정.json"
           }
         ],
         "images": [],
@@ -627,11 +595,7 @@
             "source_provision_id": "SchlPubRul:(한국저작권위원회)저작재산권등기증및관리업무처리규정#JO0017",
             "reference_id": "SchlPubRul:(한국저작권위원회)저작재산권등기증및관리업무처리규정#JO0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정.json",
-            "target_git_path": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -650,18 +614,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2117165",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162925769",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169410963",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국저작권위원회)저작재산권등기증및관리업무처리규정#JO0017",
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:(한국저작권위원회)저작재산권등기증및관리업무처리규정#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정.json",
-            "target_git_path": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정.json",
-            "target_git_file_path": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/별지/별지6_기증저작물 등 이용허락 신청서.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정.json"
           }
         ],
         "images": [],
@@ -672,7 +631,7 @@
         "article_title": "이용 승인",
         "chapter": "제4장 저작재산권 등의 이용허락",
         "chapter_path": "제4장 저작재산권 등의 이용허락",
-        "content": "제18조(이용 승인) ① 위원회는 제17조 단서에 의한 이용 신청을 받은 경우에 신청인의 이용 범위를 확인한 후 별지 제7호서식에 따라 이용허락승인서를 교부한다. <개정 2012. 07. 27.>② 이용승인의 발급번호는 연도표시 2자리 수와 4자리의 일련번호로 구성하되, 그 앞에 이용이라고 표시한다.③ 위원회는 신청인의 이용목적이 제16조의 관리 범위를 도과하는 경우에는 이용 승인을 거부할 수 있다.",
+        "content": "제18조(이용 승인) ① 위원회는 제17조 단서에 의한 이용 신청을 받은 경우에 신청인의 이용 범위를 확인한 후 별지 제7호서식에 따라 이용허락승인서를 교부한다. <개정 2012. 07. 27.>② 이용승인의 발급번호는 연도표시 2자리 수와 4자리의 일련번호로 구성한다. <개정 2026. 09. 02.>③ 위원회는 신청인의 이용목적이 제16조의 관리 범위를 도과하는 경우에는 이용 승인을 거부할 수 있다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -693,11 +652,7 @@
             "source_provision_id": "SchlPubRul:(한국저작권위원회)저작재산권등기증및관리업무처리규정#JO0018",
             "reference_id": "SchlPubRul:(한국저작권위원회)저작재산권등기증및관리업무처리규정#JO0017",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정.json",
-            "target_git_path": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -716,18 +671,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2117165",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162925773",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169410967",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국저작권위원회)저작재산권등기증및관리업무처리규정#JO0018",
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:(한국저작권위원회)저작재산권등기증및관리업무처리규정#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정.json",
-            "target_git_path": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정.json",
-            "target_git_file_path": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/별지/별지7_기증저작물 등 이용허락 승인서.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -747,11 +697,7 @@
             "source_provision_id": "SchlPubRul:(한국저작권위원회)저작재산권등기증및관리업무처리규정#JO0018",
             "reference_id": "SchlPubRul:(한국저작권위원회)저작재산권등기증및관리업무처리규정#JO0016",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정.json",
-            "target_git_path": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정.json"
           }
         ],
         "images": [],
@@ -783,11 +729,7 @@
             "source_provision_id": "SchlPubRul:(한국저작권위원회)저작재산권등기증및관리업무처리규정#JO0019",
             "reference_id": "SchlPubRul:(한국저작권위원회)저작재산권등기증및관리업무처리규정#JO0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정.json",
-            "target_git_path": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정.json"
           }
         ],
         "images": [],
@@ -819,11 +761,7 @@
             "source_provision_id": "SchlPubRul:(한국저작권위원회)저작재산권등기증및관리업무처리규정#JO0020",
             "reference_id": "SchlPubRul:(한국저작권위원회)저작재산권등기증및관리업무처리규정#JO0018",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정.json",
-            "target_git_path": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -842,18 +780,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2117165",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162925777",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169410971",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국저작권위원회)저작재산권등기증및관리업무처리규정#JO0020",
             "target_unit": "BJ0008",
             "reference_id": "SchlPubRul:(한국저작권위원회)저작재산권등기증및관리업무처리규정#BJ0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정.json",
-            "target_git_path": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정.json",
-            "target_git_file_path": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/별지/별지8_기증저작재산권 등 이용허락 관리대장.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정.json"
           }
         ],
         "images": [],
@@ -864,7 +797,7 @@
         "article_title": "기증 시 유의사항 고지",
         "chapter": "제5장 기타",
         "chapter_path": "제5장 기타",
-        "content": "제21조(기증 시 유의사항 고지) 위원회는 기증신청을 접수할 때에 별지 제9호서식에 따른 기증 시 유의사항에 대하여 기증자에게 고지하여야 한다. <개정 2012. 07. 27.>",
+        "content": "제21조(기증 시 유의사항 고지) 위원회는 기증신청을 접수할 때에 별지 제9호서식에 따른 기증 시 유의사항에 대하여 기증자에게 고지하여야 한다. <개정 2012. 07. 27>",
         "enforcement_date": "",
         "relations": [
           {
@@ -884,18 +817,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2117165",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162925781",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169410975",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국저작권위원회)저작재산권등기증및관리업무처리규정#JO0021",
             "target_unit": "BJ0009",
             "reference_id": "SchlPubRul:(한국저작권위원회)저작재산권등기증및관리업무처리규정#BJ0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정.json",
-            "target_git_path": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정.json",
-            "target_git_file_path": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/별지/별지9_기증 시 유의 사항.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정/(한국저작권위원회) 저작재산권등 기증 및 관리 업무처리 규정.json"
           }
         ],
         "images": [],
@@ -903,10 +831,10 @@
       },
       {
         "article_no": "제22조",
-        "article_title": "전자문서 등에 의한 기증업무 처리 등",
+        "article_title": "전자문서 등에 의한 기증 업무처리 등",
         "chapter": "제5장 기타",
         "chapter_path": "제5장 기타",
-        "content": "제22조(전자문서 등에 의한 기증업무 처리 등) 기증업무는 전자문서에 의하여 처리할 수 있다. 이 경우 기증사항이 기록된 전자문서(자기디스크, 자기테이프 기타 이와 유사한 방법에 의하여 일정한 기증사항을 확실하게 기록ㆍ보관할 수 있는 전자적 정보저장매체를 포함한다)를 원본으로 본다.",
+        "content": "제22조(전자문서 등에 의한 기증 업무처리 등) 기증 업무는 전자문서에 의하여 처리할 수 있다. 이 경우 기증사항이 기록된 전자적 정보저장매체(저장장치 및 시스템을 포함한다)를 원본으로 본다. <개정 2026. 09. 02.>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -932,10 +860,10 @@
       "content": "부칙 <제9999호, 2009.10.01.>제1조(시행일) 이 규정은 위원장의 승인을 받은 날(2009. 10. 01.)부터 시행한다.제2조(경과조치) 이 규정 시행 당시 저작권위원회의 규정에 의해 기증이 된 것은 이 규정에 의하여 기증한 것으로 본다.",
       "provision_id": "SchlPubRul:(한국저작권위원회)저작재산권등기증및관리업무처리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000093391",
+      "source_mst": "2200000160375",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20200721"
+      "version_enforcement_date": "20260902"
     },
     {
       "promulgation_date": "20100609",
@@ -943,10 +871,10 @@
       "content": "부칙 <제9999호, 2010.06.09.>제1조(시행일) 이 규정은 위원장의 승인을 받은 날(2010. 06. 09.)부터 시행한다.",
       "provision_id": "SchlPubRul:(한국저작권위원회)저작재산권등기증및관리업무처리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000093391",
+      "source_mst": "2200000160375",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20200721"
+      "version_enforcement_date": "20260902"
     },
     {
       "promulgation_date": "20120727",
@@ -954,10 +882,10 @@
       "content": "부칙 <제9999호, 2012.07.27.>제1조(시행일) 이 규정은 위원장의 승인을 받은 날(2012. 07. 27.)부터 시행한다.제2조(경과조치) 이 규정 시행 전에 종전의 규정에 따라 기증된 저작재산권 등에 대하여는 이 규정을 적용한다.",
       "provision_id": "SchlPubRul:(한국저작권위원회)저작재산권등기증및관리업무처리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000093391",
+      "source_mst": "2200000160375",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20200721"
+      "version_enforcement_date": "20260902"
     },
     {
       "promulgation_date": "20200721",
@@ -965,10 +893,32 @@
       "content": "부칙 <제9999호, 2020.07.21.>제1조(시행일) 이 규정은 위원장의 승인을 받은 날(2020. 07. 21.)부터 시행한다.",
       "provision_id": "SchlPubRul:(한국저작권위원회)저작재산권등기증및관리업무처리규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000093391",
+      "source_mst": "2200000160375",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20200721"
+      "version_enforcement_date": "20260902"
+    },
+    {
+      "promulgation_date": "20250820",
+      "promulgation_no": "9999",
+      "content": "부칙 <제9999호, 2025.08.20.>제1조(시행일) 이 규정은 위원장의 승인을 받은 날(2025. 08. 20.)부터 시행한다.",
+      "provision_id": "SchlPubRul:(한국저작권위원회)저작재산권등기증및관리업무처리규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000160375",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260902"
+    },
+    {
+      "promulgation_date": "20260902",
+      "promulgation_no": "9999",
+      "content": "부칙 <제9999호, 2026.09.02.>제1조(시행일) 이 규정은 위원장의 승인을 받은 날(2026. 09. 02.)부터 시행한다.",
+      "provision_id": "SchlPubRul:(한국저작권위원회)저작재산권등기증및관리업무처리규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000160375",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260902"
     }
   ],
   "appendices": [
@@ -981,11 +931,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162925749",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169410943",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162925749",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169410943",
           "name": "",
           "file_store_url": ""
         }
@@ -1006,11 +956,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162925753",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169410947",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162925753",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169410947",
           "name": "",
           "file_store_url": ""
         }
@@ -1031,11 +981,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162925757",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169410951",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162925757",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169410951",
           "name": "",
           "file_store_url": ""
         }
@@ -1056,11 +1006,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162925761",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169410955",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162925761",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169410955",
           "name": "",
           "file_store_url": ""
         }
@@ -1081,11 +1031,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162925765",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169410959",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162925765",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169410959",
           "name": "",
           "file_store_url": ""
         }
@@ -1106,11 +1056,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162925769",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169410963",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162925769",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169410963",
           "name": "",
           "file_store_url": ""
         }
@@ -1131,11 +1081,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162925773",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169410967",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162925773",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169410967",
           "name": "",
           "file_store_url": ""
         }
@@ -1156,11 +1106,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162925777",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169410971",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162925777",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169410971",
           "name": "",
           "file_store_url": ""
         }
@@ -1181,11 +1131,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162925781",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169410975",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162925781",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169410975",
           "name": "",
           "file_store_url": ""
         }
@@ -1196,28 +1146,103 @@
       "file_dir": "별지",
       "local_path": "별지/별지9_기증 시 유의 사항.hwp",
       "file_store_url": ""
+    },
+    {
+      "no": "0010",
+      "branch": "00",
+      "kind": "별지",
+      "title": "저작재산권 등 기증사항 변경 신청서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169410979",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169410979",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:(한국저작권위원회)저작재산권등기증및관리업무처리규정#BJ0010",
+      "filename": "별지10_저작재산권 등 기증사항 변경 신청서.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지10_저작재산권 등 기증사항 변경 신청서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0011",
+      "branch": "00",
+      "kind": "별지",
+      "title": "이용허락 조건 변경 기증저작물 목록",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169410983",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169410983",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:(한국저작권위원회)저작재산권등기증및관리업무처리규정#BJ0011",
+      "filename": "별지11_이용허락 조건 변경 기증저작물 목록.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지11_이용허락 조건 변경 기증저작물 목록.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0012",
+      "branch": "00",
+      "kind": "별지",
+      "title": "공동저작재산권자 목록",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169410987",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169410987",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:(한국저작권위원회)저작재산권등기증및관리업무처리규정#BJ0012",
+      "filename": "별지12_공동저작재산권자 목록.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지12_공동저작재산권자 목록.hwp",
+      "file_store_url": ""
     }
   ],
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 24,
+    "relations_total": 25,
     "by_category": {
       "법령": 5,
-      "학칙공단": 19
+      "학칙공단": 20
     },
     "by_relation_type": {
       "citation": 5,
       "appendix_ref": 9,
-      "internal_ref": 10
+      "internal_ref": 11
     },
     "articles_total": 23,
-    "articles_with_relations": 13,
+    "articles_with_relations": 14,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 4,
-    "appendices_count": 9,
+    "addenda_count": 6,
+    "appendices_count": 12,
     "attachments_count": 0
   },
   "source": {
