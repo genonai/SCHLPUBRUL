@@ -90874,7 +90874,7 @@
   "version_signature": "c57904ce2a3ae4cd8b6c6adffc954ddbfe418831eaa7698d8f32f347d279986a"
  },
  "admrul:public:2107043": {
-  "attempts": 6,
+  "attempts": 7,
   "detail_link": "/DRF/lawService.do?OC=test&target=public&ID=2200000077160&type=HTML&mobileYn=",
   "doc_domain": "admrul",
   "doc_id": "2107043",
@@ -90882,7 +90882,7 @@
   "doc_type": "공단규정",
   "enforcement_date": "20170625",
   "is_active": true,
-  "last_checked_at": "2026-09-07T15:47:59.542597+00:00",
+  "last_checked_at": "2026-09-14T15:58:06.603349+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "부산지방공단스포원",
   "mst": "2200000077160",
@@ -108693,7 +108693,7 @@
   "version_signature": "882f90523f1713988118c8c7cbe8b6f049393ba04ef06e374bcc83a951a86cc3"
  },
  "admrul:public:2122955": {
-  "attempts": 6,
+  "attempts": 7,
   "detail_link": "/DRF/lawService.do?OC=test&target=public&ID=2200000133133&type=HTML&mobileYn=",
   "doc_domain": "admrul",
   "doc_id": "2122955",
@@ -108701,7 +108701,7 @@
   "doc_type": "공단규정",
   "enforcement_date": "20240812",
   "is_active": true,
-  "last_checked_at": "2026-09-07T15:47:59.081149+00:00",
+  "last_checked_at": "2026-09-14T15:58:06.652994+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "부산도시공사",
   "mst": "2200000133133",
@@ -108734,7 +108734,7 @@
   "version_signature": "4085cf4f73fdb94f92da5bf8ca4607ab41db948323f9557953db0a51b495cb6f"
  },
  "admrul:public:2122965": {
-  "attempts": 6,
+  "attempts": 7,
   "detail_link": "/DRF/lawService.do?OC=test&target=public&ID=2200000133135&type=HTML&mobileYn=",
   "doc_domain": "admrul",
   "doc_id": "2122965",
@@ -108742,7 +108742,7 @@
   "doc_type": "공단규정",
   "enforcement_date": "20240812",
   "is_active": true,
-  "last_checked_at": "2026-09-07T15:47:57.959618+00:00",
+  "last_checked_at": "2026-09-14T15:58:06.339924+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "부산도시공사",
   "mst": "2200000133135",
@@ -121967,7 +121967,7 @@
   "version_signature": "b2ab60b4f8a7910f200dd32a091615c20bfe2672a39d472216b64ab21641ed34"
  },
  "admrul:public:2127927": {
-  "attempts": 6,
+  "attempts": 7,
   "detail_link": "/DRF/lawService.do?OC=test&target=public&ID=2200000118473&type=HTML&mobileYn=",
   "doc_domain": "admrul",
   "doc_id": "2127927",
@@ -121975,7 +121975,7 @@
   "doc_type": "공단규정",
   "enforcement_date": "20220127",
   "is_active": true,
-  "last_checked_at": "2026-09-07T15:47:58.528800+00:00",
+  "last_checked_at": "2026-09-14T15:58:06.312271+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "속초시시설관리공단",
   "mst": "2200000118473",
@@ -162378,7 +162378,7 @@
   "mst": "2200000156331",
   "name": "재산관리규정",
   "payload_law_id": "2141245",
-  "promulgation_date": "20240905",
+  "promulgation_date": "20240904",
   "status": "done",
   "version_count": 1,
   "version_signature": "ad576005515a9b7354deada4a1f4d4118b979fb1ea40dc65b7108df748e697da"
@@ -162400,7 +162400,7 @@
   "mst": "2200000156333",
   "name": "재산심의회 구성 및 운영내규",
   "payload_law_id": "2141247",
-  "promulgation_date": "20240123",
+  "promulgation_date": "20240122",
   "status": "done",
   "version_count": 1,
   "version_signature": "1766d582f9522f0f569cb75b63605278ba638e2cf3cf82382c0f3865db0582f8"
@@ -162783,26 +162783,33 @@
   "version_signature": "10cc6c00ac5a55de8a14ee154f152136a19dc2f3f8c20ad354d43185e2c29ece"
  },
  "admrul:public:2141285": {
-  "collected_signature": "dd6e265809961157fd6a4920ba00c18a511c171e8bb21e1e62c3f3cb6ce72ffe",
-  "content_hash": "a649bd14134d9f38dbef4c03dd58f99853213fd10cb1eb8e7d7ebf773b77409c",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 29,
+   "chars": 5076
+  },
+  "collected_signature": "374c487b7fca456c3ed0e624cb180106fba2c770fde327da6eb64807f9054a84",
+  "content_hash": "23f355358a2d48a83608251433ed9280c47dd50ef47fea6543a65e2e24f96b06",
   "detail_link": "/DRF/lawService.do?OC=test&target=public&ID=2200000156395&type=HTML&mobileYn=",
   "doc_domain": "admrul",
   "doc_id": "2141285",
   "doc_target": "public",
   "doc_type": "공단규정",
   "emitted_signature": "dd6e265809961157fd6a4920ba00c18a511c171e8bb21e1e62c3f3cb6ce72ffe",
-  "enforcement_date": "20240906",
+  "enforcement_date": "20240905",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T10:57:03.000770+00:00",
-  "last_collected_at": "2026-08-25T10:57:16.576065+00:00",
+  "last_checked_at": "2026-09-14T15:58:06.057890+00:00",
+  "last_collected_at": "2026-09-14T15:58:17.436055+00:00",
   "ministry": "의왕도시공사",
   "mst": "2200000156395",
   "name": "용지보상채권업무처리내규",
   "payload_law_id": "2141285",
-  "promulgation_date": "20240905",
+  "prev_name": null,
+  "promulgation_date": "20240904",
   "status": "done",
   "version_count": 1,
-  "version_signature": "dd6e265809961157fd6a4920ba00c18a511c171e8bb21e1e62c3f3cb6ce72ffe"
+  "version_signature": "374c487b7fca456c3ed0e624cb180106fba2c770fde327da6eb64807f9054a84"
  },
  "admrul:public:2141289": {
   "collected_signature": "ed7bc87e21c4be60ca949530c4a3442036c3f85fb7e559fdb523d5d16451b53d",
