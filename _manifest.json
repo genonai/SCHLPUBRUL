@@ -1556,7 +1556,7 @@
   "version_signature": "fcc13483226443fbec7af48cabe162a846206eeb81a450d0e028f0a853607829"
  },
  "admrul:pi:2100368": {
-  "attempts": 1,
+  "attempts": 2,
   "body_stats": {
    "articles": 69,
    "chars": 17160
@@ -1572,10 +1572,10 @@
   "enforcement_date": "20260916",
   "export_pending": true,
   "is_active": true,
-  "last_checked_at": "2026-09-16T15:51:58.549225+00:00",
-  "last_collected_at": "2026-09-16T15:52:22.105145+00:00",
+  "last_checked_at": "2026-09-16T15:54:28.661624+00:00",
+  "last_collected_at": "2026-09-16T15:54:40.505026+00:00",
   "last_git_error": "git update-index 실패(rc=128) /workspace/law_ai/data/SCHLPUBRUL :: (한국교육과정평가원) 인사규정/별표/별표1_삭제 _2004. 1. 16._.hwp — ex.lock': File exists.\n\nAnother git process seems to be running in this repository, e.g.\nan editor opened by 'git commit'. Please make sure all processes\nare terminated then try again. If it still fails, a git process\nmay have crashed in this repository earlier:\nremove the file manually to continue.",
-  "last_git_error_at": "2026-09-16T15:53:43.940759+00:00",
+  "last_git_error_at": "2026-09-16T15:55:00.437688+00:00",
   "ministry": "한국교육과정평가원",
   "mst": "2200000160349",
   "name": "(한국교육과정평가원) 인사규정",
@@ -11877,12 +11877,12 @@
   "version_signature": "f150e13021a3221d135e893a470599ad1b5c655a4fc19f46e7b22f2be3a395e8"
  },
  "admrul:pi:2113261": {
-  "attempts": 1,
+  "attempts": 0,
   "body_stats": {
    "articles": 49,
    "chars": 23694
   },
-  "collected_signature": null,
+  "collected_signature": "342ac873f7cc7820f01d6db45a3f530b766a3364722e06654ea75bb13c2471e1",
   "content_hash": "b5177939ee86ca55f0ee8d51a41b795da6bb3ddfcbabfda300a0e03822b5c2d5",
   "detail_link": "/DRF/lawService.do?OC=test&target=pi&ID=2200000160347&type=HTML&mobileYn=",
   "doc_domain": "admrul",
@@ -11891,16 +11891,17 @@
   "doc_type": "공단규정",
   "emitted_signature": "9fe7176c63d1b3e52f4bcad9aa220e19ebc1ad6535f85bb6cc5b7c90d7c18876",
   "enforcement_date": "20260911",
-  "export_pending": true,
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-16T15:51:58.828617+00:00",
-  "last_collected_at": "2026-09-16T15:52:26.761841+00:00",
+  "last_checked_at": "2026-09-16T15:54:28.498741+00:00",
+  "last_collected_at": "2026-09-16T15:54:41.535833+00:00",
   "last_git_error": "git add(작업트리 변경이 스테이징되지 않음) 실패(rc=128) /workspace/law_ai/data/SCHLPUBRUL :: (한국주택금융공사) 개인정보보호규정 — ex.lock': File exists.\n\nAnother git process seems to be running in this repository, e.g.\nan editor opened by 'git commit'. Please make sure all processes\nare terminated then try again. If it still fails, a git process\nmay have crashed in this repository earlier:\nremove the file manually to continue.",
   "last_git_error_at": "2026-09-16T15:53:38.909845+00:00",
   "ministry": "한국주택금융공사",
   "mst": "2200000160347",
   "name": "(한국주택금융공사) 개인정보보호규정",
   "payload_law_id": "2113261",
+  "prev_name": null,
   "promulgation_date": "20260911",
   "status": "done",
   "version_count": 1,
