@@ -73314,26 +73314,33 @@
   "version_signature": "e16226df262e838ce8e36357a5282bbaecdc0340f0a4ae55bc82aeda64502bce"
  },
  "admrul:pi:2135639": {
-  "collected_signature": "955ff6cde5e6e6f9334ed1fadd0f633bb9234d146f4958b939bcfdae9c00b8ba",
-  "content_hash": "ff9cc7780bbd5736e1a41534f38204fce01c184a70805971fb3271e953bf7ac7",
-  "detail_link": "/DRF/lawService.do?OC=test&target=pi&ID=2200000148139&type=HTML&mobileYn=",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 96,
+   "chars": 14756
+  },
+  "collected_signature": "9d7e6fba05c8219b97de5635c629ed78c2801ba9c8e8b388f30374ae46ad277b",
+  "content_hash": "542f8999a8bf456c00188d2732404fbab4e1a128bd094b10f310d13af857cdc9",
+  "detail_link": "/DRF/lawService.do?OC=test&target=pi&ID=2200000160385&type=HTML&mobileYn=",
   "doc_domain": "admrul",
   "doc_id": "2135639",
   "doc_target": "pi",
   "doc_type": "공단규정",
   "emitted_signature": "955ff6cde5e6e6f9334ed1fadd0f633bb9234d146f4958b939bcfdae9c00b8ba",
-  "enforcement_date": "20250627",
+  "enforcement_date": "20260331",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T02:39:14.971022+00:00",
-  "last_collected_at": "2026-08-25T02:39:31.212402+00:00",
+  "last_checked_at": "2026-09-17T15:45:19.166712+00:00",
+  "last_collected_at": "2026-09-17T15:45:32.113831+00:00",
   "ministry": "한국전기안전공사",
-  "mst": "2200000148139",
+  "mst": "2200000160385",
   "name": "(한국전기안전공사) 회계규정",
   "payload_law_id": "2135639",
-  "promulgation_date": "20250627",
+  "prev_name": null,
+  "promulgation_date": "20260331",
   "status": "done",
   "version_count": 1,
-  "version_signature": "955ff6cde5e6e6f9334ed1fadd0f633bb9234d146f4958b939bcfdae9c00b8ba"
+  "version_signature": "9d7e6fba05c8219b97de5635c629ed78c2801ba9c8e8b388f30374ae46ad277b"
  },
  "admrul:pi:2135641": {
   "collected_signature": "c591f4ef8c4d6ac29b83b001ad6d8cafecb57070f608ddd545ecb64edc210803",
