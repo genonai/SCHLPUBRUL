@@ -201106,26 +201106,33 @@
   "version_signature": "f004a9180b515518989d941b7743997766b7a3cc2becf28054108e6c2986fb79"
  },
  "admrul:school:2109875": {
-  "collected_signature": "6cae63bad45983bc476d6846218d9640cc0fdcb01a3dfa73e670b29adb6a3580",
-  "content_hash": "b70aaf6e72628004b7341d49001094c09a6f4d4ff9683b75a95fcc3337f3ed2f",
-  "detail_link": "/DRF/lawService.do?OC=test&target=school&ID=2200000153569&type=HTML&mobileYn=",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 34,
+   "chars": 8002
+  },
+  "collected_signature": "1465b038fd18fb9bcdb06b1b6229b9ed0489254688dd972cdb12d0360e31f904",
+  "content_hash": "2059fff185a0c9fcaf07b4d2d318ec62608d5cacdf042c16fb94e118dfb6f9f3",
+  "detail_link": "/DRF/lawService.do?OC=test&target=school&ID=2200000160337&type=HTML&mobileYn=",
   "doc_domain": "admrul",
   "doc_id": "2109875",
   "doc_target": "school",
   "doc_type": "학교규정",
   "emitted_signature": "6cae63bad45983bc476d6846218d9640cc0fdcb01a3dfa73e670b29adb6a3580",
-  "enforcement_date": "20260310",
+  "enforcement_date": "20260914",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T18:41:34.253461+00:00",
-  "last_collected_at": "2026-08-24T18:41:35.241217+00:00",
+  "last_checked_at": "2026-09-17T15:41:51.593369+00:00",
+  "last_collected_at": "2026-09-17T15:42:04.600020+00:00",
   "ministry": "한국방송통신대학교",
-  "mst": "2200000153569",
+  "mst": "2200000160337",
   "name": "한국방송통신대학교 전임교원 성과급적 연봉제 및 업적평가 운영 규정",
   "payload_law_id": "2109875",
-  "promulgation_date": "20260310",
+  "prev_name": null,
+  "promulgation_date": "20260914",
   "status": "done",
   "version_count": 1,
-  "version_signature": "6cae63bad45983bc476d6846218d9640cc0fdcb01a3dfa73e670b29adb6a3580"
+  "version_signature": "1465b038fd18fb9bcdb06b1b6229b9ed0489254688dd972cdb12d0360e31f904"
  },
  "admrul:school:2109877": {
   "collected_signature": "c160479d048f76e1934361f573ae3dd3df9929bebde7fd09e66756a12d775d40",
