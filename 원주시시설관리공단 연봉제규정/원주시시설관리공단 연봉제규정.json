@@ -1,17 +1,17 @@
 {
   "law_id": "2123731",
-  "mst": "2200000135749",
+  "mst": "2200000160335",
   "law_name": "원주시시설관리공단 연봉제규정",
   "law_abbr": "",
   "law_type": "공단규정",
   "doc_target": "public",
   "doc_kind": "공공기관",
   "adm_uid": "public:2123731",
-  "promulgation_no": "149",
-  "promulgation_date": "20241022",
-  "enforcement_date": "20241022",
-  "revision_date": "20241022",
-  "revision_type": "타법개정",
+  "promulgation_no": "184",
+  "promulgation_date": "20260918",
+  "enforcement_date": "20260918",
+  "revision_date": "20260918",
+  "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
     "현행여부": "Y",
@@ -19,22 +19,22 @@
     "담당자명": "원주시시설관리공단",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "원주시시설관리공단 연봉제규정",
-    "발령일자": "20241022",
+    "발령일자": "20260918",
     "행정규칙종류": "공단규정",
-    "제개정구분코드": "200409",
+    "제개정구분코드": "200403",
     "조문형식여부": "Y",
     "소관부처명": "원주시시설관리공단",
     "전화번호": "033-749-1700",
-    "제개정구분명": "타법개정",
+    "제개정구분명": "일부개정",
     "소관부처코드": "B554297",
-    "생성일자": "20250731",
+    "생성일자": "20260919",
     "행정규칙ID": "2123731",
-    "담당부서기관코드": "B554297",
-    "발령번호": "149",
-    "행정규칙일련번호": "2200000135749"
+    "담당부서기관코드": "",
+    "발령번호": "184",
+    "행정규칙일련번호": "2200000160335"
   },
-  "amendment_text": "조직개편 후속조치를 위한 연봉제규정 등\n2개 규정의 일부개정에 관한 규정안\n\n제1조(「원주시시설관리공단 연봉제규정」의 개정) 원주시시설관리공단 연봉제규정 일부를 다음과 같이 개정한다.\n제4조 본문 중 “부서장 이상 직위를 가진 직원”을 “6급 부서장”으로 하고, 같은 조 단서 중 “부서장”을 “6급 부서장의”로 한다.\n\n제2조(「원주시시설관리공단 사무관리규정」의 개정) 원주시시설관리공단 사무관리규정 일부를 다음과 같이 개정한다.\n별표 3을 별지와 같이 한다.",
-  "revision_reason": "1. 개정이유\n2024. 7. 1. 자 조직개편과 관련된 제 규정의 당연 개정 필요 사항 등을 공단 현행에 맞게 정비하여 시행상의 혼란을 방지하고 공단 제 규정 체계의 정당성을 제고하고자 함.\n2. 주요내용\n2024년 조직개편 추진에 따라「원주시시설관리공단 연봉제규정」포함 2개 규정의 당연 개정 필요 사항 반영(안 제1조~안 제2조)\n< 대상 규정 현황 >\n연번\n제명\n주요 개정 사항\n소관부서\n1\n연봉제규정\n? 연봉제 적용 대상 범위 구체화\n혁신경영부\n2\n사무관리규정\n? 별표 3: 부서기호 및 수신처 기호 일람표 조정\n혁신경영부",
+  "amendment_text": "",
+  "revision_reason": "1. 개정이유\n「원주시시설관리공단 연봉제규정」제4조(적용대상)와 관련 연봉제 규정 적용대상에 공단 직제규정 상 누락된 직급을 포함하도록 명확히 하고자 함.\n2. 주요내용\n가. 연봉제 적용대상의 ‘6급 부서장’을 ‘6급 이상 직원’으로 변경\n나. 6급 이상 직원: 5급 실장, 6급 부서장\n\n「원주시시설관리공단 직제규정」\n제8조(직원) 직원은 일반직으로 하고, 직급은 5급부터 9급으로 구분한다.",
   "body": {
     "format": "articles",
     "article_count": 33,
@@ -44,7 +44,7 @@
         "article_title": "목적",
         "chapter": "제1장  총칙",
         "chapter_path": "제1장  총칙",
-        "content": "제1조(목적) 이 규정은 원주시시설관리공단 임·직원의 연봉제 운영에 관하여 필요한 사항을 규정함을 목적으로 한다.",
+        "content": "제1조(목적) 이 규정은 원주시시설관리공단 임ㆍ직원의 연봉제 운영에 관하여 필요한 사항을 규정함을 목적으로 한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -76,9 +76,7 @@
             "source_provision_id": "SchlPubRul:원주시시설관리공단연봉제규정#JO0002",
             "reference_id": "law:지방공기업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
-            "target_git_path": "지방공기업법/법률/지방공기업법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
           },
           {
             "relation_type": "citation",
@@ -116,11 +114,7 @@
             "source_provision_id": "SchlPubRul:원주시시설관리공단연봉제규정#JO0002",
             "reference_id": "SchlPubRul:원주시시설관리공단정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "원주시시설관리공단 정관/원주시시설관리공단 정관.json",
-            "target_git_path": "원주시시설관리공단 정관/원주시시설관리공단 정관.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "원주시시설관리공단 정관/원주시시설관리공단 정관.json"
           },
           {
             "relation_type": "citation",
@@ -140,11 +134,7 @@
             "source_provision_id": "SchlPubRul:원주시시설관리공단연봉제규정#JO0002",
             "reference_id": "SchlPubRul:원주시시설관리공단보수규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "원주시시설관리공단 보수규정/원주시시설관리공단 보수규정.json",
-            "target_git_path": "원주시시설관리공단 보수규정/원주시시설관리공단 보수규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "원주시시설관리공단 보수규정/원주시시설관리공단 보수규정.json"
           }
         ],
         "images": [],
@@ -155,7 +145,7 @@
         "article_title": "용어의 정의",
         "chapter": "제1장  총칙",
         "chapter_path": "제1장  총칙",
-        "content": "제3조(용어의 정의) 이 규정에서 사용하는 용어의 정의는 다음과 같다. <개정 2021. 4. 27., 2022. 1. 13., 2022. 7. 19., 2023. 8. 3.>1. “기본급”이란 「원주시시설관리공단 보수규정」의 봉급을 말한다.2. “연봉”이란 임금을 연단위로 결정하여 해당 임·직원이 연봉계약 기간 동안 받는 임금 총액으로서, 기본연봉, 성과연봉, 부가급여를 합한 금액을 말한다.3. “기본연봉”이란 기준기본급에 기본가산급을 합한 금액을 말한다.4. “성과연봉”이란 행정안전부 「지방공기업 인사·조직 운영기준」및 해당연도 「지방공기업 예산편성기준」에 따라 전년도 업무 성과를 기준으로 지급되는 평가급을 말한다.5. “부가급여”란 「원주시시설관리공단 보수규정」의 대우수당, 가족수당, 위험근무수당, 특수업무수당, 업무대행수당, 정액급식비, 연차수당, 직급보조비, 직책급업무수행비를 말한다.6. “기준기본급”이란 기본급과 「원주시시설관리공단 보수규정」에 따른 정근수당, 정근수당가산금, 관리업무수당, 명절휴가비를 합한 금액을 말한다.7. “기본가산급”이란 해당 연도 기본연봉 인상분으로 기준기본급에 정책인상률 또는 가율을 곱한 금액을 말한다.8. “승진가산급”이란 연봉제 대상자가 승진하는 경우 기본급과 연동되는 기본연봉의 인상액을 말한다.9. “강임감급”이란 연봉제 대상자가 강임하는 경우 기본급과 연동되는 기본연봉의 감액을 말한다.10. “정책인상률”이란 원주시장(이하 “시장”이라 한다)이 매년 결정한 원주시시설관리공단(이하 “공단”이라 한다) 임·직원의 임금인상률을 말한다.11. “당사자”란 연봉제를 적용받는 사람과 연봉계약을 체결하는 사람을 말한다.",
+        "content": "제3조(용어의 정의) 이 규정에서 사용하는 용어의 정의는 다음과 같다. <개정 2021. 4. 27., 2022. 1. 13., 2022. 7. 19., 2023. 8. 3.>1. “기본급”이란 「원주시시설관리공단 보수규정」의 봉급을 말한다.2. “연봉”이란 임금을 연단위로 결정하여 해당 임ㆍ직원이 연봉계약 기간 동안 받는 임금 총액으로서, 기본연봉, 성과연봉, 부가급여를 합한 금액을 말한다.3. “기본연봉”이란 기준기본급에 기본가산급을 합한 금액을 말한다.4. “성과연봉”이란 행정안전부 「지방공기업 인사ㆍ조직 운영기준」및 해당연도 「지방공기업 예산편성기준」에 따라 전년도 업무 성과를 기준으로 지급되는 평가급을 말한다.5. “부가급여”란 「원주시시설관리공단 보수규정」의 대우수당, 가족수당, 위험근무수당, 특수업무수당, 업무대행수당, 정액급식비, 연차수당, 직급보조비, 직책급업무수행비를 말한다.6. “기준기본급”이란 기본급과 「원주시시설관리공단 보수규정」에 따른 정근수당, 정근수당가산금, 관리업무수당, 명절휴가비를 합한 금액을 말한다.7. “기본가산급”이란 해당 연도 기본연봉 인상분으로 기준기본급에 정책인상률 또는 가율을 곱한 금액을 말한다.8. “승진가산급”이란 연봉제 대상자가 승진하는 경우 기본급과 연동되는 기본연봉의 인상액을 말한다.9. “강임감급”이란 연봉제 대상자가 강임하는 경우 기본급과 연동되는 기본연봉의 감액을 말한다.10. “정책인상률”이란 원주시장(이하 “시장”이라 한다)이 매년 결정한 원주시시설관리공단(이하 “공단”이라 한다) 임ㆍ직원의 임금인상률을 말한다.11. “당사자”란 연봉제를 적용받는 사람과 연봉계약을 체결하는 사람을 말한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -176,11 +166,7 @@
             "source_provision_id": "SchlPubRul:원주시시설관리공단연봉제규정#JO0003",
             "reference_id": "SchlPubRul:원주시시설관리공단보수규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "원주시시설관리공단 보수규정/원주시시설관리공단 보수규정.json",
-            "target_git_path": "원주시시설관리공단 보수규정/원주시시설관리공단 보수규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "원주시시설관리공단 보수규정/원주시시설관리공단 보수규정.json"
           },
           {
             "relation_type": "citation",
@@ -200,11 +186,7 @@
             "source_provision_id": "SchlPubRul:원주시시설관리공단연봉제규정#JO0003",
             "reference_id": "SchlPubRul:원주시시설관리공단보수규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "원주시시설관리공단 보수규정/원주시시설관리공단 보수규정.json",
-            "target_git_path": "원주시시설관리공단 보수규정/원주시시설관리공단 보수규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "원주시시설관리공단 보수규정/원주시시설관리공단 보수규정.json"
           },
           {
             "relation_type": "citation",
@@ -224,11 +206,7 @@
             "source_provision_id": "SchlPubRul:원주시시설관리공단연봉제규정#JO0003",
             "reference_id": "SchlPubRul:원주시시설관리공단보수규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "원주시시설관리공단 보수규정/원주시시설관리공단 보수규정.json",
-            "target_git_path": "원주시시설관리공단 보수규정/원주시시설관리공단 보수규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "원주시시설관리공단 보수규정/원주시시설관리공단 보수규정.json"
           }
         ],
         "images": [],
@@ -239,7 +217,7 @@
         "article_title": "적용대상",
         "chapter": "제2장  대상 및 계약체결",
         "chapter_path": "제2장  대상 및 계약체결",
-        "content": "제4조(적용대상) 연봉제를 적용받는 사람은 이사장과 6급 부서장으로 한다. 다만, 「원주시시설관리공단 직제규정」제12조에 따라 직무대리로 6급 부서장의 직위를 가진 직원은 제외한다. <개정 2021. 11. 24., 2022. 7. 19., 2023. 8. 3., 2024. 10. 22.>",
+        "content": "제4조(적용대상) 연봉제를 적용받는 사람은 이사장과 6급 이상 직원으로 한다. 다만, 「원주시시설관리공단 직제규정」제12조에 따라 직무대리로 6급 부서장의 직위를 가진 직원은 제외한다. <개정 2021. 11. 24., 2022. 7. 19., 2023. 8. 3., 2024. 10. 22., 2026. 9. 18.>",
         "enforcement_date": "",
         "relations": [
           {
@@ -260,11 +238,7 @@
             "source_provision_id": "SchlPubRul:원주시시설관리공단연봉제규정#JO0004",
             "reference_id": "SchlPubRul:원주시시설관리공단직제규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "원주시시설관리공단 직제규정/원주시시설관리공단 직제규정.json",
-            "target_git_path": "원주시시설관리공단 직제규정/원주시시설관리공단 직제규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "원주시시설관리공단 직제규정/원주시시설관리공단 직제규정.json"
           },
           {
             "relation_type": "citation",
@@ -284,11 +258,7 @@
             "source_provision_id": "SchlPubRul:원주시시설관리공단연봉제규정#JO0004",
             "reference_id": "SchlPubRul:원주시시설관리공단직제규정#JO0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "원주시시설관리공단 직제규정/원주시시설관리공단 직제규정.json",
-            "target_git_path": "원주시시설관리공단 직제규정/원주시시설관리공단 직제규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "원주시시설관리공단 직제규정/원주시시설관리공단 직제규정.json"
           }
         ],
         "images": [],
@@ -319,18 +289,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2123731",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154940439",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169403493",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:원주시시설관리공단연봉제규정#JO0005",
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:원주시시설관리공단연봉제규정#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "원주시시설관리공단 연봉제규정/원주시시설관리공단 연봉제규정.json",
-            "target_git_path": "원주시시설관리공단 연봉제규정/원주시시설관리공단 연봉제규정.json",
-            "target_git_file_path": "원주시시설관리공단 연봉제규정/별지/별지1_연봉계약서.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "원주시시설관리공단 연봉제규정/원주시시설관리공단 연봉제규정.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -349,18 +314,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2123731",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154940443",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169403497",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:원주시시설관리공단연봉제규정#JO0005",
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:원주시시설관리공단연봉제규정#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "원주시시설관리공단 연봉제규정/원주시시설관리공단 연봉제규정.json",
-            "target_git_path": "원주시시설관리공단 연봉제규정/원주시시설관리공단 연봉제규정.json",
-            "target_git_file_path": "원주시시설관리공단 연봉제규정/별지/별지2_연봉계약서.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "원주시시설관리공단 연봉제규정/원주시시설관리공단 연봉제규정.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -379,18 +339,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2123731",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000135749&bylNo=0001&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000160335&bylNo=0001&bylBrNo=00",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:원주시시설관리공단연봉제규정#JO0005",
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:원주시시설관리공단연봉제규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "원주시시설관리공단 연봉제규정/원주시시설관리공단 연봉제규정.json",
-            "target_git_path": "원주시시설관리공단 연봉제규정/원주시시설관리공단 연봉제규정.json",
-            "target_git_file_path": "원주시시설관리공단 연봉제규정/별표/별표1_이사장의 연봉 산출기준표.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "원주시시설관리공단 연봉제규정/원주시시설관리공단 연봉제규정.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -409,18 +364,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2123731",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000135749&bylNo=0002&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000160335&bylNo=0002&bylBrNo=00",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:원주시시설관리공단연봉제규정#JO0005",
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:원주시시설관리공단연봉제규정#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "원주시시설관리공단 연봉제규정/원주시시설관리공단 연봉제규정.json",
-            "target_git_path": "원주시시설관리공단 연봉제규정/원주시시설관리공단 연봉제규정.json",
-            "target_git_file_path": "원주시시설관리공단 연봉제규정/별표/별표2_직원의 연봉 산출기준표.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "원주시시설관리공단 연봉제규정/원주시시설관리공단 연봉제규정.json"
           }
         ],
         "images": [],
@@ -431,7 +381,7 @@
         "article_title": "연봉 지급일",
         "chapter": "제3장  연봉의 계산 및 지급방법",
         "chapter_path": "제3장  연봉의 계산 및 지급방법",
-        "content": "제6조(연봉 지급일) ① 기본연봉은 월액으로 나누어 매월 보수지급일에 지급하고 성과연봉은 경영평가 결과를 확정·통보받은 날부터 3개월 이내에 지급함을 원칙으로 한다.② 부가급여 지급일은 「원주시시설관리공단 보수규정」의 관련 내용을 준용한다. <개정 2023. 8. 3.>",
+        "content": "제6조(연봉 지급일) ① 기본연봉은 월액으로 나누어 매월 보수지급일에 지급하고 성과연봉은 경영평가 결과를 확정ㆍ통보받은 날부터 3개월 이내에 지급함을 원칙으로 한다.② 부가급여 지급일은 「원주시시설관리공단 보수규정」의 관련 내용을 준용한다. <개정 2023. 8. 3.>",
         "enforcement_date": "",
         "relations": [
           {
@@ -452,11 +402,7 @@
             "source_provision_id": "SchlPubRul:원주시시설관리공단연봉제규정#JO0006",
             "reference_id": "SchlPubRul:원주시시설관리공단보수규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "원주시시설관리공단 보수규정/원주시시설관리공단 보수규정.json",
-            "target_git_path": "원주시시설관리공단 보수규정/원주시시설관리공단 보수규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "원주시시설관리공단 보수규정/원주시시설관리공단 보수규정.json"
           }
         ],
         "images": [],
@@ -488,11 +434,7 @@
             "source_provision_id": "SchlPubRul:원주시시설관리공단연봉제규정#JO0007",
             "reference_id": "SchlPubRul:원주시시설관리공단보수규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "원주시시설관리공단 보수규정/원주시시설관리공단 보수규정.json",
-            "target_git_path": "원주시시설관리공단 보수규정/원주시시설관리공단 보수규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "원주시시설관리공단 보수규정/원주시시설관리공단 보수규정.json"
           },
           {
             "relation_type": "citation",
@@ -512,11 +454,7 @@
             "source_provision_id": "SchlPubRul:원주시시설관리공단연봉제규정#JO0007",
             "reference_id": "SchlPubRul:원주시시설관리공단보수규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "원주시시설관리공단 보수규정/원주시시설관리공단 보수규정.json",
-            "target_git_path": "원주시시설관리공단 보수규정/원주시시설관리공단 보수규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "원주시시설관리공단 보수규정/원주시시설관리공단 보수규정.json"
           }
         ],
         "images": [],
@@ -548,9 +486,7 @@
             "source_provision_id": "SchlPubRul:원주시시설관리공단연봉제규정#JO0008",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
-            "target_git_path": "근로기준법/법률/근로기준법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
           }
         ],
         "images": [],
@@ -582,11 +518,7 @@
             "source_provision_id": "SchlPubRul:원주시시설관리공단연봉제규정#JO0009",
             "reference_id": "SchlPubRul:원주시시설관리공단보수규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "원주시시설관리공단 보수규정/원주시시설관리공단 보수규정.json",
-            "target_git_path": "원주시시설관리공단 보수규정/원주시시설관리공단 보수규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "원주시시설관리공단 보수규정/원주시시설관리공단 보수규정.json"
           }
         ],
         "images": [],
@@ -618,11 +550,7 @@
             "source_provision_id": "SchlPubRul:원주시시설관리공단연봉제규정#JO0009_02",
             "reference_id": "SchlPubRul:원주시시설관리공단인사규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "원주시시설관리공단 인사규정/원주시시설관리공단 인사규정.json",
-            "target_git_path": "원주시시설관리공단 인사규정/원주시시설관리공단 인사규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "원주시시설관리공단 인사규정/원주시시설관리공단 인사규정.json"
           },
           {
             "relation_type": "citation",
@@ -642,11 +570,7 @@
             "source_provision_id": "SchlPubRul:원주시시설관리공단연봉제규정#JO0009_02",
             "reference_id": "SchlPubRul:원주시시설관리공단보수규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "원주시시설관리공단 보수규정/원주시시설관리공단 보수규정.json",
-            "target_git_path": "원주시시설관리공단 보수규정/원주시시설관리공단 보수규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "원주시시설관리공단 보수규정/원주시시설관리공단 보수규정.json"
           }
         ],
         "images": [],
@@ -657,7 +581,7 @@
         "article_title": "파견자의 연봉",
         "chapter": "제3장  연봉의 계산 및 지급방법",
         "chapter_path": "제3장  연봉의 계산 및 지급방법",
-        "content": "제10조(파견자의 연봉) 다른 기관에 파견 또는 그 밖의 교육·훈련 등의 사유로 파견되는 직원의 연봉 지급 방법은 이 규정과 「원주시시설관리공단 보수규정」에서 정한 사항을 제외하고는 「지방공무원 보수규정」, 「지방공무원 수당 등에 관한 규정」, 「지방공무원보수업무 등 처리지침」등을 준용한다. <개정 2023. 8. 3.>",
+        "content": "제10조(파견자의 연봉) 다른 기관에 파견 또는 그 밖의 교육ㆍ훈련 등의 사유로 파견되는 직원의 연봉 지급 방법은 이 규정과 「원주시시설관리공단 보수규정」에서 정한 사항을 제외하고는 「지방공무원 보수규정」, 「지방공무원 수당 등에 관한 규정」, 「지방공무원보수업무 등 처리지침」등을 준용한다. <개정 2023. 8. 3.>",
         "enforcement_date": "",
         "relations": [
           {
@@ -678,11 +602,7 @@
             "source_provision_id": "SchlPubRul:원주시시설관리공단연봉제규정#JO0010",
             "reference_id": "SchlPubRul:원주시시설관리공단보수규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "원주시시설관리공단 보수규정/원주시시설관리공단 보수규정.json",
-            "target_git_path": "원주시시설관리공단 보수규정/원주시시설관리공단 보수규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "원주시시설관리공단 보수규정/원주시시설관리공단 보수규정.json"
           },
           {
             "relation_type": "citation",
@@ -702,9 +622,7 @@
             "source_provision_id": "SchlPubRul:원주시시설관리공단연봉제규정#JO0010",
             "reference_id": "law:지방공무원보수규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공무원 보수규정/법률/지방공무원 보수규정.json",
-            "target_git_path": "지방공무원 보수규정/법률/지방공무원 보수규정.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "지방공무원 보수규정/법률/지방공무원 보수규정.json"
           },
           {
             "relation_type": "citation",
@@ -724,9 +642,7 @@
             "source_provision_id": "SchlPubRul:원주시시설관리공단연봉제규정#JO0010",
             "reference_id": "law:지방공무원수당등에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공무원 수당 등에 관한 규정/법률/지방공무원 수당 등에 관한 규정.json",
-            "target_git_path": "지방공무원 수당 등에 관한 규정/법률/지방공무원 수당 등에 관한 규정.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "지방공무원 수당 등에 관한 규정/법률/지방공무원 수당 등에 관한 규정.json"
           },
           {
             "relation_type": "citation",
@@ -746,11 +662,7 @@
             "source_provision_id": "SchlPubRul:원주시시설관리공단연봉제규정#JO0010",
             "reference_id": "admrul:지방공무원보수업무등처리지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "지방공무원보수업무 등 처리지침/지방공무원보수업무 등 처리지침.json",
-            "target_git_path": "지방공무원보수업무 등 처리지침/지방공무원보수업무 등 처리지침.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "지방공무원보수업무 등 처리지침/지방공무원보수업무 등 처리지침.json"
           }
         ],
         "images": [],
@@ -793,11 +705,7 @@
             "source_provision_id": "SchlPubRul:원주시시설관리공단연봉제규정#JO0012",
             "reference_id": "SchlPubRul:원주시시설관리공단보수규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "원주시시설관리공단 보수규정/원주시시설관리공단 보수규정.json",
-            "target_git_path": "원주시시설관리공단 보수규정/원주시시설관리공단 보수규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "원주시시설관리공단 보수규정/원주시시설관리공단 보수규정.json"
           }
         ],
         "images": [],
@@ -851,11 +759,7 @@
             "source_provision_id": "SchlPubRul:원주시시설관리공단연봉제규정#JO0015",
             "reference_id": "SchlPubRul:원주시시설관리공단보수규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "원주시시설관리공단 보수규정/원주시시설관리공단 보수규정.json",
-            "target_git_path": "원주시시설관리공단 보수규정/원주시시설관리공단 보수규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "원주시시설관리공단 보수규정/원주시시설관리공단 보수규정.json"
           },
           {
             "relation_type": "citation",
@@ -875,11 +779,7 @@
             "source_provision_id": "SchlPubRul:원주시시설관리공단연봉제규정#JO0015",
             "reference_id": "SchlPubRul:원주시시설관리공단복리후생규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "원주시시설관리공단 복리후생규정/원주시시설관리공단 복리후생규정.json",
-            "target_git_path": "원주시시설관리공단 복리후생규정/원주시시설관리공단 복리후생규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "원주시시설관리공단 복리후생규정/원주시시설관리공단 복리후생규정.json"
           }
         ],
         "images": [],
@@ -922,11 +822,7 @@
             "source_provision_id": "SchlPubRul:원주시시설관리공단연봉제규정#JO0017",
             "reference_id": "SchlPubRul:원주시시설관리공단연봉제규정#JO0018",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "원주시시설관리공단 연봉제규정/원주시시설관리공단 연봉제규정.json",
-            "target_git_path": "원주시시설관리공단 연봉제규정/원주시시설관리공단 연봉제규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "원주시시설관리공단 연봉제규정/원주시시설관리공단 연봉제규정.json"
           }
         ],
         "images": [],
@@ -958,11 +854,7 @@
             "source_provision_id": "SchlPubRul:원주시시설관리공단연봉제규정#JO0018",
             "reference_id": "SchlPubRul:원주시시설관리공단보수규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "원주시시설관리공단 보수규정/원주시시설관리공단 보수규정.json",
-            "target_git_path": "원주시시설관리공단 보수규정/원주시시설관리공단 보수규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "원주시시설관리공단 보수규정/원주시시설관리공단 보수규정.json"
           }
         ],
         "images": [],
@@ -973,7 +865,7 @@
         "article_title": "승진 시 기준기본급 책정",
         "chapter": "제5장  직원의 연봉",
         "chapter_path": "제5장  직원의 연봉",
-        "content": "제19조(승진 시 기준기본급 책정) ① 승진으로 인하여 연봉제 대상자가 되는 경우 당해연도 12월 31일까지는 호봉제를 유지하고 다음 연도 1월 1일을 기준으로 「원주시시설관리공단 보수규정」의 승진 직급·호봉에 해당하는 보수에 따라 기준기본급을 책정한다. <개정 2022. 7. 19., 2023. 8. 3.>② 연봉제 대상자가 승진하는 경우에는 현재의 기준기본급에 승진가산급을 부여하며 승진가산급은「원주시시설관리공단 보수규정」제11조제1항에서 정한 승진된 계급 및 호봉획정 만큼의 기본급 상승률을 적용하여 기준기본급에 곱한 금액으로 한다. 다만, 승진가산급 적용 시 승진하는 직급의 기본연봉 상한액을 초과할 수 없다. <개정 2022. 7. 19., 2023. 8. 3.>",
+        "content": "제19조(승진 시 기준기본급 책정) ① 승진으로 인하여 연봉제 대상자가 되는 경우 당해연도 12월 31일까지는 호봉제를 유지하고 다음 연도 1월 1일을 기준으로 「원주시시설관리공단 보수규정」의 승진 직급ㆍ호봉에 해당하는 보수에 따라 기준기본급을 책정한다. <개정 2022. 7. 19., 2023. 8. 3.>② 연봉제 대상자가 승진하는 경우에는 현재의 기준기본급에 승진가산급을 부여하며 승진가산급은「원주시시설관리공단 보수규정」제11조제1항에서 정한 승진된 계급 및 호봉획정 만큼의 기본급 상승률을 적용하여 기준기본급에 곱한 금액으로 한다. 다만, 승진가산급 적용 시 승진하는 직급의 기본연봉 상한액을 초과할 수 없다. <개정 2022. 7. 19., 2023. 8. 3.>",
         "enforcement_date": "",
         "relations": [
           {
@@ -994,11 +886,7 @@
             "source_provision_id": "SchlPubRul:원주시시설관리공단연봉제규정#JO0019",
             "reference_id": "SchlPubRul:원주시시설관리공단보수규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "원주시시설관리공단 보수규정/원주시시설관리공단 보수규정.json",
-            "target_git_path": "원주시시설관리공단 보수규정/원주시시설관리공단 보수규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "원주시시설관리공단 보수규정/원주시시설관리공단 보수규정.json"
           },
           {
             "relation_type": "citation",
@@ -1018,11 +906,7 @@
             "source_provision_id": "SchlPubRul:원주시시설관리공단연봉제규정#JO0019",
             "reference_id": "SchlPubRul:원주시시설관리공단보수규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "원주시시설관리공단 보수규정/원주시시설관리공단 보수규정.json",
-            "target_git_path": "원주시시설관리공단 보수규정/원주시시설관리공단 보수규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "원주시시설관리공단 보수규정/원주시시설관리공단 보수규정.json"
           },
           {
             "relation_type": "citation",
@@ -1042,11 +926,7 @@
             "source_provision_id": "SchlPubRul:원주시시설관리공단연봉제규정#JO0019",
             "reference_id": "SchlPubRul:원주시시설관리공단보수규정#JO0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "원주시시설관리공단 보수규정/원주시시설관리공단 보수규정.json",
-            "target_git_path": "원주시시설관리공단 보수규정/원주시시설관리공단 보수규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "원주시시설관리공단 보수규정/원주시시설관리공단 보수규정.json"
           }
         ],
         "images": [],
@@ -1078,11 +958,7 @@
             "source_provision_id": "SchlPubRul:원주시시설관리공단연봉제규정#JO0020",
             "reference_id": "SchlPubRul:원주시시설관리공단연봉제규정#JO0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "원주시시설관리공단 연봉제규정/원주시시설관리공단 연봉제규정.json",
-            "target_git_path": "원주시시설관리공단 연봉제규정/원주시시설관리공단 연봉제규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "원주시시설관리공단 연봉제규정/원주시시설관리공단 연봉제규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1102,11 +978,7 @@
             "source_provision_id": "SchlPubRul:원주시시설관리공단연봉제규정#JO0020",
             "reference_id": "SchlPubRul:원주시시설관리공단연봉제규정#JO0019",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "원주시시설관리공단 연봉제규정/원주시시설관리공단 연봉제규정.json",
-            "target_git_path": "원주시시설관리공단 연봉제규정/원주시시설관리공단 연봉제규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "원주시시설관리공단 연봉제규정/원주시시설관리공단 연봉제규정.json"
           },
           {
             "relation_type": "citation",
@@ -1126,9 +998,7 @@
             "source_provision_id": "SchlPubRul:원주시시설관리공단연봉제규정#JO0020",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
-            "target_git_path": "근로기준법/법률/근로기준법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
           }
         ],
         "images": [],
@@ -1171,11 +1041,7 @@
             "source_provision_id": "SchlPubRul:원주시시설관리공단연봉제규정#JO0022",
             "reference_id": "SchlPubRul:원주시시설관리공단보수규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "원주시시설관리공단 보수규정/원주시시설관리공단 보수규정.json",
-            "target_git_path": "원주시시설관리공단 보수규정/원주시시설관리공단 보수규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "원주시시설관리공단 보수규정/원주시시설관리공단 보수규정.json"
           }
         ],
         "images": [],
@@ -1207,11 +1073,7 @@
             "source_provision_id": "SchlPubRul:원주시시설관리공단연봉제규정#JO0023",
             "reference_id": "SchlPubRul:원주시시설관리공단보수규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "원주시시설관리공단 보수규정/원주시시설관리공단 보수규정.json",
-            "target_git_path": "원주시시설관리공단 보수규정/원주시시설관리공단 보수규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "원주시시설관리공단 보수규정/원주시시설관리공단 보수규정.json"
           },
           {
             "relation_type": "citation",
@@ -1231,11 +1093,7 @@
             "source_provision_id": "SchlPubRul:원주시시설관리공단연봉제규정#JO0023",
             "reference_id": "SchlPubRul:원주시시설관리공단복리후생규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "원주시시설관리공단 복리후생규정/원주시시설관리공단 복리후생규정.json",
-            "target_git_path": "원주시시설관리공단 복리후생규정/원주시시설관리공단 복리후생규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "원주시시설관리공단 복리후생규정/원주시시설관리공단 복리후생규정.json"
           }
         ],
         "images": [],
@@ -1278,11 +1136,7 @@
             "source_provision_id": "SchlPubRul:원주시시설관리공단연봉제규정#JO0025",
             "reference_id": "SchlPubRul:원주시시설관리공단보수규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "원주시시설관리공단 보수규정/원주시시설관리공단 보수규정.json",
-            "target_git_path": "원주시시설관리공단 보수규정/원주시시설관리공단 보수규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "원주시시설관리공단 보수규정/원주시시설관리공단 보수규정.json"
           }
         ],
         "images": [],
@@ -1324,18 +1178,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2123731",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154940447",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169403501",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:원주시시설관리공단연봉제규정#JO0027",
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:원주시시설관리공단연봉제규정#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "원주시시설관리공단 연봉제규정/원주시시설관리공단 연봉제규정.json",
-            "target_git_path": "원주시시설관리공단 연봉제규정/원주시시설관리공단 연봉제규정.json",
-            "target_git_file_path": "원주시시설관리공단 연봉제규정/별지/별지3_연봉 재심 청구서.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "원주시시설관리공단 연봉제규정/원주시시설관리공단 연봉제규정.json"
           }
         ],
         "images": [],
@@ -1346,7 +1195,7 @@
         "article_title": "연봉재심위원회 구성 및 개최",
         "chapter": "제7장  재심청구 및 처리",
         "chapter_path": "제7장  재심청구 및 처리",
-        "content": "제28조(연봉재심위원회 구성 및 개최) ① 연봉재심 청구가 있으면 이사장(이사장이 연봉 재심청구를 한 경우에는 시장을 말한다)은 연봉재심위원회를 구성하여 심의해야 한다.② 연봉재심위원회는 다음 각 호와 같이 구성한다.1. 이사장 연봉의 재심은 시 소속 국장급 공무원 4인 이상으로 구성하고 위원장은 위원 중에서 호선한다.2. 직원 연봉의 재심은 이사장을 포함한 공단 소속 4인 이상의 임원(비상임 이사를 포함한다)으로 구성하고 이사장은 위원장이 된다.③ 위원회는 연봉재심 청구서를 접수한 날부터 10일 이내에 심의 의결하여야 한다.④ 위원회는 재적위원 과반수의 출석으로 개회하고 출석위원의 과반수로 의결하며, 가·부 동수인 경우에는 위원장이 결정한다.",
+        "content": "제28조(연봉재심위원회 구성 및 개최) ① 연봉재심 청구가 있으면 이사장(이사장이 연봉 재심청구를 한 경우에는 시장을 말한다)은 연봉재심위원회를 구성하여 심의해야 한다.② 연봉재심위원회는 다음 각 호와 같이 구성한다.1. 이사장 연봉의 재심은 시 소속 국장급 공무원 4인 이상으로 구성하고 위원장은 위원 중에서 호선한다.2. 직원 연봉의 재심은 이사장을 포함한 공단 소속 4인 이상의 임원(비상임 이사를 포함한다)으로 구성하고 이사장은 위원장이 된다.③ 위원회는 연봉재심 청구서를 접수한 날부터 10일 이내에 심의 의결하여야 한다.④ 위원회는 재적위원 과반수의 출석으로 개회하고 출석위원의 과반수로 의결하며, 가ㆍ부 동수인 경우에는 위원장이 결정한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -1405,10 +1254,10 @@
       "content": "부칙 <규정 제3호, 2020. 5. 20.>제1조(시행일) 이 규정은 공단이 설립되는 날부터 시행한다.제2조(경과조치) 이 규정 시행 전에 이미 시행된 사항은 이 규정에 따라 시행된 것으로 본다.",
       "provision_id": "SchlPubRul:원주시시설관리공단연봉제규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000135749",
+      "source_mst": "2200000160335",
       "source_version_uid": "",
-      "source_revision_type": "타법개정",
-      "version_enforcement_date": "20241022"
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260918"
     },
     {
       "promulgation_date": "20220719",
@@ -1416,10 +1265,10 @@
       "content": "부칙 <규정 제81호, 2022. 7. 19.>이 규정은 그 시행을 알린 날부터 시행한다.",
       "provision_id": "SchlPubRul:원주시시설관리공단연봉제규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000135749",
+      "source_mst": "2200000160335",
       "source_version_uid": "",
-      "source_revision_type": "타법개정",
-      "version_enforcement_date": "20241022"
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260918"
     },
     {
       "promulgation_date": "20230803",
@@ -1427,10 +1276,10 @@
       "content": "부칙 <규정 제113호, 2023. 8. 3.>이 규정은 그 시행을 알린 날부터 시행한다.",
       "provision_id": "SchlPubRul:원주시시설관리공단연봉제규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000135749",
+      "source_mst": "2200000160335",
       "source_version_uid": "",
-      "source_revision_type": "타법개정",
-      "version_enforcement_date": "20241022"
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260918"
     },
     {
       "promulgation_date": "20241022",
@@ -1438,10 +1287,21 @@
       "content": "부칙 <규정 제149호,2024.10.22.>(조직개편 후속조치를 위한 연봉제규정 등 2개 규정 일부개정을 위한 규정안)제1조(시행일) 이 규정은 그 시행을 알린 날부터 시행한다.제2조(일반적 적용례) 2024년 7월 1일 이후 처리된 사무에 대해서는 이 규정에 따라 적용한 것으로 본다.",
       "provision_id": "SchlPubRul:원주시시설관리공단연봉제규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000135749",
+      "source_mst": "2200000160335",
       "source_version_uid": "",
-      "source_revision_type": "타법개정",
-      "version_enforcement_date": "20241022"
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260918"
+    },
+    {
+      "promulgation_date": "20260918",
+      "promulgation_no": "00184",
+      "content": "부칙 <규정 제184호,2026.9.18.>이 규정은 그 시행을 알린 날부터 시행한다.",
+      "provision_id": "SchlPubRul:원주시시설관리공단연봉제규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000160335",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260918"
     }
   ],
   "appendices": [
@@ -1453,12 +1313,12 @@
       "enforcement_date": "",
       "content": "",
       "is_file_only": true,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000135749&bylNo=0001&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154940431",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000160335&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169403485",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154940431",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169403485",
           "name": "",
           "file_store_url": ""
         }
@@ -1478,12 +1338,12 @@
       "enforcement_date": "",
       "content": "",
       "is_file_only": true,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000135749&bylNo=0002&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154940435",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000160335&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169403489",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154940435",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169403489",
           "name": "",
           "file_store_url": ""
         }
@@ -1504,11 +1364,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154940439",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169403493",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154940439",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169403493",
           "name": "",
           "file_store_url": ""
         }
@@ -1529,11 +1389,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154940443",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169403497",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154940443",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169403497",
           "name": "",
           "file_store_url": ""
         }
@@ -1554,11 +1414,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154940447",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169403501",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154940447",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169403501",
           "name": "",
           "file_store_url": ""
         }
@@ -1591,7 +1451,7 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 4,
+    "addenda_count": 5,
     "appendices_count": 5,
     "attachments_count": 0
   },
