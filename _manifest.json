@@ -192104,26 +192104,34 @@
   "version_signature": "8c7ce74c96be4333371736f0d7fec0b11bd157662865f63fe01e67076cacb99a"
  },
  "admrul:school:2107580": {
-  "collected_signature": "d3d9706ac83d6d602ec92c252477c2b734aa6c2cfe1857015b5db3eaaf2f701e",
-  "content_hash": "a601626d1ce164caee7474698573f4f407e65d25777966d4d764f6aab4cf7092",
-  "detail_link": "/DRF/lawService.do?OC=test&target=school&ID=2200000082757&type=HTML&mobileYn=",
+  "attempts": 1,
+  "body_stats": {
+   "articles": 39,
+   "chars": 14167
+  },
+  "collected_signature": null,
+  "content_hash": "801b18852e228c785b61067c4ed32459bcc051f390e2be44fa302b446f851d0a",
+  "detail_link": "/DRF/lawService.do?OC=test&target=school&ID=2200000160435&type=HTML&mobileYn=",
   "doc_domain": "admrul",
   "doc_id": "2107580",
   "doc_target": "school",
   "doc_type": "학교규정",
   "emitted_signature": "d3d9706ac83d6d602ec92c252477c2b734aa6c2cfe1857015b5db3eaaf2f701e",
-  "enforcement_date": "20200701",
+  "enforcement_date": "20260918",
+  "export_pending": true,
   "is_active": true,
-  "last_checked_at": "2026-08-24T18:10:46.128638+00:00",
-  "last_collected_at": "2026-08-24T18:10:46.844407+00:00",
+  "last_checked_at": "2026-09-20T15:08:50.721649+00:00",
+  "last_collected_at": "2026-09-20T15:08:53.984449+00:00",
+  "last_git_error": "git update-index 실패(rc=128) /workspace/law_ai/data/SCHLPUBRUL :: 충남대학교 교직원 행동강령/별표/별표4_직무관련자인 특수관계사업자의 범위(제5조 관련).hwp — ex.lock': File exists.\n\nAnother git process seems to be running in this repository, e.g.\nan editor opened by 'git commit'. Please make sure all processes\nare terminated then try again. If it still fails, a git process\nmay have crashed in this repository earlier:\nremove the file manually to continue.",
+  "last_git_error_at": "2026-09-20T15:10:06.415086+00:00",
   "ministry": "충남대학교",
-  "mst": "2200000082757",
+  "mst": "2200000160435",
   "name": "충남대학교 교직원 행동강령",
   "payload_law_id": "2107580",
-  "promulgation_date": "20200701",
+  "promulgation_date": "20260918",
   "status": "done",
   "version_count": 1,
-  "version_signature": "d3d9706ac83d6d602ec92c252477c2b734aa6c2cfe1857015b5db3eaaf2f701e"
+  "version_signature": "2450ce0b0dfa00a0ca3f8cf1d0ad2742e894b1d262e311a0882d9f69656baa5f"
  },
  "admrul:school:2107582": {
   "collected_signature": "503e2678e855a4c8950cd110683f53967cf78a7d554afb9ccd501fb7ef5694db",
@@ -287938,5 +287946,33 @@
   "status": "done",
   "version_count": 1,
   "version_signature": "3ea8ccfce1ffc2b927af0cc137e60cf4095a73d532b2ed4bc1000ac60e3feabe"
+ },
+ "admrul:school:2141905": {
+  "attempts": 0,
+  "body_stats": {
+   "articles": 7,
+   "chars": 904
+  },
+  "collected_signature": "e961af7534cc4c177c73386a698090a9f948ec09e47ff713bfcc310269490574",
+  "content_hash": "4be727037620374347d5420ddafc0053ceeb3b2b4ededf7e3445f85a26a566ba",
+  "detail_link": "/DRF/lawService.do?OC=test&target=school&ID=2200000160437&type=HTML&mobileYn=",
+  "doc_domain": "admrul",
+  "doc_id": "2141905",
+  "doc_target": "school",
+  "doc_type": "학교규정",
+  "enforcement_date": "20260918",
+  "export_pending": null,
+  "is_active": true,
+  "last_checked_at": "2026-09-20T15:08:50.545953+00:00",
+  "last_collected_at": "2026-09-20T15:08:52.786361+00:00",
+  "ministry": "충남대학교",
+  "mst": "2200000160437",
+  "name": "충남대학교 약학대학 부속 약학교육연수원 운영규정",
+  "payload_law_id": "2141905",
+  "prev_name": null,
+  "promulgation_date": "20260918",
+  "status": "done",
+  "version_count": 1,
+  "version_signature": "e961af7534cc4c177c73386a698090a9f948ec09e47ff713bfcc310269490574"
  }
 }
