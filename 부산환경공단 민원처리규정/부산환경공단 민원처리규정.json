@@ -27,7 +27,7 @@
     "전화번호": "051-760-3247",
     "제개정구분명": "일부개정",
     "소관부처코드": "B552625",
-    "생성일자": "20260926",
+    "생성일자": "20261013",
     "행정규칙ID": "2072329",
     "담당부서기관코드": "B552625",
     "발령번호": "2026-21",
@@ -90,7 +90,58 @@
         "chapter_path": "",
         "content": "제5조(민원사항의 접수) ① 민원사항은 민원주관부서에서 접수한다. 다만, 민원처리부서가 상당히 떨어져 있거나 제증명 등의 발급에 관한 민원사항 등 특별한 사유가 있는 경우에는 민원처리부서에서 직접 접수ㆍ처리할 수 있다.② 민원주관부서 또는 처리부서에서 민원사항을 접수하였을 때에는 별지 제1호서식의 민원 처리부에 기록 하고 신청인에게 별지 제2호서식의 접수증을 발급하여야 한다. 다만, 다음 각 호의 하나에 해당하는 신청의 경우 에는 접수증을 발급하지 아니할 수 있다. <개정 2026.9.22>1. 구술, 우편 또는 정보통신망에 의한 신청2. 접수증에 갈음하는 문서를 주는 신청③ 민원사항 중 제증명발급에 관한 사항은 민원 처리부가 아닌 별도 발급대장으로 관리할 수 있다. <개정 2026.9.22.>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제2항",
+            "link_text": "별지 제1호서식",
+            "line_text": "",
+            "target_law_name": "부산환경공단 민원처리규정",
+            "target_article_no": "별지1",
+            "target_article_title": "민원 처리부",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2072329",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170479501",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:부산환경공단민원처리규정#JO0005",
+            "target_unit": "BJ0001",
+            "reference_id": "SchlPubRul:부산환경공단민원처리규정#BJ0001",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "부산환경공단 민원처리규정/부산환경공단 민원처리규정.json"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제2항",
+            "link_text": "별지 제2호서식",
+            "line_text": "",
+            "target_law_name": "부산환경공단 민원처리규정",
+            "target_article_no": "별지2",
+            "target_article_title": "접수증",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2072329",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170479505",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:부산환경공단민원처리규정#JO0005",
+            "target_unit": "BJ0002",
+            "reference_id": "SchlPubRul:부산환경공단민원처리규정#BJ0002",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "부산환경공단 민원처리규정/부산환경공단 민원처리규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:부산환경공단민원처리규정#JO0005"
       },
@@ -158,6 +209,31 @@
         "enforcement_date": "",
         "relations": [
           {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제1항",
+            "link_text": "별표1",
+            "line_text": "",
+            "target_law_name": "부산환경공단 민원처리규정",
+            "target_article_no": "별표1",
+            "target_article_title": "민원 처리기준표",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2072329",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000160547&bylNo=0001&bylBrNo=00",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:부산환경공단민원처리규정#JO0011",
+            "target_unit": "BYL0001",
+            "reference_id": "SchlPubRul:부산환경공단민원처리규정#BYL0001",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "부산환경공단 민원처리규정/부산환경공단 민원처리규정.json"
+          },
+          {
             "relation_type": "citation",
             "delegation_type": null,
             "target_category": "법령",
@@ -175,9 +251,7 @@
             "source_provision_id": "SchlPubRul:부산환경공단민원처리규정#JO0011",
             "reference_id": "law:민법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json",
-            "target_git_path": "민법/법률/민법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "민법/법률/민법.json"
           },
           {
             "relation_type": "citation",
@@ -197,9 +271,7 @@
             "source_provision_id": "SchlPubRul:부산환경공단민원처리규정#JO0011",
             "reference_id": "law:민법#JO0159",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json",
-            "target_git_path": "민법/법률/민법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "민법/법률/민법.json"
           },
           {
             "relation_type": "citation",
@@ -219,9 +291,7 @@
             "source_provision_id": "SchlPubRul:부산환경공단민원처리규정#JO0011",
             "reference_id": "law:민법#JO0160",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json",
-            "target_git_path": "민법/법률/민법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "민법/법률/민법.json"
           },
           {
             "relation_type": "citation",
@@ -241,9 +311,7 @@
             "source_provision_id": "SchlPubRul:부산환경공단민원처리규정#JO0011",
             "reference_id": "law:민법#JO0161",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json",
-            "target_git_path": "민법/법률/민법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "민법/법률/민법.json"
           }
         ],
         "images": [],
@@ -256,7 +324,33 @@
         "chapter_path": "",
         "content": "제12조(처리기간의 연장 등) ① 부득이한 사유로 처리기간 내에 민원을 처리하기 곤란하다고 인정되는 경우에는 한 차례만 그 처리기간을 연장할 수 있다. 다만, 연장된 처리기간 내에 처리가 곤란한 경우에는 민원인의 동의를 받아 처리기간을 다시 연장할 수 있다.  <개정 2026.9.22.>② 제1항에 따라 처리기간을 연장하였을 때에는 접수일로부터 7일 이내에 민원인에게 문서ㆍ전화ㆍ팩스ㆍ인터넷 등으로 하되, 문서로 통지할 시에는 별지 제3호서식으로 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제12조",
+            "source_clause": "제12조제2항",
+            "link_text": "별지 제3호서식",
+            "line_text": "",
+            "target_law_name": "부산환경공단 민원처리규정",
+            "target_article_no": "별지3",
+            "target_article_title": "민원 처리기간(이의신청 결정기간)연장 통지서",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2072329",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170479511",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:부산환경공단민원처리규정#JO0012",
+            "target_unit": "BJ0003",
+            "reference_id": "SchlPubRul:부산환경공단민원처리규정#BJ0003",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "부산환경공단 민원처리규정/부산환경공단 민원처리규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:부산환경공단민원처리규정#JO0012"
       },
@@ -298,7 +392,7 @@
         "article_title": "민원 처리의 예외",
         "chapter": "",
         "chapter_path": "",
-        "content": "제16조(민원 처리의 예외) ① 민원사항 중 다음 각 호에 해당하는 사항은 이를 처리하지 아니할 수 있다. 다만, 민원인에게 그 사유를 통지하여야 한다. <개정 2026.9.22.>1. 고도의 정치적 판단을 요하거나 국가기밀 또는 공무상 비밀에 관한 사항2. 수사, 재판 및 형집행에 관한 사항 또는 감사원의 감사가 착수된 사항3. 행정심판, 행정소송, 헌법재판소의 심판, 감사원의 심사청구, 그 밖에 다른 법률에 따라 불복구제절차가 진행 중인 사항4. 법령에 따라 화해ㆍ알선ㆍ조정ㆍ중재 등 당사자 간의 이해 조정을 목적으로 행하는 절차가 진행 중인 사항5. 판결ㆍ결정ㆍ재결ㆍ화해ㆍ조정ㆍ중재 등에 따라 확정된 권리관계에 관한 사항6. 감사원이 감사위원회의의 결정을 거쳐 행하는 사항 <신설 2026.9.22.>7. 각급 선거관리위원회의 의결을 거쳐 행하는 사항 <신설 2026.9.22.>8. 사인 간의 권리관계 또는 개인의 사생활에 관한 사항 <신설 2026.9.22.>9. 공단의 소속 임직원에 대한 인사행정상의 행위에 관한 사항 (신설 2026.9.22.>② 제1항의 규정에 의하여 불문처리를 할 경우에는 사전에 민원주관부서와 협의하여야 한다.",
+        "content": "제16조(민원 처리의 예외) ① 민원사항 중 다음 각 호에 해당하는 사항은 이를 처리하지 아니할 수 있다. 다만, 민원인에게 그 사유를 통지하여야 한다. <개정 2026.9.22.>1. 고도의 정치적 판단을 요하거나 국가기밀 또는 공무상 비밀에 관한 사항2. 수사, 재판 및 형집행에 관한 사항 또는 감사원의 감사가 착수된 사항3. 행정심판, 행정소송, 헌법재판소의 심판, 감사원의 심사청구, 그 밖에 다른 법률에 따라 불복구제절차가 진행 중인 사항4. 법령에 따라 화해ㆍ알선ㆍ조정ㆍ중재 등 당사자 간의 이해 조정을 목적으로 행하는 절차가 진행 중인 사항5. 판결ㆍ결정ㆍ재결ㆍ화해ㆍ조정ㆍ중재 등에 따라 확정된 권리관계에 관한 사항6. 감사원이 감사위원회의의 결정을 거쳐 행하는 사항 <신설 2026.9.22.>7. 각급 선거관리위원회의 의결을 거쳐 행하는 사항 <신설 2026.9.22.>8. 사인 간의 권리관계 또는 개인의 사생활에 관한 사항 <신설 2026.9.22.>9. 공단의 소속 임직원에 대한 인사행정상의 행위에 관한 사항 <신설 2026.9.22.>② 제1항의 규정에 의하여 불문처리를 할 경우에는 사전에 민원주관부서와 협의하여야 한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -311,7 +405,33 @@
         "chapter_path": "",
         "content": "제17조(이의신청의 방법 및 처리절차 등) ① 이의신청은 다음 각 호의 사항을 적은 서면으로 하여야 한다.1. 신청인의 성명 및 주소(법인 또는 단체의 경우에는 그 명칭, 사무소   또는 사업소의 소재지와 대표자의 성명)와 연락처2. 이의신청의 대상이 되는 민원사항의 결정 내용3. 이의신청의 취지 및 이유4. 민원거부처분의 결정통지를 받은 날② 공단의 장은 이의신청을 받은 날부터 10일 이내에 그 이의신청에 대  하여 결정하고 그 결과를 민원인에게 문서로 통지하여야 하며, 민원인의 요청이 있을 때에는 전화ㆍ인터넷 등을 통하여 통지할 수 있다. 다만, 부득이한 사유로 정하여진 기간 이내에 결정할 수 없을 때에는 별지 제3호서식을 민원인에게 통지하여야 한다.③ 이의신청에 대한 처리상황을 이의신청처리대장에 기록ㆍ유지하여야 한다.",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제17조",
+            "source_clause": "제17조제2항",
+            "link_text": "별지 제3호서식",
+            "line_text": "",
+            "target_law_name": "부산환경공단 민원처리규정",
+            "target_article_no": "별지3",
+            "target_article_title": "민원 처리기간(이의신청 결정기간)연장 통지서",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "",
+            "source_admrul_seq": "2072329",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170479511",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:부산환경공단민원처리규정#JO0017",
+            "target_unit": "BJ0003",
+            "reference_id": "SchlPubRul:부산환경공단민원처리규정#BJ0003",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "부산환경공단 민원처리규정/부산환경공단 민원처리규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:부산환경공단민원처리규정#JO0017"
       },
@@ -365,7 +485,7 @@
     {
       "promulgation_date": "20260922",
       "promulgation_no": "202621",
-      "content": "부칙 <제202621호,2026.9.22.>제1조 (시행일) 이 규정은 공퐌 날부터 시행한다.제2조 (다른 사규의 개정) ① 사규관리규정 중 별표 2의 “민원사무처리규정”을 “민원처리규정”으로 한다.② 직제규정 중 별표 3의 “민원사무”를 “민원”으로 한다.③ 직제규정시행내규 중 별표 4의 “민원사무”를 “민원”으로 한다.④ 사무관리규정 중 제34조제7항의 “민원사무처리규정”을 “민원처리규정”으로 한다.⑤ 홈페이지운영내규 중 제10조제1항 및 제2항의 “민원사무처리규정”을  “민원처리규정”으로 한다.⑥ 정보공개규정 중 제9조제4항의 “민원사무처리에 관한 법률”을 “민원처리에 관한 법률”로 한다.⑦ 임직원행동강령내규 중 제2조제2호 가목의 “민원사무를”을 “민원을”로 한다.",
+      "content": "부칙 <제202621호,2026.9.22.>제1조 (시행일) 이 규정은 공포한 날부터 시행한다.제2조 (다른 사규의 개정) ① 사규관리규정 중 별표 2의 “민원사무처리규정”을 “민원처리규정”으로 한다.② 직제규정 중 별표 3의 “민원사무”를 “민원”으로 한다.③ 직제규정시행내규 중 별표 4의 “민원사무”를 “민원”으로 한다.④ 사무관리규정 중 제24조제7항의 “민원사무처리규정”을 “민원처리규정”으로 한다.⑤ 홈페이지운영내규 중 제10조제1항 및 제2항의 “민원사무처리규정”을  “민원처리규정”으로 한다.⑥ 정보공개규정 중 제9조제4항의 “민원사무처리에 관한 법률”을 “민원처리에 관한 법률”로 한다.⑦ 임직원행동강령내규 중 제2조제2호 가목의 “민원사무를”을 “민원을”로 한다.",
       "provision_id": "SchlPubRul:부산환경공단민원처리규정#ADDENDUM",
       "is_future": false,
       "source_mst": "2200000160547",
@@ -384,11 +504,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000160547&bylNo=0001&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169636373",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170479257",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169636373",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170479257",
           "name": "",
           "file_store_url": ""
         }
@@ -409,11 +529,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169636377",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170479501",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169636377",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170479501",
           "name": "",
           "file_store_url": ""
         }
@@ -434,11 +554,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169636381",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170479505",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169636381",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170479505",
           "name": "",
           "file_store_url": ""
         }
@@ -459,11 +579,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169636387",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170479511",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169636387",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170479511",
           "name": "",
           "file_store_url": ""
         }
@@ -484,11 +604,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169636391",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170479515",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169636391",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170479515",
           "name": "",
           "file_store_url": ""
         }
@@ -504,15 +624,17 @@
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 4,
+    "relations_total": 9,
     "by_category": {
+      "학칙공단": 5,
       "법령": 4
     },
     "by_relation_type": {
+      "appendix_ref": 5,
       "citation": 4
     },
     "articles_total": 21,
-    "articles_with_relations": 1,
+    "articles_with_relations": 4,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
