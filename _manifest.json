@@ -87196,27 +87196,34 @@
   "version_signature": "685e9e0bb22afb065cb9bb0e527b908a64e8527bce3972798c2d792bd47008f7"
  },
  "admrul:public:2099510": {
-  "collected_signature": "5641fde23740edd6623204be79666b5e63b818194c9764acb3284fdd1a677c59",
-  "content_hash": "3ec46ad9039a4ecc0704d406cf34b2c65e93ec6114516eeaa53876485dc56152",
-  "detail_link": "/DRF/lawService.do?OC=test&target=public&ID=2200000059214&type=HTML&mobileYn=",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 23,
+   "chars": 7838
+  },
+  "collected_signature": "4e20deb1fbb189d5e565e9d31f9e765c18bed4a5cdacae58347964d68ca3da68",
+  "content_hash": "477095715b1ac43e772f884f5556a794cdb091876ec0b244f30d53c4ef42ab86",
+  "detail_link": "/DRF/lawService.do?OC=test&target=public&ID=2200000139169&type=HTML&mobileYn=",
   "doc_domain": "admrul",
   "doc_id": "2099510",
   "doc_target": "public",
   "doc_type": "공단규정",
   "emitted_signature": "5641fde23740edd6623204be79666b5e63b818194c9764acb3284fdd1a677c59",
-  "enforcement_date": "20160701",
+  "enforcement_date": "20250101",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T12:13:03.937219+00:00",
-  "last_collected_at": "2026-08-25T12:13:17.113145+00:00",
+  "last_checked_at": "2026-09-22T00:16:35.616603+00:00",
+  "last_collected_at": "2026-09-22T00:17:02.326009+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "부산환경공단",
-  "mst": "2200000059214",
+  "mst": "2200000139169",
   "name": "부산자원순환협력센터 관리 운영 위탁계약",
   "payload_law_id": "2099510",
-  "promulgation_date": "20160701",
+  "prev_name": null,
+  "promulgation_date": "20250101",
   "status": "done",
   "version_count": 1,
-  "version_signature": "5641fde23740edd6623204be79666b5e63b818194c9764acb3284fdd1a677c59"
+  "version_signature": "4e20deb1fbb189d5e565e9d31f9e765c18bed4a5cdacae58347964d68ca3da68"
  },
  "admrul:public:2099528": {
   "collected_signature": "9c48733a6a2aa53e2e4ef23ba123170ab5bf0bcc644ebdc5f64cc749e5aa2f79",
@@ -91115,7 +91122,7 @@
   "version_signature": "c57904ce2a3ae4cd8b6c6adffc954ddbfe418831eaa7698d8f32f347d279986a"
  },
  "admrul:public:2107043": {
-  "attempts": 7,
+  "attempts": 8,
   "detail_link": "/DRF/lawService.do?OC=test&target=public&ID=2200000077160&type=HTML&mobileYn=",
   "doc_domain": "admrul",
   "doc_id": "2107043",
@@ -91123,7 +91130,7 @@
   "doc_type": "공단규정",
   "enforcement_date": "20170625",
   "is_active": true,
-  "last_checked_at": "2026-09-14T15:58:06.603349+00:00",
+  "last_checked_at": "2026-09-22T00:16:36.068331+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "부산지방공단스포원",
   "mst": "2200000077160",
@@ -108995,7 +109002,7 @@
   "version_signature": "882f90523f1713988118c8c7cbe8b6f049393ba04ef06e374bcc83a951a86cc3"
  },
  "admrul:public:2122955": {
-  "attempts": 7,
+  "attempts": 8,
   "detail_link": "/DRF/lawService.do?OC=test&target=public&ID=2200000133133&type=HTML&mobileYn=",
   "doc_domain": "admrul",
   "doc_id": "2122955",
@@ -109003,7 +109010,7 @@
   "doc_type": "공단규정",
   "enforcement_date": "20240812",
   "is_active": true,
-  "last_checked_at": "2026-09-14T15:58:06.652994+00:00",
+  "last_checked_at": "2026-09-22T00:16:35.398231+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "부산도시공사",
   "mst": "2200000133133",
@@ -109036,7 +109043,7 @@
   "version_signature": "4085cf4f73fdb94f92da5bf8ca4607ab41db948323f9557953db0a51b495cb6f"
  },
  "admrul:public:2122965": {
-  "attempts": 7,
+  "attempts": 8,
   "detail_link": "/DRF/lawService.do?OC=test&target=public&ID=2200000133135&type=HTML&mobileYn=",
   "doc_domain": "admrul",
   "doc_id": "2122965",
@@ -109044,7 +109051,7 @@
   "doc_type": "공단규정",
   "enforcement_date": "20240812",
   "is_active": true,
-  "last_checked_at": "2026-09-14T15:58:06.339924+00:00",
+  "last_checked_at": "2026-09-22T00:18:36.529868+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "부산도시공사",
   "mst": "2200000133135",
@@ -122325,7 +122332,7 @@
   "version_signature": "b2ab60b4f8a7910f200dd32a091615c20bfe2672a39d472216b64ab21641ed34"
  },
  "admrul:public:2127927": {
-  "attempts": 7,
+  "attempts": 8,
   "detail_link": "/DRF/lawService.do?OC=test&target=public&ID=2200000118473&type=HTML&mobileYn=",
   "doc_domain": "admrul",
   "doc_id": "2127927",
@@ -122333,7 +122340,7 @@
   "doc_type": "공단규정",
   "enforcement_date": "20220127",
   "is_active": true,
-  "last_checked_at": "2026-09-14T15:58:06.312271+00:00",
+  "last_checked_at": "2026-09-22T00:16:36.112529+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "속초시시설관리공단",
   "mst": "2200000118473",
@@ -161661,26 +161668,33 @@
   "version_signature": "3606d85a3f5e48cdf840e99513222365feb950c974eea2fb712b25f9bec1a017"
  },
  "admrul:public:2141139": {
-  "collected_signature": "251d0626577991c93cf13468183226630ea57ece44d80b4e8c95709b4864daac",
-  "content_hash": "2eb1ab3533b63b044280bd8ceb64e6c14ce06131853c858f044d0c8fd5b33435",
-  "detail_link": "/DRF/lawService.do?OC=test&target=public&ID=2200000156147&type=HTML&mobileYn=",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 21,
+   "chars": 2665
+  },
+  "collected_signature": "7366d83790d5c2ee08802794d880139eef8d9e35ce3bbf822810308c056af8fa",
+  "content_hash": "3359316dfe58984cc44555e4610f224817eb2e787a710fccdb073aaf057b7ecd",
+  "detail_link": "/DRF/lawService.do?OC=test&target=public&ID=2200000160441&type=HTML&mobileYn=",
   "doc_domain": "admrul",
   "doc_id": "2141139",
   "doc_target": "public",
   "doc_type": "공단규정",
   "emitted_signature": "251d0626577991c93cf13468183226630ea57ece44d80b4e8c95709b4864daac",
-  "enforcement_date": "20250923",
+  "enforcement_date": "20260921",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T11:29:53.830758+00:00",
-  "last_collected_at": "2026-08-25T11:30:18.681131+00:00",
+  "last_checked_at": "2026-09-22T00:16:36.069550+00:00",
+  "last_collected_at": "2026-09-22T00:17:05.508073+00:00",
   "ministry": "의왕도시공사",
-  "mst": "2200000156147",
+  "mst": "2200000160441",
   "name": "직제규정",
   "payload_law_id": "2141139",
-  "promulgation_date": "20250923",
+  "prev_name": null,
+  "promulgation_date": "20260921",
   "status": "done",
   "version_count": 1,
-  "version_signature": "251d0626577991c93cf13468183226630ea57ece44d80b4e8c95709b4864daac"
+  "version_signature": "7366d83790d5c2ee08802794d880139eef8d9e35ce3bbf822810308c056af8fa"
  },
  "admrul:public:2141141": {
   "attempts": 0,
@@ -163661,6 +163675,34 @@
   "status": "done",
   "version_count": 1,
   "version_signature": "cb8de06dd28c62df4c4515d1e5ab648e196fee06c3ca1e548912ca242e2811d8"
+ },
+ "admrul:public:2141907": {
+  "attempts": 0,
+  "body_stats": {
+   "articles": 14,
+   "chars": 3454
+  },
+  "collected_signature": "aedcefd649338389fbf5f14e8370831d245540f049259c9aa4491d4b6abc64d1",
+  "content_hash": "d9391feacf1d28e70cf919ccd8ff9617def254e277293caa2da58f4def5935a0",
+  "detail_link": "/DRF/lawService.do?OC=test&target=public&ID=2200000160467&type=HTML&mobileYn=",
+  "doc_domain": "admrul",
+  "doc_id": "2141907",
+  "doc_target": "public",
+  "doc_type": "공단규정",
+  "enforcement_date": "20260918",
+  "export_pending": null,
+  "is_active": true,
+  "last_checked_at": "2026-09-22T00:16:35.716105+00:00",
+  "last_collected_at": "2026-09-22T00:16:49.949632+00:00",
+  "ministry": "창원시설공단",
+  "mst": "2200000160467",
+  "name": "창원시설공단 계약심의위원회 구성 및 운영내규",
+  "payload_law_id": "2141907",
+  "prev_name": null,
+  "promulgation_date": "20260918",
+  "status": "done",
+  "version_count": 1,
+  "version_signature": "aedcefd649338389fbf5f14e8370831d245540f049259c9aa4491d4b6abc64d1"
  },
  "admrul:public:2141925": {
   "attempts": 0,
