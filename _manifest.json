@@ -283191,26 +283191,33 @@
   "version_signature": "cae79286d11b636a4eae76447ea8ebffcfaa3c26cb7987cf988f3b573cc72d8f"
  },
  "admrul:school:2141327": {
-  "collected_signature": "331c4b0018b8540764281c073ad56f991eeb353f22862f2e3fa438c814e3629c",
-  "content_hash": "77a5ffcefae5962b927a75ec49f9beb48c099497ce0bd7750f4fa749a4629c5e",
-  "detail_link": "/DRF/lawService.do?OC=test&target=school&ID=2200000156599&type=HTML&mobileYn=",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 1,
+   "chars": 1114
+  },
+  "collected_signature": "778a6099431d005389ce425b0d8c713800e9696481a29921dfb55ffa893806ee",
+  "content_hash": "9dfd31a0e100c1fb8c4e5414a2f9d04b6d3189fc6cac88a266420b534c4922a0",
+  "detail_link": "/DRF/lawService.do?OC=test&target=school&ID=2200000160537&type=HTML&mobileYn=",
   "doc_domain": "admrul",
   "doc_id": "2141327",
   "doc_target": "school",
   "doc_type": "학교지침",
   "emitted_signature": "331c4b0018b8540764281c073ad56f991eeb353f22862f2e3fa438c814e3629c",
-  "enforcement_date": "20250811",
+  "enforcement_date": "20260731",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T23:52:04.201852+00:00",
-  "last_collected_at": "2026-08-24T23:52:04.715137+00:00",
+  "last_checked_at": "2026-09-23T15:33:01.588105+00:00",
+  "last_collected_at": "2026-09-23T15:33:03.076011+00:00",
   "ministry": "서울대학교",
-  "mst": "2200000156599",
+  "mst": "2200000160537",
   "name": "서울대학교 산학협력단 회계관계직 지정에 관한 기준",
   "payload_law_id": "2141327",
-  "promulgation_date": "20250811",
+  "prev_name": null,
+  "promulgation_date": "20260731",
   "status": "done",
   "version_count": 1,
-  "version_signature": "331c4b0018b8540764281c073ad56f991eeb353f22862f2e3fa438c814e3629c"
+  "version_signature": "778a6099431d005389ce425b0d8c713800e9696481a29921dfb55ffa893806ee"
  },
  "admrul:school:2141331": {
   "collected_signature": "3e66bafd92bfb4d729a88ab05d24fdc23aecabc66f68d6496b03f8af1dc76b52",
