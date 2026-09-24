@@ -24782,26 +24782,33 @@
   "version_signature": "0800f3225045f7b6077a869420890bf9a4fb687677e421e95b336084c434cfbd"
  },
  "admrul:pi:2115147": {
-  "collected_signature": "f637dbd6f7f532c14dd230286809ad3f57f542d1fd4e1775f7e44e9957beb98a",
-  "content_hash": "c0382e2677f94596df2804b7aa37303d425ec2ebbc08ecf8d16d274d0b25e114",
-  "detail_link": "/DRF/lawService.do?OC=test&target=pi&ID=2200000144023&type=HTML&mobileYn=",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 35,
+   "chars": 6968
+  },
+  "collected_signature": "a74241b771ff3533ce0fe498aa7422e4dc06de52f09f5c59d62d1536599a73ba",
+  "content_hash": "03ef5365116ee6d2f88009b9ea392fec9a98b91925792a476711a09b186e0a30",
+  "detail_link": "/DRF/lawService.do?OC=test&target=pi&ID=2200000151881&type=HTML&mobileYn=",
   "doc_domain": "admrul",
   "doc_id": "2115147",
   "doc_target": "pi",
   "doc_type": "공단규정",
   "emitted_signature": "f637dbd6f7f532c14dd230286809ad3f57f542d1fd4e1775f7e44e9957beb98a",
-  "enforcement_date": "20250521",
+  "enforcement_date": "20260924",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T00:58:59.025520+00:00",
-  "last_collected_at": "2026-08-25T00:59:20.236890+00:00",
+  "last_checked_at": "2026-09-24T15:10:41.645935+00:00",
+  "last_collected_at": "2026-09-24T15:10:47.897355+00:00",
   "ministry": "소상공인시장진흥공단",
-  "mst": "2200000144023",
+  "mst": "2200000151881",
   "name": "(소상공인시장진흥공단) 감사규정",
   "payload_law_id": "2115147",
-  "promulgation_date": "20250521",
+  "prev_name": null,
+  "promulgation_date": "20260924",
   "status": "done",
   "version_count": 1,
-  "version_signature": "f637dbd6f7f532c14dd230286809ad3f57f542d1fd4e1775f7e44e9957beb98a"
+  "version_signature": "a74241b771ff3533ce0fe498aa7422e4dc06de52f09f5c59d62d1536599a73ba"
  },
  "admrul:pi:2115149": {
   "collected_signature": "a9f7507926d25144b67c29dc323e1a4cd7346448dc63bc4b15a2f5bffa19310c",
