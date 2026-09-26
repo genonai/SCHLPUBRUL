@@ -83382,7 +83382,7 @@
   "version_signature": "aa68afe425d24aed584cb2dcb56e9b8e36d52ad7b1763478dab3b942ddcb33a0"
  },
  "admrul:public:2072325": {
-  "attempts": 7,
+  "attempts": 8,
   "body_stats": {
    "articles": 16,
    "chars": 4115
@@ -83398,8 +83398,8 @@
   "enforcement_date": "20250619",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-18T19:45:41.893620+00:00",
-  "last_collected_at": "2026-09-18T19:46:20.092143+00:00",
+  "last_checked_at": "2026-09-26T15:18:08.137546+00:00",
+  "last_collected_at": "2026-09-26T15:18:48.334538+00:00",
   "last_error": "별표/첨부 파일 1건 다운로드 실패: 별지/별지1_제1호서식.hwp",
   "ministry": "부산환경공단",
   "mst": "2200000144055",
@@ -83456,26 +83456,33 @@
   "version_signature": "ff9955b3e90b7e8f0ac7451b2844307f6bec6f23ff8d3887aec876ca22bb6351"
  },
  "admrul:public:2072329": {
-  "collected_signature": "013f9525e20f99bd34237a9737eb861d7a262231485ad5ee36921da8348405b6",
-  "content_hash": "8a8da757934aa61e3eb63403aa2b3e7775f5fe6fb6fa67a0519959534b796f96",
-  "detail_link": "/DRF/lawService.do?OC=test&target=public&ID=2200000008645&type=HTML&mobileYn=",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 21,
+   "chars": 6422
+  },
+  "collected_signature": "2c4961e4f6d4558f91d3f3e15c83dcb185b0f9ce7b1ed18817c47807e9f3699d",
+  "content_hash": "193f6e6e87c21d63ac7cb9f7997f29e0196023e47e32cb6b16a60b1bba83710d",
+  "detail_link": "/DRF/lawService.do?OC=test&target=public&ID=2200000160547&type=HTML&mobileYn=",
   "doc_domain": "admrul",
   "doc_id": "2072329",
   "doc_target": "public",
   "doc_type": "공단규정",
   "emitted_signature": "013f9525e20f99bd34237a9737eb861d7a262231485ad5ee36921da8348405b6",
-  "enforcement_date": "20130801",
+  "enforcement_date": "20260922",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T05:29:12.958623+00:00",
-  "last_collected_at": "2026-08-25T05:29:41.441035+00:00",
+  "last_checked_at": "2026-09-26T15:14:26.431016+00:00",
+  "last_collected_at": "2026-09-26T15:14:48.531951+00:00",
   "ministry": "부산환경공단",
-  "mst": "2200000008645",
-  "name": "부산환경공단 민원사무처리규정",
+  "mst": "2200000160547",
+  "name": "부산환경공단 민원처리규정",
   "payload_law_id": "2072329",
-  "promulgation_date": "20130801",
+  "prev_name": null,
+  "promulgation_date": "20260922",
   "status": "done",
   "version_count": 1,
-  "version_signature": "013f9525e20f99bd34237a9737eb861d7a262231485ad5ee36921da8348405b6"
+  "version_signature": "2c4961e4f6d4558f91d3f3e15c83dcb185b0f9ce7b1ed18817c47807e9f3699d"
  },
  "admrul:public:2072330": {
   "collected_signature": "c6ddf2d4a5037dc97254aed5b0dd13fcd825252bbfdc0ab74aaef6b42c8c39fe",
@@ -83500,26 +83507,33 @@
   "version_signature": "c6ddf2d4a5037dc97254aed5b0dd13fcd825252bbfdc0ab74aaef6b42c8c39fe"
  },
  "admrul:public:2072345": {
-  "collected_signature": "87151276a3361cc3310ee96117da451c36854de816204c8982321b75484ed987",
-  "content_hash": "42486dcde413443f1f944afe978ad1d16c53ad877da476c390a73d5997138644",
-  "detail_link": "/DRF/lawService.do?OC=test&target=public&ID=2200000157707&type=HTML&mobileYn=",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 64,
+   "chars": 14502
+  },
+  "collected_signature": "e0853152793094216cf5fe658f8f4dfc9df06b8c6bcd3fb448980974e450e3e0",
+  "content_hash": "463fa2f0b7d6326ceb8ff4a7b44bdb45b91da39b431d8c4c68f100a337c01698",
+  "detail_link": "/DRF/lawService.do?OC=test&target=public&ID=2200000121279&type=HTML&mobileYn=",
   "doc_domain": "admrul",
   "doc_id": "2072345",
   "doc_target": "public",
   "doc_type": "공단규정",
   "emitted_signature": "87151276a3361cc3310ee96117da451c36854de816204c8982321b75484ed987",
-  "enforcement_date": "20260630",
+  "enforcement_date": "20231012",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T05:29:08.570620+00:00",
-  "last_collected_at": "2026-08-25T05:29:27.854783+00:00",
+  "last_checked_at": "2026-09-26T15:14:26.884722+00:00",
+  "last_collected_at": "2026-09-26T15:15:01.131814+00:00",
   "ministry": "부산환경공단",
-  "mst": "2200000157707",
+  "mst": "2200000121279",
   "name": "부산환경공단 제안및직무발명에관한규정",
   "payload_law_id": "2072345",
-  "promulgation_date": "20260630",
+  "prev_name": null,
+  "promulgation_date": "20231012",
   "status": "done",
   "version_count": 1,
-  "version_signature": "87151276a3361cc3310ee96117da451c36854de816204c8982321b75484ed987"
+  "version_signature": "e0853152793094216cf5fe658f8f4dfc9df06b8c6bcd3fb448980974e450e3e0"
  },
  "admrul:public:2072365": {
   "collected_signature": "e35c8e9336aed691bc33159f9e276029bee5bb6f2cafd54f3f6881455786b4a0",
@@ -84163,26 +84177,33 @@
   "version_signature": "44cf3ddc0476490592a1b95c179f25d34cd7e590ed05648f1cec81daba97e31f"
  },
  "admrul:public:2073732": {
-  "collected_signature": "4c02d7582b31d32ed1a979ea3f063dd41930662145bd15f74a38a3042f27db45",
-  "content_hash": "ae0bdd52afb0ca026860df629a1da2006e202bf7c1e511d5b08680f2a0d9b91a",
-  "detail_link": "/DRF/lawService.do?OC=test&target=public&ID=2200000112707&type=HTML&mobileYn=",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 27,
+   "chars": 5317
+  },
+  "collected_signature": "ae3f5f0ea94606b095a4ec18776e865a6c517032e52a8ce618079437a0376d6b",
+  "content_hash": "757a80c44d0316c038554942ae8efc4ad48662aed9079ac03aa969e4c143592d",
+  "detail_link": "/DRF/lawService.do?OC=test&target=public&ID=2200000160545&type=HTML&mobileYn=",
   "doc_domain": "admrul",
   "doc_id": "2073732",
   "doc_target": "public",
   "doc_type": "공단규정",
   "emitted_signature": "4c02d7582b31d32ed1a979ea3f063dd41930662145bd15f74a38a3042f27db45",
-  "enforcement_date": "20230328",
+  "enforcement_date": "20260922",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T05:33:02.676886+00:00",
-  "last_collected_at": "2026-08-25T05:33:22.166858+00:00",
+  "last_checked_at": "2026-09-26T15:14:26.917088+00:00",
+  "last_collected_at": "2026-09-26T15:14:54.761363+00:00",
   "ministry": "부산환경공단",
-  "mst": "2200000112707",
+  "mst": "2200000160545",
   "name": "부산환경공단 사업내자격검정규정",
   "payload_law_id": "2073732",
-  "promulgation_date": "20230328",
+  "prev_name": null,
+  "promulgation_date": "20260922",
   "status": "done",
   "version_count": 1,
-  "version_signature": "4c02d7582b31d32ed1a979ea3f063dd41930662145bd15f74a38a3042f27db45"
+  "version_signature": "ae3f5f0ea94606b095a4ec18776e865a6c517032e52a8ce618079437a0376d6b"
  },
  "admrul:public:2073733": {
   "collected_signature": "def2d03d53d4dcc7322f13fcac43970f81b6803aec74d707c77249be9fb7bc4d",
@@ -84361,26 +84382,33 @@
   "version_signature": "f948f0b5e39241d0de38ae93842120225854e07b31187ca0357486a1e371a3bd"
  },
  "admrul:public:2073905": {
-  "collected_signature": "41fabb5c70c702f6c56032ef0bf4ccb5d7294dc1daa5c13bafc18664f85e183a",
-  "content_hash": "3a86d5230f8239893f8486edef793217cd8f96d91044f5b17944b594ba8b4cfe",
-  "detail_link": "/DRF/lawService.do?OC=test&target=public&ID=2200000136355&type=HTML&mobileYn=",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 14,
+   "chars": 3048
+  },
+  "collected_signature": "ae404ad9c6d3522122bfe29af2742a62b49bfcd1e4b18e45a6ffe98e5cd5a6dc",
+  "content_hash": "7f8877e68da397aff23c75aafa8240eee8150ee42209e6883d417d7e7b038c18",
+  "detail_link": "/DRF/lawService.do?OC=test&target=public&ID=2200000160543&type=HTML&mobileYn=",
   "doc_domain": "admrul",
   "doc_id": "2073905",
   "doc_target": "public",
   "doc_type": "공단규정",
   "emitted_signature": "41fabb5c70c702f6c56032ef0bf4ccb5d7294dc1daa5c13bafc18664f85e183a",
-  "enforcement_date": "20241101",
+  "enforcement_date": "20260922",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T05:33:10.401730+00:00",
-  "last_collected_at": "2026-08-25T05:33:51.280006+00:00",
+  "last_checked_at": "2026-09-26T15:14:26.845332+00:00",
+  "last_collected_at": "2026-09-26T15:15:11.734008+00:00",
   "ministry": "부산환경공단",
-  "mst": "2200000136355",
+  "mst": "2200000160543",
   "name": "부산환경공단 여비규정",
   "payload_law_id": "2073905",
-  "promulgation_date": "20241101",
+  "prev_name": null,
+  "promulgation_date": "20260922",
   "status": "done",
   "version_count": 1,
-  "version_signature": "41fabb5c70c702f6c56032ef0bf4ccb5d7294dc1daa5c13bafc18664f85e183a"
+  "version_signature": "ae404ad9c6d3522122bfe29af2742a62b49bfcd1e4b18e45a6ffe98e5cd5a6dc"
  },
  "admrul:public:2073906": {
   "collected_signature": "6bb6d2bf7017106dffbbe8880b2056076899e551ab2c2cd483abd5cd0d705894",
@@ -84449,7 +84477,7 @@
   "version_signature": "fde2940008466d5bd19931b5c8fbfa30a0b61a491611d89644614fb360ed716b"
  },
  "admrul:public:2073927": {
-  "attempts": 7,
+  "attempts": 8,
   "body_stats": {
    "articles": 21,
    "chars": 9162
@@ -84465,8 +84493,8 @@
   "enforcement_date": "20250619",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-18T19:45:42.668485+00:00",
-  "last_collected_at": "2026-09-18T19:46:09.218081+00:00",
+  "last_checked_at": "2026-09-26T15:18:08.078357+00:00",
+  "last_collected_at": "2026-09-26T15:18:42.345382+00:00",
   "last_error": "별표/첨부 파일 1건 다운로드 실패: 별지/별지6_제6호서식(삭제).hwp",
   "ministry": "부산환경공단",
   "mst": "2200000144131",
@@ -85623,7 +85651,7 @@
   "version_signature": "cca202add0070a0a7e99e055dfa437adadb152720676f51707602a5158c080f4"
  },
  "admrul:public:2091954": {
-  "attempts": 7,
+  "attempts": 8,
   "body_stats": {
    "articles": 78,
    "chars": 20414
@@ -85639,8 +85667,8 @@
   "enforcement_date": "20180131",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-18T19:47:57.204012+00:00",
-  "last_collected_at": "2026-09-18T19:48:37.340383+00:00",
+  "last_checked_at": "2026-09-26T15:20:55.194417+00:00",
+  "last_collected_at": "2026-09-26T15:21:10.837691+00:00",
   "last_error": "별표/첨부 파일 19건 다운로드 실패: 별표/별표1_무기계약 및 기간제근로자의 정원.hwp, 별표/별표2_징계양정기준.hwp, 별지/별지1_무기계약근로자 채용계획서.hwp",
   "ministry": "천안시시설관리공단",
   "mst": "2200000076013",
@@ -86125,7 +86153,7 @@
   "version_signature": "0d2fe6d7cec72d3bda237273c49079986cc70c9f4f2aad7c500070ca3d2f2291"
  },
  "admrul:public:2092096": {
-  "attempts": 7,
+  "attempts": 8,
   "body_stats": {
    "articles": 43,
    "chars": 8404
@@ -86141,8 +86169,8 @@
   "enforcement_date": "20130506",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-18T19:47:57.510022+00:00",
-  "last_collected_at": "2026-09-18T19:48:23.711171+00:00",
+  "last_checked_at": "2026-09-26T15:25:24.407495+00:00",
+  "last_collected_at": "2026-09-26T15:25:59.084983+00:00",
   "last_error": "별표/첨부 파일 9건 다운로드 실패: 별지/별지1_사건처리대장.hwp, 별지/별지2_소송위임장(변호사_소속직원용).hwp, 별지/별지3_소송대리인허가신청.hwp",
   "ministry": "천안시시설관리공단",
   "mst": "2200000045231",
@@ -86155,7 +86183,7 @@
   "version_signature": "c1953d7a90b25bf68045fbb6b6aaedf873067b98abd2b203d042d88995527399"
  },
  "admrul:public:2092109": {
-  "attempts": 7,
+  "attempts": 9,
   "body_stats": {
    "articles": 14,
    "chars": 1849
@@ -86171,8 +86199,8 @@
   "enforcement_date": "20220322",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-18T19:47:57.183998+00:00",
-  "last_collected_at": "2026-09-18T19:48:12.126843+00:00",
+  "last_checked_at": "2026-09-26T15:25:55.728751+00:00",
+  "last_collected_at": "2026-09-26T15:26:24.632009+00:00",
   "last_error": "별표/첨부 파일 2건 다운로드 실패: 별표/별표1_유연근무제 실시 유형.hwp, 별지/별지1_유연근무제 신청서.hwp",
   "ministry": "천안시시설관리공단",
   "mst": "2200000101485",
@@ -86185,7 +86213,7 @@
   "version_signature": "e116ef78ed3a25cf22322868feaddc0796ede988a1d489b5326f87ab17bf4085"
  },
  "admrul:public:2092111": {
-  "attempts": 7,
+  "attempts": 8,
   "body_stats": {
    "articles": 66,
    "chars": 17570
@@ -86201,8 +86229,8 @@
   "enforcement_date": "20230110",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-18T19:52:15.789423+00:00",
-  "last_collected_at": "2026-09-18T19:52:36.512426+00:00",
+  "last_checked_at": "2026-09-26T15:25:25.196766+00:00",
+  "last_collected_at": "2026-09-26T15:25:47.852280+00:00",
   "last_error": "별표/첨부 파일 28건 다운로드 실패: 별표/별표1_직원공개채용 시험과목.hwp, 별표/별표4_초과경력 평정조견표.hwp, 별표/별표8_비위행위자와 감독자에 대한 문책기준.hwp",
   "ministry": "천안시시설관리공단",
   "mst": "2200000110261",
@@ -86238,7 +86266,7 @@
   "version_signature": "5dfaac6b28237f3089b8e5f6ccb43e55a1cbfa4f477d76081a07d999e4645cd5"
  },
  "admrul:public:2092113": {
-  "attempts": 7,
+  "attempts": 8,
   "body_stats": {
    "articles": 28,
    "chars": 4628
@@ -86254,8 +86282,8 @@
   "enforcement_date": "20150618",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-18T19:52:15.761996+00:00",
-  "last_collected_at": "2026-09-18T19:52:26.537017+00:00",
+  "last_checked_at": "2026-09-26T15:25:24.391533+00:00",
+  "last_collected_at": "2026-09-26T15:25:40.369816+00:00",
   "last_error": "별표/첨부 파일 5건 다운로드 실패: 별지/별지1_제안서.hwp, 별지/별지2_제안관리 기록부.hwp, 별지/별지3_검토의견서.hwp",
   "ministry": "천안시시설관리공단",
   "mst": "2200000045272",
@@ -86406,7 +86434,7 @@
   "version_signature": "bf3c484452a502a0ecfe9af17a1b1b35cc4c6ee67edb56daef1b543aab1c186f"
  },
  "admrul:public:2092388": {
-  "attempts": 7,
+  "attempts": 8,
   "body_stats": {
    "articles": 13,
    "chars": 2910
@@ -86422,8 +86450,8 @@
   "enforcement_date": "20230101",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-18T19:45:42.187720+00:00",
-  "last_collected_at": "2026-09-18T19:46:03.003749+00:00",
+  "last_checked_at": "2026-09-26T15:18:08.101359+00:00",
+  "last_collected_at": "2026-09-26T15:18:28.858572+00:00",
   "last_error": "별표/첨부 파일 7건 다운로드 실패: 별표/별표1의2_삭제.hwp, 별표/별표1의3_삭제.hwp, 별표/별표2_삭제.hwp",
   "ministry": "울산시설공단",
   "mst": "2200000110485",
@@ -86436,7 +86464,7 @@
   "version_signature": "20645d5d0648e2d35ed4e10d97616445353f50c3976754350ccfd7ce7681304a"
  },
  "admrul:public:2092568": {
-  "attempts": 7,
+  "attempts": 8,
   "body_stats": {
    "articles": 31,
    "chars": 4363
@@ -86452,8 +86480,8 @@
   "enforcement_date": "20260101",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-18T19:45:42.718492+00:00",
-  "last_collected_at": "2026-09-18T19:46:22.441490+00:00",
+  "last_checked_at": "2026-09-26T15:20:55.617792+00:00",
+  "last_collected_at": "2026-09-26T15:21:16.945969+00:00",
   "last_error": "별표/첨부 파일 1건 다운로드 실패: 별표/별표2_삭제.hwp",
   "ministry": "울산시설공단",
   "mst": "2200000151787",
@@ -86787,7 +86815,7 @@
   "version_signature": "2cf1ca290781a276261a7677f7145a08b6c1b8d0438045d851c8008dd542695d"
  },
  "admrul:public:2092950": {
-  "attempts": 7,
+  "attempts": 8,
   "body_stats": {
    "articles": 18,
    "chars": 2512
@@ -86803,8 +86831,8 @@
   "enforcement_date": "20251229",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-18T19:45:42.667663+00:00",
-  "last_collected_at": "2026-09-18T19:46:15.196984+00:00",
+  "last_checked_at": "2026-09-26T15:20:55.502140+00:00",
+  "last_collected_at": "2026-09-26T15:21:28.033233+00:00",
   "last_error": "별표/첨부 파일 2건 다운로드 실패: 별지/별지1_삭제 _2017.12.28_.hwp, 별지/별지2_삭제 _2017.12.28_.hwp",
   "ministry": "울산시설공단",
   "mst": "2200000151795",
@@ -87531,7 +87559,7 @@
   "version_signature": "9c48733a6a2aa53e2e4ef23ba123170ab5bf0bcc644ebdc5f64cc749e5aa2f79"
  },
  "admrul:public:2099548": {
-  "attempts": 7,
+  "attempts": 8,
   "body_stats": {
    "articles": 22,
    "chars": 3297
@@ -87547,8 +87575,8 @@
   "enforcement_date": "20161226",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-18T19:47:57.767863+00:00",
-  "last_collected_at": "2026-09-18T19:49:03.493903+00:00",
+  "last_checked_at": "2026-09-26T15:25:25.196969+00:00",
+  "last_collected_at": "2026-09-26T15:26:43.945739+00:00",
   "last_error": "별표/첨부 파일 3건 다운로드 실패: 별지/별지1_시간선택제 근무 신청서.hwp, 별지/별지2_시간선택제 근무 변경(기간연장) 신청서.hwp, 별지/별지3_전일제 근무 복귀 신청서.hwp",
   "ministry": "천안시시설관리공단",
   "mst": "2200000059385",
@@ -90071,7 +90099,7 @@
   "version_signature": "e05aeb5b150310a6c1e3f0970cfe52dce8ad545b7dba0696e6d322d8f7e07792"
  },
  "admrul:public:2105951": {
-  "attempts": 7,
+  "attempts": 8,
   "body_stats": {
    "articles": 52,
    "chars": 9189
@@ -90087,8 +90115,8 @@
   "enforcement_date": "20251231",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-18T19:45:41.878277+00:00",
-  "last_collected_at": "2026-09-18T19:45:58.316115+00:00",
+  "last_checked_at": "2026-09-26T15:20:55.504984+00:00",
+  "last_collected_at": "2026-09-26T15:21:39.444413+00:00",
   "last_error": "별표/첨부 파일 3건 다운로드 실패: 별표/별표4__삭제 2010.11.2_.hwp, 별표/별표5__삭제 2003.11.10_.hwp, 별표/별표6__삭제 2017.12.29_.hwp",
   "ministry": "인천시설공단",
   "mst": "2200000151487",
@@ -90101,7 +90129,7 @@
   "version_signature": "1f42a9df866dc479dfdcde3b4301a4546be8354967a9f10ac8681fdd2ce63fdd"
  },
  "admrul:public:2105952": {
-  "attempts": 7,
+  "attempts": 9,
   "body_stats": {
    "articles": 9,
    "chars": 4598
@@ -90117,8 +90145,8 @@
   "enforcement_date": "20251231",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-18T19:47:57.184829+00:00",
-  "last_collected_at": "2026-09-18T19:48:17.891921+00:00",
+  "last_checked_at": "2026-09-26T15:20:55.628641+00:00",
+  "last_collected_at": "2026-09-26T15:21:48.852809+00:00",
   "last_error": "별표/첨부 파일 2건 다운로드 실패: 별표/별표2__삭제 2017.12.28_.hwp, 별지/별지1__삭제 2017.12.28_.hwp",
   "ministry": "인천시설공단",
   "mst": "2200000151511",
@@ -91037,7 +91065,7 @@
   "version_signature": "6c5dc5575c1265dfbe2075f8084d7f929bafd245564517d541c3bebeaa2c0a7a"
  },
  "admrul:public:2106735": {
-  "attempts": 7,
+  "attempts": 8,
   "body_stats": {
    "articles": 30,
    "chars": 5800
@@ -91053,8 +91081,8 @@
   "enforcement_date": "20230720",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-18T19:47:57.836159+00:00",
-  "last_collected_at": "2026-09-18T19:48:29.599317+00:00",
+  "last_checked_at": "2026-09-26T15:20:55.669244+00:00",
+  "last_collected_at": "2026-09-26T15:21:23.458478+00:00",
   "last_error": "별표/첨부 파일 30건 다운로드 실패: 별표/별표2_일상감사의 범위.hwp, 별표/별표3_사후감사.hwp, 별표/별표4_일상감사.hwp",
   "ministry": "천안시시설관리공단",
   "mst": "2200000118893",
@@ -91111,7 +91139,7 @@
   "version_signature": "3798efe85a0c9aa53e306200ff61b65044b3e359f554738e7c944b5ac46bc88a"
  },
  "admrul:public:2106742": {
-  "attempts": 7,
+  "attempts": 8,
   "body_stats": {
    "articles": 17,
    "chars": 3566
@@ -91127,8 +91155,8 @@
   "enforcement_date": "20180201",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-18T19:52:15.836294+00:00",
-  "last_collected_at": "2026-09-18T19:52:34.617123+00:00",
+  "last_checked_at": "2026-09-26T15:25:25.233577+00:00",
+  "last_collected_at": "2026-09-26T15:25:52.740095+00:00",
   "last_error": "별표/첨부 파일 6건 다운로드 실패: 별표/별표1_면책신청 안내.hwp, 별지/별지1_감사결과 조치예정사항 통보서.hwp, 별지/별지2_적극행정 면책신청서.hwp",
   "ministry": "천안시시설관리공단",
   "mst": "2200000076042",
@@ -102554,7 +102582,7 @@
   "version_signature": "1ac8d204d2047bfb4db87af67bfadcee632d223d80fb5e1e904e0b8025ba47ca"
  },
  "admrul:public:2112543": {
-  "attempts": 7,
+  "attempts": 8,
   "body_stats": {
    "articles": 9,
    "chars": 869
@@ -102570,8 +102598,8 @@
   "enforcement_date": "20140101",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-18T19:42:26.830283+00:00",
-  "last_collected_at": "2026-09-18T19:42:41.926334+00:00",
+  "last_checked_at": "2026-09-26T15:18:07.830212+00:00",
+  "last_collected_at": "2026-09-26T15:18:51.048634+00:00",
   "last_error": "별표/첨부 파일 3건 다운로드 실패: 서식/서식1_대구환경공단 체육시설사용 허가신청서.hwp, 서식/서식2_체육시설사용료 감면신청서.hwp, 서식/서식3_체육시설 사용허가 대장.hwp",
   "ministry": "대구공공시설관리공단",
   "mst": "2200000088237",
@@ -102914,7 +102942,7 @@
   "version_signature": "3df2c0906c96ce8fa5b78a814b7b8890bdb42b7150b4bc44c87197686445a3b8"
  },
  "admrul:public:2118175": {
-  "attempts": 7,
+  "attempts": 8,
   "body_stats": {
    "articles": 16,
    "chars": 2116
@@ -102930,8 +102958,8 @@
   "enforcement_date": "20180901",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-18T19:42:27.431029+00:00",
-  "last_collected_at": "2026-09-18T19:43:06.038895+00:00",
+  "last_checked_at": "2026-09-26T15:18:07.749980+00:00",
+  "last_collected_at": "2026-09-26T15:18:23.389011+00:00",
   "last_error": "별표/첨부 파일 3건 다운로드 실패: 별표/별표1_삭제.hwp, 별표/별표2_채용제한연령.hwp, 별표/별표3_연봉구성표.hwp",
   "ministry": "대구공공시설관리공단",
   "mst": "2200000094967",
@@ -104066,7 +104094,7 @@
   "version_signature": "f195ba2b0c0cf0182e6113b96dd3449c2d0465c88fc7159527162a604f86883a"
  },
  "admrul:public:2118487": {
-  "attempts": 7,
+  "attempts": 8,
   "body_stats": {
    "articles": 56,
    "chars": 10876
@@ -104082,8 +104110,8 @@
   "enforcement_date": "20220602",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-18T19:42:27.491492+00:00",
-  "last_collected_at": "2026-09-18T19:42:48.093242+00:00",
+  "last_checked_at": "2026-09-26T15:18:07.833567+00:00",
+  "last_collected_at": "2026-09-26T15:18:35.637596+00:00",
   "last_error": "별표/첨부 파일 8건 다운로드 실패: 서식/서식1_사건처리대장.hwp, 서식/서식2_소송대리인허가신청.hwp, 서식/서식3_소송위임장.hwp",
   "ministry": "대구공공시설관리공단",
   "mst": "2200000104335",
@@ -164058,6 +164086,62 @@
   "status": "done",
   "version_count": 1,
   "version_signature": "d31a6404ac3158ed134cdd08035a683037b9b37e48bf57ac8475a7082a4b9fe9"
+ },
+ "admrul:public:2141951": {
+  "attempts": 0,
+  "body_stats": {
+   "articles": 21,
+   "chars": 4999
+  },
+  "collected_signature": "574843efd61c92f963a111ddb2b7f7c8865bb0414d1f9665add9636fab27f12c",
+  "content_hash": "60a67bb9901de32cc79a98f990085e38bcd5697cdaf6f71a4ae2b28e46788e6d",
+  "detail_link": "/DRF/lawService.do?OC=test&target=public&ID=2200000160541&type=HTML&mobileYn=",
+  "doc_domain": "admrul",
+  "doc_id": "2141951",
+  "doc_target": "public",
+  "doc_type": "공단규정",
+  "enforcement_date": "20260922",
+  "export_pending": null,
+  "is_active": true,
+  "last_checked_at": "2026-09-26T15:14:26.922903+00:00",
+  "last_collected_at": "2026-09-26T15:15:06.134933+00:00",
+  "ministry": "부산환경공단",
+  "mst": "2200000160541",
+  "name": "제안 및 지식관리규정",
+  "payload_law_id": "2141951",
+  "prev_name": null,
+  "promulgation_date": "20260922",
+  "status": "done",
+  "version_count": 1,
+  "version_signature": "574843efd61c92f963a111ddb2b7f7c8865bb0414d1f9665add9636fab27f12c"
+ },
+ "admrul:public:2141953": {
+  "attempts": 0,
+  "body_stats": {
+   "articles": 21,
+   "chars": 5246
+  },
+  "collected_signature": "cc0a4cc54538ac3cc844987ee5f16bb93249c8e3b043a6233d4dc4d554a9319b",
+  "content_hash": "11be2bb6986202743fa72926bde29ea77357448dc5347ae9542ad7b41d5575a5",
+  "detail_link": "/DRF/lawService.do?OC=test&target=public&ID=2200000160483&type=HTML&mobileYn=",
+  "doc_domain": "admrul",
+  "doc_id": "2141953",
+  "doc_target": "public",
+  "doc_type": "공단규정",
+  "enforcement_date": "20260922",
+  "export_pending": null,
+  "is_active": true,
+  "last_checked_at": "2026-09-26T15:14:26.191226+00:00",
+  "last_collected_at": "2026-09-26T15:14:42.429811+00:00",
+  "ministry": "부산환경공단",
+  "mst": "2200000160483",
+  "name": "지식재산권 관리규정",
+  "payload_law_id": "2141953",
+  "prev_name": null,
+  "promulgation_date": "20260922",
+  "status": "done",
+  "version_count": 1,
+  "version_signature": "cc0a4cc54538ac3cc844987ee5f16bb93249c8e3b043a6233d4dc4d554a9319b"
  },
  "admrul:school:2055606": {
   "collected_signature": "7d6a017858f040ccd61ed6ede9fad95aae1dade2878ed8f7f91ef9e039cee602",
