@@ -1,16 +1,16 @@
 {
   "law_id": "2121545",
-  "mst": "2200000123929",
+  "mst": "2200000160629",
   "law_name": "창원시설공단 회계규정",
   "law_abbr": "",
   "law_type": "공단규정",
   "doc_target": "public",
   "doc_kind": "공공기관",
   "adm_uid": "public:2121545",
-  "promulgation_no": "735",
-  "promulgation_date": "20231222",
-  "enforcement_date": "20240101",
-  "revision_date": "20231222",
+  "promulgation_no": "807",
+  "promulgation_date": "20260929",
+  "enforcement_date": "20260929",
+  "revision_date": "20260929",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
@@ -19,7 +19,7 @@
     "담당자명": "기획예산팀",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "창원시설공단 회계규정",
-    "발령일자": "20231222",
+    "발령일자": "20260929",
     "행정규칙종류": "공단규정",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,14 +27,14 @@
     "전화번호": "055-712-0042",
     "제개정구분명": "일부개정",
     "소관부처코드": "B553892",
-    "생성일자": "20240102",
+    "생성일자": "20260930",
     "행정규칙ID": "2121545",
-    "담당부서기관코드": "B553892",
-    "발령번호": "735",
-    "행정규칙일련번호": "2200000123929"
+    "담당부서기관코드": "",
+    "발령번호": "807",
+    "행정규칙일련번호": "2200000160629"
   },
-  "amendment_text": "가. 회계관계 임직원의 명칭 변경 및 결재  (안제6조/제63조)\n\n현 행\n⇒\n개 정\n경 리 관\n재 무 관\n분임경리관\n분임재무관\n나. 예산의 내용을 사업 체계로 구조화 (안제143조)\n\n현 행\n⇒\n개 정\n관·항·세항\n정책·단위·세부\n다. 예산 전용의 범위를 세항에서 단위사업으로 변경 (안제144조)",
-  "revision_reason": "가. 지방재정법 개정에 따라 회계관계 임직원의 명칭을 변경하기 위함.\n나. 지방공기업 사업별 예산제도 도입에 따른 지출예산 사업구조를 변경하여 회계업무 처리에 만전을 기하고자 함.",
+  "amendment_text": "? 계약사무 준용 규정 정비(안 제183조)\nㆍ 상위 법령 및 관계 규칙의 명칭 변경에 따른 인용조문 수정\n- (현행)「지방재정법」→(개정)「지방자치단체를 당사자로 하는 계약에 관한 법률」\n- (현행)「창원시 재무회계 규칙」→(개정)「창원시 회계관리에 관한 규칙」",
+  "revision_reason": "? 창원시 회계 자치법규의 개정사항을 반영하여 공단의 규정을 현행화하고 계약사무에 관한 준용 규정을 명확히 정비하고자 함.",
   "body": {
     "format": "articles",
     "article_count": 187,
@@ -65,9 +65,7 @@
             "source_provision_id": "SchlPubRul:창원시설공단회계규정#JO0001",
             "reference_id": "law:지방공기업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
-            "target_git_path": "지방공기업법/법률/지방공기업법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
           },
           {
             "relation_type": "citation",
@@ -96,7 +94,7 @@
         "article_title": "적용범위",
         "chapter": "제1장 총 칙",
         "chapter_path": "제1장 총 칙",
-        "content": "제2조 (적용범위) 창원시설공단(이하“공단”이라 한다)의 회계업무 처리에 관하여는 법령에서 정한 것이나 창원시 조례·정관에서 특별히 정한 사항 외에는 이 규정과 기업회계 기준에 따른다.<개정 2020. 3. 26>",
+        "content": "제2조 (적용범위) 창원시설공단(이하“공단”이라 한다)의 회계업무 처리에 관하여는 법령에서 정한 것이나 창원시 조례ㆍ정관에서 특별히 정한 사항 외에는 이 규정과 기업회계 기준에 따른다.<개정 2020. 3. 26>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -172,11 +170,7 @@
             "source_provision_id": "SchlPubRul:창원시설공단회계규정#JO0007",
             "reference_id": "SchlPubRul:창원시설공단회계규정#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json",
-            "target_git_path": "창원시설공단 회계규정/창원시설공단 회계규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json"
           }
         ],
         "images": [],
@@ -241,11 +235,7 @@
             "source_provision_id": "SchlPubRul:창원시설공단회계규정#JO0011",
             "reference_id": "SchlPubRul:창원시설공단회계규정#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json",
-            "target_git_path": "창원시설공단 회계규정/창원시설공단 회계규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json"
           }
         ],
         "images": [],
@@ -277,11 +267,7 @@
             "source_provision_id": "SchlPubRul:창원시설공단회계규정#JO0012",
             "reference_id": "SchlPubRul:창원시설공단회계규정#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json",
-            "target_git_path": "창원시설공단 회계규정/창원시설공단 회계규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json"
           },
           {
             "relation_type": "citation",
@@ -299,14 +285,9 @@
             "target_url": "https://www.law.go.kr/법령/사무 관리 규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:창원시설공단회계규정#JO0012",
-            "reference_id": "SchlPubRul:사무관리규정#DOC",
+            "reference_id": "law:사무관리규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "사무 관리 규정/법률/사무 관리 규정.json",
-            "target_git_path": "사무관리규정/public_2139481/사무관리규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관",
-            "target_candidates": 3
+            "target_git_path_guess": "사무 관리 규정/법률/사무 관리 규정.json"
           }
         ],
         "images": [],
@@ -336,14 +317,9 @@
             "target_url": "https://www.law.go.kr/법령/사무 관리 규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:창원시설공단회계규정#JO0013",
-            "reference_id": "SchlPubRul:사무관리규정#DOC",
+            "reference_id": "law:사무관리규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "사무 관리 규정/법률/사무 관리 규정.json",
-            "target_git_path": "사무관리규정/public_2139481/사무관리규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관",
-            "target_candidates": 3
+            "target_git_path_guess": "사무 관리 규정/법률/사무 관리 규정.json"
           }
         ],
         "images": [],
@@ -397,11 +373,7 @@
             "source_provision_id": "SchlPubRul:창원시설공단회계규정#JO0016",
             "reference_id": "SchlPubRul:창원시설공단회계규정#JO0014",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json",
-            "target_git_path": "창원시설공단 회계규정/창원시설공단 회계규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -421,11 +393,7 @@
             "source_provision_id": "SchlPubRul:창원시설공단회계규정#JO0016",
             "reference_id": "SchlPubRul:창원시설공단회계규정#JO0015",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json",
-            "target_git_path": "창원시설공단 회계규정/창원시설공단 회계규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json"
           }
         ],
         "images": [],
@@ -533,18 +501,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2121545",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136156719",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169796641",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:창원시설공단회계규정#JO0024",
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:창원시설공단회계규정#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json",
-            "target_git_path": "창원시설공단 회계규정/창원시설공단 회계규정.json",
-            "target_git_file_path": "창원시설공단 회계규정/별지/별지1_총계정원장.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -563,18 +526,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2121545",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136156723",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169796645",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:창원시설공단회계규정#JO0024",
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:창원시설공단회계규정#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json",
-            "target_git_path": "창원시설공단 회계규정/창원시설공단 회계규정.json",
-            "target_git_file_path": "창원시설공단 회계규정/별지/별지2_일일수입금처리내역서.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -593,18 +551,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2121545",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136156727",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169796649",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:창원시설공단회계규정#JO0024",
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:창원시설공단회계규정#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json",
-            "target_git_path": "창원시설공단 회계규정/창원시설공단 회계규정.json",
-            "target_git_file_path": "창원시설공단 회계규정/별지/별지3_자금지출기록부.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -623,18 +576,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2121545",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136156731",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169796653",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:창원시설공단회계규정#JO0024",
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:창원시설공단회계규정#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json",
-            "target_git_path": "창원시설공단 회계규정/창원시설공단 회계규정.json",
-            "target_git_file_path": "창원시설공단 회계규정/별지/별지4_대체입금표.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -653,18 +601,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2121545",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136156735",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169796657",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:창원시설공단회계규정#JO0024",
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:창원시설공단회계규정#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json",
-            "target_git_path": "창원시설공단 회계규정/창원시설공단 회계규정.json",
-            "target_git_file_path": "창원시설공단 회계규정/별지/별지6_지출예산통제원장.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -683,18 +626,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2121545",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136156739",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169796661",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:창원시설공단회계규정#JO0024",
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:창원시설공단회계규정#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json",
-            "target_git_path": "창원시설공단 회계규정/창원시설공단 회계규정.json",
-            "target_git_file_path": "창원시설공단 회계규정/별지/별지7_저장품대장.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -713,18 +651,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2121545",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136156743",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169796665",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:창원시설공단회계규정#JO0024",
             "target_unit": "BJ0008",
             "reference_id": "SchlPubRul:창원시설공단회계규정#BJ0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json",
-            "target_git_path": "창원시설공단 회계규정/창원시설공단 회계규정.json",
-            "target_git_file_path": "창원시설공단 회계규정/별지/별지8_토지대장.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -743,18 +676,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2121545",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136156747",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169796669",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:창원시설공단회계규정#JO0024",
             "target_unit": "BJ0009",
             "reference_id": "SchlPubRul:창원시설공단회계규정#BJ0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json",
-            "target_git_path": "창원시설공단 회계규정/창원시설공단 회계규정.json",
-            "target_git_file_path": "창원시설공단 회계규정/별지/별지9_건물대장.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -773,18 +701,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2121545",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136156751",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169796673",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:창원시설공단회계규정#JO0024",
             "target_unit": "BJ0010",
             "reference_id": "SchlPubRul:창원시설공단회계규정#BJ0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json",
-            "target_git_path": "창원시설공단 회계규정/창원시설공단 회계규정.json",
-            "target_git_file_path": "창원시설공단 회계규정/별지/별지10_기계장치 및 구축물 대장.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -803,18 +726,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2121545",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136156755",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169796677",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:창원시설공단회계규정#JO0024",
             "target_unit": "BJ0011",
             "reference_id": "SchlPubRul:창원시설공단회계규정#BJ0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json",
-            "target_git_path": "창원시설공단 회계규정/창원시설공단 회계규정.json",
-            "target_git_file_path": "창원시설공단 회계규정/별지/별지11_공기구 및 비품대장.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -833,18 +751,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2121545",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136156759",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169796681",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:창원시설공단회계규정#JO0024",
             "target_unit": "BJ0012",
             "reference_id": "SchlPubRul:창원시설공단회계규정#BJ0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json",
-            "target_git_path": "창원시설공단 회계규정/창원시설공단 회계규정.json",
-            "target_git_file_path": "창원시설공단 회계규정/별지/별지12_기채상환 대장.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -863,18 +776,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2121545",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136156763",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169796685",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:창원시설공단회계규정#JO0024",
             "target_unit": "BJ0013",
             "reference_id": "SchlPubRul:창원시설공단회계규정#BJ0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json",
-            "target_git_path": "창원시설공단 회계규정/창원시설공단 회계규정.json",
-            "target_git_file_path": "창원시설공단 회계규정/별지/별지13_세입세출외 현금 출납부.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json"
           }
         ],
         "images": [],
@@ -929,7 +837,7 @@
         "article_title": "장부의 이월",
         "chapter": "제2절 회계장부",
         "chapter_path": "제2장 회계장표 > 제2절 회계장부",
-        "content": "제29조 (장부의 이월) 회계년도말에 대차대조표 계정의 제잔액은 다음연도의 1월 1일로 신장부에 이월하되, 미결산계정에 관하여는 그 명세를 이기하여야 한다. 다만, 그 양이 많을 경우에는 일괄하여 이월하고, 신·구장부를 같이 비치하여야 한다.",
+        "content": "제29조 (장부의 이월) 회계년도말에 대차대조표 계정의 제잔액은 다음연도의 1월 1일로 신장부에 이월하되, 미결산계정에 관하여는 그 명세를 이기하여야 한다. 다만, 그 양이 많을 경우에는 일괄하여 이월하고, 신ㆍ구장부를 같이 비치하여야 한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -1072,7 +980,7 @@
         "article_title": "수입의 결정",
         "chapter": "제1절 통 칙",
         "chapter_path": "제3장 금전회계 > 제1절 통 칙",
-        "content": "제42조 (수입의 결정)   ① 수입금을 징수(수입)결정하고자 할 때에는 징수(수입)결의서에 의하여야 하며, 납입고지서 등에 의하여 수납한다.<개정 2016. 3. 29>② 제1항의 납입고지서 등은 따로 정한 것을 제외하고는 다음 각호의 1에 따라 사용한다.1. 납입고지서가. 계약에 의한 수입나. 위약금, 해약금, 손해배상금 등2. 납부서가. 사업장 입장료, 수수료, 사용료, 주차료 등 수입나. 반납금, 이자수입다. 제1호에 해당하지 않는 경우의 수입③ 제2항제2호에 의한 수입금은 징수자(납부자)가 납부한다. 이 때 징수된 수입금은 익일 오전(공휴일인 경우 그 익일)까지 공단에서 지정한 금융기관에 불입하여야 한다.④ 법령·계약 또는 기타의 사유로 제1항에 규정된 사전 징수 결정이 곤란한 경우에는 금융기관으로 부터 송부된 영수필통지서 또는 기타 수납증빙서류를 근거로 하여 사후(수납후) 징수결정을 할 수 있다.",
+        "content": "제42조 (수입의 결정)   ① 수입금을 징수(수입)결정하고자 할 때에는 징수(수입)결의서에 의하여야 하며, 납입고지서 등에 의하여 수납한다.<개정 2016. 3. 29>② 제1항의 납입고지서 등은 따로 정한 것을 제외하고는 다음 각호의 1에 따라 사용한다.1. 납입고지서가. 계약에 의한 수입나. 위약금, 해약금, 손해배상금 등2. 납부서가. 사업장 입장료, 수수료, 사용료, 주차료 등 수입나. 반납금, 이자수입다. 제1호에 해당하지 않는 경우의 수입③ 제2항제2호에 의한 수입금은 징수자(납부자)가 납부한다. 이 때 징수된 수입금은 익일 오전(공휴일인 경우 그 익일)까지 공단에서 지정한 금융기관에 불입하여야 한다.④ 법령ㆍ계약 또는 기타의 사유로 제1항에 규정된 사전 징수 결정이 곤란한 경우에는 금융기관으로 부터 송부된 영수필통지서 또는 기타 수납증빙서류를 근거로 하여 사후(수납후) 징수결정을 할 수 있다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -1126,11 +1034,7 @@
             "source_provision_id": "SchlPubRul:창원시설공단회계규정#JO0045",
             "reference_id": "SchlPubRul:창원시설공단회계규정#JO0043",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json",
-            "target_git_path": "창원시설공단 회계규정/창원시설공단 회계규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1150,11 +1054,7 @@
             "source_provision_id": "SchlPubRul:창원시설공단회계규정#JO0045",
             "reference_id": "SchlPubRul:창원시설공단회계규정#JO0049",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json",
-            "target_git_path": "창원시설공단 회계규정/창원시설공단 회계규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json"
           }
         ],
         "images": [],
@@ -1283,10 +1183,10 @@
       },
       {
         "article_no": "제57조",
-        "article_title": "지출품의·요구서 작성",
+        "article_title": "지출품의ㆍ요구서 작성",
         "chapter": "제3절 지 출",
         "chapter_path": "제3장 금전회계 > 제3절 지 출",
-        "content": "제57조 (지출품의·요구서 작성) 지출원인 행위를 할 때에는 지출 품의·요구서를 작성하여야 한다. 다만, 계약 등 지출 품의·요구서에 의하기 곤란한 경우에는 내부 결재문서로써 이에 갈음할 수 있다.",
+        "content": "제57조 (지출품의ㆍ요구서 작성) 지출원인 행위를 할 때에는 지출 품의ㆍ요구서를 작성하여야 한다. 다만, 계약 등 지출 품의ㆍ요구서에 의하기 곤란한 경우에는 내부 결재문서로써 이에 갈음할 수 있다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -1352,7 +1252,7 @@
         "article_title": "지출결의서 작성",
         "chapter": "제3절 지 출",
         "chapter_path": "제3장 금전회계 > 제3절 지 출",
-        "content": "제63조 (지출결의서 작성)   ① 지출결의서는 지출원인행위 관계 증빙서류에 의하여 작성하여 재무관 또는 분임재무관·일상경비 출납원의 결재를 얻어야 한다.<개정 2023. 12. 22>② 일상경비, 개산급에 대한 정산급, 선금급 등에 관하여는 그 뜻을 지출결의서의 적요 또는 기타 여백에 표시하여야 한다.<개정 2021. 2. 22>③ 단일 지출원인행위에 대하여 2이상의 과목에서 또는 2회이상 분할 지출할 때에는 최초의 지출결의서에 지출원인행위관계 증빙서류를 붙이고 다른 지출결의서에는 그 뜻을 기재하여 연관 내용을 명백히 하여야 한다.④ 2인이상의 채권자에 대하여 지급하는 경우, 계정과목과 지급기일이 통일한 때에는 병합하여 1매의 지출결의서를 작성할 수 있다. 이 경우에는 채권자마다 그 지급액을 명백히 한 문서를 첨부하여야 한다.",
+        "content": "제63조 (지출결의서 작성)   ① 지출결의서는 지출원인행위 관계 증빙서류에 의하여 작성하여 재무관 또는 분임재무관ㆍ일상경비 출납원의 결재를 얻어야 한다.<개정 2023. 12. 22>② 일상경비, 개산급에 대한 정산급, 선금급 등에 관하여는 그 뜻을 지출결의서의 적요 또는 기타 여백에 표시하여야 한다.<개정 2021. 2. 22>③ 단일 지출원인행위에 대하여 2이상의 과목에서 또는 2회이상 분할 지출할 때에는 최초의 지출결의서에 지출원인행위관계 증빙서류를 붙이고 다른 지출결의서에는 그 뜻을 기재하여 연관 내용을 명백히 하여야 한다.④ 2인이상의 채권자에 대하여 지급하는 경우, 계정과목과 지급기일이 통일한 때에는 병합하여 1매의 지출결의서를 작성할 수 있다. 이 경우에는 채권자마다 그 지급액을 명백히 한 문서를 첨부하여야 한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -1406,11 +1306,7 @@
             "source_provision_id": "SchlPubRul:창원시설공단회계규정#JO0063_04",
             "reference_id": "SchlPubRul:창원시설공단회계규정#JO0063",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json",
-            "target_git_path": "창원시설공단 회계규정/창원시설공단 회계규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json"
           }
         ],
         "images": [],
@@ -1640,11 +1536,7 @@
             "source_provision_id": "SchlPubRul:창원시설공단회계규정#JO0082",
             "reference_id": "SchlPubRul:창원시설공단회계규정#JO0048",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json",
-            "target_git_path": "창원시설공단 회계규정/창원시설공단 회계규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json"
           }
         ],
         "images": [],
@@ -1687,11 +1579,7 @@
             "source_provision_id": "SchlPubRul:창원시설공단회계규정#JO0084",
             "reference_id": "SchlPubRul:창원시설공단회계규정#JO0083",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json",
-            "target_git_path": "창원시설공단 회계규정/창원시설공단 회계규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json"
           }
         ],
         "images": [],
@@ -1734,11 +1622,7 @@
             "source_provision_id": "SchlPubRul:창원시설공단회계규정#JO0086",
             "reference_id": "SchlPubRul:창원시설공단회계규정#JO0083",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json",
-            "target_git_path": "창원시설공단 회계규정/창원시설공단 회계규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1758,11 +1642,7 @@
             "source_provision_id": "SchlPubRul:창원시설공단회계규정#JO0086",
             "reference_id": "SchlPubRul:창원시설공단회계규정#JO0084",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json",
-            "target_git_path": "창원시설공단 회계규정/창원시설공단 회계규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1782,11 +1662,7 @@
             "source_provision_id": "SchlPubRul:창원시설공단회계규정#JO0086",
             "reference_id": "SchlPubRul:창원시설공단회계규정#JO0085",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json",
-            "target_git_path": "창원시설공단 회계규정/창원시설공단 회계규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json"
           }
         ],
         "images": [],
@@ -1797,7 +1673,7 @@
         "article_title": "설치계약",
         "chapter": "제6절 지정금융기관",
         "chapter_path": "제3장 금전회계 > 제6절 지정금융기관",
-        "content": "제87조 (설치계약) 이사장이 제39조의 규정에 의하여 지정 금융기관 설치계약을 체결할 경우에는 공단이사장과 지정금융기관의 장이 계약서를 작성하되, 다음 각호의 사항이 포함되어야 한다.1. 지정금융기관의 취급업무 범위2. 지정금융기관내의 다수 영업점을 이용할 경우의 영업점 지정 및 영업점별 취급업무3. 선량한 관리자로서의 주의 의무 및 고의·과실에 의한 손해배상 책임4. 지정금융기관 업무에 대한 검사5. 공단회계 관련 규정 준수의무6. 계약해지·변경 및 계약기간에 관한 사항",
+        "content": "제87조 (설치계약) 이사장이 제39조의 규정에 의하여 지정 금융기관 설치계약을 체결할 경우에는 공단이사장과 지정금융기관의 장이 계약서를 작성하되, 다음 각호의 사항이 포함되어야 한다.1. 지정금융기관의 취급업무 범위2. 지정금융기관내의 다수 영업점을 이용할 경우의 영업점 지정 및 영업점별 취급업무3. 선량한 관리자로서의 주의 의무 및 고의ㆍ과실에 의한 손해배상 책임4. 지정금융기관 업무에 대한 검사5. 공단회계 관련 규정 준수의무6. 계약해지ㆍ변경 및 계약기간에 관한 사항",
         "enforcement_date": "",
         "relations": [
           {
@@ -1818,11 +1694,7 @@
             "source_provision_id": "SchlPubRul:창원시설공단회계규정#JO0087",
             "reference_id": "SchlPubRul:창원시설공단회계규정#JO0039",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json",
-            "target_git_path": "창원시설공단 회계규정/창원시설공단 회계규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json"
           }
         ],
         "images": [],
@@ -1954,7 +1826,7 @@
         "article_title": "지정금융기관에 대한 감독 및 검사",
         "chapter": "제6절 지정금융기관",
         "chapter_path": "제3장 금전회계 > 제6절 지정금융기관",
-        "content": "제99조 (지정금융기관에 대한 감독 및 검사)   ① 이사장은 지정금융기관에 대한 검사계획을 수립하여 년 1회이상 정기검사를 실시하고 필요할 경우 수시로 검사를 실시할 수 있으며 그 결과에 대해 필요한 조치를 취하여야 한다.② 지정금융기관은 공단의 검사에 대해 협조하여야 하며, 검사 결과 시정·보완·변상등이 필요할 경우 이를 성실히 이행하여야 한다.③ 이사장은 지정금융기관 검사시 수입 지출등에 관련된 부서의 직원을 검사원으로 지정할 수 있다.",
+        "content": "제99조 (지정금융기관에 대한 감독 및 검사)   ① 이사장은 지정금융기관에 대한 검사계획을 수립하여 년 1회이상 정기검사를 실시하고 필요할 경우 수시로 검사를 실시할 수 있으며 그 결과에 대해 필요한 조치를 취하여야 한다.② 지정금융기관은 공단의 검사에 대해 협조하여야 하며, 검사 결과 시정ㆍ보완ㆍ변상등이 필요할 경우 이를 성실히 이행하여야 한다.③ 이사장은 지정금융기관 검사시 수입 지출등에 관련된 부서의 직원을 검사원으로 지정할 수 있다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -2030,11 +1902,7 @@
             "source_provision_id": "SchlPubRul:창원시설공단회계규정#JO0104",
             "reference_id": "SchlPubRul:창원시설공단회계규정#JO0103",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json",
-            "target_git_path": "창원시설공단 회계규정/창원시설공단 회계규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "창원시설공단 회계규정/창원시설공단 회계규정.json"
           }
         ],
         "images": [],
@@ -2682,9 +2550,7 @@
             "source_provision_id": "SchlPubRul:창원시설공단회계규정#JO0161",
             "reference_id": "law:지방공기업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
-            "target_git_path": "지방공기업법/법률/지방공기업법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
           }
         ],
         "images": [],
@@ -2783,7 +2649,7 @@
         "article_title": "경영분석",
         "chapter": "제9장 경 영 분 석",
         "chapter_path": "제9장 경 영 분 석",
-        "content": "제170조 (경영분석)   ① 이사장은 경영활동을 계속적으로 파악하여 경영계획, 경영통제, 경영의사 결정에 필요한 자료를 얻기 위하여 공단의 경영상태를 분석·검토하여야 한다.② 경영분석 및 조사통계는 계속성과 비교성을 유지하여야 하며 자료의 유용성과 경제성을 확보하여야 한다.",
+        "content": "제170조 (경영분석)   ① 이사장은 경영활동을 계속적으로 파악하여 경영계획, 경영통제, 경영의사 결정에 필요한 자료를 얻기 위하여 공단의 경영상태를 분석ㆍ검토하여야 한다.② 경영분석 및 조사통계는 계속성과 비교성을 유지하여야 하며 자료의 유용성과 경제성을 확보하여야 한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -2805,7 +2671,7 @@
         "article_title": "재정상태의 분석",
         "chapter": "제9장 경 영 분 석",
         "chapter_path": "제9장 경 영 분 석",
-        "content": "제172조 (재정상태의 분석)   ① 재정상태의 분석은 재무제표를 주된 자료로 기업의 안전성, 수익성, 활동성, 생산성 등을 분석·검토한다.② 재무제표를 비교·분석함에 있어서는 기간비교와 상호비교를 병행한다.",
+        "content": "제172조 (재정상태의 분석)   ① 재정상태의 분석은 재무제표를 주된 자료로 기업의 안전성, 수익성, 활동성, 생산성 등을 분석ㆍ검토한다.② 재무제표를 비교ㆍ분석함에 있어서는 기간비교와 상호비교를 병행한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -2926,7 +2792,7 @@
         "article_title": "준용",
         "chapter": "제11장 계 약",
         "chapter_path": "제11장 계 약",
-        "content": "제183조 (준용) 공단의 계약 사무에 관하여는 「지방공기업법」에 특별히 정한 것을 제외하고는 「지방재정법」,「창원시 재무회계 규칙」을 준용한다.<개정 2020. 3. 26>",
+        "content": "제183조 (준용) 공단의 계약 사무에 관하여는 「지방공기업법」에 특별히 정한 것을 제외하고는 「지방자치단체를 당사자로 하는 계약에 관한 법률」,「창원시 회계관리에 관한 규칙」을 준용한다.<개정 2020. 3. 26>, <개정 2026. 9. 29>",
         "enforcement_date": "",
         "relations": [
           {
@@ -2947,9 +2813,7 @@
             "source_provision_id": "SchlPubRul:창원시설공단회계규정#JO0183",
             "reference_id": "law:지방공기업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
-            "target_git_path": "지방공기업법/법률/지방공기업법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
           },
           {
             "relation_type": "citation",
@@ -2957,21 +2821,19 @@
             "target_category": "법령",
             "source_article_no": "제183조",
             "source_clause": "제183조",
-            "link_text": "「지방재정법」",
+            "link_text": "「지방자치단체를 당사자로 하는 계약에 관한 법률」",
             "line_text": "",
-            "target_law_name": "지방재정법",
+            "target_law_name": "지방자치단체를 당사자로 하는 계약에 관한 법률",
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "2121545",
-            "target_url": "https://www.law.go.kr/법령/지방재정법",
+            "target_url": "https://www.law.go.kr/법령/지방자치단체를 당사자로 하는 계약에 관한 법률",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:창원시설공단회계규정#JO0183",
-            "reference_id": "law:지방재정법#DOC",
+            "reference_id": "law:지방자치단체를당사자로하는계약에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방재정법/법률/지방재정법.json",
-            "target_git_path": "지방재정법/법률/지방재정법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "지방자치단체를 당사자로 하는 계약에 관한 법률/법률/지방자치단체를 당사자로 하는 계약에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -2979,19 +2841,19 @@
             "target_category": "학칙공단",
             "source_article_no": "제183조",
             "source_clause": "제183조",
-            "link_text": "「창원시 재무회계 규칙」",
+            "link_text": "「창원시 회계관리에 관한 규칙」",
             "line_text": "",
-            "target_law_name": "창원시 재무회계 규칙",
+            "target_law_name": "창원시 회계관리에 관한 규칙",
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "2121545",
-            "target_url": "https://www.law.go.kr/학칙공단/창원시 재무회계 규칙",
+            "target_url": "https://www.law.go.kr/학칙공단/창원시 회계관리에 관한 규칙",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:창원시설공단회계규정#JO0183",
-            "reference_id": "SchlPubRul:창원시재무회계규칙#DOC",
+            "reference_id": "SchlPubRul:창원시회계관리에관한규칙#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "창원시 재무회계 규칙/창원시 재무회계 규칙.json"
+            "target_git_path_guess": "창원시 회계관리에 관한 규칙/창원시 회계관리에 관한 규칙.json"
           }
         ],
         "images": [],
@@ -3017,10 +2879,10 @@
       "content": "부칙 <제4호,2000.1.1>제1조 (시행일) 이 규정은 공단설립일부터 적용한다.제2조 (경과조치) 이 규정 시행전에 행하여진 모두 회계집행은 이 규정에 의한 것으로 본다.",
       "provision_id": "SchlPubRul:창원시설공단회계규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000123929",
+      "source_mst": "2200000160629",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20240101"
+      "version_enforcement_date": "20260929"
     },
     {
       "promulgation_date": "20010129",
@@ -3028,10 +2890,10 @@
       "content": "부칙 <제39호,2001.1.29>이 규정은 승인일로부터 시행한다.",
       "provision_id": "SchlPubRul:창원시설공단회계규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000123929",
+      "source_mst": "2200000160629",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20240101"
+      "version_enforcement_date": "20260929"
     },
     {
       "promulgation_date": "20021011",
@@ -3039,10 +2901,10 @@
       "content": "부칙 <제65호,2002.10.11>이 규정은 승인일로부터 시행한다.",
       "provision_id": "SchlPubRul:창원시설공단회계규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000123929",
+      "source_mst": "2200000160629",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20240101"
+      "version_enforcement_date": "20260929"
     },
     {
       "promulgation_date": "20021230",
@@ -3050,10 +2912,10 @@
       "content": "부칙 <제65호,2002.12.30>이 규정은 2003년 1월 1일부터 시행한다.",
       "provision_id": "SchlPubRul:창원시설공단회계규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000123929",
+      "source_mst": "2200000160629",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20240101"
+      "version_enforcement_date": "20260929"
     },
     {
       "promulgation_date": "20040429",
@@ -3061,10 +2923,10 @@
       "content": "부칙 <제101호,2004.4.29>이 규정은 2004년 5월 1일부터 시행한다.",
       "provision_id": "SchlPubRul:창원시설공단회계규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000123929",
+      "source_mst": "2200000160629",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20240101"
+      "version_enforcement_date": "20260929"
     },
     {
       "promulgation_date": "20040924",
@@ -3072,10 +2934,10 @@
       "content": "부칙 <제115호,2004.9.24>이 규정은 승인일로부터 시행하되, 제6조제1항 제9호 내지 제11호 규정의 회계관직 시행은 2005년 1월 1일부터 한다.",
       "provision_id": "SchlPubRul:창원시설공단회계규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000123929",
+      "source_mst": "2200000160629",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20240101"
+      "version_enforcement_date": "20260929"
     },
     {
       "promulgation_date": "20050825",
@@ -3083,10 +2945,10 @@
       "content": "부칙 <제155호,2005.8.25>이 규정은 승인일로부터 시행한다.",
       "provision_id": "SchlPubRul:창원시설공단회계규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000123929",
+      "source_mst": "2200000160629",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20240101"
+      "version_enforcement_date": "20260929"
     },
     {
       "promulgation_date": "20060206",
@@ -3094,10 +2956,10 @@
       "content": "부칙 <제170호,2006.2.6>이 규정은 승인일로부터 시행한다.",
       "provision_id": "SchlPubRul:창원시설공단회계규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000123929",
+      "source_mst": "2200000160629",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20240101"
+      "version_enforcement_date": "20260929"
     },
     {
       "promulgation_date": "20060327",
@@ -3105,10 +2967,10 @@
       "content": "부칙 <제185호,2006.3.27>이 규정은 2006년 4월 1일부터 시행한다.",
       "provision_id": "SchlPubRul:창원시설공단회계규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000123929",
+      "source_mst": "2200000160629",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20240101"
+      "version_enforcement_date": "20260929"
     },
     {
       "promulgation_date": "20091119",
@@ -3116,10 +2978,10 @@
       "content": "부칙 <제265호,2009.11.19>이 규정은 승인일로부터 시행한다.",
       "provision_id": "SchlPubRul:창원시설공단회계규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000123929",
+      "source_mst": "2200000160629",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20240101"
+      "version_enforcement_date": "20260929"
     },
     {
       "promulgation_date": "20110121",
@@ -3127,10 +2989,10 @@
       "content": "부칙 <제302호,2011.1.21>이 규정은 승인일로부터 시행한다.",
       "provision_id": "SchlPubRul:창원시설공단회계규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000123929",
+      "source_mst": "2200000160629",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20240101"
+      "version_enforcement_date": "20260929"
     },
     {
       "promulgation_date": "20120102",
@@ -3138,10 +3000,10 @@
       "content": "부칙 <제326호,2012.1.2>이 규정은 승인일로부터 시행한다.",
       "provision_id": "SchlPubRul:창원시설공단회계규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000123929",
+      "source_mst": "2200000160629",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20240101"
+      "version_enforcement_date": "20260929"
     },
     {
       "promulgation_date": "20120627",
@@ -3149,10 +3011,10 @@
       "content": "부칙 <제340호,2012.6.27>이 규정은 승인일로부터 시행한다.",
       "provision_id": "SchlPubRul:창원시설공단회계규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000123929",
+      "source_mst": "2200000160629",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20240101"
+      "version_enforcement_date": "20260929"
     },
     {
       "promulgation_date": "20121227",
@@ -3160,10 +3022,10 @@
       "content": "부칙 <제361호,2012.12.27>이 규정은 승인일로부터 시행한다.",
       "provision_id": "SchlPubRul:창원시설공단회계규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000123929",
+      "source_mst": "2200000160629",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20240101"
+      "version_enforcement_date": "20260929"
     },
     {
       "promulgation_date": "20150305",
@@ -3171,10 +3033,10 @@
       "content": "부칙 <제415호,2015.3.5>이 규정은 승인일로부터 시행한다.",
       "provision_id": "SchlPubRul:창원시설공단회계규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000123929",
+      "source_mst": "2200000160629",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20240101"
+      "version_enforcement_date": "20260929"
     },
     {
       "promulgation_date": "20160329",
@@ -3182,10 +3044,10 @@
       "content": "부칙 <제441호,2016.3.29>이 규정은 승인일로부터 시행한다.",
       "provision_id": "SchlPubRul:창원시설공단회계규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000123929",
+      "source_mst": "2200000160629",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20240101"
+      "version_enforcement_date": "20260929"
     },
     {
       "promulgation_date": "20161229",
@@ -3193,10 +3055,10 @@
       "content": "부칙 <제465호,2016.12.29>이 규정은 승인일로부터 시행한다.",
       "provision_id": "SchlPubRul:창원시설공단회계규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000123929",
+      "source_mst": "2200000160629",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20240101"
+      "version_enforcement_date": "20260929"
     },
     {
       "promulgation_date": "20170324",
@@ -3204,10 +3066,10 @@
       "content": "부칙 <제481호,2017.3.24>이 규정은 승인일로부터 시행한다.",
       "provision_id": "SchlPubRul:창원시설공단회계규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000123929",
+      "source_mst": "2200000160629",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20240101"
+      "version_enforcement_date": "20260929"
     },
     {
       "promulgation_date": "20171221",
@@ -3215,10 +3077,10 @@
       "content": "부칙 <제495호,2017.12.21>이 규정은 승인일로부터 시행한다.",
       "provision_id": "SchlPubRul:창원시설공단회계규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000123929",
+      "source_mst": "2200000160629",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20240101"
+      "version_enforcement_date": "20260929"
     },
     {
       "promulgation_date": "20180104",
@@ -3226,10 +3088,10 @@
       "content": "부칙 <제518호,2018.1.4>이 규정은 승인일로부터 시행한다.",
       "provision_id": "SchlPubRul:창원시설공단회계규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000123929",
+      "source_mst": "2200000160629",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20240101"
+      "version_enforcement_date": "20260929"
     },
     {
       "promulgation_date": "20191226",
@@ -3237,10 +3099,10 @@
       "content": "부칙 <제591호,2019.12.26>이 규정은 승인일로부터 시행한다.",
       "provision_id": "SchlPubRul:창원시설공단회계규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000123929",
+      "source_mst": "2200000160629",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20240101"
+      "version_enforcement_date": "20260929"
     },
     {
       "promulgation_date": "20200326",
@@ -3248,10 +3110,10 @@
       "content": "부칙 <제614호,2020.3.26>이 규정은 승인일로부터 시행한다.",
       "provision_id": "SchlPubRul:창원시설공단회계규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000123929",
+      "source_mst": "2200000160629",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20240101"
+      "version_enforcement_date": "20260929"
     },
     {
       "promulgation_date": "20210222",
@@ -3259,10 +3121,10 @@
       "content": "부칙 <제636호,2021.2.22>이 규정은 승인일로부터 시행한다.",
       "provision_id": "SchlPubRul:창원시설공단회계규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000123929",
+      "source_mst": "2200000160629",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20240101"
+      "version_enforcement_date": "20260929"
     },
     {
       "promulgation_date": "20221013",
@@ -3270,10 +3132,10 @@
       "content": "부칙 <제686호,2022.10.13>이 규정은 승인일로부터 시행한다.",
       "provision_id": "SchlPubRul:창원시설공단회계규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000123929",
+      "source_mst": "2200000160629",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20240101"
+      "version_enforcement_date": "20260929"
     },
     {
       "promulgation_date": "20231222",
@@ -3281,10 +3143,21 @@
       "content": "부칙 <제735호,2023.12.22>이 규정은 2024년 1월 1일부터 시행한다.",
       "provision_id": "SchlPubRul:창원시설공단회계규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000123929",
+      "source_mst": "2200000160629",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20240101"
+      "version_enforcement_date": "20260929"
+    },
+    {
+      "promulgation_date": "20260929",
+      "promulgation_no": "00807",
+      "content": "부칙 <제807호,2026.9.29>이 규정은 승인일로부터 시행한다.",
+      "provision_id": "SchlPubRul:창원시설공단회계규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000160629",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260929"
     }
   ],
   "appendices": [
@@ -3297,11 +3170,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136156719",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169796641",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136156719",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169796641",
           "name": "",
           "file_store_url": ""
         }
@@ -3322,11 +3195,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136156723",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169796645",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136156723",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169796645",
           "name": "",
           "file_store_url": ""
         }
@@ -3347,11 +3220,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136156727",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169796649",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136156727",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169796649",
           "name": "",
           "file_store_url": ""
         }
@@ -3372,11 +3245,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136156731",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169796653",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136156731",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169796653",
           "name": "",
           "file_store_url": ""
         }
@@ -3397,11 +3270,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136156735",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169796657",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136156735",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169796657",
           "name": "",
           "file_store_url": ""
         }
@@ -3422,11 +3295,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136156739",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169796661",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136156739",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169796661",
           "name": "",
           "file_store_url": ""
         }
@@ -3447,11 +3320,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136156743",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169796665",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136156743",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169796665",
           "name": "",
           "file_store_url": ""
         }
@@ -3472,11 +3345,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136156747",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169796669",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136156747",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169796669",
           "name": "",
           "file_store_url": ""
         }
@@ -3497,11 +3370,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136156751",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169796673",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136156751",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169796673",
           "name": "",
           "file_store_url": ""
         }
@@ -3522,11 +3395,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136156755",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169796677",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136156755",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169796677",
           "name": "",
           "file_store_url": ""
         }
@@ -3547,11 +3420,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136156759",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169796681",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136156759",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169796681",
           "name": "",
           "file_store_url": ""
         }
@@ -3572,11 +3445,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136156763",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169796685",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136156763",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169796685",
           "name": "",
           "file_store_url": ""
         }
@@ -3597,11 +3470,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136156767",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169796689",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136156767",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169796689",
           "name": "",
           "file_store_url": ""
         }
@@ -3622,11 +3495,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136156771",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169796693",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136156771",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169796693",
           "name": "",
           "file_store_url": ""
         }
@@ -3647,11 +3520,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136156775",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169796697",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136156775",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169796697",
           "name": "",
           "file_store_url": ""
         }
@@ -3672,11 +3545,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136156779",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169796701",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136156779",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169796701",
           "name": "",
           "file_store_url": ""
         }
@@ -3697,11 +3570,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136156783",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169796705",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136156783",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169796705",
           "name": "",
           "file_store_url": ""
         }
@@ -3722,11 +3595,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136156787",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169796709",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136156787",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169796709",
           "name": "",
           "file_store_url": ""
         }
@@ -3747,11 +3620,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136156791",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169796713",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136156791",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169796713",
           "name": "",
           "file_store_url": ""
         }
@@ -3772,11 +3645,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136156797",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169796719",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136156797",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169796719",
           "name": "",
           "file_store_url": ""
         }
@@ -3797,11 +3670,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136156801",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169796723",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136156801",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169796723",
           "name": "",
           "file_store_url": ""
         }
@@ -3822,11 +3695,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136156805",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169796727",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136156805",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169796727",
           "name": "",
           "file_store_url": ""
         }
@@ -3847,11 +3720,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136156809",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169796731",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136156809",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169796731",
           "name": "",
           "file_store_url": ""
         }
@@ -3872,11 +3745,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136156813",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169796735",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136156813",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169796735",
           "name": "",
           "file_store_url": ""
         }
@@ -3897,11 +3770,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136156817",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169796739",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136156817",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169796739",
           "name": "",
           "file_store_url": ""
         }
@@ -3933,7 +3806,7 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 25,
+    "addenda_count": 26,
     "appendices_count": 25,
     "attachments_count": 0
   },
