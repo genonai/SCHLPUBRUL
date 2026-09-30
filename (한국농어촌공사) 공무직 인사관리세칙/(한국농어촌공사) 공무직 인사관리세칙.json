@@ -27,7 +27,7 @@
     "전화번호": "061-338-5179",
     "제개정구분명": "일부개정",
     "소관부처코드": "B552149",
-    "생성일자": "20261002",
+    "생성일자": "20261012",
     "행정규칙ID": "2114263",
     "담당부서기관코드": "",
     "발령번호": "9999",
@@ -63,44 +63,9 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)공무직인사관리세칙#JO0001",
-            "reference_id": "SchlPubRul:인사규정:public_2130247#DOC",
+            "reference_id": "SchlPubRul:인사규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json",
-            "target_candidates": 4,
-            "target_candidate_paths": [
-              {
-                "git_path": "인사규정/public_2127985/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2127985#DOC",
-                "is_current": true,
-                "enforcement_date": "20230310"
-              },
-              {
-                "git_path": "인사규정/public_2128323/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2128323#DOC",
-                "is_current": true,
-                "enforcement_date": "20250109"
-              },
-              {
-                "git_path": "인사규정/public_2130247/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2130247#DOC",
-                "is_current": true,
-                "enforcement_date": "20260818"
-              },
-              {
-                "git_path": "인사규정/public_2141221/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2141221#DOC",
-                "is_current": true,
-                "enforcement_date": "20260805"
-              }
-            ],
-            "target_git_path": "인사규정/public_2130247/인사규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "인사규정/인사규정.json"
           },
           {
             "relation_type": "citation",
@@ -118,44 +83,9 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정/제3조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)공무직인사관리세칙#JO0001",
-            "reference_id": "SchlPubRul:인사규정:public_2130247#JO0003",
+            "reference_id": "SchlPubRul:인사규정#JO0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json",
-            "target_candidates": 4,
-            "target_candidate_paths": [
-              {
-                "git_path": "인사규정/public_2127985/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2127985#JO0003",
-                "is_current": true,
-                "enforcement_date": "20230310"
-              },
-              {
-                "git_path": "인사규정/public_2128323/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2128323#JO0003",
-                "is_current": true,
-                "enforcement_date": "20250109"
-              },
-              {
-                "git_path": "인사규정/public_2130247/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2130247#JO0003",
-                "is_current": true,
-                "enforcement_date": "20260818"
-              },
-              {
-                "git_path": "인사규정/public_2141221/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2141221#JO0003",
-                "is_current": true,
-                "enforcement_date": "20260805"
-              }
-            ],
-            "target_git_path": "인사규정/public_2130247/인사규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "인사규정/인사규정.json"
           }
         ],
         "images": [],
@@ -214,12 +144,7 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(한국농어촌공사)공무직인사관리세칙#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국농어촌공사) 공무직 인사관리세칙/(한국농어촌공사) 공무직 인사관리세칙.json",
-            "target_git_path": "(한국농어촌공사) 공무직 인사관리세칙/(한국농어촌공사) 공무직 인사관리세칙.json",
-            "target_git_file_path": "(한국농어촌공사) 공무직 인사관리세칙/별표/별표1_공무직의 직군·직렬·직무·직명표(제4조 관련).hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국농어촌공사) 공무직 인사관리세칙/(한국농어촌공사) 공무직 인사관리세칙.json"
           }
         ],
         "images": [],
@@ -283,18 +208,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2114263",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169991891",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170412211",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)공무직인사관리세칙#JO0008",
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(한국농어촌공사)공무직인사관리세칙#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국농어촌공사) 공무직 인사관리세칙/(한국농어촌공사) 공무직 인사관리세칙.json",
-            "target_git_path": "(한국농어촌공사) 공무직 인사관리세칙/(한국농어촌공사) 공무직 인사관리세칙.json",
-            "target_git_file_path": "(한국농어촌공사) 공무직 인사관리세칙/별지/별지1_공무직 채용 승인 요청서(제8조제2항 관련).hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국농어촌공사) 공무직 인사관리세칙/(한국농어촌공사) 공무직 인사관리세칙.json"
           }
         ],
         "images": [],
@@ -324,44 +244,9 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)공무직인사관리세칙#JO0009",
-            "reference_id": "SchlPubRul:인사규정:public_2130247#DOC",
+            "reference_id": "SchlPubRul:인사규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json",
-            "target_candidates": 4,
-            "target_candidate_paths": [
-              {
-                "git_path": "인사규정/public_2127985/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2127985#DOC",
-                "is_current": true,
-                "enforcement_date": "20230310"
-              },
-              {
-                "git_path": "인사규정/public_2128323/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2128323#DOC",
-                "is_current": true,
-                "enforcement_date": "20250109"
-              },
-              {
-                "git_path": "인사규정/public_2130247/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2130247#DOC",
-                "is_current": true,
-                "enforcement_date": "20260818"
-              },
-              {
-                "git_path": "인사규정/public_2141221/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2141221#DOC",
-                "is_current": true,
-                "enforcement_date": "20260805"
-              }
-            ],
-            "target_git_path": "인사규정/public_2130247/인사규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "인사규정/인사규정.json"
           },
           {
             "relation_type": "citation",
@@ -379,44 +264,9 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정/제7조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)공무직인사관리세칙#JO0009",
-            "reference_id": "SchlPubRul:인사규정:public_2130247#JO0007",
+            "reference_id": "SchlPubRul:인사규정#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json",
-            "target_candidates": 4,
-            "target_candidate_paths": [
-              {
-                "git_path": "인사규정/public_2127985/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2127985#JO0007",
-                "is_current": true,
-                "enforcement_date": "20230310"
-              },
-              {
-                "git_path": "인사규정/public_2128323/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2128323#JO0007",
-                "is_current": true,
-                "enforcement_date": "20250109"
-              },
-              {
-                "git_path": "인사규정/public_2130247/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2130247#JO0007",
-                "is_current": true,
-                "enforcement_date": "20260818"
-              },
-              {
-                "git_path": "인사규정/public_2141221/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2141221#JO0007",
-                "is_current": true,
-                "enforcement_date": "20260805"
-              }
-            ],
-            "target_git_path": "인사규정/public_2130247/인사규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "인사규정/인사규정.json"
           },
           {
             "relation_type": "citation",
@@ -434,44 +284,9 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)공무직인사관리세칙#JO0009",
-            "reference_id": "SchlPubRul:인사규정:public_2130247#DOC",
+            "reference_id": "SchlPubRul:인사규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json",
-            "target_candidates": 4,
-            "target_candidate_paths": [
-              {
-                "git_path": "인사규정/public_2127985/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2127985#DOC",
-                "is_current": true,
-                "enforcement_date": "20230310"
-              },
-              {
-                "git_path": "인사규정/public_2128323/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2128323#DOC",
-                "is_current": true,
-                "enforcement_date": "20250109"
-              },
-              {
-                "git_path": "인사규정/public_2130247/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2130247#DOC",
-                "is_current": true,
-                "enforcement_date": "20260818"
-              },
-              {
-                "git_path": "인사규정/public_2141221/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2141221#DOC",
-                "is_current": true,
-                "enforcement_date": "20260805"
-              }
-            ],
-            "target_git_path": "인사규정/public_2130247/인사규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "인사규정/인사규정.json"
           },
           {
             "relation_type": "citation",
@@ -530,18 +345,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2114263",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169991895",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170412215",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)공무직인사관리세칙#JO0009",
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(한국농어촌공사)공무직인사관리세칙#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국농어촌공사) 공무직 인사관리세칙/(한국농어촌공사) 공무직 인사관리세칙.json",
-            "target_git_path": "(한국농어촌공사) 공무직 인사관리세칙/(한국농어촌공사) 공무직 인사관리세칙.json",
-            "target_git_file_path": "(한국농어촌공사) 공무직 인사관리세칙/별지/별지2_(표준) 공무직 근로계약서(제9조 관련).hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국농어촌공사) 공무직 인사관리세칙/(한국농어촌공사) 공무직 인사관리세칙.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -560,18 +370,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2114263",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169991943",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170412383",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)공무직인사관리세칙#JO0009",
             "target_unit": "BJ0002_02",
             "reference_id": "SchlPubRul:(한국농어촌공사)공무직인사관리세칙#BJ0002_02",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국농어촌공사) 공무직 인사관리세칙/(한국농어촌공사) 공무직 인사관리세칙.json",
-            "target_git_path": "(한국농어촌공사) 공무직 인사관리세칙/(한국농어촌공사) 공무직 인사관리세칙.json",
-            "target_git_file_path": "(한국농어촌공사) 공무직 인사관리세칙/별지/별지2의2_(표준) 감시·단속적 근로자용 공무직 근로계약서.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국농어촌공사) 공무직 인사관리세칙/(한국농어촌공사) 공무직 인사관리세칙.json"
           }
         ],
         "images": [],
@@ -601,44 +406,9 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)공무직인사관리세칙#JO0010",
-            "reference_id": "SchlPubRul:인사규정:public_2130247#DOC",
+            "reference_id": "SchlPubRul:인사규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json",
-            "target_candidates": 4,
-            "target_candidate_paths": [
-              {
-                "git_path": "인사규정/public_2127985/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2127985#DOC",
-                "is_current": true,
-                "enforcement_date": "20230310"
-              },
-              {
-                "git_path": "인사규정/public_2128323/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2128323#DOC",
-                "is_current": true,
-                "enforcement_date": "20250109"
-              },
-              {
-                "git_path": "인사규정/public_2130247/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2130247#DOC",
-                "is_current": true,
-                "enforcement_date": "20260818"
-              },
-              {
-                "git_path": "인사규정/public_2141221/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2141221#DOC",
-                "is_current": true,
-                "enforcement_date": "20260805"
-              }
-            ],
-            "target_git_path": "인사규정/public_2130247/인사규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "인사규정/인사규정.json"
           },
           {
             "relation_type": "citation",
@@ -656,44 +426,9 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정/제9조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)공무직인사관리세칙#JO0010",
-            "reference_id": "SchlPubRul:인사규정:public_2130247#JO0009",
+            "reference_id": "SchlPubRul:인사규정#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json",
-            "target_candidates": 4,
-            "target_candidate_paths": [
-              {
-                "git_path": "인사규정/public_2127985/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2127985#JO0009",
-                "is_current": true,
-                "enforcement_date": "20230310"
-              },
-              {
-                "git_path": "인사규정/public_2128323/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2128323#JO0009",
-                "is_current": true,
-                "enforcement_date": "20250109"
-              },
-              {
-                "git_path": "인사규정/public_2130247/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2130247#JO0009",
-                "is_current": true,
-                "enforcement_date": "20260818"
-              },
-              {
-                "git_path": "인사규정/public_2141221/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2141221#JO0009",
-                "is_current": true,
-                "enforcement_date": "20260805"
-              }
-            ],
-            "target_git_path": "인사규정/public_2130247/인사규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "인사규정/인사규정.json"
           }
         ],
         "images": [],
@@ -746,18 +481,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2114263",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169991949",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170412389",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)공무직인사관리세칙#JO0013",
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:(한국농어촌공사)공무직인사관리세칙#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국농어촌공사) 공무직 인사관리세칙/(한국농어촌공사) 공무직 인사관리세칙.json",
-            "target_git_path": "(한국농어촌공사) 공무직 인사관리세칙/(한국농어촌공사) 공무직 인사관리세칙.json",
-            "target_git_file_path": "(한국농어촌공사) 공무직 인사관리세칙/별지/별지3_각서(제13조 관련).hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국농어촌공사) 공무직 인사관리세칙/(한국농어촌공사) 공무직 인사관리세칙.json"
           }
         ],
         "images": [],
@@ -787,44 +517,9 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)공무직인사관리세칙#JO0014",
-            "reference_id": "SchlPubRul:인사규정:public_2130247#DOC",
+            "reference_id": "SchlPubRul:인사규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json",
-            "target_candidates": 4,
-            "target_candidate_paths": [
-              {
-                "git_path": "인사규정/public_2127985/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2127985#DOC",
-                "is_current": true,
-                "enforcement_date": "20230310"
-              },
-              {
-                "git_path": "인사규정/public_2128323/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2128323#DOC",
-                "is_current": true,
-                "enforcement_date": "20250109"
-              },
-              {
-                "git_path": "인사규정/public_2130247/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2130247#DOC",
-                "is_current": true,
-                "enforcement_date": "20260818"
-              },
-              {
-                "git_path": "인사규정/public_2141221/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2141221#DOC",
-                "is_current": true,
-                "enforcement_date": "20260805"
-              }
-            ],
-            "target_git_path": "인사규정/public_2130247/인사규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "인사규정/인사규정.json"
           }
         ],
         "images": [],
@@ -854,44 +549,9 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)공무직인사관리세칙#JO0015",
-            "reference_id": "SchlPubRul:인사규정:public_2130247#DOC",
+            "reference_id": "SchlPubRul:인사규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json",
-            "target_candidates": 4,
-            "target_candidate_paths": [
-              {
-                "git_path": "인사규정/public_2127985/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2127985#DOC",
-                "is_current": true,
-                "enforcement_date": "20230310"
-              },
-              {
-                "git_path": "인사규정/public_2128323/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2128323#DOC",
-                "is_current": true,
-                "enforcement_date": "20250109"
-              },
-              {
-                "git_path": "인사규정/public_2130247/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2130247#DOC",
-                "is_current": true,
-                "enforcement_date": "20260818"
-              },
-              {
-                "git_path": "인사규정/public_2141221/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2141221#DOC",
-                "is_current": true,
-                "enforcement_date": "20260805"
-              }
-            ],
-            "target_git_path": "인사규정/public_2130247/인사규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "인사규정/인사규정.json"
           },
           {
             "relation_type": "citation",
@@ -909,44 +569,9 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정/제9조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)공무직인사관리세칙#JO0015",
-            "reference_id": "SchlPubRul:인사규정:public_2130247#JO0009",
+            "reference_id": "SchlPubRul:인사규정#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json",
-            "target_candidates": 4,
-            "target_candidate_paths": [
-              {
-                "git_path": "인사규정/public_2127985/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2127985#JO0009",
-                "is_current": true,
-                "enforcement_date": "20230310"
-              },
-              {
-                "git_path": "인사규정/public_2128323/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2128323#JO0009",
-                "is_current": true,
-                "enforcement_date": "20250109"
-              },
-              {
-                "git_path": "인사규정/public_2130247/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2130247#JO0009",
-                "is_current": true,
-                "enforcement_date": "20260818"
-              },
-              {
-                "git_path": "인사규정/public_2141221/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2141221#JO0009",
-                "is_current": true,
-                "enforcement_date": "20260805"
-              }
-            ],
-            "target_git_path": "인사규정/public_2130247/인사규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "인사규정/인사규정.json"
           }
         ],
         "images": [],
@@ -976,44 +601,9 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)공무직인사관리세칙#JO0016",
-            "reference_id": "SchlPubRul:인사규정:public_2130247#DOC",
+            "reference_id": "SchlPubRul:인사규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json",
-            "target_candidates": 4,
-            "target_candidate_paths": [
-              {
-                "git_path": "인사규정/public_2127985/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2127985#DOC",
-                "is_current": true,
-                "enforcement_date": "20230310"
-              },
-              {
-                "git_path": "인사규정/public_2128323/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2128323#DOC",
-                "is_current": true,
-                "enforcement_date": "20250109"
-              },
-              {
-                "git_path": "인사규정/public_2130247/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2130247#DOC",
-                "is_current": true,
-                "enforcement_date": "20260818"
-              },
-              {
-                "git_path": "인사규정/public_2141221/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2141221#DOC",
-                "is_current": true,
-                "enforcement_date": "20260805"
-              }
-            ],
-            "target_git_path": "인사규정/public_2130247/인사규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "인사규정/인사규정.json"
           }
         ],
         "images": [],
@@ -1097,44 +687,9 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)공무직인사관리세칙#JO0019",
-            "reference_id": "SchlPubRul:인사규정:public_2130247#DOC",
+            "reference_id": "SchlPubRul:인사규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json",
-            "target_candidates": 4,
-            "target_candidate_paths": [
-              {
-                "git_path": "인사규정/public_2127985/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2127985#DOC",
-                "is_current": true,
-                "enforcement_date": "20230310"
-              },
-              {
-                "git_path": "인사규정/public_2128323/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2128323#DOC",
-                "is_current": true,
-                "enforcement_date": "20250109"
-              },
-              {
-                "git_path": "인사규정/public_2130247/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2130247#DOC",
-                "is_current": true,
-                "enforcement_date": "20260818"
-              },
-              {
-                "git_path": "인사규정/public_2141221/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2141221#DOC",
-                "is_current": true,
-                "enforcement_date": "20260805"
-              }
-            ],
-            "target_git_path": "인사규정/public_2130247/인사규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "인사규정/인사규정.json"
           }
         ],
         "images": [],
@@ -1164,44 +719,9 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)공무직인사관리세칙#JO0020",
-            "reference_id": "SchlPubRul:인사규정:public_2130247#DOC",
+            "reference_id": "SchlPubRul:인사규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json",
-            "target_candidates": 4,
-            "target_candidate_paths": [
-              {
-                "git_path": "인사규정/public_2127985/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2127985#DOC",
-                "is_current": true,
-                "enforcement_date": "20230310"
-              },
-              {
-                "git_path": "인사규정/public_2128323/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2128323#DOC",
-                "is_current": true,
-                "enforcement_date": "20250109"
-              },
-              {
-                "git_path": "인사규정/public_2130247/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2130247#DOC",
-                "is_current": true,
-                "enforcement_date": "20260818"
-              },
-              {
-                "git_path": "인사규정/public_2141221/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2141221#DOC",
-                "is_current": true,
-                "enforcement_date": "20260805"
-              }
-            ],
-            "target_git_path": "인사규정/public_2130247/인사규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "인사규정/인사규정.json"
           }
         ],
         "images": [],
@@ -1231,44 +751,9 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)공무직인사관리세칙#JO0021",
-            "reference_id": "SchlPubRul:인사규정:public_2130247#DOC",
+            "reference_id": "SchlPubRul:인사규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json",
-            "target_candidates": 4,
-            "target_candidate_paths": [
-              {
-                "git_path": "인사규정/public_2127985/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2127985#DOC",
-                "is_current": true,
-                "enforcement_date": "20230310"
-              },
-              {
-                "git_path": "인사규정/public_2128323/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2128323#DOC",
-                "is_current": true,
-                "enforcement_date": "20250109"
-              },
-              {
-                "git_path": "인사규정/public_2130247/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2130247#DOC",
-                "is_current": true,
-                "enforcement_date": "20260818"
-              },
-              {
-                "git_path": "인사규정/public_2141221/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2141221#DOC",
-                "is_current": true,
-                "enforcement_date": "20260805"
-              }
-            ],
-            "target_git_path": "인사규정/public_2130247/인사규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "인사규정/인사규정.json"
           }
         ],
         "images": [],
@@ -1309,44 +794,9 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)공무직인사관리세칙#JO0022",
-            "reference_id": "SchlPubRul:인사규정:public_2130247#DOC",
+            "reference_id": "SchlPubRul:인사규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json",
-            "target_candidates": 4,
-            "target_candidate_paths": [
-              {
-                "git_path": "인사규정/public_2127985/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2127985#DOC",
-                "is_current": true,
-                "enforcement_date": "20230310"
-              },
-              {
-                "git_path": "인사규정/public_2128323/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2128323#DOC",
-                "is_current": true,
-                "enforcement_date": "20250109"
-              },
-              {
-                "git_path": "인사규정/public_2130247/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2130247#DOC",
-                "is_current": true,
-                "enforcement_date": "20260818"
-              },
-              {
-                "git_path": "인사규정/public_2141221/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2141221#DOC",
-                "is_current": true,
-                "enforcement_date": "20260805"
-              }
-            ],
-            "target_git_path": "인사규정/public_2130247/인사규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "인사규정/인사규정.json"
           }
         ],
         "images": [],
@@ -1376,44 +826,9 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)공무직인사관리세칙#JO0023",
-            "reference_id": "SchlPubRul:인사규정:public_2130247#DOC",
+            "reference_id": "SchlPubRul:인사규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json",
-            "target_candidates": 4,
-            "target_candidate_paths": [
-              {
-                "git_path": "인사규정/public_2127985/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2127985#DOC",
-                "is_current": true,
-                "enforcement_date": "20230310"
-              },
-              {
-                "git_path": "인사규정/public_2128323/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2128323#DOC",
-                "is_current": true,
-                "enforcement_date": "20250109"
-              },
-              {
-                "git_path": "인사규정/public_2130247/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2130247#DOC",
-                "is_current": true,
-                "enforcement_date": "20260818"
-              },
-              {
-                "git_path": "인사규정/public_2141221/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2141221#DOC",
-                "is_current": true,
-                "enforcement_date": "20260805"
-              }
-            ],
-            "target_git_path": "인사규정/public_2130247/인사규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "인사규정/인사규정.json"
           }
         ],
         "images": [],
@@ -1443,44 +858,9 @@
             "target_url": "https://www.law.go.kr/학칙공단/인사규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)공무직인사관리세칙#JO0024",
-            "reference_id": "SchlPubRul:인사규정:public_2130247#DOC",
+            "reference_id": "SchlPubRul:인사규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인사규정/인사규정.json",
-            "target_candidates": 4,
-            "target_candidate_paths": [
-              {
-                "git_path": "인사규정/public_2127985/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2127985#DOC",
-                "is_current": true,
-                "enforcement_date": "20230310"
-              },
-              {
-                "git_path": "인사규정/public_2128323/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2128323#DOC",
-                "is_current": true,
-                "enforcement_date": "20250109"
-              },
-              {
-                "git_path": "인사규정/public_2130247/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2130247#DOC",
-                "is_current": true,
-                "enforcement_date": "20260818"
-              },
-              {
-                "git_path": "인사규정/public_2141221/인사규정.json",
-                "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:인사규정:public_2141221#DOC",
-                "is_current": true,
-                "enforcement_date": "20260805"
-              }
-            ],
-            "target_git_path": "인사규정/public_2130247/인사규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "인사규정/인사규정.json"
           }
         ],
         "images": [],
@@ -1523,11 +903,7 @@
             "source_provision_id": "SchlPubRul:(한국농어촌공사)공무직인사관리세칙#JO0026",
             "reference_id": "SchlPubRul:(한국농어촌공사)공무직인사관리세칙#JO0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국농어촌공사) 공무직 인사관리세칙/(한국농어촌공사) 공무직 인사관리세칙.json",
-            "target_git_path": "(한국농어촌공사) 공무직 인사관리세칙/(한국농어촌공사) 공무직 인사관리세칙.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국농어촌공사) 공무직 인사관리세칙/(한국농어촌공사) 공무직 인사관리세칙.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -1552,12 +928,7 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:(한국농어촌공사)공무직인사관리세칙#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국농어촌공사) 공무직 인사관리세칙/(한국농어촌공사) 공무직 인사관리세칙.json",
-            "target_git_path": "(한국농어촌공사) 공무직 인사관리세칙/(한국농어촌공사) 공무직 인사관리세칙.json",
-            "target_git_file_path": "(한국농어촌공사) 공무직 인사관리세칙/별표/별표2_상대평가 인원배분율표(제26조 관련).hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국농어촌공사) 공무직 인사관리세칙/(한국농어촌공사) 공무직 인사관리세칙.json"
           },
           {
             "relation_type": "citation",
@@ -1628,18 +999,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2114263",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169991953",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170412393",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국농어촌공사)공무직인사관리세칙#JO0027",
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:(한국농어촌공사)공무직인사관리세칙#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국농어촌공사) 공무직 인사관리세칙/(한국농어촌공사) 공무직 인사관리세칙.json",
-            "target_git_path": "(한국농어촌공사) 공무직 인사관리세칙/(한국농어촌공사) 공무직 인사관리세칙.json",
-            "target_git_file_path": "(한국농어촌공사) 공무직 인사관리세칙/별지/별지4_휴게시간 미부여 신청서.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국농어촌공사) 공무직 인사관리세칙/(한국농어촌공사) 공무직 인사관리세칙.json"
           }
         ],
         "images": [],
@@ -1671,11 +1037,7 @@
             "source_provision_id": "SchlPubRul:(한국농어촌공사)공무직인사관리세칙#JO0028",
             "reference_id": "SchlPubRul:취업규칙#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "취업규칙/취업규칙.json",
-            "target_git_path": "취업규칙/취업규칙.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "취업규칙/취업규칙.json"
           },
           {
             "relation_type": "citation",
@@ -1695,11 +1057,7 @@
             "source_provision_id": "SchlPubRul:(한국농어촌공사)공무직인사관리세칙#JO0028",
             "reference_id": "SchlPubRul:취업규칙#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "취업규칙/취업규칙.json",
-            "target_git_path": "취업규칙/취업규칙.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "취업규칙/취업규칙.json"
           }
         ],
         "images": [],
@@ -1894,11 +1252,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000124655&bylNo=0001&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169991957",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170412203",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169991957",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170412203",
           "name": "",
           "file_store_url": ""
         }
@@ -1919,11 +1277,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000124655&bylNo=0002&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169991961",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170412207",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169991961",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170412207",
           "name": "",
           "file_store_url": ""
         }
@@ -1944,11 +1302,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169991891",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170412211",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169991891",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170412211",
           "name": "",
           "file_store_url": ""
         }
@@ -1969,11 +1327,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169991895",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170412215",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169991895",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170412215",
           "name": "",
           "file_store_url": ""
         }
@@ -1994,11 +1352,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169991943",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170412383",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169991943",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170412383",
           "name": "",
           "file_store_url": ""
         }
@@ -2019,11 +1377,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169991949",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170412389",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169991949",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170412389",
           "name": "",
           "file_store_url": ""
         }
@@ -2044,11 +1402,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169991953",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170412393",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=169991953",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170412393",
           "name": "",
           "file_store_url": ""
         }
