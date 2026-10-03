@@ -184719,12 +184719,12 @@
   "version_signature": "b2b7ef34f04d62cb787c995172e50c56887015cdcd99f430da36de5cd30c6afd"
  },
  "admrul:school:2094548": {
-  "attempts": 9,
+  "attempts": 10,
   "body_stats": {
    "articles": 127,
    "chars": 34198
   },
-  "collected_signature": null,
+  "collected_signature": "7ec8a243d59ef1360af7395cdf4bd5ce6c964597967b5648f89e91d4bd6b9fc3",
   "content_hash": "5ebbb7622f461742ea6776858786b814855f2ab047f1642344944b04bcfd87bd",
   "detail_link": "/DRF/lawService.do?OC=test&target=school&ID=2200000160573&type=HTML&mobileYn=",
   "doc_domain": "admrul",
@@ -184733,10 +184733,10 @@
   "doc_type": "학칙",
   "emitted_signature": "5376af67d0ebddad7ba8fcaaddc981c0a9e5798404e3f8855b166a3083212996",
   "enforcement_date": "20260928",
-  "export_pending": true,
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-03T15:24:53.665604+00:00",
-  "last_collected_at": "2026-10-03T15:24:57.446911+00:00",
+  "last_checked_at": "2026-10-03T15:29:42.152141+00:00",
+  "last_collected_at": "2026-10-03T15:29:43.525795+00:00",
   "last_error": "별표/첨부 파일 1건 다운로드 실패: 별표/별표4_삭제 _2016.12.28_.hwp",
   "last_git_error": "git commit 실패(rc=1) /workspace/law_ai/data/SCHLPUBRUL :: 국립부경대학교 학칙 — ..\" to include in what will be committed)\n\t.gitexport.lock\n\n\nIt took 7.66 seconds to enumerate untracked files. 'status -uno'\nmay speed it up, but you have to be careful not to forget to add\nnew files yourself (see 'git help status').\nno changes added to commit (use \"git add\" and/or \"git commit -a\")",
   "last_git_error_at": "2026-10-03T15:27:56.333304+00:00",
@@ -184746,7 +184746,7 @@
   "payload_law_id": "2094548",
   "prev_name": null,
   "promulgation_date": "20260928",
-  "status": "done",
+  "status": "failed",
   "version_count": 1,
   "version_signature": "7ec8a243d59ef1360af7395cdf4bd5ce6c964597967b5648f89e91d4bd6b9fc3"
  },
