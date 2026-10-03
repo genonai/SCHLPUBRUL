@@ -102610,26 +102610,33 @@
   "version_signature": "fdefc5ef700376527cc7e1ef1cd16fcc4fa919751ecff32f13b176f545408954"
  },
  "admrul:public:2111229": {
-  "collected_signature": "d9c4ce51bd6df32989219ca978364fb06c9d8316e2c7a1bf4d2972d0699b97ab",
-  "content_hash": "06cb880756df85975d3e1c660898f1f1825420aac75676f869bcab252ebbdffc",
-  "detail_link": "/DRF/lawService.do?OC=test&target=public&ID=2200000134989&type=HTML&mobileYn=",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 18,
+   "chars": 2526
+  },
+  "collected_signature": "38b11f0d3a065598841562c241c191cf6f8ea04478e62d80736e340c79ef8a94",
+  "content_hash": "e206ba803b2da55a15665a186c73da060d14cab92e3915774d0c3c3b4c89789e",
+  "detail_link": "/DRF/lawService.do?OC=test&target=public&ID=2200000160683&type=HTML&mobileYn=",
   "doc_domain": "admrul",
   "doc_id": "2111229",
   "doc_target": "public",
   "doc_type": "공단규정",
   "emitted_signature": "d9c4ce51bd6df32989219ca978364fb06c9d8316e2c7a1bf4d2972d0699b97ab",
-  "enforcement_date": "20240626",
+  "enforcement_date": "20260917",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T09:00:07.594134+00:00",
-  "last_collected_at": "2026-08-25T09:00:35.101213+00:00",
+  "last_checked_at": "2026-10-03T01:20:26.411940+00:00",
+  "last_collected_at": "2026-10-03T01:20:32.902400+00:00",
   "ministry": "김해시도시개발공사",
-  "mst": "2200000134989",
+  "mst": "2200000160683",
   "name": "김해시도시개발공사 관리사택운영내규",
   "payload_law_id": "2111229",
-  "promulgation_date": "20240626",
+  "prev_name": null,
+  "promulgation_date": "20260917",
   "status": "done",
   "version_count": 1,
-  "version_signature": "d9c4ce51bd6df32989219ca978364fb06c9d8316e2c7a1bf4d2972d0699b97ab"
+  "version_signature": "38b11f0d3a065598841562c241c191cf6f8ea04478e62d80736e340c79ef8a94"
  },
  "admrul:public:2111231": {
   "collected_signature": "3c781b831400321bae0d49417a429cfa789bdced4aaab6b819d09e2e009819a5",
