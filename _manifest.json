@@ -253593,26 +253593,33 @@
   "version_signature": "cbe1b50c03cc07061d90a3854c0c4bca7dfff297792ce7893842b524308de421"
  },
  "admrul:school:2123509": {
-  "collected_signature": "8c189073790ca61e8fce0b9f9cb4537e033ecedbe87253d1b3eaf1b6bb55acbe",
-  "content_hash": "24060e3dd8932958e6cdc652f6c64f588bde094466f9a12c4b35bdf78bf2c3f0",
-  "detail_link": "/DRF/lawService.do?OC=test&target=school&ID=2200000139217&type=HTML&mobileYn=",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 15,
+   "chars": 3206
+  },
+  "collected_signature": "b77f0cc4dd2f12947bca3462a6c6a681c45506966fb652a86dc4a23127e1038d",
+  "content_hash": "cf79d2b537cd163380df533b01585da7851773ef42ca4f004db17d501e019a62",
+  "detail_link": "/DRF/lawService.do?OC=test&target=school&ID=2200000160687&type=HTML&mobileYn=",
   "doc_domain": "admrul",
   "doc_id": "2123509",
   "doc_target": "school",
   "doc_type": "학교규정",
   "emitted_signature": "8c189073790ca61e8fce0b9f9cb4537e033ecedbe87253d1b3eaf1b6bb55acbe",
-  "enforcement_date": "20250203",
+  "enforcement_date": "20260930",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T23:22:47.411875+00:00",
-  "last_collected_at": "2026-08-24T23:22:48.319682+00:00",
+  "last_checked_at": "2026-10-05T15:04:53.927907+00:00",
+  "last_collected_at": "2026-10-05T15:04:55.342846+00:00",
   "ministry": "부경대학교",
-  "mst": "2200000139217",
+  "mst": "2200000160687",
   "name": "국립부경대학교 학부대학 운영 규정",
   "payload_law_id": "2123509",
-  "promulgation_date": "20250203",
+  "prev_name": null,
+  "promulgation_date": "20260930",
   "status": "done",
   "version_count": 1,
-  "version_signature": "8c189073790ca61e8fce0b9f9cb4537e033ecedbe87253d1b3eaf1b6bb55acbe"
+  "version_signature": "b77f0cc4dd2f12947bca3462a6c6a681c45506966fb652a86dc4a23127e1038d"
  },
  "admrul:school:2123511": {
   "attempts": 0,
