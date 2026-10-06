@@ -106845,26 +106845,33 @@
   "version_signature": "1fcdd2f0c84d257dfb56f822393748528a5638d274f5e36a0d38b09a8c54f029"
  },
  "admrul:public:2119411": {
-  "collected_signature": "99a0f53a261d7fce2ec7f718e64968b6ce7ed83a194b4425a3931cbbc6e18b88",
-  "content_hash": "60e30aa087eb914647777716f86d64fe442a6c3e69c9df166ef47025c78efe07",
-  "detail_link": "/DRF/lawService.do?OC=test&target=public&ID=2200000138541&type=HTML&mobileYn=",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 83,
+   "chars": 41355
+  },
+  "collected_signature": "f91080dff4d450a4b8069f34c516e44af2b0a6123b20a3d2473d0657c933110d",
+  "content_hash": "79c390aadd8123392c662e341e76fd4e9708d72cf6970bd5cb9d41ca6bb73bb7",
+  "detail_link": "/DRF/lawService.do?OC=test&target=public&ID=2200000160701&type=HTML&mobileYn=",
   "doc_domain": "admrul",
   "doc_id": "2119411",
   "doc_target": "public",
   "doc_type": "공단규정",
   "emitted_signature": "99a0f53a261d7fce2ec7f718e64968b6ce7ed83a194b4425a3931cbbc6e18b88",
-  "enforcement_date": "20250103",
+  "enforcement_date": "20261006",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-27T01:52:58.389210+00:00",
-  "last_collected_at": "2026-08-27T01:53:17.555997+00:00",
+  "last_checked_at": "2026-10-06T20:40:27.308246+00:00",
+  "last_collected_at": "2026-10-06T20:40:34.115179+00:00",
   "ministry": "부천도시공사",
-  "mst": "2200000138541",
-  "name": "부천도시공사 안전보건관리 시행세칙",
+  "mst": "2200000160701",
+  "name": "부천도시공사 안전보건관리규정",
   "payload_law_id": "2119411",
-  "promulgation_date": "20250103",
+  "prev_name": null,
+  "promulgation_date": "20261006",
   "status": "done",
   "version_count": 1,
-  "version_signature": "99a0f53a261d7fce2ec7f718e64968b6ce7ed83a194b4425a3931cbbc6e18b88"
+  "version_signature": "f91080dff4d450a4b8069f34c516e44af2b0a6123b20a3d2473d0657c933110d"
  },
  "admrul:public:2119415": {
   "collected_signature": "1db0f2cbb73bef3a712ceda1f346b7d7b32ea76a6e3bb978706636b682272ffc",
