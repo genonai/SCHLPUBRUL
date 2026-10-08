@@ -70,7 +70,30 @@
             "target_git_path": "회계규정/public_2141227/회계규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_doc_kind": "공공기관",
+            "target_candidate_paths": [
+              {
+                "git_path": "회계규정/public_2128021/회계규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:회계규정:public_2128021#DOC",
+                "is_current": true,
+                "enforcement_date": "20211021"
+              },
+              {
+                "git_path": "회계규정/public_2128391/회계규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:회계규정:public_2128391#DOC",
+                "is_current": true,
+                "enforcement_date": "20240408"
+              },
+              {
+                "git_path": "회계규정/public_2141227/회계규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:회계규정:public_2141227#DOC",
+                "is_current": true,
+                "enforcement_date": "20250304"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -95,7 +118,30 @@
             "target_git_path": "회계규정/public_2141227/회계규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_doc_kind": "공공기관",
+            "target_candidate_paths": [
+              {
+                "git_path": "회계규정/public_2128021/회계규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:회계규정:public_2128021#JO0159",
+                "is_current": true,
+                "enforcement_date": "20211021"
+              },
+              {
+                "git_path": "회계규정/public_2128391/회계규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:회계규정:public_2128391#JO0159",
+                "is_current": true,
+                "enforcement_date": "20240408"
+              },
+              {
+                "git_path": "회계규정/public_2141227/회계규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:회계규정:public_2141227#JO0159",
+                "is_current": true,
+                "enforcement_date": "20250304"
+              }
+            ]
           },
           {
             "relation_type": "citation",

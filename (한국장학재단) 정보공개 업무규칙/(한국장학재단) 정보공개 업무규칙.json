@@ -76,7 +76,9 @@
             "source_provision_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0002",
             "reference_id": "law:전자정부법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -96,7 +98,9 @@
             "source_provision_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0002",
             "reference_id": "law:전자정부법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -156,7 +160,9 @@
             "source_provision_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0002",
             "reference_id": "law:공공기관의정보공개에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -176,7 +182,9 @@
             "source_provision_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0002",
             "reference_id": "law:공공기관의정보공개에관한법률시행령#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -219,7 +227,9 @@
             "source_provision_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0004",
             "reference_id": "law:공공기관의정보공개에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/시행령/공공기관의 정보공개에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -262,7 +272,11 @@
             "source_provision_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0006",
             "reference_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json"
+            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_git_path": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -282,7 +296,11 @@
             "source_provision_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0006",
             "reference_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json"
+            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_git_path": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -319,7 +337,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json"
+            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_git_path": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_git_file_path": "(한국장학재단) 정보공개 업무규칙/별지/별지1_정보공개 청구서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -351,7 +374,11 @@
             "source_provision_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0008",
             "reference_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json"
+            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_git_path": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -376,7 +403,12 @@
             "target_unit": "BJ0001_02",
             "reference_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#BJ0001_02",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json"
+            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_git_path": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_git_file_path": "(한국장학재단) 정보공개 업무규칙/별지/별지1의2_정보공개 청구 외([ ]부존재, [ ]진정·질의, [ ]종결 등) 통지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -428,7 +460,11 @@
             "source_provision_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0009",
             "reference_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json"
+            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_git_path": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -448,7 +484,11 @@
             "source_provision_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0009",
             "reference_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0020",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json"
+            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_git_path": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -480,7 +520,11 @@
             "source_provision_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0009_02",
             "reference_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json"
+            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_git_path": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -500,7 +544,11 @@
             "source_provision_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0009_02",
             "reference_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json"
+            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_git_path": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -520,7 +568,11 @@
             "source_provision_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0009_02",
             "reference_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json"
+            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_git_path": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -557,7 +609,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json"
+            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_git_path": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_git_file_path": "(한국장학재단) 정보공개 업무규칙/별지/별지3_정보 ([ ]공개 [ ]부분 공개 [ ]비공개) 결정 통지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -582,7 +639,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json"
+            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_git_path": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_git_file_path": "(한국장학재단) 정보공개 업무규칙/별지/별지3_정보 ([ ]공개 [ ]부분 공개 [ ]비공개) 결정 통지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -636,7 +698,11 @@
             "source_provision_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0013",
             "reference_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json"
+            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_git_path": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -668,7 +734,11 @@
             "source_provision_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0014",
             "reference_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json"
+            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_git_path": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -700,7 +770,11 @@
             "source_provision_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0015",
             "reference_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json"
+            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_git_path": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -720,7 +794,11 @@
             "source_provision_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0015",
             "reference_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json"
+            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_git_path": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -745,7 +823,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json"
+            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_git_path": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_git_file_path": "(한국장학재단) 정보공개 업무규칙/별지/별지4_정보공개 위임장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -777,7 +860,11 @@
             "source_provision_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0016",
             "reference_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json"
+            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_git_path": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -797,7 +884,11 @@
             "source_provision_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0016",
             "reference_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json"
+            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_git_path": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -817,7 +908,11 @@
             "source_provision_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0016",
             "reference_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json"
+            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_git_path": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -837,7 +932,11 @@
             "source_provision_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0016",
             "reference_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json"
+            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_git_path": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -857,7 +956,11 @@
             "source_provision_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0016",
             "reference_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0009_02",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json"
+            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_git_path": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -877,7 +980,11 @@
             "source_provision_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0016",
             "reference_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json"
+            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_git_path": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -897,7 +1004,11 @@
             "source_provision_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0016",
             "reference_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json"
+            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_git_path": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -917,7 +1028,11 @@
             "source_provision_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0016",
             "reference_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json"
+            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_git_path": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -937,7 +1052,11 @@
             "source_provision_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0016",
             "reference_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json"
+            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_git_path": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -957,7 +1076,11 @@
             "source_provision_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0016",
             "reference_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0014",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json"
+            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_git_path": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -977,7 +1100,11 @@
             "source_provision_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0016",
             "reference_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0015",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json"
+            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_git_path": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1002,7 +1129,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json"
+            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_git_path": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_git_file_path": "(한국장학재단) 정보공개 업무규칙/별지/별지2__개정 2015. 12. 30._.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1034,7 +1166,9 @@
             "source_provision_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0017",
             "reference_id": "law:전자금융거래법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자금융거래법/법률/전자금융거래법.json"
+            "target_git_path_guess": "전자금융거래법/법률/전자금융거래법.json",
+            "target_git_path": "전자금융거래법/법률/전자금융거래법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1054,7 +1188,9 @@
             "source_provision_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0017",
             "reference_id": "law:전자금융거래법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자금융거래법/법률/전자금융거래법.json"
+            "target_git_path_guess": "전자금융거래법/법률/전자금융거래법.json",
+            "target_git_path": "전자금융거래법/법률/전자금융거래법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1091,7 +1227,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json"
+            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_git_path": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_git_file_path": "(한국장학재단) 정보공개 업무규칙/별지/별지5_정보공개 결정 등 이의신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1111,7 +1252,11 @@
             "source_provision_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0018",
             "reference_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0020",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json"
+            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_git_path": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1136,7 +1281,12 @@
             "target_unit": "BJ0005_02",
             "reference_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#BJ0005_02",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json"
+            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_git_path": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_git_file_path": "(한국장학재단) 정보공개 업무규칙/별지/별지5의2_이의신청 ([ ]인용 [ ]부분 인용 [ ]기각 [ ]각하) 결정 통지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1161,7 +1311,12 @@
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json"
+            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_git_path": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_git_file_path": "(한국장학재단) 정보공개 업무규칙/별지/별지6_이의신청 처리대상.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1193,7 +1348,11 @@
             "source_provision_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0019",
             "reference_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json"
+            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_git_path": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1213,7 +1372,11 @@
             "source_provision_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0019",
             "reference_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0018",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json"
+            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_git_path": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1233,7 +1396,11 @@
             "source_provision_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0019",
             "reference_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0018",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json"
+            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_git_path": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1265,7 +1432,11 @@
             "source_provision_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0020",
             "reference_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json"
+            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_git_path": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1285,7 +1456,11 @@
             "source_provision_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0020",
             "reference_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0018",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json"
+            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_git_path": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1305,7 +1480,11 @@
             "source_provision_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0020",
             "reference_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0019",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json"
+            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_git_path": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1325,7 +1504,11 @@
             "source_provision_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0020",
             "reference_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0018",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json"
+            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_git_path": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1345,7 +1528,11 @@
             "source_provision_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0020",
             "reference_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0019",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json"
+            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_git_path": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1377,7 +1564,11 @@
             "source_provision_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0021",
             "reference_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json"
+            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_git_path": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1397,7 +1588,11 @@
             "source_provision_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0021",
             "reference_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0018",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json"
+            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_git_path": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1417,7 +1612,11 @@
             "source_provision_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0021",
             "reference_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0019",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json"
+            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_git_path": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1442,7 +1641,12 @@
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json"
+            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_git_path": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_git_file_path": "(한국장학재단) 정보공개 업무규칙/별지/별지7_안 건 상 정 요 청 서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1474,7 +1678,11 @@
             "source_provision_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0022",
             "reference_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0020",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json"
+            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_git_path": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1499,7 +1707,12 @@
             "target_unit": "BJ0008",
             "reference_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#BJ0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json"
+            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_git_path": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_git_file_path": "(한국장학재단) 정보공개 업무규칙/별지/별지8_회 의 록.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1542,7 +1755,11 @@
             "source_provision_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0024",
             "reference_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0023",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json"
+            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_git_path": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1585,7 +1802,11 @@
             "source_provision_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0026",
             "reference_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json"
+            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_git_path": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -1605,7 +1826,9 @@
             "source_provision_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0026",
             "reference_id": "law:공공기록물관리에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1625,7 +1848,9 @@
             "source_provision_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0026",
             "reference_id": "law:공공기록물관리에관한법률시행령#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1645,7 +1870,9 @@
             "source_provision_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0026",
             "reference_id": "law:공공기록물관리에관한법률시행령#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_git_path": "공공기록물 관리에 관한 법률/시행령/공공기록물 관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1710,7 +1937,9 @@
             "source_provision_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0029",
             "reference_id": "law:민법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1730,7 +1959,11 @@
             "source_provision_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0029",
             "reference_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json"
+            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_git_path": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1750,7 +1983,11 @@
             "source_provision_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0029",
             "reference_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0018",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json"
+            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_git_path": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1770,7 +2007,11 @@
             "source_provision_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0029",
             "reference_id": "SchlPubRul:(한국장학재단)정보공개업무규칙#JO0018",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json"
+            "target_git_path_guess": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_git_path": "(한국장학재단) 정보공개 업무규칙/(한국장학재단) 정보공개 업무규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],

@@ -420,7 +420,23 @@
             "target_git_path": "기록물관리내규/public_2139525/기록물관리내규.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_doc_kind": "공공기관",
+            "target_candidate_paths": [
+              {
+                "git_path": "기록물관리내규/public_2128307/기록물관리내규.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:기록물관리내규:public_2128307#DOC",
+                "is_current": true,
+                "enforcement_date": "20221117"
+              },
+              {
+                "git_path": "기록물관리내규/public_2139525/기록물관리내규.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:기록물관리내규:public_2139525#DOC",
+                "is_current": true,
+                "enforcement_date": "20250716"
+              }
+            ]
           }
         ],
         "images": [],

@@ -219,7 +219,9 @@
             "source_provision_id": "SchlPubRul:내47.수원도시공사문화체육본부회원관리등내규#JO0015",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -339,7 +341,11 @@
             "source_provision_id": "SchlPubRul:내47.수원도시공사문화체육본부회원관리등내규#JO0024",
             "reference_id": "admrul:소비자분쟁해결기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "소비자분쟁해결기준/소비자분쟁해결기준.json"
+            "target_git_path_guess": "소비자분쟁해결기준/소비자분쟁해결기준.json",
+            "target_git_path": "소비자분쟁해결기준/소비자분쟁해결기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],

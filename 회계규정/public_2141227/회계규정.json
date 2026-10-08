@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2141227#JO0001",
             "reference_id": "law:지방공기업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -97,7 +99,9 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2141227#JO0002",
             "reference_id": "law:지방공기업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -195,7 +199,9 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2141227#JO0009",
             "reference_id": "law:회계관계직원등의책임에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "회계관계직원등의책임에관한법률/법률/회계관계직원등의책임에관한법률.json"
+            "target_git_path_guess": "회계관계직원등의책임에관한법률/법률/회계관계직원등의책임에관한법률.json",
+            "target_git_path": "회계관계직원 등의 책임에 관한 법률/법률/회계관계직원 등의 책임에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -227,7 +233,11 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2141227#JO0010",
             "reference_id": "SchlPubRul:회계규정:public_2141227#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -259,7 +269,11 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2141227#JO0011",
             "reference_id": "SchlPubRul:회계규정:public_2141227#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -324,7 +338,11 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2141227#JO0015",
             "reference_id": "SchlPubRul:회계규정:public_2141227#JO0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -344,7 +362,11 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2141227#JO0015",
             "reference_id": "SchlPubRul:회계규정:public_2141227#JO0014",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -458,7 +480,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:회계규정:public_2141227#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_git_file_path": "회계규정/public_2141227/별지/별지1_총계정원장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -483,7 +510,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:회계규정:public_2141227#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_git_file_path": "회계규정/public_2141227/별지/별지2_자금수입기록부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -508,7 +540,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:회계규정:public_2141227#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_git_file_path": "회계규정/public_2141227/별지/별지3_자금지출기록부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -533,7 +570,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:회계규정:public_2141227#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_git_file_path": "회계규정/public_2141227/별지/별지4_수입예산정리부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -558,7 +600,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:회계규정:public_2141227#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_git_file_path": "회계규정/public_2141227/별지/별지5_지출예산통제원장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -583,7 +630,12 @@
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:회계규정:public_2141227#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_git_file_path": "회계규정/public_2141227/별지/별지6_일반분개전표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -608,7 +660,12 @@
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:회계규정:public_2141227#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_git_file_path": "회계규정/public_2141227/별지/별지7_재고회계분류원장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -633,7 +690,12 @@
             "target_unit": "BJ0008",
             "reference_id": "SchlPubRul:회계규정:public_2141227#BJ0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_git_file_path": "회계규정/public_2141227/별지/별지8_저장품대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -658,7 +720,12 @@
             "target_unit": "BJ0009",
             "reference_id": "SchlPubRul:회계규정:public_2141227#BJ0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_git_file_path": "회계규정/public_2141227/별지/별지9_임대주택대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -683,7 +750,12 @@
             "target_unit": "BJ0010",
             "reference_id": "SchlPubRul:회계규정:public_2141227#BJ0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_git_file_path": "회계규정/public_2141227/별지/별지10_토지대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -708,7 +780,12 @@
             "target_unit": "BJ0011",
             "reference_id": "SchlPubRul:회계규정:public_2141227#BJ0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_git_file_path": "회계규정/public_2141227/별지/별지11_건물대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -733,7 +810,12 @@
             "target_unit": "BJ0012",
             "reference_id": "SchlPubRul:회계규정:public_2141227#BJ0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_git_file_path": "회계규정/public_2141227/별지/별지12_기계장치대장_구축물대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -758,7 +840,12 @@
             "target_unit": "BJ0013",
             "reference_id": "SchlPubRul:회계규정:public_2141227#BJ0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_git_file_path": "회계규정/public_2141227/별지/별지13_공구기구및비품대장_차량운반구대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -783,7 +870,12 @@
             "target_unit": "BJ0014",
             "reference_id": "SchlPubRul:회계규정:public_2141227#BJ0014",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_git_file_path": "회계규정/public_2141227/별지/별지14_기채_상환대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -808,7 +900,12 @@
             "target_unit": "BJ0015",
             "reference_id": "SchlPubRul:회계규정:public_2141227#BJ0015",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_git_file_path": "회계규정/public_2141227/별지/별지15_수입지출외 현금출납부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -833,7 +930,12 @@
             "target_unit": "BJ0016",
             "reference_id": "SchlPubRul:회계규정:public_2141227#BJ0016",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_git_file_path": "회계규정/public_2141227/별지/별지16_유가증권수급부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1068,7 +1170,12 @@
             "target_unit": "BJ0017",
             "reference_id": "SchlPubRul:회계규정:public_2141227#BJ0017",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_git_file_path": "회계규정/public_2141227/별지/별지17_수입결의서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1122,7 +1229,11 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2141227#JO0045",
             "reference_id": "SchlPubRul:회계규정:public_2141227#JO0042",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -1142,7 +1253,11 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2141227#JO0045",
             "reference_id": "SchlPubRul:회계규정:public_2141227#JO0044",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1167,7 +1282,12 @@
             "target_unit": "BJ0018",
             "reference_id": "SchlPubRul:회계규정:public_2141227#BJ0018",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_git_file_path": "회계규정/public_2141227/별지/별지18_영수증_납입통지서_영수필통지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1248,7 +1368,12 @@
             "target_unit": "BJ0020",
             "reference_id": "SchlPubRul:회계규정:public_2141227#BJ0020",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_git_file_path": "회계규정/public_2141227/별지/별지20_과오납금반환청구서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1273,7 +1398,12 @@
             "target_unit": "BJ0021",
             "reference_id": "SchlPubRul:회계규정:public_2141227#BJ0021",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_git_file_path": "회계규정/public_2141227/별지/별지21_과오납금반환결의서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1298,7 +1428,12 @@
             "target_unit": "BJ0022",
             "reference_id": "SchlPubRul:회계규정:public_2141227#BJ0022",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_git_file_path": "회계규정/public_2141227/별지/별지22_과오납금반환통지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1390,7 +1525,12 @@
             "target_unit": "BJ0023",
             "reference_id": "SchlPubRul:회계규정:public_2141227#BJ0023",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_git_file_path": "회계규정/public_2141227/별지/별지23_지출결의서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1438,7 +1578,12 @@
             "target_unit": "BJ0024",
             "reference_id": "SchlPubRul:회계규정:public_2141227#BJ0024",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_git_file_path": "회계규정/public_2141227/별지/별지24_일상경비교부요구서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1463,7 +1608,12 @@
             "target_unit": "BJ0025",
             "reference_id": "SchlPubRul:회계규정:public_2141227#BJ0025",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_git_file_path": "회계규정/public_2141227/별지/별지25_일상경비교부통지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1488,7 +1638,12 @@
             "target_unit": "BJ0026",
             "reference_id": "SchlPubRul:회계규정:public_2141227#BJ0026",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_git_file_path": "회계규정/public_2141227/별지/별지26_일상경비정리부.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1513,7 +1668,12 @@
             "target_unit": "BJ0027",
             "reference_id": "SchlPubRul:회계규정:public_2141227#BJ0027",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_git_file_path": "회계규정/public_2141227/별지/별지27_일상경비집행현황.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1538,7 +1698,12 @@
             "target_unit": "BJ0028",
             "reference_id": "SchlPubRul:회계규정:public_2141227#BJ0028",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_git_file_path": "회계규정/public_2141227/별지/별지28_일상경비목별집행내역.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1570,7 +1735,11 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2141227#JO0060",
             "reference_id": "SchlPubRul:회계규정:public_2141227#JO0061",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1602,7 +1771,11 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2141227#JO0061",
             "reference_id": "SchlPubRul:회계규정:public_2141227#JO0062",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1639,7 +1812,12 @@
             "target_unit": "BJ0029",
             "reference_id": "SchlPubRul:회계규정:public_2141227#BJ0029",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_git_file_path": "회계규정/public_2141227/별지/별지29_통상지급통지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1698,7 +1876,12 @@
             "target_unit": "BJ0030",
             "reference_id": "SchlPubRul:회계규정:public_2141227#BJ0030",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_git_file_path": "회계규정/public_2141227/별지/별지30_계좌대체의뢰서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1746,7 +1929,12 @@
             "target_unit": "BJ0031",
             "reference_id": "SchlPubRul:회계규정:public_2141227#BJ0031",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_git_file_path": "회계규정/public_2141227/별지/별지31_여입결의서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1838,7 +2026,12 @@
             "target_unit": "BJ0033",
             "reference_id": "SchlPubRul:회계규정:public_2141227#BJ0033",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_git_file_path": "회계규정/public_2141227/별지/별지33_수입지출외현금(일시보관유가증권)납부서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1863,7 +2056,12 @@
             "target_unit": "BJ0034",
             "reference_id": "SchlPubRul:회계규정:public_2141227#BJ0034",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_git_file_path": "회계규정/public_2141227/별지/별지34_수입지출외현금(일시보관유가증권)반환청구서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1933,7 +2131,12 @@
             "target_unit": "BJ0033",
             "reference_id": "SchlPubRul:회계규정:public_2141227#BJ0033",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_git_file_path": "회계규정/public_2141227/별지/별지33_수입지출외현금(일시보관유가증권)납부서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1958,7 +2161,12 @@
             "target_unit": "BJ0034",
             "reference_id": "SchlPubRul:회계규정:public_2141227#BJ0034",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_git_file_path": "회계규정/public_2141227/별지/별지34_수입지출외현금(일시보관유가증권)반환청구서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -2012,7 +2220,9 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2141227#JO0080",
             "reference_id": "law:지방공기업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2032,7 +2242,9 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2141227#JO0080",
             "reference_id": "law:지방공기업법#JO0048",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2075,7 +2287,11 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2141227#JO0082",
             "reference_id": "SchlPubRul:회계규정:public_2141227#JO0081",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -2118,7 +2334,11 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2141227#JO0084",
             "reference_id": "SchlPubRul:회계규정:public_2141227#JO0081",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -2138,7 +2358,11 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2141227#JO0084",
             "reference_id": "SchlPubRul:회계규정:public_2141227#JO0082",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -2158,7 +2382,11 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2141227#JO0084",
             "reference_id": "SchlPubRul:회계규정:public_2141227#JO0083",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -2178,7 +2406,11 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2141227#JO0084",
             "reference_id": "SchlPubRul:회계규정:public_2141227#JO0081",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -2198,7 +2430,11 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2141227#JO0084",
             "reference_id": "SchlPubRul:회계규정:public_2141227#JO0082",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -2218,7 +2454,11 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2141227#JO0084",
             "reference_id": "SchlPubRul:회계규정:public_2141227#JO0082",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -2238,7 +2478,11 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2141227#JO0084",
             "reference_id": "SchlPubRul:회계규정:public_2141227#JO0082",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -2258,7 +2502,11 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2141227#JO0084",
             "reference_id": "SchlPubRul:회계규정:public_2141227#JO0083",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -2278,7 +2526,11 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2141227#JO0084",
             "reference_id": "SchlPubRul:회계규정:public_2141227#JO0081",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -2298,7 +2550,11 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2141227#JO0084",
             "reference_id": "SchlPubRul:회계규정:public_2141227#JO0082",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -2318,7 +2574,11 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2141227#JO0084",
             "reference_id": "SchlPubRul:회계규정:public_2141227#JO0083",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -2415,7 +2675,11 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2141227#JO0089",
             "reference_id": "SchlPubRul:회계규정:public_2141227#JO0088",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -2645,7 +2909,9 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2141227#JO0108",
             "reference_id": "law:법인세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "법인세법/법률/법인세법.json"
+            "target_git_path_guess": "법인세법/법률/법인세법.json",
+            "target_git_path": "법인세법/법률/법인세법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2732,7 +2998,9 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2141227#JO0114",
             "reference_id": "law:법인세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "법인세법/법률/법인세법.json"
+            "target_git_path_guess": "법인세법/법률/법인세법.json",
+            "target_git_path": "법인세법/법률/법인세법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2852,7 +3120,9 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2141227#JO0123",
             "reference_id": "law:법인세법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "법인세법시 행령/법률/법인세법시 행령.json"
+            "target_git_path_guess": "법인세법시 행령/법률/법인세법시 행령.json",
+            "target_git_path": "법인세법/시행령/법인세법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -3021,7 +3291,12 @@
             "target_unit": "BJ0040",
             "reference_id": "SchlPubRul:회계규정:public_2141227#BJ0040",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_git_file_path": "회계규정/public_2141227/별지/별지40_계속비이월요구서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -3046,7 +3321,12 @@
             "target_unit": "BJ0041",
             "reference_id": "SchlPubRul:회계규정:public_2141227#BJ0041",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_git_file_path": "회계규정/public_2141227/별지/별지41_계속비정산보고서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -3083,7 +3363,12 @@
             "target_unit": "BJ0042",
             "reference_id": "SchlPubRul:회계규정:public_2141227#BJ0042",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_git_file_path": "회계규정/public_2141227/별지/별지42_예비비지출요구서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -3225,7 +3510,9 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2141227#JO0148",
             "reference_id": "law:지방공기업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -3268,7 +3555,9 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2141227#JO0150",
             "reference_id": "law:법인세법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "법인세법/시행령/법인세법 시행령.json"
+            "target_git_path_guess": "법인세법/시행령/법인세법 시행령.json",
+            "target_git_path": "법인세법/시행령/법인세법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3288,7 +3577,9 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2141227#JO0150",
             "reference_id": "law:법인세법시행령#JO0076",
             "target_repo": "LAW",
-            "target_git_path_guess": "법인세법/시행령/법인세법 시행령.json"
+            "target_git_path_guess": "법인세법/시행령/법인세법 시행령.json",
+            "target_git_path": "법인세법/시행령/법인세법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -3347,7 +3638,12 @@
             "target_unit": "BJ0043",
             "reference_id": "SchlPubRul:회계규정:public_2141227#BJ0043",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_git_file_path": "회계규정/public_2141227/별지/별지43_재고증가집계표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -3372,7 +3668,12 @@
             "target_unit": "BJ0044",
             "reference_id": "SchlPubRul:회계규정:public_2141227#BJ0044",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_git_file_path": "회계규정/public_2141227/별지/별지44_재고감소분개장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -3397,7 +3698,12 @@
             "target_unit": "BJ0045",
             "reference_id": "SchlPubRul:회계규정:public_2141227#BJ0045",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_git_file_path": "회계규정/public_2141227/별지/별지45_일반분개정산표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -3422,7 +3728,12 @@
             "target_unit": "BJ0046",
             "reference_id": "SchlPubRul:회계규정:public_2141227#BJ0046",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_git_file_path": "회계규정/public_2141227/별지/별지46_시산표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -3553,7 +3864,9 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2141227#JO0163",
             "reference_id": "law:지방재정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방재정법/법률/지방재정법.json"
+            "target_git_path_guess": "지방재정법/법률/지방재정법.json",
+            "target_git_path": "지방재정법/법률/지방재정법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -3640,7 +3953,11 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2141227#JO0169",
             "reference_id": "SchlPubRul:회계규정:public_2141227#JO0155",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -3672,7 +3989,11 @@
             "source_provision_id": "SchlPubRul:회계규정:public_2141227#JO0170",
             "reference_id": "SchlPubRul:회계규정:public_2141227#JO0169",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "회계규정/회계규정.json"
+            "target_git_path_guess": "회계규정/회계규정.json",
+            "target_git_path": "회계규정/public_2141227/회계규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -5219,5 +5540,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "회계규정/public_2141227/회계규정.json"
+  "git_path": "회계규정/public_2141227/회계규정.json",
+  "_schlpub_id_suffix": "public_2141227"
 }

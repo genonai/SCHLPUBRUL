@@ -538,7 +538,23 @@
             "target_git_file_path": "보안업무 규정/별표/별표1_경인교육대학교 보호지역 현황.hwp",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "school",
-            "target_doc_kind": "학칙"
+            "target_doc_kind": "학칙",
+            "target_candidate_paths": [
+              {
+                "git_path": "보안업무 규정/보안업무 규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:보안업무규정#BYL0001",
+                "is_current": true,
+                "enforcement_date": "20210415"
+              },
+              {
+                "git_path": "보안업무규정/보안업무규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:보안업무규정#BYL0001",
+                "is_current": true,
+                "enforcement_date": "20200331"
+              }
+            ]
           }
         ],
         "images": [],

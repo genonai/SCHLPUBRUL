@@ -466,7 +466,37 @@
             "target_git_path": "성남시청소년청년재단 인사규정/성남시청소년청년재단 인사규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_doc_kind": "공공기관",
+            "target_candidate_paths": [
+              {
+                "git_path": "09 성남시청소년청년재단 인사규정/09 성남시청소년청년재단 인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:09성남시청소년청년재단인사규정#DOC",
+                "is_current": true,
+                "enforcement_date": "20260424"
+              },
+              {
+                "git_path": "09 성남시청소년청년재단 인사규정/성남시청소년청년재단 인사규정/성남시청소년청년재단 인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:성남시청소년청년재단인사규정:성남시청소년청년재단인사규정#DOC",
+                "is_current": true,
+                "enforcement_date": "20260424"
+              },
+              {
+                "git_path": "성남시청소년청년재단 인사규정/09 성남시청소년청년재단 인사규정/성남시청소년청년재단 인사규정/성남시청소년청년재단 인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:성남시청소년청년재단인사규정#DOC",
+                "is_current": true,
+                "enforcement_date": "20260424"
+              },
+              {
+                "git_path": "성남시청소년청년재단 인사규정/성남시청소년청년재단 인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:성남시청소년청년재단인사규정#DOC",
+                "is_current": true,
+                "enforcement_date": "20260424"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -490,7 +520,37 @@
             "target_git_path": "성남시청소년청년재단 인사규정/성남시청소년청년재단 인사규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_doc_kind": "공공기관",
+            "target_candidate_paths": [
+              {
+                "git_path": "09 성남시청소년청년재단 인사규정/09 성남시청소년청년재단 인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:09성남시청소년청년재단인사규정#JO0048",
+                "is_current": true,
+                "enforcement_date": "20260424"
+              },
+              {
+                "git_path": "09 성남시청소년청년재단 인사규정/성남시청소년청년재단 인사규정/성남시청소년청년재단 인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:성남시청소년청년재단인사규정:성남시청소년청년재단인사규정#JO0048",
+                "is_current": true,
+                "enforcement_date": "20260424"
+              },
+              {
+                "git_path": "성남시청소년청년재단 인사규정/09 성남시청소년청년재단 인사규정/성남시청소년청년재단 인사규정/성남시청소년청년재단 인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:성남시청소년청년재단인사규정#JO0048",
+                "is_current": true,
+                "enforcement_date": "20260424"
+              },
+              {
+                "git_path": "성남시청소년청년재단 인사규정/성남시청소년청년재단 인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:성남시청소년청년재단인사규정#JO0048",
+                "is_current": true,
+                "enforcement_date": "20260424"
+              }
+            ]
           }
         ],
         "images": [],

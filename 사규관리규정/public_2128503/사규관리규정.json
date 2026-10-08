@@ -74,14 +74,51 @@
             "target_url": "https://www.law.go.kr/학칙공단/이사회운영규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:사규관리규정:public_2128503#JO0002",
-            "reference_id": "SchlPubRul:이사회운영규정#DOC",
+            "reference_id": "SchlPubRul:이사회운영규정:public_2141103#DOC",
             "target_repo": "SCHLPUBRUL",
             "target_git_path_guess": "이사회운영규정/이사회운영규정.json",
             "target_candidates": 5,
             "target_git_path": "이사회운영규정/public_2141103/이사회운영규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_doc_kind": "공공기관",
+            "target_candidate_paths": [
+              {
+                "git_path": "이사회운영규정/public_2127983/이사회운영규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:이사회운영규정:public_2127983#DOC",
+                "is_current": true,
+                "enforcement_date": "20200331"
+              },
+              {
+                "git_path": "이사회운영규정/public_2128263/이사회운영규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:이사회운영규정:public_2128263#DOC",
+                "is_current": true,
+                "enforcement_date": "20240103"
+              },
+              {
+                "git_path": "이사회운영규정/public_2130111/이사회운영규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:이사회운영규정:public_2130111#DOC",
+                "is_current": true,
+                "enforcement_date": "20231219"
+              },
+              {
+                "git_path": "이사회운영규정/public_2141103/이사회운영규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:이사회운영규정:public_2141103#DOC",
+                "is_current": true,
+                "enforcement_date": "20260720"
+              },
+              {
+                "git_path": "이사회운영규정/public_2141351/이사회운영규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:이사회운영규정:public_2141351#DOC",
+                "is_current": true,
+                "enforcement_date": "20171221"
+              }
+            ]
           }
         ],
         "images": [],
@@ -122,14 +159,44 @@
             "target_url": "https://www.law.go.kr/학칙공단/감사규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:사규관리규정:public_2128503#JO0004",
-            "reference_id": "SchlPubRul:감사규정#DOC",
+            "reference_id": "SchlPubRul:감사규정:public_2129617#DOC",
             "target_repo": "SCHLPUBRUL",
             "target_git_path_guess": "감사규정/감사규정.json",
             "target_candidates": 4,
             "target_git_path": "감사규정/public_2129617/감사규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_doc_kind": "공공기관",
+            "target_candidate_paths": [
+              {
+                "git_path": "감사규정/public_2127821/감사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:감사규정:public_2127821#DOC",
+                "is_current": true,
+                "enforcement_date": "20231012"
+              },
+              {
+                "git_path": "감사규정/public_2128463/감사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:감사규정:public_2128463#DOC",
+                "is_current": true,
+                "enforcement_date": "20210728"
+              },
+              {
+                "git_path": "감사규정/public_2129617/감사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:감사규정:public_2129617#DOC",
+                "is_current": true,
+                "enforcement_date": "20231020"
+              },
+              {
+                "git_path": "감사규정/public_2141289/감사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:감사규정:public_2141289#DOC",
+                "is_current": true,
+                "enforcement_date": "20230208"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -147,14 +214,44 @@
             "target_url": "https://www.law.go.kr/학칙공단/감사규정/제8조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:사규관리규정:public_2128503#JO0004",
-            "reference_id": "SchlPubRul:감사규정#JO0008",
+            "reference_id": "SchlPubRul:감사규정:public_2129617#JO0008",
             "target_repo": "SCHLPUBRUL",
             "target_git_path_guess": "감사규정/감사규정.json",
             "target_candidates": 4,
             "target_git_path": "감사규정/public_2129617/감사규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_doc_kind": "공공기관",
+            "target_candidate_paths": [
+              {
+                "git_path": "감사규정/public_2127821/감사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:감사규정:public_2127821#JO0008",
+                "is_current": true,
+                "enforcement_date": "20231012"
+              },
+              {
+                "git_path": "감사규정/public_2128463/감사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:감사규정:public_2128463#JO0008",
+                "is_current": true,
+                "enforcement_date": "20210728"
+              },
+              {
+                "git_path": "감사규정/public_2129617/감사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:감사규정:public_2129617#JO0008",
+                "is_current": true,
+                "enforcement_date": "20231020"
+              },
+              {
+                "git_path": "감사규정/public_2141289/감사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:감사규정:public_2141289#JO0008",
+                "is_current": true,
+                "enforcement_date": "20230208"
+              }
+            ]
           }
         ],
         "images": [],
@@ -1031,5 +1128,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "사규관리규정/public_2128503/사규관리규정.json"
+  "git_path": "사규관리규정/public_2128503/사규관리규정.json",
+  "_schlpub_id_suffix": "public_2128503"
 }

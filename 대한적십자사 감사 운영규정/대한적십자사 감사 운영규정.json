@@ -128,7 +128,23 @@
             "target_git_path": "대한적십자사 사업기관 등 설치 운영규정/pi_2140563/대한적십자사 사업기관 등 설치 운영규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_doc_kind": "공단정관",
+            "target_candidate_paths": [
+              {
+                "git_path": "대한적십자사 사업기관 등 설치 운영규정/pi_2137205/대한적십자사 사업기관 등 설치 운영규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:대한적십자사사업기관등설치운영규정:pi_2137205#DOC",
+                "is_current": true,
+                "enforcement_date": "20250101"
+              },
+              {
+                "git_path": "대한적십자사 사업기관 등 설치 운영규정/pi_2140563/대한적십자사 사업기관 등 설치 운영규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:대한적십자사사업기관등설치운영규정:pi_2140563#DOC",
+                "is_current": true,
+                "enforcement_date": "20260101"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -153,7 +169,23 @@
             "target_git_path": "대한적십자사 사업기관 등 설치 운영규정/pi_2140563/대한적십자사 사업기관 등 설치 운영규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_doc_kind": "공단정관",
+            "target_candidate_paths": [
+              {
+                "git_path": "대한적십자사 사업기관 등 설치 운영규정/pi_2137205/대한적십자사 사업기관 등 설치 운영규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:대한적십자사사업기관등설치운영규정:pi_2137205#JO0003",
+                "is_current": true,
+                "enforcement_date": "20250101"
+              },
+              {
+                "git_path": "대한적십자사 사업기관 등 설치 운영규정/pi_2140563/대한적십자사 사업기관 등 설치 운영규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:대한적십자사사업기관등설치운영규정:pi_2140563#JO0003",
+                "is_current": true,
+                "enforcement_date": "20260101"
+              }
+            ]
           }
         ],
         "images": [],

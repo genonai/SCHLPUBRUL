@@ -70,7 +70,30 @@
             "target_git_path": "복리후생규정/public_2141165/복리후생규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_doc_kind": "공공기관",
+            "target_candidate_paths": [
+              {
+                "git_path": "복리후생규정/public_2127939/복리후생규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:복리후생규정:public_2127939#DOC",
+                "is_current": true,
+                "enforcement_date": "20200331"
+              },
+              {
+                "git_path": "복리후생규정/public_2128229/복리후생규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:복리후생규정:public_2128229#DOC",
+                "is_current": true,
+                "enforcement_date": "20161010"
+              },
+              {
+                "git_path": "복리후생규정/public_2141165/복리후생규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:복리후생규정:public_2141165#DOC",
+                "is_current": true,
+                "enforcement_date": "20240108"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -95,7 +118,30 @@
             "target_git_path": "복리후생규정/public_2141165/복리후생규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_doc_kind": "공공기관",
+            "target_candidate_paths": [
+              {
+                "git_path": "복리후생규정/public_2127939/복리후생규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:복리후생규정:public_2127939#JO0010",
+                "is_current": true,
+                "enforcement_date": "20200331"
+              },
+              {
+                "git_path": "복리후생규정/public_2128229/복리후생규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:복리후생규정:public_2128229#JO0010",
+                "is_current": true,
+                "enforcement_date": "20161010"
+              },
+              {
+                "git_path": "복리후생규정/public_2141165/복리후생규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:복리후생규정:public_2141165#JO0010",
+                "is_current": true,
+                "enforcement_date": "20240108"
+              }
+            ]
           }
         ],
         "images": [],

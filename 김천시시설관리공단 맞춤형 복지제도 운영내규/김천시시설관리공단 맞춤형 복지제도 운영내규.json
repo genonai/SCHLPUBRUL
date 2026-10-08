@@ -120,7 +120,11 @@
             "source_provision_id": "SchlPubRul:김천시시설관리공단맞춤형복지제도운영내규#JO0006",
             "reference_id": "SchlPubRul:김천시시설관리공단업무직관리규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "김천시 시설관리공단 업무직 관리규정/김천시 시설관리공단 업무직 관리규정.json"
+            "target_git_path_guess": "김천시 시설관리공단 업무직 관리규정/김천시 시설관리공단 업무직 관리규정.json",
+            "target_git_path": "김천시시설관리공단 업무직 관리규정/김천시시설관리공단 업무직 관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -140,7 +144,8 @@
             "source_provision_id": "SchlPubRul:김천시시설관리공단맞춤형복지제도운영내규#JO0006",
             "reference_id": "SchlPubRul:김천시시설관리공단업무직관리규정#JO0068_02",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "김천시 시설관리공단 업무직 관리규정/김천시 시설관리공단 업무직 관리규정.json"
+            "target_git_path_guess": "김천시 시설관리공단 업무직 관리규정/김천시 시설관리공단 업무직 관리규정.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -172,7 +177,11 @@
             "source_provision_id": "SchlPubRul:김천시시설관리공단맞춤형복지제도운영내규#JO0007",
             "reference_id": "SchlPubRul:김천시시설관리공단맞춤형복지제도운영내규#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "김천시시설관리공단 맞춤형 복지제도 운영내규/김천시시설관리공단 맞춤형 복지제도 운영내규.json"
+            "target_git_path_guess": "김천시시설관리공단 맞춤형 복지제도 운영내규/김천시시설관리공단 맞춤형 복지제도 운영내규.json",
+            "target_git_path": "김천시시설관리공단 맞춤형 복지제도 운영내규/김천시시설관리공단 맞춤형 복지제도 운영내규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -192,7 +201,9 @@
             "source_provision_id": "SchlPubRul:김천시시설관리공단맞춤형복지제도운영내규#JO0007",
             "reference_id": "law:주민등록법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "주민등록법/법률/주민등록법.json"
+            "target_git_path_guess": "주민등록법/법률/주민등록법.json",
+            "target_git_path": "주민등록법/법률/주민등록법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -212,7 +223,9 @@
             "source_provision_id": "SchlPubRul:김천시시설관리공단맞춤형복지제도운영내규#JO0007",
             "reference_id": "law:주민등록법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "주민등록법/법률/주민등록법.json"
+            "target_git_path_guess": "주민등록법/법률/주민등록법.json",
+            "target_git_path": "주민등록법/법률/주민등록법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -237,7 +250,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:김천시시설관리공단맞춤형복지제도운영내규#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "김천시시설관리공단 맞춤형 복지제도 운영내규/김천시시설관리공단 맞춤형 복지제도 운영내규.json"
+            "target_git_path_guess": "김천시시설관리공단 맞춤형 복지제도 운영내규/김천시시설관리공단 맞춤형 복지제도 운영내규.json",
+            "target_git_path": "김천시시설관리공단 맞춤형 복지제도 운영내규/김천시시설관리공단 맞춤형 복지제도 운영내규.json",
+            "target_git_file_path": "김천시시설관리공단 맞춤형 복지제도 운영내규/별지/별지1_맞춤형 복지 특별포인트(출산축하금) 지급 신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],

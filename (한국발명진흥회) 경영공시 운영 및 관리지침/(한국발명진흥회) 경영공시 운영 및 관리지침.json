@@ -160,7 +160,23 @@
             "target_git_path": "한국발명진흥회 정관/pi_2140493/한국발명진흥회 정관.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_doc_kind": "공단정관",
+            "target_candidate_paths": [
+              {
+                "git_path": "한국발명진흥회 정관/pi_2115247/한국발명진흥회 정관.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:한국발명진흥회정관:pi_2115247#DOC",
+                "is_current": true,
+                "enforcement_date": "20250710"
+              },
+              {
+                "git_path": "한국발명진흥회 정관/pi_2140493/한국발명진흥회 정관.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:한국발명진흥회정관:pi_2140493#DOC",
+                "is_current": true,
+                "enforcement_date": "20260114"
+              }
+            ]
           }
         ],
         "images": [],

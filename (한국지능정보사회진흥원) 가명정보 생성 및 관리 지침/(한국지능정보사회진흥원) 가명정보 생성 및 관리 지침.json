@@ -186,7 +186,9 @@
             "source_provision_id": "SchlPubRul:(한국지능정보사회진흥원)가명정보생성및관리지침#JO0011_02",
             "reference_id": "law:개인정보보호법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/시행령/개인정보 보호법 시행령.json"
+            "target_git_path_guess": "개인정보 보호법/시행령/개인정보 보호법 시행령.json",
+            "target_git_path": "개인정보 보호법/시행령/개인정보 보호법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -206,7 +208,9 @@
             "source_provision_id": "SchlPubRul:(한국지능정보사회진흥원)가명정보생성및관리지침#JO0011_02",
             "reference_id": "law:개인정보보호법시행령#JO0030",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/시행령/개인정보 보호법 시행령.json"
+            "target_git_path_guess": "개인정보 보호법/시행령/개인정보 보호법 시행령.json",
+            "target_git_path": "개인정보 보호법/시행령/개인정보 보호법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -226,7 +230,11 @@
             "source_provision_id": "SchlPubRul:(한국지능정보사회진흥원)가명정보생성및관리지침#JO0011_02",
             "reference_id": "admrul:개인정보의안전성확보조치기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "개인정보의 안전성 확보조치 기준/개인정보의 안전성 확보조치 기준.json"
+            "target_git_path_guess": "개인정보의 안전성 확보조치 기준/개인정보의 안전성 확보조치 기준.json",
+            "target_git_path": "개인정보의 안전성 확보조치 기준/개인정보의 안전성 확보조치 기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],

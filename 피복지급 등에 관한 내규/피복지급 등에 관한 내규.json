@@ -70,7 +70,23 @@
             "target_git_path": "피복지급 등에 관한 내규/피복지급 등에 관한 내규.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_doc_kind": "공공기관",
+            "target_candidate_paths": [
+              {
+                "git_path": "피복지급 등에 관한 내규/피복지급 등에 관한 내규.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:피복지급등에관한내규#JO0009",
+                "is_current": true,
+                "enforcement_date": "20200622"
+              },
+              {
+                "git_path": "피복지급등에관한내규/피복지급등에관한내규.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:피복지급등에관한내규#JO0009",
+                "is_current": true,
+                "enforcement_date": "20200331"
+              }
+            ]
           }
         ],
         "images": [],
@@ -135,7 +151,23 @@
             "target_git_file_path": "피복지급 등에 관한 내규/별표/별표1_피복 지급기준.hwp",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_doc_kind": "공공기관",
+            "target_candidate_paths": [
+              {
+                "git_path": "피복지급 등에 관한 내규/피복지급 등에 관한 내규.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:피복지급등에관한내규#BYL0001",
+                "is_current": true,
+                "enforcement_date": "20200622"
+              },
+              {
+                "git_path": "피복지급등에관한내규/피복지급등에관한내규.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:피복지급등에관한내규#BYL0001",
+                "is_current": true,
+                "enforcement_date": "20200331"
+              }
+            ]
           }
         ],
         "images": [],

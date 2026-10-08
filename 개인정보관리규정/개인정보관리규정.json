@@ -87,7 +87,11 @@
             "source_provision_id": "SchlPubRul:개인정보관리규정#JO0003",
             "reference_id": "SchlPubRul:개인정보관리규정#JO0025",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "개인정보관리규정/개인정보관리규정.json"
+            "target_git_path_guess": "개인정보관리규정/개인정보관리규정.json",
+            "target_git_path": "개인정보관리규정/개인정보관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -135,7 +139,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:개인정보관리규정#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "개인정보관리규정/개인정보관리규정.json"
+            "target_git_path_guess": "개인정보관리규정/개인정보관리규정.json",
+            "target_git_path": "개인정보관리규정/개인정보관리규정.json",
+            "target_git_file_path": "개인정보관리규정/별지/별지1_개인정보 수집, 이용 및 제3자 제공 동의서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -189,7 +198,11 @@
             "source_provision_id": "SchlPubRul:개인정보관리규정#JO0008",
             "reference_id": "SchlPubRul:개인정보관리규정#JO0015",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "개인정보관리규정/개인정보관리규정.json"
+            "target_git_path_guess": "개인정보관리규정/개인정보관리규정.json",
+            "target_git_path": "개인정보관리규정/개인정보관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -209,7 +222,11 @@
             "source_provision_id": "SchlPubRul:개인정보관리규정#JO0008",
             "reference_id": "SchlPubRul:개인정보관리규정#JO0017",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "개인정보관리규정/개인정보관리규정.json"
+            "target_git_path_guess": "개인정보관리규정/개인정보관리규정.json",
+            "target_git_path": "개인정보관리규정/개인정보관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -246,7 +263,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:개인정보관리규정#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "개인정보관리규정/개인정보관리규정.json"
+            "target_git_path_guess": "개인정보관리규정/개인정보관리규정.json",
+            "target_git_path": "개인정보관리규정/개인정보관리규정.json",
+            "target_git_file_path": "개인정보관리규정/별지/별지2_개인정보 목적외 이용_제공 대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -294,7 +316,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:개인정보관리규정#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "개인정보관리규정/개인정보관리규정.json"
+            "target_git_path_guess": "개인정보관리규정/개인정보관리규정.json",
+            "target_git_path": "개인정보관리규정/개인정보관리규정.json",
+            "target_git_file_path": "개인정보관리규정/별지/별지4_개인정보파일 파기 관리대장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -337,7 +364,9 @@
             "source_provision_id": "SchlPubRul:개인정보관리규정#JO0013",
             "reference_id": "law:형의실효등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json"
+            "target_git_path_guess": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json",
+            "target_git_path": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -357,7 +386,9 @@
             "source_provision_id": "SchlPubRul:개인정보관리규정#JO0013",
             "reference_id": "law:형의실효등에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json"
+            "target_git_path_guess": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json",
+            "target_git_path": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -377,7 +408,9 @@
             "source_provision_id": "SchlPubRul:개인정보관리규정#JO0013",
             "reference_id": "law:주민등록법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "주민등록법/법률/주민등록법.json"
+            "target_git_path_guess": "주민등록법/법률/주민등록법.json",
+            "target_git_path": "주민등록법/법률/주민등록법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -397,7 +430,9 @@
             "source_provision_id": "SchlPubRul:개인정보관리규정#JO0013",
             "reference_id": "law:주민등록법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "주민등록법/법률/주민등록법.json"
+            "target_git_path_guess": "주민등록법/법률/주민등록법.json",
+            "target_git_path": "주민등록법/법률/주민등록법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -417,7 +452,9 @@
             "source_provision_id": "SchlPubRul:개인정보관리규정#JO0013",
             "reference_id": "law:여권법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "여권법/법률/여권법.json"
+            "target_git_path_guess": "여권법/법률/여권법.json",
+            "target_git_path": "여권법/법률/여권법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -437,7 +474,9 @@
             "source_provision_id": "SchlPubRul:개인정보관리규정#JO0013",
             "reference_id": "law:여권법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "여권법/법률/여권법.json"
+            "target_git_path_guess": "여권법/법률/여권법.json",
+            "target_git_path": "여권법/법률/여권법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -457,7 +496,9 @@
             "source_provision_id": "SchlPubRul:개인정보관리규정#JO0013",
             "reference_id": "law:도로교통법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "도로교통법/법률/도로교통법.json"
+            "target_git_path_guess": "도로교통법/법률/도로교통법.json",
+            "target_git_path": "도로교통법/법률/도로교통법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -477,7 +518,9 @@
             "source_provision_id": "SchlPubRul:개인정보관리규정#JO0013",
             "reference_id": "law:도로교통법#JO0080",
             "target_repo": "LAW",
-            "target_git_path_guess": "도로교통법/법률/도로교통법.json"
+            "target_git_path_guess": "도로교통법/법률/도로교통법.json",
+            "target_git_path": "도로교통법/법률/도로교통법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -497,7 +540,9 @@
             "source_provision_id": "SchlPubRul:개인정보관리규정#JO0013",
             "reference_id": "law:출입국관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "출입국관리법/법률/출입국관리법.json"
+            "target_git_path_guess": "출입국관리법/법률/출입국관리법.json",
+            "target_git_path": "출입국관리법/법률/출입국관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -517,7 +562,9 @@
             "source_provision_id": "SchlPubRul:개인정보관리규정#JO0013",
             "reference_id": "law:출입국관리법#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "출입국관리법/법률/출입국관리법.json"
+            "target_git_path_guess": "출입국관리법/법률/출입국관리법.json",
+            "target_git_path": "출입국관리법/법률/출입국관리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -598,7 +645,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:개인정보관리규정#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "개인정보관리규정/개인정보관리규정.json"
+            "target_git_path_guess": "개인정보관리규정/개인정보관리규정.json",
+            "target_git_path": "개인정보관리규정/개인정보관리규정.json",
+            "target_git_file_path": "개인정보관리규정/별지/별지5_개인정보파일 등록_변경등록 신청서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -635,7 +687,12 @@
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:개인정보관리규정#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "개인정보관리규정/개인정보관리규정.json"
+            "target_git_path_guess": "개인정보관리규정/개인정보관리규정.json",
+            "target_git_path": "개인정보관리규정/개인정보관리규정.json",
+            "target_git_file_path": "개인정보관리규정/별지/별지6_개인정보 유출신고서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -672,7 +729,12 @@
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:개인정보관리규정#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "개인정보관리규정/개인정보관리규정.json"
+            "target_git_path_guess": "개인정보관리규정/개인정보관리규정.json",
+            "target_git_path": "개인정보관리규정/개인정보관리규정.json",
+            "target_git_file_path": "개인정보관리규정/별지/별지7_개인정보 열람_정정,삭제_처리정지 요구서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -697,7 +759,12 @@
             "target_unit": "BJ0008",
             "reference_id": "SchlPubRul:개인정보관리규정#BJ0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "개인정보관리규정/개인정보관리규정.json"
+            "target_git_path_guess": "개인정보관리규정/개인정보관리규정.json",
+            "target_git_path": "개인정보관리규정/개인정보관리규정.json",
+            "target_git_file_path": "개인정보관리규정/별지/별지8_개인정보 열람_일부열람_열람연기_열람거절 통지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -729,7 +796,11 @@
             "source_provision_id": "SchlPubRul:개인정보관리규정#JO0021",
             "reference_id": "SchlPubRul:개인정보관리규정#JO0020",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "개인정보관리규정/개인정보관리규정.json"
+            "target_git_path_guess": "개인정보관리규정/개인정보관리규정.json",
+            "target_git_path": "개인정보관리규정/개인정보관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -754,7 +825,12 @@
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:개인정보관리규정#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "개인정보관리규정/개인정보관리규정.json"
+            "target_git_path_guess": "개인정보관리규정/개인정보관리규정.json",
+            "target_git_path": "개인정보관리규정/개인정보관리규정.json",
+            "target_git_file_path": "개인정보관리규정/별지/별지7_개인정보 열람_정정,삭제_처리정지 요구서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -779,7 +855,12 @@
             "target_unit": "BJ0009",
             "reference_id": "SchlPubRul:개인정보관리규정#BJ0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "개인정보관리규정/개인정보관리규정.json"
+            "target_git_path_guess": "개인정보관리규정/개인정보관리규정.json",
+            "target_git_path": "개인정보관리규정/개인정보관리규정.json",
+            "target_git_file_path": "개인정보관리규정/별지/별지9_개인정보 정정,삭제_처리정지 요구에 대한 결과 통지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -811,7 +892,11 @@
             "source_provision_id": "SchlPubRul:개인정보관리규정#JO0022",
             "reference_id": "SchlPubRul:개인정보관리규정#JO0020",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "개인정보관리규정/개인정보관리규정.json"
+            "target_git_path_guess": "개인정보관리규정/개인정보관리규정.json",
+            "target_git_path": "개인정보관리규정/개인정보관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -836,7 +921,12 @@
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:개인정보관리규정#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "개인정보관리규정/개인정보관리규정.json"
+            "target_git_path_guess": "개인정보관리규정/개인정보관리규정.json",
+            "target_git_path": "개인정보관리규정/개인정보관리규정.json",
+            "target_git_file_path": "개인정보관리규정/별지/별지7_개인정보 열람_정정,삭제_처리정지 요구서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -861,7 +951,12 @@
             "target_unit": "BJ0009",
             "reference_id": "SchlPubRul:개인정보관리규정#BJ0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "개인정보관리규정/개인정보관리규정.json"
+            "target_git_path_guess": "개인정보관리규정/개인정보관리규정.json",
+            "target_git_path": "개인정보관리규정/개인정보관리규정.json",
+            "target_git_file_path": "개인정보관리규정/별지/별지9_개인정보 정정,삭제_처리정지 요구에 대한 결과 통지서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -898,7 +993,12 @@
             "target_unit": "BJ0010",
             "reference_id": "SchlPubRul:개인정보관리규정#BJ0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "개인정보관리규정/개인정보관리규정.json"
+            "target_git_path_guess": "개인정보관리규정/개인정보관리규정.json",
+            "target_git_path": "개인정보관리규정/개인정보관리규정.json",
+            "target_git_file_path": "개인정보관리규정/별지/별지10_위임장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -941,7 +1041,9 @@
             "source_provision_id": "SchlPubRul:개인정보관리규정#JO0025",
             "reference_id": "law:행정절차법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정절차법/법률/행정절차법.json"
+            "target_git_path_guess": "행정절차법/법률/행정절차법.json",
+            "target_git_path": "행정절차법/법률/행정절차법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -973,7 +1075,11 @@
             "source_provision_id": "SchlPubRul:개인정보관리규정#JO0026",
             "reference_id": "SchlPubRul:개인정보관리규정#JO0025",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "개인정보관리규정/개인정보관리규정.json"
+            "target_git_path_guess": "개인정보관리규정/개인정보관리규정.json",
+            "target_git_path": "개인정보관리규정/개인정보관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],

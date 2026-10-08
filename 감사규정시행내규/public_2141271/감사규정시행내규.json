@@ -447,7 +447,23 @@
             "target_git_path": "임직원 업무관련 범죄고발규정/임직원 업무관련 범죄고발규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_doc_kind": "공공기관",
+            "target_candidate_paths": [
+              {
+                "git_path": "임ㆍ직원 업무관련 범죄 고발규정/임ㆍ직원 업무관련 범죄 고발규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:임직원업무관련범죄고발규정#DOC",
+                "is_current": true,
+                "enforcement_date": "20110714"
+              },
+              {
+                "git_path": "임직원 업무관련 범죄고발규정/임직원 업무관련 범죄고발규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:임직원업무관련범죄고발규정#DOC",
+                "is_current": true,
+                "enforcement_date": "20200429"
+              }
+            ]
           },
           {
             "relation_type": "appendix_ref",

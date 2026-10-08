@@ -148,7 +148,37 @@
             "target_git_path": "여비규정/public_2130973/여비규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_doc_kind": "공공기관",
+            "target_candidate_paths": [
+              {
+                "git_path": "여비규정/public_2127979/여비규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:여비규정:public_2127979#DOC",
+                "is_current": true,
+                "enforcement_date": "20200331"
+              },
+              {
+                "git_path": "여비규정/public_2128241/여비규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:여비규정:public_2128241#DOC",
+                "is_current": true,
+                "enforcement_date": "20240101"
+              },
+              {
+                "git_path": "여비규정/public_2130973/여비규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:여비규정:public_2130973#DOC",
+                "is_current": true,
+                "enforcement_date": "20250401"
+              },
+              {
+                "git_path": "여비규정/public_2141167/여비규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:여비규정:public_2141167#DOC",
+                "is_current": true,
+                "enforcement_date": "20241018"
+              }
+            ]
           },
           {
             "relation_type": "appendix_ref",
@@ -179,7 +209,37 @@
             "target_git_file_path": "여비규정/public_2130973/별표/별표1_국내외 여비 지급 기준표.hwp",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_doc_kind": "공공기관",
+            "target_candidate_paths": [
+              {
+                "git_path": "여비규정/public_2127979/여비규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:여비규정:public_2127979#BYL0001",
+                "is_current": true,
+                "enforcement_date": "20200331"
+              },
+              {
+                "git_path": "여비규정/public_2128241/여비규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:여비규정:public_2128241#BYL0001",
+                "is_current": true,
+                "enforcement_date": "20240101"
+              },
+              {
+                "git_path": "여비규정/public_2130973/여비규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:여비규정:public_2130973#BYL0001",
+                "is_current": true,
+                "enforcement_date": "20250401"
+              },
+              {
+                "git_path": "여비규정/public_2141167/여비규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:여비규정:public_2141167#BYL0001",
+                "is_current": true,
+                "enforcement_date": "20241018"
+              }
+            ]
           }
         ],
         "images": [],

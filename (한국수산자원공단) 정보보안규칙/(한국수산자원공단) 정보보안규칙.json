@@ -63,13 +63,30 @@
             "target_url": "https://www.law.go.kr/행정규칙/해양수산부 정보보안업무규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국수산자원공단)정보보안규칙#JO0001",
-            "reference_id": "admrul:해양수산부정보보안업무규정#DOC",
+            "reference_id": "admrul:해양수산부사이버보안업무규정#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "해양수산부 정보보안업무규정/해양수산부 정보보안업무규정.json",
-            "target_git_path": "해양수산부 정보보안업무규정/해양수산부 정보보안업무규정.json",
+            "target_git_path": "해양수산부 사이버보안 업무규정/해양수산부 사이버보안 업무규정.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "해양수산부 사이버보안 업무규정/해양수산부 사이버보안 업무규정.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:해양수산부사이버보안업무규정#DOC",
+                "is_current": true,
+                "enforcement_date": "20260908"
+              },
+              {
+                "git_path": "해양수산부 정보보안업무규정/해양수산부 정보보안업무규정.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:해양수산부정보보안업무규정#DOC",
+                "is_current": true,
+                "enforcement_date": "20250908"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -87,13 +104,30 @@
             "target_url": "https://www.law.go.kr/행정규칙/해양수산부 정보보안업무규정/제3조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국수산자원공단)정보보안규칙#JO0001",
-            "reference_id": "admrul:해양수산부정보보안업무규정#JO0003",
+            "reference_id": "admrul:해양수산부사이버보안업무규정#JO0003",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "해양수산부 정보보안업무규정/해양수산부 정보보안업무규정.json",
-            "target_git_path": "해양수산부 정보보안업무규정/해양수산부 정보보안업무규정.json",
+            "target_git_path": "해양수산부 사이버보안 업무규정/해양수산부 사이버보안 업무규정.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "해양수산부 사이버보안 업무규정/해양수산부 사이버보안 업무규정.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:해양수산부사이버보안업무규정#JO0003",
+                "is_current": true,
+                "enforcement_date": "20260908"
+              },
+              {
+                "git_path": "해양수산부 정보보안업무규정/해양수산부 정보보안업무규정.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:해양수산부정보보안업무규정#JO0003",
+                "is_current": true,
+                "enforcement_date": "20250908"
+              }
+            ]
           }
         ],
         "images": [],
@@ -167,13 +201,30 @@
             "target_url": "https://www.law.go.kr/행정규칙/해양수산부 정보보안업무규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국수산자원공단)정보보안규칙#JO0006",
-            "reference_id": "admrul:해양수산부정보보안업무규정#DOC",
+            "reference_id": "admrul:해양수산부사이버보안업무규정#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "해양수산부 정보보안업무규정/해양수산부 정보보안업무규정.json",
-            "target_git_path": "해양수산부 정보보안업무규정/해양수산부 정보보안업무규정.json",
+            "target_git_path": "해양수산부 사이버보안 업무규정/해양수산부 사이버보안 업무규정.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "해양수산부 사이버보안 업무규정/해양수산부 사이버보안 업무규정.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:해양수산부사이버보안업무규정#DOC",
+                "is_current": true,
+                "enforcement_date": "20260908"
+              },
+              {
+                "git_path": "해양수산부 정보보안업무규정/해양수산부 정보보안업무규정.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:해양수산부정보보안업무규정#DOC",
+                "is_current": true,
+                "enforcement_date": "20250908"
+              }
+            ]
           }
         ],
         "images": [],

@@ -897,7 +897,37 @@
             "target_git_path": "기록관 운영규정/public/기록관 운영규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_doc_kind": "공공기관",
+            "target_candidate_paths": [
+              {
+                "git_path": "기록관 운영 규정/public/기록관 운영 규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:기록관운영규정:public#DOC",
+                "is_current": true,
+                "enforcement_date": "20230407"
+              },
+              {
+                "git_path": "기록관 운영 규정/school/기록관 운영 규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:기록관운영규정:school#DOC",
+                "is_current": true,
+                "enforcement_date": "20151028"
+              },
+              {
+                "git_path": "기록관 운영규정/public/기록관 운영규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:기록관운영규정:public#DOC",
+                "is_current": true,
+                "enforcement_date": "20260713"
+              },
+              {
+                "git_path": "기록관 운영규정/school/기록관 운영규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:기록관운영규정:school#DOC",
+                "is_current": true,
+                "enforcement_date": "20151203"
+              }
+            ]
           }
         ],
         "images": [],

@@ -63,9 +63,51 @@
             "target_url": "https://www.law.go.kr/학칙공단/직제규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:직제규정시행내규:public_2128261#JO0001",
-            "reference_id": "SchlPubRul:직제규정#DOC",
+            "reference_id": "SchlPubRul:직제규정:public_2141139#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "직제규정/직제규정.json"
+            "target_git_path_guess": "직제규정/직제규정.json",
+            "target_candidates": 5,
+            "target_candidate_paths": [
+              {
+                "git_path": "직제규정/public_2127825/직제규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:직제규정:public_2127825#DOC",
+                "is_current": true,
+                "enforcement_date": "20260818"
+              },
+              {
+                "git_path": "직제규정/public_2128001/직제규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:직제규정:public_2128001#DOC",
+                "is_current": true,
+                "enforcement_date": "20230310"
+              },
+              {
+                "git_path": "직제규정/public_2128257/직제규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:직제규정:public_2128257#DOC",
+                "is_current": true,
+                "enforcement_date": "20250403"
+              },
+              {
+                "git_path": "직제규정/public_2141139/직제규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:직제규정:public_2141139#DOC",
+                "is_current": true,
+                "enforcement_date": "20260921"
+              },
+              {
+                "git_path": "직제규정/public_2141381/직제규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:직제규정:public_2141381#DOC",
+                "is_current": true,
+                "enforcement_date": "20260128"
+              }
+            ],
+            "target_git_path": "직제규정/public_2141139/직제규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -124,7 +166,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:직제규정시행내규:public_2128261#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "직제규정 시행내규/직제규정 시행내규.json"
+            "target_git_path_guess": "직제규정 시행내규/직제규정 시행내규.json",
+            "target_git_path": "직제규정 시행내규/public_2128261/직제규정 시행내규.json",
+            "target_git_file_path": "직제규정 시행내규/public_2128261/별표/별표1_기구표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -172,7 +219,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:직제규정시행내규:public_2128261#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "직제규정 시행내규/직제규정 시행내규.json"
+            "target_git_path_guess": "직제규정 시행내규/직제규정 시행내규.json",
+            "target_git_path": "직제규정 시행내규/public_2128261/직제규정 시행내규.json",
+            "target_git_file_path": "직제규정 시행내규/public_2128261/별표/별표2_세부 정원표.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -209,7 +261,12 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:직제규정시행내규:public_2128261#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "직제규정 시행내규/직제규정 시행내규.json"
+            "target_git_path_guess": "직제규정 시행내규/직제규정 시행내규.json",
+            "target_git_path": "직제규정 시행내규/public_2128261/직제규정 시행내규.json",
+            "target_git_file_path": "직제규정 시행내규/public_2128261/별표/별표3_업무분장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -234,7 +291,12 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:직제규정시행내규:public_2128261#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "직제규정 시행내규/직제규정 시행내규.json"
+            "target_git_path_guess": "직제규정 시행내규/직제규정 시행내규.json",
+            "target_git_path": "직제규정 시행내규/public_2128261/직제규정 시행내규.json",
+            "target_git_file_path": "직제규정 시행내규/public_2128261/별표/별표3_업무분장.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -659,5 +721,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "직제규정 시행내규/public_2128261/직제규정 시행내규.json"
+  "git_path": "직제규정 시행내규/public_2128261/직제규정 시행내규.json",
+  "_schlpub_id_suffix": "public_2128261"
 }

@@ -117,7 +117,23 @@
             "target_git_path": "취업규정/public_2141121/취업규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_doc_kind": "공공기관",
+            "target_candidate_paths": [
+              {
+                "git_path": "취업규정/public_2128279/취업규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:취업규정:public_2128279#DOC",
+                "is_current": true,
+                "enforcement_date": "20260220"
+              },
+              {
+                "git_path": "취업규정/public_2141121/취업규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:취업규정:public_2141121#DOC",
+                "is_current": true,
+                "enforcement_date": "20260720"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -142,7 +158,37 @@
             "target_git_path": "인사규정/public_2130247/인사규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_doc_kind": "공공기관",
+            "target_candidate_paths": [
+              {
+                "git_path": "인사규정/public_2127985/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2127985#DOC",
+                "is_current": true,
+                "enforcement_date": "20230310"
+              },
+              {
+                "git_path": "인사규정/public_2128323/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2128323#DOC",
+                "is_current": true,
+                "enforcement_date": "20250109"
+              },
+              {
+                "git_path": "인사규정/public_2130247/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2130247#DOC",
+                "is_current": true,
+                "enforcement_date": "20260818"
+              },
+              {
+                "git_path": "인사규정/public_2141221/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2141221#DOC",
+                "is_current": true,
+                "enforcement_date": "20260805"
+              }
+            ]
           }
         ],
         "images": [],
@@ -244,14 +290,51 @@
             "target_url": "https://www.law.go.kr/학칙공단/직제규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:부산환경공단무기계약근로자관리운영규정#JO0005",
-            "reference_id": "SchlPubRul:직제규정:public_2127825#DOC",
+            "reference_id": "SchlPubRul:직제규정:public_2141139#DOC",
             "target_repo": "SCHLPUBRUL",
             "target_git_path_guess": "직제규정/직제규정.json",
             "target_candidates": 5,
-            "target_git_path": "직제규정/public_2127825/직제규정.json",
+            "target_git_path": "직제규정/public_2141139/직제규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_doc_kind": "공공기관",
+            "target_candidate_paths": [
+              {
+                "git_path": "직제규정/public_2127825/직제규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:직제규정:public_2127825#DOC",
+                "is_current": true,
+                "enforcement_date": "20260818"
+              },
+              {
+                "git_path": "직제규정/public_2128001/직제규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:직제규정:public_2128001#DOC",
+                "is_current": true,
+                "enforcement_date": "20230310"
+              },
+              {
+                "git_path": "직제규정/public_2128257/직제규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:직제규정:public_2128257#DOC",
+                "is_current": true,
+                "enforcement_date": "20250403"
+              },
+              {
+                "git_path": "직제규정/public_2141139/직제규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:직제규정:public_2141139#DOC",
+                "is_current": true,
+                "enforcement_date": "20260921"
+              },
+              {
+                "git_path": "직제규정/public_2141381/직제규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:직제규정:public_2141381#DOC",
+                "is_current": true,
+                "enforcement_date": "20260128"
+              }
+            ]
           },
           {
             "relation_type": "appendix_ref",
@@ -274,15 +357,52 @@
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:부산환경공단무기계약근로자관리운영규정#JO0005",
             "target_unit": "BYL0002",
-            "reference_id": "SchlPubRul:직제규정:public_2127825#BYL0002",
+            "reference_id": "SchlPubRul:직제규정:public_2141139#BYL0002",
             "target_repo": "SCHLPUBRUL",
             "target_git_path_guess": "직제규정/직제규정.json",
             "target_candidates": 5,
-            "target_git_path": "직제규정/public_2127825/직제규정.json",
-            "target_git_file_path": "직제규정/public_2127825/별표/별표2_정원표.hwp",
+            "target_git_path": "직제규정/public_2141139/직제규정.json",
+            "target_git_file_path": "직제규정/public_2141139/별표/별표2_정원표.hwp",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_doc_kind": "공공기관",
+            "target_candidate_paths": [
+              {
+                "git_path": "직제규정/public_2127825/직제규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:직제규정:public_2127825#BYL0002",
+                "is_current": true,
+                "enforcement_date": "20260818"
+              },
+              {
+                "git_path": "직제규정/public_2128001/직제규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:직제규정:public_2128001#BYL0002",
+                "is_current": true,
+                "enforcement_date": "20230310"
+              },
+              {
+                "git_path": "직제규정/public_2128257/직제규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:직제규정:public_2128257#BYL0002",
+                "is_current": true,
+                "enforcement_date": "20250403"
+              },
+              {
+                "git_path": "직제규정/public_2141139/직제규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:직제규정:public_2141139#BYL0002",
+                "is_current": true,
+                "enforcement_date": "20260921"
+              },
+              {
+                "git_path": "직제규정/public_2141381/직제규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:직제규정:public_2141381#BYL0002",
+                "is_current": true,
+                "enforcement_date": "20260128"
+              }
+            ]
           }
         ],
         "images": [],
@@ -330,7 +450,37 @@
             "target_git_path": "인사규정/public_2130247/인사규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_doc_kind": "공공기관",
+            "target_candidate_paths": [
+              {
+                "git_path": "인사규정/public_2127985/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2127985#DOC",
+                "is_current": true,
+                "enforcement_date": "20230310"
+              },
+              {
+                "git_path": "인사규정/public_2128323/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2128323#DOC",
+                "is_current": true,
+                "enforcement_date": "20250109"
+              },
+              {
+                "git_path": "인사규정/public_2130247/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2130247#DOC",
+                "is_current": true,
+                "enforcement_date": "20260818"
+              },
+              {
+                "git_path": "인사규정/public_2141221/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2141221#DOC",
+                "is_current": true,
+                "enforcement_date": "20260805"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -355,7 +505,37 @@
             "target_git_path": "인사규정/public_2130247/인사규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_doc_kind": "공공기관",
+            "target_candidate_paths": [
+              {
+                "git_path": "인사규정/public_2127985/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2127985#JO0004",
+                "is_current": true,
+                "enforcement_date": "20230310"
+              },
+              {
+                "git_path": "인사규정/public_2128323/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2128323#JO0004",
+                "is_current": true,
+                "enforcement_date": "20250109"
+              },
+              {
+                "git_path": "인사규정/public_2130247/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2130247#JO0004",
+                "is_current": true,
+                "enforcement_date": "20260818"
+              },
+              {
+                "git_path": "인사규정/public_2141221/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2141221#JO0004",
+                "is_current": true,
+                "enforcement_date": "20260805"
+              }
+            ]
           }
         ],
         "images": [],
@@ -403,7 +583,37 @@
             "target_git_path": "인사규정시행내규/public_2141181/인사규정시행내규.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_doc_kind": "공공기관",
+            "target_candidate_paths": [
+              {
+                "git_path": "인사규정 시행내규/인사규정 시행내규.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정시행내규#DOC",
+                "is_current": true,
+                "enforcement_date": "20260129"
+              },
+              {
+                "git_path": "인사규정시행내규/public_2127989/인사규정시행내규.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정시행내규:public_2127989#DOC",
+                "is_current": true,
+                "enforcement_date": "20231115"
+              },
+              {
+                "git_path": "인사규정시행내규/public_2136781/인사규정시행내규.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정시행내규:public_2136781#DOC",
+                "is_current": true,
+                "enforcement_date": "20260918"
+              },
+              {
+                "git_path": "인사규정시행내규/public_2141181/인사규정시행내규.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정시행내규:public_2141181#DOC",
+                "is_current": true,
+                "enforcement_date": "20260930"
+              }
+            ]
           }
         ],
         "images": [],
@@ -537,7 +747,37 @@
             "target_git_path": "인사규정/public_2130247/인사규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_doc_kind": "공공기관",
+            "target_candidate_paths": [
+              {
+                "git_path": "인사규정/public_2127985/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2127985#DOC",
+                "is_current": true,
+                "enforcement_date": "20230310"
+              },
+              {
+                "git_path": "인사규정/public_2128323/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2128323#DOC",
+                "is_current": true,
+                "enforcement_date": "20250109"
+              },
+              {
+                "git_path": "인사규정/public_2130247/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2130247#DOC",
+                "is_current": true,
+                "enforcement_date": "20260818"
+              },
+              {
+                "git_path": "인사규정/public_2141221/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2141221#DOC",
+                "is_current": true,
+                "enforcement_date": "20260805"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -562,7 +802,37 @@
             "target_git_path": "인사규정/public_2130247/인사규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_doc_kind": "공공기관",
+            "target_candidate_paths": [
+              {
+                "git_path": "인사규정/public_2127985/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2127985#JO0014",
+                "is_current": true,
+                "enforcement_date": "20230310"
+              },
+              {
+                "git_path": "인사규정/public_2128323/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2128323#JO0014",
+                "is_current": true,
+                "enforcement_date": "20250109"
+              },
+              {
+                "git_path": "인사규정/public_2130247/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2130247#JO0014",
+                "is_current": true,
+                "enforcement_date": "20260818"
+              },
+              {
+                "git_path": "인사규정/public_2141221/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2141221#JO0014",
+                "is_current": true,
+                "enforcement_date": "20260805"
+              }
+            ]
           }
         ],
         "images": [],
@@ -689,7 +959,30 @@
             "target_git_path": "보수규정/public_2128339/보수규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_doc_kind": "공공기관",
+            "target_candidate_paths": [
+              {
+                "git_path": "보수규정/public_2127935/보수규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:보수규정:public_2127935#DOC",
+                "is_current": true,
+                "enforcement_date": "20230310"
+              },
+              {
+                "git_path": "보수규정/public_2128339/보수규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:보수규정:public_2128339#DOC",
+                "is_current": true,
+                "enforcement_date": "20260101"
+              },
+              {
+                "git_path": "보수규정/public_2141161/보수규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:보수규정:public_2141161#DOC",
+                "is_current": true,
+                "enforcement_date": "20251216"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -1059,7 +1352,37 @@
             "target_git_path": "인사규정/public_2130247/인사규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_doc_kind": "공공기관",
+            "target_candidate_paths": [
+              {
+                "git_path": "인사규정/public_2127985/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2127985#DOC",
+                "is_current": true,
+                "enforcement_date": "20230310"
+              },
+              {
+                "git_path": "인사규정/public_2128323/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2128323#DOC",
+                "is_current": true,
+                "enforcement_date": "20250109"
+              },
+              {
+                "git_path": "인사규정/public_2130247/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2130247#DOC",
+                "is_current": true,
+                "enforcement_date": "20260818"
+              },
+              {
+                "git_path": "인사규정/public_2141221/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2141221#DOC",
+                "is_current": true,
+                "enforcement_date": "20260805"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -1084,7 +1407,37 @@
             "target_git_path": "인사규정/public_2130247/인사규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_doc_kind": "공공기관",
+            "target_candidate_paths": [
+              {
+                "git_path": "인사규정/public_2127985/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2127985#JO0035",
+                "is_current": true,
+                "enforcement_date": "20230310"
+              },
+              {
+                "git_path": "인사규정/public_2128323/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2128323#JO0035",
+                "is_current": true,
+                "enforcement_date": "20250109"
+              },
+              {
+                "git_path": "인사규정/public_2130247/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2130247#JO0035",
+                "is_current": true,
+                "enforcement_date": "20260818"
+              },
+              {
+                "git_path": "인사규정/public_2141221/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2141221#JO0035",
+                "is_current": true,
+                "enforcement_date": "20260805"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -1109,7 +1462,37 @@
             "target_git_path": "인사규정/public_2130247/인사규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_doc_kind": "공공기관",
+            "target_candidate_paths": [
+              {
+                "git_path": "인사규정/public_2127985/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2127985#JO0036",
+                "is_current": true,
+                "enforcement_date": "20230310"
+              },
+              {
+                "git_path": "인사규정/public_2128323/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2128323#JO0036",
+                "is_current": true,
+                "enforcement_date": "20250109"
+              },
+              {
+                "git_path": "인사규정/public_2130247/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2130247#JO0036",
+                "is_current": true,
+                "enforcement_date": "20260818"
+              },
+              {
+                "git_path": "인사규정/public_2141221/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2141221#JO0036",
+                "is_current": true,
+                "enforcement_date": "20260805"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -1134,7 +1517,37 @@
             "target_git_path": "인사규정/public_2130247/인사규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_doc_kind": "공공기관",
+            "target_candidate_paths": [
+              {
+                "git_path": "인사규정/public_2127985/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2127985#JO0037",
+                "is_current": true,
+                "enforcement_date": "20230310"
+              },
+              {
+                "git_path": "인사규정/public_2128323/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2128323#JO0037",
+                "is_current": true,
+                "enforcement_date": "20250109"
+              },
+              {
+                "git_path": "인사규정/public_2130247/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2130247#JO0037",
+                "is_current": true,
+                "enforcement_date": "20260818"
+              },
+              {
+                "git_path": "인사규정/public_2141221/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2141221#JO0037",
+                "is_current": true,
+                "enforcement_date": "20260805"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -1159,7 +1572,37 @@
             "target_git_path": "인사규정/public_2130247/인사규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_doc_kind": "공공기관",
+            "target_candidate_paths": [
+              {
+                "git_path": "인사규정/public_2127985/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2127985#JO0035",
+                "is_current": true,
+                "enforcement_date": "20230310"
+              },
+              {
+                "git_path": "인사규정/public_2128323/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2128323#JO0035",
+                "is_current": true,
+                "enforcement_date": "20250109"
+              },
+              {
+                "git_path": "인사규정/public_2130247/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2130247#JO0035",
+                "is_current": true,
+                "enforcement_date": "20260818"
+              },
+              {
+                "git_path": "인사규정/public_2141221/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2141221#JO0035",
+                "is_current": true,
+                "enforcement_date": "20260805"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -1184,7 +1627,37 @@
             "target_git_path": "인사규정/public_2130247/인사규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_doc_kind": "공공기관",
+            "target_candidate_paths": [
+              {
+                "git_path": "인사규정/public_2127985/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2127985#JO0036",
+                "is_current": true,
+                "enforcement_date": "20230310"
+              },
+              {
+                "git_path": "인사규정/public_2128323/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2128323#JO0036",
+                "is_current": true,
+                "enforcement_date": "20250109"
+              },
+              {
+                "git_path": "인사규정/public_2130247/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2130247#JO0036",
+                "is_current": true,
+                "enforcement_date": "20260818"
+              },
+              {
+                "git_path": "인사규정/public_2141221/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2141221#JO0036",
+                "is_current": true,
+                "enforcement_date": "20260805"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -1209,7 +1682,37 @@
             "target_git_path": "인사규정/public_2130247/인사규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_doc_kind": "공공기관",
+            "target_candidate_paths": [
+              {
+                "git_path": "인사규정/public_2127985/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2127985#JO0037",
+                "is_current": true,
+                "enforcement_date": "20230310"
+              },
+              {
+                "git_path": "인사규정/public_2128323/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2128323#JO0037",
+                "is_current": true,
+                "enforcement_date": "20250109"
+              },
+              {
+                "git_path": "인사규정/public_2130247/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2130247#JO0037",
+                "is_current": true,
+                "enforcement_date": "20260818"
+              },
+              {
+                "git_path": "인사규정/public_2141221/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2141221#JO0037",
+                "is_current": true,
+                "enforcement_date": "20260805"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -1234,7 +1737,37 @@
             "target_git_path": "인사규정/public_2130247/인사규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_doc_kind": "공공기관",
+            "target_candidate_paths": [
+              {
+                "git_path": "인사규정/public_2127985/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2127985#JO0035",
+                "is_current": true,
+                "enforcement_date": "20230310"
+              },
+              {
+                "git_path": "인사규정/public_2128323/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2128323#JO0035",
+                "is_current": true,
+                "enforcement_date": "20250109"
+              },
+              {
+                "git_path": "인사규정/public_2130247/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2130247#JO0035",
+                "is_current": true,
+                "enforcement_date": "20260818"
+              },
+              {
+                "git_path": "인사규정/public_2141221/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2141221#JO0035",
+                "is_current": true,
+                "enforcement_date": "20260805"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -1259,7 +1792,37 @@
             "target_git_path": "인사규정/public_2130247/인사규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_doc_kind": "공공기관",
+            "target_candidate_paths": [
+              {
+                "git_path": "인사규정/public_2127985/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2127985#JO0035",
+                "is_current": true,
+                "enforcement_date": "20230310"
+              },
+              {
+                "git_path": "인사규정/public_2128323/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2128323#JO0035",
+                "is_current": true,
+                "enforcement_date": "20250109"
+              },
+              {
+                "git_path": "인사규정/public_2130247/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2130247#JO0035",
+                "is_current": true,
+                "enforcement_date": "20260818"
+              },
+              {
+                "git_path": "인사규정/public_2141221/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2141221#JO0035",
+                "is_current": true,
+                "enforcement_date": "20260805"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -1284,7 +1847,37 @@
             "target_git_path": "인사규정/public_2130247/인사규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_doc_kind": "공공기관",
+            "target_candidate_paths": [
+              {
+                "git_path": "인사규정/public_2127985/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2127985#JO0036",
+                "is_current": true,
+                "enforcement_date": "20230310"
+              },
+              {
+                "git_path": "인사규정/public_2128323/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2128323#JO0036",
+                "is_current": true,
+                "enforcement_date": "20250109"
+              },
+              {
+                "git_path": "인사규정/public_2130247/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2130247#JO0036",
+                "is_current": true,
+                "enforcement_date": "20260818"
+              },
+              {
+                "git_path": "인사규정/public_2141221/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2141221#JO0036",
+                "is_current": true,
+                "enforcement_date": "20260805"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -1309,7 +1902,37 @@
             "target_git_path": "인사규정/public_2130247/인사규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_doc_kind": "공공기관",
+            "target_candidate_paths": [
+              {
+                "git_path": "인사규정/public_2127985/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2127985#JO0037",
+                "is_current": true,
+                "enforcement_date": "20230310"
+              },
+              {
+                "git_path": "인사규정/public_2128323/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2128323#JO0037",
+                "is_current": true,
+                "enforcement_date": "20250109"
+              },
+              {
+                "git_path": "인사규정/public_2130247/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2130247#JO0037",
+                "is_current": true,
+                "enforcement_date": "20260818"
+              },
+              {
+                "git_path": "인사규정/public_2141221/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2141221#JO0037",
+                "is_current": true,
+                "enforcement_date": "20260805"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -1334,7 +1957,37 @@
             "target_git_path": "인사규정/public_2130247/인사규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_doc_kind": "공공기관",
+            "target_candidate_paths": [
+              {
+                "git_path": "인사규정/public_2127985/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2127985#JO0037",
+                "is_current": true,
+                "enforcement_date": "20230310"
+              },
+              {
+                "git_path": "인사규정/public_2128323/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2128323#JO0037",
+                "is_current": true,
+                "enforcement_date": "20250109"
+              },
+              {
+                "git_path": "인사규정/public_2130247/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2130247#JO0037",
+                "is_current": true,
+                "enforcement_date": "20260818"
+              },
+              {
+                "git_path": "인사규정/public_2141221/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2141221#JO0037",
+                "is_current": true,
+                "enforcement_date": "20260805"
+              }
+            ]
           }
         ],
         "images": [],
@@ -1371,7 +2024,37 @@
             "target_git_path": "인사규정/public_2130247/인사규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_doc_kind": "공공기관",
+            "target_candidate_paths": [
+              {
+                "git_path": "인사규정/public_2127985/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2127985#DOC",
+                "is_current": true,
+                "enforcement_date": "20230310"
+              },
+              {
+                "git_path": "인사규정/public_2128323/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2128323#DOC",
+                "is_current": true,
+                "enforcement_date": "20250109"
+              },
+              {
+                "git_path": "인사규정/public_2130247/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2130247#DOC",
+                "is_current": true,
+                "enforcement_date": "20260818"
+              },
+              {
+                "git_path": "인사규정/public_2141221/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2141221#DOC",
+                "is_current": true,
+                "enforcement_date": "20260805"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -1396,7 +2079,37 @@
             "target_git_path": "인사규정/public_2130247/인사규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_doc_kind": "공공기관",
+            "target_candidate_paths": [
+              {
+                "git_path": "인사규정/public_2127985/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2127985#JO0040",
+                "is_current": true,
+                "enforcement_date": "20230310"
+              },
+              {
+                "git_path": "인사규정/public_2128323/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2128323#JO0040",
+                "is_current": true,
+                "enforcement_date": "20250109"
+              },
+              {
+                "git_path": "인사규정/public_2130247/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2130247#JO0040",
+                "is_current": true,
+                "enforcement_date": "20260818"
+              },
+              {
+                "git_path": "인사규정/public_2141221/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2141221#JO0040",
+                "is_current": true,
+                "enforcement_date": "20260805"
+              }
+            ]
           }
         ],
         "images": [],
@@ -1433,7 +2146,37 @@
             "target_git_path": "인사규정/public_2130247/인사규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_doc_kind": "공공기관",
+            "target_candidate_paths": [
+              {
+                "git_path": "인사규정/public_2127985/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2127985#DOC",
+                "is_current": true,
+                "enforcement_date": "20230310"
+              },
+              {
+                "git_path": "인사규정/public_2128323/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2128323#DOC",
+                "is_current": true,
+                "enforcement_date": "20250109"
+              },
+              {
+                "git_path": "인사규정/public_2130247/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2130247#DOC",
+                "is_current": true,
+                "enforcement_date": "20260818"
+              },
+              {
+                "git_path": "인사규정/public_2141221/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2141221#DOC",
+                "is_current": true,
+                "enforcement_date": "20260805"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -1458,7 +2201,37 @@
             "target_git_path": "인사규정/public_2130247/인사규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_doc_kind": "공공기관",
+            "target_candidate_paths": [
+              {
+                "git_path": "인사규정/public_2127985/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2127985#JO0041",
+                "is_current": true,
+                "enforcement_date": "20230310"
+              },
+              {
+                "git_path": "인사규정/public_2128323/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2128323#JO0041",
+                "is_current": true,
+                "enforcement_date": "20250109"
+              },
+              {
+                "git_path": "인사규정/public_2130247/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2130247#JO0041",
+                "is_current": true,
+                "enforcement_date": "20260818"
+              },
+              {
+                "git_path": "인사규정/public_2141221/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2141221#JO0041",
+                "is_current": true,
+                "enforcement_date": "20260805"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -1483,7 +2256,37 @@
             "target_git_path": "인사규정/public_2130247/인사규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_doc_kind": "공공기관",
+            "target_candidate_paths": [
+              {
+                "git_path": "인사규정/public_2127985/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2127985#JO0042",
+                "is_current": true,
+                "enforcement_date": "20230310"
+              },
+              {
+                "git_path": "인사규정/public_2128323/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2128323#JO0042",
+                "is_current": true,
+                "enforcement_date": "20250109"
+              },
+              {
+                "git_path": "인사규정/public_2130247/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2130247#JO0042",
+                "is_current": true,
+                "enforcement_date": "20260818"
+              },
+              {
+                "git_path": "인사규정/public_2141221/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2141221#JO0042",
+                "is_current": true,
+                "enforcement_date": "20260805"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -1508,7 +2311,37 @@
             "target_git_path": "인사규정/public_2130247/인사규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_doc_kind": "공공기관",
+            "target_candidate_paths": [
+              {
+                "git_path": "인사규정/public_2127985/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2127985#JO0043",
+                "is_current": true,
+                "enforcement_date": "20230310"
+              },
+              {
+                "git_path": "인사규정/public_2128323/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2128323#JO0043",
+                "is_current": true,
+                "enforcement_date": "20250109"
+              },
+              {
+                "git_path": "인사규정/public_2130247/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2130247#JO0043",
+                "is_current": true,
+                "enforcement_date": "20260818"
+              },
+              {
+                "git_path": "인사규정/public_2141221/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2141221#JO0043",
+                "is_current": true,
+                "enforcement_date": "20260805"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -1533,7 +2366,37 @@
             "target_git_path": "인사규정/public_2130247/인사규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_doc_kind": "공공기관",
+            "target_candidate_paths": [
+              {
+                "git_path": "인사규정/public_2127985/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2127985#JO0044",
+                "is_current": true,
+                "enforcement_date": "20230310"
+              },
+              {
+                "git_path": "인사규정/public_2128323/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2128323#JO0044",
+                "is_current": true,
+                "enforcement_date": "20250109"
+              },
+              {
+                "git_path": "인사규정/public_2130247/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2130247#JO0044",
+                "is_current": true,
+                "enforcement_date": "20260818"
+              },
+              {
+                "git_path": "인사규정/public_2141221/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2141221#JO0044",
+                "is_current": true,
+                "enforcement_date": "20260805"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -1558,7 +2421,37 @@
             "target_git_path": "인사규정/public_2130247/인사규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_doc_kind": "공공기관",
+            "target_candidate_paths": [
+              {
+                "git_path": "인사규정/public_2127985/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2127985#JO0041",
+                "is_current": true,
+                "enforcement_date": "20230310"
+              },
+              {
+                "git_path": "인사규정/public_2128323/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2128323#JO0041",
+                "is_current": true,
+                "enforcement_date": "20250109"
+              },
+              {
+                "git_path": "인사규정/public_2130247/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2130247#JO0041",
+                "is_current": true,
+                "enforcement_date": "20260818"
+              },
+              {
+                "git_path": "인사규정/public_2141221/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2141221#JO0041",
+                "is_current": true,
+                "enforcement_date": "20260805"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -1583,7 +2476,37 @@
             "target_git_path": "인사규정/public_2130247/인사규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_doc_kind": "공공기관",
+            "target_candidate_paths": [
+              {
+                "git_path": "인사규정/public_2127985/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2127985#JO0042",
+                "is_current": true,
+                "enforcement_date": "20230310"
+              },
+              {
+                "git_path": "인사규정/public_2128323/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2128323#JO0042",
+                "is_current": true,
+                "enforcement_date": "20250109"
+              },
+              {
+                "git_path": "인사규정/public_2130247/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2130247#JO0042",
+                "is_current": true,
+                "enforcement_date": "20260818"
+              },
+              {
+                "git_path": "인사규정/public_2141221/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2141221#JO0042",
+                "is_current": true,
+                "enforcement_date": "20260805"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -1608,7 +2531,37 @@
             "target_git_path": "인사규정/public_2130247/인사규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_doc_kind": "공공기관",
+            "target_candidate_paths": [
+              {
+                "git_path": "인사규정/public_2127985/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2127985#JO0043",
+                "is_current": true,
+                "enforcement_date": "20230310"
+              },
+              {
+                "git_path": "인사규정/public_2128323/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2128323#JO0043",
+                "is_current": true,
+                "enforcement_date": "20250109"
+              },
+              {
+                "git_path": "인사규정/public_2130247/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2130247#JO0043",
+                "is_current": true,
+                "enforcement_date": "20260818"
+              },
+              {
+                "git_path": "인사규정/public_2141221/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2141221#JO0043",
+                "is_current": true,
+                "enforcement_date": "20260805"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -1633,7 +2586,37 @@
             "target_git_path": "인사규정/public_2130247/인사규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_doc_kind": "공공기관",
+            "target_candidate_paths": [
+              {
+                "git_path": "인사규정/public_2127985/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2127985#JO0044",
+                "is_current": true,
+                "enforcement_date": "20230310"
+              },
+              {
+                "git_path": "인사규정/public_2128323/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2128323#JO0044",
+                "is_current": true,
+                "enforcement_date": "20250109"
+              },
+              {
+                "git_path": "인사규정/public_2130247/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2130247#JO0044",
+                "is_current": true,
+                "enforcement_date": "20260818"
+              },
+              {
+                "git_path": "인사규정/public_2141221/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2141221#JO0044",
+                "is_current": true,
+                "enforcement_date": "20260805"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -1658,7 +2641,37 @@
             "target_git_path": "인사규정/public_2130247/인사규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_doc_kind": "공공기관",
+            "target_candidate_paths": [
+              {
+                "git_path": "인사규정/public_2127985/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2127985#JO0041",
+                "is_current": true,
+                "enforcement_date": "20230310"
+              },
+              {
+                "git_path": "인사규정/public_2128323/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2128323#JO0041",
+                "is_current": true,
+                "enforcement_date": "20250109"
+              },
+              {
+                "git_path": "인사규정/public_2130247/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2130247#JO0041",
+                "is_current": true,
+                "enforcement_date": "20260818"
+              },
+              {
+                "git_path": "인사규정/public_2141221/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2141221#JO0041",
+                "is_current": true,
+                "enforcement_date": "20260805"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -1683,7 +2696,37 @@
             "target_git_path": "인사규정/public_2130247/인사규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_doc_kind": "공공기관",
+            "target_candidate_paths": [
+              {
+                "git_path": "인사규정/public_2127985/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2127985#JO0042",
+                "is_current": true,
+                "enforcement_date": "20230310"
+              },
+              {
+                "git_path": "인사규정/public_2128323/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2128323#JO0042",
+                "is_current": true,
+                "enforcement_date": "20250109"
+              },
+              {
+                "git_path": "인사규정/public_2130247/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2130247#JO0042",
+                "is_current": true,
+                "enforcement_date": "20260818"
+              },
+              {
+                "git_path": "인사규정/public_2141221/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2141221#JO0042",
+                "is_current": true,
+                "enforcement_date": "20260805"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -1708,7 +2751,37 @@
             "target_git_path": "인사규정/public_2130247/인사규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_doc_kind": "공공기관",
+            "target_candidate_paths": [
+              {
+                "git_path": "인사규정/public_2127985/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2127985#JO0043",
+                "is_current": true,
+                "enforcement_date": "20230310"
+              },
+              {
+                "git_path": "인사규정/public_2128323/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2128323#JO0043",
+                "is_current": true,
+                "enforcement_date": "20250109"
+              },
+              {
+                "git_path": "인사규정/public_2130247/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2130247#JO0043",
+                "is_current": true,
+                "enforcement_date": "20260818"
+              },
+              {
+                "git_path": "인사규정/public_2141221/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2141221#JO0043",
+                "is_current": true,
+                "enforcement_date": "20260805"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -1733,7 +2806,37 @@
             "target_git_path": "인사규정/public_2130247/인사규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_doc_kind": "공공기관",
+            "target_candidate_paths": [
+              {
+                "git_path": "인사규정/public_2127985/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2127985#JO0044",
+                "is_current": true,
+                "enforcement_date": "20230310"
+              },
+              {
+                "git_path": "인사규정/public_2128323/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2128323#JO0044",
+                "is_current": true,
+                "enforcement_date": "20250109"
+              },
+              {
+                "git_path": "인사규정/public_2130247/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2130247#JO0044",
+                "is_current": true,
+                "enforcement_date": "20260818"
+              },
+              {
+                "git_path": "인사규정/public_2141221/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2141221#JO0044",
+                "is_current": true,
+                "enforcement_date": "20260805"
+              }
+            ]
           }
         ],
         "images": [],
@@ -1792,7 +2895,37 @@
             "target_git_path": "인사규정/public_2130247/인사규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_doc_kind": "공공기관",
+            "target_candidate_paths": [
+              {
+                "git_path": "인사규정/public_2127985/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2127985#DOC",
+                "is_current": true,
+                "enforcement_date": "20230310"
+              },
+              {
+                "git_path": "인사규정/public_2128323/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2128323#DOC",
+                "is_current": true,
+                "enforcement_date": "20250109"
+              },
+              {
+                "git_path": "인사규정/public_2130247/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2130247#DOC",
+                "is_current": true,
+                "enforcement_date": "20260818"
+              },
+              {
+                "git_path": "인사규정/public_2141221/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2141221#DOC",
+                "is_current": true,
+                "enforcement_date": "20260805"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -1817,7 +2950,37 @@
             "target_git_path": "인사규정시행내규/public_2141181/인사규정시행내규.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_doc_kind": "공공기관",
+            "target_candidate_paths": [
+              {
+                "git_path": "인사규정 시행내규/인사규정 시행내규.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정시행내규#DOC",
+                "is_current": true,
+                "enforcement_date": "20260129"
+              },
+              {
+                "git_path": "인사규정시행내규/public_2127989/인사규정시행내규.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정시행내규:public_2127989#DOC",
+                "is_current": true,
+                "enforcement_date": "20231115"
+              },
+              {
+                "git_path": "인사규정시행내규/public_2136781/인사규정시행내규.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정시행내규:public_2136781#DOC",
+                "is_current": true,
+                "enforcement_date": "20260918"
+              },
+              {
+                "git_path": "인사규정시행내규/public_2141181/인사규정시행내규.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정시행내규:public_2141181#DOC",
+                "is_current": true,
+                "enforcement_date": "20260930"
+              }
+            ]
           }
         ],
         "images": [],
@@ -2108,7 +3271,23 @@
             "target_git_path": "취업규정/public_2141121/취업규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_doc_kind": "공공기관",
+            "target_candidate_paths": [
+              {
+                "git_path": "취업규정/public_2128279/취업규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:취업규정:public_2128279#DOC",
+                "is_current": true,
+                "enforcement_date": "20260220"
+              },
+              {
+                "git_path": "취업규정/public_2141121/취업규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:취업규정:public_2141121#DOC",
+                "is_current": true,
+                "enforcement_date": "20260720"
+              }
+            ]
           }
         ],
         "images": [],
@@ -2178,7 +3357,37 @@
             "target_git_path": "인사규정/public_2130247/인사규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_doc_kind": "공공기관",
+            "target_candidate_paths": [
+              {
+                "git_path": "인사규정/public_2127985/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2127985#DOC",
+                "is_current": true,
+                "enforcement_date": "20230310"
+              },
+              {
+                "git_path": "인사규정/public_2128323/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2128323#DOC",
+                "is_current": true,
+                "enforcement_date": "20250109"
+              },
+              {
+                "git_path": "인사규정/public_2130247/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2130247#DOC",
+                "is_current": true,
+                "enforcement_date": "20260818"
+              },
+              {
+                "git_path": "인사규정/public_2141221/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2141221#DOC",
+                "is_current": true,
+                "enforcement_date": "20260805"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -2203,7 +3412,37 @@
             "target_git_path": "인사규정시행내규/public_2141181/인사규정시행내규.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_doc_kind": "공공기관",
+            "target_candidate_paths": [
+              {
+                "git_path": "인사규정 시행내규/인사규정 시행내규.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정시행내규#DOC",
+                "is_current": true,
+                "enforcement_date": "20260129"
+              },
+              {
+                "git_path": "인사규정시행내규/public_2127989/인사규정시행내규.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정시행내규:public_2127989#DOC",
+                "is_current": true,
+                "enforcement_date": "20231115"
+              },
+              {
+                "git_path": "인사규정시행내규/public_2136781/인사규정시행내규.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정시행내규:public_2136781#DOC",
+                "is_current": true,
+                "enforcement_date": "20260918"
+              },
+              {
+                "git_path": "인사규정시행내규/public_2141181/인사규정시행내규.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정시행내규:public_2141181#DOC",
+                "is_current": true,
+                "enforcement_date": "20260930"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -2228,7 +3467,23 @@
             "target_git_path": "취업규정/public_2141121/취업규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_doc_kind": "공공기관",
+            "target_candidate_paths": [
+              {
+                "git_path": "취업규정/public_2128279/취업규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:취업규정:public_2128279#DOC",
+                "is_current": true,
+                "enforcement_date": "20260220"
+              },
+              {
+                "git_path": "취업규정/public_2141121/취업규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:취업규정:public_2141121#DOC",
+                "is_current": true,
+                "enforcement_date": "20260720"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -2253,7 +3508,30 @@
             "target_git_path": "보수규정/public_2128339/보수규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_doc_kind": "공공기관",
+            "target_candidate_paths": [
+              {
+                "git_path": "보수규정/public_2127935/보수규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:보수규정:public_2127935#DOC",
+                "is_current": true,
+                "enforcement_date": "20230310"
+              },
+              {
+                "git_path": "보수규정/public_2128339/보수규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:보수규정:public_2128339#DOC",
+                "is_current": true,
+                "enforcement_date": "20260101"
+              },
+              {
+                "git_path": "보수규정/public_2141161/보수규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:보수규정:public_2141161#DOC",
+                "is_current": true,
+                "enforcement_date": "20251216"
+              }
+            ]
           },
           {
             "relation_type": "citation",
@@ -2278,7 +3556,30 @@
             "target_git_path": "복리후생규정/public_2141165/복리후생규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_doc_kind": "공공기관",
+            "target_candidate_paths": [
+              {
+                "git_path": "복리후생규정/public_2127939/복리후생규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:복리후생규정:public_2127939#DOC",
+                "is_current": true,
+                "enforcement_date": "20200331"
+              },
+              {
+                "git_path": "복리후생규정/public_2128229/복리후생규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:복리후생규정:public_2128229#DOC",
+                "is_current": true,
+                "enforcement_date": "20161010"
+              },
+              {
+                "git_path": "복리후생규정/public_2141165/복리후생규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:복리후생규정:public_2141165#DOC",
+                "is_current": true,
+                "enforcement_date": "20240108"
+              }
+            ]
           }
         ],
         "images": [],
