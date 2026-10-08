@@ -1,40 +1,40 @@
 {
   "law_id": "2110909",
-  "mst": "2200000134993",
+  "mst": "2200000160799",
   "law_name": "김해시도시개발공사 복리후생규정",
   "law_abbr": "",
   "law_type": "공단규정",
   "doc_target": "public",
   "doc_kind": "공공기관",
   "adm_uid": "public:2110909",
-  "promulgation_no": "249",
-  "promulgation_date": "20240710",
-  "enforcement_date": "20240710",
-  "revision_date": "20240710",
+  "promulgation_no": "294",
+  "promulgation_date": "20261007",
+  "enforcement_date": "20261008",
+  "revision_date": "20261007",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
     "현행여부": "Y",
     "담당부서기관명": "김해시도시개발공사",
-    "담당자명": "지홍석",
+    "담당자명": "이동진",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "김해시도시개발공사 복리후생규정",
-    "발령일자": "20240710",
+    "발령일자": "20261007",
     "행정규칙종류": "공단규정",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
     "소관부처명": "김해시도시개발공사",
-    "전화번호": "055-320-0427",
+    "전화번호": "055-320-0425",
     "제개정구분명": "일부개정",
     "소관부처코드": "B553357",
-    "생성일자": "20250307",
+    "생성일자": "20261010",
     "행정규칙ID": "2110909",
-    "담당부서기관코드": "",
-    "발령번호": "249",
-    "행정규칙일련번호": "2200000134993"
+    "담당부서기관코드": "B553357",
+    "발령번호": "294",
+    "행정규칙일련번호": "2200000160799"
   },
-  "amendment_text": "「복리후생규정」규정 일부개정규정안\n「복리후생규정」일부를 다음과 같이 개정한다.\n【별표】을 별지와 같이한다.\n부  칙\n이 규정은 승인일부터 시행한다.",
-  "revision_reason": "［일부개정］\n1. 제안이유\n? 우리공사 조직개편에 따라 복리후생비 지급 기준을 개정하고자 함.\n\n2. 주요내용\n? 부장 직위 신설에 따라 직책수행비 지급 대상자 기준을 명확히 하고자함(별표)",
+  "amendment_text": "",
+  "revision_reason": "［일부개정］\n1. 제안이유\n○ 「지방공무원 수당 등에 관한 규정」 개정으로 직원 처우개선을 위해「복리후생규정」 내 정액급식비 지급액을 개정하고자 함\n\n3. 주요내용\n○ 복리후생비 지급기준의 정액급식비 지급액을 「지방공무원수당 등에 관한 규정」에 맞게 개정(안 별표)",
   "body": {
     "format": "articles",
     "article_count": 17,
@@ -76,9 +76,7 @@
             "source_provision_id": "SchlPubRul:김해시도시개발공사복리후생규정#JO0002",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
-            "target_git_path": "근로기준법/법률/근로기준법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
           },
           {
             "relation_type": "citation",
@@ -116,11 +114,7 @@
             "source_provision_id": "SchlPubRul:김해시도시개발공사복리후생규정#JO0002",
             "reference_id": "SchlPubRul:김해시도시개발공사정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "김해시도시개발공사 정관/김해시도시개발공사 정관.json",
-            "target_git_path": "김해시도시개발공사 정관/김해시도시개발공사 정관.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "김해시도시개발공사 정관/김해시도시개발공사 정관.json"
           }
         ],
         "images": [],
@@ -163,9 +157,7 @@
             "source_provision_id": "SchlPubRul:김해시도시개발공사복리후생규정#JO0004",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
-            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
           }
         ],
         "images": [],
@@ -198,7 +190,7 @@
         "article_title": "복리후생비의 지급",
         "chapter": "제3장  복리후생",
         "chapter_path": "제3장  복리후생",
-        "content": "제7조(복리후생비의 지급) ① 임직원의 복리후생 증진을 위하여 예산의 범위 안에서 다음 각 호의 복리후생비를 지급할 수 있다. 다만, 연봉제 적용을 받는 직원의 경우 제4호를, 임원의 경우 제4호부터 제6호까지를 적용하지 아니 한다. <개정 2014.4.29.>1. 직책수행비2. 직급보조비3. 정액급식비4. 명절휴가비5. 월동보조비6. 기타 후생비② 복리후생비의 지급기준은 별표와 같으며, 휴직·직위해제·정직 및 강등 기간 중에는 지급하지 아니한다.③ 제1항의 복리후생비는 지급기준일에 근무중인 임직원에 한하여 지급한다.",
+        "content": "제7조(복리후생비의 지급) ① 임직원의 복리후생 증진을 위하여 예산의 범위 안에서 다음 각 호의 복리후생비를 지급할 수 있다. 다만, 연봉제 적용을 받는 직원의 경우 제4호를, 임원의 경우 제4호부터 제6호까지를 적용하지 아니 한다. <개정 2014.4.29.>1. 직책수행비2. 직급보조비3. 정액급식비4. 명절휴가비5. 월동보조비6. 기타 후생비② 복리후생비의 지급기준은 별표와 같으며, 휴직ㆍ직위해제ㆍ정직 및 강등 기간 중에는 지급하지 아니한다.③ 제1항의 복리후생비는 지급기준일에 근무중인 임직원에 한하여 지급한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -274,9 +266,7 @@
             "source_provision_id": "SchlPubRul:김해시도시개발공사복리후생규정#JO0012",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
-            "target_git_path": "근로기준법/법률/근로기준법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
           },
           {
             "relation_type": "citation",
@@ -296,9 +286,7 @@
             "source_provision_id": "SchlPubRul:김해시도시개발공사복리후생규정#JO0012",
             "reference_id": "law:산업재해보상보험법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업재해보상보험법/법률/산업재해보상보험법.json",
-            "target_git_path": "산업재해보상보험법/법률/산업재해보상보험법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "산업재해보상보험법/법률/산업재해보상보험법.json"
           }
         ],
         "images": [],
@@ -330,9 +318,7 @@
             "source_provision_id": "SchlPubRul:김해시도시개발공사복리후생규정#JO0013",
             "reference_id": "law:민법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json",
-            "target_git_path": "민법/법률/민법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "민법/법률/민법.json"
           }
         ],
         "images": [],
@@ -391,10 +377,10 @@
       "content": "부칙 <제8호, 2014.1.27>제1조 (시행일) 이 규정은 공사 설립일부터 시행한다.",
       "provision_id": "SchlPubRul:김해시도시개발공사복리후생규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000134993",
+      "source_mst": "2200000160799",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20240710"
+      "version_enforcement_date": "20261008"
     },
     {
       "promulgation_date": "20140429",
@@ -402,10 +388,10 @@
       "content": "부칙 <제36호, 2014.4.29>제1조 (시행일) 이 규정은 2014년 4월 29일부터 시행한다.제2조 (고용승계에 따른 특례) 제7조에도 불구하고 김해시시설관리공단(이하\"공단\" 이라 한다)의 흡수합병에 따라 고용 승계되는 직원의 복리후생비 지급기준은 합병 전 공단의 것을 승계하며 합병을 이유로 변경하지 아니한다.",
       "provision_id": "SchlPubRul:김해시도시개발공사복리후생규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000134993",
+      "source_mst": "2200000160799",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20240710"
+      "version_enforcement_date": "20261008"
     },
     {
       "promulgation_date": "20170217",
@@ -413,10 +399,10 @@
       "content": "부칙 <제104호, 2017.2.17>제1조 (시행일) 이 규정은 승인일부터 시행한다.",
       "provision_id": "SchlPubRul:김해시도시개발공사복리후생규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000134993",
+      "source_mst": "2200000160799",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20240710"
+      "version_enforcement_date": "20261008"
     },
     {
       "promulgation_date": "20180803",
@@ -424,10 +410,10 @@
       "content": "부칙 <제133호, 2018.8.3>제1조 (시행일) 이 규정은 승인일부터 시행한다.",
       "provision_id": "SchlPubRul:김해시도시개발공사복리후생규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000134993",
+      "source_mst": "2200000160799",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20240710"
+      "version_enforcement_date": "20261008"
     },
     {
       "promulgation_date": "20181220",
@@ -435,10 +421,10 @@
       "content": "부칙 <제137호, 2018.12.20>제1조 (시행일) 이 규정은 2019년 1월 1일부터 시행한다.",
       "provision_id": "SchlPubRul:김해시도시개발공사복리후생규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000134993",
+      "source_mst": "2200000160799",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20240710"
+      "version_enforcement_date": "20261008"
     },
     {
       "promulgation_date": "20190724",
@@ -446,10 +432,10 @@
       "content": "부칙 <제153호, 2019.7.24>제1조 (시행일) 이 규정은 2019년 3월 1일부터 시행하되, 임원의 경우 재계약 또는 신규 임용시 적용한다.",
       "provision_id": "SchlPubRul:김해시도시개발공사복리후생규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000134993",
+      "source_mst": "2200000160799",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20240710"
+      "version_enforcement_date": "20261008"
     },
     {
       "promulgation_date": "20200319",
@@ -457,10 +443,10 @@
       "content": "부칙 <제169호, 2020.3.19>제1조 (시행일) 이 규정은 승인일부터 시행한다.",
       "provision_id": "SchlPubRul:김해시도시개발공사복리후생규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000134993",
+      "source_mst": "2200000160799",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20240710"
+      "version_enforcement_date": "20261008"
     },
     {
       "promulgation_date": "20210323",
@@ -468,10 +454,10 @@
       "content": "부칙 <제190호, 2021.3.23>제1조 (시행일) 이 규정은 승인일부터 시행한다",
       "provision_id": "SchlPubRul:김해시도시개발공사복리후생규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000134993",
+      "source_mst": "2200000160799",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20240710"
+      "version_enforcement_date": "20261008"
     },
     {
       "promulgation_date": "20220225",
@@ -479,10 +465,10 @@
       "content": "부칙 <제207호,2022.2.25>제1조 (시행일) 이 규정은 승인일부터 시행하되,  2022년 1월부터 적용한다.",
       "provision_id": "SchlPubRul:김해시도시개발공사복리후생규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000134993",
+      "source_mst": "2200000160799",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20240710"
+      "version_enforcement_date": "20261008"
     },
     {
       "promulgation_date": "20230331",
@@ -490,10 +476,10 @@
       "content": "부칙 <제226호,2023.3.31>제1조 (시행일) 이 규정은 승인일부터 시행하되, 2023년 1월부터 적용한다.",
       "provision_id": "SchlPubRul:김해시도시개발공사복리후생규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000134993",
+      "source_mst": "2200000160799",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20240710"
+      "version_enforcement_date": "20261008"
     },
     {
       "promulgation_date": "20240710",
@@ -501,10 +487,21 @@
       "content": "부칙 <제249호,2024.07.10>제1조 (시행일) 이 규정은 승인일부터 시행한다",
       "provision_id": "SchlPubRul:김해시도시개발공사복리후생규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000134993",
+      "source_mst": "2200000160799",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20240710"
+      "version_enforcement_date": "20261008"
+    },
+    {
+      "promulgation_date": "20261007",
+      "promulgation_no": "00294",
+      "content": "부칙 <제294호,2026.10.7.>제1조 (시행일) 이 규정은 승인일부터 시행하되, 2026년 1월부터 적용한다.",
+      "provision_id": "SchlPubRul:김해시도시개발공사복리후생규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000160799",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261008"
     }
   ],
   "appendices": [
@@ -516,12 +513,12 @@
       "enforcement_date": "",
       "content": "",
       "is_file_only": true,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000134993&bylNo=0001&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149721347",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000160799&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170365061",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=149721347",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170365061",
           "name": "",
           "file_store_url": ""
         }
@@ -551,7 +548,7 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 11,
+    "addenda_count": 12,
     "appendices_count": 1,
     "attachments_count": 0
   },
