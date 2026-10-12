@@ -92959,26 +92959,33 @@
   "version_signature": "58a3593ab6d4780444cb2e45211fbbab8cf7912d66bb1d67205de7d456ad81d4"
  },
  "admrul:public:2107221": {
-  "collected_signature": "5245e53e4ec109dfa5c47efe4128867e3340c4f03449c69712250204176f3d71",
-  "content_hash": "b3f7d2f6777b74c006ef62aa138a7631385ca3ba1a743a00fd2be947741f6615",
-  "detail_link": "/DRF/lawService.do?OC=test&target=public&ID=2200000154517&type=HTML&mobileYn=",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 41,
+   "chars": 12090
+  },
+  "collected_signature": "86ae5232f1ff37e7d09ff9e0f15f9aa7e1fde492cd3002b4a9a46b5022414b76",
+  "content_hash": "5d9d5b8a948d0a882b67301a381e9f0df1f9624c7f316d3fc11acc75088149e2",
+  "detail_link": "/DRF/lawService.do?OC=test&target=public&ID=2200000160771&type=HTML&mobileYn=",
   "doc_domain": "admrul",
   "doc_id": "2107221",
   "doc_target": "public",
   "doc_type": "공단규정",
   "emitted_signature": "5245e53e4ec109dfa5c47efe4128867e3340c4f03449c69712250204176f3d71",
-  "enforcement_date": "20260408",
+  "enforcement_date": "20261006",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T08:00:24.795237+00:00",
-  "last_collected_at": "2026-08-25T08:00:41.466387+00:00",
+  "last_checked_at": "2026-10-12T04:47:28.201208+00:00",
+  "last_collected_at": "2026-10-12T04:47:34.640364+00:00",
   "ministry": "울산시설공단",
-  "mst": "2200000154517",
+  "mst": "2200000160771",
   "name": "울산시설공단 기록물 관리 시행내규",
   "payload_law_id": "2107221",
-  "promulgation_date": "20260408",
+  "prev_name": null,
+  "promulgation_date": "20261006",
   "status": "done",
   "version_count": 1,
-  "version_signature": "5245e53e4ec109dfa5c47efe4128867e3340c4f03449c69712250204176f3d71"
+  "version_signature": "86ae5232f1ff37e7d09ff9e0f15f9aa7e1fde492cd3002b4a9a46b5022414b76"
  },
  "admrul:public:2107262": {
   "collected_signature": "2dad956f850e1b10089c43296919bae001f28da9cfc4e5123cf10fc81d546493",
