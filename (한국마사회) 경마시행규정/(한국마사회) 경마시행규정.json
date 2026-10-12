@@ -1,6 +1,6 @@
 {
   "law_id": "2116093",
-  "mst": "2200000097159",
+  "mst": "2200000160881",
   "law_name": "(한국마사회) 경마시행규정",
   "law_abbr": "",
   "law_type": "공단규정",
@@ -8,18 +8,18 @@
   "doc_kind": "공단정관",
   "adm_uid": "pi:2116093",
   "promulgation_no": "9999",
-  "promulgation_date": "20250106",
-  "enforcement_date": "20250106",
-  "revision_date": "20250106",
+  "promulgation_date": "20261012",
+  "enforcement_date": "20261012",
+  "revision_date": "20261012",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
     "현행여부": "Y",
     "담당부서기관명": "한국마사회",
-    "담당자명": "이용창",
+    "담당자명": "이정현",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "(한국마사회) 경마시행규정",
-    "발령일자": "20250106",
+    "발령일자": "20261012",
     "행정규칙종류": "공단규정",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,17 +27,17 @@
     "전화번호": "02-509-1257",
     "제개정구분명": "일부개정",
     "소관부처코드": "B551015",
-    "생성일자": "20260427",
+    "생성일자": "20261015",
     "행정규칙ID": "2116093",
     "담당부서기관코드": "B551015",
     "발령번호": "9999",
-    "행정규칙일련번호": "2200000097159"
+    "행정규칙일련번호": "2200000160881"
   },
   "amendment_text": "",
   "revision_reason": "",
   "body": {
     "format": "articles",
-    "article_count": 176,
+    "article_count": 177,
     "articles": [
       {
         "article_no": "제1조",
@@ -65,9 +65,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0001",
             "reference_id": "law:한국마사회법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국마사회법/법률/한국마사회법.json",
-            "target_git_path": "한국마사회법/법률/한국마사회법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "한국마사회법/법률/한국마사회법.json"
           },
           {
             "relation_type": "citation",
@@ -87,9 +85,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0001",
             "reference_id": "law:한국마사회법#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국마사회법/법률/한국마사회법.json",
-            "target_git_path": "한국마사회법/법률/한국마사회법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "한국마사회법/법률/한국마사회법.json"
           }
         ],
         "images": [],
@@ -100,96 +96,48 @@
         "article_title": "용어의 정의",
         "chapter": "제1장 총칙",
         "chapter_path": "제1장 총칙",
-        "content": "제2조(용어의 정의) 이 규정에서 사용하는 용어의 정의는 다음과 같다.1. \"조교사\"란 「한국마사회법」 (이하 \"법\"이라 한다) 제14조에 따라 소정의 전형을 거쳐 말을 관리하고 조련하는 자격을 인정받아 한국마사회(이하 \"본회\"라 한다)가 발급하는 면허증을 소지한 자를 말한다.2. \"기수\"란 법 제14조에 따라 소정의 전형을 거쳐 경주마의 기승자격을 인정받아 본회가 발급하는 면허증을 소지한 자를 말한다.3. 삭제 <2021. 12. 5.>4. 삭제 <2021. 12. 5.>5. \"말관리사\"란 각 경마장 조교사 또는 각 지역 조교사협회(조교사업의 수행편의를 위하여 설립한 조교사들의 단체를 말한다)에 고용된 자로서 말의 조교ㆍ사양ㆍ보건관리 및 마사관리에 관한 업무에 종사하는 자를 말한다. <개정 2018. 7. 30.>6. \"경주마 관계자\"란 이 규정의 적용을 받는 마주, 조교사, 기수, 말관리사를 말한다. <개정 2021. 12. 5.>7. \"제주마\"란 제주경마장에서 개최되는 경마에 사용하는 말을 말한다.8. \"복색\"이란 경마시행 시 기수가 입는 의복의 색상과 무늬를 말한다.9. \"금지약물\"이란 경주마의 경주능력을 일시적으로 가감시킬 수 있거나, 기수의 건강에 영향을 미치고 경마시행의 안정성을 저해할 수 있는 약품, 약제 또는 그 밖의 물질을 말한다. <개정 2018. 7. 30.>",
+        "content": "제2조(용어의 정의) 이 규정에서 사용하는 용어의 정의는 다음과 같다.1. \"조교사\"란 한국마사회법(이하 \"법\"이라 한다) 제14조에 따라 소정의 전형을 거쳐 말을 관리하고 조련하는 자격을 인정받아 한국마사회(이하 \"본회\"라 한다)가 발급하는 면허증을 소지한 자를 말한다.2. \"기수\"란 법 제14조에 따라 소정의 전형을 거쳐 경주마의 기승자격을 인정받아 본회가 발급하는 면허증을 소지한 자를 말한다.3. <삭제 2021. 12. 5.>4. <삭제 2021. 12. 5.>5. \"말관리사\"란 각 경마장 조교사 또는 각 지역 조교사협회(조교사업의 수행편의를 위하여 설립한 조교사들의 단체를 말한다)에 고용된 자로서 말의 조교ㆍ사양ㆍ보건관리 및 마사관리에 관한 업무에 종사하는 자를 말한다. <개정 2018. 7. 30.>6. \"경주마 관계자\"란 이 규정의 적용을 받는 마주, 조교사, 기수, 말관리사. 를 말한다. <개정 2021. 12. 5.>7. \"제주마\"란 제주경마장에서 개최되는 경마에 사용하는 말을 말한다.8. \"복색\"이란 경마시행 시 기수가 입는 의복의 색상과 무늬를 말한다.9. \"금지물질\"이란 경주마의 경주능력에 영향을 미칠 수 있거나 약물검사를 방해할 수 있는 약품, 약제 또는 그 밖의 물질을 말한다.  <신설 2026. 10. 12.>10. \"치료관리약물\"이란 경주마의 진료 또는 치료 목적으로 사용이 인정되는 약물을 말한다. <신설 2026. 10. 12.>11. \"금지약물\"이란 기수의 건강에 영향을 미치거나 경마시행의 안정성을 저해할 수 있는 약품, 약제 또는 그 밖의 물질을 말한다. <개정 2018. 7. 30., 2026. 10. 12.>[제9호에서 이동 2026. 10. 12.]12. \"약물검사\"란 경주마에 대한 금지물질 및 치료관리약물의 사용 여부와 기수의 금지약물의 사용 여부를 확인하기 위하여 실시하는 검사를 말한다. <신설 2026. 10. 12.>",
         "enforcement_date": "",
         "relations": [
           {
-            "relation_type": "citation",
+            "relation_type": "internal_ref",
             "delegation_type": null,
-            "target_category": "법령",
-            "source_article_no": "제2조",
-            "source_clause": "제2조",
-            "link_text": "「한국마사회법」",
-            "line_text": "",
-            "target_law_name": "한국마사회법",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "",
-            "source_admrul_seq": "2116093",
-            "target_url": "https://www.law.go.kr/법령/한국마사회법",
-            "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0002",
-            "reference_id": "law:한국마사회법#DOC",
-            "target_repo": "LAW",
-            "target_git_path_guess": "한국마사회법/법률/한국마사회법.json",
-            "target_git_path": "한국마사회법/법률/한국마사회법.json",
-            "target_source_repository": "LAW"
-          },
-          {
-            "relation_type": "citation",
-            "delegation_type": null,
-            "target_category": "법령",
+            "target_category": "학칙공단",
             "source_article_no": "제2조",
             "source_clause": "제2조",
             "link_text": "제14조",
             "line_text": "",
-            "target_law_name": "한국마사회법",
+            "target_law_name": "(한국마사회) 경마시행규정",
             "target_article_no": "제14조",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "2116093",
-            "target_url": "https://www.law.go.kr/법령/한국마사회법/제14조",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국마사회) 경마시행규정/제14조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0002",
-            "reference_id": "law:한국마사회법#JO0014",
-            "target_repo": "LAW",
-            "target_git_path_guess": "한국마사회법/법률/한국마사회법.json",
-            "target_git_path": "한국마사회법/법률/한국마사회법.json",
-            "target_source_repository": "LAW"
+            "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0014",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           },
           {
-            "relation_type": "citation",
+            "relation_type": "internal_ref",
             "delegation_type": null,
-            "target_category": "법령",
-            "source_article_no": "제2조",
-            "source_clause": "제2조",
-            "link_text": "법",
-            "line_text": "",
-            "target_law_name": "한국마사회법",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "",
-            "source_admrul_seq": "2116093",
-            "target_url": "https://www.law.go.kr/법령/한국마사회법",
-            "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0002",
-            "reference_id": "law:한국마사회법#DOC",
-            "target_repo": "LAW",
-            "target_git_path_guess": "한국마사회법/법률/한국마사회법.json",
-            "target_git_path": "한국마사회법/법률/한국마사회법.json",
-            "target_source_repository": "LAW"
-          },
-          {
-            "relation_type": "citation",
-            "delegation_type": null,
-            "target_category": "법령",
+            "target_category": "학칙공단",
             "source_article_no": "제2조",
             "source_clause": "제2조",
             "link_text": "제14조",
             "line_text": "",
-            "target_law_name": "한국마사회법",
+            "target_law_name": "(한국마사회) 경마시행규정",
             "target_article_no": "제14조",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "2116093",
-            "target_url": "https://www.law.go.kr/법령/한국마사회법/제14조",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국마사회) 경마시행규정/제14조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0002",
-            "reference_id": "law:한국마사회법#JO0014",
-            "target_repo": "LAW",
-            "target_git_path_guess": "한국마사회법/법률/한국마사회법.json",
-            "target_git_path": "한국마사회법/법률/한국마사회법.json",
-            "target_source_repository": "LAW"
+            "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0014",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           }
         ],
         "images": [],
@@ -211,32 +159,9 @@
         "article_title": "경주마 관계자의 준수의무",
         "chapter": "제1장 총칙",
         "chapter_path": "제1장 총칙",
-        "content": "제4조(경주마 관계자의 준수의무) 경주마 관계자는 다음 각 호의 사항을 준수하여야 한다.1. 「한국마사회법」 령과 경마시행과 관련한 제규정을 준수하여야 한다.2. 경주마 관계자로서의 품위를 유지하여야 하며, 직무상 권한을 남용하여서는 아니 된다.3. 경마에 관여하는 모든 과정에서 공정한 경쟁이 이루어지도록 각자의 능력과 양심에 따라 최선의 노력을 다하여야 하며, 경주의 공정을 저해하거나 개별 경주마 관계자 간의 자유로운 경쟁을 제한하는 부당한 행위를 하여서는 아니 된다.4. 경마의 공정하고 원활한 시행을 위하여 본회 및 개최운영위원의 업무수행에 협조하여야 한다.5. 경주마를 관리하거나 조교하는 경우 산업안전보건법 등 안전 관련 법령과 안전장구 착용 등 경주로 및 시설물 안전수칙을 준수하여야 한다. <신설 2017. 12. 26.>",
+        "content": "제4조(경주마 관계자의 준수의무) 경주마 관계자는 다음 각 호의 사항을 준수하여야 한다.1. 한국마사회법령과 경마시행과 관련한 제규정을 준수하여야 한다.2. 경주마 관계자로서의 품위를 유지하여야 하며, 직무상 권한을 남용하여서는 아니 된다.3. 경마에 관여하는 모든 과정에서 공정한 경쟁이 이루어지도록 각자의 능력과 양심에 따라 최선의 노력을 다하여야 하며, 경주의 공정을 저해하거나 개별 경주마 관계자 간의 자유로운 경쟁을 제한하는 부당한 행위를 하여서는 아니 된다.4. 경마의 공정하고 원활한 시행을 위하여 본회 및 개최운영위원의 업무수행에 협조하여야 한다.5. 경주마를 관리하거나 조교하는 경우 산업안전보건법 등 안전 관련 법령과 안전장구 착용 등 경주로 및 시설물 안전수칙을 준수하여야 한다. <신설 2017. 12. 26.>",
         "enforcement_date": "",
-        "relations": [
-          {
-            "relation_type": "citation",
-            "delegation_type": null,
-            "target_category": "법령",
-            "source_article_no": "제4조",
-            "source_clause": "제4조",
-            "link_text": "「한국마사회법」",
-            "line_text": "",
-            "target_law_name": "한국마사회법",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "",
-            "source_admrul_seq": "2116093",
-            "target_url": "https://www.law.go.kr/법령/한국마사회법",
-            "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0004",
-            "reference_id": "law:한국마사회법#DOC",
-            "target_repo": "LAW",
-            "target_git_path_guess": "한국마사회법/법률/한국마사회법.json",
-            "target_git_path": "한국마사회법/법률/한국마사회법.json",
-            "target_source_repository": "LAW"
-          }
-        ],
+        "relations": [],
         "images": [],
         "provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0004"
       },
@@ -267,7 +192,7 @@
         "article_title": "마주의 구분",
         "chapter": "제1절 마주 등록",
         "chapter_path": "제2장 등록 > 제1절 마주 등록",
-        "content": "제6조(마주의 구분) 마주는 등록형태에 따라 다음과 같이 구분한다.1. 개인마주: 개인명의로 등록2. 공동마주: 2명 또는 3명의 개인이 공동의 명의로 등록3. 법인마주: 법인(「지방자치법」 제2조에 따른 지방자치단체를 포함한다)의 명의로 등록4. 조합마주: 「민법」에 따른 조합계약을 체결하고 조합의 명의로 등록",
+        "content": "제6조(마주의 구분) 마주는 등록형태에 따라 다음과 같이 구분한다.1. 개인마주 : 개인명의로 등록2. 공동마주 : 2명 또는 3명의 개인이 공동의 명의로 등록3. 법인마주 : 법인(「지방자치법」 제2조에 따른 지방자치단체를 포함한다)의 명의로 등록4. 조합마주 : 「민법」에 따른 조합계약을 체결하고 조합의 명의로 등록",
         "enforcement_date": "",
         "relations": [
           {
@@ -288,9 +213,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0006",
             "reference_id": "law:지방자치법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방자치법/법률/지방자치법.json",
-            "target_git_path": "지방자치법/법률/지방자치법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "지방자치법/법률/지방자치법.json"
           },
           {
             "relation_type": "citation",
@@ -310,9 +233,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0006",
             "reference_id": "law:지방자치법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방자치법/법률/지방자치법.json",
-            "target_git_path": "지방자치법/법률/지방자치법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "지방자치법/법률/지방자치법.json"
           },
           {
             "relation_type": "citation",
@@ -332,9 +253,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0006",
             "reference_id": "law:민법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json",
-            "target_git_path": "민법/법률/민법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "민법/법률/민법.json"
           }
         ],
         "images": [],
@@ -377,55 +296,27 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0008",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           },
           {
-            "relation_type": "citation",
+            "relation_type": "internal_ref",
             "delegation_type": null,
-            "target_category": "법령",
-            "source_article_no": "제8조",
-            "source_clause": "제8조제1항",
-            "link_text": "법",
-            "line_text": "",
-            "target_law_name": "한국마사회법",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "",
-            "source_admrul_seq": "2116093",
-            "target_url": "https://www.law.go.kr/법령/한국마사회법",
-            "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0008",
-            "reference_id": "law:한국마사회법#DOC",
-            "target_repo": "LAW",
-            "target_git_path_guess": "한국마사회법/법률/한국마사회법.json",
-            "target_git_path": "한국마사회법/법률/한국마사회법.json",
-            "target_source_repository": "LAW"
-          },
-          {
-            "relation_type": "citation",
-            "delegation_type": null,
-            "target_category": "법령",
+            "target_category": "학칙공단",
             "source_article_no": "제8조",
             "source_clause": "제8조제1항",
             "link_text": "제11조제2항",
             "line_text": "",
-            "target_law_name": "한국마사회법",
+            "target_law_name": "(한국마사회) 경마시행규정",
             "target_article_no": "제11조",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "2116093",
-            "target_url": "https://www.law.go.kr/법령/한국마사회법/제11조",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국마사회) 경마시행규정/제11조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0008",
-            "reference_id": "law:한국마사회법#JO0011",
-            "target_repo": "LAW",
-            "target_git_path_guess": "한국마사회법/법률/한국마사회법.json",
-            "target_git_path": "한국마사회법/법률/한국마사회법.json",
-            "target_source_repository": "LAW"
+            "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0011",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           }
         ],
         "images": [],
@@ -457,11 +348,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0009",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           }
         ],
         "images": [],
@@ -493,11 +380,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0010",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           }
         ],
         "images": [],
@@ -508,53 +391,9 @@
         "article_title": "등록의 취소 및 활동정지",
         "chapter": "제1절 마주 등록",
         "chapter_path": "제2장 등록 > 제1절 마주 등록",
-        "content": "제11조(등록의 취소 및 활동정지) ① 회장은 마주가 다음 각 호의 어느 하나에 해당하는 경우에는 마주 등록을 취소하여야 한다.1. 사망(법인 또는 조합인 경우에는 해산)한 경우2. 등록취소를 신청한 경우3. 거짓이나 그 밖의 부정한 방법으로 등록한 경우4. 피성년후견 또는 피한정후견이 개시된 경우5. 파산선고를 받고 복권되지 아니한 경우6. 법을 위반하여 벌금 이상의 형을 선고받은 경우7. 금고 이상의 형을 선고받은 경우8. 본회 임직원, 조교사, 기수 또는 말관리사가 된 경우9. 마주협회ㆍ조교사협회ㆍ기수협회의 상근 임직원이 된 경우10. 법인으로서 그 임원 중에 법 제11조제2항제1호부터 제7호까지의 어느 하나에 해당하는 자가 있는 경우② 마주가 다음 각 호의 어느 하나에 해당하는 경우에는 마주등록심의위원회의 심의를 거쳐 마주 등록을 취소하거나 6개월의 범위에서 기간을 정하여 그 활동의 정지를 명할 수 있다.1. 주민등록사항(법인인 경우 명칭, 주소, 대표자 및 정관, 조합인 경우에는 조합마주 대표자, 조합원 및 조합계약서)의 변경이 발생했음에도 불구하고 사유발생일로부터 14일 이내 본회에 변경신고를 하지 아니한 경우2. 다음 각 목의 말을 정당한 사유 없이 계속하여 6개월 이상 소유하지 아니한 경우가. 제18조의 경주마 등록이 된 말나. 육성마(18개월령부터 경마계획표에서 정하는 경마장 입사제한 기준 연령 이하의 말에 한한다)로 마주등록심의위원회에서 인정한 말3. 조교사ㆍ기수 또는 말관리사에게 경주의 공정성을 해치는 행위를 요구한 경우4. 경마의 공정성을 해치거나 경마에 관한 정보의 제공을 조건으로 타인에게 재물 및 재산상의 이익을 얻거나 요구 또는 약속한 경우5. 자기 소유의 말을 다른 마주의 명의로 등록하여 경주에 출전시키거나 자기 소유가 아닌 말을 자기 명의로 등록하여 경주에 출전시킨 경우 <개정 2021. 12. 5.>6. 마주로서 직무상 준수의무를 위반하거나 품위를 손상하는 행위를 한 경우7. 마주 활동정지명령을 이행하지 아니하거나 두 번 이상 그 명령을 받은 경우8. 그 밖에 경마의 공정성을 크게 해치는 행위를 한 경우③ 제2항제2호의 \"정당한 사유\"란 다음 각 호의 어느 하나에 해당하는 경우를 말한다.1. 최초 마주 등록일부터 6개월이 지나지 아니한 경우 <개정 2018. 7. 30.>2. 3개월 이상 입원하거나 해외에 체류한 경우3. 그 밖에 마주등록심의위원회에서 인정하는 사유가 있는 경우④ 제2항제6호의 \"직무상 준수의무를 위반한 경우\"란 다음 각 호의 어느 하나에 해당하는 경우를 말한다.1. 마주등록증 또는 마주신분증을 다른 사람에게 양도하거나 위조 또는 변조한 경우2. 자기 소유의 말을 다른 마주 명의로 등록하거나 자기 소유가 아닌 말을 자기 명의로 등록한 경우3. 개최운영위원의 직무를 방해한 경우4. 마주 활동정지를 회피하기 위하여 경주마를 일시적으로 소유한 것으로 인정되는 경우5. 위탁관리비 미납 등으로 조교사에게 경주마를 계속적으로 위탁하는 것이 곤란하다고 인정되는 경우6. 법인마주의 임원 중 제2항제3호부터 제8호까지 또는 제4항제1호 및 제3호의 어느 하나에 해당하는 자가 있는 경우7. 조합이 제2항제1호ㆍ제2호ㆍ제5호ㆍ제7호 또는 제4항제2호ㆍ제4호ㆍ제5호의 어느 하나에 해당하거나 조합원 중에 제1항제6호, 제2항제3호ㆍ제4호ㆍ제8호 또는 제4항제1호ㆍ제3호의 어느 하나에 해당하는 자가 있는 경우8. 제24조에 따른 경주마 변경사항을 부정한 목적으로 거짓신고하거나, 변경사항 발생일로부터 90일이 지난 후에도 신고하지 않는 경우 <신설 2025. 1. 6.>9. 그 밖에 이 규정에 따른 마주의 준수의무를 위반한 경우 <개정 2025. 1. 6.>[제8호에서 제9호로 이동 <2025. 1. 6.>]⑤ 마주 등록이 취소된 때에는 취소된 날부터 등록의 효력은 상실된다.⑥ 마주 활동정지명령을 받은 자에 대해서는 그 기간 중 해당 마주가 소유한 경주마의 경주출전 및 경주마 추가등록을 금지한다. 다만, 제2항제2호의 사유로 마주 활동정지명령을 받은 경우에는 경주마 등록을 실시할 수 있다. <개정 2021. 12. 5.>",
+        "content": "제11조(등록의 취소 및 활동정지) ① 회장은 마주가 다음 각 호의 어느 하나에 해당하는 경우에는 마주 등록을 취소하여야 한다.1. 사망(법인 또는 조합인 경우에는 해산)한 경우2. 등록취소를 신청한 경우3. 거짓이나 그 밖의 부정한 방법으로 등록한 경우4. 피성년후견 또는 피한정후견이 개시된 경우5. 파산선고를 받고 복권되지 아니한 경우6. 법을 위반하여 벌금 이상의 형을 선고받은 경우7. 금고 이상의 형을 선고받은 경우8. 본회 임직원, 조교사, 기수 또는 말관리사가 된 경우9. 마주협회ㆍ조교사협회ㆍ기수협회의 상근 임직원이 된 경우10. 법인으로서 그 임원 중에 법 제11조제2항제1호부터 제7호까지의 어느 하나에 해당하는 자가 있는 경우② 마주가 다음 각 호의 어느 하나에 해당하는 경우에는 마주등록심의위원회의 심의를 거쳐 마주 등록을 취소하거나 6개월의 범위에서 기간을 정하여 그 활동의 정지를 명할 수 있다.1. 주민등록사항(법인인 경우 명칭, 주소, 대표자 및 정관, 조합인 경우에는 조합마주 대표자, 조합원 및 조합계약서)의 변경이 발생했음에도 불구하고 사유발생일로부터 14일 이내 본회에 변경신고를 하지 아니한 경우2. 다음 각 목의 말을 정당한 사유 없이 계속하여 6개월 이상 소유하지 아니한 경우가. 제18조의 경주마 등록이 된 말나. 육성마(18개월령부터 경마계획표에서 정하는 경마장 입사제한 기준 연령 이하의 말에 한한다)로 마주등록심의위원회에서 인정한 말3. 조교사ㆍ기수 또는 말관리사에게 경주의 공정성을 해치는 행위를 요구한 경우4. 경마의 공정성을 해치거나 경마에 관한 정보의 제공을 조건으로 타인에게 재물 및 재산상의 이익을 얻거나 요구 또는 약속한 경우5. 자기 소유의 말을 다른 마주의 명의로 등록하여 경주에 출전시키거나 자기 소유가 아닌 말을 자기 명의로 등록하여 경주에 출전시킨 경우 <개정 2021. 12. 5.>6. 마주로서 직무상 준수의무를 위반하거나 품위를 손상하는 행위를 한 경우7. 마주 활동정지명령을 이행하지 아니하거나 두 번 이상 그 명령을 받은 경우8. 그 밖에 경마의 공정성을 크게 해치는 행위를 한 경우③ 제2항제2호의 \"정당한 사유\"란 다음 각 호의 어느 하나에 해당하는 경우를 말한다.1. 최초 마주 등록일부터 6개월이 지나지 아니한 경우 <개정 2018. 7. 30.>2. 3개월 이상 입원하거나 해외에 체류한 경우3. 그 밖에 마주등록심의위원회에서 인정하는 사유가 있는 경우④ 제2항제6호의 \"직무상 준수의무를 위반한 경우\"란 다음 각 호의 어느 하나에 해당하는 경우를 말한다.1. 마주등록증 또는 마주신분증을 다른 사람에게 양도하거나 위조 또는 변조한 경우2. 자기 소유의 말을 다른 마주 명의로 등록하거나 자기 소유가 아닌 말을 자기 명의로 등록한 경우3. 개최운영위원의 직무를 방해한 경우4. 마주 활동정지를 회피하기 위하여 경주마를 일시적으로 소유한 것으로 인정되는 경우5. 위탁관리비 미납 등으로 조교사에게 경주마를 계속적으로 위탁하는 것이 곤란하다고 인정되는 경우6. 법인마주의 임원 중 제2항제3호부터 제8호까지 또는 제4항제1호 및 제3호의 어느 하나에 해당하는 자가 있는 경우7. 조합이 제2항제1호ㆍ제2호ㆍ제5호ㆍ제7호 또는 제4항제2호ㆍ제4호ㆍ제5호의 어느 하나에 해당하거나 조합원 중에 제1항제6호, 제2항제3호ㆍ제4호ㆍ제8호 또는 제4항제1호ㆍ제3호의 어느 하나에 해당하는 자가 있는 경우8. 제24조에 따른 경주마 변경사항을 부정한 목적으로 거짓신고하거나, 변경사항 발생일로부터 90일이 지난 후에도 신고하지 않는 경우 <신설 2025. 1. 6.>9. 그 밖에 이 규정에 따른 마주의 준수의무를 위반한 경우 <개정 2025. 1. 6.>[제8호에서 제9호로 이동 2025. 1. 6.]⑤ 마주 등록이 취소된 때에는 취소된 날부터 등록의 효력은 상실된다.⑥ 마주 활동정지명령을 받은 자에 대해서는 그 기간 중 해당 마주가 소유한 경주마의 경주출전 및 경주마 추가등록을 금지한다. 다만, 제2항제2호의 사유로 마주 활동정지명령을 받은 경우에는 경주마 등록을 실시할 수 있다. <개정 2021. 12. 5.>",
         "enforcement_date": "",
         "relations": [
-          {
-            "relation_type": "citation",
-            "delegation_type": null,
-            "target_category": "법령",
-            "source_article_no": "제11조",
-            "source_clause": "제11조제1항",
-            "link_text": "법",
-            "line_text": "",
-            "target_law_name": "한국마사회법",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "",
-            "source_admrul_seq": "2116093",
-            "target_url": "https://www.law.go.kr/법령/한국마사회법",
-            "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0011",
-            "reference_id": "law:한국마사회법#DOC",
-            "target_repo": "LAW",
-            "target_git_path_guess": "한국마사회법/법률/한국마사회법.json",
-            "target_git_path": "한국마사회법/법률/한국마사회법.json",
-            "target_source_repository": "LAW"
-          },
-          {
-            "relation_type": "citation",
-            "delegation_type": null,
-            "target_category": "법령",
-            "source_article_no": "제11조",
-            "source_clause": "제11조제1항",
-            "link_text": "제11조제2항제1호부터 제7호",
-            "line_text": "",
-            "target_law_name": "한국마사회법",
-            "target_article_no": "제11조",
-            "target_article_title": "",
-            "target_mst": "",
-            "source_admrul_seq": "2116093",
-            "target_url": "https://www.law.go.kr/법령/한국마사회법/제11조",
-            "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0011",
-            "reference_id": "law:한국마사회법#JO0011",
-            "target_repo": "LAW",
-            "target_git_path_guess": "한국마사회법/법률/한국마사회법.json",
-            "target_git_path": "한국마사회법/법률/한국마사회법.json",
-            "target_source_repository": "LAW"
-          },
           {
             "relation_type": "internal_ref",
             "delegation_type": null,
@@ -573,11 +412,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0011",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0018",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -597,11 +432,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0011",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0024",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           }
         ],
         "images": [],
@@ -633,11 +464,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0012",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           }
         ],
         "images": [],
@@ -680,11 +507,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0014",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           }
         ],
         "images": [],
@@ -716,11 +539,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0015",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -740,11 +559,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0015",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           }
         ],
         "images": [],
@@ -787,11 +602,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0017",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -811,11 +622,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0017",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           }
         ],
         "images": [],
@@ -826,52 +633,28 @@
         "article_title": "경주마의 등록",
         "chapter": "제2절 경주마 등록",
         "chapter_path": "제2장 등록 > 제2절 경주마 등록",
-        "content": "제18조(경주마의 등록) ① 법 제12조에 따른 경주마의 등록은 다음 각 호의 사항을 경주마 등록부에 기재하는 것으로 한다.1. 마명2. 말의 품종ㆍ성별ㆍ털색ㆍ특징ㆍ생년월일ㆍ혈통3. 마주의 성명(법인인 경우에는 그 명칭, 공동마주 또는 공유마인 경우에는 마주 전원의 성명, 조합마주인 경우 조합명을 말한다)4. 등록번호 및 등록연월일5. 생산국 및 생산자의 성명6. 삭제 <2025. 1. 6.>② 제1항제1호의 마명 부여 등에 대해서는 「더러브렛등록규정」 제19조부터 제21조까지에 따른다.③ 제1항 및 제2항은 제주마의 마명부여 등에 준용한다.",
+        "content": "제18조(경주마의 등록) ① 법 제12조에 따른 경주마의 등록은 다음 각 호의 사항을 경주마 등록부에 기재하는 것으로 한다.1. 마명2. 말의 품종ㆍ성별ㆍ털색ㆍ특징ㆍ생년월일ㆍ혈통3. 마주의 성명(법인인 경우에는 그 명칭, 공동마주 또는 공유마인 경우에는 마주 전원의 성명, 조합마주인 경우 조합명을 말한다)4. 등록번호 및 등록연월일5. 생산국 및 생산자의 성명6. <삭제 2025. 1. 6.>② 제1항제1호의 마명 부여 등에 대해서는 「더러브렛등록규정」 제19조부터 제21조까지에 따른다.③ 제1항 및 제2항은 제주마의 마명부여 등에 준용한다.",
         "enforcement_date": "",
         "relations": [
           {
-            "relation_type": "citation",
+            "relation_type": "internal_ref",
             "delegation_type": null,
-            "target_category": "법령",
-            "source_article_no": "제18조",
-            "source_clause": "제18조제1항",
-            "link_text": "법",
-            "line_text": "",
-            "target_law_name": "한국마사회법",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "",
-            "source_admrul_seq": "2116093",
-            "target_url": "https://www.law.go.kr/법령/한국마사회법",
-            "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0018",
-            "reference_id": "law:한국마사회법#DOC",
-            "target_repo": "LAW",
-            "target_git_path_guess": "한국마사회법/법률/한국마사회법.json",
-            "target_git_path": "한국마사회법/법률/한국마사회법.json",
-            "target_source_repository": "LAW"
-          },
-          {
-            "relation_type": "citation",
-            "delegation_type": null,
-            "target_category": "법령",
+            "target_category": "학칙공단",
             "source_article_no": "제18조",
             "source_clause": "제18조제1항",
             "link_text": "제12조",
             "line_text": "",
-            "target_law_name": "한국마사회법",
+            "target_law_name": "(한국마사회) 경마시행규정",
             "target_article_no": "제12조",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "2116093",
-            "target_url": "https://www.law.go.kr/법령/한국마사회법/제12조",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국마사회) 경마시행규정/제12조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0018",
-            "reference_id": "law:한국마사회법#JO0012",
-            "target_repo": "LAW",
-            "target_git_path_guess": "한국마사회법/법률/한국마사회법.json",
-            "target_git_path": "한국마사회법/법률/한국마사회법.json",
-            "target_source_repository": "LAW"
+            "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0012",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           },
           {
             "relation_type": "citation",
@@ -983,11 +766,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0019",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0030",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           }
         ],
         "images": [],
@@ -1019,11 +798,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0020",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0019",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           }
         ],
         "images": [],
@@ -1034,7 +809,7 @@
         "article_title": "등록의 제한",
         "chapter": "제2절 경주마 등록",
         "chapter_path": "제2장 등록 > 제2절 경주마 등록",
-        "content": "제21조(등록의 제한) ① 경주마 등록을 신청한 말이 다음 각 호의 어느 하나에 해당할 경우에는 등록을 제한한다.1. 생후 20개월이 지나지 아니하거나 마명이 부여되지 아니한 말2. 가축전염병의 징후가 있거나 실명(失明) 등 장애로 경주용으로 부적합하다고 인정되는 말3. 삭제 <2025. 1. 6.>② 제22조제1항제4호ㆍ제6호에 따라 등록이 취소된 말의 마주가 다른 말의 경주마 등록을 신청한 때에는 해당 등록을 제한할 수 있다. <개정 2025. 1. 6.>③ 삭제 <2025. 1. 6.>",
+        "content": "제21조(등록의 제한) ① 경주마 등록을 신청한 말이 다음 각 호의 어느 하나에 해당할 경우에는 등록을 제한한다.1. 생후 20개월이 지나지 아니하거나 마명이 부여되지 아니한 말2. 가축전염병의 징후가 있거나 실명(失明) 등 장애로 경주용으로 부적합하다고 인정되는 말3. <삭제 2025. 1. 6.>② 제22조제1항제4호ㆍ제6호에 따라 등록이 취소된 말의 마주가 다른 말의 경주마 등록을 신청한 때에는 해당 등록을 제한할 수 있다. <개정 2025. 1. 6.>③ <삭제 2025. 1. 6.>",
         "enforcement_date": "",
         "relations": [
           {
@@ -1055,11 +830,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0021",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0022",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           }
         ],
         "images": [],
@@ -1070,7 +841,7 @@
         "article_title": "등록의 취소",
         "chapter": "제2절 경주마 등록",
         "chapter_path": "제2장 등록 > 제2절 경주마 등록",
-        "content": "제22조(등록의 취소) ① 경주마로 등록된 말이 다음 각 호의 어느 하나에 해당될 때에는 해당 말의 경주마 등록을 취소한다.1. 마주가 경주마 등록의 취소를 신청하였을 때2. 말이 폐사하였을 때3. 경마 이외의 용도로 전용 또는 처분하였을 때4. 말의 털색을 변장시키는 등 거짓이나 그 밖의 부정한 방법으로 경주마를 출전시키려고 시도했거나 출전시킨 경우 <개정 2021. 12. 5., 2025. 1. 6.>5. 삭제 <2025. 1. 6.>6. 거짓이나 그 밖의 부정한 방법으로 경주마 등록을 한 경우 <개정 2025. 1. 6.>7. 질병(최근 2년 이내 폐출혈 3회 발생 등)이나 장애ㆍ부상 등으로 수의사의 진단을 받아 말이 경주에 출전하는 것이 현저히 곤란하다고 심판위원이 인정하는 경우 <개정 2025. 1. 6.>8. 삭제 <2025. 1. 6.>9. 삭제 <2025. 1. 6.>10. 삭제 <2025. 1. 6.>② 삭제 <2025. 1. 6.>③ 제1항에 따라 등록을 취소한 때에는 그 등록은 취소일부터 효력을 상실한다. <개정 2025. 1. 6.>④ 삭제 <2025. 1. 6.>",
+        "content": "제22조(등록의 취소) ① 경주마로 등록된 말이 다음 각 호의 어느 하나에 해당될 때에는 해당 말의 경주마 등록을 취소한다.1. 마주가 경주마 등록의 취소를 신청하였을 때2. 말이 폐사하였을 때3. 경마 이외의 용도로 전용 또는 처분하였을 때4. 말의 털색을 변장시키는 등 거짓이나 그 밖의 부정한 방법으로 경주마를 출전시키려고 시도했거나 출전시킨 경우 <개정 2021. 12. 5., 2025. 1. 6.>5. <삭제 2025. 1. 6.>6. 거짓이나 그 밖의 부정한 방법으로 경주마 등록을 한 경우 <개정 2025. 1. 6.>7. 질병(최근 2년 이내 폐출혈 3회 발생 등)이나 장애ㆍ부상 등으로 수의사의 진단을 받아 말이 경주에 출전하는 것이 현저히 곤란하다고 심판위원이 인정하는 경우 <개정 2025. 1. 6.>8. <삭제 2025. 1. 6.>9. <삭제 2025. 1. 6.>10. <삭제 2025. 1. 6.>② <삭제 2025. 1. 6.>③ 제1항에 따라 등록을 취소한 때에는 그 등록은 취소일부터 효력을 상실한다. <개정 2025. 1. 6.>④ <삭제 2025. 1. 6.>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -1102,11 +873,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0023",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0022",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           }
         ],
         "images": [],
@@ -1138,11 +905,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0024",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0022",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           }
         ],
         "images": [],
@@ -1185,11 +948,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0026",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0025",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           }
         ],
         "images": [],
@@ -1221,11 +980,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0027",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0026",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           }
         ],
         "images": [],
@@ -1273,48 +1028,24 @@
         "enforcement_date": "",
         "relations": [
           {
-            "relation_type": "citation",
+            "relation_type": "internal_ref",
             "delegation_type": null,
-            "target_category": "법령",
-            "source_article_no": "제31조",
-            "source_clause": "제31조제2항",
-            "link_text": "법",
-            "line_text": "",
-            "target_law_name": "한국마사회법",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "",
-            "source_admrul_seq": "2116093",
-            "target_url": "https://www.law.go.kr/법령/한국마사회법",
-            "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0031",
-            "reference_id": "law:한국마사회법#DOC",
-            "target_repo": "LAW",
-            "target_git_path_guess": "한국마사회법/법률/한국마사회법.json",
-            "target_git_path": "한국마사회법/법률/한국마사회법.json",
-            "target_source_repository": "LAW"
-          },
-          {
-            "relation_type": "citation",
-            "delegation_type": null,
-            "target_category": "법령",
+            "target_category": "학칙공단",
             "source_article_no": "제31조",
             "source_clause": "제31조제2항",
             "link_text": "제16조",
             "line_text": "",
-            "target_law_name": "한국마사회법",
+            "target_law_name": "(한국마사회) 경마시행규정",
             "target_article_no": "제16조",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "2116093",
-            "target_url": "https://www.law.go.kr/법령/한국마사회법/제16조",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국마사회) 경마시행규정/제16조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0031",
-            "reference_id": "law:한국마사회법#JO0016",
-            "target_repo": "LAW",
-            "target_git_path_guess": "한국마사회법/법률/한국마사회법.json",
-            "target_git_path": "한국마사회법/법률/한국마사회법.json",
-            "target_source_repository": "LAW"
+            "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0016",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           }
         ],
         "images": [],
@@ -1413,7 +1144,7 @@
         "article_title": "마령중량",
         "chapter": "제3장 경마계획표",
         "chapter_path": "제3장 경마계획표",
-        "content": "제40조(마령중량) ① 제38조제1항제1호의 말의 나이에 따른 중량은 다음 각 호와 같다.1. 평지경주 : 최대 중량은 60㎏ 이내로 하며 세부적인 중량은 연령ㆍ성(性)ㆍ경주거리 및 경주시행시기 등에 따라 경마계획표로 따로 정한다.2. 장애물경주[그림]② 제1항에도 불구하고 제주경마장에서 개최하는 경주(평지경주만을 말한다)의 나이에 따른 중량은 4세마 이상의 숫말 및 거세말의 경우에는 57kg으로 하고 4세 이상의 암말의 경우에는 56kg으로 하며, 나머지 말의 경우에는 연령ㆍ성(性)ㆍ경주거리 및 경주시행시기별로 감량하되 세부적인 중량은 경마계획표로 따로 정한다.",
+        "content": "제40조(마령중량) ① 제38조제1항제1호의 말의 나이에 따른 중량은 다음 각 호와 같다.1. 평지경주 : 최대 중량은 60㎏ 이내로 하며 세부적인 중량은 연령ㆍ성(性)ㆍ경주거리 및 경주시행시기 등에 따라 경마계획표로 따로 정한다.2. 장애물경주               (단위: kg)② 제1항에도 불구하고 제주경마장에서 개최하는 경주(평지경주만을 말한다)의 나이에 따른 중량은 4세마 이상의 숫말 및 거세말의 경우에는 57kg으로 하고 4세 이상의 암말의 경우에는 56kg으로 하며, 나머지 말의 경우에는 연령ㆍ성(性)ㆍ경주거리 및 경주시행시기별로 감량하되 세부적인 중량은 경마계획표로 따로 정한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -1434,24 +1165,10 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0040",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0038",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           }
         ],
-        "images": [
-          {
-            "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148341511",
-            "seq": "148341511",
-            "filename": "제40조_1.gif",
-            "file_dir": "본문이미지",
-            "local_path": "본문이미지/제40조_1.gif",
-            "file_store_url": ""
-          }
-        ],
+        "images": [],
         "provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0040"
       },
       {
@@ -1459,7 +1176,7 @@
         "article_title": "기수에 대한 부담중량 감량",
         "chapter": "제3장 경마계획표",
         "chapter_path": "제3장 경마계획표",
-        "content": "제41조(기수에 대한 부담중량 감량) ① 기승경력이 5년 이하이고, 우승횟수가 40승 미만인 기수가 경주(특별경주를 제외한다)에 기승하는 경우에는 아래 표에 따라 부담중량을 감량한다. 다만, 핸디캡에 따라 부담중량을 정하는 경주에서는 부담중량 감량 여부 및 범위에 대해 경마계획표에서 따로 정한다.[그림]② 제1항에도 불구하고 제주마 기수로서 일정한 경력을 갖추어 더러브렛 기수면허를 받은 자에 대해서는 제1항의 부담중량 감량을 적용하지 아니한다.③ 제1항의 기승경력 및 우승횟수는 각각 해당 기수가 최초로 기승한 날부터 기승예정경주의 출전신청일 전날까지의 기승경력 및 1위 횟수로 한다. 다만, 다음 각 호의 어느 하나에 해당하는 기간(6개월 미만인 기간은 제외한다)은 기승경력에서 제외할 수 있다.1. 「병역법」 에 따른 군복무기간2. 부상 또는 질병 치료기간(의사진단서에 따름)3. 기수면허가 취소된 후 다시 취득한 경우 면허가 취소되었던 기간4. 학위취득 또는 선진기승기술 습득을 위하여 국내외 교육기관에서 교육을 받고자 휴업한 기간5. 임신 및 육아로 인한 휴업기간6. 그 밖에 심판위원이 기승경력에서 제외하는 것이 타당하다고 인정하는 기간④ 제3항 단서에 따른 기승경력 제외 신청은 기승경력이 만 5년이 된 후 최초 기승예정 경주의 출전신청일 1주일 전까지 해당 경마장 심판위원에게 서면으로 하여야 한다.",
+        "content": "제41조(기수에 대한 부담중량 감량) ① 기승경력이 5년 이하이고, 우승횟수가 40승 미만인 기수가 경주(특별경주를 제외한다)에 기승하는 경우에는 아래 표에 따라 부담중량을 감량한다. 다만, 핸디캡에 따라 부담중량을 정하는 경주에서는 부담중량 감량 여부 및 범위에 대해 경마계획표에서 따로 정한다.② 제1항에도 불구하고 제주마 기수로서 일정한 경력을 갖추어 더러브렛 기수면허를 받은 자에 대해서는 제1항의 부담중량 감량을 적용하지 아니한다.③ 제1항의 기승경력 및 우승횟수는 각각 해당 기수가 최초로 기승한 날부터 기승예정경주의 출전신청일 전날까지의 기승경력 및 1위 횟수로 한다. 다만, 다음 각 호의 어느 하나에 해당하는 기간(6개월 미만인 기간은 제외한다)은 기승경력에서 제외할 수 있다.1. 「병역법」에 따른 군복무기간2. 부상 또는 질병 치료기간(의사진단서에 따름)3. 기수면허가 취소된 후 다시 취득한 경우 면허가 취소되었던 기간4. 학위취득 또는 선진기승기술 습득을 위하여 국내외 교육기관에서 교육을 받고자 휴업한 기간5. 임신 및 육아로 인한 휴업기간6. 그 밖에 심판위원이 기승경력에서 제외하는 것이 타당하다고 인정하는 기간④ 제3항 단서에 따른 기승경력 제외 신청은 기승경력이 만 5년이 된 후 최초 기승예정 경주의 출전신청일 1주일 전까지 해당 경마장 심판위원에게 서면으로 하여야 한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -1480,22 +1197,10 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0041",
             "reference_id": "law:병역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "병역법/법률/병역법.json",
-            "target_git_path": "병역법/법률/병역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "병역법/법률/병역법.json"
           }
         ],
-        "images": [
-          {
-            "type": "image",
-            "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148341515",
-            "seq": "148341515",
-            "filename": "제41조_1.gif",
-            "file_dir": "본문이미지",
-            "local_path": "본문이미지/제41조_1.gif",
-            "file_store_url": ""
-          }
-        ],
+        "images": [],
         "provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0041"
       },
       {
@@ -1524,11 +1229,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0042",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0036",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           }
         ],
         "images": [],
@@ -1582,11 +1283,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0045",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0044",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           }
         ],
         "images": [],
@@ -1618,11 +1315,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0046",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0045",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1642,11 +1335,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0046",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0052",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1666,11 +1355,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0046",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0087",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           }
         ],
         "images": [],
@@ -1702,11 +1387,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0047",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0045",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1726,11 +1407,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0047",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0046",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           }
         ],
         "images": [],
@@ -1762,11 +1439,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0048",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0044",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           }
         ],
         "images": [],
@@ -1798,11 +1471,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0049",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0044",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1822,11 +1491,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0049",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0045",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           }
         ],
         "images": [],
@@ -1869,11 +1534,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0051",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0044",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           }
         ],
         "images": [],
@@ -1916,11 +1577,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0053",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0052",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           }
         ],
         "images": [],
@@ -1963,11 +1620,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0055",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0054",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           }
         ],
         "images": [],
@@ -2010,11 +1663,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0057",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0051",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           }
         ],
         "images": [],
@@ -2033,12 +1682,33 @@
       },
       {
         "article_no": "제59조",
-        "article_title": "경주마에 대한 금지약물 등의 사용금지",
+        "article_title": "경주마에 대한 금지물질 및 치료관리약물의 관리",
         "chapter": "제5장 경주",
         "chapter_path": "제5장 경주",
-        "content": "제59조(경주마에 대한 금지약물 등의 사용금지) ① 출전신청된 말, 그 밖에 경주에 출전시키려는 말(이하 \"출전예정마\"라 한다)에 대해서는 금지약물을 사용하여서는 아니 된다. <개정 2021. 12. 5.>② 금지약물이 아니더라도 출전예정마에게 말의 경주능력을 일시적으로 높이거나 줄이는 목적의 약물을 사용하여서는 아니 된다. <개정 2021. 12. 5.>③ 제1항 및 제2항의 약물이 투입되어 그 영향을 받고 있는 말은 경주에 출전시킬 수 없다. <개정 2021. 12. 5.>④ 조교사는 제1항부터 제3항까지의 규정을 위반하지 않도록 자신이 관리하는 말에 대해 필요한 조치를 하여야 한다.⑤ 심판위원은 조교사가 제1항부터 제3항까지를 위반하거나 위반한 혐의가 있다고 인정되면 해당 조교사의 대부마사 조사, 해당 말의 마체검사, 시료(뇨, 타액, 혈액, 피모 등) 채취, 금지약물 검사, 그 밖에 필요한 조치를 할 수 있다.⑥ 제1항에 따른 금지약물의 종류와 허용기준 등에 관하여는 회장이 따로 정한다.[제목개정 2018. 7. 30.]",
+        "content": "제59조(경주마에 대한 금지물질 및 치료관리약물의 관리) ① 경주마에 대하여 금지물질을 사용하여서는 아니되며, 경주마사 내 금지물질을 보유하여서도 아니 된다. <개정 2021. 12. 5., 2026. 10. 12.>② 금지물질이 아니더라도 경주마의 경주능력을 일시적으로 높이거나 줄이는 목적의 치료관리약물 및 그 밖의 물질을 사용하여서는 아니 된다. <개정 2021. 12. 5., 2026. 10. 12.>③ 제1항 및 제2항의 물질 및 약물 등이 투입되어 그 영향을 받고 있는 말은 경주에 출전시킬 수 없다. <개정 2021. 12. 5., 2026. 10. 12.>④ 조교사는 제1항부터 제3항까지의 규정을 위반하지 않도록 자신이 관리하는 말에 대해 필요한 조치를 하여야 한다.⑤ 심판위원은 조교사가 제1항부터 제3항까지를 위반하거나 위반한 혐의가 있다고 인정되면 해당 조교사의 대부마사 조사, 해당 말의 마체검사, 시료(뇨, 타액, 혈액, 피모 등) 채취, 금지약물 검사, 그 밖에 필요한 조치를 할 수 있다.⑥ 수의학적 처치를 위하여 불가피한 경우로서 회장의 사전승인을 받은 금지물질과 제61조제1항 및 제2항에 따른 진료약품에 한하여 경주마의 진료약품에 한하여 경주마의 진료 또는 치료에 사용할 수 있다. <신설 2026. 10. 12.>⑦ 제1항, 제2항 및 제6항에 따른 금지물질 및 치료관리약물의 종류와 허용기준 등에 관하여는 회장이 따로 정한다. <개정 2026. 10. 12.>[제6호에서 이동 2026. 10. 12.][제목개정 2018. 7. 30., 2026. 10. 12.]",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제59조",
+            "source_clause": "제59조제6항",
+            "link_text": "제61조제1항 및 제2항",
+            "line_text": "",
+            "target_law_name": "(한국마사회) 경마시행규정",
+            "target_article_no": "제61조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2116093",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국마사회) 경마시행규정/제61조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0059",
+            "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0061",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0059"
       },
@@ -2055,10 +1725,10 @@
       },
       {
         "article_no": "제60조",
-        "article_title": "출전마에 대한 금지약물 검사",
+        "article_title": "출전마에 대한 약물검사",
         "chapter": "제5장 경주",
         "chapter_path": "제5장 경주",
-        "content": "제60조(출전마에 대한 금지약물 검사) ① 경주에 출전하는 전부 또는 일부의 말에 대해서는 경주 전에 금지약물의 존재 여부에 대한 검사를 실시한다. <개정 2017. 12. 26., 2018. 7. 30., 2021. 12. 5.>② 제1위부터 제3위까지의 말과 심판위원이 특별히 지정한 말에 대해서는 경주 후에 금지약물 검사를 실시한다. <신설 2017. 12. 26.>③ 제2항에 따라 경주 후에 금지약물 검사를 받아야 하는 말에 대해서는 시료를 채취할 때까지 급식과 투약을 하여서는 아니 된다. <개정 2017. 12. 26.>[제2항에서 제3항으로 이동 <2017. 12. 26.>]④ 제1항 및 제2항에 따른 금지약물 검사 대상마의 선정기준 및 방식, 검사의 절차, 검사기관 등에 관한 사항은 회장이 따로 정한다. <개정 2017. 12. 26.>[제3항에서 제4항으로 이동 <2017. 12. 26.>][제목개정 2021. 12. 5.]",
+        "content": "제60조(출전마에 대한 약물검사) ① 경주에 출전시키려는 전부 또는 일부의 말에 대해서는 경주 전일까지 약물검사를 실시한다. 단, 경주 당일이라도 수의위원이 특별 지정한 말에 대해서는 경주 전 약물검사를 실시한다. <개정 2017. 12. 26., 2018. 7. 30., 2021. 12. 5., 2026. 10. 12.>② 제1위부터 제3위까지의 말과 심판위원이 특별히 지정한 말에 대해서는 경주 후에 약물검사를 실시한다. <신설 2017. 12. 26., 2026. 10. 12.>③ 제2항에 따라 경주 후에 약물검사를 받아야 하는 말에 대해서는 시료를 채취할 때까지 급식과 투약을 하여서는 아니 된다. 다만, 응급처치를 위하여 투약이 불가피한 경우에는 그러하지 아니한다. <개정 2017. 12. 26., 2026. 10. 12.>[제2항에서 제3항으로 이동 2017. 12. 26.]④ 제1항 및 제2항에 따른 약물검사 대상마의 선정기준 및 방식, 검사의 절차, 검사기관 등에 관한 사항은 회장이 따로 정한다. <개정 2017. 12. 26., 2026. 10. 12.>[제3항에서 제4항으로 이동 2017. 12. 26.][제목개정 2021. 12. 5., 2026. 10. 12.]",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -2090,15 +1760,22 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0060_02",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0108",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           }
         ],
         "images": [],
         "provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0060_02"
+      },
+      {
+        "article_no": "제60조의3",
+        "article_title": "상시약물검사",
+        "chapter": "제5장 경주",
+        "chapter_path": "제5장 경주",
+        "content": "제60조의3(상시약물검사) ① 경마장에 입사하려는 말 또는 입사한 말에 대해서 경주 출전에 관계없이 약물검사를 시행할 수 있다.② 회장이 필요하다고 인정하는 경우에는 경마장 밖에서 육성, 조교 또는 휴양 중인 말에 대해서도 약물 검사를 실시할 수 있다.③ 경주마 관계자는 상시약물검사를 위한 시료채취에 협조하여야 하며, 정당한 사유 없이 이를 거부하거나 방해하여서는 아니 된다.④ 제1항 및 제2항에 따른 약물검사 대상마의 선정기준 및 방식, 검사시기, 검사절차, 검사기관 등에 관한 사항은 회장이 따로 정한다.[본조신설 2026. 10. 12.]",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0060_03"
       },
       {
         "article_no": "제61조",
@@ -2113,10 +1790,10 @@
       },
       {
         "article_no": "제62조",
-        "article_title": "금지약물 노출 방지",
+        "article_title": "금지물질 및 치료관리약물 노출 방지",
         "chapter": "제5장 경주",
         "chapter_path": "제5장 경주",
-        "content": "제62조(금지약물 노출 방지) ① 경주마에 급식할 사료는 사전에 본회의 승인을 받아야 하며, 금지약물이 들어 있는 사료를 급식하여서는 아니 된다.② 조교사는 관리하는 말이 금지약물에 노출되었을 가능성이 있다고 판단될 때에는 해당 말의 출전신청 전에 본회에 금지약물 검사를 의뢰할 수 있다.③ 수의위원 또는 심판위원은 금지약물의 검출을 방지하기 위해 경주마 관계자 및 개업 수의사에게 필요한 지시를 하거나 조치를 하게 할 수 있다.",
+        "content": "제62조(금지물질 및 치료관리약물 노출 방지) ① 경주마에 급식할 사료는 사전에 본회의 승인을 받아야 하며, 금지물질 또는 치료관리약물이 들어 있는 사료를 급식하여서는 아니 된다. <개정 2026. 10. 12.>② 조교사는 관리하는 말이 금지물질 또는 치료관리약물에 노출되었을 가능성이 있다고 판단될 때에는 해당 말의 출전신청 전에 본회에 약물검사를 의뢰할 수 있다. <개정 2026. 10. 12.>③ 수의위원 또는 심판위원은 금지물질 또는 치료관리약물의 검출을 방지하기 위해 경주마 관계자 및 개업 수의사에게 필요한 지시를 하거나 조치를 하게 할 수 있다. <개정 2026. 10. 12.>[제목개정 2026. 10. 12.]",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -2124,10 +1801,10 @@
       },
       {
         "article_no": "제63조",
-        "article_title": "출전신청 전 금지약물 검사",
+        "article_title": "출전신청 전 약물검사",
         "chapter": "제5장 경주",
         "chapter_path": "제5장 경주",
-        "content": "제63조(출전신청 전 금지약물 검사) ① 제59조제4항 및 제62조제2항에 따라 조교사가 자기가 관리하는 말에 대하여 출전신청 전 금지약물 검사를 의뢰할 수 있는 경우는 다음 각 호와 같다.1. 10일 이상 검출가능 금지약물로 치료받은 말2. 수의위원(본회 수의사에 한함)의 치료를 받은 말 중 조교사가 판단하여 금지약물 검출이 우려되는 말3. 경마장 밖에서 휴양을 하면서 치료를 받은 말 중 금지약물 검출이 우려되는 말② 제1항에도 불구하고 심판위원이 별도로 지정한 말은 출전신청 전 금지약물 검사를 받아야 한다.③ 제1항에 의한 검사 의뢰는 당해 말의 출전신청 전에 해야 하며, 검사 신청절차 및 시료채취시기 등은 수의위원이 따로 정한다.④ 그 밖의 시료채취에 필요한 사항은 수의위원이 따로 정한다.⑤ 제1항 및 제2항에 의한 금지약물의 검사는 당해 말 출전신청 개시 전에 완료한다.",
+        "content": "제63조(출전신청 전 약물검사) ① 제59조제4항 및 제62조제2항에 따라 조교사가 자기가 관리하는 말에 대하여 출전신청 전 약물검사를 의뢰할 수 있는 경우는 다음 각 호와 같다. <개정 2026. 10. 12.>1. 10일 이상 검출가능 약물로 치료받은 말 <개정 2026. 10. 12.>2. 금지물질 및 치료관리약물 등에 노출이 된 것으로 의심되는 말 <신설 2026. 10. 12.>3. 수의위원(본회 수의사에 한함)의 치료를 받은 말 중 조교사가 판단하여 금지물질 또는 치료관리약물 검출이 우려되는 말 <개정 2026. 10. 12.>[제2호에서 이동 2026. 10. 12.]4. 경마장 밖에서 휴양을 하면서 치료를 받은 말 중 금지물질 또는 치료관리약물 검출이 우려되는 말[제3호에서 이동 2026. 10. 12.]② 제1항에도 불구하고 심판위원 또는 수의위원이 별도로 지정한 말은 출전신청 전 약물 검사를 받아야 한다. <개정 2026. 10. 12.>③ 제1항에 의한 검사 의뢰는 당해 말의 출전신청 전에 해야 하며, 검사 신청절차 및 시료채취시기 등은 수의위원이 따로 정한다.④ 그 밖의 시료채취에 필요한 사항은 수의위원이 따로 정한다.⑤ 제1항 및 제2항에 의한 약물검사는 당해 말 출전신청 개시 전에 완료한다. <개정 2026. 10. 12.>[제목개정 2026. 10. 12.]",
         "enforcement_date": "",
         "relations": [
           {
@@ -2148,11 +1825,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0063",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0059",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2172,11 +1845,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0063",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0062",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           }
         ],
         "images": [],
@@ -2208,11 +1877,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0064",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0061",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           }
         ],
         "images": [],
@@ -2223,7 +1888,7 @@
         "article_title": "자가진료약품 등의 비정상적 사용 금지",
         "chapter": "제5장 경주",
         "chapter_path": "제5장 경주",
-        "content": "제65조(자가진료약품 등의 비정상적 사용 금지) 조교사는 자가진료약품 등 금지약물이 아닌 물질이라도 비정상적으로 사용하여서는 아니 된다.",
+        "content": "제65조(자가진료약품 등의 비정상적 사용 금지) 조교사는 자가진료약품 등 금지물질 또는 치료관리약물이 아닌 물질이라도 비정상적으로 사용하여서는 아니 된다. <개정 2026. 10. 12.>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -2234,7 +1899,7 @@
         "article_title": "경주마의 진료신청 및 처리절차",
         "chapter": "제5장 경주",
         "chapter_path": "제5장 경주",
-        "content": "제66조(경주마의 진료신청 및 처리절차) ① 조교사(조교사의 지시를 받은 말관리사 포함)가 본회 수의사 또는 개업 수의사에게 관리마의 진료를 신청할 때는 진료신청서를 제출하여야 한다.② 진료를 행한 본회 수의사 또는 개업 수의사는 진료마의 마명, 질병명, 처방약품명, 금지약물 포함 여부 및 주의사항 등의 진료내역을 전산시스템에 입력하고, 진료신청자가 요청 시 교부 또는 열람할 수 있도록 해야 한다. <개정 2025. 1. 6.>",
+        "content": "제66조(경주마의 진료신청 및 처리절차) ① 조교사(조교사의 지시를 받은 말관리사 포함)가 본회 수의사 또는 개업 수의사에게 관리마의 진료를 신청할 때는 진료신청서를 제출하여야 한다.② 진료를 행한 본회 수의사 또는 개업 수의사는 진료마의 마명, 질병명, 처방약품명, 금지물질 또는 치료관리약물 포함 여부 및 주의사항 등의 진료내역을 전산시스템에 입력하고, 진료신청자가 요청 시 교부 또는 열람할 수 있도록 해야 한다. <개정 2025. 1. 6., 2026. 10. 12.>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -2299,11 +1964,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0069",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0054",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           }
         ],
         "images": [],
@@ -2335,11 +1996,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0070",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0069",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2359,11 +2016,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0070",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0069",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           }
         ],
         "images": [],
@@ -2428,11 +2081,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0074",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0059",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2452,11 +2101,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0074",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0071",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2476,11 +2121,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0074",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           }
         ],
         "images": [],
@@ -2556,11 +2197,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0079",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0078",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           }
         ],
         "images": [],
@@ -2592,11 +2229,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0080",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0076",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2616,11 +2249,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0080",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0077",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2640,11 +2269,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0080",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0079",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           }
         ],
         "images": [],
@@ -2742,9 +2367,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0087",
             "reference_id": "law:한국마사회법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국마사회법/시행규칙/한국마사회법 시행규칙.json",
-            "target_git_path": "한국마사회법/시행규칙/한국마사회법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "한국마사회법/시행규칙/한국마사회법 시행규칙.json"
           },
           {
             "relation_type": "citation",
@@ -2764,9 +2387,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0087",
             "reference_id": "law:한국마사회법시행규칙#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국마사회법/시행규칙/한국마사회법 시행규칙.json",
-            "target_git_path": "한국마사회법/시행규칙/한국마사회법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "한국마사회법/시행규칙/한국마사회법 시행규칙.json"
           },
           {
             "relation_type": "citation",
@@ -2786,9 +2407,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0087",
             "reference_id": "law:한국마사회법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국마사회법/시행규칙/한국마사회법 시행규칙.json",
-            "target_git_path": "한국마사회법/시행규칙/한국마사회법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "한국마사회법/시행규칙/한국마사회법 시행규칙.json"
           },
           {
             "relation_type": "citation",
@@ -2808,9 +2427,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0087",
             "reference_id": "law:한국마사회법시행규칙#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국마사회법/시행규칙/한국마사회법 시행규칙.json",
-            "target_git_path": "한국마사회법/시행규칙/한국마사회법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "한국마사회법/시행규칙/한국마사회법 시행규칙.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2830,11 +2447,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0087",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0079",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           }
         ],
         "images": [],
@@ -2845,7 +2458,7 @@
         "article_title": "실격",
         "chapter": "제5장 경주",
         "chapter_path": "제5장 경주",
-        "content": "제88조(실격) ① 심판위원은 도착순위확정 전에 결승선에 도착한 말이 다음 각 호의 어느 하나에 해당할 때에는 해당 말을 실격으로 할 수 있다.1. 제59조제1항에 따른 금지약물의 영향을 받고 있을 때2. 후검량이 전검량 보다 1kg을 초과하여 부족한 때3. 기승기수가 제86조제1항에 따른 후검량을 받지 아니한 때(제86조제3항에 따른 후검량을 받지 아니한 때를 제외한다)4. 진로방해, 압제, 충돌, 고성 또는 부당한 채찍사용 등으로 다른 말의 주행을 방해한 때(방해받은 말이 주행중지 또는 실격된 때에 한정한다)5. 그 밖에 경주의 공정성을 해치는 중대한 규칙위반을 하였을 때② 제1항에 따라 실격된 말은 해당 경주의 도착순위에서 제외한다.",
+        "content": "제88조(실격) ① 심판위원은 도착순위확정 전에 결승선에 도착한 말이 다음 각 호의 어느 하나에 해당할 때에는 해당 말을 실격으로 할 수 있다.1. 제59조제1항 및 제2항에 따른 물질 또는 약물의 영향을 받고 있을 때 <개정 2026. 10. 12.>2. 후검량이 전검량 보다 1kg을 초과하여 부족한 때3. 기승기수가 제86조제1항에 따른 후검량을 받지 아니한 때(제86조제3항에 따른 후검량을 받지 아니한 때를 제외한다)4. 진로방해, 압제, 충돌, 고성 또는 부당한 채찍사용 등으로 다른 말의 주행을 방해한 때(방해받은 말이 주행중지 또는 실격된 때에 한정한다)5. 그 밖에 경주의 공정성을 해치는 중대한 규칙위반을 하였을 때② 제1항에 따라 실격된 말은 해당 경주의 도착순위에서 제외한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -2854,7 +2467,7 @@
             "target_category": "학칙공단",
             "source_article_no": "제88조",
             "source_clause": "제88조제1항",
-            "link_text": "제59조제1항",
+            "link_text": "제59조제1항 및 제2항",
             "line_text": "",
             "target_law_name": "(한국마사회) 경마시행규정",
             "target_article_no": "제59조",
@@ -2866,11 +2479,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0088",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0059",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2890,11 +2499,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0088",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0086",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2914,11 +2519,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0088",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0086",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           }
         ],
         "images": [],
@@ -2950,11 +2551,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0089",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0088",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           }
         ],
         "images": [],
@@ -2986,11 +2583,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0090",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0088",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3010,11 +2603,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0090",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0089",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           }
         ],
         "images": [],
@@ -3025,7 +2614,7 @@
         "article_title": "이의신청",
         "chapter": "제5장 경주",
         "chapter_path": "제5장 경주",
-        "content": "제91조(이의신청) ① 마주, 조교사(제164조제2항 및 제6항에 따른 대행자를 포함한다) 및 기수는 출전마에 관한 다음 각 호의 사항에 대하여 이의를 제기할 수 있다. 다만, 기수는 본인에 관한 제4호의 사항에 대해서도 이의를 제기할 수 있다. <개정 2018. 7. 30., 2021. 12. 5.>1. 부담중량(핸디캡에 의한 중량은 제외한다)에 관한 사항2. 검량에 관한 사항3. 주행방해에 관한 사항4. 금지약물 검출에 관한 사항5. 출전마의 자격에 관한 사항 <개정 2021. 12. 5.>② 심판위원은 제1항에 따른 이의신청을 받은 때에는 이를 심사하고 그 결과를 신청인에게 통지하여야 한다.③ 제1항의 이의신청은 이의가 있는 당사자가 하여야 하며, 이의신청을 취소하려면 심판위원의 허가를 받아야 한다.④ 제1항에 따른 이의신청은 다음 각 호의 기간 내에 하여야 한다.1. 제1항제1호 및 제5호: 출발시각 1시간 전까지2. 제1항제2호 및 제3호: 해당 경주 도착순위 확정 전까지⑤ 제1항제4호에 대한 이의신청기간 기타 세부적인 사항은 회장이 따로 정한다.",
+        "content": "제91조(이의신청) ① 마주, 조교사(제164조제2항 및 제6항에 따른 대행자를 포함한다) 및 기수는 출전마에 관한 다음 각 호의 사항에 대하여 이의를 제기할 수 있다. 다만, 기수는 본인에 관한 제4호의 사항에 대해서도 이의를 제기할 수 있다. <단서신설 2018. 7. 30., 개정 2021. 12. 5.>1. 부담중량(핸디캡에 의한 중량은 제외한다)에 관한 사항2. 검량에 관한 사항3. 주행방해에 관한 사항4. 금지물질, 치료관리약물 또는 금지약물 검출에 관한 사항 <개정 2026. 10. 12.>5. 출전마의 자격에 관한 사항 <개정 2021. 12. 5.>② 심판위원은 제1항에 따른 이의신청을 받은 때에는 이를 심사하고 그 결과를 신청인에게 통지하여야 한다.③ 제1항의 이의신청은 이의가 있는 당사자가 하여야 하며, 이의신청을 취소하려면 심판위원의 허가를 받아야 한다.④ 제1항에 따른 이의신청은 다음 각 호의 기간 내에 하여야 한다.1. 제1항제1호 및 제5호 : 출발시각 1시간 전까지2. 제1항제2호 및 제3호 : 해당 경주 도착순위 확정 전까지⑤ 제1항제4호에 대한 이의신청기간 기타 세부적인 사항은 회장이 따로 정한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -3046,11 +2635,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0091",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0164",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           }
         ],
         "images": [],
@@ -3126,11 +2711,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0096",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0088",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           }
         ],
         "images": [],
@@ -3162,11 +2743,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0097",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0059",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           }
         ],
         "images": [],
@@ -3210,52 +2787,28 @@
         "article_title": "제재의 종류 등",
         "chapter": "제7장 경주의 공정확보",
         "chapter_path": "제7장 경주의 공정확보",
-        "content": "제101조(제재의 종류 등) ① 「한국마사회법 시행령」 (이하 \"시행령\"이라 한다) 제25조제3항에 따라 본회가 행하는 제재의 종류는 다음 각 호와 같다.1. 경주마 관계자에 대한 경마관여금지 또는 경마관여정지2. 조교사ㆍ기수에 대한 면허취소 또는 면허정지3. 조교사에 대한 조교정지 또는 기수에 대한 기승정지4. 삭제 <2021. 12. 5.>5. 말관리사에 대한 말관리금지 또는 말관리정지6. 조교사에 대한 대부마방회수7. 경주마 관계자에 대한 과태금 부과8. 경주마 관계자에 대한 견책② 제1항 각 호에 따른 제재의 처분기준은 다음 각 호와 같다.1. 경마관여금지는 마주의 마주등록 취소, 조교사ㆍ기수의 면허취소, 말관리사의 말관리를 금하고, 경마개최업무에 대한 종사를 금지한다. <개정 2021. 12. 5.>2. 경마관여정지는 경마관여금지와 같은 처분을 하되, 경마개최업무에 대한 종사 금지기간을 1년 이상 10년 이하의 범위로 한다.3. 면허취소는 해당 면허를 취소한다.4. 면허정지는 1개월 이상 12개월 이하로 하고 그 기간 중에는 조교사ㆍ기수로서 신분은 보유하나 직무의 종사를 금지한다.5. 조교정지는 3개월 이하로 하고 그 기간 중에는 말의 위탁관리를 금지한다.6. 기승정지는 경마개최일수 30일 이하로 하고 그 기간 중에는 기승을 금지한다.7. 말관리금지는 말관리사로서 경주마의 관리 업무에 관한 종사를 금지한다. <개정 2021. 12. 5.>8. 말관리정지는 12개월 이하로 하고 그 기간 중에는 말관리사로서 경주마의 관리 업무에 관한 종사를 금지한다. <개정 2021. 12. 5.>9. 대부마방회수는 6개월 이상 1년 미만의 범위에서 대부마방을 회수하고 그 기간 중 추가 마방대부를 제한한다. 이 경우 회수하는 대부 마방의 수는 해당 조교사가 대부한 마방수의 3분의 1 이내로 한다.10. 과태금 부과는 1,000만원 이하로 한다.11. 견책은 서면 또는 전자적인 방법으로 훈계한다.",
+        "content": "제101조(제재의 종류 등) ① 한국마사회법시행령(이하 \"시행령\"이라 한다) 제25조제3항에 따라 본회가 행하는 제재의 종류는 다음 각 호와 같다.1. 경주마 관계자에 대한 경마관여금지 또는 경마관여정지2. 조교사ㆍ기수에 대한 면허취소 또는 면허정지3. 조교사에 대한 조교정지 또는 기수에 대한 기승정지4. <삭제 2021. 12. 5.>5. 말관리사에 대한 말관리금지 또는 말관리정지6. 조교사에 대한 대부마방회수7. 경주마 관계자에 대한 과태금 부과8. 경주마 관계자에 대한 견책② 제1항 각 호에 따른 제재의 처분기준은 다음 각 호와 같다.1. 경마관여금지는 마주의 마주등록 취소, 조교사ㆍ기수의 면허취소, 말관리사의 말관리를 금하고, 경마개최업무에 대한 종사를 금지한다. <개정 2021. 12. 5.>2. 경마관여정지는 경마관여금지와 같은 처분을 하되, 경마개최업무에 대한 종사 금지기간을 1년 이상 10년 이하의 범위로 한다.3. 면허취소는 해당 면허를 취소한다.4. 면허정지는 1개월 이상 12개월 이하로 하고 그 기간 중에는 조교사ㆍ기수로서 신분은 보유하나 직무의 종사를 금지한다.5. 조교정지는 3개월 이하로 하고 그 기간 중에는 말의 위탁관리를 금지한다.6. 기승정지는 경마개최일수 30일 이하로 하고 그 기간 중에는 기승을 금지한다.7. 말관리금지는 말관리사로서 경주마의 관리 업무에 관한 종사를 금지한다. <개정 2021. 12. 5.>8. 말관리정지는 12개월 이하로 하고 그 기간 중에는 말관리사로서 경주마의 관리 업무에 관한 종사를 금지한다. <개정 2021. 12. 5.>9. 대부마방회수는 6개월 이상 1년 미만의 범위에서 대부마방을 회수하고 그 기간 중 추가 마방대부를 제한한다. 이 경우 회수하는 대부 마방의 수는 해당 조교사가 대부한 마방수의 3분의 1 이내로 한다.10. 과태금 부과는 1,000만원 이하로 한다.11. 견책은 서면 또는 전자적인 방법으로 훈계한다.",
         "enforcement_date": "",
         "relations": [
           {
-            "relation_type": "citation",
+            "relation_type": "internal_ref",
             "delegation_type": null,
-            "target_category": "법령",
-            "source_article_no": "제101조",
-            "source_clause": "제101조제1항",
-            "link_text": "「한국마사회법 시행령」",
-            "line_text": "",
-            "target_law_name": "한국마사회법 시행령",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "",
-            "source_admrul_seq": "2116093",
-            "target_url": "https://www.law.go.kr/법령/한국마사회법 시행령",
-            "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0101",
-            "reference_id": "law:한국마사회법시행령#DOC",
-            "target_repo": "LAW",
-            "target_git_path_guess": "한국마사회법/시행령/한국마사회법 시행령.json",
-            "target_git_path": "한국마사회법/시행령/한국마사회법 시행령.json",
-            "target_source_repository": "LAW"
-          },
-          {
-            "relation_type": "citation",
-            "delegation_type": null,
-            "target_category": "법령",
+            "target_category": "학칙공단",
             "source_article_no": "제101조",
             "source_clause": "제101조제1항",
             "link_text": "제25조제3항",
             "line_text": "",
-            "target_law_name": "한국마사회법 시행령",
+            "target_law_name": "(한국마사회) 경마시행규정",
             "target_article_no": "제25조",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "2116093",
-            "target_url": "https://www.law.go.kr/법령/한국마사회법 시행령/제25조",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국마사회) 경마시행규정/제25조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0101",
-            "reference_id": "law:한국마사회법시행령#JO0025",
-            "target_repo": "LAW",
-            "target_git_path_guess": "한국마사회법/시행령/한국마사회법 시행령.json",
-            "target_git_path": "한국마사회법/시행령/한국마사회법 시행령.json",
-            "target_source_repository": "LAW"
+            "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0025",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           }
         ],
         "images": [],
@@ -3266,7 +2819,7 @@
         "article_title": "경마관여금지 및 경마관여정지",
         "chapter": "제7장 경주의 공정확보",
         "chapter_path": "제7장 경주의 공정확보",
-        "content": "제102조(경마관여금지 및 경마관여정지) ① 경주마 관계자가 다음 각 호의 어느 하나에 해당하는 경우에는 경마관여금지 또는 경마관여정지의 처분을 한다.1. 부정한 목적으로 말의 증명서를 위조ㆍ변조 또는 이용한 경우2. 부정한 목적으로 자격이 없는 말을 경주마 등록, 출전등록, 출전신청 또는 출전시킨 경우 <개정 2021. 12. 5.>3. 부정한 목적으로 경주마의 모든 능력을 발휘시키지 않은 경우4. 경주에 관한 정보 제공 또는 경주의 공정성을 해치는 행위를 하는 것을 조건으로 재물 또는 재산상의 이익을 수수ㆍ요구 또는 약속한 경우(제3자에게 제공하게 하거나 제공을 요구 또는 약속한 경우를 포함한다)5. 법을 위반하여 벌금형 이상의 형을 선고받은 경우6. 개최운영위원의 직무수행을 방해하여 경마의 시행을 방해한 경우7. 출전신청 된 말에 금지약물을 사용한 경우8. 말에 금지약물을 사용한 사실을 알면서 출전시켰거나 출전시키려고 한 경우 <개정 2021. 12. 5.>9. 경주의 공정성을 해칠 목적으로 경주마에 위해를 가하거나 가하려고 한 경우 또는 부정한 처치(處置)를 하거나 하려고 한 경우10. 부정한 목적으로 검량에 관한 규정을 위반한 경우② 제1항의 경마관여금지와 경마관여정지의 처분에 대한 세부 양정기준은 회장이 따로 정한다.",
+        "content": "제102조(경마관여금지 및 경마관여정지) ① 경주마 관계자가 다음 각 호의 어느 하나에 해당하는 경우에는 경마관여금지 또는 경마관여정지의 처분을 한다.1. 부정한 목적으로 말의 증명서를 위조ㆍ변조 또는 이용한 경우2. 부정한 목적으로 자격이 없는 말을 경주마 등록, 출전등록, 출전신청 또는 출전시킨 경우 <개정 2021. 12. 5.>3. 부정한 목적으로 경주마의 모든 능력을 발휘시키지 않은 경우4. 경주에 관한 정보 제공 또는 경주의 공정성을 해치는 행위를 하는 것을 조건으로 재물 또는 재산상의 이익을 수수ㆍ요구 또는 약속한 경우(제3자에게 제공하게 하거나 제공을 요구 또는 약속한 경우를 포함한다)5. 법을 위반하여 벌금형 이상의 형을 선고받은 경우6. 개최운영위원의 직무수행을 방해하여 경마의 시행을 방해한 경우7. 출전신청 된 말에 금지물질을 사용하거나 치료관리약물을 부정한 방법으로 사용한 경우 <개정 2026. 10. 12.>8. 말에 금지물질을 사용하거나 치료관리약물을 부정한 방법으로 사용한 사실을 알면서 출전시켰거나 출전시키려고 한 경우 <개정 2021. 12. 5., 2026. 10. 12.>9. 경주의 공정성을 해칠 목적으로 경주마에 위해를 가하거나 가하려고 한 경우 또는 부정한 처치(處置)를 하거나 하려고 한 경우10. 부정한 목적으로 검량에 관한 규정을 위반한 경우② 제1항의 경마관여금지와 경마관여정지의 처분에 대한 세부 양정기준은 회장이 따로 정한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -3288,7 +2841,7 @@
         "article_title": "사실보고",
         "chapter": "제7장 경주의 공정확보",
         "chapter_path": "제7장 경주의 공정확보",
-        "content": "제104조(사실보고) 조교사, 기수 및 말관리사는 다음 각 호의 어느 하나에 해당하면 지체 없이 그 내용을 심판위원에게 알려야 한다. <개정 2021. 12. 5.>1. 경주에 관하여 부정한 청탁을 받거나 약속 등을 제의받은 경우2. 경주의 공정성을 해치도록 폭행ㆍ협박을 당하거나 재물 또는 재산상의 이익을 제공 받거나 제의받은 경우3. 경주마에게 금지약물 등으로 위해가 가해졌거나 가하려고 하는 경우",
+        "content": "제104조(사실보고) 조교사, 기수 및 말관리사는 다음 각 호의 어느 하나에 해당하면 지체 없이 그 내용을 심판위원에게 알려야 한다. <개정 2021. 12. 5.>1. 경주에 관하여 부정한 청탁을 받거나 약속 등을 제의받은 경우2. 경주의 공정성을 해치도록 폭행ㆍ협박을 당하거나 재물 또는 재산상의 이익을 제공 받거나 제의받은 경우3. 경주마에게 금지물질 또는 치료관리약물 등으로 위해가 가해졌거나 가하려고 하는 경우 <개정 2026. 10. 12.>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -3299,52 +2852,28 @@
         "article_title": "사실조사 등",
         "chapter": "제7장 경주의 공정확보",
         "chapter_path": "제7장 경주의 공정확보",
-        "content": "제105조(사실조사 등) ① 회장은 시행령 제25조제3항에 따라 경마의 공정성 확보를 위하여 필요한 경우 서면 또는 유무선으로 조사기일ㆍ장소 및 조사사유를 통보하고 경주마 관계자의 출석과 다음 각 호의 자료제출을 요구하여 사실조사를 할 수 있다.1. 사무실 및 개인 휴대전기통신단말기, 기타 전자기기 등의 통신기록2. 금융기관 거래내역서3. 그 밖에 사실조사에 필요하다고 인정하는 자료② 제1항에 따라 출석 또는 자료의 제출을 요구받은 경주마 관계자는 지체 없이 그 요구에 따라야 한다.③ 회장은 사실조사 시 출석한 경주마 관계자를 대상으로 다음 각 호의 서류를 작성하게 할 수 있다.1. 진술서(별지 제1호서식)2. 문답서(별지 제2호서식)3. 그 밖에 사실조사에 필요한 서류",
+        "content": "제105조(사실조사 등) ① 회장은 시행령 제25조제3항에 따라 경마의 공정성 확보를 위하여 필요한 경우 서면 또는 유무선으로 조사기일ㆍ장소 및 조사사유를 통보하고 경주마 관계자의 출석과 다음 각 호의 자료제출을 요구하여 사실조사를 할 수 있다.1. 사무실 및 개인 휴대전기통신단말기, 기타 전자기기 등의 통신기록2. 금융기관 거래내역서3. 그 밖에 사실조사에 필요하다고 인정하는 자료② 제1항에 따라 출석 또는 자료의 제출을 요구받은 경주마 관계자는 지체 없이 그 요구에 따라야 한다.③ 회장은 사실조사 시 출석한 경주마 관계자를 대상으로 다음 각 호의 서류를 작성하게 할 수 있다.1. 진술서(별지 제1호 서식)2. 문답서(별지 제2호 서식)3. 그 밖에 사실조사에 필요한 서류",
         "enforcement_date": "",
         "relations": [
           {
-            "relation_type": "citation",
+            "relation_type": "internal_ref",
             "delegation_type": null,
-            "target_category": "법령",
-            "source_article_no": "제105조",
-            "source_clause": "제105조제1항",
-            "link_text": "시행령",
-            "line_text": "",
-            "target_law_name": "한국마사회법 시행령",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "",
-            "source_admrul_seq": "2116093",
-            "target_url": "https://www.law.go.kr/법령/한국마사회법 시행령",
-            "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0105",
-            "reference_id": "law:한국마사회법시행령#DOC",
-            "target_repo": "LAW",
-            "target_git_path_guess": "한국마사회법/시행령/한국마사회법 시행령.json",
-            "target_git_path": "한국마사회법/시행령/한국마사회법 시행령.json",
-            "target_source_repository": "LAW"
-          },
-          {
-            "relation_type": "citation",
-            "delegation_type": null,
-            "target_category": "법령",
+            "target_category": "학칙공단",
             "source_article_no": "제105조",
             "source_clause": "제105조제1항",
             "link_text": "제25조제3항",
             "line_text": "",
-            "target_law_name": "한국마사회법 시행령",
+            "target_law_name": "(한국마사회) 경마시행규정",
             "target_article_no": "제25조",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "2116093",
-            "target_url": "https://www.law.go.kr/법령/한국마사회법 시행령/제25조",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국마사회) 경마시행규정/제25조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0105",
-            "reference_id": "law:한국마사회법시행령#JO0025",
-            "target_repo": "LAW",
-            "target_git_path_guess": "한국마사회법/시행령/한국마사회법 시행령.json",
-            "target_git_path": "한국마사회법/시행령/한국마사회법 시행령.json",
-            "target_source_repository": "LAW"
+            "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0025",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -3352,7 +2881,7 @@
             "target_category": "학칙공단",
             "source_article_no": "제105조",
             "source_clause": "제105조제3항",
-            "link_text": "별지 제1호서식",
+            "link_text": "별지 제1호 서식",
             "line_text": "",
             "target_law_name": "(한국마사회) 경마시행규정",
             "target_article_no": "별지1",
@@ -3363,18 +2892,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2116093",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156061153",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170606867",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0105",
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_file_path": "(한국마사회) 경마시행규정/별지/별지1_진술서(확인서, 자인서).hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -3382,7 +2906,7 @@
             "target_category": "학칙공단",
             "source_article_no": "제105조",
             "source_clause": "제105조제3항",
-            "link_text": "별지 제2호서식",
+            "link_text": "별지 제2호 서식",
             "line_text": "",
             "target_law_name": "(한국마사회) 경마시행규정",
             "target_article_no": "별지2",
@@ -3393,18 +2917,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2116093",
-            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156061157",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170606871",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0105",
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_file_path": "(한국마사회) 경마시행규정/별지/별지2_문답서.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           }
         ],
         "images": [],
@@ -3415,7 +2934,7 @@
         "article_title": "출전정지",
         "chapter": "제7장 경주의 공정확보",
         "chapter_path": "제7장 경주의 공정확보",
-        "content": "제106조(출전정지) ① 심판위원은 다음 각 호의 어느 하나에 해당하는 말에 대하여 일정기간 동안 출전을 정지한다. <개정 2021. 12. 5.>1. 경주에서 다른 말에게 위험을 줄 우려가 있는 말2. 조교가 부족한 말3. 건강에 지장이 있는 말4. 경주에 관하여 부정한 목적으로 이용되거나 이용당할 우려가 있는 말5. 제11조제2항에 따라 마주등록심의위원회에 마주등록 취소가 회부된 마주의 말(공유마와 조합마주의 말을 포함한다)6. 법 위반으로 기소된 마주의 말(공유마와 조합마주의 말을 포함한다)7. 그 밖에 경주의 공정성을 해칠 우려가 있는 말② 심판위원은 출전신청된 말이 해당 경주에 출전하지 아니한 경우(제57조제2항제2호를 위반하여 출전이 제한된 경우를 포함한다) 해당 말에 대하여 일정기간 출전을 정지한다. 다만, 제53조에 따라 출전신청이 취소되었거나 제52조제1항에 따라 출전하는 말에서 제외된 경우에는 그러하지 아니하다. <개정 2021. 12. 5.>③ 심판위원은 마주가 제97조제2항에 따른 상금 또는 상품의 반환 요구에 따르지 아니한 경우 이미 지급된 상금ㆍ상품 및 상장을 반납할 때까지 해당 마주가 소유한 말(공유마와 조합마주의 말을 포함한다)의 출전을 정지한다. <개정 2021. 12. 5.>④ 제1항 또는 제2항에 따른 출전정지는 4개월 이하로 하고 그 기간 중에는 경주의 출전을 금지한다. 다만, 수의사가 필요하다고 인정한 경주마와 심판위원이 악벽 또는 능력미달로 인정하는 경주마에 대해서는 4개월 초과 1년 이하의 출전정지를 할 수 있다. <개정 2021. 12. 5., 2025. 1. 6.>⑤ 삭제 <2025. 1. 6.>[제목개정 2021. 12. 5., 2025. 1. 6.]",
+        "content": "제106조(출전정지) ① 심판위원은 다음 각 호의 어느 하나에 해당하는 말에 대하여 일정기간 동안 출전을 정지한다. <개정 2021. 12. 5.>1. 경주에서 다른 말에게 위험을 줄 우려가 있는 말2. 조교가 부족한 말3. 건강에 지장이 있는 말4. 경주에 관하여 부정한 목적으로 이용되거나 이용당할 우려가 있는 말5. 제11조제2항에 따라 마주등록심의위원회에 마주등록 취소가 회부된 마주의 말(공유마와 조합마주의 말을 포함한다)6. 법 위반으로 기소된 마주의 말(공유마와 조합마주의 말을 포함한다)7. 그 밖에 경주의 공정성을 해칠 우려가 있는 말② 심판위원은 출전신청된 말이 해당 경주에 출전하지 아니한 경우(제57조제2항제2호를 위반하여 출전이 제한된 경우를 포함한다) 해당 말에 대하여 일정기간 출전을 정지한다. 다만, 제53조에 따라 출전신청이 취소되었거나 제52조제1항에 따라 출전하는 말에서 제외된 경우에는 그러하지 아니하다. <개정 2021. 12. 5.>③ 심판위원은 마주가 제97조제2항에 따른 상금 또는 상품의 반환 요구에 따르지 아니한 경우 이미 지급된 상금ㆍ상품 및 상장을 반납할 때까지 해당 마주가 소유한 말(공유마와 조합마주의 말을 포함한다)의 출전을 정지한다. <개정 2021. 12. 5.>④ 제1항 또는 제2항에 따른 출전정지는 4개월 이하로 하고 그 기간 중에는 경주의 출전을 금지한다. 다만, 수의사가 필요하다고 인정한 경주마와 심판위원이 악벽 또는 능력미달로 인정하는 경주마에 대해서는 4개월 초과 1년 이하의 출전정지를 할 수 있다. <개정 2021. 12. 5., 2025. 1. 6.>⑤ <삭제 2025. 1. 6.>⑥ 제4항에도 불구하고 금지물질이 투여되었거나 검출된 말은 그 투여일(투여일을 특정할 수 없는 때에는 ‘시료채취일’로 한다)부터 6개월 간 경주에 출전할 수 없다. 이 경우 출전정지 기간이 경과한 말은 약물검사를 실시하여 금지물질이 검출되지 아니한 경우에 한하여 경주에 출전할 수 있다. <신설 2026. 10. 12.>[제목개정 2021. 12. 5., 2025. 1. 6.]",
         "enforcement_date": "",
         "relations": [
           {
@@ -3436,11 +2955,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0106",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3460,11 +2975,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0106",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0057",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3484,11 +2995,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0106",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0053",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3508,11 +3015,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0106",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0052",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3532,11 +3035,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0106",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0097",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           }
         ],
         "images": [],
@@ -3579,11 +3078,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0108",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0101",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3603,11 +3098,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0108",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0024",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3627,11 +3118,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0108",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0058",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3651,11 +3138,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0108",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0071",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3675,11 +3158,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0108",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0069",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3699,11 +3178,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0108",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0070",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3723,11 +3198,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0108",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0086",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3747,11 +3218,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0108",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0058",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3771,11 +3238,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0108",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0073",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3795,11 +3258,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0108",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0075",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3819,11 +3278,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0108",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0081",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3843,11 +3298,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0108",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0050",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3867,11 +3318,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0108",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0059",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3891,11 +3338,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0108",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0059_02",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3915,11 +3358,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0108",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0060_02",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3939,11 +3378,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0108",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0061",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3963,11 +3398,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0108",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0062",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3987,11 +3418,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0108",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0064",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4011,11 +3438,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0108",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0065",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4035,11 +3458,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0108",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0097",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4059,11 +3478,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0108",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0102",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4083,11 +3498,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0108",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0103",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4107,11 +3518,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0108",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0105",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4131,11 +3538,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0108",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0107",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4155,11 +3558,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0108",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0163",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           }
         ],
         "images": [],
@@ -4170,7 +3569,7 @@
         "article_title": "제재처분 전 임시조치",
         "chapter": "제7장 경주의 공정확보",
         "chapter_path": "제7장 경주의 공정확보",
-        "content": "제109조(제재처분 전 임시조치) ① 심판위원은 제102조제1항 또는 제108조에 따라 제재처분의 대상이 되는 경주마 관계자가 다음 각 호의 어느 하나에 해당할 경우에는 해당 제재처분을 하기 전에 조교정지, 기승정지, 말관리정지, 상장ㆍ부상의 지급유보 또는 해당 말(공유마와 조합마주의 말을 포함한다)의 출전정지 등의 임시조치를 할 수 있다. <개정 2021. 12. 5.>1. 법 위반으로 수사가 진행 중인 경우2. 형사사건으로 기소된 경우3. 법 또는 규정 위반으로 조사가 진행 중인 경우② 제1항에 따른 임시조치의 기간은 제101조제2항에도 불구하고 수사 또는 조사가 끝날 때까지 또는 법원의 판결 후 상벌위원회 처분 시까지로 할 수 있다.③ 제1항에도 불구하고 금지약물이 발견되거나 검출된 때에는 본회에서 먼저 자체조사를 실시할 수 있고 제1항의 임시조치를 하지 아니할 수 있다.④ 심판위원이 제1항의 임시조치를 하려면 해당 경마장 심판위원 과반수의 찬성을 얻어야 하며 임시조치가 결정되면 그 사실을 당사자에게 통보하여야 한다.",
+        "content": "제109조(제재처분 전 임시조치) ① 심판위원은 제102조제1항 또는 제108조에 따라 제재처분의 대상이 되는 경주마 관계자가 다음 각 호의 어느 하나에 해당할 경우에는 해당 제재처분을 하기 전에 조교정지, 기승정지, 말관리정지, 상장ㆍ부상의 지급유보 또는 해당 말(공유마와 조합마주의 말을 포함한다)의 출전정지 등의 임시조치를 할 수 있다. <개정 2021. 12. 5.>1. 법 위반으로 수사가 진행 중인 경우2. 형사사건으로 기소된 경우3. 법 또는 규정 위반으로 조사가 진행 중인 경우② 제1항에 따른 임시조치의 기간은 제101조제2항에도 불구하고 수사 또는 조사가 끝날 때까지 또는 법원의 판결 후 상벌위원회 처분 시까지로 할 수 있다.③ 제1항에도 불구하고 금지물질, 치료관리약물 또는 금지약물이 발견되거나 검출된 때에는 본회에서 먼저 자체조사를 실시할 수 있고 제1항의 임시조치를 하지 아니할 수 있다. <개정 2026. 10. 12.>④ 심판위원이 제1항의 임시조치를 하려면 해당 경마장 심판위원 과반수의 찬성을 얻어야 하며 임시조치가 결정되면 그 사실을 당사자에게 통보하여야 한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -4191,11 +3590,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0109",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0102",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4215,11 +3610,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0109",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0108",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4239,11 +3630,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0109",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0101",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           }
         ],
         "images": [],
@@ -4275,11 +3662,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0110",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0102",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           }
         ],
         "images": [],
@@ -4322,11 +3705,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0112",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0102",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4346,11 +3725,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0112",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0108",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           }
         ],
         "images": [],
@@ -4372,7 +3747,7 @@
         "article_title": "심판위원의 제재처분 등",
         "chapter": "제7장 경주의 공정확보",
         "chapter_path": "제7장 경주의 공정확보",
-        "content": "제114조(심판위원의 제재처분 등) ① 제재처분은 상벌위원회의 심의ㆍ의결을 거쳐야 한다. 다만, 다음 각 호에 어느 하나에 해당하는 제재에 대해서는 상벌위원회 부의 없이 심판위원이 처분할 수 있다.1. 조교사에 대한 3개월 이하의 면허정지 또는 조교정지2. 기수에 대한 면허정지, 기승정지, 과태금 부과 또는 견책3. 삭제 <2021. 12. 5.>4. 말관리사에 대한 30일 이하의 말관리정지5. 경주마 관계자에 대한 과태금 부과 또는 견책② 심판위원이 제1항 단서에 따라 제재처분을 하려면 해당 경마장 심판위원 전원의 합의를 거쳐야 하며 제재처분이 확정되면 그 사실을 재제대상자에게 통보하여야 한다.③ 심판위원은 제1항 단서에도 불구하고 공정한 처분을 위하여 필요하다고 인정되면 상벌위원회에서 심의ㆍ의결하게 할 수 있다. 이 경우 심판위원은 해당부서에 상벌위원회 부의를 요청하여야 한다.",
+        "content": "제114조(심판위원의 제재처분 등) ① 제재처분은 상벌위원회의 심의ㆍ의결을 거쳐야 한다. 다만, 다음 각 호에 어느 하나에 해당하는 제재에 대해서는 상벌위원회 부의 없이 심판위원이 처분할 수 있다.1. 조교사에 대한 3개월 이하의 면허정지 또는 조교정지2. 기수에 대한 면허정지, 기승정지, 과태금 부과 또는 견책3. <삭제 2021. 12. 5.>4. 말관리사에 대한 30일 이하의 말관리정지5. 경주마 관계자에 대한 과태금 부과 또는 견책② 심판위원이 제1항 단서에 따라 제재처분을 하려면 해당 경마장 심판위원 전원의 합의를 거쳐야 하며 제재처분이 확정되면 그 사실을 재제대상자에게 통보하여야 한다.③ 심판위원은 제1항 단서에도 불구하고 공정한 처분을 위하여 필요하다고 인정되면 상벌위원회에서 심의ㆍ의결하게 할 수 있다. 이 경우 심판위원은 해당부서에 상벌위원회 부의를 요청하여야 한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -4404,11 +3779,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0115",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0108",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4428,11 +3799,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0115",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0111",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4452,11 +3819,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0115",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0113",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4476,11 +3839,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0115",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0114",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           }
         ],
         "images": [],
@@ -4534,77 +3893,47 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0118",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0117",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           },
           {
-            "relation_type": "citation",
+            "relation_type": "internal_ref",
             "delegation_type": null,
-            "target_category": "법령",
+            "target_category": "학칙공단",
             "source_article_no": "제118조",
             "source_clause": "제118조제1항",
             "link_text": "제49조제2항",
             "line_text": "",
-            "target_law_name": "한국마사회법",
+            "target_law_name": "(한국마사회) 경마시행규정",
             "target_article_no": "제49조",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "2116093",
-            "target_url": "https://www.law.go.kr/법령/한국마사회법/제49조",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국마사회) 경마시행규정/제49조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0118",
-            "reference_id": "law:한국마사회법#JO0049",
-            "target_repo": "LAW",
-            "target_git_path_guess": "한국마사회법/법률/한국마사회법.json",
-            "target_git_path": "한국마사회법/법률/한국마사회법.json",
-            "target_source_repository": "LAW"
+            "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0049",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           },
           {
-            "relation_type": "citation",
+            "relation_type": "internal_ref",
             "delegation_type": null,
-            "target_category": "법령",
-            "source_article_no": "제118조",
-            "source_clause": "제118조제2항",
-            "link_text": "시행령",
-            "line_text": "",
-            "target_law_name": "한국마사회법 시행령",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "",
-            "source_admrul_seq": "2116093",
-            "target_url": "https://www.law.go.kr/법령/한국마사회법 시행령",
-            "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0118",
-            "reference_id": "law:한국마사회법시행령#DOC",
-            "target_repo": "LAW",
-            "target_git_path_guess": "한국마사회법/시행령/한국마사회법 시행령.json",
-            "target_git_path": "한국마사회법/시행령/한국마사회법 시행령.json",
-            "target_source_repository": "LAW"
-          },
-          {
-            "relation_type": "citation",
-            "delegation_type": null,
-            "target_category": "법령",
+            "target_category": "학칙공단",
             "source_article_no": "제118조",
             "source_clause": "제118조제2항",
             "link_text": "제2조",
             "line_text": "",
-            "target_law_name": "한국마사회법 시행령",
+            "target_law_name": "(한국마사회) 경마시행규정",
             "target_article_no": "제2조",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "2116093",
-            "target_url": "https://www.law.go.kr/법령/한국마사회법 시행령/제2조",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국마사회) 경마시행규정/제2조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0118",
-            "reference_id": "law:한국마사회법시행령#JO0002",
-            "target_repo": "LAW",
-            "target_git_path_guess": "한국마사회법/시행령/한국마사회법 시행령.json",
-            "target_git_path": "한국마사회법/시행령/한국마사회법 시행령.json",
-            "target_source_repository": "LAW"
+            "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0002",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           }
         ],
         "images": [],
@@ -4669,11 +3998,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0122",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0102",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           }
         ],
         "images": [],
@@ -4727,11 +4052,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0125",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0054",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -4750,18 +4071,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2116093",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000097159&bylNo=0001&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000160881&bylNo=0001&bylBrNo=00",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0125",
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_file_path": "(한국마사회) 경마시행규정/별표/별표1_묶음번호부여방법.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           }
         ],
         "images": [],
@@ -4804,11 +4120,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0127",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0054",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           }
         ],
         "images": [],
@@ -4834,92 +4146,24 @@
         "enforcement_date": "",
         "relations": [
           {
-            "relation_type": "citation",
+            "relation_type": "internal_ref",
             "delegation_type": null,
-            "target_category": "법령",
-            "source_article_no": "제129조",
-            "source_clause": "제129조제4항",
-            "link_text": "법",
-            "line_text": "",
-            "target_law_name": "한국마사회법",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "",
-            "source_admrul_seq": "2116093",
-            "target_url": "https://www.law.go.kr/법령/한국마사회법",
-            "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0129",
-            "reference_id": "law:한국마사회법#DOC",
-            "target_repo": "LAW",
-            "target_git_path_guess": "한국마사회법/법률/한국마사회법.json",
-            "target_git_path": "한국마사회법/법률/한국마사회법.json",
-            "target_source_repository": "LAW"
-          },
-          {
-            "relation_type": "citation",
-            "delegation_type": null,
-            "target_category": "법령",
-            "source_article_no": "제129조",
-            "source_clause": "제129조제4항",
-            "link_text": "제6조의2",
-            "line_text": "",
-            "target_law_name": "한국마사회법",
-            "target_article_no": "제6조의2",
-            "target_article_title": "",
-            "target_mst": "",
-            "source_admrul_seq": "2116093",
-            "target_url": "https://www.law.go.kr/법령/한국마사회법/제6조의2",
-            "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0129",
-            "reference_id": "law:한국마사회법#JO0006_02",
-            "target_repo": "LAW",
-            "target_git_path_guess": "한국마사회법/법률/한국마사회법.json",
-            "target_git_path": "한국마사회법/법률/한국마사회법.json",
-            "target_source_repository": "LAW"
-          },
-          {
-            "relation_type": "citation",
-            "delegation_type": null,
-            "target_category": "법령",
-            "source_article_no": "제129조",
-            "source_clause": "제129조제4항",
-            "link_text": "법",
-            "line_text": "",
-            "target_law_name": "한국마사회법",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "",
-            "source_admrul_seq": "2116093",
-            "target_url": "https://www.law.go.kr/법령/한국마사회법",
-            "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0129",
-            "reference_id": "law:한국마사회법#DOC",
-            "target_repo": "LAW",
-            "target_git_path_guess": "한국마사회법/법률/한국마사회법.json",
-            "target_git_path": "한국마사회법/법률/한국마사회법.json",
-            "target_source_repository": "LAW"
-          },
-          {
-            "relation_type": "citation",
-            "delegation_type": null,
-            "target_category": "법령",
+            "target_category": "학칙공단",
             "source_article_no": "제129조",
             "source_clause": "제129조제4항",
             "link_text": "제10조제5항",
             "line_text": "",
-            "target_law_name": "한국마사회법",
+            "target_law_name": "(한국마사회) 경마시행규정",
             "target_article_no": "제10조",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "2116093",
-            "target_url": "https://www.law.go.kr/법령/한국마사회법/제10조",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국마사회) 경마시행규정/제10조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0129",
-            "reference_id": "law:한국마사회법#JO0010",
-            "target_repo": "LAW",
-            "target_git_path_guess": "한국마사회법/법률/한국마사회법.json",
-            "target_git_path": "한국마사회법/법률/한국마사회법.json",
-            "target_source_repository": "LAW"
+            "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0010",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           }
         ],
         "images": [],
@@ -4934,48 +4178,24 @@
         "enforcement_date": "",
         "relations": [
           {
-            "relation_type": "citation",
+            "relation_type": "internal_ref",
             "delegation_type": null,
-            "target_category": "법령",
-            "source_article_no": "제130조",
-            "source_clause": "제130조",
-            "link_text": "법",
-            "line_text": "",
-            "target_law_name": "한국마사회법",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "",
-            "source_admrul_seq": "2116093",
-            "target_url": "https://www.law.go.kr/법령/한국마사회법",
-            "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0130",
-            "reference_id": "law:한국마사회법#DOC",
-            "target_repo": "LAW",
-            "target_git_path_guess": "한국마사회법/법률/한국마사회법.json",
-            "target_git_path": "한국마사회법/법률/한국마사회법.json",
-            "target_source_repository": "LAW"
-          },
-          {
-            "relation_type": "citation",
-            "delegation_type": null,
-            "target_category": "법령",
+            "target_category": "학칙공단",
             "source_article_no": "제130조",
             "source_clause": "제130조",
             "link_text": "제49조제2항",
             "line_text": "",
-            "target_law_name": "한국마사회법",
+            "target_law_name": "(한국마사회) 경마시행규정",
             "target_article_no": "제49조",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "2116093",
-            "target_url": "https://www.law.go.kr/법령/한국마사회법/제49조",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국마사회) 경마시행규정/제49조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0130",
-            "reference_id": "law:한국마사회법#JO0049",
-            "target_repo": "LAW",
-            "target_git_path_guess": "한국마사회법/법률/한국마사회법.json",
-            "target_git_path": "한국마사회법/법률/한국마사회법.json",
-            "target_source_repository": "LAW"
+            "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0049",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           }
         ],
         "images": [],
@@ -4990,70 +4210,44 @@
         "enforcement_date": "",
         "relations": [
           {
-            "relation_type": "citation",
+            "relation_type": "internal_ref",
             "delegation_type": null,
-            "target_category": "법령",
+            "target_category": "학칙공단",
             "source_article_no": "제131조",
             "source_clause": "제131조제1항",
             "link_text": "제17조",
             "line_text": "",
-            "target_law_name": "한국마사회법",
+            "target_law_name": "(한국마사회) 경마시행규정",
             "target_article_no": "제17조",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "2116093",
-            "target_url": "https://www.law.go.kr/법령/한국마사회법/제17조",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국마사회) 경마시행규정/제17조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0131",
-            "reference_id": "law:한국마사회법#JO0017",
-            "target_repo": "LAW",
-            "target_git_path_guess": "한국마사회법/법률/한국마사회법.json",
-            "target_git_path": "한국마사회법/법률/한국마사회법.json",
-            "target_source_repository": "LAW"
+            "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0017",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           },
           {
-            "relation_type": "citation",
+            "relation_type": "internal_ref",
             "delegation_type": null,
-            "target_category": "법령",
-            "source_article_no": "제131조",
-            "source_clause": "제131조제1항",
-            "link_text": "시행령",
-            "line_text": "",
-            "target_law_name": "한국마사회법 시행령",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "",
-            "source_admrul_seq": "2116093",
-            "target_url": "https://www.law.go.kr/법령/한국마사회법 시행령",
-            "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0131",
-            "reference_id": "law:한국마사회법시행령#DOC",
-            "target_repo": "LAW",
-            "target_git_path_guess": "한국마사회법/시행령/한국마사회법 시행령.json",
-            "target_git_path": "한국마사회법/시행령/한국마사회법 시행령.json",
-            "target_source_repository": "LAW"
-          },
-          {
-            "relation_type": "citation",
-            "delegation_type": null,
-            "target_category": "법령",
+            "target_category": "학칙공단",
             "source_article_no": "제131조",
             "source_clause": "제131조제1항",
             "link_text": "제14조",
             "line_text": "",
-            "target_law_name": "한국마사회법 시행령",
+            "target_law_name": "(한국마사회) 경마시행규정",
             "target_article_no": "제14조",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "2116093",
-            "target_url": "https://www.law.go.kr/법령/한국마사회법 시행령/제14조",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국마사회) 경마시행규정/제14조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0131",
-            "reference_id": "law:한국마사회법시행령#JO0014",
-            "target_repo": "LAW",
-            "target_git_path_guess": "한국마사회법/시행령/한국마사회법 시행령.json",
-            "target_git_path": "한국마사회법/시행령/한국마사회법 시행령.json",
-            "target_source_repository": "LAW"
+            "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0014",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           }
         ],
         "images": [],
@@ -5152,7 +4346,7 @@
         "article_title": "수의위원",
         "chapter": "제10장 집무",
         "chapter_path": "제10장 집무",
-        "content": "제140조(수의위원) 수의위원은 출전마의 마체검사 등 보건관리, 시료채취, 금지약물 및 진료약품 지도ㆍ단속, 출전대기마사 및 출전준비소 운영ㆍ관리에 관한 업무를 집행한다. <개정 2021. 12. 5., 2025. 1. 6.>",
+        "content": "제140조(수의위원) 수의위원은 출전마의 마체검사 등 보건관리, 시료채취, 금지물질ㆍ치료관리약물 및 진료약품 지도ㆍ단속, 출전대기마사 및 출전준비소 운영ㆍ관리에 관한 업무를 집행한다. <개정 2021. 12. 5., 2025. 1. 6., 2026. 10. 12.>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -5163,7 +4357,7 @@
         "article_title": "약물검사위원",
         "chapter": "제10장 집무",
         "chapter_path": "제10장 집무",
-        "content": "제141조(약물검사위원) 약물검사위원은 출전마에 대한 경주전ㆍ후의 금지약물 검사 및 기수에 대한 금지약물 검사에 관한 업무를 집행한다. <개정 2018. 7. 30., 2021. 12. 5.>",
+        "content": "제141조(약물검사위원) 약물검사위원은 약물검사에 관한 업무를 집행한다. <개정 2018. 7. 30., 2021. 12. 5., 2026. 10. 12.>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -5299,48 +4493,24 @@
         "enforcement_date": "",
         "relations": [
           {
-            "relation_type": "citation",
+            "relation_type": "internal_ref",
             "delegation_type": null,
-            "target_category": "법령",
-            "source_article_no": "제153조",
-            "source_clause": "제153조",
-            "link_text": "법",
-            "line_text": "",
-            "target_law_name": "한국마사회법",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "",
-            "source_admrul_seq": "2116093",
-            "target_url": "https://www.law.go.kr/법령/한국마사회법",
-            "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0153",
-            "reference_id": "law:한국마사회법#DOC",
-            "target_repo": "LAW",
-            "target_git_path_guess": "한국마사회법/법률/한국마사회법.json",
-            "target_git_path": "한국마사회법/법률/한국마사회법.json",
-            "target_source_repository": "LAW"
-          },
-          {
-            "relation_type": "citation",
-            "delegation_type": null,
-            "target_category": "법령",
+            "target_category": "학칙공단",
             "source_article_no": "제153조",
             "source_clause": "제153조",
             "link_text": "제48조",
             "line_text": "",
-            "target_law_name": "한국마사회법",
+            "target_law_name": "(한국마사회) 경마시행규정",
             "target_article_no": "제48조",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "2116093",
-            "target_url": "https://www.law.go.kr/법령/한국마사회법/제48조",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국마사회) 경마시행규정/제48조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0153",
-            "reference_id": "law:한국마사회법#JO0048",
-            "target_repo": "LAW",
-            "target_git_path_guess": "한국마사회법/법률/한국마사회법.json",
-            "target_git_path": "한국마사회법/법률/한국마사회법.json",
-            "target_source_repository": "LAW"
+            "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0048",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           }
         ],
         "images": [],
@@ -5399,48 +4569,24 @@
         "enforcement_date": "",
         "relations": [
           {
-            "relation_type": "citation",
+            "relation_type": "internal_ref",
             "delegation_type": null,
-            "target_category": "법령",
-            "source_article_no": "제156조",
-            "source_clause": "제156조",
-            "link_text": "법",
-            "line_text": "",
-            "target_law_name": "한국마사회법",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "",
-            "source_admrul_seq": "2116093",
-            "target_url": "https://www.law.go.kr/법령/한국마사회법",
-            "resolve_method": "render",
-            "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0156",
-            "reference_id": "law:한국마사회법#DOC",
-            "target_repo": "LAW",
-            "target_git_path_guess": "한국마사회법/법률/한국마사회법.json",
-            "target_git_path": "한국마사회법/법률/한국마사회법.json",
-            "target_source_repository": "LAW"
-          },
-          {
-            "relation_type": "citation",
-            "delegation_type": null,
-            "target_category": "법령",
+            "target_category": "학칙공단",
             "source_article_no": "제156조",
             "source_clause": "제156조",
             "link_text": "제14조",
             "line_text": "",
-            "target_law_name": "한국마사회법",
+            "target_law_name": "(한국마사회) 경마시행규정",
             "target_article_no": "제14조",
             "target_article_title": "",
             "target_mst": "",
             "source_admrul_seq": "2116093",
-            "target_url": "https://www.law.go.kr/법령/한국마사회법/제14조",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국마사회) 경마시행규정/제14조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0156",
-            "reference_id": "law:한국마사회법#JO0014",
-            "target_repo": "LAW",
-            "target_git_path_guess": "한국마사회법/법률/한국마사회법.json",
-            "target_git_path": "한국마사회법/법률/한국마사회법.json",
-            "target_source_repository": "LAW"
+            "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0014",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           }
         ],
         "images": [],
@@ -5527,11 +4673,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0162",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0161",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5551,11 +4693,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0162",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0159",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5575,11 +4713,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0162",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0159",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           }
         ],
         "images": [],
@@ -5611,11 +4745,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0163",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0160",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5635,11 +4765,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0163",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0159",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           }
         ],
         "images": [],
@@ -5650,7 +4776,7 @@
         "article_title": "조교사의 의무",
         "chapter": "제12장 조교사 등",
         "chapter_path": "제12장 조교사 등",
-        "content": "제164조(조교사의 의무) ① 조교사는 자기가 관리하는 말과 그 관계자에 대하여 이 규정과 관련 계약서에 따른 모든 의무를 성실히 이행하여야 한다.② 조교사가 질병, 그 밖에 부득이한 사유로 업무를 수행할 수 없을 때에는 심판위원의 허가를 받아 소속 말관리사에게 업무를 대행시켜야 한다. <개정 2021. 12. 5.>③ 조교사가 제2항에 따라 심판위원의 업무대행 허가를 받으려면 다음 각 호의 사항을 기재한 서류를 제출하여야 한다.1. 업무대행자의 성명2. 업무대행 내용ㆍ사유 및 기간④ 심판위원은 제3항제2호의 업무대행 사유를 확인할 필요가 있는 때에는 관련 증명서류의 제출을 요구할 수 있다.⑤ 제2항에 따른 업무대행의 기간은 1개월을 초과할 수 없다. 다만, 심판위원이 부득이 하다고 인정한 경우에는 예외로 할 수 있다.⑥ 심판위원은 조교사가 사망하거나 구속 등으로 업무를 수행할 수 없을 때에는 일정기간 동안 그 업무를 대행할 사람을 지정할 수 있다.⑦ 조교사는 자신이 관리하는 말에 대한 금지약물투여방지 등 보안단속을 하여야 한다.",
+        "content": "제164조(조교사의 의무) ① 조교사는 자기가 관리하는 말과 그 관계자에 대하여 이 규정과 관련 계약서에 따른 모든 의무를 성실히 이행하여야 한다.② 조교사가 질병, 그 밖에 부득이한 사유로 업무를 수행할 수 없을 때에는 심판위원의 허가를 받아 소속 말관리사에게 업무를 대행시켜야 한다. <개정 2021. 12. 5.>③ 조교사가 제2항에 따라 심판위원의 업무대행 허가를 받으려면 다음 각 호의 사항을 기재한 서류를 제출하여야 한다.1. 업무대행자의 성명2. 업무대행 내용ㆍ사유 및 기간④ 심판위원은 제3항제2호의 업무대행 사유를 확인할 필요가 있는 때에는 관련 증명서류의 제출을 요구할 수 있다.⑤ 제2항에 따른 업무대행의 기간은 1개월을 초과할 수 없다. 다만, 심판위원이 부득이 하다고 인정한 경우에는 예외로 할 수 있다.⑥ 심판위원은 조교사가 사망하거나 구속 등으로 업무를 수행할 수 없을 때에는 일정기간 동안 그 업무를 대행할 사람을 지정할 수 있다.⑦ 조교사는 자신이 관리하는 말에 대한 금지물질 투여 및 치료관리약물의 부정한 사용 방지 등 보안단속을 하여야 한다. <개정 2026. 10. 12.>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -5661,7 +4787,7 @@
         "article_title": "말관리사의 적합성 진단",
         "chapter": "제12장 조교사 등",
         "chapter_path": "제12장 조교사 등",
-        "content": "제165조(말관리사의 적합성 진단) ① 삭제 <2021. 12. 5.>② 말관리사는 경마의 공정성 확보를 위해 적합성 진단을 받아야한다. <개정 2021. 12. 5.>③ 삭제 <개정 2021. 12. 5.>④ 제2항의 말관리사의 적합성 진단에 관한 세부사항은 회장이 따로 정한다. <개정 2021. 12. 5.>[제목개정 2021. 12. 5.]",
+        "content": "제165조(말관리사의 적합성 진단) ① <삭제 2021. 12. 5.>② 말관리사는 경마의 공정성 확보를 위해 적합성 진단을 받아야한다. <개정 2021. 12. 5.>③ <삭제 2021. 12. 5.>④ 제2항의 말관리사의 적합성 진단에 관한 세부사항은 회장이 따로 정한다. <개정 2021. 12. 5.>[제목개정 2021. 12. 5.]",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -5715,11 +4841,7 @@
             "source_provision_id": "SchlPubRul:(한국마사회)경마시행규정#JO0168",
             "reference_id": "SchlPubRul:(한국마사회)경마시행규정#JO0157",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_git_path": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "(한국마사회) 경마시행규정/(한국마사회) 경마시행규정.json"
           }
         ],
         "images": [],
@@ -5756,10 +4878,10 @@
       "content": "부칙 <제9999호, 2017.01.25>",
       "provision_id": "SchlPubRul:(한국마사회)경마시행규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000097159",
+      "source_mst": "2200000160881",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250106"
+      "version_enforcement_date": "20261012"
     },
     {
       "promulgation_date": "20171226",
@@ -5767,10 +4889,10 @@
       "content": "부칙 <제9999호, 2017.12.26>",
       "provision_id": "SchlPubRul:(한국마사회)경마시행규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000097159",
+      "source_mst": "2200000160881",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250106"
+      "version_enforcement_date": "20261012"
     },
     {
       "promulgation_date": "20180730",
@@ -5778,10 +4900,10 @@
       "content": "부칙 <제9999호, 2018.07.30>",
       "provision_id": "SchlPubRul:(한국마사회)경마시행규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000097159",
+      "source_mst": "2200000160881",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250106"
+      "version_enforcement_date": "20261012"
     },
     {
       "promulgation_date": "20211205",
@@ -5789,10 +4911,10 @@
       "content": "부칙 <제9999호, 2021.12.05>",
       "provision_id": "SchlPubRul:(한국마사회)경마시행규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000097159",
+      "source_mst": "2200000160881",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250106"
+      "version_enforcement_date": "20261012"
     },
     {
       "promulgation_date": "20250106",
@@ -5800,10 +4922,21 @@
       "content": "부칙 <제9999호, 2025.01.06.>제1조(시행일) 이 규정은 농림축산식품부장관의 승인을 받은 날부터 시행한다.제2조(경주마 재등록에 관한 경과조치) 2024년 4월 24일 이전에 종전규정 제22조제1항제1호에 따라 등록이 취소된 말로서 본회가 개최하는 경주에 출전한 적이 없는 말과 제22조제1항제10호에 따라 경주마 등록이 취소된 말로 본회가 개최하는 경주에 출전하려는 말은 제23조제2항의 개정규정에도 불구하고 종전의 규정에 따른다.",
       "provision_id": "SchlPubRul:(한국마사회)경마시행규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000097159",
+      "source_mst": "2200000160881",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250106"
+      "version_enforcement_date": "20261012"
+    },
+    {
+      "promulgation_date": "20261012",
+      "promulgation_no": "9999",
+      "content": "부칙 <제9999호, 2026.10.12.>제1조(시행일) 이 규정은 농림축산식품부장관의 승인을 받은 날부터 시행한다.제2조(경과조치) 이 규정 시행 당시 종전의 규정에 따라 등록된 진료용 약품 및 사료는 개정규정에 따라 등록 또는 승인된 것으로 본다. 다만, 회장이 필요하다고 인정하는 경우 별도의 재심사를 명할 수 있다.",
+      "provision_id": "SchlPubRul:(한국마사회)경마시행규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000160881",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261012"
     }
   ],
   "appendices": [
@@ -5815,12 +4948,12 @@
       "enforcement_date": "",
       "content": "",
       "is_file_only": true,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000097159&bylNo=0001&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156061149",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000160881&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170606863",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156061149",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170606863",
           "name": "",
           "file_store_url": ""
         }
@@ -5841,11 +4974,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156061153",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170606867",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156061153",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170606867",
           "name": "",
           "file_store_url": ""
         }
@@ -5866,11 +4999,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156061157",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170606871",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156061157",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=170606871",
           "name": "",
           "file_store_url": ""
         }
@@ -5886,22 +5019,22 @@
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 157,
+    "relations_total": 140,
     "by_category": {
-      "법령": 43,
-      "학칙공단": 114
+      "법령": 10,
+      "학칙공단": 130
     },
     "by_relation_type": {
-      "citation": 47,
-      "internal_ref": 107,
+      "citation": 14,
+      "internal_ref": 123,
       "appendix_ref": 3
     },
-    "articles_total": 176,
+    "articles_total": 177,
     "articles_with_relations": 68,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 5,
+    "addenda_count": 6,
     "appendices_count": 3,
     "attachments_count": 0
   },
