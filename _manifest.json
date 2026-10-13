@@ -259970,26 +259970,33 @@
   "version_signature": "73463e7d13418f319680a2a53ee23feafdcd28a1ae50bcccd71d4c4b7e58dacc"
  },
  "admrul:school:2124219": {
-  "collected_signature": "95aff519f1f131fee4cc130db621dc8a82262c5dbe5b1909b56fb94640244673",
-  "content_hash": "7d7596987e5e45b0852004ba80f1f624e946b13b17b151af2f790c9117e3f672",
-  "detail_link": "/DRF/lawService.do?OC=test&target=school&ID=2200000143833&type=HTML&mobileYn=",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 8,
+   "chars": 1387
+  },
+  "collected_signature": "b535964a31022bc5917014977c8f78552ab22389bc3d110fa085de2862359fc5",
+  "content_hash": "826d85022407c65642354525017b2d1a57118152a6fbb0da63db08f111104f78",
+  "detail_link": "/DRF/lawService.do?OC=test&target=school&ID=2200000160847&type=HTML&mobileYn=",
   "doc_domain": "admrul",
   "doc_id": "2124219",
   "doc_target": "school",
   "doc_type": "학교규정",
   "emitted_signature": "95aff519f1f131fee4cc130db621dc8a82262c5dbe5b1909b56fb94640244673",
-  "enforcement_date": "20250529",
+  "enforcement_date": "20261012",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T23:43:15.253229+00:00",
-  "last_collected_at": "2026-08-24T23:43:16.243309+00:00",
+  "last_checked_at": "2026-10-13T17:42:23.151582+00:00",
+  "last_collected_at": "2026-10-13T17:42:24.587796+00:00",
   "ministry": "인천대학교",
-  "mst": "2200000143833",
+  "mst": "2200000160847",
   "name": "인천대학교 동북아물류대학원 학위수여에 관한 규정",
   "payload_law_id": "2124219",
-  "promulgation_date": "20250529",
+  "prev_name": null,
+  "promulgation_date": "20261012",
   "status": "done",
   "version_count": 1,
-  "version_signature": "95aff519f1f131fee4cc130db621dc8a82262c5dbe5b1909b56fb94640244673"
+  "version_signature": "b535964a31022bc5917014977c8f78552ab22389bc3d110fa085de2862359fc5"
  },
  "admrul:school:2124221": {
   "collected_signature": "89b9dba728af4238f8f7032c71e0d803d74d46b050dfd7aa20a2d2731fde791d",
