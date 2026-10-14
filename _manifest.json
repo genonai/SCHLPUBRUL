@@ -84188,7 +84188,7 @@
   "prev_name": null,
   "promulgation_date": "20260922",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "405bdac686762c9419844b8a196f320f422debd5350ff50699fc258d4eadb2c5"
  },
  "admrul:public:2072330": {
@@ -112472,26 +112472,33 @@
   "version_signature": "19f6315b14e87768c25638fa0df10f0136e9ce970854442a747b34d2bfd8c4f8"
  },
  "admrul:public:2125199": {
-  "collected_signature": "abf44b7a722ac76e9df254298774846f941ff1a8e59d625ae33f3b38c0e570f3",
-  "content_hash": "88d7d4dde5a73c05296526316a6cfc463cbe6c059e67cf90b18062ab041aa722",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 15,
+   "chars": 1472
+  },
+  "collected_signature": "c63990e7ec0837d8705fa57ca210b1212a4ef36770ee13afb3682b217c062625",
+  "content_hash": "d68e17e75f006ec525158bd4550a4b98bee65649e9adb9e601ad07ac550fcd18",
   "detail_link": "/DRF/lawService.do?OC=test&target=public&ID=2200000158533&type=HTML&mobileYn=",
   "doc_domain": "admrul",
   "doc_id": "2125199",
   "doc_target": "public",
   "doc_type": "공단규정",
   "emitted_signature": "abf44b7a722ac76e9df254298774846f941ff1a8e59d625ae33f3b38c0e570f3",
-  "enforcement_date": "20260730",
+  "enforcement_date": "20260810",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-27T02:12:07.470394+00:00",
-  "last_collected_at": "2026-08-27T02:12:34.041638+00:00",
+  "last_checked_at": "2026-10-14T16:35:12.009650+00:00",
+  "last_collected_at": "2026-10-14T16:35:24.352033+00:00",
   "ministry": "부천도시공사",
   "mst": "2200000158533",
   "name": "부천도시공사 직제규정",
   "payload_law_id": "2125199",
+  "prev_name": null,
   "promulgation_date": "20260730",
   "status": "done",
   "version_count": 1,
-  "version_signature": "abf44b7a722ac76e9df254298774846f941ff1a8e59d625ae33f3b38c0e570f3"
+  "version_signature": "c63990e7ec0837d8705fa57ca210b1212a4ef36770ee13afb3682b217c062625"
  },
  "admrul:public:2125201": {
   "collected_signature": "7151b52b9ed579617c62dbec06e2493dbdafbf92ae2d718caccac7deaf11c4b2",
@@ -129884,26 +129891,33 @@
   "version_signature": "3efd632bfe9c5a2b6a1ccd9559c427bd8dc4cfc617108aafb07d626e02f4bea6"
  },
  "admrul:public:2128883": {
-  "collected_signature": "a518ca7bbbf29de64f848b738e2d371f1eddabd4276f6a223d3c07b573b239bc",
-  "content_hash": "6f74a31bc03607a8dc1e8a6727ceea457d4383a526e6e10374cccd95aafd961a",
-  "detail_link": "/DRF/lawService.do?OC=test&target=public&ID=2200000127353&type=HTML&mobileYn=",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 29,
+   "chars": 6277
+  },
+  "collected_signature": "1312c69639813dc5a8849fb47c4c966e791376593509642c190e4081e96ed7f4",
+  "content_hash": "7e937bf5ee186b0ccacc6d085315d6897f338552780f59e71298089cd78f769d",
+  "detail_link": "/DRF/lawService.do?OC=test&target=public&ID=2200000160845&type=HTML&mobileYn=",
   "doc_domain": "admrul",
   "doc_id": "2128883",
   "doc_target": "public",
   "doc_type": "공단규정",
   "emitted_signature": "a518ca7bbbf29de64f848b738e2d371f1eddabd4276f6a223d3c07b573b239bc",
-  "enforcement_date": "20251020",
+  "enforcement_date": "20260408",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T05:14:16.462479+00:00",
-  "last_collected_at": "2026-08-25T05:14:30.243276+00:00",
+  "last_checked_at": "2026-10-14T16:35:11.991153+00:00",
+  "last_collected_at": "2026-10-14T16:35:22.206432+00:00",
   "ministry": "광주도시관리공사",
-  "mst": "2200000127353",
+  "mst": "2200000160845",
   "name": "(광주도시관리공사) 공무직원관리규정",
   "payload_law_id": "2128883",
-  "promulgation_date": "20251020",
+  "prev_name": null,
+  "promulgation_date": "20260408",
   "status": "done",
   "version_count": 1,
-  "version_signature": "a518ca7bbbf29de64f848b738e2d371f1eddabd4276f6a223d3c07b573b239bc"
+  "version_signature": "1312c69639813dc5a8849fb47c4c966e791376593509642c190e4081e96ed7f4"
  },
  "admrul:public:2128885": {
   "collected_signature": "9e439267a999570c86b530ce20c4928306e316ffd52ae0a96cbd3fd44a1640cf",
