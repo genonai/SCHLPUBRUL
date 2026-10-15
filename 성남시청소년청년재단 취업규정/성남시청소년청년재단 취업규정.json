@@ -2512,13 +2512,30 @@
             "target_url": "https://www.law.go.kr/학칙공단/성남시청소년청년재단 임금피크제시행세칙",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:성남시청소년청년재단취업규정#JO0069_02",
-            "reference_id": "SchlPubRul:성남시청소년청년재단임금피크제시행세칙#DOC",
+            "reference_id": "SchlPubRul:성남시청소년청년재단임금피크제시행세칙:public_2138603#DOC",
             "target_repo": "SCHLPUBRUL",
             "target_git_path_guess": "성남시청소년청년재단 임금피크제시행세칙/성남시청소년청년재단 임금피크제시행세칙.json",
-            "target_git_path": "성남시청소년청년재단 임금피크제시행세칙/성남시청소년청년재단 임금피크제시행세칙.json",
+            "target_git_path": "성남시청소년청년재단 임금피크제시행세칙/public_2138603/성남시청소년청년재단 임금피크제시행세칙.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_doc_kind": "공공기관",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "성남시청소년청년재단 임금피크제시행세칙/public_2138603/성남시청소년청년재단 임금피크제시행세칙.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:성남시청소년청년재단임금피크제시행세칙:public_2138603#DOC",
+                "is_current": true,
+                "enforcement_date": "20250317"
+              },
+              {
+                "git_path": "성남시청소년청년재단 임금피크제시행세칙/public_2141411/성남시청소년청년재단 임금피크제시행세칙.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:성남시청소년청년재단임금피크제시행세칙:public_2141411#DOC",
+                "is_current": true,
+                "enforcement_date": "20210217"
+              }
+            ]
           }
         ],
         "images": [],
