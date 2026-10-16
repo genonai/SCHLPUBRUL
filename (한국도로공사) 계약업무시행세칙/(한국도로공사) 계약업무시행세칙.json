@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0001",
             "reference_id": "law:공기업준정부기관계약사무규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json"
+            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_git_path": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -97,7 +99,9 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0002",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -145,7 +149,8 @@
             "target_unit": "ATT0001",
             "reference_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#ATT0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json"
+            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "appendix_ref",
@@ -170,7 +175,8 @@
             "target_unit": "ATT0003",
             "reference_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#ATT0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json"
+            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "appendix_ref",
@@ -195,7 +201,8 @@
             "target_unit": "ATT0002",
             "reference_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#ATT0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json"
+            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "appendix_ref",
@@ -220,7 +227,8 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json"
+            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -263,7 +271,9 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0006",
             "reference_id": "law:건설기술진흥법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설기술진흥법/법률/건설기술진흥법.json"
+            "target_git_path_guess": "건설기술진흥법/법률/건설기술진흥법.json",
+            "target_git_path": "건설기술 진흥법/법률/건설기술 진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -283,7 +293,9 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0006",
             "reference_id": "law:건설기술진흥법#JO0035",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설기술진흥법/법률/건설기술진흥법.json"
+            "target_git_path_guess": "건설기술진흥법/법률/건설기술진흥법.json",
+            "target_git_path": "건설기술 진흥법/법률/건설기술 진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -303,7 +315,9 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0006",
             "reference_id": "law:엔지니어링산업진흥법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "엔지니어링산업 진흥법/법률/엔지니어링산업 진흥법.json"
+            "target_git_path_guess": "엔지니어링산업 진흥법/법률/엔지니어링산업 진흥법.json",
+            "target_git_path": "엔지니어링산업 진흥법/법률/엔지니어링산업 진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -323,7 +337,9 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0006",
             "reference_id": "law:엔지니어링산업진흥법#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "엔지니어링산업 진흥법/법률/엔지니어링산업 진흥법.json"
+            "target_git_path_guess": "엔지니어링산업 진흥법/법률/엔지니어링산업 진흥법.json",
+            "target_git_path": "엔지니어링산업 진흥법/법률/엔지니어링산업 진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -348,7 +364,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json"
+            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_git_path": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_git_file_path": "(한국도로공사) 계약업무시행세칙/별지/별지4_공사계약체결의뢰서(제6조 계약체결 의뢰 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -373,7 +394,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json"
+            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_git_path": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_git_file_path": "(한국도로공사) 계약업무시행세칙/별지/별지5_용역계약체결의뢰서(제6조 계약체결 의뢰 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -398,7 +424,12 @@
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json"
+            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_git_path": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_git_file_path": "(한국도로공사) 계약업무시행세칙/별지/별지6_물품(구매,제조)계약체결 의뢰서(제6조 계약체결 의뢰 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -423,7 +454,12 @@
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json"
+            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_git_path": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_git_file_path": "(한국도로공사) 계약업무시행세칙/별지/별지7_변경계약체결의뢰서(제6조 계약체결 의뢰 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -455,7 +491,9 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0007",
             "reference_id": "law:건설기술진흥법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설기술진흥법/법률/건설기술진흥법.json"
+            "target_git_path_guess": "건설기술진흥법/법률/건설기술진흥법.json",
+            "target_git_path": "건설기술 진흥법/법률/건설기술 진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -475,7 +513,9 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0007",
             "reference_id": "law:환경기술및환경산업지원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "환경기술 및 환경산업지원법/법률/환경기술 및 환경산업지원법.json"
+            "target_git_path_guess": "환경기술 및 환경산업지원법/법률/환경기술 및 환경산업지원법.json",
+            "target_git_path": "환경기술 및 환경산업 지원법/법률/환경기술 및 환경산업 지원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -495,7 +535,9 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0007",
             "reference_id": "law:전력기술관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전력기술관리법/법률/전력기술관리법.json"
+            "target_git_path_guess": "전력기술관리법/법률/전력기술관리법.json",
+            "target_git_path": "전력기술관리법/법률/전력기술관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -515,7 +557,9 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0007",
             "reference_id": "law:특허법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "특허법/법률/특허법.json"
+            "target_git_path_guess": "특허법/법률/특허법.json",
+            "target_git_path": "특허법/법률/특허법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -587,7 +631,9 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0008",
             "reference_id": "law:중소기업제품구매촉진및판로지원에관한법률#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json"
+            "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json",
+            "target_git_path": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -607,7 +653,9 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0008",
             "reference_id": "law:중소기업제품구매촉진및판로지원에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/시행령/중소기업제품 구매촉진 및 판로지원에 관한 법률 시행령.json"
+            "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/시행령/중소기업제품 구매촉진 및 판로지원에 관한 법률 시행령.json",
+            "target_git_path": "중소기업제품 구매촉진 및 판로지원에 관한 법률/시행령/중소기업제품 구매촉진 및 판로지원에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -627,7 +675,9 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0008",
             "reference_id": "law:중소기업제품구매촉진및판로지원에관한법률시행령#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/시행령/중소기업제품 구매촉진 및 판로지원에 관한 법률 시행령.json"
+            "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/시행령/중소기업제품 구매촉진 및 판로지원에 관한 법률 시행령.json",
+            "target_git_path": "중소기업제품 구매촉진 및 판로지원에 관한 법률/시행령/중소기업제품 구매촉진 및 판로지원에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -659,7 +709,9 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0009",
             "reference_id": "law:녹색제품구매촉진에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "녹색제품 구매촉진에 관한 법률/법률/녹색제품 구매촉진에 관한 법률.json"
+            "target_git_path_guess": "녹색제품 구매촉진에 관한 법률/법률/녹색제품 구매촉진에 관한 법률.json",
+            "target_git_path": "녹색제품 구매촉진에 관한 법률/법률/녹색제품 구매촉진에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -679,7 +731,9 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0009",
             "reference_id": "law:녹색제품구매촉진에관한법률#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "녹색제품 구매촉진에 관한 법률/법률/녹색제품 구매촉진에 관한 법률.json"
+            "target_git_path_guess": "녹색제품 구매촉진에 관한 법률/법률/녹색제품 구매촉진에 관한 법률.json",
+            "target_git_path": "녹색제품 구매촉진에 관한 법률/법률/녹색제품 구매촉진에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -722,7 +776,9 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0011",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -742,7 +798,9 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0011",
             "reference_id": "law:공공기관의운영에관한법률#JO0044",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -785,7 +843,11 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0013",
             "reference_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json"
+            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_git_path": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -817,7 +879,9 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0014",
             "reference_id": "law:중소기업제품구매촉진및판로지원에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/시행령/중소기업제품 구매촉진 및 판로지원에 관한 법률 시행령.json"
+            "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/시행령/중소기업제품 구매촉진 및 판로지원에 관한 법률 시행령.json",
+            "target_git_path": "중소기업제품 구매촉진 및 판로지원에 관한 법률/시행령/중소기업제품 구매촉진 및 판로지원에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -837,7 +901,9 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0014",
             "reference_id": "law:중소기업제품구매촉진및판로지원에관한법률시행령#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/시행령/중소기업제품 구매촉진 및 판로지원에 관한 법률 시행령.json"
+            "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/시행령/중소기업제품 구매촉진 및 판로지원에 관한 법률 시행령.json",
+            "target_git_path": "중소기업제품 구매촉진 및 판로지원에 관한 법률/시행령/중소기업제품 구매촉진 및 판로지원에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -857,7 +923,9 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0014",
             "reference_id": "law:중소기업기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업기본법/법률/중소기업기본법.json"
+            "target_git_path_guess": "중소기업기본법/법률/중소기업기본법.json",
+            "target_git_path": "중소기업기본법/법률/중소기업기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -877,7 +945,9 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0014",
             "reference_id": "law:중소기업기본법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업기본법/법률/중소기업기본법.json"
+            "target_git_path_guess": "중소기업기본법/법률/중소기업기본법.json",
+            "target_git_path": "중소기업기본법/법률/중소기업기본법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -914,7 +984,12 @@
             "target_unit": "BJ0008",
             "reference_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#BJ0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json"
+            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_git_path": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_git_file_path": "(한국도로공사) 계약업무시행세칙/별지/별지8_수의견적 비교조서(제16조 수의계약 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -939,7 +1014,12 @@
             "target_unit": "BJ0008",
             "reference_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#BJ0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json"
+            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_git_path": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_git_file_path": "(한국도로공사) 계약업무시행세칙/별지/별지8_수의견적 비교조서(제16조 수의계약 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -991,7 +1071,9 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0015_02",
             "reference_id": "law:공기업준정부기관계약사무규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json"
+            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_git_path": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1011,7 +1093,9 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0015_02",
             "reference_id": "law:공기업준정부기관계약사무규칙#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json"
+            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_git_path": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1031,7 +1115,9 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0015_02",
             "reference_id": "law:부패방지및국민권익위원회의설치와운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json"
+            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
+            "target_git_path": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1051,7 +1137,9 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0015_02",
             "reference_id": "law:부패방지및국민권익위원회의설치와운영에관한법률#JO0082",
             "target_repo": "LAW",
-            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json"
+            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
+            "target_git_path": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1071,7 +1159,11 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0015_02",
             "reference_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0034",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json"
+            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_git_path": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1096,7 +1188,12 @@
             "target_unit": "BJ0018",
             "reference_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#BJ0018",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json"
+            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_git_path": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_git_file_path": "(한국도로공사) 계약업무시행세칙/별지/별지18_임·직원 명단 확인서(제15조의2 및 제34조제7항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -1116,7 +1213,9 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0015_02",
             "reference_id": "law:공기업준정부기관계약사무규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json"
+            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_git_path": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1136,7 +1235,9 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0015_02",
             "reference_id": "law:공기업준정부기관계약사무규칙#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json"
+            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_git_path": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1161,7 +1262,12 @@
             "target_unit": "BJ0018",
             "reference_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#BJ0018",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json"
+            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_git_path": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_git_file_path": "(한국도로공사) 계약업무시행세칙/별지/별지18_임·직원 명단 확인서(제15조의2 및 제34조제7항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1186,7 +1292,12 @@
             "target_unit": "BJ0019",
             "reference_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#BJ0019",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json"
+            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_git_path": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_git_file_path": "(한국도로공사) 계약업무시행세칙/별지/별지19_임·직원 명단 재확인서(제15조의2 수의계약의 제한 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -1206,7 +1317,9 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0015_02",
             "reference_id": "law:공기업준정부기관계약사무규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json"
+            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_git_path": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1226,7 +1339,9 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0015_02",
             "reference_id": "law:공기업준정부기관계약사무규칙#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json"
+            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_git_path": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1280,7 +1395,11 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0018",
             "reference_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0027",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json"
+            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_git_path": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1366,7 +1485,11 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0022",
             "reference_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0021",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json"
+            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_git_path": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1386,7 +1509,11 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0022",
             "reference_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json"
+            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_git_path": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1406,7 +1533,11 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0022",
             "reference_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0021",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json"
+            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_git_path": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1487,7 +1618,12 @@
             "target_unit": "BJ0009",
             "reference_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#BJ0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json"
+            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_git_path": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_git_file_path": "(한국도로공사) 계약업무시행세칙/별지/별지9_입찰참가신청서(제27조 입찰참가신청 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1541,7 +1677,11 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0030",
             "reference_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json"
+            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_git_path": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1561,7 +1701,11 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0030",
             "reference_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0027",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json"
+            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_git_path": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -1581,7 +1725,11 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0030",
             "reference_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json"
+            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_git_path": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1613,7 +1761,9 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0031",
             "reference_id": "law:중소기업제품구매촉진및판로지원에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json"
+            "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json",
+            "target_git_path": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1633,7 +1783,9 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0031",
             "reference_id": "law:중소기업제품구매촉진및판로지원에관한법률#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json"
+            "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json",
+            "target_git_path": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1653,7 +1805,9 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0031",
             "reference_id": "law:건설폐기물의재활용촉진에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설폐기물의 재활용촉진에 관한 법률/법률/건설폐기물의 재활용촉진에 관한 법률.json"
+            "target_git_path_guess": "건설폐기물의 재활용촉진에 관한 법률/법률/건설폐기물의 재활용촉진에 관한 법률.json",
+            "target_git_path": "건설폐기물의 재활용촉진에 관한 법률/법률/건설폐기물의 재활용촉진에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1673,7 +1827,9 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0031",
             "reference_id": "law:건설폐기물의재활용촉진에관한법률#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설폐기물의 재활용촉진에 관한 법률/법률/건설폐기물의 재활용촉진에 관한 법률.json"
+            "target_git_path_guess": "건설폐기물의 재활용촉진에 관한 법률/법률/건설폐기물의 재활용촉진에 관한 법률.json",
+            "target_git_path": "건설폐기물의 재활용촉진에 관한 법률/법률/건설폐기물의 재활용촉진에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1693,7 +1849,11 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0031",
             "reference_id": "admrul:건설폐기물처리용역적격업체평가기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "건설폐기물처리용역 적격업체 평가기준/건설폐기물처리용역 적격업체 평가기준.json"
+            "target_git_path_guess": "건설폐기물처리용역 적격업체 평가기준/건설폐기물처리용역 적격업체 평가기준.json",
+            "target_git_path": "건설폐기물처리용역 적격업체 평가기준/건설폐기물처리용역 적격업체 평가기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1736,7 +1896,11 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0033",
             "reference_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0016",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json"
+            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_git_path": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -1756,7 +1920,9 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0033",
             "reference_id": "law:건설산업기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설산업기본법/법률/건설산업기본법.json"
+            "target_git_path_guess": "건설산업기본법/법률/건설산업기본법.json",
+            "target_git_path": "건설산업기본법/법률/건설산업기본법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1793,7 +1959,12 @@
             "target_unit": "BJ0010",
             "reference_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#BJ0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json"
+            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_git_path": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_git_file_path": "(한국도로공사) 계약업무시행세칙/별지/별지10_공사(용역) 도급계약서(제34조 계약서의 작성 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -1813,7 +1984,9 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0034",
             "reference_id": "law:인지세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "인지세법/법률/인지세법.json"
+            "target_git_path_guess": "인지세법/법률/인지세법.json",
+            "target_git_path": "인지세법/법률/인지세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1833,7 +2006,9 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0034",
             "reference_id": "law:인지세법#JO0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "인지세법/법률/인지세법.json"
+            "target_git_path_guess": "인지세법/법률/인지세법.json",
+            "target_git_path": "인지세법/법률/인지세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1858,7 +2033,12 @@
             "target_unit": "BJ0018",
             "reference_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#BJ0018",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json"
+            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_git_path": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_git_file_path": "(한국도로공사) 계약업무시행세칙/별지/별지18_임·직원 명단 확인서(제15조의2 및 제34조제7항 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1917,7 +2097,12 @@
             "target_unit": "BJ0012",
             "reference_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#BJ0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json"
+            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_git_path": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_git_file_path": "(한국도로공사) 계약업무시행세칙/별지/별지12_계약보증금 납부면제 및 지급각서(제37조 계약보증금 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1960,7 +2145,9 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0039",
             "reference_id": "law:건설기술진흥법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설기술진흥법/시행령/건설기술진흥법 시행령.json"
+            "target_git_path_guess": "건설기술진흥법/시행령/건설기술진흥법 시행령.json",
+            "target_git_path": "건설기술 진흥법/시행령/건설기술 진흥법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1980,7 +2167,9 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0039",
             "reference_id": "law:건설기술진흥법시행령#JO0045",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설기술진흥법/시행령/건설기술진흥법 시행령.json"
+            "target_git_path_guess": "건설기술진흥법/시행령/건설기술진흥법 시행령.json",
+            "target_git_path": "건설기술 진흥법/시행령/건설기술 진흥법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2000,7 +2189,9 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0039",
             "reference_id": "law:건설기술진흥법시행령#JO0117",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설기술진흥법/시행령/건설기술진흥법 시행령.json"
+            "target_git_path_guess": "건설기술진흥법/시행령/건설기술진흥법 시행령.json",
+            "target_git_path": "건설기술 진흥법/시행령/건설기술 진흥법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2081,7 +2272,12 @@
             "target_unit": "BJ0013",
             "reference_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#BJ0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json"
+            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_git_path": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_git_file_path": "(한국도로공사) 계약업무시행세칙/별지/별지13_계약통보(납품지시) 및 검수의뢰서(제44조 계약통보, 검수의뢰 및 검수원 지정 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2129,7 +2325,12 @@
             "target_unit": "BJ0014",
             "reference_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#BJ0014",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json"
+            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_git_path": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_git_file_path": "(한국도로공사) 계약업무시행세칙/별지/별지14_검사계획서(제46조 품질검사 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2161,7 +2362,11 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0047",
             "reference_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0044",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json"
+            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_git_path": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2193,7 +2398,11 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0048",
             "reference_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0045",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json"
+            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_git_path": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2218,7 +2427,8 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json"
+            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -2272,7 +2482,11 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0051",
             "reference_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0050",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json"
+            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_git_path": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2320,7 +2534,8 @@
             "target_unit": "ATT0002",
             "reference_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#ATT0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json"
+            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "appendix_ref",
@@ -2345,7 +2560,8 @@
             "target_unit": "ATT0001",
             "reference_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#ATT0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json"
+            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "citation",
@@ -2365,7 +2581,9 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0053",
             "reference_id": "law:건설산업기본법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설산업기본법/시행령/건설산업기본법 시행령.json"
+            "target_git_path_guess": "건설산업기본법/시행령/건설산업기본법 시행령.json",
+            "target_git_path": "건설산업기본법/시행령/건설산업기본법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2385,7 +2603,9 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0053",
             "reference_id": "law:건설산업기본법시행령#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설산업기본법/시행령/건설산업기본법 시행령.json"
+            "target_git_path_guess": "건설산업기본법/시행령/건설산업기본법 시행령.json",
+            "target_git_path": "건설산업기본법/시행령/건설산업기본법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2417,7 +2637,9 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0054",
             "reference_id": "law:공기업준정부기관회계사무규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공기업ㆍ준정부기관 회계사무규칙/법률/공기업ㆍ준정부기관 회계사무규칙.json"
+            "target_git_path_guess": "공기업ㆍ준정부기관 회계사무규칙/법률/공기업ㆍ준정부기관 회계사무규칙.json",
+            "target_git_path": "공기업ㆍ준정부기관 회계사무규칙/법률/공기업ㆍ준정부기관 회계사무규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2437,7 +2659,9 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0054",
             "reference_id": "law:공기업준정부기관회계사무규칙#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "공기업ㆍ준정부기관 회계사무규칙/법률/공기업ㆍ준정부기관 회계사무규칙.json"
+            "target_git_path_guess": "공기업ㆍ준정부기관 회계사무규칙/법률/공기업ㆍ준정부기관 회계사무규칙.json",
+            "target_git_path": "공기업ㆍ준정부기관 회계사무규칙/법률/공기업ㆍ준정부기관 회계사무규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2469,7 +2693,11 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0055",
             "reference_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0054",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json"
+            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_git_path": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -2489,7 +2717,11 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0055",
             "reference_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json"
+            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_git_path": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2521,7 +2753,9 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0056",
             "reference_id": "law:국세징수법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세징수법/법률/국세징수법.json"
+            "target_git_path_guess": "국세징수법/법률/국세징수법.json",
+            "target_git_path": "국세징수법/법률/국세징수법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2541,7 +2775,9 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0056",
             "reference_id": "law:국세징수법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세징수법/법률/국세징수법.json"
+            "target_git_path_guess": "국세징수법/법률/국세징수법.json",
+            "target_git_path": "국세징수법/법률/국세징수법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2584,7 +2820,11 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0058",
             "reference_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0056",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json"
+            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_git_path": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2609,7 +2849,12 @@
             "target_unit": "BJ0017",
             "reference_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#BJ0017",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json"
+            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_git_path": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_git_file_path": "(한국도로공사) 계약업무시행세칙/별지/별지17_하자보수보증금 납부각서(제58조 하자보수보증금 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -2685,7 +2930,9 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0063",
             "reference_id": "law:건설산업기본법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설산업기본법/시행령/건설산업기본법 시행령.json"
+            "target_git_path_guess": "건설산업기본법/시행령/건설산업기본법 시행령.json",
+            "target_git_path": "건설산업기본법/시행령/건설산업기본법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2705,7 +2952,9 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0063",
             "reference_id": "law:건설산업기본법시행령#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설산업기본법/시행령/건설산업기본법 시행령.json"
+            "target_git_path_guess": "건설산업기본법/시행령/건설산업기본법 시행령.json",
+            "target_git_path": "건설산업기본법/시행령/건설산업기본법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2825,7 +3074,9 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0070_02",
             "reference_id": "law:대중소기업상생협력촉진에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json"
+            "target_git_path_guess": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json",
+            "target_git_path": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2845,7 +3096,9 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0070_02",
             "reference_id": "law:대중소기업상생협력촉진에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json"
+            "target_git_path_guess": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json",
+            "target_git_path": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2865,7 +3118,9 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0070_02",
             "reference_id": "law:대중소기업상생협력촉진에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json"
+            "target_git_path_guess": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json",
+            "target_git_path": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2885,7 +3140,9 @@
             "source_provision_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#JO0070_02",
             "reference_id": "law:대중소기업상생협력촉진에관한법률#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json"
+            "target_git_path_guess": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json",
+            "target_git_path": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2933,7 +3190,8 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json"
+            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
