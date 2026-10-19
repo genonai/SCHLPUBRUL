@@ -1,16 +1,16 @@
 {
   "law_id": "2126047",
-  "mst": "2200000149953",
+  "mst": "2200000161371",
   "law_name": "시흥도시공사 임원인사규정시행내규",
   "law_abbr": "",
   "law_type": "공단규정",
   "doc_target": "public",
   "doc_kind": "공공기관",
   "adm_uid": "public:2126047",
-  "promulgation_no": "278",
-  "promulgation_date": "20251027",
-  "enforcement_date": "20251027",
-  "revision_date": "20251027",
+  "promulgation_no": "308",
+  "promulgation_date": "20261019",
+  "enforcement_date": "20261019",
+  "revision_date": "20261019",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
@@ -19,7 +19,7 @@
     "담당자명": "시흥도시공사",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "시흥도시공사 임원인사규정시행내규",
-    "발령일자": "20251027",
+    "발령일자": "20261019",
     "행정규칙종류": "공단규정",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,13 +27,13 @@
     "전화번호": "031-488-6841",
     "제개정구분명": "일부개정",
     "소관부처코드": "B554066",
-    "생성일자": "20260422",
+    "생성일자": "20261103",
     "행정규칙ID": "2126047",
-    "담당부서기관코드": "B554066",
-    "발령번호": "278",
-    "행정규칙일련번호": "2200000149953"
+    "담당부서기관코드": "",
+    "발령번호": "308",
+    "행정규칙일련번호": "2200000161371"
   },
-  "amendment_text": "",
+  "amendment_text": "시흥도시공사 임원인사규정시행내규 일부개정안을 다음과 같이 발령한다.\n시흥도시공사 사장  유 병 욱\n2026년   10월   19일\n시흥도시공사 내규 제308호\n시흥도시공사 임원인사규정시행내규 일부 개정안\n시흥도시공사 임원인사규정시행내규 일부를 다음과 같이 개정한다.\n제5조제2호 중 “지방공기업법”을 “「지방공기업법」”으로 하고, 같은 조 제5호 중 “지방공기업법 제58조”를 “「지방공기업법」 제58조”로 한다.\n제7조제3호 중 “하나에 해당하게 되거나,”를 “하나에(제4호는 제외한다) 및 「지방공무원법」 제61조제1호에 해당하게 되거나”로 한다.\n부칙을 다음과 같이 한다.\n이 내규는 발령일부터 시행한다.",
   "revision_reason": "(생략)",
   "body": {
     "format": "articles",
@@ -88,9 +88,29 @@
         "article_title": "결격사유",
         "chapter": "제2장  임면",
         "chapter_path": "제2장  임면",
-        "content": "제5조(결격사유) 다음 각 호의 1에 해당될 때에는 임원으로 임명할 수 없다.1. <삭제 2020.06.09.>2. 지방공기업법을 위반하여 벌금형을 받고 2년이 경과되지 아니한 자3. 미성년자4. 「지방공무원법」 제31조 각 호의 어느 하나에 해당하는 사람5. 지방공기업법 제58조 제4항 또는 제5항에 따라 해임된 후 3년이 지나지 아니한 사람",
+        "content": "제5조(결격사유) 다음 각 호의 1에 해당될 때에는 임원으로 임명할 수 없다. <개정 2026.10.19.>1. <삭제 2020.06.09.>2. 「지방공기업법」을 위반하여 벌금형을 받고 2년이 경과되지 아니한 자3. 미성년자4. 「지방공무원법」 제31조 각 호의 어느 하나에 해당하는 사람5. 「지방공기업법」제58조 제4항 또는 제5항에 따라 해임된 후 3년이 지나지 아니한 사람",
         "enforcement_date": "",
         "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "「지방공기업법」",
+            "line_text": "",
+            "target_law_name": "지방공기업법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2126047",
+            "target_url": "https://www.law.go.kr/법령/지방공기업법",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:시흥도시공사임원인사규정시행내규#JO0005",
+            "reference_id": "law:지방공기업법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+          },
           {
             "relation_type": "citation",
             "delegation_type": null,
@@ -109,9 +129,7 @@
             "source_provision_id": "SchlPubRul:시흥도시공사임원인사규정시행내규#JO0005",
             "reference_id": "law:지방공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json",
-            "target_git_path": "지방공무원법/법률/지방공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -131,9 +149,47 @@
             "source_provision_id": "SchlPubRul:시흥도시공사임원인사규정시행내규#JO0005",
             "reference_id": "law:지방공무원법#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json",
-            "target_git_path": "지방공무원법/법률/지방공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "「지방공기업법」",
+            "line_text": "",
+            "target_law_name": "지방공기업법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2126047",
+            "target_url": "https://www.law.go.kr/법령/지방공기업법",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:시흥도시공사임원인사규정시행내규#JO0005",
+            "reference_id": "law:지방공기업법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "제58조",
+            "line_text": "",
+            "target_law_name": "지방공기업법",
+            "target_article_no": "제58조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2126047",
+            "target_url": "https://www.law.go.kr/법령/지방공기업법/제58조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:시흥도시공사임원인사규정시행내규#JO0005",
+            "reference_id": "law:지방공기업법#JO0058",
+            "target_repo": "LAW",
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
           }
         ],
         "images": [],
@@ -144,7 +200,7 @@
         "article_title": "임명구비서류",
         "chapter": "제2장  임면",
         "chapter_path": "제2장  임면",
-        "content": "제6조(임명구비서류) 임원으로 임명하고자 할 때에는 다음 각 호의 서류를 구비하여야 한다. 단, 최초 임명 후 연임하는 경우에는 구비서류를 생략할 수 있다. <개정 2023.08.02.> <개정 2024.12.12.>1. 이력서 1통2. 가족관계증명서 1통3. 주민등록 등·초본 각 1통4. <삭제 2023.08.02.>5. 채용신체검사서6. 최종학교증명서7. 인사기록카드사본8. 임원추천위원회 추천서 및 임명권자의 승인 공문 <개정 2023.08.02.>",
+        "content": "제6조(임명구비서류) 임원으로 임명하고자 할 때에는 다음 각 호의 서류를 구비하여야 한다. 단, 최초 임명 후 연임하는 경우에는 구비서류를 생략할 수 있다. <개정 2023.08.02.> <개정 2024.12.12.>1. 이력서 1통2. 가족관계증명서 1통3. 주민등록 등ㆍ초본 각 1통4. <삭제 2023.08.02.>5. 채용신체검사서6. 최종학교증명서7. 인사기록카드사본8. 임원추천위원회 추천서 및 임명권자의 승인 공문 <개정 2023.08.02.>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -155,7 +211,7 @@
         "article_title": "당연면직",
         "chapter": "제2장  임면",
         "chapter_path": "제2장  임면",
-        "content": "제7조(당연면직) 임원이 다음 각 호의 1에 해당될 때에는 당연 면직한다.1. 임기가 만료된 때2. 사망한 때3. 제5조 각호의 어느 하나에 해당하게 되거나, 임명 당시 그에 해당하였음이 판명되었을 때4. 제3호에 따라 퇴직한 임원이 퇴직 전에 관여한 행위는 그 효력을 잃지 아니한다.",
+        "content": "제7조(당연면직) 임원이 다음 각 호의 1에 해당될 때에는 당연 면직한다. <개정 2026.10.19.>1. 임기가 만료된 때2. 사망한 때3. 제5조 각호의 어느 하나에(제4호는 제외한다) 및 「지방공무원법」 제61조제1호에 해당하게 되거나, 임명 당시 그에 해당하였음이 판명되었을 때4. 제3호에 따라 퇴직한 임원이 퇴직 전에 관여한 행위는 그 효력을 잃지 아니한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -176,11 +232,47 @@
             "source_provision_id": "SchlPubRul:시흥도시공사임원인사규정시행내규#JO0007",
             "reference_id": "SchlPubRul:시흥도시공사임원인사규정시행내규#JO0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 임원인사규정시행내규/시흥도시공사 임원인사규정시행내규.json",
-            "target_git_path": "시흥도시공사 임원인사규정시행내규/시흥도시공사 임원인사규정시행내규.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "시흥도시공사 임원인사규정시행내규/시흥도시공사 임원인사규정시행내규.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "「지방공무원법」",
+            "line_text": "",
+            "target_law_name": "지방공무원법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2126047",
+            "target_url": "https://www.law.go.kr/법령/지방공무원법",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:시흥도시공사임원인사규정시행내규#JO0007",
+            "reference_id": "law:지방공무원법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "제61조제1호",
+            "line_text": "",
+            "target_law_name": "지방공무원법",
+            "target_article_no": "제61조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2126047",
+            "target_url": "https://www.law.go.kr/법령/지방공무원법/제61조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:시흥도시공사임원인사규정시행내규#JO0007",
+            "reference_id": "law:지방공무원법#JO0061",
+            "target_repo": "LAW",
+            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json"
           }
         ],
         "images": [],
@@ -245,11 +337,7 @@
             "source_provision_id": "SchlPubRul:시흥도시공사임원인사규정시행내규#JO0011",
             "reference_id": "SchlPubRul:시흥도시공사임원인사규정시행내규#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 임원인사규정시행내규/시흥도시공사 임원인사규정시행내규.json",
-            "target_git_path": "시흥도시공사 임원인사규정시행내규/시흥도시공사 임원인사규정시행내규.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "시흥도시공사 임원인사규정시행내규/시흥도시공사 임원인사규정시행내규.json"
           },
           {
             "relation_type": "internal_ref",
@@ -269,11 +357,7 @@
             "source_provision_id": "SchlPubRul:시흥도시공사임원인사규정시행내규#JO0011",
             "reference_id": "SchlPubRul:시흥도시공사임원인사규정시행내규#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 임원인사규정시행내규/시흥도시공사 임원인사규정시행내규.json",
-            "target_git_path": "시흥도시공사 임원인사규정시행내규/시흥도시공사 임원인사규정시행내규.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "시흥도시공사 임원인사규정시행내규/시흥도시공사 임원인사규정시행내규.json"
           },
           {
             "relation_type": "internal_ref",
@@ -293,11 +377,7 @@
             "source_provision_id": "SchlPubRul:시흥도시공사임원인사규정시행내규#JO0011",
             "reference_id": "SchlPubRul:시흥도시공사임원인사규정시행내규#JO0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 임원인사규정시행내규/시흥도시공사 임원인사규정시행내규.json",
-            "target_git_path": "시흥도시공사 임원인사규정시행내규/시흥도시공사 임원인사규정시행내규.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "시흥도시공사 임원인사규정시행내규/시흥도시공사 임원인사규정시행내규.json"
           },
           {
             "relation_type": "internal_ref",
@@ -317,11 +397,7 @@
             "source_provision_id": "SchlPubRul:시흥도시공사임원인사규정시행내규#JO0011",
             "reference_id": "SchlPubRul:시흥도시공사임원인사규정시행내규#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 임원인사규정시행내규/시흥도시공사 임원인사규정시행내규.json",
-            "target_git_path": "시흥도시공사 임원인사규정시행내규/시흥도시공사 임원인사규정시행내규.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "시흥도시공사 임원인사규정시행내규/시흥도시공사 임원인사규정시행내규.json"
           }
         ],
         "images": [],
@@ -353,11 +429,7 @@
             "source_provision_id": "SchlPubRul:시흥도시공사임원인사규정시행내규#JO0012",
             "reference_id": "SchlPubRul:시흥도시공사임원인사규정시행내규#JO0017",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 임원인사규정시행내규/시흥도시공사 임원인사규정시행내규.json",
-            "target_git_path": "시흥도시공사 임원인사규정시행내규/시흥도시공사 임원인사규정시행내규.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "시흥도시공사 임원인사규정시행내규/시흥도시공사 임원인사규정시행내규.json"
           }
         ],
         "images": [],
@@ -466,11 +538,7 @@
             "source_provision_id": "SchlPubRul:시흥도시공사임원인사규정시행내규#JO0020",
             "reference_id": "SchlPubRul:시흥도시공사임원인사규정시행내규#JO0021",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 임원인사규정시행내규/시흥도시공사 임원인사규정시행내규.json",
-            "target_git_path": "시흥도시공사 임원인사규정시행내규/시흥도시공사 임원인사규정시행내규.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "시흥도시공사 임원인사규정시행내규/시흥도시공사 임원인사규정시행내규.json"
           }
         ],
         "images": [],
@@ -524,11 +592,7 @@
             "source_provision_id": "SchlPubRul:시흥도시공사임원인사규정시행내규#JO0023",
             "reference_id": "SchlPubRul:시흥도시공사임원인사규정시행내규#JO0014",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 임원인사규정시행내규/시흥도시공사 임원인사규정시행내규.json",
-            "target_git_path": "시흥도시공사 임원인사규정시행내규/시흥도시공사 임원인사규정시행내규.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "시흥도시공사 임원인사규정시행내규/시흥도시공사 임원인사규정시행내규.json"
           },
           {
             "relation_type": "internal_ref",
@@ -548,11 +612,7 @@
             "source_provision_id": "SchlPubRul:시흥도시공사임원인사규정시행내규#JO0023",
             "reference_id": "SchlPubRul:시흥도시공사임원인사규정시행내규#JO0014",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "시흥도시공사 임원인사규정시행내규/시흥도시공사 임원인사규정시행내규.json",
-            "target_git_path": "시흥도시공사 임원인사규정시행내규/시흥도시공사 임원인사규정시행내규.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "시흥도시공사 임원인사규정시행내규/시흥도시공사 임원인사규정시행내규.json"
           }
         ],
         "images": [],
@@ -567,10 +627,10 @@
       "content": "부칙 <제1호,2019.10.11.>제1조(시행일) 이 규정은 공사가 설립되는 날부터 시행한다.제2조(경과조치) 이 규정 시행 당시 이미 처리된 사무는 이 규정에 따라 처리된 것으로 본다.",
       "provision_id": "SchlPubRul:시흥도시공사임원인사규정시행내규#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000149953",
+      "source_mst": "2200000161371",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251027"
+      "version_enforcement_date": "20261019"
     },
     {
       "promulgation_date": "20200609",
@@ -578,10 +638,10 @@
       "content": "부칙 <제2호,2020.06.09.>이 내규는 발령일부터 시행한다.",
       "provision_id": "SchlPubRul:시흥도시공사임원인사규정시행내규#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000149953",
+      "source_mst": "2200000161371",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251027"
+      "version_enforcement_date": "20261019"
     },
     {
       "promulgation_date": "20230802",
@@ -589,10 +649,10 @@
       "content": "부칙 <제3호,2023.8.2.>제1조 (시행일) 이 내규는 발령일부터 시행한다.",
       "provision_id": "SchlPubRul:시흥도시공사임원인사규정시행내규#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000149953",
+      "source_mst": "2200000161371",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251027"
+      "version_enforcement_date": "20261019"
     },
     {
       "promulgation_date": "20241212",
@@ -600,10 +660,10 @@
       "content": "부칙 <제4호,2024.12.12.>제1조 (시행일) 이 내규는 발령일부터 시행한다.",
       "provision_id": "SchlPubRul:시흥도시공사임원인사규정시행내규#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000149953",
+      "source_mst": "2200000161371",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251027"
+      "version_enforcement_date": "20261019"
     },
     {
       "promulgation_date": "20250410",
@@ -611,10 +671,10 @@
       "content": "부칙 <제5호,2025.04.10>제1조 (시행일) 이 내규는 발령일부터 시행한다.",
       "provision_id": "SchlPubRul:시흥도시공사임원인사규정시행내규#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000149953",
+      "source_mst": "2200000161371",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251027"
+      "version_enforcement_date": "20261019"
     },
     {
       "promulgation_date": "20251027",
@@ -622,23 +682,34 @@
       "content": "부칙 <제6호,2025.10.27>제1조 (시행일) 이 내규는 발령일부터 시행한다.",
       "provision_id": "SchlPubRul:시흥도시공사임원인사규정시행내규#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000149953",
+      "source_mst": "2200000161371",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20251027"
+      "version_enforcement_date": "20261019"
+    },
+    {
+      "promulgation_date": "20261019",
+      "promulgation_no": "00007",
+      "content": "부칙 <제7호,2026.10.19.>이 내규는 발령일부터 시행한다.",
+      "provision_id": "SchlPubRul:시흥도시공사임원인사규정시행내규#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000161371",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261019"
     }
   ],
   "appendices": [],
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 11,
+    "relations_total": 16,
     "by_category": {
-      "법령": 2,
+      "법령": 7,
       "학칙공단": 9
     },
     "by_relation_type": {
-      "citation": 2,
+      "citation": 7,
       "internal_ref": 9
     },
     "articles_total": 23,
@@ -646,7 +717,7 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 6,
+    "addenda_count": 7,
     "appendices_count": 0,
     "attachments_count": 0
   },
