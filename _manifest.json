@@ -191161,7 +191161,8 @@
   "version_signature": "f8322bc369411da1e9481f17ce7f4d8f13bb4486c78ff5683053347ab869ec50"
  },
  "admrul:school:2091369": {
-  "attempts": 11,
+  "attempt_run": "01a173a4-157",
+  "attempts": 12,
   "body_stats": {
    "articles": 23,
    "chars": 3017
@@ -191177,8 +191178,8 @@
   "enforcement_date": "20250320",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-18T15:14:26.640157+00:00",
-  "last_collected_at": "2026-10-18T15:14:32.548715+00:00",
+  "last_checked_at": "2026-10-25T15:18:18.529749+00:00",
+  "last_collected_at": "2026-10-25T15:18:20.984233+00:00",
   "last_error": "별표/첨부 파일 1건 다운로드 실패: 별지/별지1_수료증.hwp",
   "last_seen_at": "2026-10-25T15:11:47.815625+00:00",
   "ministry": "전남대학교",
@@ -191187,6 +191188,7 @@
   "payload_law_id": "2091369",
   "prev_name": null,
   "promulgation_date": "20250320",
+  "sanity_hold": null,
   "status": "failed",
   "version_count": 1,
   "version_signature": "f2455d23ef126928ef9f41e8b02d030d44e1a77c56792baf2b07c041fc470cf2"
@@ -198586,7 +198588,8 @@
   "version_signature": "ada5e833323c51efdf469d1edc4fee2a236fcd252bde7a9f51dce35b22099063"
  },
  "admrul:school:2100912": {
-  "attempts": 11,
+  "attempt_run": "01a173a4-152",
+  "attempts": 12,
   "body_stats": {
    "articles": 52,
    "chars": 17229
@@ -198602,8 +198605,8 @@
   "enforcement_date": "20260101",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-18T15:14:26.384581+00:00",
-  "last_collected_at": "2026-10-18T15:14:28.239063+00:00",
+  "last_checked_at": "2026-10-25T15:18:15.975789+00:00",
+  "last_collected_at": "2026-10-25T15:18:18.667518+00:00",
   "last_error": "별표/첨부 파일 4건 다운로드 실패: 별표/별표2_정규임용을 위한 평가서(제15조제2항 관련).hwp, 별표/별표3_임용하려는 결원 수에 대한 승진임용 범위.hwp, 별표/별표5_휴직자 복무상황 신고서.hwp",
   "last_seen_at": "2026-10-25T15:11:47.815625+00:00",
   "ministry": "서울대학교",
@@ -198612,6 +198615,7 @@
   "payload_law_id": "2100912",
   "prev_name": null,
   "promulgation_date": "20251223",
+  "sanity_hold": null,
   "status": "failed",
   "version_count": 1,
   "version_signature": "b6d4b49c52eefb5fecf611e13ed1472149de6f870e392def117561c9f005c4a6"
@@ -201243,13 +201247,13 @@
   "version_signature": "f9a3af3d4f4c5cacd66aebe53c05f4bdb54b33e54eaa223343bd5c5f1cf0939b"
  },
  "admrul:school:2107457": {
-  "attempt_run": "01a1739e-2ff",
-  "attempts": 1,
+  "attempt_run": "01a173a4-154",
+  "attempts": 0,
   "body_stats": {
    "articles": 14,
    "chars": 3480
   },
-  "collected_signature": null,
+  "collected_signature": "0d839344e87c2ef28b25ef3063cc81f5e45b4ec18d5d1dca1bba44132af49dfa",
   "content_hash": "a9e133b9685bad478a143befbaa38075a685c5dcf836a0d2b155a5f2dadb6051",
   "detail_link": "/DRF/lawService.do?OC=test&target=school&ID=2200000161139&type=HTML&mobileYn=",
   "doc_domain": "admrul",
@@ -201258,10 +201262,10 @@
   "doc_type": "학교규정",
   "emitted_signature": "0de911ca24f436fc8c1dde869d120fb150af3c4cadedaa39da3adb8efc5dccb0",
   "enforcement_date": "20261023",
-  "export_pending": true,
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-25T15:12:01.954897+00:00",
-  "last_collected_at": "2026-10-25T15:12:09.829260+00:00",
+  "last_checked_at": "2026-10-25T15:18:16.708837+00:00",
+  "last_collected_at": "2026-10-25T15:18:19.914869+00:00",
   "last_git_error": "git commit 실패(rc=128) /workspace/law_ai/data/SCHLPUBRUL :: 충남대학교 학ㆍ석사 연계과정 운영규정 — ex.lock': File exists.\n\nAnother git process seems to be running in this repository, e.g.\nan editor opened by 'git commit'. Please make sure all processes\nare terminated then try again. If it still fails, a git process\nmay have crashed in this repository earlier:\nremove the file manually to continue.",
   "last_git_error_at": "2026-10-25T15:14:39.208190+00:00",
   "last_seen_at": "2026-10-25T15:11:47.815625+00:00",
@@ -201269,6 +201273,7 @@
   "mst": "2200000161139",
   "name": "충남대학교 학ㆍ석사 연계과정 운영규정",
   "payload_law_id": "2107457",
+  "prev_name": null,
   "promulgation_date": "20261023",
   "sanity_hold": null,
   "status": "done",
@@ -301664,7 +301669,8 @@
   "version_signature": "9ca70e1eeb31c027f13df8bb02527ba7750bb8b5a379b8d00a1e5d594707551b"
  },
  "admrul:school:2141607": {
-  "attempts": 10,
+  "attempt_run": "01a173a4-155",
+  "attempts": 11,
   "detail_link": "/DRF/lawService.do?OC=test&target=school&ID=2200000159813&type=HTML&mobileYn=",
   "doc_domain": "admrul",
   "doc_id": "2141607",
@@ -301672,7 +301678,7 @@
   "doc_type": "학교지침",
   "enforcement_date": "20260603",
   "is_active": true,
-  "last_checked_at": "2026-10-18T15:14:26.576315+00:00",
+  "last_checked_at": "2026-10-25T15:18:19.556890+00:00",
   "last_error": "Child Workflow execution failed",
   "last_seen_at": "2026-10-25T15:11:47.815625+00:00",
   "ministry": "인천대학교",
