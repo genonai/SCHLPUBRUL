@@ -158,7 +158,23 @@
             "target_git_path": "건강보험심사평가원 정관/건강보험심사평가원 정관.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_doc_kind": "공단정관",
+            "target_candidate_paths": [
+              {
+                "git_path": "건강보험심사평가원 정관/pi_2115223/건강보험심사평가원 정관.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2115223#JO0011",
+                "is_current": true,
+                "enforcement_date": "20250124"
+              },
+              {
+                "git_path": "건강보험심사평가원 정관/pi_2142085/건강보험심사평가원 정관.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#JO0011",
+                "is_current": true,
+                "enforcement_date": "20250124"
+              }
+            ]
           }
         ],
         "images": [],

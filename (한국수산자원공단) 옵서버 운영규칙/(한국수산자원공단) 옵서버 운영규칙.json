@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:(한국수산자원공단)옵서버운영규칙#JO0001",
             "reference_id": "law:원양산업발전법#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "원양산업발전법/법률/원양산업발전법.json"
+            "target_git_path_guess": "원양산업발전법/법률/원양산업발전법.json",
+            "target_git_path": "원양산업발전법/법률/원양산업발전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -85,7 +87,9 @@
             "source_provision_id": "SchlPubRul:(한국수산자원공단)옵서버운영규칙#JO0001",
             "reference_id": "law:원양산업발전법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "원양산업발전법/시행령/원양산업발전법 시행령.json"
+            "target_git_path_guess": "원양산업발전법/시행령/원양산업발전법 시행령.json",
+            "target_git_path": "원양산업발전법/시행령/원양산업발전법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -105,7 +109,9 @@
             "source_provision_id": "SchlPubRul:(한국수산자원공단)옵서버운영규칙#JO0001",
             "reference_id": "law:원양산업발전법시행령#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "원양산업발전법/시행령/원양산업발전법 시행령.json"
+            "target_git_path_guess": "원양산업발전법/시행령/원양산업발전법 시행령.json",
+            "target_git_path": "원양산업발전법/시행령/원양산업발전법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -137,7 +143,9 @@
             "source_provision_id": "SchlPubRul:(한국수산자원공단)옵서버운영규칙#JO0002",
             "reference_id": "law:원양산업발전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "원양산업발전법/법률/원양산업발전법.json"
+            "target_git_path_guess": "원양산업발전법/법률/원양산업발전법.json",
+            "target_git_path": "원양산업발전법/법률/원양산업발전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -157,7 +165,9 @@
             "source_provision_id": "SchlPubRul:(한국수산자원공단)옵서버운영규칙#JO0002",
             "reference_id": "law:원양산업발전법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "원양산업발전법/법률/원양산업발전법.json"
+            "target_git_path_guess": "원양산업발전법/법률/원양산업발전법.json",
+            "target_git_path": "원양산업발전법/법률/원양산업발전법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -189,7 +199,9 @@
             "source_provision_id": "SchlPubRul:(한국수산자원공단)옵서버운영규칙#JO0003",
             "reference_id": "law:원양산업발전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "원양산업발전법/법률/원양산업발전법.json"
+            "target_git_path_guess": "원양산업발전법/법률/원양산업발전법.json",
+            "target_git_path": "원양산업발전법/법률/원양산업발전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -209,7 +221,9 @@
             "source_provision_id": "SchlPubRul:(한국수산자원공단)옵서버운영규칙#JO0003",
             "reference_id": "law:원양산업발전법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "원양산업발전법/법률/원양산업발전법.json"
+            "target_git_path_guess": "원양산업발전법/법률/원양산업발전법.json",
+            "target_git_path": "원양산업발전법/법률/원양산업발전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -229,7 +243,11 @@
             "source_provision_id": "SchlPubRul:(한국수산자원공단)옵서버운영규칙#JO0003",
             "reference_id": "admrul:공해저층어업에관한UN결의사항이행에관한고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공해 저층어업에 관한 UN 결의사항 이행에 관한 고시/공해 저층어업에 관한 UN 결의사항 이행에 관한 고시.json"
+            "target_git_path_guess": "공해 저층어업에 관한 UN 결의사항 이행에 관한 고시/공해 저층어업에 관한 UN 결의사항 이행에 관한 고시.json",
+            "target_git_path": "공해 저층어업에 관한 UN 결의사항 이행에 관한 고시/공해 저층어업에 관한 UN 결의사항 이행에 관한 고시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -249,7 +267,11 @@
             "source_provision_id": "SchlPubRul:(한국수산자원공단)옵서버운영규칙#JO0003",
             "reference_id": "admrul:공해저층어업에관한UN결의사항이행에관한고시#JO0009",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공해 저층어업에 관한 UN 결의사항 이행에 관한 고시/공해 저층어업에 관한 UN 결의사항 이행에 관한 고시.json"
+            "target_git_path_guess": "공해 저층어업에 관한 UN 결의사항 이행에 관한 고시/공해 저층어업에 관한 UN 결의사항 이행에 관한 고시.json",
+            "target_git_path": "공해 저층어업에 관한 UN 결의사항 이행에 관한 고시/공해 저층어업에 관한 UN 결의사항 이행에 관한 고시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -281,7 +303,9 @@
             "source_provision_id": "SchlPubRul:(한국수산자원공단)옵서버운영규칙#JO0004",
             "reference_id": "law:고등교육법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고등교육법/법률/고등교육법.json"
+            "target_git_path_guess": "고등교육법/법률/고등교육법.json",
+            "target_git_path": "고등교육법/법률/고등교육법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -301,7 +325,9 @@
             "source_provision_id": "SchlPubRul:(한국수산자원공단)옵서버운영규칙#JO0004",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -321,7 +347,9 @@
             "source_provision_id": "SchlPubRul:(한국수산자원공단)옵서버운영규칙#JO0004",
             "reference_id": "law:국가공무원법#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -341,7 +369,9 @@
             "source_provision_id": "SchlPubRul:(한국수산자원공단)옵서버운영규칙#JO0004",
             "reference_id": "law:병역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "병역법/법률/병역법.json"
+            "target_git_path_guess": "병역법/법률/병역법.json",
+            "target_git_path": "병역법/법률/병역법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -361,7 +391,9 @@
             "source_provision_id": "SchlPubRul:(한국수산자원공단)옵서버운영규칙#JO0004",
             "reference_id": "law:병역법#JO0076",
             "target_repo": "LAW",
-            "target_git_path_guess": "병역법/법률/병역법.json"
+            "target_git_path_guess": "병역법/법률/병역법.json",
+            "target_git_path": "병역법/법률/병역법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -470,7 +502,9 @@
             "source_provision_id": "SchlPubRul:(한국수산자원공단)옵서버운영규칙#JO0012",
             "reference_id": "law:도로교통법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "도로교통법/법률/도로교통법.json"
+            "target_git_path_guess": "도로교통법/법률/도로교통법.json",
+            "target_git_path": "도로교통법/법률/도로교통법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -490,7 +524,9 @@
             "source_provision_id": "SchlPubRul:(한국수산자원공단)옵서버운영규칙#JO0012",
             "reference_id": "law:도로교통법#JO0044",
             "target_repo": "LAW",
-            "target_git_path_guess": "도로교통법/법률/도로교통법.json"
+            "target_git_path_guess": "도로교통법/법률/도로교통법.json",
+            "target_git_path": "도로교통법/법률/도로교통법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -510,7 +546,9 @@
             "source_provision_id": "SchlPubRul:(한국수산자원공단)옵서버운영규칙#JO0012",
             "reference_id": "law:성폭력범죄의처벌등에관한특례법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json"
+            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
+            "target_git_path": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -530,7 +568,9 @@
             "source_provision_id": "SchlPubRul:(한국수산자원공단)옵서버운영규칙#JO0012",
             "reference_id": "law:성폭력범죄의처벌등에관한특례법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json"
+            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
+            "target_git_path": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -550,7 +590,9 @@
             "source_provision_id": "SchlPubRul:(한국수산자원공단)옵서버운영규칙#JO0012",
             "reference_id": "law:아동청소년의성보호에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "아동청소년의 성보호에 관한 법률/법률/아동청소년의 성보호에 관한 법률.json"
+            "target_git_path_guess": "아동청소년의 성보호에 관한 법률/법률/아동청소년의 성보호에 관한 법률.json",
+            "target_git_path": "아동ㆍ청소년의 성보호에 관한 법률/법률/아동ㆍ청소년의 성보호에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -570,7 +612,9 @@
             "source_provision_id": "SchlPubRul:(한국수산자원공단)옵서버운영규칙#JO0012",
             "reference_id": "law:아동청소년의성보호에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "아동청소년의 성보호에 관한 법률/법률/아동청소년의 성보호에 관한 법률.json"
+            "target_git_path_guess": "아동청소년의 성보호에 관한 법률/법률/아동청소년의 성보호에 관한 법률.json",
+            "target_git_path": "아동ㆍ청소년의 성보호에 관한 법률/법률/아동ㆍ청소년의 성보호에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -624,7 +668,9 @@
             "source_provision_id": "SchlPubRul:(한국수산자원공단)옵서버운영규칙#JO0015",
             "reference_id": "law:의료법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "의료법/법률/의료법.json"
+            "target_git_path_guess": "의료법/법률/의료법.json",
+            "target_git_path": "의료법/법률/의료법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -656,7 +702,9 @@
             "source_provision_id": "SchlPubRul:(한국수산자원공단)옵서버운영규칙#JO0016",
             "reference_id": "law:원양산업발전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "원양산업발전법/법률/원양산업발전법.json"
+            "target_git_path_guess": "원양산업발전법/법률/원양산업발전법.json",
+            "target_git_path": "원양산업발전법/법률/원양산업발전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -676,7 +724,9 @@
             "source_provision_id": "SchlPubRul:(한국수산자원공단)옵서버운영규칙#JO0016",
             "reference_id": "law:원양산업발전법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "원양산업발전법/법률/원양산업발전법.json"
+            "target_git_path_guess": "원양산업발전법/법률/원양산업발전법.json",
+            "target_git_path": "원양산업발전법/법률/원양산업발전법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -774,7 +824,9 @@
             "source_provision_id": "SchlPubRul:(한국수산자원공단)옵서버운영규칙#JO0023",
             "reference_id": "law:병역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "병역법/법률/병역법.json"
+            "target_git_path_guess": "병역법/법률/병역법.json",
+            "target_git_path": "병역법/법률/병역법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

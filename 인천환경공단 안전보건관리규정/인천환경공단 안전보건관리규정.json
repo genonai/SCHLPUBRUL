@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0001",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -97,7 +99,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0002",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -117,7 +121,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0002",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -137,7 +143,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0002",
             "reference_id": "law:근로기준법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -157,7 +165,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0002",
             "reference_id": "law:산업안전보건기준에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -222,7 +232,11 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0006",
             "reference_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0029",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json"
+            "target_git_path_guess": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json",
+            "target_git_path": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -247,7 +261,12 @@
             "target_unit": "BYL0004",
             "reference_id": "SchlPubRul:인천환경공단안전보건관리규정#BYL0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json"
+            "target_git_path_guess": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json",
+            "target_git_path": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json",
+            "target_git_file_path": "인천환경공단 안전보건관리규정/별표/별표4_안전 다짐 착공식(제 6조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -295,7 +314,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:인천환경공단안전보건관리규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json"
+            "target_git_path_guess": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json",
+            "target_git_path": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json",
+            "target_git_file_path": "인천환경공단 안전보건관리규정/별표/별표1_안전보건관리 조직.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -327,7 +351,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0008",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -347,7 +373,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0008",
             "reference_id": "law:산업안전보건법#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -367,7 +395,11 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0008",
             "reference_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json"
+            "target_git_path_guess": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json",
+            "target_git_path": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -387,7 +419,11 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0008",
             "reference_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json"
+            "target_git_path_guess": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json",
+            "target_git_path": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -419,7 +455,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0009",
             "reference_id": "law:산업안전보건법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -439,7 +477,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0009",
             "reference_id": "law:산업안전보건법시행령#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -459,7 +499,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0009",
             "reference_id": "law:산업안전보건기준에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -479,7 +521,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0009",
             "reference_id": "law:산업안전보건기준에관한규칙#JO0035",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -511,7 +555,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0010",
             "reference_id": "law:산업안전보건법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -531,7 +577,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0010",
             "reference_id": "law:산업안전보건법시행령#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -551,7 +599,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0010",
             "reference_id": "law:산업안전보건법#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -583,7 +633,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0011",
             "reference_id": "law:산업안전보건법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -603,7 +655,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0011",
             "reference_id": "law:산업안전보건법시행령#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -623,7 +677,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0011",
             "reference_id": "law:산업안전보건법#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -655,7 +711,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0012",
             "reference_id": "law:산업안전보건법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -675,7 +733,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0012",
             "reference_id": "law:산업안전보건법시행령#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -695,7 +755,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0012",
             "reference_id": "law:산업안전보건법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -738,7 +800,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0013",
             "reference_id": "law:의료법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "의료법/법률/의료법.json"
+            "target_git_path_guess": "의료법/법률/의료법.json",
+            "target_git_path": "의료법/법률/의료법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -758,7 +822,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0013",
             "reference_id": "law:의료법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "의료법/법률/의료법.json"
+            "target_git_path_guess": "의료법/법률/의료법.json",
+            "target_git_path": "의료법/법률/의료법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -778,7 +844,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0013",
             "reference_id": "law:산업안전보건법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -798,7 +866,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0013",
             "reference_id": "law:산업안전보건법시행령#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -830,7 +900,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0014",
             "reference_id": "law:산업안전보건법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -850,7 +922,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0014",
             "reference_id": "law:산업안전보건법시행령#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -909,7 +983,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:인천환경공단안전보건관리규정#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json"
+            "target_git_path_guess": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json",
+            "target_git_path": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json",
+            "target_git_file_path": "인천환경공단 안전보건관리규정/별표/별표2_안전보건 교육일지.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -929,7 +1008,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0015",
             "reference_id": "law:산업안전보건법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -949,7 +1030,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0015",
             "reference_id": "law:산업안전보건법시행규칙#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -974,7 +1057,12 @@
             "target_unit": "BYL0004",
             "reference_id": "SchlPubRul:인천환경공단안전보건관리규정#BYL0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json"
+            "target_git_path_guess": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json",
+            "target_git_path": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json",
+            "target_git_file_path": "인천환경공단 안전보건관리규정/별표/별표4_안전 다짐 착공식(제 6조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -999,7 +1087,12 @@
             "target_unit": "ATT0005",
             "reference_id": "SchlPubRul:인천환경공단안전보건관리규정#ATT0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json"
+            "target_git_path_guess": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json",
+            "target_git_path": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json",
+            "target_git_file_path": "인천환경공단 안전보건관리규정/붙임/붙임5_안전보건협의체 운영일지.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1031,7 +1124,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0016",
             "reference_id": "law:산업안전보건법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1051,7 +1146,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0016",
             "reference_id": "law:산업안전보건법시행규칙#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1083,7 +1180,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0017",
             "reference_id": "law:산업안전보건법#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1103,7 +1202,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0017",
             "reference_id": "law:산업안전보건법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1123,7 +1224,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0017",
             "reference_id": "law:산업안전보건법시행규칙#JO0030",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1155,7 +1258,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0018",
             "reference_id": "law:산업안전보건법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1175,7 +1280,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0018",
             "reference_id": "law:산업안전보건법시행규칙#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1200,7 +1307,12 @@
             "target_unit": "ATT0005",
             "reference_id": "SchlPubRul:인천환경공단안전보건관리규정#ATT0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json"
+            "target_git_path_guess": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json",
+            "target_git_path": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json",
+            "target_git_file_path": "인천환경공단 안전보건관리규정/붙임/붙임5_안전보건협의체 운영일지.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -1265,7 +1377,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0021",
             "reference_id": "law:산업안전보건법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1285,7 +1399,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0021",
             "reference_id": "law:산업안전보건법시행규칙#JO0038",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1317,7 +1433,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0022",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1337,7 +1455,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0022",
             "reference_id": "law:산업안전보건법#JO0080",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1369,7 +1489,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0023",
             "reference_id": "law:산업안전보건법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1389,7 +1511,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0023",
             "reference_id": "law:산업안전보건법시행규칙#JO0125",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1409,7 +1533,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0023",
             "reference_id": "law:산업안전보건법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1429,7 +1555,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0023",
             "reference_id": "law:산업안전보건법시행령#JO0078",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1449,7 +1577,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0023",
             "reference_id": "law:산업안전보건법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1469,7 +1599,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0023",
             "reference_id": "law:산업안전보건법시행규칙#JO0126",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1512,7 +1644,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0025",
             "reference_id": "law:산업안전보건기준에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1537,7 +1671,10 @@
             "target_unit": "BYL0001",
             "reference_id": "law:산업안전보건기준에관한규칙#BYL0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_file_path": "산업안전보건기준에 관한 규칙/법률/별표/별표1_위험물질의 종류(제16조ㆍ제17조 및 제225조 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1569,7 +1706,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0026",
             "reference_id": "law:산업안전보건법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1589,7 +1728,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0026",
             "reference_id": "law:산업안전보건법시행규칙#JO0167",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1609,7 +1750,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0026",
             "reference_id": "law:산업안전보건법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1629,7 +1772,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0026",
             "reference_id": "law:산업안전보건법시행규칙#JO0170",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1649,7 +1794,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0026",
             "reference_id": "law:산업안전보건법#JO0114",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1669,7 +1816,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0026",
             "reference_id": "law:산업안전보건법#JO0115",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1745,7 +1894,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0030",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1765,7 +1916,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0030",
             "reference_id": "law:산업안전보건법#JO0129",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1785,7 +1938,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0030",
             "reference_id": "law:산업안전보건법#JO0130",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1805,7 +1960,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0030",
             "reference_id": "law:산업안전보건법#JO0131",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1837,7 +1994,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0031",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1857,7 +2016,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0031",
             "reference_id": "law:산업안전보건법#JO0125",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1877,7 +2038,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0031",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1897,7 +2060,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0031",
             "reference_id": "law:산업안전보건법#JO0125",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1929,7 +2094,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0032",
             "reference_id": "law:산업안전보건기준에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1949,7 +2116,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0032",
             "reference_id": "law:산업안전보건기준에관한규칙#JO0656",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2003,7 +2172,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0035",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2023,7 +2194,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0035",
             "reference_id": "law:산업안전보건법#JO0138",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2055,7 +2228,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0036",
             "reference_id": "law:산업안전보건법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2075,7 +2250,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0036",
             "reference_id": "law:산업안전보건법시행령#JO0099",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2095,7 +2272,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0036",
             "reference_id": "law:산업안전보건법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2115,7 +2294,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0036",
             "reference_id": "law:산업안전보건법시행령#JO0099",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2152,7 +2333,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:인천환경공단안전보건관리규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json"
+            "target_git_path_guess": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json",
+            "target_git_path": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json",
+            "target_git_file_path": "인천환경공단 안전보건관리규정/별표/별표1_안전보건관리 조직.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -2177,7 +2363,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:인천환경공단안전보건관리규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json"
+            "target_git_path_guess": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json",
+            "target_git_path": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json",
+            "target_git_file_path": "인천환경공단 안전보건관리규정/별표/별표1_안전보건관리 조직.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -2214,7 +2405,12 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:인천환경공단안전보건관리규정#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json"
+            "target_git_path_guess": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json",
+            "target_git_path": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json",
+            "target_git_file_path": "인천환경공단 안전보건관리규정/별표/별표3_산업재해 발생 시 업무처리 구분.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -2234,7 +2430,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0038",
             "reference_id": "law:산업재해보상보험법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업재해보상보험법/법률/산업재해보상보험법.json"
+            "target_git_path_guess": "산업재해보상보험법/법률/산업재해보상보험법.json",
+            "target_git_path": "산업재해보상보험법/법률/산업재해보상보험법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2266,7 +2464,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0039",
             "reference_id": "law:산업안전보건법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2286,7 +2486,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0039",
             "reference_id": "law:산업안전보건법시행규칙#JO0067",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json"
+            "target_git_path_guess": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_git_path": "산업안전보건법/시행규칙/산업안전보건법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2329,7 +2531,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0040_02",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2349,7 +2553,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0040_02",
             "reference_id": "law:산업안전보건법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2369,7 +2575,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0040_02",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2389,7 +2597,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0040_02",
             "reference_id": "law:산업안전보건법#JO0044",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2409,7 +2619,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0040_02",
             "reference_id": "law:시설물의안전및유지관리에관한특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "시설물의 안전 및 유지관리에 관한 특별법/법률/시설물의 안전 및 유지관리에 관한 특별법.json"
+            "target_git_path_guess": "시설물의 안전 및 유지관리에 관한 특별법/법률/시설물의 안전 및 유지관리에 관한 특별법.json",
+            "target_git_path": "시설물의 안전 및 유지관리에 관한 특별법/법률/시설물의 안전 및 유지관리에 관한 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2429,7 +2641,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0040_02",
             "reference_id": "law:시설물의안전및유지관리에관한특별법#JO0058",
             "target_repo": "LAW",
-            "target_git_path_guess": "시설물의 안전 및 유지관리에 관한 특별법/법률/시설물의 안전 및 유지관리에 관한 특별법.json"
+            "target_git_path_guess": "시설물의 안전 및 유지관리에 관한 특별법/법률/시설물의 안전 및 유지관리에 관한 특별법.json",
+            "target_git_path": "시설물의 안전 및 유지관리에 관한 특별법/법률/시설물의 안전 및 유지관리에 관한 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2449,7 +2663,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0040_02",
             "reference_id": "law:중대재해처벌등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중대재해 처벌 등에 관한 법률/법률/중대재해 처벌 등에 관한 법률.json"
+            "target_git_path_guess": "중대재해 처벌 등에 관한 법률/법률/중대재해 처벌 등에 관한 법률.json",
+            "target_git_path": "중대재해 처벌 등에 관한 법률/법률/중대재해 처벌 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2469,7 +2685,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0040_02",
             "reference_id": "law:중대재해처벌등에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "중대재해 처벌 등에 관한 법률/법률/중대재해 처벌 등에 관한 법률.json"
+            "target_git_path_guess": "중대재해 처벌 등에 관한 법률/법률/중대재해 처벌 등에 관한 법률.json",
+            "target_git_path": "중대재해 처벌 등에 관한 법률/법률/중대재해 처벌 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2489,7 +2707,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0040_02",
             "reference_id": "law:연구실안전환경조성에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "연구실 안전환경 조성에 관한 법률/법률/연구실 안전환경 조성에 관한 법률.json"
+            "target_git_path_guess": "연구실 안전환경 조성에 관한 법률/법률/연구실 안전환경 조성에 관한 법률.json",
+            "target_git_path": "연구실 안전환경 조성에 관한 법률/법률/연구실 안전환경 조성에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2509,7 +2729,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0040_02",
             "reference_id": "law:연구실안전환경조성에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "연구실 안전환경 조성에 관한 법률/법률/연구실 안전환경 조성에 관한 법률.json"
+            "target_git_path_guess": "연구실 안전환경 조성에 관한 법률/법률/연구실 안전환경 조성에 관한 법률.json",
+            "target_git_path": "연구실 안전환경 조성에 관한 법률/법률/연구실 안전환경 조성에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2640,7 +2862,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0048",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2660,7 +2884,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0048",
             "reference_id": "law:산업안전보건법#JO0118",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2692,7 +2918,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0049",
             "reference_id": "law:산업안전보건법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2712,7 +2940,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0049",
             "reference_id": "law:산업안전보건법시행령#JO0051",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2744,7 +2974,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0050",
             "reference_id": "law:산업안전보건법#JO0064",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2764,7 +2996,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0050",
             "reference_id": "law:산업안전보건법#JO0065",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2784,7 +3018,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0050",
             "reference_id": "law:산업안전보건법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2804,7 +3040,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0050",
             "reference_id": "law:산업안전보건법시행령#JO0054",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json"
+            "target_git_path_guess": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_git_path": "산업안전보건법/시행령/산업안전보건법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -2946,7 +3184,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0060",
             "reference_id": "law:시설물의안전및유지관리에관한특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "시설물의 안전 및 유지관리에 관한 특별법/법률/시설물의 안전 및 유지관리에 관한 특별법.json"
+            "target_git_path_guess": "시설물의 안전 및 유지관리에 관한 특별법/법률/시설물의 안전 및 유지관리에 관한 특별법.json",
+            "target_git_path": "시설물의 안전 및 유지관리에 관한 특별법/법률/시설물의 안전 및 유지관리에 관한 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2966,7 +3206,9 @@
             "source_provision_id": "SchlPubRul:인천환경공단안전보건관리규정#JO0060",
             "reference_id": "law:지속가능한기반시설관리기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json"
+            "target_git_path_guess": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json",
+            "target_git_path": "지속가능한 기반시설 관리 기본법/법률/지속가능한 기반시설 관리 기본법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -3003,7 +3245,12 @@
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:인천환경공단안전보건관리규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json"
+            "target_git_path_guess": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json",
+            "target_git_path": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json",
+            "target_git_file_path": "인천환경공단 안전보건관리규정/별표/별표1_안전보건관리 조직.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -3028,7 +3275,12 @@
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:인천환경공단안전보건관리규정#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json"
+            "target_git_path_guess": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json",
+            "target_git_path": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json",
+            "target_git_file_path": "인천환경공단 안전보건관리규정/별표/별표2_안전보건 교육일지.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -3053,7 +3305,12 @@
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:인천환경공단안전보건관리규정#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json"
+            "target_git_path_guess": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json",
+            "target_git_path": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json",
+            "target_git_file_path": "인천환경공단 안전보건관리규정/별표/별표3_산업재해 발생 시 업무처리 구분.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -3078,7 +3335,12 @@
             "target_unit": "BYL0004",
             "reference_id": "SchlPubRul:인천환경공단안전보건관리규정#BYL0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json"
+            "target_git_path_guess": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json",
+            "target_git_path": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json",
+            "target_git_file_path": "인천환경공단 안전보건관리규정/별표/별표4_안전 다짐 착공식(제 6조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -3103,7 +3365,12 @@
             "target_unit": "ATT0001",
             "reference_id": "SchlPubRul:인천환경공단안전보건관리규정#ATT0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json"
+            "target_git_path_guess": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json",
+            "target_git_path": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json",
+            "target_git_file_path": "인천환경공단 안전보건관리규정/붙임/붙임1_공사현황판 양식.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -3128,7 +3395,12 @@
             "target_unit": "ATT0002",
             "reference_id": "SchlPubRul:인천환경공단안전보건관리규정#ATT0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json"
+            "target_git_path_guess": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json",
+            "target_git_path": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json",
+            "target_git_file_path": "인천환경공단 안전보건관리규정/붙임/붙임2_안전작업 현황판 양식.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -3153,7 +3425,12 @@
             "target_unit": "ATT0003",
             "reference_id": "SchlPubRul:인천환경공단안전보건관리규정#ATT0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json"
+            "target_git_path_guess": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json",
+            "target_git_path": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json",
+            "target_git_file_path": "인천환경공단 안전보건관리규정/붙임/붙임3_작업허가서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -3178,7 +3455,12 @@
             "target_unit": "ATT0004",
             "reference_id": "SchlPubRul:인천환경공단안전보건관리규정#ATT0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json"
+            "target_git_path_guess": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json",
+            "target_git_path": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json",
+            "target_git_file_path": "인천환경공단 안전보건관리규정/붙임/붙임4_밀폐공간 작업허가서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -3203,7 +3485,12 @@
             "target_unit": "ATT0005",
             "reference_id": "SchlPubRul:인천환경공단안전보건관리규정#ATT0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json"
+            "target_git_path_guess": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json",
+            "target_git_path": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json",
+            "target_git_file_path": "인천환경공단 안전보건관리규정/붙임/붙임5_안전보건협의체 운영일지.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -3228,7 +3515,12 @@
             "target_unit": "ATT0006",
             "reference_id": "SchlPubRul:인천환경공단안전보건관리규정#ATT0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json"
+            "target_git_path_guess": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json",
+            "target_git_path": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json",
+            "target_git_file_path": "인천환경공단 안전보건관리규정/붙임/붙임6_작업 전 안전점검 회의(TBM).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -3253,7 +3545,12 @@
             "target_unit": "ATT0007",
             "reference_id": "SchlPubRul:인천환경공단안전보건관리규정#ATT0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json"
+            "target_git_path_guess": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json",
+            "target_git_path": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json",
+            "target_git_file_path": "인천환경공단 안전보건관리규정/붙임/붙임7_특별안전교육 일지.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -3278,7 +3575,12 @@
             "target_unit": "ATT0008",
             "reference_id": "SchlPubRul:인천환경공단안전보건관리규정#ATT0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json"
+            "target_git_path_guess": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json",
+            "target_git_path": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json",
+            "target_git_file_path": "인천환경공단 안전보건관리규정/붙임/붙임8_안전보건교육 참석자 명단.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -3303,7 +3605,12 @@
             "target_unit": "ATT0009",
             "reference_id": "SchlPubRul:인천환경공단안전보건관리규정#ATT0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json"
+            "target_git_path_guess": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json",
+            "target_git_path": "인천환경공단 안전보건관리규정/인천환경공단 안전보건관리규정.json",
+            "target_git_file_path": "인천환경공단 안전보건관리규정/붙임/붙임9_작업장 안전점검표(순회점검, 합동점검).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
