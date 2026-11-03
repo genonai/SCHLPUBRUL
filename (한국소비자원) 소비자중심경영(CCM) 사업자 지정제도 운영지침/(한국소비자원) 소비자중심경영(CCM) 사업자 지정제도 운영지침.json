@@ -76,7 +76,9 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)소비자중심경영(CCM)사업자지정제도운영지침#JO0002",
             "reference_id": "law:소비자기본법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소비자기본법/시행령/소비자기본법시행령.json"
+            "target_git_path_guess": "소비자기본법/시행령/소비자기본법시행령.json",
+            "target_git_path": "소비자기본법/시행령/소비자기본법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -96,7 +98,11 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)소비자중심경영(CCM)사업자지정제도운영지침#JO0002",
             "reference_id": "admrul:소비자중심경영(CCM)사업자지정제도운영심사에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "소비자중심경영(CCM) 사업자 지정제도 운영ㆍ심사에 관한 규정/소비자중심경영(CCM) 사업자 지정제도 운영ㆍ심사에 관한 규정.json"
+            "target_git_path_guess": "소비자중심경영(CCM) 사업자 지정제도 운영ㆍ심사에 관한 규정/소비자중심경영(CCM) 사업자 지정제도 운영ㆍ심사에 관한 규정.json",
+            "target_git_path": "소비자중심경영(CCM) 사업자 지정제도 운영·심사에 관한 규정/소비자중심경영(CCM) 사업자 지정제도 운영·심사에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -116,7 +122,11 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)소비자중심경영(CCM)사업자지정제도운영지침#JO0002",
             "reference_id": "admrul:소비자중심경영(CCM)사업자지정취소에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "소비자중심경영(CCM) 사업자 지정 취소에 관한 규정/소비자중심경영(CCM) 사업자 지정 취소에 관한 규정.json"
+            "target_git_path_guess": "소비자중심경영(CCM) 사업자 지정 취소에 관한 규정/소비자중심경영(CCM) 사업자 지정 취소에 관한 규정.json",
+            "target_git_path": "소비자중심경영(CCM) 사업자 지정 취소에 관한 규정/소비자중심경영(CCM) 사업자 지정 취소에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -269,7 +279,9 @@
             "source_provision_id": "SchlPubRul:(한국소비자원)소비자중심경영(CCM)사업자지정제도운영지침#JO0012_03",
             "reference_id": "law:공직자의이해충돌방지법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공직자의 이해충돌 방지법/법률/공직자의 이해충돌 방지법.json"
+            "target_git_path_guess": "공직자의 이해충돌 방지법/법률/공직자의 이해충돌 방지법.json",
+            "target_git_path": "공직자의 이해충돌 방지법/법률/공직자의 이해충돌 방지법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
