@@ -120340,13 +120340,13 @@
   "version_signature": "caaba79faef0424181e09b3beb4cadcde59693a12864948a072cf564e80eb664"
  },
  "admrul:public:2125855": {
-  "attempt_run": "01a1a23a-2c0",
-  "attempts": 1,
+  "attempt_run": "01a1a240-9a7",
+  "attempts": 0,
   "body_stats": {
    "articles": 12,
    "chars": 3013
   },
-  "collected_signature": null,
+  "collected_signature": "a19cbbc810f47f53cd9a328e61e004cb051048c68915c619434c01b6fa84d677",
   "content_hash": "6a48c4da3c8563f5e5399038372c7153f1bc79c31006fc7996f29d80abf98340",
   "detail_link": "/DRF/lawService.do?OC=test&target=public&ID=2200000161409&type=HTML&mobileYn=",
   "doc_domain": "admrul",
@@ -120355,10 +120355,10 @@
   "doc_type": "공단규정",
   "emitted_signature": "bc6bcbb2c0bfefe35be0202344b9fa60e741714e95413100b7bad6b06df8169d",
   "enforcement_date": "20260807",
-  "export_pending": true,
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-11-03T16:24:53.196817+00:00",
-  "last_collected_at": "2026-11-03T16:25:19.556175+00:00",
+  "last_checked_at": "2026-11-03T16:31:45.602108+00:00",
+  "last_collected_at": "2026-11-03T16:31:51.546019+00:00",
   "last_git_error": "git commit 실패(rc=128) /workspace/law_ai/data/SCHLPUBRUL :: 시흥도시공사 직제규정 — ex.lock': File exists.\n\nAnother git process seems to be running in this repository, e.g.\nan editor opened by 'git commit'. Please make sure all processes\nare terminated then try again. If it still fails, a git process\nmay have crashed in this repository earlier:\nremove the file manually to continue.",
   "last_git_error_at": "2026-11-03T16:27:31.244272+00:00",
   "last_seen_at": "2026-11-03T16:18:05.955081+00:00",
@@ -120366,6 +120366,7 @@
   "mst": "2200000161409",
   "name": "시흥도시공사 직제규정",
   "payload_law_id": "2125855",
+  "prev_name": null,
   "promulgation_date": "20260807",
   "sanity_hold": null,
   "status": "done",
