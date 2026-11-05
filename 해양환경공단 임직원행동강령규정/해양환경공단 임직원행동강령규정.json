@@ -1,6 +1,6 @@
 {
   "law_id": "2106645",
-  "mst": "2200000155899",
+  "mst": "2200000162035",
   "law_name": "해양환경공단 임직원행동강령규정",
   "law_abbr": "",
   "law_type": "공단규정",
@@ -8,10 +8,10 @@
   "doc_kind": "공단정관",
   "adm_uid": "pi:2106645",
   "promulgation_no": "9999",
-  "promulgation_date": "20251212",
-  "enforcement_date": "20251212",
-  "revision_date": "20251212",
-  "revision_type": "전부개정",
+  "promulgation_date": "20261105",
+  "enforcement_date": "20261105",
+  "revision_date": "20261105",
+  "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
     "현행여부": "Y",
@@ -19,25 +19,25 @@
     "담당자명": "하창욱",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "해양환경공단 임직원행동강령규정",
-    "발령일자": "20251212",
+    "발령일자": "20261105",
     "행정규칙종류": "공단규정",
-    "제개정구분코드": "200402",
+    "제개정구분코드": "200403",
     "조문형식여부": "Y",
     "소관부처명": "해양환경공단",
     "전화번호": "02-3498-8688",
-    "제개정구분명": "전부개정",
+    "제개정구분명": "일부개정",
     "소관부처코드": "B553931",
-    "생성일자": "20260608",
+    "생성일자": "20261119",
     "행정규칙ID": "2106645",
     "담당부서기관코드": "",
     "발령번호": "9999",
-    "행정규칙일련번호": "2200000155899"
+    "행정규칙일련번호": "2200000162035"
   },
   "amendment_text": "",
   "revision_reason": "",
   "body": {
     "format": "articles",
-    "article_count": 58,
+    "article_count": 59,
     "articles": [
       {
         "article_no": "제1조",
@@ -65,9 +65,7 @@
             "source_provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0001",
             "reference_id": "law:부패방지및국민권익위원회의설치와운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
-            "target_git_path": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -87,9 +85,7 @@
             "source_provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0001",
             "reference_id": "law:부패방지및국민권익위원회의설치와운영에관한법률#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
-            "target_git_path": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률/법률/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json"
           }
         ],
         "images": [],
@@ -122,7 +118,7 @@
         "article_title": "준수의무와 책임",
         "chapter": "제1장 총칙",
         "chapter_path": "제1장 총칙",
-        "content": "제4조(준수의무와 책임) ① 임직원은 행동강령을 숙지하고 준수하여야 하며, 위반사항에 대하여는 그에 따른 책임을 진다.② 이사장은 「부정청탁 금지 및 금품 등 수수의 금지에 관한 법령」 을 준수할 것을 약속하는 별지 제1호서식의 서약서를 신규채용을 할 때 받아야  한다.",
+        "content": "제4조(준수의무와 책임) ① 임직원은 행동강령을 숙지하고 준수하여야 하며, 위반사항에 대하여는 그에 따른 책임을 진다.② 이사장은 「부정청탁 금지 및 금품 등 수수의 금지에 관한 법령」을 준수할 것을 약속하는 별지 제1호서식의 서약서를 신규채용을 할 때 받아야  한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -135,25 +131,20 @@
             "line_text": "",
             "target_law_name": "해양환경공단 임직원행동강령규정",
             "target_article_no": "별지1",
-            "target_article_title": "부당지시의 판단기준(제6조제2항 관련)",
+            "target_article_title": "부정청탁 및 금품등 수수 금지 서약서",
             "appendix_no": "1",
             "appendix_branch": "",
             "appendix_kind": "별지",
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2106645",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000155899&bylNo=&bylBrNo=",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632813",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0004",
-            "target_unit": "BYL0001",
-            "reference_id": "SchlPubRul:해양환경공단임직원행동강령규정#BYL0001",
+            "target_unit": "BJ0001",
+            "reference_id": "SchlPubRul:해양환경공단임직원행동강령규정#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json",
-            "target_git_path": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json",
-            "target_git_file_path": "해양환경공단 임직원행동강령규정/별표/별표1_부당지시의 판단기준(제6조제2항 관련).hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json"
           }
         ],
         "images": [],
@@ -185,11 +176,7 @@
             "source_provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0005",
             "reference_id": "SchlPubRul:해양환경공단정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "해양환경공단 정관/해양환경공단 정관.json",
-            "target_git_path": "해양환경공단 정관/해양환경공단 정관.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "해양환경공단 정관/해양환경공단 정관.json"
           }
         ],
         "images": [],
@@ -220,18 +207,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2106645",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000155899&bylNo=0001&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000162035&bylNo=0001&bylBrNo=00",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0006",
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:해양환경공단임직원행동강령규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json",
-            "target_git_path": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json",
-            "target_git_file_path": "해양환경공단 임직원행동강령규정/별표/별표1_부당지시의 판단기준(제6조제2항 관련).hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -243,25 +225,20 @@
             "line_text": "",
             "target_law_name": "해양환경공단 임직원행동강령규정",
             "target_article_no": "별지2",
-            "target_article_title": "음식물·경조사비·선물 등의 가액 범위(제30조제3항 관련)",
+            "target_article_title": "공정한 직무수행을 해치는 지시에 대한 소명서",
             "appendix_no": "2",
             "appendix_branch": "",
             "appendix_kind": "별지",
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2106645",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000155899&bylNo=&bylBrNo=",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632817",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0006",
-            "target_unit": "BYL0002",
-            "reference_id": "SchlPubRul:해양환경공단임직원행동강령규정#BYL0002",
+            "target_unit": "BJ0002",
+            "reference_id": "SchlPubRul:해양환경공단임직원행동강령규정#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json",
-            "target_git_path": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json",
-            "target_git_file_path": "해양환경공단 임직원행동강령규정/별표/별표2_음식물·경조사비·선물 등의 가액 범위(제30조제3항 관련).hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -273,25 +250,20 @@
             "line_text": "",
             "target_law_name": "해양환경공단 임직원행동강령규정",
             "target_article_no": "별지3",
-            "target_article_title": "외부강의등 사례금 상한액(제37조제1항 관련)",
+            "target_article_title": "공정한 직무수행을 해치는 지시에 대한 상담요청서",
             "appendix_no": "3",
             "appendix_branch": "",
             "appendix_kind": "별지",
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2106645",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000155899&bylNo=&bylBrNo=",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632821",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0006",
-            "target_unit": "BYL0003",
-            "reference_id": "SchlPubRul:해양환경공단임직원행동강령규정#BYL0003",
+            "target_unit": "BJ0003",
+            "reference_id": "SchlPubRul:해양환경공단임직원행동강령규정#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json",
-            "target_git_path": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json",
-            "target_git_file_path": "해양환경공단 임직원행동강령규정/별표/별표3_외부강의등 사례금 상한액(제37조제1항 관련).hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -311,11 +283,7 @@
             "source_provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0006",
             "reference_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0050",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json",
-            "target_git_path": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -327,25 +295,20 @@
             "line_text": "",
             "target_law_name": "해양환경공단 임직원행동강령규정",
             "target_article_no": "별지3",
-            "target_article_title": "외부강의등 사례금 상한액(제37조제1항 관련)",
+            "target_article_title": "공정한 직무수행을 해치는 지시에 대한 상담요청서",
             "appendix_no": "3",
             "appendix_branch": "",
             "appendix_kind": "별지",
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2106645",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000155899&bylNo=&bylBrNo=",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632821",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0006",
-            "target_unit": "BYL0003",
-            "reference_id": "SchlPubRul:해양환경공단임직원행동강령규정#BYL0003",
+            "target_unit": "BJ0003",
+            "reference_id": "SchlPubRul:해양환경공단임직원행동강령규정#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json",
-            "target_git_path": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json",
-            "target_git_file_path": "해양환경공단 임직원행동강령규정/별표/별표3_외부강의등 사례금 상한액(제37조제1항 관련).hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json"
           }
         ],
         "images": [],
@@ -369,21 +332,20 @@
             "line_text": "",
             "target_law_name": "해양환경공단 임직원행동강령규정",
             "target_article_no": "별지4",
-            "target_article_title": "",
+            "target_article_title": "퇴직심사 신고서",
             "appendix_no": "4",
             "appendix_branch": "",
             "appendix_kind": "별지",
-            "appendix_found": false,
+            "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2106645",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000155899&bylNo=&bylBrNo=",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632827",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0007",
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:해양환경공단임직원행동강령규정#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json",
-            "target_missing_unit": true
+            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json"
           }
         ],
         "images": [],
@@ -415,11 +377,7 @@
             "source_provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0008",
             "reference_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json",
-            "target_git_path": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json"
           }
         ],
         "images": [],
@@ -509,21 +467,20 @@
             "line_text": "",
             "target_law_name": "해양환경공단 임직원행동강령규정",
             "target_article_no": "별지5",
-            "target_article_title": "",
+            "target_article_title": "정치인 등의 부당요구 보고(상담요청)서",
             "appendix_no": "5",
             "appendix_branch": "",
             "appendix_kind": "별지",
-            "appendix_found": false,
+            "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2106645",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000155899&bylNo=&bylBrNo=",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632839",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0015",
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:해양환경공단임직원행동강령규정#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json",
-            "target_missing_unit": true
+            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json"
           }
         ],
         "images": [],
@@ -555,11 +512,7 @@
             "source_provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0016",
             "reference_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0021",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json",
-            "target_git_path": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -579,11 +532,7 @@
             "source_provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0016",
             "reference_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0025",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json",
-            "target_git_path": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json"
           }
         ],
         "images": [],
@@ -659,11 +608,7 @@
             "source_provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0021",
             "reference_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json",
-            "target_git_path": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json"
           }
         ],
         "images": [],
@@ -695,11 +640,7 @@
             "source_provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0022",
             "reference_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0021",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json",
-            "target_git_path": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json"
           }
         ],
         "images": [],
@@ -754,7 +695,7 @@
         "article_title": "임직원의 금품등의 수수 금지",
         "chapter": "제3장 부당 이득의 수수 금지 등",
         "chapter_path": "제3장 부당 이득의 수수 금지 등",
-        "content": "제27조(임직원의 금품등의 수수 금지) ① 임직원은 직무 관련 여부 및 기부ㆍ후원ㆍ증여 등 그 명목에 관계없이 동일인으로부터 1회에 100만원 또는 한 회계연도에 300만원을 초과하는 금품등을 받거나 요구 또는 약속하여서는 아니 된다.② 임직원은 직무와 관련하여 대가성 여부를 불문하고 제1항에서 정한 금액 이하의 금품등을 받거나 요구 또는 약속하여서는 아니 된다.③ 제34조의 외부강의등에 관한 사례금 또는 다음 각 호의 어느 하나에 해당하는 금품등은 제1항 또는 제2항에서 수수(收受)를 금지하는 금품등에 해당하지 아니한다.1. 이사장이 소속 임직원이나 파견 임직원에게 지급하거나 상급자가 위로ㆍ격려ㆍ포상 등의 목적으로 하급자에게 제공하는 금품등2. 원활한 직무수행 또는 사교ㆍ의례 또는 부조의 목적으로 제공되는 음식물ㆍ경조사비ㆍ선물 등으로서 별표 2에서 정하는 가액 범위 안의 금품등3. 사적 거래(증여는 제외한다)로 인한 채무의 이행 등 정당한 권원(權原)에 따라 제공되는 금품등4. 임직원의 친족( 「민법」 제777조에 따른 친족을 말한다)이 제공하는 금품등5. 임직원과 관련된 직원상조회ㆍ동호인회ㆍ동창회ㆍ향우회ㆍ친목회ㆍ종교단체ㆍ사회단체 등이 정하는 기준에 따라 구성원에게 제공하는 금품등 및 그 소속 구성원 등 임직원과 특별히 장기적ㆍ지속적인 친분관계를 맺고 있는 자가 질병ㆍ재난 등으로 어려운 처지에 있는 임직원에게 제공하는 금품등6. 임직원의 직무와 관련된 공식적인 행사에서 주최자가 참석자에게 통상적인 범위에서 일률적으로 제공하는 교통, 숙박, 음식물 등의 금품등7. 불특정 다수인에게 배포하기 위한 기념품 또는 홍보용품 등이나 경연ㆍ추첨을 통하여 받는 보상 또는 상품 등8. 그 밖에 사회상규(社會常規)에 따라 허용되는 금품등④ 임직원은 제3항제5호에도 불구하고 같은 호에 따라 특별히 장기적ㆍ지속적인 친분관계를 맺고 있는 자가 직무관련자 또는 직무관련임직원으로서 금품등을 제공한 경우에는 그 수수 사실을 별지 제6호서식에 따라 이사장에게 신고하여야 한다.⑤ 임직원은 공단의 이익을 목적으로 직무와 관련이 있는 공무원 또는 정치인 등에게 금품등을 제공하거나 그 제공의 약속 또는 의사표시를 하여서는 아니 된다. 다만, 제3항 각 호에서 정한 경우는 제외한다.",
+        "content": "제27조(임직원의 금품등의 수수 금지) ① 임직원은 직무 관련 여부 및 기부ㆍ후원ㆍ증여 등 그 명목에 관계없이 동일인으로부터 1회에 100만원 또는 한 회계연도에 300만원을 초과하는 금품등을 받거나 요구 또는 약속하여서는 아니 된다.② 임직원은 직무와 관련하여 대가성 여부를 불문하고 제1항에서 정한 금액 이하의 금품등을 받거나 요구 또는 약속하여서는 아니 된다.③ 제34조의 외부강의등에 관한 사례금 또는 다음 각 호의 어느 하나에 해당하는 금품등은 제1항 또는 제2항에서 수수(收受)를 금지하는 금품등에 해당하지 아니한다.1. 이사장이 소속 임직원이나 파견 임직원에게 지급하거나 상급자가 위로ㆍ격려ㆍ포상 등의 목적으로 하급자에게 제공하는 금품등2. 원활한 직무수행 또는 사교ㆍ의례 또는 부조의 목적으로 제공되는 음식물ㆍ경조사비ㆍ선물 등으로서 별표 2에서 정하는 가액 범위 안의 금품등3. 사적 거래(증여는 제외한다)로 인한 채무의 이행 등 정당한 권원(權原)에 따라 제공되는 금품등4. 임직원의 친족(「민법」 제777조에 따른 친족을 말한다)이 제공하는 금품등5. 임직원과 관련된 직원상조회ㆍ동호인회ㆍ동창회ㆍ향우회ㆍ친목회ㆍ종교단체ㆍ사회단체 등이 정하는 기준에 따라 구성원에게 제공하는 금품등 및 그 소속 구성원 등 임직원과 특별히 장기적ㆍ지속적인 친분관계를 맺고 있는 자가 질병ㆍ재난 등으로 어려운 처지에 있는 임직원에게 제공하는 금품등6. 임직원의 직무와 관련된 공식적인 행사에서 주최자가 참석자에게 통상적인 범위에서 일률적으로 제공하는 교통, 숙박, 음식물 등의 금품등7. 불특정 다수인에게 배포하기 위한 기념품 또는 홍보용품 등이나 경연ㆍ추첨을 통하여 받는 보상 또는 상품 등8. 그 밖에 사회상규(社會常規)에 따라 허용되는 금품등④ 임직원은 제3항제5호에도 불구하고 같은 호에 따라 특별히 장기적ㆍ지속적인 친분관계를 맺고 있는 자가 직무관련자 또는 직무관련임직원으로서 금품등을 제공한 경우에는 그 수수 사실을 별지 제6호서식에 따라 이사장에게 신고하여야 한다.⑤ 임직원은 공단의 이익을 목적으로 직무와 관련이 있는 공무원 또는 정치인 등에게 금품등을 제공하거나 그 제공의 약속 또는 의사표시를 하여서는 아니 된다. 다만, 제3항 각 호에서 정한 경우는 제외한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -775,11 +716,7 @@
             "source_provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0027",
             "reference_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0034",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json",
-            "target_git_path": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -798,18 +735,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2106645",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000155899&bylNo=0002&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000162035&bylNo=0002&bylBrNo=00",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0027",
             "target_unit": "BYL0002",
             "reference_id": "SchlPubRul:해양환경공단임직원행동강령규정#BYL0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json",
-            "target_git_path": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json",
-            "target_git_file_path": "해양환경공단 임직원행동강령규정/별표/별표2_음식물·경조사비·선물 등의 가액 범위(제30조제3항 관련).hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json"
           },
           {
             "relation_type": "citation",
@@ -829,9 +761,7 @@
             "source_provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0027",
             "reference_id": "law:민법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json",
-            "target_git_path": "민법/법률/민법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "민법/법률/민법.json"
           },
           {
             "relation_type": "citation",
@@ -851,9 +781,7 @@
             "source_provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0027",
             "reference_id": "law:민법#JO0777",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json",
-            "target_git_path": "민법/법률/민법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "민법/법률/민법.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -865,21 +793,20 @@
             "line_text": "",
             "target_law_name": "해양환경공단 임직원행동강령규정",
             "target_article_no": "별지6",
-            "target_article_title": "",
+            "target_article_title": "금품등 수수 신고서",
             "appendix_no": "6",
             "appendix_branch": "",
             "appendix_kind": "별지",
-            "appendix_found": false,
+            "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2106645",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000155899&bylNo=&bylBrNo=",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632843",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0027",
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:해양환경공단임직원행동강령규정#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json",
-            "target_missing_unit": true
+            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json"
           }
         ],
         "images": [],
@@ -911,11 +838,7 @@
             "source_provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0028",
             "reference_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0027",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json",
-            "target_git_path": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json"
           }
         ],
         "images": [],
@@ -1001,18 +924,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2106645",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000155899&bylNo=0003&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000162035&bylNo=0003&bylBrNo=00",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0034",
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:해양환경공단임직원행동강령규정#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json",
-            "target_git_path": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json",
-            "target_git_file_path": "해양환경공단 임직원행동강령규정/별표/별표3_외부강의등 사례금 상한액(제37조제1항 관련).hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -1024,21 +942,20 @@
             "line_text": "",
             "target_law_name": "해양환경공단 임직원행동강령규정",
             "target_article_no": "별지7",
-            "target_article_title": "",
+            "target_article_title": "외부강의등 신고서",
             "appendix_no": "7",
             "appendix_branch": "",
             "appendix_kind": "별지",
-            "appendix_found": false,
+            "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2106645",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000155899&bylNo=&bylBrNo=",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632853",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0034",
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:해양환경공단임직원행동강령규정#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json",
-            "target_missing_unit": true
+            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1058,11 +975,7 @@
             "source_provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0034",
             "reference_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0036",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json",
-            "target_git_path": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -1074,21 +987,20 @@
             "line_text": "",
             "target_law_name": "해양환경공단 임직원행동강령규정",
             "target_article_no": "별지8",
-            "target_article_title": "",
+            "target_article_title": "반환비용 청구 신청서",
             "appendix_no": "8",
             "appendix_branch": "",
             "appendix_kind": "별지",
-            "appendix_found": false,
+            "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2106645",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000155899&bylNo=&bylBrNo=",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632857",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0034",
             "target_unit": "BJ0008",
             "reference_id": "SchlPubRul:해양환경공단임직원행동강령규정#BJ0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json",
-            "target_missing_unit": true
+            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json"
           }
         ],
         "images": [],
@@ -1130,18 +1042,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2106645",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000155899&bylNo=0003&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000162035&bylNo=0003&bylBrNo=00",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0036",
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:해양환경공단임직원행동강령규정#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json",
-            "target_git_path": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json",
-            "target_git_file_path": "해양환경공단 임직원행동강령규정/별표/별표3_외부강의등 사례금 상한액(제37조제1항 관련).hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -1153,21 +1060,20 @@
             "line_text": "",
             "target_law_name": "해양환경공단 임직원행동강령규정",
             "target_article_no": "별지9",
-            "target_article_title": "",
+            "target_article_title": "초과사례금 신고서",
             "appendix_no": "9",
             "appendix_branch": "",
             "appendix_kind": "별지",
-            "appendix_found": false,
+            "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2106645",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000155899&bylNo=&bylBrNo=",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632861",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0036",
             "target_unit": "BJ0009",
             "reference_id": "SchlPubRul:해양환경공단임직원행동강령규정#BJ0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json",
-            "target_missing_unit": true
+            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json"
           }
         ],
         "images": [],
@@ -1178,7 +1084,7 @@
         "article_title": "건전한 경조사 문화의 정착",
         "chapter": "제4장 건전한 공직풍토의 조성",
         "chapter_path": "제4장 건전한 공직풍토의 조성",
-        "content": "제37조(건전한 경조사 문화의 정착) ① 임직원은 건전한 경조사 문화의 정착을 위하여 솔선수범하여야 한다.② 임직원은 직무관련자에게 경조사를 알려서는 아니 된다. 다만, 다음 각 호의 어느 하나에 해당하는 경우에는 경조사를 알릴 수 있다.1. 친족( 「민법」 제767조에 따른 친족을 말한다)에게 알리는 경우2. 현재 근무하고 있거나 과거에 근무하였던 단체의 소속 직원에게 알리는 경우3. 신문, 방송 또는 제2호에 따른 직원에게만 열람이 허용되는 내부통신망 등을 통하여 알리는 경우4. 임직원 자신이 소속된 종교단체ㆍ친목단체 등의 회원에 알리는 경우",
+        "content": "제37조(건전한 경조사 문화의 정착) ① 임직원은 건전한 경조사 문화의 정착을 위하여 솔선수범하여야 한다.② 임직원은 직무관련자에게 경조사를 알려서는 아니 된다. 다만, 다음 각 호의 어느 하나에 해당하는 경우에는 경조사를 알릴 수 있다.1. 친족(「민법」 제767조에 따른 친족을 말한다)에게 알리는 경우2. 현재 근무하고 있거나 과거에 근무하였던 단체의 소속 직원에게 알리는 경우3. 신문, 방송 또는 제2호에 따른 직원에게만 열람이 허용되는 내부통신망 등을 통하여 알리는 경우4. 임직원 자신이 소속된 종교단체ㆍ친목단체 등의 회원에 알리는 경우",
         "enforcement_date": "",
         "relations": [
           {
@@ -1199,9 +1105,7 @@
             "source_provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0037",
             "reference_id": "law:민법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json",
-            "target_git_path": "민법/법률/민법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "민법/법률/민법.json"
           },
           {
             "relation_type": "citation",
@@ -1221,9 +1125,7 @@
             "source_provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0037",
             "reference_id": "law:민법#JO0767",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json",
-            "target_git_path": "민법/법률/민법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "민법/법률/민법.json"
           }
         ],
         "images": [],
@@ -1247,21 +1149,20 @@
             "line_text": "",
             "target_law_name": "해양환경공단 임직원행동강령규정",
             "target_article_no": "별지10",
-            "target_article_title": "",
+            "target_article_title": "감독기관의 부당한 요구에 대한 신고서",
             "appendix_no": "10",
             "appendix_branch": "",
             "appendix_kind": "별지",
-            "appendix_found": false,
+            "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2106645",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000155899&bylNo=&bylBrNo=",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632873",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0038",
             "target_unit": "BJ0010",
             "reference_id": "SchlPubRul:해양환경공단임직원행동강령규정#BJ0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json",
-            "target_missing_unit": true
+            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json"
           }
         ],
         "images": [],
@@ -1285,21 +1186,20 @@
             "line_text": "",
             "target_law_name": "해양환경공단 임직원행동강령규정",
             "target_article_no": "별지11",
-            "target_article_title": "",
+            "target_article_title": "직무관련자와의 골프 신고서",
             "appendix_no": "11",
             "appendix_branch": "",
             "appendix_kind": "별지",
-            "appendix_found": false,
+            "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2106645",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000155899&bylNo=&bylBrNo=",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632877",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0039",
             "target_unit": "BJ0011",
             "reference_id": "SchlPubRul:해양환경공단임직원행동강령규정#BJ0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json",
-            "target_missing_unit": true
+            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -1311,21 +1211,20 @@
             "line_text": "",
             "target_law_name": "해양환경공단 임직원행동강령규정",
             "target_article_no": "별지12",
-            "target_article_title": "",
+            "target_article_title": "직무관련자와의 골프 접수·처리대장",
             "appendix_no": "12",
             "appendix_branch": "",
             "appendix_kind": "별지",
-            "appendix_found": false,
+            "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2106645",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000155899&bylNo=&bylBrNo=",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632881",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0039",
             "target_unit": "BJ0012",
             "reference_id": "SchlPubRul:해양환경공단임직원행동강령규정#BJ0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json",
-            "target_missing_unit": true
+            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json"
           }
         ],
         "images": [],
@@ -1349,21 +1248,20 @@
             "line_text": "",
             "target_law_name": "해양환경공단 임직원행동강령규정",
             "target_article_no": "별지13",
-            "target_article_title": "",
+            "target_article_title": "상담기록관리부",
             "appendix_no": "13",
             "appendix_branch": "",
             "appendix_kind": "별지",
-            "appendix_found": false,
+            "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2106645",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000155899&bylNo=&bylBrNo=",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632891",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0040",
             "target_unit": "BJ0013",
             "reference_id": "SchlPubRul:해양환경공단임직원행동강령규정#BJ0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json",
-            "target_missing_unit": true
+            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json"
           }
         ],
         "images": [],
@@ -1387,21 +1285,20 @@
             "line_text": "",
             "target_law_name": "해양환경공단 임직원행동강령규정",
             "target_article_no": "별지14",
-            "target_article_title": "",
+            "target_article_title": "행동강령 위반행위 신고서",
             "appendix_no": "14",
             "appendix_branch": "",
             "appendix_kind": "별지",
-            "appendix_found": false,
+            "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2106645",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000155899&bylNo=&bylBrNo=",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632899",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0041",
             "target_unit": "BJ0014",
             "reference_id": "SchlPubRul:해양환경공단임직원행동강령규정#BJ0014",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json",
-            "target_missing_unit": true
+            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -1413,25 +1310,35 @@
             "line_text": "",
             "target_law_name": "해양환경공단 임직원행동강령규정",
             "target_article_no": "별지14",
-            "target_article_title": "",
+            "target_article_title": "행동강령 위반행위 신고서",
             "appendix_no": "14",
             "appendix_branch": "",
             "appendix_kind": "별지",
-            "appendix_found": false,
+            "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2106645",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000155899&bylNo=&bylBrNo=",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632899",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0041",
             "target_unit": "BJ0014",
             "reference_id": "SchlPubRul:해양환경공단임직원행동강령규정#BJ0014",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json",
-            "target_missing_unit": true
+            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json"
           }
         ],
         "images": [],
         "provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0041"
+      },
+      {
+        "article_no": "제41조의2",
+        "article_title": "행동강령 위반행위 조사 위원회",
+        "chapter": "제5장 위반행위의 처리 등",
+        "chapter_path": "제5장 위반행위의 처리 등",
+        "content": "제41조의2(행동강령 위반행위 조사 위원회) ① 이사장은 임직원의 행동강령 위반행위에 대한 공정한 조사를 위하여 필요한 경우에는 행동강령책임관을 장으로 하는 조사위원회를 구성하여 운영할 수 있다.② 제1항에 따른 조사위원회는 3인 이상으로 구성하여야 한다.[본조신설 2026. 11. 5.]",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0041_02"
       },
       {
         "article_no": "제42조",
@@ -1459,11 +1366,7 @@
             "source_provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0042",
             "reference_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0041",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json",
-            "target_git_path": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1483,11 +1386,7 @@
             "source_provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0042",
             "reference_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0041",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json",
-            "target_git_path": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json"
           }
         ],
         "images": [],
@@ -1531,7 +1430,7 @@
         "article_title": "수수 금지 금품등의 신고 및 처리",
         "chapter": "제5장 위반행위의 처리 등",
         "chapter_path": "제5장 위반행위의 처리 등",
-        "content": "제46조(수수 금지 금품등의 신고 및 처리) ① 임직원은 다음 각 호의 어느 하나에 해당하는 경우에는 이사장에게 지체 없이 별지 제15호서식에 따라 신고하여야 한다.1. 임직원 자신이 수수 금지 금품등을 받거나 그 제공의 약속 또는 의사표시를 받은 경우2. 임직원이 자신의 배우자나 직계 존속ㆍ비속이 수수 금지 금품등을 받거나 그 제공의 약속 또는 의사표시를 받은 사실을 알게 된 경우② 임직원은 제1항 각 호의 어느 하나에 해당하는 경우에는 금품등을 제공한 사람(이하 이 조에서 \"제공자\"라 한다) 또는 제공의 약속이나 의사표시를 한 사람에게 그 제공받은 금품등을 지체 없이 반환하거나 반환하도록 하거나 그 거부의 의사를 밝히거나 밝히도록 하여야 한다.③ 임직원은 제2항에 따라 금품등을 반환한 경우에는 증명자료를 첨부하여 별지 제8호서식으로 그 반환 비용을 이사장에게 청구할 수 있다.④ 임직원은 제2항에 따라 반환하거나 반환하도록 하여야 하는 금품등이 다음 각 호의 어느 하나에 해당하는 경우에는 이사장에게 인도하거나 인도하도록 하여야 한다.1. 멸실ㆍ부패ㆍ변질 등의 우려가 있는 경우2. 제공자나 제공자의 주소를 알 수 없는 경우3. 그 밖에 제공자에게 반환하기 어려운 사정이 있는 경우⑤ 이사장은 제4항에 따라 금품등을 인도받은 경우에는 즉시 사진으로 촬영하거나 영상으로 녹화하고 별지 제16호서식으로 관리하여야 하며, 다른 법령에 특별한 규정이 있는 경우를 제외하고는 다음 각 호에 따라 처리한다.1. 수수 금지 금품등이 아닌 것으로 확인된 경우: 금품등을 인도한   자에게 반환2. 수수 금지 금품등에 해당하는 것으로 확인된 경우로서 추가적인 조사ㆍ감사ㆍ수사 또는 징계 등 후속조치를 위하여 필요한 경우: 관계 기관에 증거자료로 제출하거나 후속조치가 완료될 때까지 보관3. 제1호 및 제2호의 규정에도 불구하고 멸실ㆍ부패ㆍ변질 등으로 반환ㆍ제출ㆍ보관이 어렵다고 판단되는 경우: 별지 제17호서식에 따라 금품등을 인도한 사람의 동의를 받아 폐기처분4. 그 밖의 경우에는 세입조치 또는 사회복지시설ㆍ공익단체 등에 기증하거나 이사장이 정하는 기준에 따라 처리⑥ 행동강령책임관은 제5항에 따라 처리한 금품등에 대하여 별지 제18호서식으로 관리하여야 하며, 제5항에 따른 처리 결과를 금품등을 인도한 사람에게 통보하여야 한다.⑦ 이사장은 수수 금지된 금품등의 신고자에 대하여 인사우대ㆍ포상 등의 방안을 마련하여 시행할 수 있다.",
+        "content": "제46조(수수 금지 금품등의 신고 및 처리) ① 임직원은 다음 각 호의 어느 하나에 해당하는 경우에는 이사장에게 지체 없이 별지 제15호서식에 따라 신고하여야 한다.1. 임직원 자신이 수수 금지 금품등을 받거나 그 제공의 약속 또는 의사표시를 받은 경우2. 임직원이 자신의 배우자나 직계 존속ㆍ비속이 수수 금지 금품등을 받거나 그 제공의 약속 또는 의사표시를 받은 사실을 알게 된 경우② 임직원은 제1항 각 호의 어느 하나에 해당하는 경우에는 금품등을 제공한 사람(이하 이 조에서 \"제공자\"라 한다) 또는 제공의 약속이나 의사표시를 한 사람에게 그 제공받은 금품등을 지체 없이 반환하거나 반환하도록 하거나 그 거부의 의사를 밝히거나 밝히도록 하여야 한다.③ 임직원은 제2항에 따라 금품등을 반환한 경우에는 증명자료를 첨부하여 별지 제8호서식으로 그 반환 비용을 이사장에게 청구할 수 있다.④ 임직원은 제2항에 따라 반환하거나 반환하도록 하여야 하는 금품등이 다음 각 호의 어느 하나에 해당하는 경우에는 이사장에게 인도하거나 인도하도록 하여야 한다.1. 멸실ㆍ부패ㆍ변질 등의 우려가 있는 경우2. 제공자나 제공자의 주소를 알 수 없는 경우3. 그 밖에 제공자에게 반환하기 어려운 사정이 있는 경우⑤ 이사장은 제4항에 따라 금품등을 인도받은 경우에는 즉시 사진으로 촬영하거나 영상으로 녹화하고 별지 제16호서식으로 관리하여야 하며, 다른 법령에 특별한 규정이 있는 경우를 제외하고는 다음 각 호에 따라 처리한다.1. 수수 금지 금품등이 아닌 것으로 확인된 경우: 금품등을 인도한   자에게 반환2. 수수 금지 금품등에 해당하는 것으로 확인된 경우로서 추가적인조사ㆍ감사ㆍ수사 또는 징계 등 후속조치를 위하여 필요한 경우: 관계 기관에 증거자료로 제출하거나 후속조치가 완료될 때까지 보관3. 제1호 및 제2호의 규정에도 불구하고 멸실ㆍ부패ㆍ변질 등으로 반환ㆍ제출ㆍ보관이 어렵다고 판단되는 경우: 별지 제17호서식에 따라 금품등을 인도한 사람의 동의를 받아 폐기처분4. 그 밖의 경우에는 세입조치 또는 사회복지시설ㆍ공익단체 등에 기증하거나 이사장이 정하는 기준에 따라 처리⑥ 행동강령책임관은 제5항에 따라 처리한 금품등에 대하여 별지 제18호서식으로 관리하여야 하며, 제5항에 따른 처리 결과를 금품등을 인도한 사람에게 통보하여야 한다.⑦ 이사장은 수수 금지된 금품등의 신고자에 대하여 인사우대ㆍ포상 등의 방안을 마련하여 시행할 수 있다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -1544,21 +1443,20 @@
             "line_text": "",
             "target_law_name": "해양환경공단 임직원행동강령규정",
             "target_article_no": "별지15",
-            "target_article_title": "",
+            "target_article_title": "수수 금지 금품등 신고서",
             "appendix_no": "15",
             "appendix_branch": "",
             "appendix_kind": "별지",
-            "appendix_found": false,
+            "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2106645",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000155899&bylNo=&bylBrNo=",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632905",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0046",
             "target_unit": "BJ0015",
             "reference_id": "SchlPubRul:해양환경공단임직원행동강령규정#BJ0015",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json",
-            "target_missing_unit": true
+            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -1570,21 +1468,20 @@
             "line_text": "",
             "target_law_name": "해양환경공단 임직원행동강령규정",
             "target_article_no": "별지8",
-            "target_article_title": "",
+            "target_article_title": "반환비용 청구 신청서",
             "appendix_no": "8",
             "appendix_branch": "",
             "appendix_kind": "별지",
-            "appendix_found": false,
+            "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2106645",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000155899&bylNo=&bylBrNo=",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632857",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0046",
             "target_unit": "BJ0008",
             "reference_id": "SchlPubRul:해양환경공단임직원행동강령규정#BJ0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json",
-            "target_missing_unit": true
+            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -1596,21 +1493,20 @@
             "line_text": "",
             "target_law_name": "해양환경공단 임직원행동강령규정",
             "target_article_no": "별지16",
-            "target_article_title": "",
+            "target_article_title": "금품등 인도확인서",
             "appendix_no": "16",
             "appendix_branch": "",
             "appendix_kind": "별지",
-            "appendix_found": false,
+            "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2106645",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000155899&bylNo=&bylBrNo=",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632909",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0046",
             "target_unit": "BJ0016",
             "reference_id": "SchlPubRul:해양환경공단임직원행동강령규정#BJ0016",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json",
-            "target_missing_unit": true
+            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -1622,21 +1518,20 @@
             "line_text": "",
             "target_law_name": "해양환경공단 임직원행동강령규정",
             "target_article_no": "별지17",
-            "target_article_title": "",
+            "target_article_title": "금품등 폐기처분 동의확인서",
             "appendix_no": "17",
             "appendix_branch": "",
             "appendix_kind": "별지",
-            "appendix_found": false,
+            "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2106645",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000155899&bylNo=&bylBrNo=",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632915",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0046",
             "target_unit": "BJ0017",
             "reference_id": "SchlPubRul:해양환경공단임직원행동강령규정#BJ0017",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json",
-            "target_missing_unit": true
+            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -1648,21 +1543,20 @@
             "line_text": "",
             "target_law_name": "해양환경공단 임직원행동강령규정",
             "target_article_no": "별지18",
-            "target_article_title": "",
+            "target_article_title": "금품등 관리대장",
             "appendix_no": "18",
             "appendix_branch": "",
             "appendix_kind": "별지",
-            "appendix_found": false,
+            "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2106645",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000155899&bylNo=&bylBrNo=",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632923",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0046",
             "target_unit": "BJ0018",
             "reference_id": "SchlPubRul:해양환경공단임직원행동강령규정#BJ0018",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json",
-            "target_missing_unit": true
+            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json"
           }
         ],
         "images": [],
@@ -1694,11 +1588,7 @@
             "source_provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0047",
             "reference_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0041",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json",
-            "target_git_path": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json"
           }
         ],
         "images": [],
@@ -1722,21 +1612,20 @@
             "line_text": "",
             "target_law_name": "해양환경공단 임직원행동강령규정",
             "target_article_no": "별표5",
-            "target_article_title": "",
+            "target_article_title": "정치인 등의 부당요구 보고(상담요청)서",
             "appendix_no": "5",
             "appendix_branch": "",
             "appendix_kind": "별표",
-            "appendix_found": false,
+            "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2106645",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000155899&bylNo=&bylBrNo=",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000162035&bylNo=&bylBrNo=",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0048",
-            "target_unit": "BYL0005",
-            "reference_id": "SchlPubRul:해양환경공단임직원행동강령규정#BYL0005",
+            "target_unit": "BJ0005",
+            "reference_id": "SchlPubRul:해양환경공단임직원행동강령규정#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json",
-            "target_missing_unit": true
+            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json"
           }
         ],
         "images": [],
@@ -1771,21 +1660,20 @@
             "line_text": "",
             "target_law_name": "해양환경공단 임직원행동강령규정",
             "target_article_no": "별지13",
-            "target_article_title": "",
+            "target_article_title": "상담기록관리부",
             "appendix_no": "13",
             "appendix_branch": "",
             "appendix_kind": "별지",
-            "appendix_found": false,
+            "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2106645",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000155899&bylNo=&bylBrNo=",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632891",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0050",
             "target_unit": "BJ0013",
             "reference_id": "SchlPubRul:해양환경공단임직원행동강령규정#BJ0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json",
-            "target_missing_unit": true
+            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json"
           },
           {
             "relation_type": "citation",
@@ -1805,9 +1693,7 @@
             "source_provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0050",
             "reference_id": "law:부정청탁및금품등수수의금지에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부정청탁 및 금품등 수수의 금지에 관한 법률/법률/부정청탁 및 금품등 수수의 금지에 관한 법률.json",
-            "target_git_path": "부정청탁 및 금품등 수수의 금지에 관한 법률/법률/부정청탁 및 금품등 수수의 금지에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "부정청탁 및 금품등 수수의 금지에 관한 법률/법률/부정청탁 및 금품등 수수의 금지에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -1827,9 +1713,7 @@
             "source_provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0050",
             "reference_id": "law:부정청탁및금품등수수의금지에관한법률#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "부정청탁 및 금품등 수수의 금지에 관한 법률/법률/부정청탁 및 금품등 수수의 금지에 관한 법률.json",
-            "target_git_path": "부정청탁 및 금품등 수수의 금지에 관한 법률/법률/부정청탁 및 금품등 수수의 금지에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "부정청탁 및 금품등 수수의 금지에 관한 법률/법률/부정청탁 및 금품등 수수의 금지에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -1849,9 +1733,7 @@
             "source_provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0050",
             "reference_id": "law:공직자의이해충돌방지법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공직자의 이해충돌방지법/법률/공직자의 이해충돌방지법.json",
-            "target_git_path": "공직자의 이해충돌 방지법/법률/공직자의 이해충돌 방지법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공직자의 이해충돌방지법/법률/공직자의 이해충돌방지법.json"
           },
           {
             "relation_type": "citation",
@@ -1871,9 +1753,7 @@
             "source_provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0050",
             "reference_id": "law:공직자의이해충돌방지법#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "공직자의 이해충돌방지법/법률/공직자의 이해충돌방지법.json",
-            "target_git_path": "공직자의 이해충돌 방지법/법률/공직자의 이해충돌 방지법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공직자의 이해충돌방지법/법률/공직자의 이해충돌방지법.json"
           }
         ],
         "images": [],
@@ -1963,21 +1843,20 @@
             "line_text": "",
             "target_law_name": "해양환경공단 임직원행동강령규정",
             "target_article_no": "별지19",
-            "target_article_title": "",
+            "target_article_title": "청렴사직서약서",
             "appendix_no": "19",
             "appendix_branch": "",
             "appendix_kind": "별지",
-            "appendix_found": false,
+            "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2106645",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000155899&bylNo=&bylBrNo=",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632927",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0057",
             "target_unit": "BJ0019",
             "reference_id": "SchlPubRul:해양환경공단임직원행동강령규정#BJ0019",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json",
-            "target_missing_unit": true
+            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -1989,21 +1868,20 @@
             "line_text": "",
             "target_law_name": "해양환경공단 임직원행동강령규정",
             "target_article_no": "별지20",
-            "target_article_title": "",
+            "target_article_title": "나의 청렴실천 다짐나의 청렴실천 다짐",
             "appendix_no": "20",
             "appendix_branch": "",
             "appendix_kind": "별지",
-            "appendix_found": false,
+            "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2106645",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000155899&bylNo=&bylBrNo=",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632935",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0057",
             "target_unit": "BJ0020",
             "reference_id": "SchlPubRul:해양환경공단임직원행동강령규정#BJ0020",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json",
-            "target_missing_unit": true
+            "target_git_path_guess": "해양환경공단 임직원행동강령규정/해양환경공단 임직원행동강령규정.json"
           }
         ],
         "images": [],
@@ -2014,7 +1892,7 @@
         "article_title": "부정청탁 및 금품등 수수의 신고사무 처리",
         "chapter": "제6장 보칙",
         "chapter_path": "제6장 보칙",
-        "content": "제58조(부정청탁 및 금품등 수수의 신고사무 처리) 「부정청탁 및 금품등 수수의 금지에 관한 법률」 및 같은 법 시행령에서 규정하고 있는 부정청탁 및 금품등 수수 신고의 접수 및 처리와 관련한 세부사항은 「부정청탁 및 금품등 수수의 신고사무 처리지침」 에 따른다.",
+        "content": "제58조(부정청탁 및 금품등 수수의 신고사무 처리) 「부정청탁 및 금품등 수수의 금지에 관한 법률」 및 같은 법 시행령에서 규정하고 있는 부정청탁 및 금품등 수수 신고의 접수 및 처리와 관련한 세부사항은「부정청탁 및 금품등 수수의 신고사무 처리지침」에 따른다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -2035,9 +1913,7 @@
             "source_provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0058",
             "reference_id": "law:부정청탁및금품등수수의금지에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부정청탁 및 금품등 수수의 금지에 관한 법률/시행령/부정청탁 및 금품등 수수의 금지에 관한 법률 시행령.json",
-            "target_git_path": "부정청탁 및 금품등 수수의 금지에 관한 법률/시행령/부정청탁 및 금품등 수수의 금지에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "부정청탁 및 금품등 수수의 금지에 관한 법률/시행령/부정청탁 및 금품등 수수의 금지에 관한 법률 시행령.json"
           },
           {
             "relation_type": "citation",
@@ -2057,11 +1933,7 @@
             "source_provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#JO0058",
             "reference_id": "admrul:부정청탁및금품등수수의신고사무처리지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "부정청탁 및 금품등 수수의 신고사무 처리지침/부정청탁 및 금품등 수수의 신고사무 처리지침.json",
-            "target_git_path": "부정청탁 및 금품등 수수의 신고사무 처리지침/부정청탁 및 금품등 수수의 신고사무 처리지침.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "부정청탁 및 금품등 수수의 신고사무 처리지침/부정청탁 및 금품등 수수의 신고사무 처리지침.json"
           }
         ],
         "images": [],
@@ -2076,10 +1948,21 @@
       "content": "부칙 <제9999호, 2025.12.12.>제1조(시행일) 이 규칙은 2025년 12월 12일부터 시행한다.제2조(다른 규정의 폐지) 「직무관련자 접촉시 행동지침」 은 이 규칙의 시행과 동시에 이를 폐지한다.",
       "provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000155899",
+      "source_mst": "2200000162035",
       "source_version_uid": "",
-      "source_revision_type": "전부개정",
-      "version_enforcement_date": "20251212"
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261105"
+    },
+    {
+      "promulgation_date": "20261105",
+      "promulgation_no": "9999",
+      "content": "부칙 <제9999호, 2026.11.05.>제1조(시행일) 이 규칙은 2026년 11월 5일부터 시행한다.",
+      "provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000162035",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261105"
     }
   ],
   "appendices": [
@@ -2091,12 +1974,12 @@
       "enforcement_date": "",
       "content": "",
       "is_file_only": true,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000155899&bylNo=0001&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164815749",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000162035&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632941",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164815749",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632941",
           "name": "",
           "file_store_url": ""
         }
@@ -2116,12 +1999,12 @@
       "enforcement_date": "",
       "content": "",
       "is_file_only": true,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000155899&bylNo=0002&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164815753",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000162035&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632945",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164815753",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632945",
           "name": "",
           "file_store_url": ""
         }
@@ -2141,12 +2024,12 @@
       "enforcement_date": "",
       "content": "",
       "is_file_only": true,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000155899&bylNo=0003&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164815759",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000162035&bylNo=0003&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632957",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164815759",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632957",
           "name": "",
           "file_store_url": ""
         }
@@ -2156,6 +2039,506 @@
       "filename": "별표3_외부강의등 사례금 상한액(제37조제1항 관련).hwp",
       "file_dir": "별표",
       "local_path": "별표/별표3_외부강의등 사례금 상한액(제37조제1항 관련).hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "부정청탁 및 금품등 수수 금지 서약서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632813",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632813",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#BJ0001",
+      "filename": "별지1_부정청탁 및 금품등 수수 금지 서약서.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지1_부정청탁 및 금품등 수수 금지 서약서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "공정한 직무수행을 해치는 지시에 대한 소명서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632817",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632817",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#BJ0002",
+      "filename": "별지2_공정한 직무수행을 해치는 지시에 대한 소명서.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지2_공정한 직무수행을 해치는 지시에 대한 소명서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "공정한 직무수행을 해치는 지시에 대한 상담요청서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632821",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632821",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#BJ0003",
+      "filename": "별지3_공정한 직무수행을 해치는 지시에 대한 상담요청서.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지3_공정한 직무수행을 해치는 지시에 대한 상담요청서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별지",
+      "title": "퇴직심사 신고서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632827",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632827",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#BJ0004",
+      "filename": "별지4_퇴직심사 신고서.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지4_퇴직심사 신고서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0005",
+      "branch": "00",
+      "kind": "별지",
+      "title": "정치인 등의 부당요구 보고(상담요청)서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632839",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632839",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#BJ0005",
+      "filename": "별지5_정치인 등의 부당요구 보고(상담요청)서.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지5_정치인 등의 부당요구 보고(상담요청)서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0006",
+      "branch": "00",
+      "kind": "별지",
+      "title": "금품등 수수 신고서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632843",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632843",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#BJ0006",
+      "filename": "별지6_금품등 수수 신고서.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지6_금품등 수수 신고서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0007",
+      "branch": "00",
+      "kind": "별지",
+      "title": "외부강의등 신고서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632853",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632853",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#BJ0007",
+      "filename": "별지7_외부강의등 신고서.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지7_외부강의등 신고서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0008",
+      "branch": "00",
+      "kind": "별지",
+      "title": "반환비용 청구 신청서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632857",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632857",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#BJ0008",
+      "filename": "별지8_반환비용 청구 신청서.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지8_반환비용 청구 신청서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0009",
+      "branch": "00",
+      "kind": "별지",
+      "title": "초과사례금 신고서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632861",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632861",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#BJ0009",
+      "filename": "별지9_초과사례금 신고서.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지9_초과사례금 신고서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0010",
+      "branch": "00",
+      "kind": "별지",
+      "title": "감독기관의 부당한 요구에 대한 신고서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632873",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632873",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#BJ0010",
+      "filename": "별지10_감독기관의 부당한 요구에 대한 신고서.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지10_감독기관의 부당한 요구에 대한 신고서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0011",
+      "branch": "00",
+      "kind": "별지",
+      "title": "직무관련자와의 골프 신고서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632877",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632877",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#BJ0011",
+      "filename": "별지11_직무관련자와의 골프 신고서.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지11_직무관련자와의 골프 신고서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0012",
+      "branch": "00",
+      "kind": "별지",
+      "title": "직무관련자와의 골프 접수·처리대장",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632881",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632881",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#BJ0012",
+      "filename": "별지12_직무관련자와의 골프 접수·처리대장.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지12_직무관련자와의 골프 접수·처리대장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0013",
+      "branch": "00",
+      "kind": "별지",
+      "title": "상담기록관리부",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632891",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632891",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#BJ0013",
+      "filename": "별지13_상담기록관리부.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지13_상담기록관리부.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0014",
+      "branch": "00",
+      "kind": "별지",
+      "title": "행동강령 위반행위 신고서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632899",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632899",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#BJ0014",
+      "filename": "별지14_행동강령 위반행위 신고서.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지14_행동강령 위반행위 신고서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0015",
+      "branch": "00",
+      "kind": "별지",
+      "title": "수수 금지 금품등 신고서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632905",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632905",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#BJ0015",
+      "filename": "별지15_수수 금지 금품등 신고서.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지15_수수 금지 금품등 신고서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0016",
+      "branch": "00",
+      "kind": "별지",
+      "title": "금품등 인도확인서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632909",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632909",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#BJ0016",
+      "filename": "별지16_금품등 인도확인서.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지16_금품등 인도확인서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0017",
+      "branch": "00",
+      "kind": "별지",
+      "title": "금품등 폐기처분 동의확인서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632915",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632915",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#BJ0017",
+      "filename": "별지17_금품등 폐기처분 동의확인서.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지17_금품등 폐기처분 동의확인서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0018",
+      "branch": "00",
+      "kind": "별지",
+      "title": "금품등 관리대장",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632923",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632923",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#BJ0018",
+      "filename": "별지18_금품등 관리대장.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지18_금품등 관리대장.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0019",
+      "branch": "00",
+      "kind": "별지",
+      "title": "청렴사직서약서",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632927",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632927",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#BJ0019",
+      "filename": "별지19_청렴사직서약서.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지19_청렴사직서약서.hwp",
+      "file_store_url": ""
+    },
+    {
+      "no": "0020",
+      "branch": "00",
+      "kind": "별지",
+      "title": "나의 청렴실천 다짐나의 청렴실천 다짐",
+      "enforcement_date": "",
+      "content": "",
+      "is_file_only": true,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632935",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171632935",
+          "name": "",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "provision_id": "SchlPubRul:해양환경공단임직원행동강령규정#BJ0020",
+      "filename": "별지20_나의 청렴실천 다짐나의 청렴실천 다짐.hwp",
+      "file_dir": "별지",
+      "local_path": "별지/별지20_나의 청렴실천 다짐나의 청렴실천 다짐.hwp",
       "file_store_url": ""
     }
   ],
@@ -2173,13 +2556,13 @@
       "appendix_ref": 29,
       "internal_ref": 12
     },
-    "articles_total": 58,
+    "articles_total": 59,
     "articles_with_relations": 26,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 1,
-    "appendices_count": 3,
+    "addenda_count": 2,
+    "appendices_count": 23,
     "attachments_count": 0
   },
   "source": {
