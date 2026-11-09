@@ -1,25 +1,25 @@
 {
   "law_id": "2107967",
-  "mst": "2200000142945",
+  "mst": "2200000161563",
   "law_name": "부산관광공사 보수규정",
   "law_abbr": "",
   "law_type": "공단규정",
   "doc_target": "public",
   "doc_kind": "공공기관",
   "adm_uid": "public:2107967",
-  "promulgation_no": "190",
-  "promulgation_date": "20250429",
-  "enforcement_date": "20250429",
-  "revision_date": "20250429",
+  "promulgation_no": "210",
+  "promulgation_date": "20261109",
+  "enforcement_date": "20261109",
+  "revision_date": "20261109",
   "revision_type": "일부개정",
   "is_current": true,
   "basic_info": {
     "현행여부": "Y",
-    "담당부서기관명": "경영지원팀",
-    "담당자명": "경영지원팀",
+    "담당부서기관명": "인재개발팀",
+    "담당자명": "인재개발팀",
     "행정규칙종류코드": "B0029",
     "행정규칙명": "부산관광공사 보수규정",
-    "발령일자": "20250429",
+    "발령일자": "20261109",
     "행정규칙종류": "공단규정",
     "제개정구분코드": "200403",
     "조문형식여부": "Y",
@@ -27,14 +27,14 @@
     "전화번호": "051-780-2111",
     "제개정구분명": "일부개정",
     "소관부처코드": "B552974",
-    "생성일자": "20250430",
+    "생성일자": "20261110",
     "행정규칙ID": "2107967",
     "담당부서기관코드": "",
-    "발령번호": "190",
-    "행정규칙일련번호": "2200000142945"
+    "발령번호": "210",
+    "행정규칙일련번호": "2200000161563"
   },
-  "amendment_text": "부산관광공사 보수규정 제190호\n부산관광공사 보수규정 일부개정안\n부산관광공사 보수규정 일부를 다음과 같이 개정한다.\n○ [별표 1] 임원의 연봉지급기준표를 다음과 같이 개정한다.\n원의 연봉지급기준표(제18조 관련)\n(단위 : 원)\n직책\n수행비\n사  장\n월 1,200,000원\n매월 연봉 지급일에 지급\n상임이사\n(본부장)\n월 1,000,000원\n〃",
-  "revision_reason": "○ 타 기관 대비 낮은 임원의 직책 수행비 보완으로 직책 부여에 대한 책임 강화 및 업무 수행 자부심 증진\n○ 공정한 보상 제공에 따른 성과 중심의 조직 문화 구축 및 조직 경쟁력 강화 지원",
+  "amendment_text": "부산관광공사 규정을 다음과 같이 개정한다.",
+  "revision_reason": "사규 현행화",
   "body": {
     "format": "articles",
     "article_count": 47,
@@ -44,7 +44,7 @@
         "article_title": "목적",
         "chapter": "제1장 총칙",
         "chapter_path": "제1장 총칙",
-        "content": "제1조(목적) 이 규정은 부산관광공사(이하 \"공사\"라 한다)의 임원 및 직원(이하 \"임·직원\"이라 한다)의 보수에 관하여 필요한 사항을 규정함을 목적으로 한다.",
+        "content": "제1조(목적) 이 규정은 부산관광공사(이하 \"공사\"라 한다)의 임원 및 직원(이하 \"임ㆍ직원\"이라 한다)의 보수에 관하여 필요한 사항을 규정함을 목적으로 한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -55,7 +55,7 @@
         "article_title": "적용 범위",
         "chapter": "제1장 총칙",
         "chapter_path": "제1장 총칙",
-        "content": "제2조(적용 범위) 임·직원의 보수는 「지방공기업법」, 공사 조례 및 정관 등 다른 규정에서 따로 정한 것을 제외하고는 이 규정에 따른다. 다만, 계약직 및 일용직의 경우에는 계약직 채용 및 보수 등에 관한 규정에 따른다. <개정 2014. 3. 10.>",
+        "content": "제2조(적용 범위) 임ㆍ직원의 보수는 「지방공기업법」, 공사 조례 및 정관 등 다른 규정에서 따로 정한 것을 제외하고는 이 규정에 따른다. 다만, 계약직 및 일용직의 경우에는 계약직 채용 및 보수 등에 관한 규정에 따른다. <개정 2014. 3. 10.>",
         "enforcement_date": "",
         "relations": [
           {
@@ -76,9 +76,7 @@
             "source_provision_id": "SchlPubRul:부산관광공사보수규정#JO0002",
             "reference_id": "law:지방공기업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
-            "target_git_path": "지방공기업법/법률/지방공기업법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
           }
         ],
         "images": [],
@@ -89,7 +87,7 @@
         "article_title": "용어의 정의",
         "chapter": "제1장 총칙",
         "chapter_path": "제1장 총칙",
-        "content": "제3조(용어의 정의) 이 규정에서 사용하는 용어의 정의는 다음 각호와 같다. <개정 2017. 1. 10., 2017. 10. 19.>1. “보수”라 함은 임·직원에게 지급하는 연봉총액을 말한다.2. “연봉”이라 함은 임금을 연단위로 결정하여 해당 임·직원이 연봉계약기간 동안받는 임금총액을 말하며, 기본연봉, 성과연봉, 부가급여를 합한 금액을 말한다.3. “기본연봉”이라 함은 기준기본급에 기본가산급을 합한 금액을 말한다.4. “기준기본급”이라 함은 비속인적 급여로서 기본연봉 금액을 말한다.5. “기본가산급”이라 함은 당해연도 기본연봉 인상율로써 기준기본급에 정책인상율 또는 가율을 곱한 금액을 말한다.6. “성과연봉”이라 함은 기관 및 개인의 실적과 능력에 따라 차등 지급되는 금액을 말한다.7. “사장 인센티브 성과급”이라 함은 사장 평가등급에 따라 사장에게 지급되는 금액을 말한다.8. “직원인센티브성과급”이라함은 정관상 정원에 포함된 정규직원(사업성격상 필요성이 인정되는 경우 비정규직 포함)을 대상으로 경영평가 등급 및 근무성적 평정등급에 따라 차등 지급되는 금액을 말한다.9. “예산성과급”이라 함은 예산절약이나 수입을 증대시켜 당기순이익 등이 발생한경우에 성과급으로 지급되는 금액을 말한다.10. “부가급여”라 함은 속인적성격의 급여로서 직책수행비, 기술수당, 가족수당, 자녀학비보조수당, 일·숙직수당, 시간외·휴일·야간근무수당, 연차수당, 장기근속수당, 특수업무수당을 말한다.11. “연봉월액”이라 함은 성과연봉 지급의 기준이 되는 금액으로 기본연봉의 월액을 말한다.12. “직급별 평균 연봉월액”이라 함은 현재 재직 중인 직원의 해당직급별 연봉월액의 평균금액을 말한다.13. “정책인상율”이라 함은 부산광역시장(이하“시장 ”이라 한다)이 매년 제시한 공사 임원의 임금인상율을 말한다.14. “승진가산급”이라 함은 승진하는 경우 기본연봉과 연동되는 급여의 총인상액을 말하는 것으로 [별표 8]과 같다.15. “강임감급”이라 함은 강임하는 경우 승진가산급을 역으로 계산한 해당직급의 강임차액의 평균을 말하는 것으로 [별표 9]와 같다.16. “통상임금”이라 함은 근로기준법에서 정한 기준으로 기본연봉의 12분의 1을 말한다.17. “평균임금”이라 함은 이를 산정하여야 할 사유가 발생한 날 이전 3개월간에 사원에게 지급된 임금의 총액을 그 기간의 총일수로 나눈 금액(자녀학비보조수당 및성과급은 제외)을 말하되, 매월 지급하지 않는 수당은 1년간의 지급총액을 12등분한 금액으로 하며, 그 기준은 근로기준법에서 정한 기준으로 한다.18. “보수의 일할계산”이라 함은 당해 월의 보수를 당해 월의 일수로 나눈 금액을 재직기간에 곱하여 계산하는 것을 말한다. 이 경우 재직기간은 발령일을 포함한다.19. “보수의 월할계산”이라 함은 발령일을 기준으로 하여 재직기간이 15일 이상은 1월로 계산하고, 15일 미만은 계산하지 아니하는 것을 말한다.20. “당사자”란 연봉대상자와 연봉계약 체결자를 말한다.(각호 추가)21. “연봉대상자”는 사장 및 임·직원이며, “연봉계약 체결자”는 사장의 경우는 시장, 임·직원의 경우는 사장을 말한다.",
+        "content": "제3조(용어의 정의) 이 규정에서 사용하는 용어의 정의는 다음 각호와 같다. <개정 2017. 1. 10., 2017. 10. 19.>1. “보수”라 함은 임ㆍ직원에게 지급하는 연봉총액을 말한다.2. “연봉”이라 함은 임금을 연단위로 결정하여 해당 임ㆍ직원이 연봉계약기간 동안받는 임금총액을 말하며, 기본연봉, 성과연봉, 부가급여를 합한 금액을 말한다.3. “기본연봉”이라 함은 기준기본급에 기본가산급을 합한 금액을 말한다.4. “기준기본급”이라 함은 비속인적 급여로서 기본연봉 금액을 말한다.5. “기본가산급”이라 함은 당해연도 기본연봉 인상율로써 기준기본급에 정책인상율 또는 가율을 곱한 금액을 말한다.6. “성과연봉”이라 함은 기관 및 개인의 실적과 능력에 따라 차등 지급되는 금액을 말한다.7. “사장 인센티브 성과급”이라 함은 사장 평가등급에 따라 사장에게 지급되는 금액을 말한다.8. “직원인센티브성과급”이라함은 정관상 정원에 포함된 정규직원(사업성격상 필요성이 인정되는 경우 비정규직 포함)을 대상으로 경영평가 등급 및 근무성적 평정등급에 따라 차등 지급되는 금액을 말한다.9. “예산성과급”이라 함은 예산절약이나 수입을 증대시켜 당기순이익 등이 발생한경우에 성과급으로 지급되는 금액을 말한다.10. “부가급여”라 함은 속인적성격의 급여로서 직책수행비, 기술수당, 가족수당, 자녀학비보조수당, 일ㆍ숙직수당, 시간외ㆍ휴일ㆍ야간근무수당, 연차수당, 장기근속수당, 특수업무수당을 말한다.11. “연봉월액”이라 함은 성과연봉 지급의 기준이 되는 금액으로 기본연봉의 월액을 말한다.12. “직급별 평균 연봉월액”이라 함은 현재 재직 중인 직원의 해당직급별 연봉월액의 평균금액을 말한다.13. “정책인상율”이라 함은 부산광역시장(이하“시장 ”이라 한다)이 매년 제시한 공사 임원의 임금인상율을 말한다.14. “승진가산급”이라 함은 승진하는 경우 기본연봉과 연동되는 급여의 총인상액을 말하는 것으로 [별표 8]과 같다.15. “강임감급”이라 함은 강임하는 경우 승진가산급을 역으로 계산한 해당직급의 강임차액의 평균을 말하는 것으로 [별표 9]와 같다.16. “통상임금”이라 함은 근로기준법에서 정한 기준으로 기본연봉의 12분의 1을 말한다.17. “평균임금”이라 함은 이를 산정하여야 할 사유가 발생한 날 이전 3개월간에 사원에게 지급된 임금의 총액을 그 기간의 총일수로 나눈 금액을 말하되, 매월 지급하지 않는 수당은 1년간의 지급총액을 12등분한 금액으로 하며, 그 기준은 근로기준법에서 정한 기준으로 한다. <개정 2026. 11. 9.>18. “보수의 일할계산”이라 함은 당해 월의 보수를 당해 월의 일수로 나눈 금액을 재직기간에 곱하여 계산하는 것을 말한다. 이 경우 재직기간은 발령일을 포함한다.19. “보수의 월할계산”이라 함은 발령일을 기준으로 하여 재직기간이 15일 이상은 1월로 계산하고, 15일 미만은 계산하지 아니하는 것을 말한다.20. “당사자”란 연봉대상자와 연봉계약 체결자를 말한다.(각호 추가)21. “연봉대상자”는 사장 및 임ㆍ직원이며, “연봉계약 체결자”는 사장의 경우는 시장, 임ㆍ직원의 경우는 사장을 말한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -109,18 +107,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2107967",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000142945&bylNo=0008&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000161563&bylNo=0008&bylBrNo=00",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:부산관광공사보수규정#JO0003",
             "target_unit": "BYL0008",
             "reference_id": "SchlPubRul:부산관광공사보수규정#BYL0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_git_path": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_git_file_path": "부산관광공사 보수규정/별표/별표8_승진가산급.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -139,18 +132,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2107967",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000142945&bylNo=0009&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000161563&bylNo=0009&bylBrNo=00",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:부산관광공사보수규정#JO0003",
             "target_unit": "BYL0009",
             "reference_id": "SchlPubRul:부산관광공사보수규정#BYL0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_git_path": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_git_file_path": "부산관광공사 보수규정/별표/별표9_강 임 강 급.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json"
           }
         ],
         "images": [],
@@ -161,7 +149,7 @@
         "article_title": "연봉의 지급일",
         "chapter": "제2장 연봉의 계산 및 지급방법",
         "chapter_path": "제2장 연봉의 계산 및 지급방법",
-        "content": "제4조(연봉의 지급일) ① 연봉의 지급일은 다음 각호와 같다.1. 기본연봉은 12로 나누어 매월 20일에 지급한다. 다만, 지급일이 토요일 또는 공휴일인 경우에는 그 전일에 지급한다.2. 성과연봉 지급일은 다음과 같이 한다.가. 임·직원 성과급은 매년 12월내로 한다. <개정 2018. 10. 4.>나. 예산성과급은 사업비절감, 수익증대 등의 특별한 사유가 발생한 경우에 한하여지급하며, 주요사업예산절감 및 수입목표 초과달성의 경우는 익년도 3월말에 지급하며, 영업이익 및 당기순이익 증가의 경우는 지방자치단체의 장의 결산승인 익월에 각각지급한다.3. 부가급여는 매월 기본연봉 지급일에 지급한다. 다만, 다음 각호의 경우에는 다음과 같이 한다.가. 삭제 <2019. 12. 20.>나. 시간외·휴일·야간근무수당은 다음달 10일내에 지급한다. <개정 2019. 12. 20.>다. 일·숙직수당은 다음달 10일내에 지급한다. <개정 2015. 1. 20., 2019. 12. 20.〉라. 연차수당은 회계연도 기준으로 하여 계산하며, 차기연도 1월 급여 지급 시 지급한다.마. 자녀학비보조수당은 학기별 기본연봉지급일(제1학기분: 3월, 제2학기분: 5월, 제3학기분: 8월, 제4학기분: 11월)에 지급한다.② 면직 또는 보수가 지급되지 아니하는 휴직의 경우에는 제1항의 규정에 불구하고면직 또는 휴직일에 보수를 지급할 수 있다.",
+        "content": "제4조(연봉의 지급일) ① 연봉의 지급일은 다음 각호와 같다.1. 기본연봉은 12로 나누어 매월 20일에 지급한다. 다만, 지급일이 토요일 또는 공휴일인 경우에는 그 전일에 지급한다.2. 성과연봉 지급일은 다음과 같이 한다.가. 임ㆍ직원 성과급은 매년 12월내로 한다. <개정 2018. 10. 4.>나. 예산성과급은 사업비절감, 수익증대 등의 특별한 사유가 발생한 경우에 한하여지급하며, 주요사업예산절감 및 수입목표 초과달성의 경우는 익년도 3월말에 지급하며, 영업이익 및 당기순이익 증가의 경우는 지방자치단체의 장의 결산승인 익월에 각각지급한다.3. 부가급여는 매월 기본연봉 지급일에 지급한다. 다만, 다음 각호의 경우에는 다음과 같이 한다.가. 삭제 <2019. 12. 20.>나. 시간외ㆍ휴일ㆍ야간근무수당은 다음달 10일내에 지급한다. <개정 2019. 12. 20.>다. 일ㆍ숙직수당은 다음달 10일내에 지급한다. <개정 2015. 1. 20., 2019. 12. 20.〉라. 연차수당은 회계연도 기준으로 하여 계산하며, 차기연도 1월 급여 지급 시 지급한다.마. 자녀학비보조수당은 학기별 기본연봉지급일(제1학기분: 3월, 제2학기분: 5월, 제3학기분: 8월, 제4학기분: 11월)에 지급한다.② 면직 또는 보수가 지급되지 아니하는 휴직의 경우에는 제1항의 규정에 불구하고면직 또는 휴직일에 보수를 지급할 수 있다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -172,7 +160,7 @@
         "article_title": "연봉계산",
         "chapter": "제2장 연봉의 계산 및 지급방법",
         "chapter_path": "제2장 연봉의 계산 및 지급방법",
-        "content": "제5조(연봉계산) ① 기본연봉의 계산은 다음 각호와 같다.1. 기본연봉의 계산은 매년 1월 1일부터 12월 31일까지 연봉액을 계산하며, 신분상변경이 있는 경우에는 다음과 같이 계산한다.가. 신규채용자 및 승진, 복직, 감봉, 직위해제 등의 경우에는 발령일을 기준으로 일할 계산한다.나. 승진하는 경우에는 [별표 8]의 승진 가산급을 적용 계산한다.2. 장기근속수당은 다음과 같이 계산한다.가. 직원에 대하여는 근속년수에 따라 [별표 10]의 계산기준표와 같이 계산한다.나. 근속년수는 [별표 11]의 경력환산표에 의한 경력과 공사 재직기간을 합산한 경력을 말한다.다. 직원의 재직중 [별표 11]의 경력환산표에 따라 근속년수를 합산하여야 할 사유가발생한 때에는 근속년수를 조정한다. 다만, 휴직, 정직 또는 대기 발령중인 자에 대하여 복직 시에 조정한다.라. 경력합산을 할 때에는 그 사실을 객관적으로 인정할 수 있는 서류에 의하여 신청하여야 한다.3. 직원의 근속년수 계산기간은 1년으로 하되 매년 12월 31일을 기준으로 한 근속년수를 계산하며 다음 각목의 1에 해당하는 기간은 근속년수 계산에 가산한다.가. 병역법 기타 법률의 규정에 의한 의무를 수행하기 위하여 휴직한 기간나. 업무로 인한 질병 또는 부상으로 휴직한 기간다. 인사위원회의 의결 또는 징계의결 요구가 기각되거나 징계처분의 취소 및 법원에서 무죄선고를 받은 경우 그 대기기간② 성과연봉의 계산은 매년 1월 1일부터 12월 31일까지로 함을 원칙으로 하며, 다음각호와 같다. <개정 2013. 9. 11.〉1. 사장과 임원의 성과연봉은 제22조제1항의 규정에 의하여 계산 지급한다.2. 직원의 성과연봉은 [별표 4]의 등급에 따라 제29조의 규정에 의하여 계산 지급한다.3. 임원 및 직원의 예산성과급에 대한 재원 산출과 심사 및 운영 등 필요한 사항은내규로 정한다.4. 성과연봉의 계산에 있어 신규채용자의 성과연봉은 입사연도에는 지급하지 않으며,신분 변동자에 대해서는 지급일 현재 행정안전부의 예산편성기준에 따라 월할 계산하여 지급한다. 다만, 기관평가 등급과 개인 근무평정이 결정되지 않은 상태에서 퇴직한 자는 전년도 기관평가등급과 개인 근무평정 결과를 기준으로 지급한다.5. 삭제 <2017. 10. 19.〉③ 부가급여 계산은 매월 1일부터 해당월의 말일까지로 하여 다음과 같이 한다. <개정 2014. 7. 16.〉1. 직책수행비는 신규채용자 및 보직 변경이 있는 경우에는 발령일을 기준으로 각각일할 계산한다.2. 자격수당은 당해 자격을 증명하는 서류를 첨부하여 인사부서에 등록한 해당월 부터 계산하되, 면직자에 대하여는 발령일이 속하는 달까지 계산한다.3. 가족수당은 임·직원으로서 부양가족이 있는 자에게 4인의 범위 [별표 5]의 지급기준에 따라 지급하되 자녀의 경우에는 부양가족수가 4인을 초과하더라도 지급하고,부양가족 요건을 상실한 자에 대한 수당은 상실한 날이 속하는 달까지 계산하되, 입사 및 퇴사자에 대해서는 일할계산으로 지급한다. 기타 부양가족의 범위 및 지급방법은 내규로 정한다.4. 자녀학비보조수당은 고등학교에 취학하고 있는 자녀가 있는 사원에 대하여 학기별수당 지급일을 기준으로 계산하되 학기 중에 수당을 지급받을 자격이 개시 또는 상실되는 경우에는 이를 지급 또는 환수하되 월할 계산한다. <개정 2018. 10. 4.>5. 일·숙직수당은 일직 및 숙직근무를 한 자에 대하여 지급하되, 지급기준은 [별표 5]와 같다.6. 시간외·휴일·야간근무수당은 근무명령에 의하여 규정된 근무시간외에 근무한직원에게 통상임금을 기준으로 계산한다.7. 연차수당은 연차휴가일에 근무한 직원에게 통상임금을 기준으로 계산한다.8. 특수업무수당은 운전 및 기타 근무자중 유해 위험에 노출된 현장 근무자에 대하여 지급한다.④ 퇴직 또는 사망한 때에는 당월 연봉액 전부를 지급한다. 다만, 시간외근무수당, 휴일근무수당, 야간근무수당 및 연차수당은 실제근무시간 해당 분을 계산 지급한다.",
+        "content": "제5조(연봉계산) ① 기본연봉의 계산은 다음 각호와 같다.1. 기본연봉의 계산은 매년 1월 1일부터 12월 31일까지 연봉액을 계산하며, 신분상변경이 있는 경우에는 다음과 같이 계산한다.가. 신규채용자 및 승진, 복직, 감봉, 직위해제 등의 경우에는 발령일을 기준으로 일할 계산한다.나. 승진하는 경우에는 [별표 8]의 승진 가산급을 적용 계산한다.2. 장기근속수당은 다음과 같이 계산한다.가. 직원에 대하여는 근속년수에 따라 [별표 10]의 계산기준표와 같이 계산한다.나. 근속년수는 [별표 11]의 경력환산표에 의한 경력과 공사 재직기간을 합산한 경력을 말한다.다. 직원의 재직중 [별표 11]의 경력환산표에 따라 근속년수를 합산하여야 할 사유가발생한 때에는 근속년수를 조정한다. 다만, 휴직, 정직 또는 대기 발령중인 자에 대하여 복직 시에 조정한다.라. 경력합산을 할 때에는 그 사실을 객관적으로 인정할 수 있는 서류에 의하여 신청하여야 한다.3. 직원의 근속년수 계산기간은 1년으로 하되 매년 12월 31일을 기준으로 한 근속년수를 계산하며 다음 각목의 1에 해당하는 기간은 근속년수 계산에 가산한다.가. 병역법 기타 법률의 규정에 의한 의무를 수행하기 위하여 휴직한 기간나. 업무로 인한 질병 또는 부상으로 휴직한 기간다. 인사위원회의 의결 또는 징계의결 요구가 기각되거나 징계처분의 취소 및 법원에서 무죄선고를 받은 경우 그 대기기간② 성과연봉의 계산은 매년 1월 1일부터 12월 31일까지로 함을 원칙으로 하며, 다음각호와 같다. <개정 2013. 9. 11.〉1. 사장과 임원의 성과연봉은 제22조제1항의 규정에 의하여 계산 지급한다.2. 직원의 성과연봉은 [별표 4]의 등급에 따라 제29조의 규정에 의하여 계산 지급한다.3. 임원 및 직원의 예산성과급에 대한 재원 산출과 심사 및 운영 등 필요한 사항은내규로 정한다.4. 성과연봉의 계산에 있어 신규채용자의 성과연봉은 입사연도에는 지급하지 않으며,신분 변동자에 대해서는 지급일 현재 행정안전부의 예산편성기준에 따라 월할 계산하여 지급한다. 다만, 기관평가 등급과 개인 근무평정이 결정되지 않은 상태에서 퇴직한 자는 전년도 기관평가등급과 개인 근무평정 결과를 기준으로 지급한다.5. 삭제 <2017. 10. 19.〉③ 부가급여 계산은 매월 1일부터 해당월의 말일까지로 하여 다음과 같이 한다. <개정 2014. 7. 16.〉1. 직책수행비는 신규채용자 및 보직 변경이 있는 경우에는 발령일을 기준으로 각각일할 계산한다.2. 자격수당은 당해 자격을 증명하는 서류를 첨부하여 인사부서에 등록한 해당월 부터 계산하되, 면직자에 대하여는 발령일이 속하는 달까지 계산한다.3. 가족수당은 임ㆍ직원으로서 부양가족이 있는 자에게 4인의 범위 [별표 5]의 지급기준에 따라 지급하되 자녀의 경우에는 부양가족수가 4인을 초과하더라도 지급하고,부양가족 요건을 상실한 자에 대한 수당은 상실한 날이 속하는 달까지 계산하되, 입사 및 퇴사자에 대해서는 일할계산으로 지급한다. 기타 부양가족의 범위 및 지급방법은 내규로 정한다.4. 자녀학비보조수당은 고등학교에 취학하고 있는 자녀가 있는 사원에 대하여 학기별수당 지급일을 기준으로 계산하되 학기 중에 수당을 지급받을 자격이 개시 또는 상실되는 경우에는 이를 지급 또는 환수하되 월할 계산한다. <개정 2018. 10. 4.>5. 일ㆍ숙직수당은 일직 및 숙직근무를 한 자에 대하여 지급하되, 지급기준은 [별표 5]와 같다.6. 시간외ㆍ휴일ㆍ야간근무수당은 근무명령에 의하여 규정된 근무시간외에 근무한직원에게 통상임금을 기준으로 계산한다.7. 연차수당은 연차휴가일에 근무한 직원에게 통상임금을 기준으로 계산한다.8. 특수업무수당은 운전 및 기타 근무자중 유해 위험에 노출된 현장 근무자에 대하여 지급한다.④ 퇴직 또는 사망한 때에는 당월 연봉액 전부를 지급한다. 다만, 시간외근무수당, 휴일근무수당, 야간근무수당 및 연차수당은 실제근무시간 해당 분을 계산 지급한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -192,18 +180,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2107967",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000142945&bylNo=0008&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000161563&bylNo=0008&bylBrNo=00",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:부산관광공사보수규정#JO0005",
             "target_unit": "BYL0008",
             "reference_id": "SchlPubRul:부산관광공사보수규정#BYL0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_git_path": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_git_file_path": "부산관광공사 보수규정/별표/별표8_승진가산급.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -222,18 +205,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2107967",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000142945&bylNo=0010&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000161563&bylNo=0010&bylBrNo=00",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:부산관광공사보수규정#JO0005",
             "target_unit": "BYL0010",
             "reference_id": "SchlPubRul:부산관광공사보수규정#BYL0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_git_path": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_git_file_path": "부산관광공사 보수규정/별표/별표10_장기근속수당 계산기준표.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -252,18 +230,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2107967",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000142945&bylNo=0011&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000161563&bylNo=0011&bylBrNo=00",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:부산관광공사보수규정#JO0005",
             "target_unit": "BYL0011",
             "reference_id": "SchlPubRul:부산관광공사보수규정#BYL0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_git_path": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_git_file_path": "부산관광공사 보수규정/별표/별표11_경력환산표.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -282,18 +255,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2107967",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000142945&bylNo=0011&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000161563&bylNo=0011&bylBrNo=00",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:부산관광공사보수규정#JO0005",
             "target_unit": "BYL0011",
             "reference_id": "SchlPubRul:부산관광공사보수규정#BYL0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_git_path": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_git_file_path": "부산관광공사 보수규정/별표/별표11_경력환산표.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -313,11 +281,7 @@
             "source_provision_id": "SchlPubRul:부산관광공사보수규정#JO0005",
             "reference_id": "SchlPubRul:부산관광공사보수규정#JO0022",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_git_path": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -336,18 +300,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2107967",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000142945&bylNo=0004&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000161563&bylNo=0004&bylBrNo=00",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:부산관광공사보수규정#JO0005",
             "target_unit": "BYL0004",
             "reference_id": "SchlPubRul:부산관광공사보수규정#BYL0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_git_path": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_git_file_path": "부산관광공사 보수규정/별표/별표4_경영평가 성과급 지급 세부기준.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -367,11 +326,7 @@
             "source_provision_id": "SchlPubRul:부산관광공사보수규정#JO0005",
             "reference_id": "SchlPubRul:부산관광공사보수규정#JO0029",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_git_path": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -390,18 +345,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2107967",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000142945&bylNo=0005&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000161563&bylNo=0005&bylBrNo=00",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:부산관광공사보수규정#JO0005",
             "target_unit": "BYL0005",
             "reference_id": "SchlPubRul:부산관광공사보수규정#BYL0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_git_path": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_git_file_path": "부산관광공사 보수규정/별표/별표5_직원의 부가급여 지급기준표.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -420,18 +370,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2107967",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000142945&bylNo=0005&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000161563&bylNo=0005&bylBrNo=00",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:부산관광공사보수규정#JO0005",
             "target_unit": "BYL0005",
             "reference_id": "SchlPubRul:부산관광공사보수규정#BYL0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_git_path": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_git_file_path": "부산관광공사 보수규정/별표/별표5_직원의 부가급여 지급기준표.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json"
           }
         ],
         "images": [],
@@ -462,18 +407,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2107967",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000142945&bylNo=0015&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000161563&bylNo=0015&bylBrNo=00",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:부산관광공사보수규정#JO0006",
             "target_unit": "BYL0015",
             "reference_id": "SchlPubRul:부산관광공사보수규정#BYL0015",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_git_path": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_git_file_path": "부산관광공사 보수규정/별표/별표15_장기근속수당, 가족수당, 자녀학비보조수당 감액 기준.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -492,18 +432,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2107967",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000142945&bylNo=0015&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000161563&bylNo=0015&bylBrNo=00",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:부산관광공사보수규정#JO0006",
             "target_unit": "BYL0015",
             "reference_id": "SchlPubRul:부산관광공사보수규정#BYL0015",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_git_path": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_git_file_path": "부산관광공사 보수규정/별표/별표15_장기근속수당, 가족수당, 자녀학비보조수당 감액 기준.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json"
           }
         ],
         "images": [],
@@ -536,7 +471,7 @@
         "article_title": "직위해제기간중의 보수감액",
         "chapter": "제2장 연봉의 계산 및 지급방법",
         "chapter_path": "제2장 연봉의 계산 및 지급방법",
-        "content": "제9조(직위해제기간중의 보수감액) 직위해제된 자에 대하여는 직위가 해제되었을 때에는 연봉월액의 50%를 지급하며, 직위해제 일로부터 3월이 경과하여도 직위를 부여받지 못한 때에는 그 3월이 경과한 후의 기간 중에는 연봉원액의 32%를 지급하고, 직원의 개인 성과연봉에서는 최저지급률을 적용한다.",
+        "content": "제9조(직위해제기간중의 보수감액) 직위해제된 사람에게는 다음 각 호의 구분에 따라 보수를 감액 지급 한다. <개정 2026. 3. 27.>1. 인사규정 제46조 제1항 제1호의 규정에 따라 직위해제된 사람은 연봉월액의 70%를 지급 한다. <신설 2026. 3. 27.>2. 인사규정 제46조 제1항 제2호부터 제4호의 규정에 따라 직위해제된 사람은 연봉월액의 40%를 지급한다. 다만 직위해제일로부터 3개월이 지나도 직위를 부여받지 못한 때에는 그 3개월이 지난 후의 기간 중에는 연봉월액의 20%를 지급하고, 직원의 개인 성과연봉에서는 최저지급률을 적용한다. <신설 2026. 3. 27.>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -544,10 +479,10 @@
       },
       {
         "article_no": "제10조",
-        "article_title": "면직 또는 징계처분 등이 취소된 임·직원의 보수",
+        "article_title": "면직 또는 징계처분 등이 취소된 임ㆍ직원의 보수",
         "chapter": "제2장 연봉의 계산 및 지급방법",
         "chapter_path": "제2장 연봉의 계산 및 지급방법",
-        "content": "제10조(면직 또는 징계처분 등이 취소된 임·직원의 보수) 직원에게 행한 징계처분, 직위해제처분, 면직처분이 무효 또는 취소된 때에는 복귀일 또는 발령일에 동 처분으로 인하여 지급하지 아니하였거나 감액된 보수를 소급하여 이를 전액 지급한다.",
+        "content": "제10조(면직 또는 징계처분 등이 취소된 임ㆍ직원의 보수) 직원에게 행한 징계처분, 직위해제처분, 면직처분이 무효 또는 취소된 때에는 복귀일 또는 발령일에 동 처분으로 인하여 지급하지 아니하였거나 감액된 보수를 소급하여 이를 전액 지급한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -580,7 +515,7 @@
         "article_title": "적용대상자",
         "chapter": "제3장 연봉계약체결 및 재심청구",
         "chapter_path": "제3장 연봉계약체결 및 재심청구",
-        "content": "제13조(적용대상자) 연봉제의 적용대상은 상근임원과 일반직, 계약직 전체 임·직원으로 한다. <개정 2018. 10. 4.>",
+        "content": "제13조(적용대상자) 연봉제의 적용대상은 상근임원과 일반직, 계약직 전체 임ㆍ직원으로 한다. <개정 2018. 10. 4.>",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -591,7 +526,7 @@
         "article_title": "연봉계약 체결자",
         "chapter": "제3장 연봉계약체결 및 재심청구",
         "chapter_path": "제3장 연봉계약체결 및 재심청구",
-        "content": "제14조(연봉계약 체결자) ① 사장의 연봉계약은 시장과 체결하며, 이사와 직원의 연봉계약은 사장과 체결한다.② 연봉계약은 [별지 제1호] 서식에 의하여 매년 1월중(신규채용자는 발령일)에 체결하되 계약서 원본 2부를 작성 인하여 공사와 연봉제 대상자가 각각 보관한다.③ 재직 중인 임·직원에 대하여 연도중에 보수가 변경될 경우에는 연봉변경계약을체결한다. 다만, 사장이 필요하다고 인정할 경우에는 보수변경 내역을 사장에게 결재를받음으로써 연봉변경계약이 체결된 것으로 갈음하여 연봉변경계약을 생략할 수 있다.",
+        "content": "제14조(연봉계약 체결자) ① 사장의 연봉계약은 시장과 체결하며, 이사와 직원의 연봉계약은 사장과 체결한다.② 연봉계약은 [별지 제1호] 서식에 의하여 매년 1월중(신규채용자는 발령일)에 체결하되 계약서 원본 2부를 작성 인하여 공사와 연봉제 대상자가 각각 보관한다.③ 재직 중인 임ㆍ직원에 대하여 연도중에 보수가 변경될 경우에는 연봉변경계약을체결한다. 다만, 사장이 필요하다고 인정할 경우에는 보수변경 내역을 사장에게 결재를받음으로써 연봉변경계약이 체결된 것으로 갈음하여 연봉변경계약을 생략할 수 있다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -611,18 +546,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2107967",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000142945&bylNo=&bylBrNo=",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000161563&bylNo=&bylBrNo=",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:부산관광공사보수규정#JO0014",
             "target_unit": "FORM0001",
             "reference_id": "SchlPubRul:부산관광공사보수규정#FORM0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_git_path": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_git_file_path": "부산관광공사 보수규정/서식/서식1_연봉계약서.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json"
           }
         ],
         "images": [],
@@ -644,7 +574,7 @@
         "article_title": "연봉재심청구 심의",
         "chapter": "제3장 연봉계약체결 및 재심청구",
         "chapter_path": "제3장 연봉계약체결 및 재심청구",
-        "content": "제16조(연봉재심청구 심의) ① 임원 및 팀장 이상 직원이 연봉재심 청구시에는 이사회에 부의 심의한다.② 보직자를 제외한 직원 및 계약직 직원이 연봉재심 청구시에는 인사위원회에 부의심의한다.③ 이사회 및 인사위원회는 연봉재심청구를 접수한 날로부터 10일 이내에 청구사항을심의·의결하여야 하며, 의결은 과반수이상의 출석과 출석위원 다수결로 정한다.",
+        "content": "제16조(연봉재심청구 심의) ① 임원 및 팀장 이상 직원이 연봉재심 청구시에는 이사회에 부의 심의한다.② 보직자를 제외한 직원 및 계약직 직원이 연봉재심 청구시에는 인사위원회에 부의심의한다.③ 이사회 및 인사위원회는 연봉재심청구를 접수한 날로부터 10일 이내에 청구사항을심의ㆍ의결하여야 하며, 의결은 과반수이상의 출석과 출석위원 다수결로 정한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -676,11 +606,7 @@
             "source_provision_id": "SchlPubRul:부산관광공사보수규정#JO0017",
             "reference_id": "SchlPubRul:부산관광공사보수규정#JO0015",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_git_path": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json"
           }
         ],
         "images": [],
@@ -711,18 +637,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2107967",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000142945&bylNo=0001&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000161563&bylNo=0001&bylBrNo=00",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:부산관광공사보수규정#JO0018",
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:부산관광공사보수규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_git_path": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_git_file_path": "부산관광공사 보수규정/별표/별표1_임원의 연봉지급기준표.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json"
           }
         ],
         "images": [],
@@ -816,18 +737,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2107967",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000142945&bylNo=0001&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000161563&bylNo=0001&bylBrNo=00",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:부산관광공사보수규정#JO0023",
             "target_unit": "BYL0001",
             "reference_id": "SchlPubRul:부산관광공사보수규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_git_path": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_git_file_path": "부산관광공사 보수규정/별표/별표1_임원의 연봉지급기준표.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json"
           }
         ],
         "images": [],
@@ -858,18 +774,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2107967",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000142945&bylNo=0003&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000161563&bylNo=0003&bylBrNo=00",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:부산관광공사보수규정#JO0024",
             "target_unit": "BYL0003",
             "reference_id": "SchlPubRul:부산관광공사보수규정#BYL0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_git_path": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_git_file_path": "부산관광공사 보수규정/별표/별표3_직원의 연봉 지급기준표.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json"
           }
         ],
         "images": [],
@@ -922,18 +833,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2107967",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000142945&bylNo=0006&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000161563&bylNo=0006&bylBrNo=00",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:부산관광공사보수규정#JO0026",
             "target_unit": "BYL0006",
             "reference_id": "SchlPubRul:부산관광공사보수규정#BYL0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_git_path": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_git_file_path": "부산관광공사 보수규정/별표/별표6_직원의 기본연봉의 한계액.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json"
           }
         ],
         "images": [],
@@ -964,18 +870,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2107967",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000142945&bylNo=0006&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000161563&bylNo=0006&bylBrNo=00",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:부산관광공사보수규정#JO0026_02",
             "target_unit": "BYL0006",
             "reference_id": "SchlPubRul:부산관광공사보수규정#BYL0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_git_path": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_git_file_path": "부산관광공사 보수규정/별표/별표6_직원의 기본연봉의 한계액.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -994,18 +895,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2107967",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000142945&bylNo=0011&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000161563&bylNo=0011&bylBrNo=00",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:부산관광공사보수규정#JO0026_02",
             "target_unit": "BYL0011",
             "reference_id": "SchlPubRul:부산관광공사보수규정#BYL0011",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_git_path": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_git_file_path": "부산관광공사 보수규정/별표/별표11_경력환산표.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json"
           }
         ],
         "images": [],
@@ -1036,18 +932,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2107967",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000142945&bylNo=0008&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000161563&bylNo=0008&bylBrNo=00",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:부산관광공사보수규정#JO0027",
             "target_unit": "BYL0008",
             "reference_id": "SchlPubRul:부산관광공사보수규정#BYL0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_git_path": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_git_file_path": "부산관광공사 보수규정/별표/별표8_승진가산급.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json"
           }
         ],
         "images": [],
@@ -1069,7 +960,7 @@
         "article_title": "직원 인센티브 성과급",
         "chapter": "제5장 직원의 연봉",
         "chapter_path": "제5장 직원의 연봉",
-        "content": "제29조(직원 인센티브 성과급) ① 직원 인센티브 성과급기준은 현재 재직 중인 직원의평가대상연도 연봉월액에 지급률을 곱하여 계산한다.② 지급율 기준은 [별표 4]와 같고, 지급방법은 행정안전부 기준·지침에 따르되, 구체적인 사항에 대하여는 사장이 따로 정한다.③ 직원 인센티브 성과급은 인사규정에 의한 근무성적평정 결과, 경영평가 결과 등에따라 지급한다.",
+        "content": "제29조(직원 인센티브 성과급) ① 직원 인센티브 성과급기준은 현재 재직 중인 직원의평가대상연도 연봉월액에 지급률을 곱하여 계산한다.② 지급율 기준은 [별표 4]와 같고, 지급방법은 행정안전부 기준ㆍ지침에 따르되, 구체적인 사항에 대하여는 사장이 따로 정한다.③ 직원 인센티브 성과급은 인사규정에 의한 근무성적평정 결과, 경영평가 결과 등에따라 지급한다.",
         "enforcement_date": "",
         "relations": [
           {
@@ -1089,18 +980,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2107967",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000142945&bylNo=0004&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000161563&bylNo=0004&bylBrNo=00",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:부산관광공사보수규정#JO0029",
             "target_unit": "BYL0004",
             "reference_id": "SchlPubRul:부산관광공사보수규정#BYL0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_git_path": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_git_file_path": "부산관광공사 보수규정/별표/별표4_경영평가 성과급 지급 세부기준.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json"
           }
         ],
         "images": [],
@@ -1131,18 +1017,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2107967",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000142945&bylNo=0005&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000161563&bylNo=0005&bylBrNo=00",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:부산관광공사보수규정#JO0030",
             "target_unit": "BYL0005",
             "reference_id": "SchlPubRul:부산관광공사보수규정#BYL0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_git_path": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_git_file_path": "부산관광공사 보수규정/별표/별표5_직원의 부가급여 지급기준표.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json"
           }
         ],
         "images": [],
@@ -1153,7 +1034,7 @@
         "article_title": "출산전후 휴가수당",
         "chapter": "제5장 직원의 연봉",
         "chapter_path": "제5장 직원의 연봉",
-        "content": "제31조(출산전후 휴가수당) 여성근로자에 대한 산전·산후휴가수당은 기본연봉의 월 급여액을 고용노동부 산전·산후휴가수당 기준에 준하여 지급한다. <개정 2013. 9. 11.〉[제목개정 2013. 9. 11.]",
+        "content": "제31조(출산전후 휴가수당) 여성근로자에 대한 산전ㆍ산후휴가수당은 기본연봉의 월 급여액을 고용노동부 산전ㆍ산후휴가수당 기준에 준하여 지급한다. <개정 2013. 9. 11.〉[제목개정 2013. 9. 11.]",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -1175,9 +1056,110 @@
         "article_title": "퇴직급여금",
         "chapter": "제6장 퇴직급여금",
         "chapter_path": "제6장 퇴직급여금",
-        "content": "제33조(퇴직급여금) ① 만1년 이상 근속한 임·직원이 퇴직하는 경우에는 퇴직급여금을지급한다.② 삭제 <2018. 10. 4.>③ 삭제 <2018. 10. 4.>④ 삭제 <2018. 10. 4.>⑤ 퇴직급여금은 근로자퇴직급여보장법에 따른다.[본조신설 2018. 10. 4.]",
+        "content": "제33조(퇴직급여금) ① 만1년 이상 근속한 임ㆍ직원이 퇴직하는 경우에는 퇴직급여금을지급한다.② 삭제 <2018. 10. 4.>③ 삭제 <2018. 10. 4.>④ 삭제 <2018. 10. 4.>⑤ 퇴직급여금은 근로자퇴직급여보장법에 따른다.[본조신설 2018. 10. 4.]⑥ 인사규정 제42조 제2항 제3호에 따른 고용휴직자에게 고용기관이「근로자퇴직급여보장법」,「공무원연금법」,「군인연금법」,「사립학교교직원 연금법」등에 따른 퇴직금을 지급한 경우, 동일한 근로기간에 대해 중복하여 퇴직급여를 지급할 수 없다. <본항신설 2025. 8. 25.>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제33조",
+            "source_clause": "제33조제6항",
+            "link_text": "제42조",
+            "line_text": "",
+            "target_law_name": "부산관광공사 보수규정",
+            "target_article_no": "제42조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2107967",
+            "target_url": "https://www.law.go.kr/학칙공단/부산관광공사 보수규정/제42조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:부산관광공사보수규정#JO0033",
+            "reference_id": "SchlPubRul:부산관광공사보수규정#JO0042",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제33조",
+            "source_clause": "제33조제6항",
+            "link_text": "「근로자퇴직급여보장법」",
+            "line_text": "",
+            "target_law_name": "근로자퇴직급여보장법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2107967",
+            "target_url": "https://www.law.go.kr/법령/근로자퇴직급여보장법",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:부산관광공사보수규정#JO0033",
+            "reference_id": "law:근로자퇴직급여보장법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "근로자퇴직급여보장법/법률/근로자퇴직급여보장법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제33조",
+            "source_clause": "제33조제6항",
+            "link_text": "「공무원연금법」",
+            "line_text": "",
+            "target_law_name": "공무원연금법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2107967",
+            "target_url": "https://www.law.go.kr/법령/공무원연금법",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:부산관광공사보수규정#JO0033",
+            "reference_id": "law:공무원연금법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "공무원연금법/법률/공무원연금법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제33조",
+            "source_clause": "제33조제6항",
+            "link_text": "「군인연금법」",
+            "line_text": "",
+            "target_law_name": "군인연금법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2107967",
+            "target_url": "https://www.law.go.kr/법령/군인연금법",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:부산관광공사보수규정#JO0033",
+            "reference_id": "law:군인연금법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "군인연금법/법률/군인연금법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제33조",
+            "source_clause": "제33조제6항",
+            "link_text": "「사립학교교직원 연금법」",
+            "line_text": "",
+            "target_law_name": "사립학교교직원 연금법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2107967",
+            "target_url": "https://www.law.go.kr/법령/사립학교교직원 연금법",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:부산관광공사보수규정#JO0033",
+            "reference_id": "law:사립학교교직원연금법#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "사립학교교직원 연금법/법률/사립학교교직원 연금법.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:부산관광공사보수규정#JO0033"
       },
@@ -1186,9 +1168,30 @@
         "article_title": "근속년수 계산",
         "chapter": "제6장 퇴직급여금",
         "chapter_path": "제6장 퇴직급여금",
-        "content": "제34조(근속년수 계산) 근속연수는 다음 각호에 의하여 계산한다.1. 재직기간의 계산은 임·직원으로 임명된 날이 속하는 달로부터 퇴직한 날의 전날또는 사망한 날이 속하는 달까지 년 월수에 의한다. 다만 재직 기간 중 육아휴직을제외한 휴직기간은 100분의 50으로 계산하되 업무로 인한 질병 또는 부상으로 인한휴직기간은 그러하지 아니한다.2. 1월 미만의 단수계산은 일할 계산한다.",
+        "content": "제34조(근속년수 계산) ① 근속연수는 다음 각호에 의하여 계산한다. <개정 2025. 8. 25.>1. 재직기간의 계산은 임ㆍ직원으로 임명된 날이 속하는 달로부터 퇴직한 날의 전날또는 사망한 날이 속하는 달까지 년 월수에 의한다. 다만 재직 기간 중 육아휴직을제외한 휴직기간은 100분의 50으로 계산하되 업무로 인한 질병 또는 부상으로 인한휴직기간은 그러하지 아니한다.2. 1월 미만의 단수계산은 일할 계산한다.② 규정 제33조 제6항에 의거 고용기관이 고용휴직자에게 퇴직금을 지급한 경우 고용휴직 기간은 근속연수에 포함하지 아니한다. <본항신설 2025. 8. 25.>",
         "enforcement_date": "",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "학칙공단",
+            "source_article_no": "제34조",
+            "source_clause": "제34조제2항",
+            "link_text": "제33조",
+            "line_text": "",
+            "target_law_name": "부산관광공사 보수규정",
+            "target_article_no": "제33조",
+            "target_article_title": "",
+            "target_mst": "",
+            "source_admrul_seq": "2107967",
+            "target_url": "https://www.law.go.kr/학칙공단/부산관광공사 보수규정/제33조",
+            "resolve_method": "render",
+            "source_provision_id": "SchlPubRul:부산관광공사보수규정#JO0034",
+            "reference_id": "SchlPubRul:부산관광공사보수규정#JO0033",
+            "target_repo": "SCHLPUBRUL",
+            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json"
+          }
+        ],
         "images": [],
         "provision_id": "SchlPubRul:부산관광공사보수규정#JO0034"
       },
@@ -1228,18 +1231,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2107967",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000142945&bylNo=&bylBrNo=",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000161563&bylNo=&bylBrNo=",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:부산관광공사보수규정#JO0036",
             "target_unit": "FORM0002",
             "reference_id": "SchlPubRul:부산관광공사보수규정#FORM0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_git_path": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_git_file_path": "부산관광공사 보수규정/서식/서식2_조기퇴직수당지급신청서.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -1258,18 +1256,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2107967",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000142945&bylNo=&bylBrNo=",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000161563&bylNo=&bylBrNo=",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:부산관광공사보수규정#JO0036",
             "target_unit": "FORM0003",
             "reference_id": "SchlPubRul:부산관광공사보수규정#FORM0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_git_path": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_git_file_path": "부산관광공사 보수규정/서식/서식3_조기퇴직원.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json"
           }
         ],
         "images": [],
@@ -1301,11 +1294,7 @@
             "source_provision_id": "SchlPubRul:부산관광공사보수규정#JO0037",
             "reference_id": "SchlPubRul:부산관광공사보수규정#JO0039",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_git_path": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1325,11 +1314,7 @@
             "source_provision_id": "SchlPubRul:부산관광공사보수규정#JO0037",
             "reference_id": "SchlPubRul:부산관광공사보수규정#JO0039",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_git_path": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -1348,18 +1333,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2107967",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000142945&bylNo=&bylBrNo=",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000161563&bylNo=&bylBrNo=",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:부산관광공사보수규정#JO0037",
             "target_unit": "FORM0004",
             "reference_id": "SchlPubRul:부산관광공사보수규정#FORM0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_git_path": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_git_file_path": "부산관광공사 보수규정/서식/서식4_명예퇴직수당지급신청서.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -1378,18 +1358,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2107967",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000142945&bylNo=&bylBrNo=",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000161563&bylNo=&bylBrNo=",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:부산관광공사보수규정#JO0037",
             "target_unit": "FORM0005",
             "reference_id": "SchlPubRul:부산관광공사보수규정#FORM0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_git_path": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_git_file_path": "부산관광공사 보수규정/서식/서식5_명예퇴직원.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json"
           }
         ],
         "images": [],
@@ -1397,10 +1372,10 @@
       },
       {
         "article_no": "제38조",
-        "article_title": "조기퇴직·명예퇴직 수당 지급절차 등",
+        "article_title": "조기퇴직ㆍ명예퇴직 수당 지급절차 등",
         "chapter": "제6장 퇴직급여금",
         "chapter_path": "제6장 퇴직급여금",
-        "content": "제38조(조기퇴직·명예퇴직 수당 지급절차 등) 사장은 조기퇴직수당 및 명예퇴직수당 지급신청서를 받은 때에는 20일 이내에 이를 심사하여 지급여부를 결정하고, 결정한 날부터 10일 이내에 그 결과를 본인에게 지급일, 지급장소, 신청서류 기타 지급에 필요한 사항을 통지하여야 한다.",
+        "content": "제38조(조기퇴직ㆍ명예퇴직 수당 지급절차 등) 사장은 조기퇴직수당 및 명예퇴직수당 지급신청서를 받은 때에는 20일 이내에 이를 심사하여 지급여부를 결정하고, 결정한 날부터 10일 이내에 그 결과를 본인에게 지급일, 지급장소, 신청서류 기타 지급에 필요한 사항을 통지하여야 한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -1433,7 +1408,7 @@
         "article_title": "파견공무원 등의 보수",
         "chapter": "제7장 보칙",
         "chapter_path": "제7장 보칙",
-        "content": "제41조(파견공무원 등의 보수) ① 공무원의 신분 및 기관간 협의에 따라 공사에 파견되어 근무하는 자에 대하여는 [별표 13]와 같이 파견수당을 지급한다. <개정 2014. 3. 10.〉② 휴일근무수당, 야간 근무수당, 당직 수당, 직책수당, 관내·외 출장여비는 공사 여비규정에 따라 지급할 수 있다.[본조신설 2014. 3. 10.]③ 공무원 이외의 자는 기관과의 협의에 따라 수당(파견수당 등)을 결정한다.[본조신설 2014. 3. 10.]④ 각 항의 수당 산정의 기준이 되는 급여의 산출은 인사규정에서 정한 임용자격기준의 직급과 경력에 의한다.[본조신설 2014. 3. 10.]",
+        "content": "제41조(파견공무원 등의 보수) ① 공무원의 신분 및 기관간 협의에 따라 공사에 파견되어 근무하는 자에 대하여는 [별표 13]와 같이 파견수당을 지급한다. <개정 2014. 3. 10.〉② 휴일근무수당, 야간 근무수당, 당직 수당, 직책수당, 관내ㆍ외 출장여비는 공사 여비규정에 따라 지급할 수 있다.   [본조신설 2014. 3. 10.]③ 공무원 이외의 자는 기관과의 협의에 따라 수당(파견수당 등)을 결정한다.[본조신설 2014. 3. 10.]④ 각 항의 수당 산정의 기준이 되는 급여의 산출은 인사규정에서 정한 임용자격기준의 직급과 경력에 의한다.  [본조신설 2014. 3. 10.]",
         "enforcement_date": "",
         "relations": [
           {
@@ -1453,18 +1428,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2107967",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000142945&bylNo=0013&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000161563&bylNo=0013&bylBrNo=00",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:부산관광공사보수규정#JO0041",
             "target_unit": "BYL0013",
             "reference_id": "SchlPubRul:부산관광공사보수규정#BYL0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_git_path": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_git_file_path": "부산관광공사 보수규정/별표/별표13_공무원 파견수당 월 지급 기준표.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json"
           }
         ],
         "images": [],
@@ -1496,11 +1466,7 @@
             "source_provision_id": "SchlPubRul:부산관광공사보수규정#JO0042",
             "reference_id": "SchlPubRul:부산관광공사보수규정#JO0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_git_path": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -1519,18 +1485,13 @@
             "appendix_found": true,
             "target_mst": "",
             "source_admrul_seq": "2107967",
-            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000142945&bylNo=0014&bylBrNo=00",
+            "target_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000161563&bylNo=0014&bylBrNo=00",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:부산관광공사보수규정#JO0042",
             "target_unit": "BYL0014",
             "reference_id": "SchlPubRul:부산관광공사보수규정#BYL0014",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_git_path": "부산관광공사 보수규정/부산관광공사 보수규정.json",
-            "target_git_file_path": "부산관광공사 보수규정/별표/별표14_비상임 임원 등의 수당지급기준.hwp",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_git_path_guess": "부산관광공사 보수규정/부산관광공사 보수규정.json"
           }
         ],
         "images": [],
@@ -1578,10 +1539,10 @@
       "content": "부 칙 <제6호, 2012.11.5>이 규정은 공사 설립일로부터 시행한다.",
       "provision_id": "SchlPubRul:부산관광공사보수규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000142945",
+      "source_mst": "2200000161563",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250429"
+      "version_enforcement_date": "20261109"
     },
     {
       "promulgation_date": "20130911",
@@ -1589,10 +1550,10 @@
       "content": "부 칙 <제29호, 2013.9.11>이 규정은 공포한 날부터 시행한다.",
       "provision_id": "SchlPubRul:부산관광공사보수규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000142945",
+      "source_mst": "2200000161563",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250429"
+      "version_enforcement_date": "20261109"
     },
     {
       "promulgation_date": "20140310",
@@ -1600,10 +1561,10 @@
       "content": "부 칙 <제36호, 2014.3.10>이 규정은 공포한 날부터 시행한다.",
       "provision_id": "SchlPubRul:부산관광공사보수규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000142945",
+      "source_mst": "2200000161563",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250429"
+      "version_enforcement_date": "20261109"
     },
     {
       "promulgation_date": "20140716",
@@ -1611,10 +1572,10 @@
       "content": "부 칙 <제40호, 2014.7.16>이 규정은 공포한 날부터 시행한다.",
       "provision_id": "SchlPubRul:부산관광공사보수규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000142945",
+      "source_mst": "2200000161563",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250429"
+      "version_enforcement_date": "20261109"
     },
     {
       "promulgation_date": "20150120",
@@ -1622,10 +1583,10 @@
       "content": "부 칙 <제43호, 2015.1.20>이 규정은 공포한 날부터 시행한다.",
       "provision_id": "SchlPubRul:부산관광공사보수규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000142945",
+      "source_mst": "2200000161563",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250429"
+      "version_enforcement_date": "20261109"
     },
     {
       "promulgation_date": "20150806",
@@ -1633,10 +1594,10 @@
       "content": "부 칙 <제55호, 2015.8.6>이 규정은 공포한 날부터 시행한다.",
       "provision_id": "SchlPubRul:부산관광공사보수규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000142945",
+      "source_mst": "2200000161563",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250429"
+      "version_enforcement_date": "20261109"
     },
     {
       "promulgation_date": "20160523",
@@ -1644,10 +1605,10 @@
       "content": "부 칙 <제66호, 2016.5.23>이 규정은 공포한 날부터 시행한다.",
       "provision_id": "SchlPubRul:부산관광공사보수규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000142945",
+      "source_mst": "2200000161563",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250429"
+      "version_enforcement_date": "20261109"
     },
     {
       "promulgation_date": "20170110",
@@ -1655,10 +1616,10 @@
       "content": "부 칙 <제75호, 2017.1.10>이 규정은 공포한 날부터 시행한다.",
       "provision_id": "SchlPubRul:부산관광공사보수규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000142945",
+      "source_mst": "2200000161563",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250429"
+      "version_enforcement_date": "20261109"
     },
     {
       "promulgation_date": "20170824",
@@ -1666,10 +1627,10 @@
       "content": "부 칙 <제79호, 2017.8.24>이 규정은 공포한 날부터 시행한다.",
       "provision_id": "SchlPubRul:부산관광공사보수규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000142945",
+      "source_mst": "2200000161563",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250429"
+      "version_enforcement_date": "20261109"
     },
     {
       "promulgation_date": "20171023",
@@ -1677,10 +1638,10 @@
       "content": "부 칙 <제81호, 2017.10.23>이 규정은 공포한 날부터 시행한다.",
       "provision_id": "SchlPubRul:부산관광공사보수규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000142945",
+      "source_mst": "2200000161563",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250429"
+      "version_enforcement_date": "20261109"
     },
     {
       "promulgation_date": "20180430",
@@ -1688,10 +1649,10 @@
       "content": "부 칙 <제86호, 2018.4.30>이 규정은 공포한 날부터 시행한다.",
       "provision_id": "SchlPubRul:부산관광공사보수규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000142945",
+      "source_mst": "2200000161563",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250429"
+      "version_enforcement_date": "20261109"
     },
     {
       "promulgation_date": "20181004",
@@ -1699,10 +1660,10 @@
       "content": "부 칙 <제94호, 2018.10.4>이 규정은 공포한 날부터 시행한다.",
       "provision_id": "SchlPubRul:부산관광공사보수규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000142945",
+      "source_mst": "2200000161563",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250429"
+      "version_enforcement_date": "20261109"
     },
     {
       "promulgation_date": "20191220",
@@ -1710,10 +1671,10 @@
       "content": "부칙 <제112호,2019.12.20>이 규정은 공포한 날부터 시행한다.",
       "provision_id": "SchlPubRul:부산관광공사보수규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000142945",
+      "source_mst": "2200000161563",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250429"
+      "version_enforcement_date": "20261109"
     },
     {
       "promulgation_date": "20201231",
@@ -1721,10 +1682,10 @@
       "content": "부칙 <제131호,2020.12.31>이 규정은 공포한 날부터 시행한다.",
       "provision_id": "SchlPubRul:부산관광공사보수규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000142945",
+      "source_mst": "2200000161563",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250429"
+      "version_enforcement_date": "20261109"
     },
     {
       "promulgation_date": "20230619",
@@ -1732,10 +1693,10 @@
       "content": "부칙 <제164호,2023.6.19>이 규정은 공포한 날부터 시행한다.",
       "provision_id": "SchlPubRul:부산관광공사보수규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000142945",
+      "source_mst": "2200000161563",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250429"
+      "version_enforcement_date": "20261109"
     },
     {
       "promulgation_date": "20240319",
@@ -1743,10 +1704,10 @@
       "content": "부칙 <제172호,2024.3.19>이 규정은 공포한 날부터 시행한다.",
       "provision_id": "SchlPubRul:부산관광공사보수규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000142945",
+      "source_mst": "2200000161563",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250429"
+      "version_enforcement_date": "20261109"
     },
     {
       "promulgation_date": "20240820",
@@ -1754,10 +1715,10 @@
       "content": "부칙 <제177호,2024.8.20>이 규정은 공포한 날부터 시행한다.",
       "provision_id": "SchlPubRul:부산관광공사보수규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000142945",
+      "source_mst": "2200000161563",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250429"
+      "version_enforcement_date": "20261109"
     },
     {
       "promulgation_date": "20250320",
@@ -1765,10 +1726,10 @@
       "content": "부칙 <제184호,2025.3.20>이 규정은 공포한 날부터 시행한다.",
       "provision_id": "SchlPubRul:부산관광공사보수규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000142945",
+      "source_mst": "2200000161563",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250429"
+      "version_enforcement_date": "20261109"
     },
     {
       "promulgation_date": "20250429",
@@ -1776,10 +1737,43 @@
       "content": "부칙 <제190호,2025.4.29>이 규정은 2025년 4월 29일부터 시행한다.",
       "provision_id": "SchlPubRul:부산관광공사보수규정#ADDENDUM",
       "is_future": false,
-      "source_mst": "2200000142945",
+      "source_mst": "2200000161563",
       "source_version_uid": "",
       "source_revision_type": "일부개정",
-      "version_enforcement_date": "20250429"
+      "version_enforcement_date": "20261109"
+    },
+    {
+      "promulgation_date": "20250825",
+      "promulgation_no": "00193",
+      "content": "부칙 <제193호,2025.8.25.>제1조 (시행일) 이 규정은 공포한 날부터 시행한다.제2조 (경과규정) 제33조의 제6항, 제34조의 제2항 개정사항은 이 규정 시행일 이후 허가를 받은 고용휴직자부터 적용한다.",
+      "provision_id": "SchlPubRul:부산관광공사보수규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000161563",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261109"
+    },
+    {
+      "promulgation_date": "20260327",
+      "promulgation_no": "00201",
+      "content": "부칙 <제201호,2026.3.27.>이 규정은 공포한 날부터 시행한다.",
+      "provision_id": "SchlPubRul:부산관광공사보수규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000161563",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261109"
+    },
+    {
+      "promulgation_date": "20261109",
+      "promulgation_no": "00210",
+      "content": "부칙 <제210호,2026.11.9.>제1조 (시행일) 이 규정은 공포한 날부터 시행한다.",
+      "provision_id": "SchlPubRul:부산관광공사보수규정#ADDENDUM",
+      "is_future": false,
+      "source_mst": "2200000161563",
+      "source_version_uid": "",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261109"
     }
   ],
   "appendices": [
@@ -1791,12 +1785,12 @@
       "enforcement_date": "",
       "content": "",
       "is_file_only": true,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000142945&bylNo=0001&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151443679",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000161563&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171301633",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151443679",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171301633",
           "name": "",
           "file_store_url": ""
         }
@@ -1816,12 +1810,12 @@
       "enforcement_date": "",
       "content": "",
       "is_file_only": true,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000142945&bylNo=0002&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151443683",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000161563&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171301637",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151443683",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171301637",
           "name": "",
           "file_store_url": ""
         }
@@ -1841,12 +1835,12 @@
       "enforcement_date": "",
       "content": "",
       "is_file_only": true,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000142945&bylNo=0003&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151443687",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000161563&bylNo=0003&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171301641",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151443687",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171301641",
           "name": "",
           "file_store_url": ""
         }
@@ -1866,12 +1860,12 @@
       "enforcement_date": "",
       "content": "",
       "is_file_only": true,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000142945&bylNo=0004&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151443693",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000161563&bylNo=0004&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171301647",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151443693",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171301647",
           "name": "",
           "file_store_url": ""
         }
@@ -1891,12 +1885,12 @@
       "enforcement_date": "",
       "content": "",
       "is_file_only": true,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000142945&bylNo=0005&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151443697",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000161563&bylNo=0005&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171301651",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151443697",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171301651",
           "name": "",
           "file_store_url": ""
         }
@@ -1916,12 +1910,12 @@
       "enforcement_date": "",
       "content": "",
       "is_file_only": true,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000142945&bylNo=0006&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151443701",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000161563&bylNo=0006&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171301655",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151443701",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171301655",
           "name": "",
           "file_store_url": ""
         }
@@ -1941,12 +1935,12 @@
       "enforcement_date": "",
       "content": "",
       "is_file_only": true,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000142945&bylNo=0007&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151443705",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000161563&bylNo=0007&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171301659",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151443705",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171301659",
           "name": "",
           "file_store_url": ""
         }
@@ -1966,12 +1960,12 @@
       "enforcement_date": "",
       "content": "",
       "is_file_only": true,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000142945&bylNo=0008&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151443709",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000161563&bylNo=0008&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171301663",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151443709",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171301663",
           "name": "",
           "file_store_url": ""
         }
@@ -1991,12 +1985,12 @@
       "enforcement_date": "",
       "content": "",
       "is_file_only": true,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000142945&bylNo=0009&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151443713",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000161563&bylNo=0009&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171301667",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151443713",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171301667",
           "name": "",
           "file_store_url": ""
         }
@@ -2016,12 +2010,12 @@
       "enforcement_date": "",
       "content": "",
       "is_file_only": true,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000142945&bylNo=0010&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151443717",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000161563&bylNo=0010&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171301671",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151443717",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171301671",
           "name": "",
           "file_store_url": ""
         }
@@ -2041,12 +2035,12 @@
       "enforcement_date": "",
       "content": "",
       "is_file_only": true,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000142945&bylNo=0011&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151443721",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000161563&bylNo=0011&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171301675",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151443721",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171301675",
           "name": "",
           "file_store_url": ""
         }
@@ -2066,12 +2060,12 @@
       "enforcement_date": "",
       "content": "",
       "is_file_only": true,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000142945&bylNo=0012&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151443725",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000161563&bylNo=0012&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171301679",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151443725",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171301679",
           "name": "",
           "file_store_url": ""
         }
@@ -2091,12 +2085,12 @@
       "enforcement_date": "",
       "content": "",
       "is_file_only": true,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000142945&bylNo=0013&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151443729",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000161563&bylNo=0013&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171301683",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151443729",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171301683",
           "name": "",
           "file_store_url": ""
         }
@@ -2116,12 +2110,12 @@
       "enforcement_date": "",
       "content": "",
       "is_file_only": true,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000142945&bylNo=0014&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151443733",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000161563&bylNo=0014&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171301687",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151443733",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171301687",
           "name": "",
           "file_store_url": ""
         }
@@ -2141,12 +2135,12 @@
       "enforcement_date": "",
       "content": "",
       "is_file_only": true,
-      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000142945&bylNo=0015&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151443737",
+      "view_url": "https://www.law.go.kr/LSW/admRulBylInfoPLinkR.do?admRulSeq=2200000161563&bylNo=0015&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171301691",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151443737",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171301691",
           "name": "",
           "file_store_url": ""
         }
@@ -2167,11 +2161,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151443741",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171301695",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151443741",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171301695",
           "name": "",
           "file_store_url": ""
         }
@@ -2192,11 +2186,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151443745",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171301699",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151443745",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171301699",
           "name": "",
           "file_store_url": ""
         }
@@ -2217,11 +2211,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151443749",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171301703",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151443749",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171301703",
           "name": "",
           "file_store_url": ""
         }
@@ -2242,11 +2236,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151443753",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171301707",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151443753",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171301707",
           "name": "",
           "file_store_url": ""
         }
@@ -2267,11 +2261,11 @@
       "content": "",
       "is_file_only": true,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151443757",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171301711",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=151443757",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=171301711",
           "name": "",
           "file_store_url": ""
         }
@@ -2287,23 +2281,23 @@
   "attachments": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 35,
+    "relations_total": 41,
     "by_category": {
-      "법령": 1,
-      "학칙공단": 33,
+      "법령": 5,
+      "학칙공단": 35,
       "자치법규": 1
     },
     "by_relation_type": {
-      "citation": 2,
+      "citation": 6,
       "appendix_ref": 27,
-      "internal_ref": 6
+      "internal_ref": 8
     },
     "articles_total": 47,
-    "articles_with_relations": 19,
+    "articles_with_relations": 21,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 19,
+    "addenda_count": 22,
     "appendices_count": 20,
     "attachments_count": 0
   },
