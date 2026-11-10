@@ -87,7 +87,9 @@
             "source_provision_id": "SchlPubRul:민원사무처리규정:public_2142219#JO0003",
             "reference_id": "law:민원처리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민원처리에 관한 법률/법률/민원처리에 관한 법률.json"
+            "target_git_path_guess": "민원처리에 관한 법률/법률/민원처리에 관한 법률.json",
+            "target_git_path": "민원 처리에 관한 법률/법률/민원 처리에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -157,7 +159,8 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:민원사무처리규정:public_2142219#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "민원사무처리규정/민원사무처리규정.json"
+            "target_git_path_guess": "민원사무처리규정/민원사무처리규정.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "appendix_ref",
@@ -182,7 +185,8 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:민원사무처리규정:public_2142219#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "민원사무처리규정/민원사무처리규정.json"
+            "target_git_path_guess": "민원사무처리규정/민원사무처리규정.json",
+            "target_missing_unit": true
           }
         ],
         "images": [],
@@ -291,7 +295,11 @@
             "source_provision_id": "SchlPubRul:민원사무처리규정:public_2142219#JO0015",
             "reference_id": "SchlPubRul:민원사무처리규정:public_2142219#JO0010",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "민원사무처리규정/민원사무처리규정.json"
+            "target_git_path_guess": "민원사무처리규정/민원사무처리규정.json",
+            "target_git_path": "민원사무처리규정/public_2142219/민원사무처리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -311,7 +319,11 @@
             "source_provision_id": "SchlPubRul:민원사무처리규정:public_2142219#JO0015",
             "reference_id": "SchlPubRul:민원사무처리규정:public_2142219#JO0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "민원사무처리규정/민원사무처리규정.json"
+            "target_git_path_guess": "민원사무처리규정/민원사무처리규정.json",
+            "target_git_path": "민원사무처리규정/public_2142219/민원사무처리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "citation",
@@ -331,7 +343,9 @@
             "source_provision_id": "SchlPubRul:민원사무처리규정:public_2142219#JO0015",
             "reference_id": "law:전자정부법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -351,7 +365,9 @@
             "source_provision_id": "SchlPubRul:민원사무처리규정:public_2142219#JO0015",
             "reference_id": "law:전자정부법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -493,7 +509,11 @@
             "source_provision_id": "SchlPubRul:민원사무처리규정:public_2142219#JO0026",
             "reference_id": "SchlPubRul:민원사무처리규정:public_2142219#JO0022",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "민원사무처리규정/민원사무처리규정.json"
+            "target_git_path_guess": "민원사무처리규정/민원사무처리규정.json",
+            "target_git_path": "민원사무처리규정/public_2142219/민원사무처리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],

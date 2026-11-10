@@ -1003,13 +1003,30 @@
             "target_url": "https://www.law.go.kr/학칙공단/제안 규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(거제해양관광개발공사)안전보건관리규정#JO0062",
-            "reference_id": "SchlPubRul:제안규정#DOC",
+            "reference_id": "SchlPubRul:제안규정:public_2128225#DOC",
             "target_repo": "SCHLPUBRUL",
             "target_git_path_guess": "제안 규정/제안 규정.json",
-            "target_git_path": "제안규정/제안규정.json",
+            "target_git_path": "제안규정/public_2128225/제안규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
-            "target_doc_kind": "공공기관"
+            "target_doc_kind": "공공기관",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "제안규정/public_2128225/제안규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:제안규정:public_2128225#DOC",
+                "is_current": true,
+                "enforcement_date": "20210507"
+              },
+              {
+                "git_path": "제안규정/public_2142223/제안규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:제안규정:public_2142223#DOC",
+                "is_current": true,
+                "enforcement_date": "20200625"
+              }
+            ]
           }
         ],
         "images": [],

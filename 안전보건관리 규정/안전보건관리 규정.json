@@ -144,7 +144,7 @@
             "reference_id": "SchlPubRul:인사규정:public_2130247#DOC",
             "target_repo": "SCHLPUBRUL",
             "target_git_path_guess": "인사규정/인사규정.json",
-            "target_candidates": 4,
+            "target_candidates": 5,
             "target_git_path": "인사규정/public_2130247/인사규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
@@ -177,6 +177,13 @@
                 "provision_id": "SchlPubRul:인사규정:public_2141221#DOC",
                 "is_current": true,
                 "enforcement_date": "20260805"
+              },
+              {
+                "git_path": "인사규정/public_2142105/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2142105#DOC",
+                "is_current": true,
+                "enforcement_date": "20260128"
               }
             ]
           },
@@ -296,11 +303,11 @@
             "target_url": "https://www.law.go.kr/학칙공단/취업규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:안전보건관리규정#JO0003",
-            "reference_id": "SchlPubRul:취업규정:public_2141121#DOC",
+            "reference_id": "SchlPubRul:취업규정:public_2142161#DOC",
             "target_repo": "SCHLPUBRUL",
             "target_git_path_guess": "취업규정/취업규정.json",
-            "target_candidates": 2,
-            "target_git_path": "취업규정/public_2141121/취업규정.json",
+            "target_candidates": 3,
+            "target_git_path": "취업규정/public_2142161/취업규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
             "target_doc_kind": "공공기관",
@@ -318,6 +325,13 @@
                 "provision_id": "SchlPubRul:취업규정:public_2141121#DOC",
                 "is_current": true,
                 "enforcement_date": "20260720"
+              },
+              {
+                "git_path": "취업규정/public_2142161/취업규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:취업규정:public_2142161#DOC",
+                "is_current": true,
+                "enforcement_date": "20260922"
               }
             ]
           }
@@ -365,12 +379,12 @@
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:안전보건관리규정#JO0005",
             "target_unit": "BYL0001",
-            "reference_id": "SchlPubRul:안전보건관리규정#BYL0001",
+            "reference_id": "SchlPubRul:안전보건관리규정:public_2141155#BYL0001",
             "target_repo": "SCHLPUBRUL",
             "target_git_path_guess": "안전보건관리 규정/안전보건관리 규정.json",
             "target_candidates": 2,
-            "target_git_path": "안전보건관리규정/안전보건관리규정.json",
-            "target_git_file_path": "안전보건관리규정/별표/별표1_안건보건관리 조직 구성도.hwp",
+            "target_git_path": "안전보건관리규정/public_2141155/안전보건관리규정.json",
+            "target_git_file_path": "안전보건관리규정/public_2141155/별표/별표1_안건보건관리 조직 구성도.hwp",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
             "target_doc_kind": "공공기관",
@@ -383,9 +397,9 @@
                 "enforcement_date": "20260520"
               },
               {
-                "git_path": "안전보건관리규정/안전보건관리규정.json",
+                "git_path": "안전보건관리규정/public_2141155/안전보건관리규정.json",
                 "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:안전보건관리규정#BYL0001",
+                "provision_id": "SchlPubRul:안전보건관리규정:public_2141155#BYL0001",
                 "is_current": true,
                 "enforcement_date": "20260720"
               }
@@ -475,11 +489,11 @@
             "target_url": "https://www.law.go.kr/학칙공단/보수규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:안전보건관리규정#JO0007_03",
-            "reference_id": "SchlPubRul:보수규정:public_2128339#DOC",
+            "reference_id": "SchlPubRul:보수규정:public_2141161#DOC",
             "target_repo": "SCHLPUBRUL",
             "target_git_path_guess": "보수규정/보수규정.json",
-            "target_candidates": 3,
-            "target_git_path": "보수규정/public_2128339/보수규정.json",
+            "target_candidates": 4,
+            "target_git_path": "보수규정/public_2141161/보수규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
             "target_doc_kind": "공공기관",
@@ -503,7 +517,14 @@
                 "source_repository": "SCHLPUBRUL",
                 "provision_id": "SchlPubRul:보수규정:public_2141161#DOC",
                 "is_current": true,
-                "enforcement_date": "20251216"
+                "enforcement_date": "20261027"
+              },
+              {
+                "git_path": "보수규정/public_2142107/보수규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:보수규정:public_2142107#DOC",
+                "is_current": true,
+                "enforcement_date": "20260428"
               }
             ]
           }
@@ -546,11 +567,11 @@
             "target_url": "https://www.law.go.kr/학칙공단/안전보건관리 규정/제6조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:안전보건관리규정#JO0008",
-            "reference_id": "SchlPubRul:안전보건관리규정#JO0006",
+            "reference_id": "SchlPubRul:안전보건관리규정:public_2141155#JO0006",
             "target_repo": "SCHLPUBRUL",
             "target_git_path_guess": "안전보건관리 규정/안전보건관리 규정.json",
-            "target_candidates": 2,
-            "target_git_path": "안전보건관리규정/안전보건관리규정.json",
+            "target_candidates": 3,
+            "target_git_path": "안전보건관리규정/public_2141155/안전보건관리규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
             "target_doc_kind": "공공기관",
@@ -563,11 +584,18 @@
                 "enforcement_date": "20260520"
               },
               {
-                "git_path": "안전보건관리규정/안전보건관리규정.json",
+                "git_path": "안전보건관리규정/public_2141155/안전보건관리규정.json",
                 "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:안전보건관리규정#JO0006",
+                "provision_id": "SchlPubRul:안전보건관리규정:public_2141155#JO0006",
                 "is_current": true,
                 "enforcement_date": "20260720"
+              },
+              {
+                "git_path": "안전보건관리규정/public_2142243/안전보건관리규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:안전보건관리규정:public_2142243#JO0006",
+                "is_current": true,
+                "enforcement_date": "20260423"
               }
             ]
           },
@@ -587,11 +615,11 @@
             "target_url": "https://www.law.go.kr/학칙공단/취업규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:안전보건관리규정#JO0008",
-            "reference_id": "SchlPubRul:취업규정:public_2141121#DOC",
+            "reference_id": "SchlPubRul:취업규정:public_2142161#DOC",
             "target_repo": "SCHLPUBRUL",
             "target_git_path_guess": "취업규정/취업규정.json",
-            "target_candidates": 2,
-            "target_git_path": "취업규정/public_2141121/취업규정.json",
+            "target_candidates": 3,
+            "target_git_path": "취업규정/public_2142161/취업규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
             "target_doc_kind": "공공기관",
@@ -609,6 +637,13 @@
                 "provision_id": "SchlPubRul:취업규정:public_2141121#DOC",
                 "is_current": true,
                 "enforcement_date": "20260720"
+              },
+              {
+                "git_path": "취업규정/public_2142161/취업규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:취업규정:public_2142161#DOC",
+                "is_current": true,
+                "enforcement_date": "20260922"
               }
             ]
           },
@@ -628,11 +663,11 @@
             "target_url": "https://www.law.go.kr/학칙공단/취업규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:안전보건관리규정#JO0008",
-            "reference_id": "SchlPubRul:취업규정:public_2141121#DOC",
+            "reference_id": "SchlPubRul:취업규정:public_2142161#DOC",
             "target_repo": "SCHLPUBRUL",
             "target_git_path_guess": "취업규정/취업규정.json",
-            "target_candidates": 2,
-            "target_git_path": "취업규정/public_2141121/취업규정.json",
+            "target_candidates": 3,
+            "target_git_path": "취업규정/public_2142161/취업규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
             "target_doc_kind": "공공기관",
@@ -650,6 +685,13 @@
                 "provision_id": "SchlPubRul:취업규정:public_2141121#DOC",
                 "is_current": true,
                 "enforcement_date": "20260720"
+              },
+              {
+                "git_path": "취업규정/public_2142161/취업규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:취업규정:public_2142161#DOC",
+                "is_current": true,
+                "enforcement_date": "20260922"
               }
             ]
           },
@@ -767,11 +809,11 @@
             "target_url": "https://www.law.go.kr/학칙공단/안전보건관리 규정/제6조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:안전보건관리규정#JO0009",
-            "reference_id": "SchlPubRul:안전보건관리규정#JO0006",
+            "reference_id": "SchlPubRul:안전보건관리규정:public_2141155#JO0006",
             "target_repo": "SCHLPUBRUL",
             "target_git_path_guess": "안전보건관리 규정/안전보건관리 규정.json",
-            "target_candidates": 2,
-            "target_git_path": "안전보건관리규정/안전보건관리규정.json",
+            "target_candidates": 3,
+            "target_git_path": "안전보건관리규정/public_2141155/안전보건관리규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
             "target_doc_kind": "공공기관",
@@ -784,11 +826,18 @@
                 "enforcement_date": "20260520"
               },
               {
-                "git_path": "안전보건관리규정/안전보건관리규정.json",
+                "git_path": "안전보건관리규정/public_2141155/안전보건관리규정.json",
                 "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:안전보건관리규정#JO0006",
+                "provision_id": "SchlPubRul:안전보건관리규정:public_2141155#JO0006",
                 "is_current": true,
                 "enforcement_date": "20260720"
+              },
+              {
+                "git_path": "안전보건관리규정/public_2142243/안전보건관리규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:안전보건관리규정:public_2142243#JO0006",
+                "is_current": true,
+                "enforcement_date": "20260423"
               }
             ]
           },
@@ -808,11 +857,11 @@
             "target_url": "https://www.law.go.kr/학칙공단/취업규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:안전보건관리규정#JO0009",
-            "reference_id": "SchlPubRul:취업규정:public_2141121#DOC",
+            "reference_id": "SchlPubRul:취업규정:public_2142161#DOC",
             "target_repo": "SCHLPUBRUL",
             "target_git_path_guess": "취업규정/취업규정.json",
-            "target_candidates": 2,
-            "target_git_path": "취업규정/public_2141121/취업규정.json",
+            "target_candidates": 3,
+            "target_git_path": "취업규정/public_2142161/취업규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
             "target_doc_kind": "공공기관",
@@ -830,6 +879,13 @@
                 "provision_id": "SchlPubRul:취업규정:public_2141121#DOC",
                 "is_current": true,
                 "enforcement_date": "20260720"
+              },
+              {
+                "git_path": "취업규정/public_2142161/취업규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:취업규정:public_2142161#DOC",
+                "is_current": true,
+                "enforcement_date": "20260922"
               }
             ]
           },
@@ -849,11 +905,11 @@
             "target_url": "https://www.law.go.kr/학칙공단/취업규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:안전보건관리규정#JO0009",
-            "reference_id": "SchlPubRul:취업규정:public_2141121#DOC",
+            "reference_id": "SchlPubRul:취업규정:public_2142161#DOC",
             "target_repo": "SCHLPUBRUL",
             "target_git_path_guess": "취업규정/취업규정.json",
-            "target_candidates": 2,
-            "target_git_path": "취업규정/public_2141121/취업규정.json",
+            "target_candidates": 3,
+            "target_git_path": "취업규정/public_2142161/취업규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
             "target_doc_kind": "공공기관",
@@ -871,6 +927,13 @@
                 "provision_id": "SchlPubRul:취업규정:public_2141121#DOC",
                 "is_current": true,
                 "enforcement_date": "20260720"
+              },
+              {
+                "git_path": "취업규정/public_2142161/취업규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:취업규정:public_2142161#DOC",
+                "is_current": true,
+                "enforcement_date": "20260922"
               }
             ]
           },
@@ -1530,7 +1593,7 @@
             "reference_id": "SchlPubRul:인사규정:public_2130247#DOC",
             "target_repo": "SCHLPUBRUL",
             "target_git_path_guess": "인사규정/인사규정.json",
-            "target_candidates": 4,
+            "target_candidates": 5,
             "target_git_path": "인사규정/public_2130247/인사규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
@@ -1563,6 +1626,13 @@
                 "provision_id": "SchlPubRul:인사규정:public_2141221#DOC",
                 "is_current": true,
                 "enforcement_date": "20260805"
+              },
+              {
+                "git_path": "인사규정/public_2142105/인사규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인사규정:public_2142105#DOC",
+                "is_current": true,
+                "enforcement_date": "20260128"
               }
             ]
           }

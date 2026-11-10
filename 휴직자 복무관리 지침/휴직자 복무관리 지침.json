@@ -101,9 +101,14 @@
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:휴직자복무관리지침#JO0004",
             "target_unit": "ATT0001",
-            "reference_id": "SchlPubRul:휴직자복무관리지침#ATT0001",
+            "reference_id": "admrul:휴직자복무관리지침#ATT0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "휴직자 복무관리 지침/휴직자 복무관리 지침.json"
+            "target_git_path_guess": "휴직자 복무관리 지침/휴직자 복무관리 지침.json",
+            "target_git_path": "휴직자 복무관리 지침/휴직자 복무관리 지침.json",
+            "target_git_file_path": "휴직자 복무관리 지침/붙임/붙임1_휴직자 복무상황 신고서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -126,9 +131,14 @@
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:휴직자복무관리지침#JO0004",
             "target_unit": "ATT0002",
-            "reference_id": "SchlPubRul:휴직자복무관리지침#ATT0002",
+            "reference_id": "admrul:휴직자복무관리지침#ATT0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "휴직자 복무관리 지침/휴직자 복무관리 지침.json"
+            "target_git_path_guess": "휴직자 복무관리 지침/휴직자 복무관리 지침.json",
+            "target_git_path": "휴직자 복무관리 지침/휴직자 복무관리 지침.json",
+            "target_git_file_path": "휴직자 복무관리 지침/붙임/붙임2_휴직검증위원회 심사 의결서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -171,7 +181,9 @@
             "source_provision_id": "SchlPubRul:휴직자복무관리지침#JO0006",
             "reference_id": "law:남녀고용평등과일가정양립지원에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/시행령/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률 시행령.json"
+            "target_git_path_guess": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/시행령/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률 시행령.json",
+            "target_git_path": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/시행령/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -191,7 +203,9 @@
             "source_provision_id": "SchlPubRul:휴직자복무관리지침#JO0006",
             "reference_id": "law:남녀고용평등과일가정양립지원에관한법률시행령#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/시행령/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률 시행령.json"
+            "target_git_path_guess": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/시행령/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률 시행령.json",
+            "target_git_path": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률/시행령/남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],

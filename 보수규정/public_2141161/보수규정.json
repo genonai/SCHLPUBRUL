@@ -1010,10 +1010,10 @@
             "target_url": "https://www.law.go.kr/학칙공단/여비규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:보수규정:public_2141161#JO0039",
-            "reference_id": "SchlPubRul:여비규정#DOC",
+            "reference_id": "SchlPubRul:여비규정:public_2130973#DOC",
             "target_repo": "SCHLPUBRUL",
             "target_git_path_guess": "여비규정/여비규정.json",
-            "target_candidates": 4,
+            "target_candidates": 5,
             "target_candidate_paths": [
               {
                 "git_path": "여비규정/public_2127979/여비규정.json",
@@ -1042,6 +1042,13 @@
                 "provision_id": "SchlPubRul:여비규정:public_2141167#DOC",
                 "is_current": true,
                 "enforcement_date": "20241018"
+              },
+              {
+                "git_path": "여비규정/public_2142195/여비규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:여비규정:public_2142195#DOC",
+                "is_current": true,
+                "enforcement_date": "20230330"
               }
             ],
             "target_git_path": "여비규정/public_2130973/여비규정.json",

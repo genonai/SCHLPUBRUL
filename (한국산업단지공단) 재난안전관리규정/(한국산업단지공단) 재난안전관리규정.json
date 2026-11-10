@@ -226,11 +226,11 @@
             "target_url": "https://www.law.go.kr/학칙공단/안전보건관리규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국산업단지공단)재난안전관리규정#JO0009",
-            "reference_id": "SchlPubRul:안전보건관리규정#DOC",
+            "reference_id": "SchlPubRul:안전보건관리규정:public_2141155#DOC",
             "target_repo": "SCHLPUBRUL",
             "target_git_path_guess": "안전보건관리규정/안전보건관리규정.json",
-            "target_candidates": 2,
-            "target_git_path": "안전보건관리규정/안전보건관리규정.json",
+            "target_candidates": 3,
+            "target_git_path": "안전보건관리규정/public_2141155/안전보건관리규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
             "target_doc_kind": "공공기관",
@@ -243,11 +243,18 @@
                 "enforcement_date": "20260520"
               },
               {
-                "git_path": "안전보건관리규정/안전보건관리규정.json",
+                "git_path": "안전보건관리규정/public_2141155/안전보건관리규정.json",
                 "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:안전보건관리규정#DOC",
+                "provision_id": "SchlPubRul:안전보건관리규정:public_2141155#DOC",
                 "is_current": true,
                 "enforcement_date": "20260720"
+              },
+              {
+                "git_path": "안전보건관리규정/public_2142243/안전보건관리규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:안전보건관리규정:public_2142243#DOC",
+                "is_current": true,
+                "enforcement_date": "20260423"
               }
             ]
           },
@@ -267,11 +274,11 @@
             "target_url": "https://www.law.go.kr/학칙공단/안전보건관리규정/제8조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:(한국산업단지공단)재난안전관리규정#JO0009",
-            "reference_id": "SchlPubRul:안전보건관리규정#JO0008",
+            "reference_id": "SchlPubRul:안전보건관리규정:public_2141155#JO0008",
             "target_repo": "SCHLPUBRUL",
             "target_git_path_guess": "안전보건관리규정/안전보건관리규정.json",
-            "target_candidates": 2,
-            "target_git_path": "안전보건관리규정/안전보건관리규정.json",
+            "target_candidates": 3,
+            "target_git_path": "안전보건관리규정/public_2141155/안전보건관리규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
             "target_doc_kind": "공공기관",
@@ -284,11 +291,18 @@
                 "enforcement_date": "20260520"
               },
               {
-                "git_path": "안전보건관리규정/안전보건관리규정.json",
+                "git_path": "안전보건관리규정/public_2141155/안전보건관리규정.json",
                 "source_repository": "SCHLPUBRUL",
-                "provision_id": "SchlPubRul:안전보건관리규정#JO0008",
+                "provision_id": "SchlPubRul:안전보건관리규정:public_2141155#JO0008",
                 "is_current": true,
                 "enforcement_date": "20260720"
+              },
+              {
+                "git_path": "안전보건관리규정/public_2142243/안전보건관리규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:안전보건관리규정:public_2142243#JO0008",
+                "is_current": true,
+                "enforcement_date": "20260423"
               }
             ]
           }

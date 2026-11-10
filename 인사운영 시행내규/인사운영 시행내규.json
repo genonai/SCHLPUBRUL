@@ -175,7 +175,11 @@
             "source_provision_id": "SchlPubRul:인사운영시행내규#JO0011",
             "reference_id": "admrul:공무원비위사건처리규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공무원 비위사건 처리규정/공무원 비위사건 처리규정.json"
+            "target_git_path_guess": "공무원 비위사건 처리규정/공무원 비위사건 처리규정.json",
+            "target_git_path": "공무원 비위사건 처리규정/공무원 비위사건 처리규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -207,7 +211,9 @@
             "source_provision_id": "SchlPubRul:인사운영시행내규#JO0011_02",
             "reference_id": "law:지방공기업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -227,7 +233,9 @@
             "source_provision_id": "SchlPubRul:인사운영시행내규#JO0011_02",
             "reference_id": "law:지방공기업법#JO0058",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -247,7 +255,9 @@
             "source_provision_id": "SchlPubRul:인사운영시행내규#JO0011_02",
             "reference_id": "law:지방공기업법#JO0063_07",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -267,7 +277,9 @@
             "source_provision_id": "SchlPubRul:인사운영시행내규#JO0011_02",
             "reference_id": "law:민법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -287,7 +299,9 @@
             "source_provision_id": "SchlPubRul:인사운영시행내규#JO0011_02",
             "reference_id": "law:민법#JO0379",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -307,7 +321,9 @@
             "source_provision_id": "SchlPubRul:인사운영시행내규#JO0011_02",
             "reference_id": "law:민법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -327,7 +343,9 @@
             "source_provision_id": "SchlPubRul:인사운영시행내규#JO0011_02",
             "reference_id": "law:민법#JO0379",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -441,7 +459,9 @@
         "source_provision_id": "SchlPubRul:인사운영시행내규#DOC",
         "reference_id": "law:국가유공자등예우및지원에관한법률#DOC",
         "target_repo": "LAW",
-        "target_git_path_guess": "국가유공자 등 예우 및 지원에 관한 법률/법률/국가유공자 등 예우 및 지원에 관한 법률.json"
+        "target_git_path_guess": "국가유공자 등 예우 및 지원에 관한 법률/법률/국가유공자 등 예우 및 지원에 관한 법률.json",
+        "target_git_path": "국가유공자 등 예우 및 지원에 관한 법률/법률/국가유공자 등 예우 및 지원에 관한 법률.json",
+        "target_source_repository": "LAW"
       }
     ]
   },

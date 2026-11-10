@@ -101,9 +101,14 @@
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:소송사무처리규정#JO0004",
             "target_unit": "BJ0008",
-            "reference_id": "SchlPubRul:소송사무처리규정#BJ0008",
+            "reference_id": "admrul:소송사무처리규정#BJ0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "소송사무처리규정/소송사무처리규정.json"
+            "target_git_path_guess": "소송사무처리규정/소송사무처리규정.json",
+            "target_git_path": "소송사무처리규정/소송사무처리규정.json",
+            "target_git_file_path": "소송사무처리규정/별지/별지8_사건요약보고서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -160,9 +165,14 @@
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:소송사무처리규정#JO0007",
             "target_unit": "BJ0001",
-            "reference_id": "SchlPubRul:소송사무처리규정#BJ0001",
+            "reference_id": "admrul:소송사무처리규정#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "소송사무처리규정/소송사무처리규정.json"
+            "target_git_path_guess": "소송사무처리규정/소송사무처리규정.json",
+            "target_git_path": "소송사무처리규정/소송사무처리규정.json",
+            "target_git_file_path": "소송사무처리규정/별지/별지1_소송 대리인 선임 계약서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -227,7 +237,11 @@
             "source_provision_id": "SchlPubRul:소송사무처리규정#JO0011",
             "reference_id": "SchlPubRul:소송사무처리규정#JO0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "소송사무처리규정/소송사무처리규정.json"
+            "target_git_path_guess": "소송사무처리규정/소송사무처리규정.json",
+            "target_git_path": "소송사무처리규정/소송사무처리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "appendix_ref",
@@ -250,9 +264,14 @@
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:소송사무처리규정#JO0011",
             "target_unit": "BJ0002",
-            "reference_id": "SchlPubRul:소송사무처리규정#BJ0002",
+            "reference_id": "admrul:소송사무처리규정#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "소송사무처리규정/소송사무처리규정.json"
+            "target_git_path_guess": "소송사무처리규정/소송사무처리규정.json",
+            "target_git_path": "소송사무처리규정/소송사무처리규정.json",
+            "target_git_file_path": "소송사무처리규정/별지/별지2_소송대리인 선임 검토서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -275,9 +294,14 @@
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:소송사무처리규정#JO0011",
             "target_unit": "BJ0003",
-            "reference_id": "SchlPubRul:소송사무처리규정#BJ0003",
+            "reference_id": "admrul:소송사무처리규정#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "소송사무처리규정/소송사무처리규정.json"
+            "target_git_path_guess": "소송사무처리규정/소송사무처리규정.json",
+            "target_git_path": "소송사무처리규정/소송사무처리규정.json",
+            "target_git_file_path": "소송사무처리규정/별지/별지3_소송대리인 위임장.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -312,9 +336,14 @@
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:소송사무처리규정#JO0012",
             "target_unit": "BJ0004",
-            "reference_id": "SchlPubRul:소송사무처리규정#BJ0004",
+            "reference_id": "admrul:소송사무처리규정#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "소송사무처리규정/소송사무처리규정.json"
+            "target_git_path_guess": "소송사무처리규정/소송사무처리규정.json",
+            "target_git_path": "소송사무처리규정/소송사무처리규정.json",
+            "target_git_file_path": "소송사무처리규정/별지/별지4_소송수행자지정서(행정소송).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -349,9 +378,14 @@
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:소송사무처리규정#JO0013",
             "target_unit": "BJ0005",
-            "reference_id": "SchlPubRul:소송사무처리규정#BJ0005",
+            "reference_id": "admrul:소송사무처리규정#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "소송사무처리규정/소송사무처리규정.json"
+            "target_git_path_guess": "소송사무처리규정/소송사무처리규정.json",
+            "target_git_path": "소송사무처리규정/소송사무처리규정.json",
+            "target_git_file_path": "소송사무처리규정/별지/별지5_송수행자지정서(국가소송).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -394,7 +428,11 @@
             "source_provision_id": "SchlPubRul:소송사무처리규정#JO0015",
             "reference_id": "SchlPubRul:소송사무처리규정#JO0014",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "소송사무처리규정/소송사무처리규정.json"
+            "target_git_path_guess": "소송사무처리규정/소송사무처리규정.json",
+            "target_git_path": "소송사무처리규정/소송사무처리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -473,9 +511,14 @@
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:소송사무처리규정#JO0020",
             "target_unit": "BJ0006",
-            "reference_id": "SchlPubRul:소송사무처리규정#BJ0006",
+            "reference_id": "admrul:소송사무처리규정#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "소송사무처리규정/소송사무처리규정.json"
+            "target_git_path_guess": "소송사무처리규정/소송사무처리규정.json",
+            "target_git_path": "소송사무처리규정/소송사무처리규정.json",
+            "target_git_file_path": "소송사무처리규정/별지/별지6_소송수행자 해임서.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -498,9 +541,14 @@
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:소송사무처리규정#JO0020",
             "target_unit": "BJ0007",
-            "reference_id": "SchlPubRul:소송사무처리규정#BJ0007",
+            "reference_id": "admrul:소송사무처리규정#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "소송사무처리규정/소송사무처리규정.json"
+            "target_git_path_guess": "소송사무처리규정/소송사무처리규정.json",
+            "target_git_path": "소송사무처리규정/소송사무처리규정.json",
+            "target_git_file_path": "소송사무처리규정/별지/별지7_과세절차 적법여부 검토표.hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -543,7 +591,11 @@
             "source_provision_id": "SchlPubRul:소송사무처리규정#JO0022",
             "reference_id": "SchlPubRul:소송사무처리규정#JO0009",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "소송사무처리규정/소송사무처리규정.json"
+            "target_git_path_guess": "소송사무처리규정/소송사무처리규정.json",
+            "target_git_path": "소송사무처리규정/소송사무처리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -597,7 +649,11 @@
             "source_provision_id": "SchlPubRul:소송사무처리규정#JO0025",
             "reference_id": "SchlPubRul:소송사무처리규정#JO0024",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "소송사무처리규정/소송사무처리규정.json"
+            "target_git_path_guess": "소송사무처리규정/소송사무처리규정.json",
+            "target_git_path": "소송사무처리규정/소송사무처리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -629,7 +685,11 @@
             "source_provision_id": "SchlPubRul:소송사무처리규정#JO0026",
             "reference_id": "SchlPubRul:소송사무처리규정#JO0024",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "소송사무처리규정/소송사무처리규정.json"
+            "target_git_path_guess": "소송사무처리규정/소송사무처리규정.json",
+            "target_git_path": "소송사무처리규정/소송사무처리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           },
           {
             "relation_type": "internal_ref",
@@ -649,7 +709,11 @@
             "source_provision_id": "SchlPubRul:소송사무처리규정#JO0026",
             "reference_id": "SchlPubRul:소송사무처리규정#JO0024",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "소송사무처리규정/소송사무처리규정.json"
+            "target_git_path_guess": "소송사무처리규정/소송사무처리규정.json",
+            "target_git_path": "소송사무처리규정/소송사무처리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -736,7 +800,11 @@
             "source_provision_id": "SchlPubRul:소송사무처리규정#JO0032",
             "reference_id": "SchlPubRul:소송사무처리규정#JO0031",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "소송사무처리규정/소송사무처리규정.json"
+            "target_git_path_guess": "소송사무처리규정/소송사무처리규정.json",
+            "target_git_path": "소송사무처리규정/소송사무처리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "public",
+            "target_doc_kind": "공공기관"
           }
         ],
         "images": [],
@@ -782,9 +850,14 @@
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:소송사무처리규정#JO0034",
             "target_unit": "BYL0001",
-            "reference_id": "SchlPubRul:소송사무처리규정#BYL0001",
+            "reference_id": "admrul:소송사무처리규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "소송사무처리규정/소송사무처리규정.json"
+            "target_git_path_guess": "소송사무처리규정/소송사무처리규정.json",
+            "target_git_path": "소송사무처리규정/소송사무처리규정.json",
+            "target_git_file_path": "소송사무처리규정/별표/별표1_소송서류 입력 기한(제58조 제1항관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "appendix_ref",
@@ -807,9 +880,14 @@
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:소송사무처리규정#JO0034",
             "target_unit": "BYL0001",
-            "reference_id": "SchlPubRul:소송사무처리규정#BYL0001",
+            "reference_id": "admrul:소송사무처리규정#BYL0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "소송사무처리규정/소송사무처리규정.json"
+            "target_git_path_guess": "소송사무처리규정/소송사무처리규정.json",
+            "target_git_path": "소송사무처리규정/소송사무처리규정.json",
+            "target_git_file_path": "소송사무처리규정/별표/별표1_소송서류 입력 기한(제58조 제1항관련).hwp",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],

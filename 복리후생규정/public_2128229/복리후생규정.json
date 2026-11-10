@@ -295,11 +295,11 @@
             "target_url": "https://www.law.go.kr/학칙공단/보수규정",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:복리후생규정:public_2128229#JO0013",
-            "reference_id": "SchlPubRul:보수규정#DOC",
+            "reference_id": "SchlPubRul:보수규정:public_2141161#DOC",
             "target_repo": "SCHLPUBRUL",
             "target_git_path_guess": "보수규정/보수규정.json",
-            "target_candidates": 3,
-            "target_git_path": "보수규정/public_2128339/보수규정.json",
+            "target_candidates": 4,
+            "target_git_path": "보수규정/public_2141161/보수규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
             "target_doc_kind": "공공기관",
@@ -323,7 +323,14 @@
                 "source_repository": "SCHLPUBRUL",
                 "provision_id": "SchlPubRul:보수규정:public_2141161#DOC",
                 "is_current": true,
-                "enforcement_date": "20251216"
+                "enforcement_date": "20261027"
+              },
+              {
+                "git_path": "보수규정/public_2142107/보수규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:보수규정:public_2142107#DOC",
+                "is_current": true,
+                "enforcement_date": "20260428"
               }
             ]
           },
@@ -343,11 +350,11 @@
             "target_url": "https://www.law.go.kr/학칙공단/보수규정/제9조",
             "resolve_method": "render",
             "source_provision_id": "SchlPubRul:복리후생규정:public_2128229#JO0013",
-            "reference_id": "SchlPubRul:보수규정#JO0009",
+            "reference_id": "SchlPubRul:보수규정:public_2141161#JO0009",
             "target_repo": "SCHLPUBRUL",
             "target_git_path_guess": "보수규정/보수규정.json",
-            "target_candidates": 3,
-            "target_git_path": "보수규정/public_2128339/보수규정.json",
+            "target_candidates": 4,
+            "target_git_path": "보수규정/public_2141161/보수규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "public",
             "target_doc_kind": "공공기관",
@@ -371,7 +378,14 @@
                 "source_repository": "SCHLPUBRUL",
                 "provision_id": "SchlPubRul:보수규정:public_2141161#JO0009",
                 "is_current": true,
-                "enforcement_date": "20251216"
+                "enforcement_date": "20261027"
+              },
+              {
+                "git_path": "보수규정/public_2142107/보수규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:보수규정:public_2142107#JO0009",
+                "is_current": true,
+                "enforcement_date": "20260428"
               }
             ]
           }
