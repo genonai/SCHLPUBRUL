@@ -65,7 +65,9 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0001",
             "reference_id": "law:산업집적활성화및공장설립에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/법률/산업집적활성화 및 공장설립에 관한 법률.json"
+            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/법률/산업집적활성화 및 공장설립에 관한 법률.json",
+            "target_git_path": "산업집적활성화 및 공장설립에 관한 법률/법률/산업집적활성화 및 공장설립에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -85,7 +87,9 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0001",
             "reference_id": "law:산업집적활성화및공장설립에관한법률#JO0030",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/법률/산업집적활성화 및 공장설립에 관한 법률.json"
+            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/법률/산업집적활성화 및 공장설립에 관한 법률.json",
+            "target_git_path": "산업집적활성화 및 공장설립에 관한 법률/법률/산업집적활성화 및 공장설립에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -128,7 +132,9 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0003",
             "reference_id": "law:행정절차법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정절차법/법률/행정절차법.json"
+            "target_git_path_guess": "행정절차법/법률/행정절차법.json",
+            "target_git_path": "행정절차법/법률/행정절차법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -148,7 +154,11 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0003",
             "reference_id": "admrul:산업단지관리지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "산업단지관리지침/산업단지관리지침.json"
+            "target_git_path_guess": "산업단지관리지침/산업단지관리지침.json",
+            "target_git_path": "산업단지 관리지침/산업단지 관리지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -168,7 +178,11 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0003",
             "reference_id": "admrul:공장입지기준고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공장입지기준고시/공장입지기준고시.json"
+            "target_git_path_guess": "공장입지기준고시/공장입지기준고시.json",
+            "target_git_path": "공장입지 기준고시/공장입지 기준고시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -200,7 +214,11 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0004",
             "reference_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0021",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산업단지공단) 산업단지 관리업무 처리규정/(한국산업단지공단) 산업단지 관리업무 처리규정.json"
+            "target_git_path_guess": "(한국산업단지공단) 산업단지 관리업무 처리규정/(한국산업단지공단) 산업단지 관리업무 처리규정.json",
+            "target_git_path": "(한국산업단지공단) 산업단지 관리업무 처리규정/(한국산업단지공단) 산업단지 관리업무 처리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -265,7 +283,11 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0008",
             "reference_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산업단지공단) 산업단지 관리업무 처리규정/(한국산업단지공단) 산업단지 관리업무 처리규정.json"
+            "target_git_path_guess": "(한국산업단지공단) 산업단지 관리업무 처리규정/(한국산업단지공단) 산업단지 관리업무 처리규정.json",
+            "target_git_path": "(한국산업단지공단) 산업단지 관리업무 처리규정/(한국산업단지공단) 산업단지 관리업무 처리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -285,7 +307,9 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0008",
             "reference_id": "law:전자정부법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -305,7 +329,9 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0008",
             "reference_id": "law:전자정부법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -325,7 +351,9 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0008",
             "reference_id": "law:전자정부법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -345,7 +373,9 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0008",
             "reference_id": "law:전자정부법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -365,7 +395,11 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0008",
             "reference_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산업단지공단) 산업단지 관리업무 처리규정/(한국산업단지공단) 산업단지 관리업무 처리규정.json"
+            "target_git_path_guess": "(한국산업단지공단) 산업단지 관리업무 처리규정/(한국산업단지공단) 산업단지 관리업무 처리규정.json",
+            "target_git_path": "(한국산업단지공단) 산업단지 관리업무 처리규정/(한국산업단지공단) 산업단지 관리업무 처리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -385,7 +419,11 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0008",
             "reference_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산업단지공단) 산업단지 관리업무 처리규정/(한국산업단지공단) 산업단지 관리업무 처리규정.json"
+            "target_git_path_guess": "(한국산업단지공단) 산업단지 관리업무 처리규정/(한국산업단지공단) 산업단지 관리업무 처리규정.json",
+            "target_git_path": "(한국산업단지공단) 산업단지 관리업무 처리규정/(한국산업단지공단) 산업단지 관리업무 처리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -428,7 +466,11 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0010",
             "reference_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산업단지공단) 산업단지 관리업무 처리규정/(한국산업단지공단) 산업단지 관리업무 처리규정.json"
+            "target_git_path_guess": "(한국산업단지공단) 산업단지 관리업무 처리규정/(한국산업단지공단) 산업단지 관리업무 처리규정.json",
+            "target_git_path": "(한국산업단지공단) 산업단지 관리업무 처리규정/(한국산업단지공단) 산업단지 관리업무 처리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -471,7 +513,9 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0012",
             "reference_id": "law:산업집적활성화및공장설립에관한법률시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/시행규칙/산업집적활성화 및 공장설립에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/시행규칙/산업집적활성화 및 공장설립에 관한 법률 시행규칙.json",
+            "target_git_path": "산업집적활성화 및 공장설립에 관한 법률/시행규칙/산업집적활성화 및 공장설립에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -491,7 +535,9 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0012",
             "reference_id": "law:산업집적활성화및공장설립에관한법률시행규칙#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/시행규칙/산업집적활성화 및 공장설립에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/시행규칙/산업집적활성화 및 공장설립에 관한 법률 시행규칙.json",
+            "target_git_path": "산업집적활성화 및 공장설립에 관한 법률/시행규칙/산업집적활성화 및 공장설립에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -523,7 +569,11 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0013",
             "reference_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산업단지공단) 산업단지 관리업무 처리규정/(한국산업단지공단) 산업단지 관리업무 처리규정.json"
+            "target_git_path_guess": "(한국산업단지공단) 산업단지 관리업무 처리규정/(한국산업단지공단) 산업단지 관리업무 처리규정.json",
+            "target_git_path": "(한국산업단지공단) 산업단지 관리업무 처리규정/(한국산업단지공단) 산업단지 관리업무 처리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "citation",
@@ -543,7 +593,9 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0013",
             "reference_id": "law:산업집적활성화및공장설립에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/시행령/산업집적활성화 및 공장설립에 관한 법률 시행령.json"
+            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/시행령/산업집적활성화 및 공장설립에 관한 법률 시행령.json",
+            "target_git_path": "산업집적활성화 및 공장설립에 관한 법률/시행령/산업집적활성화 및 공장설립에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -563,7 +615,9 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0013",
             "reference_id": "law:산업집적활성화및공장설립에관한법률시행령#JO0048_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/시행령/산업집적활성화 및 공장설립에 관한 법률 시행령.json"
+            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/시행령/산업집적활성화 및 공장설립에 관한 법률 시행령.json",
+            "target_git_path": "산업집적활성화 및 공장설립에 관한 법률/시행령/산업집적활성화 및 공장설립에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -595,7 +649,9 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0014",
             "reference_id": "law:산업집적활성화및공장설립에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/법률/산업집적활성화 및 공장설립에 관한 법률.json"
+            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/법률/산업집적활성화 및 공장설립에 관한 법률.json",
+            "target_git_path": "산업집적활성화 및 공장설립에 관한 법률/법률/산업집적활성화 및 공장설립에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -615,7 +671,9 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0014",
             "reference_id": "law:산업집적활성화및공장설립에관한법률#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/법률/산업집적활성화 및 공장설립에 관한 법률.json"
+            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/법률/산업집적활성화 및 공장설립에 관한 법률.json",
+            "target_git_path": "산업집적활성화 및 공장설립에 관한 법률/법률/산업집적활성화 및 공장설립에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -635,7 +693,11 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0014",
             "reference_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산업단지공단) 산업단지 관리업무 처리규정/(한국산업단지공단) 산업단지 관리업무 처리규정.json"
+            "target_git_path_guess": "(한국산업단지공단) 산업단지 관리업무 처리규정/(한국산업단지공단) 산업단지 관리업무 처리규정.json",
+            "target_git_path": "(한국산업단지공단) 산업단지 관리업무 처리규정/(한국산업단지공단) 산업단지 관리업무 처리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -655,7 +717,11 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0014",
             "reference_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0012",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산업단지공단) 산업단지 관리업무 처리규정/(한국산업단지공단) 산업단지 관리업무 처리규정.json"
+            "target_git_path_guess": "(한국산업단지공단) 산업단지 관리업무 처리규정/(한국산업단지공단) 산업단지 관리업무 처리규정.json",
+            "target_git_path": "(한국산업단지공단) 산업단지 관리업무 처리규정/(한국산업단지공단) 산업단지 관리업무 처리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "internal_ref",
@@ -675,7 +741,11 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0014",
             "reference_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0013",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산업단지공단) 산업단지 관리업무 처리규정/(한국산업단지공단) 산업단지 관리업무 처리규정.json"
+            "target_git_path_guess": "(한국산업단지공단) 산업단지 관리업무 처리규정/(한국산업단지공단) 산업단지 관리업무 처리규정.json",
+            "target_git_path": "(한국산업단지공단) 산업단지 관리업무 처리규정/(한국산업단지공단) 산업단지 관리업무 처리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -707,7 +777,9 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0015",
             "reference_id": "law:산업집적활성화및공장설립에관한법률#JO0039",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/법률/산업집적활성화 및 공장설립에 관한 법률.json"
+            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/법률/산업집적활성화 및 공장설립에 관한 법률.json",
+            "target_git_path": "산업집적활성화 및 공장설립에 관한 법률/법률/산업집적활성화 및 공장설립에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -727,7 +799,9 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0015",
             "reference_id": "law:산업집적활성화및공장설립에관한법률#JO0039_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/법률/산업집적활성화 및 공장설립에 관한 법률.json"
+            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/법률/산업집적활성화 및 공장설립에 관한 법률.json",
+            "target_git_path": "산업집적활성화 및 공장설립에 관한 법률/법률/산업집적활성화 및 공장설립에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -747,7 +821,9 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0015",
             "reference_id": "law:산업집적활성화및공장설립에관한법률#JO0040_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/법률/산업집적활성화 및 공장설립에 관한 법률.json"
+            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/법률/산업집적활성화 및 공장설립에 관한 법률.json",
+            "target_git_path": "산업집적활성화 및 공장설립에 관한 법률/법률/산업집적활성화 및 공장설립에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -767,7 +843,9 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0015",
             "reference_id": "law:산업집적활성화및공장설립에관한법률#JO0041",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/법률/산업집적활성화 및 공장설립에 관한 법률.json"
+            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/법률/산업집적활성화 및 공장설립에 관한 법률.json",
+            "target_git_path": "산업집적활성화 및 공장설립에 관한 법률/법률/산업집적활성화 및 공장설립에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -787,7 +865,9 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0015",
             "reference_id": "law:산업집적활성화및공장설립에관한법률#JO0043",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/법률/산업집적활성화 및 공장설립에 관한 법률.json"
+            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/법률/산업집적활성화 및 공장설립에 관한 법률.json",
+            "target_git_path": "산업집적활성화 및 공장설립에 관한 법률/법률/산업집적활성화 및 공장설립에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -807,7 +887,9 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0015",
             "reference_id": "law:산업집적활성화및공장설립에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/시행령/산업집적활성화 및 공장설립에 관한 법률 시행령.json"
+            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/시행령/산업집적활성화 및 공장설립에 관한 법률 시행령.json",
+            "target_git_path": "산업집적활성화 및 공장설립에 관한 법률/시행령/산업집적활성화 및 공장설립에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -827,7 +909,9 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0015",
             "reference_id": "law:산업집적활성화및공장설립에관한법률시행령#JO0048_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/시행령/산업집적활성화 및 공장설립에 관한 법률 시행령.json"
+            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/시행령/산업집적활성화 및 공장설립에 관한 법률 시행령.json",
+            "target_git_path": "산업집적활성화 및 공장설립에 관한 법률/시행령/산업집적활성화 및 공장설립에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -847,7 +931,9 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0015",
             "reference_id": "law:산업집적활성화및공장설립에관한법률#JO0039_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/법률/산업집적활성화 및 공장설립에 관한 법률.json"
+            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/법률/산업집적활성화 및 공장설립에 관한 법률.json",
+            "target_git_path": "산업집적활성화 및 공장설립에 관한 법률/법률/산업집적활성화 및 공장설립에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -879,7 +965,9 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0016",
             "reference_id": "law:산업집적활성화및공장설립에관한법률#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/법률/산업집적활성화 및 공장설립에 관한 법률.json"
+            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/법률/산업집적활성화 및 공장설립에 관한 법률.json",
+            "target_git_path": "산업집적활성화 및 공장설립에 관한 법률/법률/산업집적활성화 및 공장설립에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -899,7 +987,9 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0016",
             "reference_id": "law:산업집적활성화및공장설립에관한법률시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/시행규칙/산업집적활성화 및 공장설립에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/시행규칙/산업집적활성화 및 공장설립에 관한 법률 시행규칙.json",
+            "target_git_path": "산업집적활성화 및 공장설립에 관한 법률/시행규칙/산업집적활성화 및 공장설립에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -919,7 +1009,9 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0016",
             "reference_id": "law:산업집적활성화및공장설립에관한법률시행규칙#JO0009_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/시행규칙/산업집적활성화 및 공장설립에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/시행규칙/산업집적활성화 및 공장설립에 관한 법률 시행규칙.json",
+            "target_git_path": "산업집적활성화 및 공장설립에 관한 법률/시행규칙/산업집적활성화 및 공장설립에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -951,7 +1043,9 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0017",
             "reference_id": "law:산업집적활성화및공장설립에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/법률/산업집적활성화 및 공장설립에 관한 법률.json"
+            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/법률/산업집적활성화 및 공장설립에 관한 법률.json",
+            "target_git_path": "산업집적활성화 및 공장설립에 관한 법률/법률/산업집적활성화 및 공장설립에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -971,7 +1065,9 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0017",
             "reference_id": "law:산업집적활성화및공장설립에관한법률#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/법률/산업집적활성화 및 공장설립에 관한 법률.json"
+            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/법률/산업집적활성화 및 공장설립에 관한 법률.json",
+            "target_git_path": "산업집적활성화 및 공장설립에 관한 법률/법률/산업집적활성화 및 공장설립에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -991,7 +1087,11 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0017",
             "reference_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0016",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산업단지공단) 산업단지 관리업무 처리규정/(한국산업단지공단) 산업단지 관리업무 처리규정.json"
+            "target_git_path_guess": "(한국산업단지공단) 산업단지 관리업무 처리규정/(한국산업단지공단) 산업단지 관리업무 처리규정.json",
+            "target_git_path": "(한국산업단지공단) 산업단지 관리업무 처리규정/(한국산업단지공단) 산업단지 관리업무 처리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1023,7 +1123,9 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0018",
             "reference_id": "law:산업집적활성화및공장설립에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/시행령/산업집적활성화 및 공장설립에 관한 법률 시행령.json"
+            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/시행령/산업집적활성화 및 공장설립에 관한 법률 시행령.json",
+            "target_git_path": "산업집적활성화 및 공장설립에 관한 법률/시행령/산업집적활성화 및 공장설립에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1043,7 +1145,9 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0018",
             "reference_id": "law:산업집적활성화및공장설립에관한법률시행령#JO0048_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/시행령/산업집적활성화 및 공장설립에 관한 법률 시행령.json"
+            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/시행령/산업집적활성화 및 공장설립에 관한 법률 시행령.json",
+            "target_git_path": "산업집적활성화 및 공장설립에 관한 법률/시행령/산업집적활성화 및 공장설립에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1063,7 +1167,9 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0018",
             "reference_id": "law:산업집적활성화및공장설립에관한법률시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/시행규칙/산업집적활성화 및 공장설립에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/시행규칙/산업집적활성화 및 공장설립에 관한 법률 시행규칙.json",
+            "target_git_path": "산업집적활성화 및 공장설립에 관한 법률/시행규칙/산업집적활성화 및 공장설립에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1083,7 +1189,9 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0018",
             "reference_id": "law:산업집적활성화및공장설립에관한법률시행규칙#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/시행규칙/산업집적활성화 및 공장설립에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/시행규칙/산업집적활성화 및 공장설립에 관한 법률 시행규칙.json",
+            "target_git_path": "산업집적활성화 및 공장설립에 관한 법률/시행규칙/산업집적활성화 및 공장설립에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1103,7 +1211,9 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0018",
             "reference_id": "law:산업집적활성화및공장설립에관한법률시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/시행규칙/산업집적활성화 및 공장설립에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/시행규칙/산업집적활성화 및 공장설립에 관한 법률 시행규칙.json",
+            "target_git_path": "산업집적활성화 및 공장설립에 관한 법률/시행규칙/산업집적활성화 및 공장설립에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1123,7 +1233,9 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0018",
             "reference_id": "law:산업집적활성화및공장설립에관한법률시행규칙#JO0035",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/시행규칙/산업집적활성화 및 공장설립에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/시행규칙/산업집적활성화 및 공장설립에 관한 법률 시행규칙.json",
+            "target_git_path": "산업집적활성화 및 공장설립에 관한 법률/시행규칙/산업집적활성화 및 공장설립에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1143,7 +1255,9 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0018",
             "reference_id": "law:산업집적활성화및공장설립에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/법률/산업집적활성화 및 공장설립에 관한 법률.json"
+            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/법률/산업집적활성화 및 공장설립에 관한 법률.json",
+            "target_git_path": "산업집적활성화 및 공장설립에 관한 법률/법률/산업집적활성화 및 공장설립에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1186,7 +1300,9 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0020",
             "reference_id": "law:산업집적활성화및공장설립에관한법률시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/시행규칙/산업집적활성화 및 공장설립에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/시행규칙/산업집적활성화 및 공장설립에 관한 법률 시행규칙.json",
+            "target_git_path": "산업집적활성화 및 공장설립에 관한 법률/시행규칙/산업집적활성화 및 공장설립에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1206,7 +1322,9 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0020",
             "reference_id": "law:산업집적활성화및공장설립에관한법률시행규칙#JO0039_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/시행규칙/산업집적활성화 및 공장설립에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/시행규칙/산업집적활성화 및 공장설립에 관한 법률 시행규칙.json",
+            "target_git_path": "산업집적활성화 및 공장설립에 관한 법률/시행규칙/산업집적활성화 및 공장설립에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1226,7 +1344,11 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0020",
             "reference_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0008",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산업단지공단) 산업단지 관리업무 처리규정/(한국산업단지공단) 산업단지 관리업무 처리규정.json"
+            "target_git_path_guess": "(한국산업단지공단) 산업단지 관리업무 처리규정/(한국산업단지공단) 산업단지 관리업무 처리규정.json",
+            "target_git_path": "(한국산업단지공단) 산업단지 관리업무 처리규정/(한국산업단지공단) 산업단지 관리업무 처리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1258,7 +1380,9 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0021",
             "reference_id": "law:산업집적활성화및공장설립에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/법률/산업집적활성화 및 공장설립에 관한 법률.json"
+            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/법률/산업집적활성화 및 공장설립에 관한 법률.json",
+            "target_git_path": "산업집적활성화 및 공장설립에 관한 법률/법률/산업집적활성화 및 공장설립에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1278,7 +1402,9 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0021",
             "reference_id": "law:산업집적활성화및공장설립에관한법률#JO0042",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/법률/산업집적활성화 및 공장설립에 관한 법률.json"
+            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/법률/산업집적활성화 및 공장설립에 관한 법률.json",
+            "target_git_path": "산업집적활성화 및 공장설립에 관한 법률/법률/산업집적활성화 및 공장설립에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1310,7 +1436,11 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0021_02",
             "reference_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0018",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산업단지공단) 산업단지 관리업무 처리규정/(한국산업단지공단) 산업단지 관리업무 처리규정.json"
+            "target_git_path_guess": "(한국산업단지공단) 산업단지 관리업무 처리규정/(한국산업단지공단) 산업단지 관리업무 처리규정.json",
+            "target_git_path": "(한국산업단지공단) 산업단지 관리업무 처리규정/(한국산업단지공단) 산업단지 관리업무 처리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1342,7 +1472,11 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0022",
             "reference_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0015",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산업단지공단) 산업단지 관리업무 처리규정/(한국산업단지공단) 산업단지 관리업무 처리규정.json"
+            "target_git_path_guess": "(한국산업단지공단) 산업단지 관리업무 처리규정/(한국산업단지공단) 산업단지 관리업무 처리규정.json",
+            "target_git_path": "(한국산업단지공단) 산업단지 관리업무 처리규정/(한국산업단지공단) 산업단지 관리업무 처리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1495,7 +1629,11 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0034",
             "reference_id": "admrul:산업단지관리지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "산업단지관리지침/산업단지관리지침.json"
+            "target_git_path_guess": "산업단지관리지침/산업단지관리지침.json",
+            "target_git_path": "산업단지 관리지침/산업단지 관리지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "citation",
@@ -1515,7 +1653,11 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0034",
             "reference_id": "admrul:산업단지관리지침#JO0015_02",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "산업단지관리지침/산업단지관리지침.json"
+            "target_git_path_guess": "산업단지관리지침/산업단지관리지침.json",
+            "target_git_path": "산업단지 관리지침/산업단지 관리지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "images": [],
@@ -1547,7 +1689,9 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0035",
             "reference_id": "law:산업집적활성화및공장설립에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/법률/산업집적활성화 및 공장설립에 관한 법률.json"
+            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/법률/산업집적활성화 및 공장설립에 관한 법률.json",
+            "target_git_path": "산업집적활성화 및 공장설립에 관한 법률/법률/산업집적활성화 및 공장설립에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1567,7 +1711,9 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0035",
             "reference_id": "law:산업집적활성화및공장설립에관한법률#JO0038",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/법률/산업집적활성화 및 공장설립에 관한 법률.json"
+            "target_git_path_guess": "산업집적활성화 및 공장설립에 관한 법률/법률/산업집적활성화 및 공장설립에 관한 법률.json",
+            "target_git_path": "산업집적활성화 및 공장설립에 관한 법률/법률/산업집적활성화 및 공장설립에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "images": [],
@@ -1599,7 +1745,9 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0036",
             "reference_id": "law:정부출연연구기관등의설립운영및육성에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "정부출연연구기관 등의 설립ㆍ운영 및 육성에 관한 법률/법률/정부출연연구기관 등의 설립ㆍ운영 및 육성에 관한 법률.json"
+            "target_git_path_guess": "정부출연연구기관 등의 설립ㆍ운영 및 육성에 관한 법률/법률/정부출연연구기관 등의 설립ㆍ운영 및 육성에 관한 법률.json",
+            "target_git_path": "정부출연연구기관 등의 설립ㆍ운영 및 육성에 관한 법률/법률/정부출연연구기관 등의 설립ㆍ운영 및 육성에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1619,7 +1767,9 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0036",
             "reference_id": "law:과학기술분야정부출연연구기관등의설립운영및육성에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "과학기술분야 정부출연연구기관 등의 설립ㆍ운영 및 육성에 관한 법률/법률/과학기술분야 정부출연연구기관 등의 설립ㆍ운영 및 육성에 관한 법률.json"
+            "target_git_path_guess": "과학기술분야 정부출연연구기관 등의 설립ㆍ운영 및 육성에 관한 법률/법률/과학기술분야 정부출연연구기관 등의 설립ㆍ운영 및 육성에 관한 법률.json",
+            "target_git_path": "과학기술분야 정부출연연구기관 등의 설립ㆍ운영 및 육성에 관한 법률/법률/과학기술분야 정부출연연구기관 등의 설립ㆍ운영 및 육성에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1639,7 +1789,9 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0036",
             "reference_id": "law:특정연구기관육성법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "특정연구기관 육성법/법률/특정연구기관 육성법.json"
+            "target_git_path_guess": "특정연구기관 육성법/법률/특정연구기관 육성법.json",
+            "target_git_path": "특정연구기관 육성법/법률/특정연구기관 육성법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1659,7 +1811,9 @@
             "source_provision_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#JO0036",
             "reference_id": "law:고등교육법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고등교육법/법률/고등교육법.json"
+            "target_git_path_guess": "고등교육법/법률/고등교육법.json",
+            "target_git_path": "고등교육법/법률/고등교육법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1684,7 +1838,12 @@
             "target_unit": "BJ0001",
             "reference_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#BJ0001",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산업단지공단) 산업단지 관리업무 처리규정/(한국산업단지공단) 산업단지 관리업무 처리규정.json"
+            "target_git_path_guess": "(한국산업단지공단) 산업단지 관리업무 처리규정/(한국산업단지공단) 산업단지 관리업무 처리규정.json",
+            "target_git_path": "(한국산업단지공단) 산업단지 관리업무 처리규정/(한국산업단지공단) 산업단지 관리업무 처리규정.json",
+            "target_git_file_path": "(한국산업단지공단) 산업단지 관리업무 처리규정/별지/별지1_심의위원 위촉 동의 및 보안각서(제36조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1709,7 +1868,12 @@
             "target_unit": "BJ0002",
             "reference_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#BJ0002",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산업단지공단) 산업단지 관리업무 처리규정/(한국산업단지공단) 산업단지 관리업무 처리규정.json"
+            "target_git_path_guess": "(한국산업단지공단) 산업단지 관리업무 처리규정/(한국산업단지공단) 산업단지 관리업무 처리규정.json",
+            "target_git_path": "(한국산업단지공단) 산업단지 관리업무 처리규정/(한국산업단지공단) 산업단지 관리업무 처리규정.json",
+            "target_git_file_path": "(한국산업단지공단) 산업단지 관리업무 처리규정/별지/별지2_청렴서약서(제36조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1734,7 +1898,12 @@
             "target_unit": "BJ0003",
             "reference_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#BJ0003",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산업단지공단) 산업단지 관리업무 처리규정/(한국산업단지공단) 산업단지 관리업무 처리규정.json"
+            "target_git_path_guess": "(한국산업단지공단) 산업단지 관리업무 처리규정/(한국산업단지공단) 산업단지 관리업무 처리규정.json",
+            "target_git_path": "(한국산업단지공단) 산업단지 관리업무 처리규정/(한국산업단지공단) 산업단지 관리업무 처리규정.json",
+            "target_git_file_path": "(한국산업단지공단) 산업단지 관리업무 처리규정/별지/별지3_개인정보 수집 및 활용 동의서(제36조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1771,7 +1940,12 @@
             "target_unit": "BJ0004",
             "reference_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#BJ0004",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산업단지공단) 산업단지 관리업무 처리규정/(한국산업단지공단) 산업단지 관리업무 처리규정.json"
+            "target_git_path_guess": "(한국산업단지공단) 산업단지 관리업무 처리규정/(한국산업단지공단) 산업단지 관리업무 처리규정.json",
+            "target_git_path": "(한국산업단지공단) 산업단지 관리업무 처리규정/(한국산업단지공단) 산업단지 관리업무 처리규정.json",
+            "target_git_file_path": "(한국산업단지공단) 산업단지 관리업무 처리규정/별지/별지4_기피신청서(제37조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1796,7 +1970,12 @@
             "target_unit": "BJ0005",
             "reference_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#BJ0005",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산업단지공단) 산업단지 관리업무 처리규정/(한국산업단지공단) 산업단지 관리업무 처리규정.json"
+            "target_git_path_guess": "(한국산업단지공단) 산업단지 관리업무 처리규정/(한국산업단지공단) 산업단지 관리업무 처리규정.json",
+            "target_git_path": "(한국산업단지공단) 산업단지 관리업무 처리규정/(한국산업단지공단) 산업단지 관리업무 처리규정.json",
+            "target_git_file_path": "(한국산업단지공단) 산업단지 관리업무 처리규정/별지/별지5_회피신청서(제37조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
@@ -1833,7 +2012,12 @@
             "target_unit": "BJ0006",
             "reference_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#BJ0006",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산업단지공단) 산업단지 관리업무 처리규정/(한국산업단지공단) 산업단지 관리업무 처리규정.json"
+            "target_git_path_guess": "(한국산업단지공단) 산업단지 관리업무 처리규정/(한국산업단지공단) 산업단지 관리업무 처리규정.json",
+            "target_git_path": "(한국산업단지공단) 산업단지 관리업무 처리규정/(한국산업단지공단) 산업단지 관리업무 처리규정.json",
+            "target_git_file_path": "(한국산업단지공단) 산업단지 관리업무 처리규정/별지/별지6_입주심의위원회 심의요청서(제38조 관련).hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "appendix_ref",
@@ -1858,7 +2042,12 @@
             "target_unit": "BJ0007",
             "reference_id": "SchlPubRul:(한국산업단지공단)산업단지관리업무처리규정#BJ0007",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산업단지공단) 산업단지 관리업무 처리규정/(한국산업단지공단) 산업단지 관리업무 처리규정.json"
+            "target_git_path_guess": "(한국산업단지공단) 산업단지 관리업무 처리규정/(한국산업단지공단) 산업단지 관리업무 처리규정.json",
+            "target_git_path": "(한국산업단지공단) 산업단지 관리업무 처리규정/(한국산업단지공단) 산업단지 관리업무 처리규정.json",
+            "target_git_file_path": "(한국산업단지공단) 산업단지 관리업무 처리규정/별지/별지7_기반시설 영향평가서.hwp",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "images": [],
